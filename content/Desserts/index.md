@@ -1,7 +1,12 @@
 ---
 title: Desserts
 ---
+## Cake
+[[Tomato Soup Cake PC| Tomato Soup Cake]]
+## Cheesecake
+[[Sweet Little Cheesecake PC| Sweet Little Cheesecake]]
 ## Cookies
+[[Apple Sauce Cookies PC| Apple Sauce Cookies]]
 [[Butterscotch Caramel Cookies LC| Butterscotch Caramel Cookies]]
 [[Snickerdoodles LC| Snickerdoodles]]
 

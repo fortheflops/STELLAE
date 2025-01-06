@@ -5,7 +5,7 @@ Welcome to STELLAE!
 
 We believe that everyone deserves access to delicious, home-cooked meals, regardless of their culinary expertise. Our mission is simple: to create a comprehensive, user-driven recipe collection that is free from the frustrations of modern recipe blogs.
 
-Let's face it, navigating the world of online recipes can be a real chore. Endless scrolling through personal anecdotes, intrusive ads, and repetitive content often overshadow the actual recipe. We're here to change that.
+Navigating the world of online recipes can be a real chore. Endless scrolling through personal anecdotes, intrusive ads, and repetitive content often overshadow the actual recipe. We're here to change that.
 
 Our Approach:
 
