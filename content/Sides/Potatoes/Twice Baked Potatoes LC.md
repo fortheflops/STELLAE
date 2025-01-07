@@ -37,5 +37,5 @@ ___
 >
 >"Since the chives were so expensive ($1.00 for the little bunch), I froze the rest. Should be OK to use them in the same potato recipe—just thaw them out first"
 
-___![[2024-07-22_172359.jpg]]
-![[Handwritten_2024-07-22_173108.jpg]]
+___![[2024-07-22_172359.webp]]
+![[Handwritten_2024-07-22_173108.webp]]

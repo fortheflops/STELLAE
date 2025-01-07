@@ -44,4 +44,4 @@ ___
 >Not best if frozen
 
 ___
-![[Receipt_2025-01-05_120108.jpg]]
+![[Receipt_2025-01-05_120108.webp]]

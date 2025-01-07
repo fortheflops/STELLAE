@@ -34,4 +34,4 @@ ___
 5. Drop rounded tablespoons of dough 2 inches apart on a lightly greased baking sheet.
 6. Bake 9 to 12 minutes, until lightly browned. Cookies should be almost "no imprint" when touched lightly.
 ___
-![[Handwritten_2025-01-04_144818.jpg]]
+![[Handwritten_2025-01-04_144818.webp]]

@@ -25,4 +25,4 @@ ___
 3. Toss with hot noodles.
 
 ___
-![[Handwritten_2025-01-05_114958.jpg]]
+![[Handwritten_2025-01-05_114958.webp]]

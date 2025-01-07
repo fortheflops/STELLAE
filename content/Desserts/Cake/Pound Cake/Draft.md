@@ -40,4 +40,4 @@ ___
 
 ![[Handwritten_2025-01-05_112544.jpg]]
 
-![[Handwritten_2025-01-05_113129 (2).jpg]]
+![[Handwritten_2025-01-05_113129 (2).webp]]

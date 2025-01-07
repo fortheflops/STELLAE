@@ -31,5 +31,5 @@ ___
 6. Slice eggs—set half of them aside and mix the other half into the mixture from above
 7. Place the rest of the egg slices on top and sprinkle with paprika 
 ___
-![[2024-07-22_164937.jpg]]
-![[Handwritten_2024-07-22_165448.jpg]]
+![[2024-07-22_164937.webp]]
+![[Handwritten_2024-07-22_165448.webp]]
