@@ -29,6 +29,6 @@ ___
 >5 qts.
 
 ___
-![[Handwritten_2025-01-04_131841.jpg]]
+![[Handwritten_2025-01-04_131841.webp]]
 
-![[Handwritten_2025-01-04_134131 (2).jpg]]
+![[Handwritten_2025-01-04_134131 (2).webp]]

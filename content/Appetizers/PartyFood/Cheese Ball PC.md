@@ -28,4 +28,4 @@ ___
 5. Wrap in wax paper.
 
 ___
-![[Handwritten_2025-01-05_151344.jpg]]
+![[Handwritten_2025-01-05_151344.webp|704]]
