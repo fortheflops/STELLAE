@@ -1,6 +1,8 @@
 ---
 title: Entrees
 ---
+## Burgers
+[[Tofu Burgers PC| Tofu Burgers]]
 ## Mac & Cheese
 [[Mac & Cheese PC| Macaroni & Cheese]]
 

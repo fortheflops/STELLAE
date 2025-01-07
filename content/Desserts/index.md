@@ -3,6 +3,9 @@ title: Desserts
 ---
 ## Cake
 [[Tomato Soup Cake PC| Tomato Soup Cake]]
+## Candy
+[[Candied Citrus Fruit PC| Candied Citrus Fruit]]
+[[Molly's Toffee PC| Molly's Toffee]]
 ## Cheesecake
 [[Sweet Little Cheesecake PC| Sweet Little Cheesecake]]
 ## Cookies

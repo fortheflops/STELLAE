@@ -20,3 +20,4 @@ Happy Cooking!
 
 The STELLAE Team
 
+[[content/Appetizers/index |Appetizers]]
