@@ -49,7 +49,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.NavMenu()),
-
+	
   ],
   right: [
     Component.Graph(),
