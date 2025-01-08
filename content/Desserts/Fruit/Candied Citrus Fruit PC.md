@@ -36,6 +36,6 @@ ___
 12. Spread one cup of sugar on paper towels.
 13. Roll Citrus peel in sugar until well coated.
 14. Transfer to wax paper to dry, then store.
-___![[Handwritten_2025-01-07_143534.webp]]
+___![[content/Desserts/Fruit/Assets/Handwritten_2025-01-07_143534.webp]]
 
 ![[Handwritten_2025-01-07_143723 (2).webp]]
