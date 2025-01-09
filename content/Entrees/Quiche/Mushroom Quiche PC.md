@@ -3,7 +3,6 @@ title: Mushroom Quiche
 draft: false
 tags:
   - "#PatsyCollection"
-  - "#Entree"
   - "#Quiche"
 ---
 ## Author

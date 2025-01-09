@@ -2,7 +2,6 @@
 title: Apple Sauce Cookies
 draft: false
 tags:
-  - "#Desserts"
   - "#Cookies"
   - "#PatsyCollection"
 ---

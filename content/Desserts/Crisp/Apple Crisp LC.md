@@ -2,7 +2,6 @@
 title: Apple Crisp
 draft: false
 tags:
-  - "#Desserts"
   - "#TheLoraineCollection"
   - "#Crisp"
 ---

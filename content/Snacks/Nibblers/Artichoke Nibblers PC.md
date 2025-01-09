@@ -2,7 +2,6 @@
 title: Artichoke Nibblers
 draft: false
 tags:
-  - "#Snacks"
   - "#Artichoke"
   - "#PatsyCollection"
 ---

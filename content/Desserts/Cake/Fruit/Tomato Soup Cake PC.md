@@ -2,9 +2,10 @@
 title: Tomato Soup Cake
 draft: false
 tags:
-  - "#Cake"
   - "#PatsyCollection"
   - "#TomatoSoup"
+  - "#Fruit"
+  - "#Cake"
 ---
 ## Author
 Unknown

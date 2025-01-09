@@ -4,7 +4,6 @@ draft: false
 tags:
   - "#PatsyCollection"
   - "#Mint"
-  - "#Desserts"
 ---
 ## Author
 Unknown

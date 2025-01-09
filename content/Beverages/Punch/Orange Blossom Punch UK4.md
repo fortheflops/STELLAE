@@ -2,7 +2,6 @@
 title: Orange Blossom Punch
 draft: false
 tags:
-  - "#Beverages"
   - "#Punch"
   - "#UnknownFour"
 ---

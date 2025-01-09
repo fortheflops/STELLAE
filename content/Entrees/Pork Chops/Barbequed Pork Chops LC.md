@@ -3,7 +3,6 @@ title: Barbequed Pork Chops
 draft: false
 tags:
   - "#Porkchop"
-  - "#Entree"
   - TheLoraineCollection
 ---
 ## Author

@@ -2,7 +2,6 @@
 title: Enchilada Sauce
 draft: false
 tags:
-  - "#Sauces"
   - "#PatsyCollection"
   - "#SalsaRoja"
 ---

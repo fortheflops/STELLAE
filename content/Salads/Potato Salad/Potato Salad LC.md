@@ -2,7 +2,6 @@
 title: Potato Salad
 draft: false
 tags:
-  - "#Salad"
   - "#TheLoraineCollection"
 ---
 ## Author

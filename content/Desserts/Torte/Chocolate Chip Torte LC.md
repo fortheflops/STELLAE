@@ -2,7 +2,6 @@
 title: Chocolate Chip Torte
 draft: false
 tags:
-  - "#Desserts"
   - "#TheLoraineCollection"
   - "#Torte"
 ---

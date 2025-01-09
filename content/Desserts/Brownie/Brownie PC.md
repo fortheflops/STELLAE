@@ -4,7 +4,6 @@ draft: false
 tags:
   - "#PatsyCollection"
   - "#Brownies"
-  - "#Dessert"
 ---
 ## Author
 Unknown

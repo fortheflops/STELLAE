@@ -3,7 +3,6 @@ title: Macaroni & Cheese
 draft: false
 tags:
   - "#MacandCheese"
-  - "#Entree"
   - "#PatsyCollection"
 ---
 ## Author

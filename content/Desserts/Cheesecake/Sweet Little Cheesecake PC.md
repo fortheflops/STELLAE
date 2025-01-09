@@ -2,7 +2,6 @@
 title: Sweet Little Cheesecake
 draft: false
 tags:
-  - "#Desserts"
   - "#PatsyCollection"
   - "#Cheesecake"
 ---

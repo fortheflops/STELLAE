@@ -2,7 +2,6 @@
 title: Twice Baked Potatoes
 draft: false
 tags:
-  - "#Sides"
   - TheLoraineCollection
   - "#Potato"
 ---

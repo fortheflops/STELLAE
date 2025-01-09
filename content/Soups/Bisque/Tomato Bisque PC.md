@@ -4,7 +4,6 @@ draft: false
 tags:
   - "#PatsyCollection"
   - "#TomatoBisque"
-  - "#Soup"
 ---
 ## Author
 Unknown

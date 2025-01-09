@@ -4,7 +4,6 @@ draft: false
 tags:
   - "#PatsyCollection"
   - "#Burger"
-  - "#Entree"
 ---
 ## Author
 Unknown

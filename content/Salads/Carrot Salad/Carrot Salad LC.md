@@ -2,7 +2,6 @@
 title: Carrot Salad
 draft: false
 tags:
-  - "#Salad"
   - "#TheLoraineCollection"
 ---
 ## Author

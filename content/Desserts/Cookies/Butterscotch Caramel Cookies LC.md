@@ -2,7 +2,6 @@
 title: Butterscotch Caramel Cookies
 draft: false
 tags:
-  - "#Desserts"
   - "#TheLoraineCollection"
   - "#Cookies"
 ---

@@ -3,7 +3,6 @@ title: Cheese Ball
 draft: false
 tags:
   - "#PatsyCollection"
-  - "#Appetizer"
   - "#PartyFood"
 ---
 ## Author

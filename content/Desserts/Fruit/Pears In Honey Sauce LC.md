@@ -2,7 +2,6 @@
 title: Pears In Honey Sauce
 draft: false
 tags:
-  - "#Desserts"
   - "#TheLoraineCollection"
   - "#Fruit"
 ---

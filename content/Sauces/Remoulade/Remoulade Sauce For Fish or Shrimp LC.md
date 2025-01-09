@@ -2,7 +2,6 @@
 title: Remoulade Sauce For Fish or Shrimp
 draft: false
 tags:
-  - "#Sauces"
   - "#Remoulade"
   - TheLoraineCollection
 ---

@@ -7,3 +7,6 @@ title: Salads
 [[Carrot Salad LC| Carrot Salad]]
 ## Potato Salad
 [[Potato Salad LC| Potato Salad]]
+
+## Rice Salad
+[[Rice Salad PC| Rice Salad]]

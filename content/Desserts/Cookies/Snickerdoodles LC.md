@@ -2,7 +2,6 @@
 title: Snickerdoodles
 draft: false
 tags:
-  - "#Desserts"
   - "#TheLoraineCollection"
   - "#Cookies"
 ---

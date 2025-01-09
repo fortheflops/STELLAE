@@ -3,8 +3,8 @@ title: Tamale Pie
 draft: false
 tags:
   - "#PatsyCollection"
-  - "#Entree"
   - "#Tamale"
+  - "#Pie"
 ---
 ## Author
 Unknown
