@@ -2,8 +2,8 @@
 title: Three Bean Salad
 draft: false
 tags:
-  - "#Bean"
   - "#PatsyCollection"
+  - "#BeanSalad"
 ---
 ## Author
 Unknown

@@ -28,5 +28,7 @@ title: Desserts
 ## Fruit
 [[Pears In Honey Sauce LC | Pears in Honey Sauce]]
 [[Candied Citrus Fruit PC| Candied Citrus Fruit]]
+## Soups
+[[Spiced Rhubarb Soup PC| Spiced Rhubarb Soup]]
 ## Torte
 [[Chocolate Chip Torte LC | Chocolate Chip Torte]]
