@@ -5,7 +5,7 @@ STELLAE is a website for people who love food and its history. We find old recip
 
 **Here's what makes STELLAE special:**
 
-- **Recipes first:** We keep things simple. Our recipes are clear and easy to follow, with beautiful pictures to inspire you.
+- **Recipes first:** We keep things simple. Our recipes are clear and easy to follow.
 - **Join the fun:** We want you to be part of our community! Cook our recipes, make them your own, and share photos of your creations. We'll feature the best ones on our website.
 - **Keeping traditions alive:** Old recipes are like treasures from the past. We find them in old cookbooks and family recipe boxes and share them online so they won't be forgotten.
 - **Cooking for everyone:** Whether you're a beginner or an expert cook, there's something for you at STELLAE. We have recipes for different diets and skill levels.
@@ -21,4 +21,4 @@ ___
    <a href="/Appetizers">Appetizers</a> <a href="/Beverages">Beverages</a> <a href="/Bread">Bread</a> <a href="/Desserts">Desserts</a> <a href="/Entrees">Entrees</a> <a href="/Salads">Salads</a> <a href="/Sauces">Sauces</a> <a href="/Sides">Sides</a> <a href="/Snacks">Snacks</a> <a href="/Soups">Soups</a> <a href="/Other">Other</a>
 
 ___
-<a href="/Home">Q & A</a>
+[[Q & A]] 
