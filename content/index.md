@@ -1,24 +1,24 @@
 ---
 title: Real Recipes, Real People
 ---
-Hey, babes! Welcome to STELLAE, the ultimate recipe hub for all you food lovers out there!
+STELLAE is a website for people who love food and its history. We find old recipes and share them in a way that's easy to understand. We want everyone to feel like they can cook these amazing dishes, no matter their skill level.
 
-Navigating the world of online recipes can be a real chore. Endless scrolling through personal anecdotes, intrusive ads, and repetitive content often overshadow the actual recipe. We're here to change that.
+**Here's what makes STELLAE special:**
 
-Our Approach:
+- **Recipes first:** We keep things simple. Our recipes are clear and easy to follow, with beautiful pictures to inspire you.
+- **Join the fun:** We want you to be part of our community! Cook our recipes, make them your own, and share photos of your creations. We'll feature the best ones on our website.
+- **Keeping traditions alive:** Old recipes are like treasures from the past. We find them in old cookbooks and family recipe boxes and share them online so they won't be forgotten.
+- **Cooking for everyone:** Whether you're a beginner or an expert cook, there's something for you at STELLAE. We have recipes for different diets and skill levels.
 
-- **Recipes First:** We prioritize the recipe itself, providing clear, concise instructions and high-quality images without the fluff.
-- **Community-Driven:** We encourage you, our valued users, to become active participants. Recreate our recipes, add your personal touch, and share your culinary creations with us. The best submissions will be featured on our website, ensuring a diverse and ever-evolving recipe collection.
-- **Treasured Traditions:** We believe in the power of shared culinary heritage. That's why we're dedicated to sourcing and digitally preserving recipes from vintage cookbooks and cherished family recipe cards.
-- **Accessible to All:** We are committed to making cooking accessible to everyone. Our recipes cater to a wide range of dietary needs and skill levels, ensuring there's something for everyone.
+**Explore our collection:**
 
-Join us on this culinary journey. Together, let's build a recipe resource that is truly by the people, for the people.
+We're always adding new recipes to our website. From simple, everyday meals to fancy dishes from long ago, we have something for everyone.
 
-Happy Cooking!
+**Become a part of STELLAE:**
 
-The STELLAE Team
+Join us on this food journey! Try our recipes, share your cooking adventures, and be part of our growing community. Let's celebrate the joy of cooking and the magic of old recipes together.
 ___
    <a href="/Appetizers">Appetizers</a> <a href="/Beverages">Beverages</a> <a href="/Bread">Bread</a> <a href="/Desserts">Desserts</a> <a href="/Entrees">Entrees</a> <a href="/Salads">Salads</a> <a href="/Sauces">Sauces</a> <a href="/Sides">Sides</a> <a href="/Snacks">Snacks</a> <a href="/Soups">Soups</a> <a href="/Other">Other</a>
 
 ___
-<a href="/Q & A">Q & A</a>
+<a href="/Home">Q & A</a>
