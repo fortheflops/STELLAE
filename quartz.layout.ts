@@ -7,16 +7,16 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
 afterBody: [
   Component.Comments({
-    provider: 'giscus',
+    provider: "giscus",
     options: {
       // from data-repo
-      repo: 'fortheflops/STELLAE',
+      repo: "fortheflops/STELLAE",
       // from data-repo-id
-      repoId: 'R_kgDONT3VDQ',
+      repoId: "R_kgDONT3VDQ",
       // from data-category
-      category: 'Announcements',
+      category: "Announcements",
       // from data-category-id
-      categoryId: 'DIC_kwDONT3VDc4Cl77q',
+      categoryId: "DIC_kwDONT3VDc4Cl77q",
     }
   }),
 ],
