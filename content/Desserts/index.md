@@ -4,6 +4,8 @@ title: Desserts
 ## Brownies
 [[Brownie PC| Brownies]]
 ## Cake
+### Alcohol 
+[[Bacardi Rum Cake PC| Bacardi Rum Cake]]
 ### Fruit Based Cakes
 [[Tomato Soup Cake PC| Tomato Soup Cake]]
 [[Prune Cake PC| Prune Cake]]
@@ -15,6 +17,7 @@ title: Desserts
 ## Cookies
 [[Apple Sauce Cookies PC| Apple Sauce Cookies]]
 [[Butterscotch Caramel Cookies LC| Butterscotch Caramel Cookies]]
+[[Old Fashioned Butter Cookies PC| Old Fashioned Butter Cookies]]
 [[Roll Out Cookies PC| Roll Out Cookies]]
 [[Snickerdoodles LC| Snickerdoodles]]
 ## Cream Filling

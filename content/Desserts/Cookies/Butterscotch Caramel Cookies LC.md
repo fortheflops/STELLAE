@@ -3,7 +3,6 @@ title: Butterscotch Caramel Cookies
 draft: false
 tags:
   - "#TheLoraineCollection"
-  - "#Cookies"
 ---
 ## Author
 Unknown

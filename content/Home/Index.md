@@ -2,5 +2,4 @@
 title: Q & A
 ---
 
-##  Old Recipe Collections T
-
+##  Old recipe collections usually contain newspaper/blog clippings, why are they not included here? 

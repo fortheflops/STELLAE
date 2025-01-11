@@ -3,7 +3,6 @@ title: Snickerdoodles
 draft: false
 tags:
   - "#TheLoraineCollection"
-  - "#Cookies"
 ---
 ## Author
 Hellen

@@ -1,9 +1,7 @@
 ---
 title: Real Recipes, Real People
 ---
-Welcome to STELLAE!
-
-We believe that everyone deserves access to delicious, home-cooked meals, regardless of their culinary expertise. Our mission is simple: to create a comprehensive, user-driven recipe collection that is free from the frustrations of modern recipe blogs.
+Hey, babes! Welcome to STELLAE, the ultimate recipe hub for all you food lovers out there!
 
 Navigating the world of online recipes can be a real chore. Endless scrolling through personal anecdotes, intrusive ads, and repetitive content often overshadow the actual recipe. We're here to change that.
 
@@ -20,7 +18,7 @@ Happy Cooking!
 
 The STELLAE Team
 ___
-   <a href="/Appetizers">Appetizers</a> <a href="/Beverages">Beverages</a> <a href="/Bread">Bread</a><a href="/Desserts">Desserts</a> <a href="/Entrees">Entrees</a> <a href="/Salads">Salads</a> <a href="/Sauces">Sauces</a> <a href="/Sides">Sides</a> <a href="/Snacks">Snacks</a> <a href="/Soups">Soups</a> <a href="/Other">Other</a>
+   <a href="/Appetizers">Appetizers</a> <a href="/Beverages">Beverages</a> <a href="/Bread">Bread</a> <a href="/Desserts">Desserts</a> <a href="/Entrees">Entrees</a> <a href="/Salads">Salads</a> <a href="/Sauces">Sauces</a> <a href="/Sides">Sides</a> <a href="/Snacks">Snacks</a> <a href="/Soups">Soups</a> <a href="/Other">Other</a>
 
 ___
-[[content/Home/Index|Q&A]]
+<a href="/Q & A">Q & A</a>

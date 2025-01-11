@@ -3,7 +3,6 @@ title: Roll Out Cookies
 draft: false
 tags:
   - "#PatsyCollection"
-  - "#Cookies"
 ---
 ## Author
 Unknown

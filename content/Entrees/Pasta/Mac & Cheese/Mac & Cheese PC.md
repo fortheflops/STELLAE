@@ -30,4 +30,4 @@ ___
 5. Add the remaining 1 cup of cheddar cheese.
 6. Bake for 15 more minutes.
 ___
-![[Handwritten_2025-01-04_142143.webp]]
+![[content/Entrees/Pasta/Mac & Cheese/Assets/Handwritten_2025-01-04_142143.webp]]
