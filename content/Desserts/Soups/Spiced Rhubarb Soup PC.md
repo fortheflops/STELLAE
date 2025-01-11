@@ -3,7 +3,6 @@ title: Spiced Rhubarb Soup
 draft: false
 tags:
   - "#PatsyCollection"
-  - "#Dessert"
   - "#Rhubarb"
 ---
 ## Author
