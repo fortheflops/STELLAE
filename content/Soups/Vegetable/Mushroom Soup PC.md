@@ -3,7 +3,7 @@ title: Mushroom Soup
 draft: false
 tags:
   - "#PatsyCollection"
-  - "#Mushroom"
+  - "#Vegetable"
 ---
 ## Author
 Pat Keene

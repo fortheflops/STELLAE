@@ -9,9 +9,13 @@ title: Desserts
 ### Fruit Based Cakes
 [[Tomato Soup Cake PC| Tomato Soup Cake]]
 [[Prune Cake PC| Prune Cake]]
+### Shortcake
+[[Strawberry Shortcake PC| Strawberry Shortcake]]
 ## Candy
 [[Candy Fours PC|Candy Fours]]
 [[Molly's Toffee PC| Molly's Toffee]]
+## Casserole
+[[Apricot Casserole PC| Apricot Casserole]]
 ## Cheesecake
 [[Sweet Little Cheesecake PC| Sweet Little Cheesecake]]
 ## Cookies
