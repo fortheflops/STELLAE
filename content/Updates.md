@@ -1,23 +1,20 @@
 ---
-
-kanban-plugin: board
-
+title: Updates
 ---
 
-## Long Term Goals
+| Long Term          | To Do     |
+| ------------------ | --------- |
+| Video form content | Unknown 1 |
+| [[Monetization]]?  | Unknown 2 |
+|                    | Unknown 3 |
 
-- [ ] Video form content
+| In Progress        |
+| ------------------ |
+| Patsy Collection   |
+| Loraine Collection |
+|                    |
+| Unknown 4          |
 
-
-## 
-
-- [ ] Patsy Collection
-
-
-
-
-%% kanban:settings
-```
-{"kanban-plugin":"board","list-collapse":[false,false]}
-```
-%%
+| Done |
+| ---- |
+|      |
