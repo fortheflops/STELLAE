@@ -14,6 +14,7 @@ title: Desserts
 ## Candy
 [[Candy Fours PC|Candy Fours]]
 [[Molly's Toffee PC| Molly's Toffee]]
+[[Candied Walnuts PC| Candied Walnuts]]
 ## Casserole
 [[Apricot Casserole PC| Apricot Casserole]]
 ## Cheesecake
@@ -28,6 +29,7 @@ title: Desserts
 [[Mint Cream Filling PC| Mint Cream Filling]]
 ## Crisp
 [[Apple Crisp LC | Apple Crisp]]
+[[Apple Crisp PC| Apple Crisp]]
 ## Crumble
 [[Apple Crumble PC| Apple Crumble]]
 ## Custard
@@ -35,6 +37,8 @@ title: Desserts
 ## Fruit
 [[Pears In Honey Sauce LC | Pears in Honey Sauce]]
 [[Candied Citrus Fruit PC| Candied Citrus Fruit]]
+## Pie
+[[Avocado Rum Macadamia Nut Chiffon Pie PC| Avocado Rum Macadamia Nut Chiffon Pie]]
 ## Soups
 [[Spiced Rhubarb Soup PC| Spiced Rhubarb Soup]]
 ## Torte

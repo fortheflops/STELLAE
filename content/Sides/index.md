@@ -1,6 +1,8 @@
 ---
 title: Sides
 ---
+## Beans
+[[Pinto Beans PC| Pinto Beans]]
 ## Noodles
 [[Noodles Romanoff PC| Noodles Romanoff]]
 ## Vegetable
