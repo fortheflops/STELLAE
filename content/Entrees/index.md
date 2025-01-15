@@ -5,7 +5,10 @@ title: Entrees
 [[Tofu Burgers PC| Tofu Burgers]]
 ## Casserole
 [[Chili Relleno Casserole PC| Chili Relleno Casserole]]
+[[Eggplant Delight UK2| Eggplant Delight]]
 [[Spinach, Broccoli, and Asparagus Casserole PC| Spinach, Broccoli, and Asparagus Casserole]]
+## Chicken
+[[Lemon Barbequed Chicken UK2| Lemon Barbequed Chicken]]
 ## Pasta
 [[Pasta With Vinaigrette PC| Pasta With Vinaigrette]]
 ### Mac & Cheese

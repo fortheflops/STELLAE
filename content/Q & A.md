@@ -9,4 +9,4 @@ We're very careful about respecting copyright laws. Newspaper clippings and blog
 
 ## I see a couple of repeat recipes. What will happen as you add more and more recipes with the same name? 
 
-  Once a recipe, like apple Crisp, reaches a critical mass—let's say five variations—I'll create a dedicated section exploring its history. These recipes will be grouped in this section with their added collection name. Apple Crisp -> Apple Crips PC
+Once a recipe, like apple Crisp, reaches a certain number of variations—let's say five—I'll create a dedicated section exploring its history. These recipes will be grouped in this section with their added collection name. Apple Crisp -> Apple Crips PC

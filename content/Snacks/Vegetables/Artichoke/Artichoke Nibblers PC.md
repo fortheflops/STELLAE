@@ -4,6 +4,7 @@ draft: false
 tags:
   - "#Artichoke"
   - "#PatsyCollection"
+  - "#Vegetable"
 ---
 ## Author
 Unknown
@@ -32,4 +33,4 @@ ___
 
 ___
 
-![[Handwritten_2025-01-04_151911.webp]]
+![[content/Snacks/Vegetables/Artichoke/Assets/Handwritten_2025-01-04_151911.webp]]

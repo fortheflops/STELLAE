@@ -3,7 +3,8 @@ title: Sauces
 ---
 ## Dip
 [[Crab Cheese Dip LC |Crab Cheese Dip]]
-
+### Cheese Dip
+[[Fondue PC| Fondue]]
 ## Pasta Sauce
 [[Cheese Pasta Sauce PC| Cheese Pasta Sauce]]
 ## Remoulade
