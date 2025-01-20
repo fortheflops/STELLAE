@@ -4,6 +4,8 @@ title: Sides
 ## Beans
 [[Pinto Beans PC| Pinto Beans]]
 [[Spanish Beans UK2| Spanish Beans]]
+## Fried
+[[Hush Puppies UK2| Hush Puppies]]
 ## Noodles
 [[Noodles Romanoff PC| Noodles Romanoff]]
 ## Vegetable

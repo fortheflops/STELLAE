@@ -11,6 +11,8 @@ title: Desserts
 [[Prune Cake PC| Prune Cake]]
 ### Shortcake
 [[Strawberry Shortcake PC| Strawberry Shortcake]]
+### Tea Cake
+[[Lemon Tea Cakes UK2| Lemon Tea Cakes]]
 ## Candy
 [[Candy Fours PC|Candy Fours]]
 [[Molly's Toffee PC| Molly's Toffee]]
@@ -37,9 +39,20 @@ title: Desserts
 ## Fruit
 [[Pears In Honey Sauce LC | Pears in Honey Sauce]]
 [[Candied Citrus Fruit PC| Candied Citrus Fruit]]
+## Jubilee
+[[Cherries Flambé UK2| Cherries Flambé]]
 ## Pie
 [[Avocado Rum Macadamia Nut Chiffon Pie PC| Avocado Rum Macadamia Nut Chiffon Pie]]
+[[Cranberry Pie UK2| Cranberry Pie]]
+## Pudding
+[[Cherry Upside-Down Pudding UK2| Cherry Upside-Down Pudding]]
+### Bread Pudding
+[[Bread Pudding UK2| Bread Pudding]]
 ## Soups
 [[Spiced Rhubarb Soup PC| Spiced Rhubarb Soup]]
 ## Torte
 [[Chocolate Chip Torte LC | Chocolate Chip Torte]]
+## Trifle
+[[Lois' Strawberry Angel Food Dessert UK2| Lois' Strawberry Angel Food Dessert]]
+## Yum Yum
+[[Blueberry Yum Yum UK2| Blueberry Yum Yum]]

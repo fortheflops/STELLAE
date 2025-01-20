@@ -9,6 +9,9 @@ title: Entrees
 [[Spinach, Broccoli, and Asparagus Casserole PC| Spinach, Broccoli, and Asparagus Casserole]]
 ## Chicken
 [[Lemon Barbequed Chicken UK2| Lemon Barbequed Chicken]]
+## Crab
+[[Crab Voltaire UK2| Crab Voltaire]]
+[[Creamy Crab UK2| Creamy Crab]]
 ## Pasta
 [[Pasta With Vinaigrette PC| Pasta With Vinaigrette]]
 ### Mac & Cheese

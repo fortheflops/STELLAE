@@ -39,6 +39,4 @@ ___
 
 ___
 
-![[Handwritten_2025-01-11_111706.webp]]
-
-![[Handwritten_2025-01-11_111810 (2).webp]]
+![[Handwritten_2025-01-11_111706.webp|320]]![[Handwritten_2025-01-11_111810 (2).webp|317]]
