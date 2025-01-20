@@ -11,7 +11,7 @@ MEZZALUNA is a website for people who love food and its history. We find old rec
 - **Recipes first:** We keep things simple. Our recipes are clear and easy to follow.
 - **Join the fun:** We want you to be part of our community! Cook our recipes, make them your own, and share photos of your creations. We'll feature the best ones on our website.
 - **Keeping traditions alive:** Old recipes are like treasures from the past. We find them in old cookbooks and family recipe boxes and share them online so they won't be forgotten.
-- **Cooking for everyone:** Whether you're a beginner or an expert cook, there's something for you at STELLAE. We have recipes for different diets and skill levels.
+- **Cooking for everyone:** Whether you're a beginner or an expert cook, there's something for you at MEZZALUNA. We have recipes for different diets and skill levels.
 
 **Explore our collection:**
 
