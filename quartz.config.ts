@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "mezzaluna",
+    pageTitle: "MEZZALUNA",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        siteTitle: "Cinzel",
+        siteTitle: "Quattrocento",
         header: "Quattrocento",
         body: "Lora",
         code: "Quattrocento Sans",

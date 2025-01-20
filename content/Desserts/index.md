@@ -13,6 +13,8 @@ title: Desserts
 [[Strawberry Shortcake PC| Strawberry Shortcake]]
 ### Tea Cake
 [[Lemon Tea Cakes UK2| Lemon Tea Cakes]]
+## Torte
+[[Chocolate Chip Torte LC | Chocolate Chip Torte]]
 ## Candy
 [[Candy Fours PC|Candy Fours]]
 [[Molly's Toffee PC| Molly's Toffee]]
@@ -50,8 +52,6 @@ title: Desserts
 [[Bread Pudding UK2| Bread Pudding]]
 ## Soups
 [[Spiced Rhubarb Soup PC| Spiced Rhubarb Soup]]
-## Torte
-[[Chocolate Chip Torte LC | Chocolate Chip Torte]]
 ## Trifle
 [[Lois' Strawberry Angel Food Dessert UK2| Lois' Strawberry Angel Food Dessert]]
 ## Yum Yum
