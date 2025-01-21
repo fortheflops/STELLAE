@@ -16,11 +16,11 @@ title: Updates
 |                       | Unknown 10           |
 |                       | Alison Collection AC |
 
-| In Progress           |
-| --------------------- |
-| Loraine Collection LC |
-| Unknown 4 UK4         |
-| Unknown 2 UK2         |
+| In Progress        | TAG                   |     |
+| ------------------ | --------------------- | --- |
+| Loraine Collection | #TheLoraineCollection | LC  |
+| Unknown 4          | #UnknownFour          | UK4 |
+| Unknown 2          | #UnknownTwo           | UK2 |
 
 
 | Done                |

@@ -33,5 +33,5 @@ ___
 7. Top with chocolate chips, walnuts and remaining sugar
 8. Bake at 350°$^{\text{F}}$ for 25-30 minutes
 ___
-![[/Desserts/Torte/Assets/Handwritten_2024-07-07_135905.jpg]]
-![[/Desserts/Torte/Assets/Handwritten_2024-07-07_140508 (2).jpg]]
+![[content/Desserts/Cake/Torte/Assets/Handwritten_2024-07-07_135905.webp]]
+![[Handwritten_2024-07-07_140508 (2).webp]]
