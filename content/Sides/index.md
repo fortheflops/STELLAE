@@ -16,6 +16,7 @@ title: Sides
 [[Dijon Carrots PC| Dijon Carrots]]
 ### Casserole
 [[Corn Casserole PC| Corn Casserole]]
+[[Corn Pudding UK2| Corn Pudding]]
 ### Potatoes
 [[Twice Baked Potatoes LC| Twice Baked Potatoes]]
 ### Spinach

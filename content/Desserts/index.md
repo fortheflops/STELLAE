@@ -47,6 +47,7 @@ title: Desserts
 ## Pie
 [[Avocado Rum Macadamia Nut Chiffon Pie PC| Avocado Rum Macadamia Nut Chiffon Pie]]
 [[Cranberry Pie UK2| Cranberry Pie]]
+[[Pineapple Millionaire Pie UK2| Pineapple Millionaire Pie]]
 [[Sugarless Apple Pie UK2| Sugarless Apple Pie]]
 ## Pudding
 [[Cherry Upside-Down Pudding UK2| Cherry Upside-Down Pudding]]

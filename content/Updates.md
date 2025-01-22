@@ -23,6 +23,6 @@ title: Updates
 | Unknown 2          | #UnknownTwo           | UK2 |
 
 
-| Done                |
-| ------------------- |
-| Patsy Collection PC |
+| Done             | TAG               |     |
+| ---------------- | ----------------- | --- |
+| Patsy Collection | #PatsyCollection  | PC  |
