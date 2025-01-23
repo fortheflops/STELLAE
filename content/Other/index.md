@@ -4,6 +4,8 @@ title: Other
 
 ## Condiments
 [[Chow Chow UK2| Chow Chow]]
+## Dumplings
+[[Dumplings UK2| Dumplings]]
 ## Hello?
 [[Potato and Mushroom Charlotte PC| Potato and Mushroom Charlotte]]
 ## Pickles
