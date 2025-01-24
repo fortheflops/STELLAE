@@ -27,6 +27,7 @@ title: Desserts
 [[Apple Sauce Cookies PC| Apple Sauce Cookies]]
 [[Butterscotch Caramel Cookies LC| Butterscotch Caramel Cookies]]
 [[Old Fashioned Butter Cookies PC| Old Fashioned Butter Cookies]]
+[[Pineapple Oatmeal Cookies UK2| Pineapple Oatmeal Cookies]]
 [[Roll Out Cookies PC| Roll Out Cookies]]
 [[Snickerdoodles LC| Snickerdoodles]]
 ## Cream Filling
@@ -42,6 +43,8 @@ title: Desserts
 ## Fruit
 [[Pears In Honey Sauce LC | Pears in Honey Sauce]]
 [[Candied Citrus Fruit PC| Candied Citrus Fruit]]
+## Fudge
+[[Marshmallow Fudge UK2| Marshmallow Fudge]]
 ## Jubilee
 [[Cherries Flambé UK2| Cherries Flambé]]
 ## Pie
