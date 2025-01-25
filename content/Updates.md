@@ -2,19 +2,19 @@
 title: Updates
 ---
 
-| Long Term             | To Do                |
-| --------------------- | -------------------- |
-| Video form content    | Unknown 1            |
-| [[Monetization]]?     | Unknown 3            |
-| Recreation of Recipes | Comments             |
-|                       | Unknown 5            |
-|                       | Unknown 6            |
-|                       | Unknown 7            |
-|                       | Unknown 8            |
-|                       | Unknown 9            |
-|                       | Diane Collection DC  |
-|                       | Unknown 10           |
-|                       | Alison Collection AC |
+| Long Term              | To Do                |
+| ---------------------- | -------------------- |
+| Video form content     | Unknown 1            |
+| [[Monetization]]?      | Unknown 3            |
+| Recreation of Recipes  | Comments             |
+| List Tag in Abc. Order | Unknown 5            |
+|                        | Unknown 6            |
+|                        | Unknown 7            |
+|                        | Unknown 8            |
+|                        | Unknown 9            |
+|                        | Diane Collection DC  |
+|                        | Unknown 10           |
+|                        | Alison Collection AC |
 
 | In Progress        | TAG                   |     |
 | ------------------ | --------------------- | --- |

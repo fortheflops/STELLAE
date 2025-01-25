@@ -1,14 +1,21 @@
 ---
 title: Desserts
 ---
+## Bars
+[[Chocolate Coconut Bars UK2| Chocolate Coconut Bars]]
 ## Brownies
 [[Brownie PC| Brownies]]
 ## Cake
 ### Alcohol 
 [[Bacardi Rum Cake PC| Bacardi Rum Cake]]
 ### Fruit Based Cakes
+[[Pineapple Cake UK2| Pineapple Cake]]
 [[Tomato Soup Cake PC| Tomato Soup Cake]]
 [[Prune Cake PC| Prune Cake]]
+#### Apple Sauce Cake
+[[Date-Apple Sauce Cake UK2| Date-Apple Sauce Cake]]
+#### Banana
+[[Banana Split Cake UK2| Banana Split Cake]]
 ### Shortcake
 [[Strawberry Shortcake PC| Strawberry Shortcake]]
 ### Tea Cake
@@ -25,6 +32,7 @@ title: Desserts
 [[Sweet Little Cheesecake PC| Sweet Little Cheesecake]]
 ## Cookies
 [[Apple Sauce Cookies PC| Apple Sauce Cookies]]
+[[Butter Cookies UK2| Butter Cookies]]
 [[Butterscotch Caramel Cookies LC| Butterscotch Caramel Cookies]]
 [[Old Fashioned Butter Cookies PC| Old Fashioned Butter Cookies]]
 [[Pineapple Oatmeal Cookies UK2| Pineapple Oatmeal Cookies]]

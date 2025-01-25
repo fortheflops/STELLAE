@@ -16,7 +16,7 @@ ___
 
 ### Start Your Culinary Adventure
 Our collection is always growing, featuring everything from quick weeknight meals to elaborate dishes from centuries past. There's always something new to discover.
-## Become Part of the MEZZALUNA Story
+### Become Part of the MEZZALUNA Story
 
 More than just recipes, MEZZALUNA is about connection. We invite you to join our community of passionate home cooks, history buffs, and food enthusiasts. Try our recipes, share your photos and stories, and connect with others who love exploring the culinary past as much as you do. Together, we're keeping these delicious traditions alive, one dish at a time.
 ___
