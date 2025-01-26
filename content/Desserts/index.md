@@ -18,6 +18,7 @@ title: Desserts
 [[Banana Split Cake UK2| Banana Split Cake]]
 ### Shortcake
 [[Strawberry Shortcake PC| Strawberry Shortcake]]
+[[Old Fashioned Strawberry Shortcake UK2| Old Fashioned Strawberry Shortcake]]
 ### Tea Cake
 [[Lemon Tea Cakes UK2| Lemon Tea Cakes]]
 ## Torte
@@ -34,7 +35,11 @@ title: Desserts
 [[Apple Sauce Cookies PC| Apple Sauce Cookies]]
 [[Butter Cookies UK2| Butter Cookies]]
 [[Butterscotch Caramel Cookies LC| Butterscotch Caramel Cookies]]
+[[Coconut Oatmeal Cookies UK2| Coconut Oatmeal Cookies]]
+[[Lemon-Ginger Cookies UK2| Lemon-Ginger Cookies]]
+[[Lemonade Cookies UK2| Lemonade Cookies]]
 [[Old Fashioned Butter Cookies PC| Old Fashioned Butter Cookies]]
+[[Orange-Spice Cookies UK2| Orange-Spice Cookies]]
 [[Pineapple Oatmeal Cookies UK2| Pineapple Oatmeal Cookies]]
 [[Roll Out Cookies PC| Roll Out Cookies]]
 [[Snickerdoodles LC| Snickerdoodles]]
