@@ -5,6 +5,7 @@ title: Desserts
 [[Chocolate Coconut Bars UK2| Chocolate Coconut Bars]]
 ## Brownies
 [[Brownie PC| Brownies]]
+[[Mary Doll's Butterscotch Brownies UK2| Mary Doll's Butterscotch Brownies]]
 ## Cake
 ### Alcohol 
 [[Bacardi Rum Cake PC| Bacardi Rum Cake]]
@@ -16,12 +17,12 @@ title: Desserts
 [[Date-Apple Sauce Cake UK2| Date-Apple Sauce Cake]]
 #### Banana
 [[Banana Split Cake UK2| Banana Split Cake]]
+#### Fruit Cake
+[[Fruit Cake UK2| Fruit Cake]]
 ### Shortcake
 [[Strawberry Shortcake PC| Strawberry Shortcake]]
 [[Old Fashioned Strawberry Shortcake UK2| Old Fashioned Strawberry Shortcake]]
-### Tea Cake
-[[Lemon Tea Cakes UK2| Lemon Tea Cakes]]
-## Torte
+### Torte
 [[Chocolate Chip Torte LC | Chocolate Chip Torte]]
 ## Candy
 [[Candy Fours PC|Candy Fours]]
@@ -33,6 +34,7 @@ title: Desserts
 [[Sweet Little Cheesecake PC| Sweet Little Cheesecake]]
 ## Cookies
 [[Apple Sauce Cookies PC| Apple Sauce Cookies]]
+[[Biscochitos UK2| Biscochitos]]
 [[Butter Cookies UK2| Butter Cookies]]
 [[Butterscotch Caramel Cookies LC| Butterscotch Caramel Cookies]]
 [[Coconut Oatmeal Cookies UK2| Coconut Oatmeal Cookies]]
@@ -43,6 +45,8 @@ title: Desserts
 [[Pineapple Oatmeal Cookies UK2| Pineapple Oatmeal Cookies]]
 [[Roll Out Cookies PC| Roll Out Cookies]]
 [[Snickerdoodles LC| Snickerdoodles]]
+### Cookie Press
+[[Sour Cream Cookies for Cookie Press UK2| Sour Cream Cookies for Cookie Press]]
 ## Cream Filling
 [[Mint Cream Filling PC| Mint Cream Filling]]
 ## Crisp
@@ -74,6 +78,11 @@ title: Desserts
 [[Bread Pudding UK2| Bread Pudding]]
 ## Soups
 [[Spiced Rhubarb Soup PC| Spiced Rhubarb Soup]]
+### Tea Cake
+### Lemon
+[[Lemon Tea Cakes UK2| Lemon Tea Cakes]]
+### Russian Tea Cakes
+[[Butter Balls UK2| Butter Balls]]
 ## Trifle
 [[Lois' Strawberry Angel Food Dessert UK2| Lois' Strawberry Angel Food Dessert]]
 ## Yum Yum

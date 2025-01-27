@@ -37,6 +37,6 @@ ___
 #### Glaze:
 - Mix 3/4 cup sugar & 1/4 cup lemon juice.
 ___
-![[Handwritten_2025-01-17_114745.webp]]
+![[content/Desserts/Tea Cakes/Lemon/Assets/Handwritten_2025-01-17_114745.webp]]
 
 ![[Handwritten_2025-01-17_114839 (2).webp]]
