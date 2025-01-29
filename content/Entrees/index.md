@@ -6,6 +6,7 @@ title: Entrees
 ## Casserole
 [[Chili Relleno Casserole PC| Chili Relleno Casserole]]
 [[Eggplant Delight UK2| Eggplant Delight]]
+[[Spinach Casserole UK2| Spinach Casserole]]
 [[Spinach, Broccoli, and Asparagus Casserole PC| Spinach, Broccoli, and Asparagus Casserole]]
 ## Chicken
 [[Lemon Barbequed Chicken UK2| Lemon Barbequed Chicken]]
@@ -14,6 +15,8 @@ title: Entrees
 [[Creamy Crab UK2| Creamy Crab]]
 ## Pasta
 [[Pasta With Vinaigrette PC| Pasta With Vinaigrette]]
+### Alfredo
+[[Fettuccine Alfredo UK2| Fettuccine Alfredo]]
 ### Mac & Cheese
 [[Mac & Cheese PC| Macaroni & Cheese]]
 ## Pork Chops
