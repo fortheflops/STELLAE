@@ -13,6 +13,8 @@ title: Desserts
 [[Pineapple Cake UK2| Pineapple Cake]]
 [[Tomato Soup Cake PC| Tomato Soup Cake]]
 [[Prune Cake PC| Prune Cake]]
+### Layer Cake
+[[Yankee Layer Cake UK2| Yankee Layer Cake]]
 #### Apple Sauce Cake
 [[Date-Apple Sauce Cake UK2| Date-Apple Sauce Cake]]
 #### Banana

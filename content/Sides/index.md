@@ -4,6 +4,8 @@ title: Sides
 ## Beans
 [[Pinto Beans PC| Pinto Beans]]
 [[Spanish Beans UK2| Spanish Beans]]
+### Baked Beans
+[[Baked Beans with Barbecued Meat Balls UK2| Baked Beans with Barbecued Meat Balls]]
 ## Fried
 [[Hush Puppies UK2| Hush Puppies]]
 ## Noodles
