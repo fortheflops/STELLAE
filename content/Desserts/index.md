@@ -5,6 +5,7 @@ title: Desserts
 [[Chocolate Coconut Bars UK2| Chocolate Coconut Bars]]
 ## Brownies
 [[Brownie PC| Brownies]]
+[[Jackie's Brownies PC| Jackie's Brownies]]
 [[Mary Doll's Butterscotch Brownies UK2| Mary Doll's Butterscotch Brownies]]
 ## Cake
 ### Alcohol 
@@ -26,6 +27,8 @@ title: Desserts
 [[Old Fashioned Strawberry Shortcake UK2| Old Fashioned Strawberry Shortcake]]
 ### Torte
 [[Chocolate Chip Torte LC | Chocolate Chip Torte]]
+### Wacky Cake
+[[Wacky Cake PC| Wacky Cake]]
 ## Candy
 [[Candy Fours PC|Candy Fours]]
 [[Molly's Toffee PC| Molly's Toffee]]
@@ -75,6 +78,9 @@ title: Desserts
 [[Sour Cream Raisin Pie UK2| Sour Cream Raisin Pie]]
 ### Crust
 [[Graham Cracker Crust UK2| Graham Cracker Crust]]
+### Pumpkin Pie
+[[Pumpkin Pie (Impossible) PC| Pumpkin Pie (Impossible)]]
+[[Pumpkin Pie PC| Pumpkin Pie]]
 ## Pudding
 [[Cherry Upside-Down Pudding UK2| Cherry Upside-Down Pudding]]
 ### Bread Pudding

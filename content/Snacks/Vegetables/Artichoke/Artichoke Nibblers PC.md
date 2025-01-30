@@ -32,5 +32,4 @@ ___
 4. Microwave on high for 8-10 min, rotating dish ½ turn after 5 min, until set when lightly pressed in the center. Let stand, covered, for 10 min. Cut into 1" squares. Serve warm.
 
 ___
-
 ![[content/Snacks/Vegetables/Artichoke/Assets/Handwritten_2025-01-04_151911.webp]]
