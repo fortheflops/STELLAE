@@ -29,4 +29,4 @@ ___
 7. **Bake:** Bake for 25-30 minutes, or until the casserole is heated through, the cheese is melted and bubbly, and the top is lightly browned.
 8. **Let cool:** Let the casserole cool for 10-15 minutes before serving. This will allow it to set slightly.
 ___
-![[Handwritten_2025-01-13_124417.webp|349]]
+![[content/Entrees/Casserole/Vegetable/Assets/Handwritten_2025-01-13_124417.webp|349]]

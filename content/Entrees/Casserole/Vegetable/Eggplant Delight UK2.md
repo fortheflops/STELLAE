@@ -38,4 +38,4 @@ ___
 >Make four servings
 
 ___
-![[Handwritten_2025-01-15_131002.webp]]
+![[content/Entrees/Casserole/Vegetable/Assets/Handwritten_2025-01-15_131002.webp]]

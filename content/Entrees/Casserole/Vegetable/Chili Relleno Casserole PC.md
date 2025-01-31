@@ -39,4 +39,4 @@ ___
 
 ___
 
-![[Handwritten_2025-01-11_110903.webp]]
+![[content/Entrees/Casserole/Vegetable/Assets/Handwritten_2025-01-11_110903.webp]]
