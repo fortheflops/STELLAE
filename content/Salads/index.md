@@ -6,6 +6,7 @@ title: Salads
 [[Three Bean Salad PC| Three Bean Salad]]
 ## Cabbage Salad
 [[Hyden Salad UK2| Hyden Salad]]
+[[Lois's Cabbage Salad UK2| Lois's Cabbage Salad]]
 ## Carrot Salad
 [[Carrot Salad LC| Carrot Salad]]
 ## Potato Salad

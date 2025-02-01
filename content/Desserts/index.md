@@ -78,6 +78,8 @@ title: Desserts
 [[Sour Cream Raisin Pie UK2| Sour Cream Raisin Pie]]
 ### Crust
 [[Graham Cracker Crust UK2| Graham Cracker Crust]]
+### Pecan Pie
+[[Juanita's Pecan Pie UK2| Juanita's Pecan Pie]]
 ### Pumpkin Pie
 [[Pumpkin Pie (Impossible) PC| Pumpkin Pie (Impossible)]]
 [[Pumpkin Pie PC| Pumpkin Pie]]
@@ -85,6 +87,9 @@ title: Desserts
 [[Cherry Upside-Down Pudding UK2| Cherry Upside-Down Pudding]]
 ### Bread Pudding
 [[Bread Pudding UK2| Bread Pudding]]
+## Salad
+[[Strawberry Salad UK2| Strawberry Salad]]
+[[Cranberry Salad UK2| Cranberry Salad]]
 ## Soups
 [[Spiced Rhubarb Soup PC| Spiced Rhubarb Soup]]
 ### Tea Cake
