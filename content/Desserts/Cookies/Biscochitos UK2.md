@@ -37,4 +37,4 @@ ___
 12. Bake at 350 Degrees for 15 Minutes.
 13. Dust With Sugar and Cinnamon Mixture.
 ___
-![[Handwritten_2025-01-27_124013.webp|397]]![[Handwritten_2025-01-27_124110 (2).webp|265]]
+![[Handwritten_2025-01-27_124013.webp|370]]![[Handwritten_2025-01-27_124110 (2).webp|239]]
