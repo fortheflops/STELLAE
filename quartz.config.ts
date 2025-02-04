@@ -55,7 +55,7 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
-      Plugin.FrontMatter(),
+      Plugin.FrontMatter({generateSocialImages: true}),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
       }),
