@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
+    generateSocialImages: true,
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
@@ -55,7 +56,7 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
-      Plugin.FrontMatter({generateSocialImages: true}),
+      Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
       }),
