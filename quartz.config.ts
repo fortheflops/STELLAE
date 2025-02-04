@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     generateSocialImages: true,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "cucinamezzaluna.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
