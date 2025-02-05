@@ -10,11 +10,14 @@ title: Desserts
 ## Cake
 ### Alcohol 
 [[Bacardi Rum Cake PC| Bacardi Rum Cake]]
+### Angel Food Cake
+[[Mock Angel Food Cake UK2| Mock Angel Food Cake]]
 ### Fruit Based Cakes
 [[Pineapple Cake UK2| Pineapple Cake]]
 [[Tomato Soup Cake PC| Tomato Soup Cake]]
 [[Prune Cake PC| Prune Cake]]
 #### Apple Sauce Cake
+[[Applesauce Spice Cake UK2| Applesauce Spice Cake]]
 [[Date-Apple Sauce Cake UK2| Date-Apple Sauce Cake]]
 #### Banana
 [[Banana Nut Cake UK2| Banana Nut Cake]]
@@ -24,6 +27,8 @@ title: Desserts
 [[Fruit Cake UK2| Fruit Cake]]
 ### German Chocolate
 [[Turtle Cake UK2| Turtle Cake]]
+### Jam Cake
+[[Jam Cake UK2| Jam Cake]]
 ### Layer Cake
 [[Yankee Layer Cake UK2| Yankee Layer Cake]]
 ### Mouse Cake
@@ -46,6 +51,7 @@ title: Desserts
 ## Casserole
 [[Apricot Casserole PC| Apricot Casserole]]
 ## Cheesecake
+[[Cheese Cake UK2| Cheese Cake]]
 [[Sweet Little Cheesecake PC| Sweet Little Cheesecake]]
 ## Cookies
 [[Apple Cookies UK2| Apple Cookies]]
@@ -60,6 +66,7 @@ title: Desserts
 [[Orange-Spice Cookies UK2| Orange-Spice Cookies]]
 [[Pineapple Drop Cookies UK2| Pineapple Drop Cookies]]
 [[Roll Out Cookies PC| Roll Out Cookies]]
+[[Six-in-One Cookies UK2| Six-in-One Cookies]]
 [[Snickerdoodles LC| Snickerdoodles]]
 [[Thumbprint Cookies UK2| Thumbprint Cookies]]
 ### Chocolate
