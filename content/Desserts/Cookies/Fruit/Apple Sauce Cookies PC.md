@@ -3,6 +3,7 @@ title: Apple Sauce Cookies
 draft: false
 tags:
   - "#PatsyCollection"
+  - "#Fruit"
 ---
 ## Author
 Unknown
@@ -57,6 +58,6 @@ or
 5. Drop rounded tablespoonfuls 2 inches apart on a lightly greased baking sheet.
 6. Bake for 12 minutes, or until almost no imprint remains when touched lightly.
 ___
-![[Handwritten_2025-01-04_144818.webp]]
+![[content/Desserts/Cookies/Fruit/Assets/Handwritten_2025-01-04_144818.webp]]
 
-![[Handwritten_2025-01-08_140813.webp]]
+![[content/Desserts/Cookies/Fruit/Assets/Handwritten_2025-01-08_140813.webp]]

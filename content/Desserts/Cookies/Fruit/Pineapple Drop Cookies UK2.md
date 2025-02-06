@@ -4,6 +4,7 @@ draft: false
 tags:
   - UnknownTwo
   - "#Cookies"
+  - "#Fruit"
 ---
 ## Author
 Unknown
@@ -32,4 +33,4 @@ ___
 7.  Drop From Tsp. Ungreased Cookie Sheet.
 8.  Bake 400° 10 Min.
 ___
-![[Handwritten_2025-02-04_114214.webp]]
+![[content/Desserts/Cookies/Fruit/Assets/Handwritten_2025-02-04_114214.webp]]

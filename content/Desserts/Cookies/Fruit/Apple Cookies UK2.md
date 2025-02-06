@@ -4,6 +4,7 @@ draft: false
 tags:
   - UnknownTwo
   - "#Cookies"
+  - "#FruitBread"
 ---
 ## Author
 Unknown
@@ -33,6 +34,6 @@ ___
 7. Bake 10-12 Minutes.
 
 ___
-![[Handwritten_2025-02-03_121835.webp]]
+![[content/Desserts/Cookies/Fruit/Assets/Handwritten_2025-02-03_121835.webp]]
 
-![[Handwritten_2025-02-03_121922 (2).webp]]![[Handwritten_2025-02-03_122243.webp]]
+![[Handwritten_2025-02-03_121922 (2).webp]]![[content/Desserts/Cookies/Fruit/Assets/Handwritten_2025-02-03_122243.webp]]

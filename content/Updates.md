@@ -16,6 +16,7 @@ title: Updates
 |                                     | Unknown 10           |
 |                                     | Alison Collection AC |
 |                                     | Better ICON          |
+|                                     | Jill Collection JC   |
 
 | In Progress        | TAG                   |     |
 | ------------------ | --------------------- | --- |

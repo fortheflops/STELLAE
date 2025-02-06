@@ -3,6 +3,7 @@ title: Desserts
 ---
 ## Bars
 [[Chocolate Coconut Bars UK2| Chocolate Coconut Bars]]
+[[Jones Hopkins' Caramel Bars UK2| Jones Hopkins' Caramel Bars]]
 ## Brownies
 [[Brownie PC| Brownies]]
 [[Jackie's Brownies PC| Jackie's Brownies]]
@@ -35,6 +36,8 @@ title: Desserts
 [[Chocolate Mousse Cake UK2| Chocolate Mousse Cake]]
 ### Pound Cake
 [[Bourbon Pound Cake UK2| Bourbon Pound Cake]]
+### Sheet Cake
+[[Chocolate Sheath Cake UK2| Chocolate Sheath Cake]]
 ### Shortcake
 [[Strawberry Shortcake PC| Strawberry Shortcake]]
 [[Old Fashioned Strawberry Shortcake UK2| Old Fashioned Strawberry Shortcake]]
@@ -43,9 +46,10 @@ title: Desserts
 ### Wacky Cake
 [[Wacky Cake PC| Wacky Cake]]
 ## Candy
-[[Candy Fours PC|Candy Fours]]
-[[Molly's Toffee PC| Molly's Toffee]]
 [[Candied Walnuts PC| Candied Walnuts]]
+[[Candy Fours PC|Candy Fours]]
+[[Chocolate Almond Raisin Clusters UK2| [Chocolate Almond Raisin Clusters]]
+[[Molly's Toffee PC| Molly's Toffee]]
 ### Bon Bons
 [[Pecan Bon Bons UK2| Pecan Bon Bons]]
 ## Casserole
@@ -54,8 +58,6 @@ title: Desserts
 [[Cheese Cake UK2| Cheese Cake]]
 [[Sweet Little Cheesecake PC| Sweet Little Cheesecake]]
 ## Cookies
-[[Apple Cookies UK2| Apple Cookies]]
-[[Apple Sauce Cookies PC| Apple Sauce Cookies]]
 [[Biscochitos UK2| Biscochitos]]
 [[Butter Cookies UK2| Butter Cookies]]
 [[Butterscotch Caramel Cookies LC| Butterscotch Caramel Cookies]]
@@ -64,7 +66,6 @@ title: Desserts
 [[Mary Dell's Millionaire Cookies UK2| Mary Dell's Millionaire Cookies ]]
 [[Old Fashioned Butter Cookies PC| Old Fashioned Butter Cookies]]
 [[Orange-Spice Cookies UK2| Orange-Spice Cookies]]
-[[Pineapple Drop Cookies UK2| Pineapple Drop Cookies]]
 [[Roll Out Cookies PC| Roll Out Cookies]]
 [[Six-in-One Cookies UK2| Six-in-One Cookies]]
 [[Snickerdoodles LC| Snickerdoodles]]
@@ -73,6 +74,11 @@ title: Desserts
 [[Chocolate Cookies UK2| Chocolate Cookies]]
 ### Cookie Press
 [[Sour Cream Cookies for Cookie Press UK2| Sour Cream Cookies for Cookie Press]]
+### Fruit
+[[Apple Cookies UK2| Apple Cookies]]
+[[Apple Sauce Cookies PC| Apple Sauce Cookies]]
+[[Beatriz Mares' Cherry Winks UK2| Beatriz Mares' Cherry Winks]]
+[[Pineapple Drop Cookies UK2| Pineapple Drop Cookies]]
 ### Oatmeal
 [[Coconut Oatmeal Cookies UK2| Coconut Oatmeal Cookies]]
 [[Jumble Oatmeal Cookies UK2| Jumble Oatmeal Cookies]]
@@ -92,6 +98,7 @@ title: Desserts
 [[Pears In Honey Sauce LC | Pears in Honey Sauce]]
 [[Candied Citrus Fruit PC| Candied Citrus Fruit]]
 ## Fudge
+[[Lorraine's Chocolate Fudge UK2| Lorraine's Chocolate Fudge]]
 [[Marshmallow Fudge UK2| Marshmallow Fudge]]
 ## Jubilee
 [[Cherries Flambé UK2| Cherries Flambé]]
