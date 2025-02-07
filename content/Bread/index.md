@@ -3,6 +3,8 @@ title: Bread
 ---
 ## Batter Bread
 [[Blinchiki UK2| Blinchiki]]
+## Corn Bread
+[[Mexican Corn Bread UK2| Mexican Corn Bread]]
 ## Fruit Bread
 [[Barnett's Cranberry Orange Bread UK2| Barnett's Cranberry Orange Bread]]
 [[Date Loaf UK2| Date Loaf]]

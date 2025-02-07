@@ -32,4 +32,4 @@ ___
 
 ___
 
-![[Handwritten_2025-01-07_153710.webp]]
+![[content/Desserts/Confections/Candy/Assets/Handwritten_2025-01-07_153710.webp]]

@@ -34,6 +34,6 @@ ___
 >Makes about 5 lbs
 
 ___
-![[Handwritten_2025-01-08_142051.webp]]
+![[content/Desserts/Confections/Candy/Assets/Handwritten_2025-01-08_142051.webp]]
 
 ![[Handwritten_2025-01-08_142239 (2).webp]]

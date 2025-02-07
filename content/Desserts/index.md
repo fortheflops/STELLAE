@@ -45,18 +45,21 @@ title: Desserts
 [[Chocolate Chip Torte LC | Chocolate Chip Torte]]
 ### Wacky Cake
 [[Wacky Cake PC| Wacky Cake]]
-## Candy
-[[Candied Walnuts PC| Candied Walnuts]]
-[[Candy Fours PC|Candy Fours]]
-[[Chocolate Almond Raisin Clusters UK2| [Chocolate Almond Raisin Clusters]]
-[[Molly's Toffee PC| Molly's Toffee]]
-### Bon Bons
-[[Pecan Bon Bons UK2| Pecan Bon Bons]]
 ## Casserole
 [[Apricot Casserole PC| Apricot Casserole]]
 ## Cheesecake
 [[Cheese Cake UK2| Cheese Cake]]
 [[Sweet Little Cheesecake PC| Sweet Little Cheesecake]]
+## Confections
+### Candy
+[[Candied Walnuts PC| Candied Walnuts]]
+[[Candy Fours PC|Candy Fours]]
+[[Chocolate Almond Raisin Clusters UK2| [Chocolate Almond Raisin Clusters]]
+[[Molly's Toffee PC| Molly's Toffee]]
+#### Bon Bons
+[[Pecan Bon Bons UK2| Pecan Bon Bons]]
+### Pralines
+[[Andria's Pralines UK2| Andria's Pralines]]
 ## Cookies
 [[Biscochitos UK2| Biscochitos]]
 [[Butter Cookies UK2| Butter Cookies]]
@@ -91,6 +94,8 @@ title: Desserts
 [[Apple Crisp PC| Apple Crisp]]
 ## Crumble
 [[Apple Crumble PC| Apple Crumble]]
+## Curd
+[[Lemon Curd UK2| Lemon Curd]]
 ## Custard
 [[Flan PC| Flan]]
 [[Caramel Custard UK2| Caramel Custard]]
@@ -100,6 +105,9 @@ title: Desserts
 ## Fudge
 [[Lorraine's Chocolate Fudge UK2| Lorraine's Chocolate Fudge]]
 [[Marshmallow Fudge UK2| Marshmallow Fudge]]
+## Icing
+[[Brown Sugar Icing UK2| Brown Sugar Icing]]
+[[Chocolate Icing UK2| Chocolate Icing]]
 ## Jubilee
 [[Cherries Flambé UK2| Cherries Flambé]]
 ## Pie

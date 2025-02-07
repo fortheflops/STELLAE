@@ -7,6 +7,8 @@ title: Sauces
 [[Crab Cheese Dip LC |Crab Cheese Dip]]
 ## Dressing
 [[Lemony Fruit Dressing UK2| Lemony Fruit Dressing]]
+## Hard Sauce
+[[Brandied Hard Sauce UK2| Brandied Hard Sauce]]
 ### Cheese Dip
 [[Fondue PC| Fondue]]
 ## Pasta Sauce

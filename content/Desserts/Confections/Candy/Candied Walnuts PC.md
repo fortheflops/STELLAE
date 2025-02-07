@@ -23,4 +23,4 @@ ___
 3. Using a slotted spoon, remove walnuts from the pan and place them on a piece of baking sheet.
 4. Allow them to cool for 1 hour.
 ___
-![[Handwritten_2025-01-13_133429.webp]]
+![[content/Desserts/Confections/Candy/Assets/Handwritten_2025-01-13_133429.webp]]

@@ -11,25 +11,20 @@ Unknown
 ___
 ## Recipe
 
-| Measurements | Ingredients               |
-| :----------- | ------------------------- |
-| 2 Cups            | [[Flour]]                   |
-| 2 Cups            | [[Sugar]]                   |
-| 1 Stick           | [[Oleo]]                    |
-| 1/2 Cup           | [[Crisco]]                  |
-| 1 Cup             | [[Water]]                   |
-| 4 Tbsp.           | [[Cocoa]]                   |
-| 2                 | [[Eggs]]                    |
-| 1 tsp             | [[Baking Soda]]          |
-| 1/2 Cup          | [[Buttermilk]] or [[Milk]] + 1 Tbsp. [[Vinegar]]          |
-| 1 tsp            |[[Vanilla]]|
-|    |**Icing**|
-| 4 Tbsp           |[[Cocoa]] |
-| 1 Stick | [[Oleo]]|
-| 6 Tbsp. | [[Canned milk]]|
-| 1 pkg. | [[Powdered sugar]]|
-|1/2 Cup. | [[Pecans]] and/or [[Coconut]]|
-|1 tsp| [[Vanilla]]|
+| Measurements | Ingredients                                      |
+| :----------- | ------------------------------------------------ |
+| 2 Cups       | [[Flour]]                                        |
+| 2 Cups       | [[Sugar]]                                        |
+| 1 Stick      | [[Oleo]]                                         |
+| 1/2 Cup      | [[Crisco]]                                       |
+| 1 Cup        | [[Water]]                                        |
+| 4 Tbsp.      | [[Cocoa]]                                        |
+| 2            | [[Eggs]]                                         |
+| 1 tsp        | [[Baking Soda]]                                  |
+| 1/2 Cup      | [[Buttermilk]] or [[Milk]] + 1 Tbsp. [[Vinegar]] |
+| 1 tsp        | [[Vanilla]]                                      |
+|              | [[Chocolate Icing UK2\| Chocolate Icing]]        |
+
 ___
 ### Instructions
 1.  Bake 30 min 450°.
@@ -40,10 +35,6 @@ ___
 6.  Mix & pour into greased cookie sheet & bake.
 
 **Icing**
-1.  Put in Pot : 4 Tbsp Cocoa ,1 stick Oleo, 6 Tbsp. Canned milk. Bring to Boil and Pour Over.
-2. In Large Mixing Bowl - 1 Pkg. Powdered Sugar. Add 1/2 Cup. Pecans And /Or Coconut- 1/2 Cup, 1 tsp Vanilla.
-3. Mix & Pour Over Hot Cake.
+1. Mix and Pour [[Chocolate Icing UK2| Chocolate Icing]] over Hot Cake
 ___
 ![[Handwritten_2025-02-06_131500.webp]]
-
-![[Handwritten_2025-02-06_131630 (2).webp]]
