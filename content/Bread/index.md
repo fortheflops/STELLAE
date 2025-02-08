@@ -3,6 +3,8 @@ title: Bread
 ---
 ## Batter Bread
 [[Blinchiki UK2| Blinchiki]]
+[[Idaho Potato Pancakes UK2| Idaho Potato Pancakes]]
+[[Johnny Cakes UK2| Johnny Cakes]]
 ## Corn Bread
 [[Mexican Corn Bread UK2| Mexican Corn Bread]]
 ## Fruit Bread

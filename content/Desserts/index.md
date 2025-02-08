@@ -110,6 +110,8 @@ title: Desserts
 [[Chocolate Icing UK2| Chocolate Icing]]
 ## Jubilee
 [[Cherries Flambé UK2| Cherries Flambé]]
+## Muffins
+[[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
 ## Pie
 [[Avocado Rum Macadamia Nut Chiffon Pie PC| Avocado Rum Macadamia Nut Chiffon Pie]]
 [[Cranberry Pie UK2| Cranberry Pie]]
@@ -135,7 +137,11 @@ title: Desserts
 [[Cranberry Salad UK2| Cranberry Salad]]
 ## Soups
 [[Spiced Rhubarb Soup PC| Spiced Rhubarb Soup]]
-### Tea Cake
+## Sticky Buns
+[[Honey Pecan Buns UK2| Honey Pecan Buns]]
+## Syrup
+[[Brown Sugar Syrup UK2| Brown Sugar Syrup]]
+## Tea Cake
 ### Lemon
 [[Lemon Tea Cakes UK2| Lemon Tea Cakes]]
 ### Russian Tea Cakes
