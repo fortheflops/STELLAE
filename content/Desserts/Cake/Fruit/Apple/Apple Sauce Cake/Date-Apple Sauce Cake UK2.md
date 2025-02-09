@@ -5,6 +5,7 @@ tags:
   - UnknownTwo
   - "#Cake"
   - "#AppleSauceCake"
+  - "#Apple"
 ---
 ## Author
 Unknown
@@ -31,4 +32,4 @@ ___
 3. **Bake:** Pour the batter into the prepared pan. Bake for 1 hour.
 4. **Cool and Serve:** Let the cake cool in the pan for a few minutes before inverting it onto a wire rack to cool completely. Serve with whipped cream.
 ___
-![[Handwritten_2025-01-25_112817.webp]]
+![[content/Desserts/Cake/Fruit/Apple/Apple Sauce Cake/Assets/Handwritten_2025-01-25_112817.webp]]

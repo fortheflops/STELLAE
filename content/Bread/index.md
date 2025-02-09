@@ -3,6 +3,8 @@ title: Bread
 ---
 ## Batter Bread
 [[Blinchiki UK2| Blinchiki]]
+[[Cheese Blintzes UK2| Cheese Blintzes]]
+[[German Pancakes UK2| German Pancakes]]
 [[Idaho Potato Pancakes UK2| Idaho Potato Pancakes]]
 [[Johnny Cakes UK2| Johnny Cakes]]
 ## Corn Bread
@@ -16,4 +18,5 @@ title: Bread
 ## Yeasted Bread
 [[Italian Style White Bread UK2| Italian Style White Bread]]
 ### Biscuits 
+[[Beer Biscuits UK2| Beer Biscuits ]]
 [[Sour Dough Biscuits UK2| Sour Dough Biscuits]]

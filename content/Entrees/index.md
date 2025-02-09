@@ -32,3 +32,5 @@ title: Entrees
 ## Savory Pie
 [[Potato Meat Pie UK2| Potato Meat Pie]]
 [[Tamale Pie PC| Tamale Pie]]
+### Hand Pies
+[[Pirozhki's UK2| Pirozhki's]]
