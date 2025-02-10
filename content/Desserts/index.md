@@ -114,6 +114,9 @@ title: Desserts
 [[Cherries Flambé UK2| Cherries Flambé]]
 ## Muffins
 [[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
+## Pastries
+### Doughnuts
+[[Beignets UK2| Beignets]]
 ## Pie
 [[Avocado Rum Macadamia Nut Chiffon Pie PC| Avocado Rum Macadamia Nut Chiffon Pie]]
 [[Cranberry Pie UK2| Cranberry Pie]]

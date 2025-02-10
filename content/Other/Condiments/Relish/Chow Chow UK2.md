@@ -4,6 +4,7 @@ draft: false
 tags:
   - UnknownTwo
   - "#Condiment"
+  - "#Relish"
 ---
 ## Author
 Unknown
@@ -42,6 +43,6 @@ ___
 >- **Sweetness:** The final product was a little sweet.
 
 ___
-![[Handwritten_2025-01-19_120434.webp|656]]
+![[content/Other/Condiments/Relish/Assets/Handwritten_2025-01-19_120434.webp|656]]
 
 ![[Handwritten_2025-01-19_120552 (2).webp]]
