@@ -98,6 +98,7 @@ title: Desserts
 [[Apple Crumble PC| Apple Crumble]]
 ## Curd
 [[Lemon Curd UK2| Lemon Curd]]
+[[Lemon Curd 2 UK2| Lemon Curd]]
 ## Custard
 [[Flan PC| Flan]]
 [[Caramel Custard UK2| Caramel Custard]]
@@ -118,6 +119,7 @@ title: Desserts
 ### Doughnuts
 [[Beignets UK2| Beignets]]
 ## Pie
+[[Adelina's Millionaire Pie UK2| Adelina's Millionaire]]
 [[Avocado Rum Macadamia Nut Chiffon Pie PC| Avocado Rum Macadamia Nut Chiffon Pie]]
 [[Cranberry Pie UK2| Cranberry Pie]]
 [[Lemon Cheese Cake Pie UK2| Lemon Cheese Cake Pie]]
@@ -140,6 +142,8 @@ title: Desserts
 ## Salad
 [[Strawberry Salad UK2| Strawberry Salad]]
 [[Cranberry Salad UK2| Cranberry Salad]]
+## Scones
+[[Currant Scones UK2| Currant Scones]]
 ## Soups
 [[Spiced Rhubarb Soup PC| Spiced Rhubarb Soup]]
 ## Sticky Buns

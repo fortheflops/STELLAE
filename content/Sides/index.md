@@ -1,6 +1,8 @@
 ---
 title: Sides
 ---
+## Baked Pudding
+[[Yorkshire Pudding UK2| Yorkshire Pudding]]
 ## Beans
 [[Pinto Beans PC| Pinto Beans]]
 [[Spanish Beans UK2| Spanish Beans]]
