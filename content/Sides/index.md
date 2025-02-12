@@ -21,6 +21,9 @@ title: Sides
 ### Casserole
 [[Corn Casserole PC| Corn Casserole]]
 [[Corn Pudding UK2| Corn Pudding]]
+### Coleslaw
+[[Cole Slaw UK2| Cole Slaw]]
+[[Pantry Cole Slaw UK2| Pantry Cole Slaw]]
 ### Potatoes
 [[Twice Baked Potatoes LC| Twice Baked Potatoes]]
 ### Spinach

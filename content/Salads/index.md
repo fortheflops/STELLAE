@@ -13,3 +13,5 @@ title: Salads
 [[Potato Salad LC| Potato Salad]]
 ## Rice Salad
 [[Rice Salad PC| Rice Salad]]
+## Spinach Salad
+[[Chafing Dish Spinach Salad UK2| Chafing Dish Spinach Salad]]
