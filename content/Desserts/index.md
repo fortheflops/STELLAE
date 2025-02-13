@@ -44,6 +44,7 @@ title: Desserts
 [[Strawberry Shortcake PC| Strawberry Shortcake]]
 [[Old Fashioned Strawberry Shortcake UK2| Old Fashioned Strawberry Shortcake]]
 ### Torte
+[[Blitz Torte UK2| Blitz Torte]]
 [[Chocolate Chip Torte LC | Chocolate Chip Torte]]
 ### Wacky Cake
 [[Wacky Cake PC| Wacky Cake]]
@@ -113,6 +114,8 @@ title: Desserts
 [[Chocolate Icing UK2| Chocolate Icing]]
 ## Jubilee
 [[Cherries Flambé UK2| Cherries Flambé]]
+## Meringues
+[[No Weep Meringues UK2| No Weep Meringues]]
 ## Muffins
 [[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
 ## Pastries
@@ -128,6 +131,9 @@ title: Desserts
 [[Sour Cream Raisin Pie UK2| Sour Cream Raisin Pie]]
 ### Crust
 [[Graham Cracker Crust UK2| Graham Cracker Crust]]
+[[Instant Pie Crust UK2| Instant Pie Crust]]
+[[No Roll Pie Crust UK2| No Roll Pie Crust]]
+[[Pie Crust UK2| Pie Crust]]
 ### Pecan Pie
 [[Juanita's Pecan Pie UK2| Juanita's Pecan Pie]]
 ### Pumpkin Pie
