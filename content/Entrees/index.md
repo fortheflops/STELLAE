@@ -25,6 +25,8 @@ title: Entrees
 [[Fettuccine Alfredo UK2| Fettuccine Alfredo]]
 ### Mac & Cheese
 [[Mac & Cheese PC| Macaroni & Cheese]]
+### Stroganoff
+[[Beef Stroganoff UK2| Beef Stroganoff]]
 ## Pork Chops
 [[Barbequed Pork Chops LC |Barbequed Pork Chops]]
 ## Quiche
@@ -34,3 +36,5 @@ title: Entrees
 [[Tamale Pie PC| Tamale Pie]]
 ### Hand Pies
 [[Pirozhki's UK2| Pirozhki's]]
+## Short Ribs
+[[Barbecued Short Ribs UK2| Barbecued Short Ribs]]

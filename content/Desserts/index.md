@@ -84,6 +84,7 @@ title: Desserts
 [[Apple Cookies UK2| Apple Cookies]]
 [[Apple Sauce Cookies PC| Apple Sauce Cookies]]
 [[Beatriz Mares' Cherry Winks UK2| Beatriz Mares' Cherry Winks]]
+[[Glazed Pineapple Drop Cookies UK2| Glazed Pineapple Drop Cookies]]
 [[Pineapple Drop Cookies UK2| Pineapple Drop Cookies]]
 ### Oatmeal
 [[Coconut Oatmeal Cookies UK2| Coconut Oatmeal Cookies]]
@@ -121,6 +122,8 @@ title: Desserts
 ## Pastries
 ### Doughnuts
 [[Beignets UK2| Beignets]]
+### Pull-apart Bread
+[[Crunchy Nut Ring UK2| Crunchy Nut Ring]]
 ## Pie
 [[Adelina's Millionaire Pie UK2| Adelina's Millionaire]]
 [[Avocado Rum Macadamia Nut Chiffon Pie PC| Avocado Rum Macadamia Nut Chiffon Pie]]

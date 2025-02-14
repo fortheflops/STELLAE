@@ -3,6 +3,8 @@ title: Sauces
 ---
 ## Barbecue Sauce
 [[Barbecue Sauce UK2| Barbecue Sauce]]
+## Cocktail Sauce
+[[Shrimp Cocktail Sauce UK2| Shrimp Cocktail Sauce]]
 ## Dip
 [[Crab Cheese Dip LC |Crab Cheese Dip]]
 ## Dressing
