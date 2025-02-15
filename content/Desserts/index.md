@@ -3,7 +3,9 @@ title: Desserts
 ---
 ## Bars
 [[Chocolate Coconut Bars UK2| Chocolate Coconut Bars]]
+[[Double Chocolate Crumble Bars UK2| Double Chocolate Crumble Bars]]
 [[Jones Hopkins' Caramel Bars UK2| Jones Hopkins' Caramel Bars]]
+[[Lemon Squares UK2| Lemon Squares]]
 ## Brownies
 [[Brownie PC| Brownies]]
 [[Jackie's Brownies PC| Jackie's Brownies]]
@@ -15,8 +17,9 @@ title: Desserts
 [[Mock Angel Food Cake UK2| Mock Angel Food Cake]]
 ### Fruit Based Cakes
 [[Pineapple Cake UK2| Pineapple Cake]]
-[[Tomato Soup Cake PC| Tomato Soup Cake]]
 [[Prune Cake PC| Prune Cake]]
+[[Quick Pineapple Cake UK2| Quick Pineapple Cake]]
+[[Tomato Soup Cake PC| Tomato Soup Cake]]
 #### Apple
 [[Apple Dump Dish UK2| Apple Dump Dish]]
 ##### Apple Sauce Cake
@@ -160,6 +163,7 @@ title: Desserts
 ## Syrup
 [[Brown Sugar Syrup UK2| Brown Sugar Syrup]]
 ## Tea Cake
+[[Tea Cakes UK2| Tea Cakes]]
 ### Lemon
 [[Lemon Tea Cakes UK2| Lemon Tea Cakes]]
 ### Russian Tea Cakes
