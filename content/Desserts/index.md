@@ -78,6 +78,7 @@ title: Desserts
 [[Roll Out Cookies PC| Roll Out Cookies]]
 [[Six-in-One Cookies UK2| Six-in-One Cookies]]
 [[Snickerdoodles LC| Snickerdoodles]]
+[[Swedish Slugs UK2| Swedish Slugs]]
 [[Thumbprint Cookies UK2| Thumbprint Cookies]]
 ### Chocolate
 [[Chocolate Cookies UK2| Chocolate Cookies]]
@@ -86,14 +87,20 @@ title: Desserts
 ### Fruit
 [[Apple Cookies UK2| Apple Cookies]]
 [[Apple Sauce Cookies PC| Apple Sauce Cookies]]
+[[Apple Sauce Cookies UK2| Apple Sauce Cookies]]
 [[Beatriz Mares' Cherry Winks UK2| Beatriz Mares' Cherry Winks]]
+[[Date-Nut Rocks UK2| Date-Nut Rocks]]
 [[Glazed Pineapple Drop Cookies UK2| Glazed Pineapple Drop Cookies]]
 [[Pineapple Drop Cookies UK2| Pineapple Drop Cookies]]
+### Nut
+[[Pecan Drops UK2| Pecan Drops]]
 ### Oatmeal
 [[Coconut Oatmeal Cookies UK2| Coconut Oatmeal Cookies]]
 [[Jumble Oatmeal Cookies UK2| Jumble Oatmeal Cookies]]
 [[Oatmeal Cookies UK2| Oatmeal Cookies]]
 [[Pineapple Oatmeal Cookies UK2| Pineapple Oatmeal Cookies]]
+### Pizzelle
+[[Pizzelle UK2| Pizzelle]]
 ## Cream Filling
 [[Mint Cream Filling PC| Mint Cream Filling]]
 ## Crisp
