@@ -15,6 +15,16 @@ title: Desserts
 [[Bacardi Rum Cake PC| Bacardi Rum Cake]]
 ### Angel Food Cake
 [[Mock Angel Food Cake UK2| Mock Angel Food Cake]]
+### Buttermilk Cake
+[[Buttermilk Cake UK2| Buttermilk Cake]]
+### Chocolate Cake
+[[Orie's Wesson Oil Chocolate Cake UK2| Orie's Wesson Oil Chocolate Cake]]
+#### Devil's Food Cake
+[[Red Devil's Food Cake UK2| Red Devil's Food Cake]]
+#### German Chocolate
+[[Turtle Cake UK2| Turtle Cake]]
+### Coconut Cake
+[[Bert Ellen Camp's Coconut Cake UK2| Bert Ellen Camp's Coconut Cake]]
 ### Fruit Based Cakes
 [[Pineapple Cake UK2| Pineapple Cake]]
 [[Prune Cake PC| Prune Cake]]
@@ -31,8 +41,6 @@ title: Desserts
 #### Fruit Cake
 [[Christmas Cake UK2| Christmas Cake ]]
 [[Fruit Cake UK2| Fruit Cake]]
-### German Chocolate
-[[Turtle Cake UK2| Turtle Cake]]
 ### Jam Cake
 [[Jam Cake UK2| Jam Cake]]
 ### Layer Cake
@@ -114,6 +122,9 @@ title: Desserts
 ## Custard
 [[Flan PC| Flan]]
 [[Caramel Custard UK2| Caramel Custard]]
+## Frosting
+[[Frosting UK2| Frosting]]
+[[Vanilla Frosting UK2| Vanilla Frosting]]
 ## Fruit
 [[Pears In Honey Sauce LC | Pears in Honey Sauce]]
 [[Candied Citrus Fruit PC| Candied Citrus Fruit]]

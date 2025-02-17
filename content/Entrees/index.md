@@ -7,6 +7,8 @@ title: Entrees
 ### Chicken
 [[Emily Pineda's Chicken Enchilada Casserole UK2| Emily Pineda's Chicken Enchilada Casserole]]
 [[Neva's Chicken Casserole UK2| Neva's Chicken Casserole ]]
+### Meat and Vegetable
+[[Meat and Vegetable Casserole UK2| Meat and Vegetable Casserole]]
 ### Vegetable
 [[Broccoli Casserole UK2| Broccoli Casserole]]
 [[Chili Relleno Casserole PC| Chili Relleno Casserole]]
