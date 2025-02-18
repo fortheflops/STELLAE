@@ -21,6 +21,8 @@ title: Entrees
 ## Crab
 [[Crab Voltaire UK2| Crab Voltaire]]
 [[Creamy Crab UK2| Creamy Crab]]
+## Croquettes
+[[Salmon Croquettes UK2| Salmon Croquettes]]
 ## Pasta
 [[Pasta With Vinaigrette PC| Pasta With Vinaigrette]]
 ### Alfredo
@@ -40,3 +42,5 @@ title: Entrees
 [[Pirozhki's UK2| Pirozhki's]]
 ## Short Ribs
 [[Barbecued Short Ribs UK2| Barbecued Short Ribs]]
+## Steak
+[[Russian Steak UK2| Russian Steak]]

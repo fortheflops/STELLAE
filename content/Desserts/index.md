@@ -39,8 +39,11 @@ title: Desserts
 [[Banana Nut Cake UK2| Banana Nut Cake]]
 [[Banana Split Cake UK2| Banana Split Cake]]
 #### Fruit Cake
-[[Christmas Cake UK2| Christmas Cake ]]
 [[Fruit Cake UK2| Fruit Cake]]
+[[Sandeman's Fruit Cake  UK2| Sandeman's Fruit Cake]]
+##### Christmas Cake
+[[Christmas Cake UK2| Christmas Cake ]]
+[[English Christmas Cake UK2| English Christmas Cake]]
 ### Jam Cake
 [[Jam Cake UK2| Jam Cake]]
 ### Layer Cake

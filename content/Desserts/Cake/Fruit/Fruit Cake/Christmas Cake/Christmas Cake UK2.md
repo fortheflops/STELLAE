@@ -30,4 +30,4 @@ ___
 6.  Turn Into Greased, Floured Tube Pan.
 7.  Bake At 325° For 1 Hour And 30 Minutes.
 ___
-![[Handwritten_2025-02-02_100930.webp]]
+![[content/Desserts/Cake/Fruit/Fruit Cake/Christmas Cake/Assets/Handwritten_2025-02-02_100930.webp]]
