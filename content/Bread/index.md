@@ -16,8 +16,10 @@ title: Bread
 [[Date Loaf UK2| Date Loaf]]
 [[Jiffy Orange-Nut Loaf UK2| Jiffy Orange-Nut Loaf]]
 [[Zucchini Bread UK2| Zucchini Bread]]
-## Beer Muffins
+## Muffins
 [[Beer Muffins UK2| Beer Muffins]]
+## Torta
+[[Zucchini Torta UK2| Zucchini Torta]]
 ## Tortillas
 [[Corn Tortillas UK2| Corn Tortillas]]
 [[WhiteTortillas UK2| White Tortillas]]

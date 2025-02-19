@@ -9,6 +9,8 @@ title: Salads
 [[Lois's Cabbage Salad UK2| Lois's Cabbage Salad]]
 ## Carrot Salad
 [[Carrot Salad LC| Carrot Salad]]
+## Cauliflower Salad
+[[Cauliflower Salad UK2| Cauliflower Salad]]
 ## Potato Salad
 [[Potato Salad LC| Potato Salad]]
 ## Rice Salad

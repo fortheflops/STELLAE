@@ -29,6 +29,8 @@ title: Entrees
 [[Fettuccine Alfredo UK2| Fettuccine Alfredo]]
 ### Mac & Cheese
 [[Mac & Cheese PC| Macaroni & Cheese]]
+### Manicotti
+[[Stuffed Manicotti Marinara UK2| Stuffed Manicotti Marinara]]
 ### Stroganoff
 [[Beef Stroganoff UK2| Beef Stroganoff]]
 ## Pork Chops

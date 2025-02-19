@@ -134,6 +134,8 @@ title: Desserts
 ## Fudge
 [[Lorraine's Chocolate Fudge UK2| Lorraine's Chocolate Fudge]]
 [[Marshmallow Fudge UK2| Marshmallow Fudge]]
+## Gelatin
+[[Orange-Apricot Gelatin Mold UK2| Orange-Apricot Gelatin Mold]]
 ## Icing
 [[Brown Sugar Icing UK2| Brown Sugar Icing]]
 [[Chocolate Icing UK2| Chocolate Icing]]
@@ -175,6 +177,8 @@ title: Desserts
 ## Salad
 [[Strawberry Salad UK2| Strawberry Salad]]
 [[Cranberry Salad UK2| Cranberry Salad]]
+### Watergate Salad
+[[Watergate Salad UK2| Watergate Salad]]
 ## Scones
 [[Currant Scones UK2| Currant Scones]]
 ## Soups
