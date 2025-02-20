@@ -7,7 +7,9 @@ title: Soups
 [[Italian Clam & Potato Soup UK2| Italian Clam & Potato Soup]]
 ## Stew
 [[Marmitako UK2| Marmitako]]
-#### Green Chile
+### Chili
+[[Pardenales River Chili UK2| Pardenales River Chili]]
+### Green Chile
 [[Black Bean & Green Chile Stew UK2| Black Bean & Green Chile Stew]]
 ## Vegetable
 [[Mushroom Soup PC| Mushroom Soup]]

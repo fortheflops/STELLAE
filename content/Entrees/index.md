@@ -1,6 +1,9 @@
 ---
 title: Entrees
 ---
+## Beef
+[[Korean Green Beans & Beef UK2| Korean Green Beans & Beef]]
+[[Ukrainian Beef UK2| Ukrainian Beef]]
 ## Burgers
 [[Tofu Burgers PC| Tofu Burgers]]
 ## Casserole
