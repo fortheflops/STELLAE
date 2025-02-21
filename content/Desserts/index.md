@@ -6,6 +6,7 @@ title: Desserts
 [[Double Chocolate Crumble Bars UK2| Double Chocolate Crumble Bars]]
 [[Jones Hopkins' Caramel Bars UK2| Jones Hopkins' Caramel Bars]]
 [[Lemon Squares UK2| Lemon Squares]]
+[[Nut Squares UK2| Nut Squares]]
 ## Brownies
 [[Brownie PC| Brownies]]
 [[Jackie's Brownies PC| Jackie's Brownies]]
@@ -26,7 +27,7 @@ title: Desserts
 [[Pecan Bon Bons UK2| Pecan Bon Bons]]
 ### Pralines
 [[Andria's Pralines UK2| Andria's Pralines]]
-## Cookies
+## [[Desserts/Cookies/index| Cookies]]
 [[Biscochitos UK2| Biscochitos]]
 [[Butter Cookies UK2| Butter Cookies]]
 [[Butterscotch Caramel Cookies LC| Butterscotch Caramel Cookies]]
@@ -42,6 +43,8 @@ title: Desserts
 [[Thumbprint Cookies UK2| Thumbprint Cookies]]
 ### Chocolate
 [[Chocolate Cookies UK2| Chocolate Cookies]]
+[[Chocolate Crinkles UK2| Chocolate Crinkles]]
+[[Devil's Food Drop Cookies UK2| Devil's Food Drop Cookies]]
 ### Cookie Press
 [[Sour Cream Cookies for Cookie Press UK2| Sour Cream Cookies for Cookie Press]]
 ### Fruit
@@ -52,8 +55,11 @@ title: Desserts
 [[Date-Nut Rocks UK2| Date-Nut Rocks]]
 [[Glazed Pineapple Drop Cookies UK2| Glazed Pineapple Drop Cookies]]
 [[Pineapple Drop Cookies UK2| Pineapple Drop Cookies]]
+### Gingerbread
+[[Gingerbread UK2| Gingerbread]]
 ### Nut
 [[Pecan Drops UK2| Pecan Drops]]
+[[Pecan Macaroons UK2| Pecan Macaroons]]
 ### Oatmeal
 [[Coconut Oatmeal Cookies UK2| Coconut Oatmeal Cookies]]
 [[Jumble Oatmeal Cookies UK2| Jumble Oatmeal Cookies]]
