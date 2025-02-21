@@ -17,7 +17,7 @@ ___
 | 2             | [[Eggs]]                                                       |
 | 1 Pint        | [[Heavy Cream]], Whipped                                       |
 | 2 Tbsp        | [[Grand Marnier]]                                              |
-| 1             | Frozen [[content/Desserts/Cake/Pound Cake/Index\| Pound Cake]] |
+| 1             | Frozen [[content/Desserts/Cake/Pound Cake/index\| Pound Cake]] |
 | 1 Tsp         | [[Vanilla]]                                                    |
 ___
 ### Instructions
