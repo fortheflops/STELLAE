@@ -27,4 +27,4 @@ ___
 5.  Spread Rest Of Mix Over That & Bake 20 Min.
 6.  (Can Be Frosted But Doesn't Need It).
 ___
-![[content/Desserts/Cake/Chocolate Cake/German Chocolate/Assets/Handwritten_2025-02-03_122522.webp]]
+![[Handwritten_2025-02-03_122522.webp]]
