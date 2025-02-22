@@ -4,6 +4,7 @@ title: Cookies
 [[Biscochitos UK2| Biscochitos]]
 [[Butter Cookies UK2| Butter Cookies]]
 [[Butterscotch Caramel Cookies LC| Butterscotch Caramel Cookies]]
+[[Holly Hermits UK2| Holly Hermits]]
 [[Lemon-Ginger Cookies UK2| Lemon-Ginger Cookies]]
 [[Lemonade Cookies UK2| Lemonade Cookies]]
 [[Mary Dell's Millionaire Cookies UK2| Mary Dell's Millionaire Cookies ]]
@@ -22,6 +23,7 @@ title: Cookies
 [[Sour Cream Cookies for Cookie Press UK2| Sour Cream Cookies for Cookie Press]]
 ### Fruit
 [[Apple Cookies UK2| Apple Cookies]]
+[[Apple Drop Cookies UK2| Apple Drop Cookies]]
 [[Apple Sauce Cookies PC| Apple Sauce Cookies]]
 [[Apple Sauce Cookies UK2| Apple Sauce Cookies]]
 [[Beatriz Mares' Cherry Winks UK2| Beatriz Mares' Cherry Winks]]

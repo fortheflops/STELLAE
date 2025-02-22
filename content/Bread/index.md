@@ -15,7 +15,6 @@ title: Bread
 [[Date Loaf - Sara UK2| Date Loaf]]
 [[Date Loaf UK2| Date Loaf]]
 [[Jiffy Orange-Nut Loaf UK2| Jiffy Orange-Nut Loaf]]
-[[Zucchini Bread UK2| Zucchini Bread]]
 ## Muffins
 [[Beer Muffins UK2| Beer Muffins]]
 ## Torta
@@ -30,3 +29,6 @@ title: Bread
 [[Sour Dough Biscuits UK2| Sour Dough Biscuits]]
 ### Sourdough
 [[Sour Dough UK2| Sour Dough]]
+### Zucchini Bread
+[[Zucchini Bread 2 UK2| Zucchini Bread]]
+[[Zucchini Bread UK2| Zucchini Bread]]

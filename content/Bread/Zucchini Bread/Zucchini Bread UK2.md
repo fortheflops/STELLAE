@@ -3,7 +3,7 @@ title: Zucchini Bread
 draft: false
 tags:
   - UnknownTwo
-  - "#FruitBread"
+  - "#ZucchiniBread"
 ---
 ## Author
 Unknown
@@ -33,7 +33,7 @@ ___
 5. **Bake:** Bake in moderate oven 375° for one hour.
 6. **Cool:** Cool in pans for 10 min. Remove from pans.
 ___
-![[Handwritten_2025-02-10_105519.webp]]
+![[content/Bread/Zucchini Bread/Assets/Handwritten_2025-02-10_105519.webp]]
 
 ![[Handwritten_2025-02-10_105625 (2).webp]]
 
