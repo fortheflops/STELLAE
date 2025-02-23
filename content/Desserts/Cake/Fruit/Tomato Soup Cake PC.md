@@ -5,7 +5,6 @@ tags:
   - "#PatsyCollection"
   - "#TomatoSoup"
   - "#Fruit"
-  - "#Cake"
 ---
 ## Author
 Unknown

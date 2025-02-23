@@ -3,7 +3,6 @@ title: Banana Split Cake
 draft: false
 tags:
   - UnknownTwo
-  - "#Cake"
   - "#Banana"
 ---
 ## Author

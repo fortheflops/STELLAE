@@ -4,7 +4,6 @@ draft: false
 tags:
   - "#PatsyCollection"
   - "#Fruit"
-  - "#Cake"
 ---
 ## Author
 Mrs. Hayes

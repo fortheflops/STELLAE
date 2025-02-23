@@ -4,7 +4,6 @@ draft: false
 tags:
   - UnknownTwo
   - "#ChristmasCake"
-  - "#Cake"
 ---
 ## Author
 Unknown

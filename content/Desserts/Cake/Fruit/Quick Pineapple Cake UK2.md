@@ -3,7 +3,6 @@ title: Quick Pineapple Cake
 draft: false
 tags:
   - UnknownTwo
-  - "#Stew"
 ---
 ## Author
 Margarite

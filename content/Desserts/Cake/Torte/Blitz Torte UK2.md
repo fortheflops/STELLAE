@@ -4,7 +4,6 @@ draft: false
 tags:
   - UnknownTwo
   - "#Torte"
-  - "#Cake"
 ---
 ## Author
 Trudy Templin

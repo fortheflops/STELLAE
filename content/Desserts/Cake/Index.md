@@ -49,6 +49,7 @@ title: Cake
 ## Sheet Cake
 [[Chocolate Sheath Cake UK2| Chocolate Sheath Cake]]
 ## Shortcake
+[[Individual Shortcakes & Pastry UK2| Individual Shortcakes & Pastry]]
 [[Strawberry Shortcake PC| Strawberry Shortcake]]
 [[Old Fashioned Strawberry Shortcake UK2| Old Fashioned Strawberry Shortcake]]
 ## Sour Cream

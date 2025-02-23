@@ -3,7 +3,6 @@ title: Pineapple Cake
 draft: false
 tags:
   - UnknownTwo
-  - "#Cake"
 ---
 ## Author
 Unknown

@@ -3,7 +3,6 @@ title: Wacky Cake
 draft: false
 tags:
   - "#PatsyCollection"
-  - "#Cake"
   - "#Wackycake"
 ---
 ## Author

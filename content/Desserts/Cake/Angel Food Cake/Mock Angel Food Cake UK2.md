@@ -4,7 +4,6 @@ draft: false
 tags:
   - UnknownTwo
   - "#AngelFoodCake"
-  - "#Cake"
 ---
 ## Author
 Unknown

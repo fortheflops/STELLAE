@@ -3,7 +3,6 @@ title: Bacardi Rum Cake
 draft: false
 tags:
   - "#PatsyCollection"
-  - "#Cake"
   - "#Alcohol"
 ---
 ## Author

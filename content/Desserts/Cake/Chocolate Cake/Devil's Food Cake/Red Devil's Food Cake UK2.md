@@ -3,7 +3,6 @@ title: Red Devil's Food Cake
 draft: false
 tags:
   - UnknownTwo
-  - "#Cake"
   - "#DevilsFoodCake"
 ---
 ## Author

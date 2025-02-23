@@ -3,7 +3,6 @@ title: Chocolate Sheath Cake
 draft: false
 tags:
   - UnknownTwo
-  - "#Cake"
   - "#SheetCake"
 ---
 ## Author

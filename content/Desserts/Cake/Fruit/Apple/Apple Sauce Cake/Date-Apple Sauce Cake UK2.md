@@ -3,7 +3,6 @@ title: Date-Apple Sauce Cake
 draft: false
 tags:
   - UnknownTwo
-  - "#Cake"
   - "#AppleSauceCake"
   - "#Apple"
 ---

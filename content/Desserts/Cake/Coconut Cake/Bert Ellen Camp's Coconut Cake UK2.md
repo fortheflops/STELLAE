@@ -4,7 +4,6 @@ draft: false
 tags:
   - UnknownTwo
   - "#CoconutCake"
-  - "#Cake"
 ---
 ## Author
 Bert Ellen

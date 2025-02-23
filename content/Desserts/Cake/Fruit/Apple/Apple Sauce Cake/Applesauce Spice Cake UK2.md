@@ -4,7 +4,6 @@ draft: false
 tags:
   - UnknownTwo
   - "#AppleSauceCake"
-  - "#Cake"
   - "#Apple"
 ---
 ## Author

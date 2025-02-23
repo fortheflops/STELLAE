@@ -3,7 +3,6 @@ title: Buttermilk Cake
 draft: false
 tags:
   - UnknownTwo
-  - "#Cake"
   - "#ButtermilkCake"
 ---
 ## Author

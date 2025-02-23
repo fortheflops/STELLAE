@@ -4,7 +4,6 @@ draft: false
 tags:
   - UnknownTwo
   - "#EgglessCake"
-  - "#Cake"
 ---
 ## Author
 Unknown

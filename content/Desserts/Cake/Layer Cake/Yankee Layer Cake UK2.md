@@ -4,7 +4,6 @@ draft: false
 tags:
   - UnknownTwo
   - "#LayerCake"
-  - "#Cake"
 ---
 ## Author
 Unknown

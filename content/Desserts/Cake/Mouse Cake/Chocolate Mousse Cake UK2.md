@@ -3,7 +3,6 @@ title: Chocolate Mousse Cake
 draft: false
 tags:
   - UnknownTwo
-  - "#Cake"
   - "#MouseCake"
 ---
 ## Author

@@ -4,7 +4,6 @@ draft: false
 tags:
   - UnknownTwo
   - "#GermainChocolate"
-  - "#Cake"
 ---
 ## Author
 Unknown
