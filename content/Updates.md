@@ -9,7 +9,7 @@ title: Updates
 | Recreation of Recipes               | Comments             |
 | List Tag in Abc. Order              | Unknown 5            |
 | Specify Certain Media Preview Cards | Unknown 6            |
-|                                     | Unknown 7            |
+| Star Rating                         | Unknown 7            |
 |                                     | Unknown 8            |
 |                                     | Unknown 9            |
 |                                     | Diane Collection DC  |

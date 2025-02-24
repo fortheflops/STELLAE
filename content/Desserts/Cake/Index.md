@@ -1,6 +1,8 @@
 ---
 title: Cake
 ---
+## 1,2,3,4 Cake
+[[1, 2, 3, 4 Cake UK2| 1, 2, 3, 4 Cake]]
 ## Alcohol 
 [[Bacardi Rum Cake PC| Bacardi Rum Cake]]
 ## Angel Food Cake
@@ -39,6 +41,7 @@ title: Cake
 [[Christmas Cake UK2| Christmas Cake ]]
 [[English Christmas Cake UK2| English Christmas Cake]]
 ## Jam Cake
+[[Butterfield Jam Cake UK2| Butterfield Jam Cake]]
 [[Jam Cake UK2| Jam Cake]]
 ## Layer Cake
 [[Yankee Layer Cake UK2| Yankee Layer Cake]]

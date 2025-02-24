@@ -31,9 +31,11 @@ ___
 ___
 
 >[!Note]
->When doubling recipe I used ½ oleo & ½ shortening. Seemed to make softer cookie
+>- When doubling recipe I used ½ oleo & ½ shortening. Seemed to make softer cookie
+>- Makes about 3 ½ dozen
 
 ___
 ![[Handwritten_2025-02-22_122738.webp]]
 
 ![[Handwritten_2025-02-22_122853 (2).webp]]
+![[Handwritten_2025-02-24_091831.webp]]

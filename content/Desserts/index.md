@@ -43,9 +43,11 @@ title: Desserts
 [[Flan PC| Flan]]
 [[Caramel Custard UK2| Caramel Custard]]
 ## Filling
+[[Butterscotch Filling UK2| Butterscotch Filling]]
 [[Lemon Filling UK2| Lemon Filling]]
 ## Frosting
 [[Frosting UK2| Frosting]]
+[[Sea Foam Frosting UK2| Sea Foam Frosting]]
 [[Vanilla Frosting UK2| Vanilla Frosting]]
 ## Fruit
 [[Pears In Honey Sauce LC | Pears in Honey Sauce]]
@@ -107,6 +109,7 @@ title: Desserts
 ## Syrup
 [[Brown Sugar Syrup UK2| Brown Sugar Syrup]]
 ## Tea Cake
+[[Tea Cakes 2 UK2| Tea Cakes]]
 [[Tea Cakes UK2| Tea Cakes]]
 ### Lemon
 [[Lemon Tea Cakes UK2| Lemon Tea Cakes]]
