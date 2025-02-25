@@ -8,6 +8,7 @@ title: Bread
 [[German Pancakes UK2| German Pancakes]]
 [[Idaho Potato Pancakes UK2| Idaho Potato Pancakes]]
 [[Johnny Cakes UK2| Johnny Cakes]]
+[[Potato Pancakes UK2| Potato Pancakes]]
 ## Corn Bread
 [[Mexican Corn Bread UK2| Mexican Corn Bread]]
 ## Fruit Bread

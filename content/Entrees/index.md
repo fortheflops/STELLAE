@@ -8,6 +8,7 @@ title: Entrees
 [[Tofu Burgers PC| Tofu Burgers]]
 ## Casserole
 ### Chicken
+[[Coq in Burgundy UK2| Coq in Burgundy]]
 [[Emily Pineda's Chicken Enchilada Casserole UK2| Emily Pineda's Chicken Enchilada Casserole]]
 [[Neva's Chicken Casserole UK2| Neva's Chicken Casserole ]]
 ### Meat and Vegetable

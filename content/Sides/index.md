@@ -10,6 +10,7 @@ title: Sides
 [[Baked Beans with Barbecued Meat Balls UK2| Baked Beans with Barbecued Meat Balls]]
 ## Fried
 [[Hush Puppies UK2| Hush Puppies]]
+[[Squash Cakes UK2| Squash Cakes]]
 ## Noodles
 [[Noodles Romanoff PC| Noodles Romanoff]]
 ## Vegetable
@@ -23,6 +24,7 @@ title: Sides
 [[Corn Pudding UK2| Corn Pudding]]
 ### Coleslaw
 [[Cole Slaw UK2| Cole Slaw]]
+[[Cole Slaw 2 UK2| Cole Slaw]]
 [[Lois' Cole Slaw UK2| Lois' Cole Slaw]]
 [[Pantry Cole Slaw UK2| Pantry Cole Slaw]]
 ### Potatoes

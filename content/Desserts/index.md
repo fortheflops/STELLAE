@@ -20,7 +20,7 @@ title: Desserts
 ## Confections
 ### Candy
 [[Candied Walnuts PC| Candied Walnuts]]
-[[Candy Fours PC|Candy Fours]]
+[[Candy Fours PC| Candy Fours]]
 [[Chocolate Almond Raisin Clusters UK2| Chocolate Almond Raisin Clusters]]
 [[Molly's Toffee PC| Molly's Toffee]]
 #### Bon Bons
@@ -97,6 +97,7 @@ title: Desserts
 [[Surprise 7 Minute Pudding UK2| Surprise 7 Minute Pudding]]
 ## Salad
 [[Strawberry Salad UK2| Strawberry Salad]]
+[[Juanita's Orange Jello Salad UK2| Juanita's Orange Jello Salad]]
 [[Cranberry Salad UK2| Cranberry Salad]]
 ### Watergate Salad
 [[Watergate Salad UK2| Watergate Salad]]

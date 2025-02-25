@@ -32,6 +32,6 @@ ___
 >This recipe makes enough sauce for 24 enchiladas.
 
 ___
-![[Handwritten_2025-01-07_141423.webp]]
+![[content/Sauces/Salsa/Salsa Roja/Assets/Handwritten_2025-01-07_141423.webp]]
 
 ![[Handwritten_2025-01-07_141615 (2).webp]]

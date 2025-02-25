@@ -45,6 +45,6 @@ ___
 >3. Add a second layer of same.
 
 ___
-![[Handwritten_2025-02-01_113620.webp]]
+![[content/Sauces/Salsa/Salsa Roja/Assets/Handwritten_2025-02-01_113620.webp]]
 
 ![[Handwritten_2025-02-01_113659 (2).webp]]
