@@ -3,6 +3,8 @@ title: Sauces
 ---
 ## Barbecue Sauce
 [[Barbecue Sauce UK2| Barbecue Sauce]]
+## Chile Con Queso
+[[Chile Con Queso UK2| Chile Con Queso]]
 ## Cocktail Sauce
 [[Shrimp Cocktail Sauce UK2| Shrimp Cocktail Sauce]]
 ## Dip

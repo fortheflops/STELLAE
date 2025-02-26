@@ -17,3 +17,5 @@ title: Salads
 [[Rice Salad PC| Rice Salad]]
 ## Spinach Salad
 [[Chafing Dish Spinach Salad UK2| Chafing Dish Spinach Salad]]
+## Taco Salad
+[[Marciel's Taco Salad UK2| Marciel's Taco Salad]]

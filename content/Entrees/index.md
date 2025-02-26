@@ -27,6 +27,8 @@ title: Entrees
 [[Creamy Crab UK2| Creamy Crab]]
 ## Croquettes
 [[Salmon Croquettes UK2| Salmon Croquettes]]
+## Egg
+[[Jennie's Chili Egg Puff UK2| Jennie's Chili Egg Puff]]
 ## Pasta
 [[Pasta With Vinaigrette PC| Pasta With Vinaigrette]]
 ### Alfredo
@@ -49,5 +51,9 @@ title: Entrees
 [[Pirozhki's UK2| Pirozhki's]]
 ## Short Ribs
 [[Barbecued Short Ribs UK2| Barbecued Short Ribs]]
+## Squash
+[[Stuffed Summer Squash UK2| Stuffed Summer Squash]]
 ## Steak
 [[Russian Steak UK2| Russian Steak]]
+## Veal
+[[Baked Veal (Wine Vinegar) UK2| Baked Veal]]
