@@ -9,6 +9,8 @@ title: Sauces
 [[Shrimp Cocktail Sauce UK2| Shrimp Cocktail Sauce]]
 ## Dip
 [[Crab Cheese Dip LC |Crab Cheese Dip]]
+### Guacamole
+[[Guacamole UK2| Guacamole]]
 ## Dressing
 [[Cole Slaw Dressing UK2| Cole Slaw Dressing]]
 [[Lemony Fruit Dressing UK2| Lemony Fruit Dressing]]
@@ -32,3 +34,4 @@ title: Sauces
 [[Mildred's Chili- Enchilada Sauce UK2| Mildred's Chili- Enchilada Sauce]]
 ## Vanilla
 [[Vanilla Sauce UK2| Vanilla Sauce]]
+## Other

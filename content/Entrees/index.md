@@ -3,6 +3,7 @@ title: Entrees
 ---
 ## Beef
 [[Korean Green Beans & Beef UK2| Korean Green Beans & Beef]]
+[[Meat Cakes in Sour Cream UK2| Meat Cakes in Sour Cream]]
 [[Ukrainian Beef UK2| Ukrainian Beef]]
 ## Burgers
 [[Tofu Burgers PC| Tofu Burgers]]

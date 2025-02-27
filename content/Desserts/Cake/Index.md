@@ -60,3 +60,7 @@ title: Cake
 ## Torte
 [[Blitz Torte UK2| Blitz Torte]]
 [[Chocolate Chip Torte LC | Chocolate Chip Torte]]
+## Other
+[[A Cake for all Seasons UK2| A Cake for all Seasons]]
+[[Yummy Cake! UK2 | Yummy Cake!]]
+ 
