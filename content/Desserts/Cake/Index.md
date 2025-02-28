@@ -35,7 +35,9 @@ title: Cake
 [[Banana Nut Cake UK2| Banana Nut Cake]]
 [[Banana Split Cake UK2| Banana Split Cake]]
 ### Fruit Cake
+[[Fruit Cake 2 UK2| Fruit Cake 2]]
 [[Fruit Cake UK2| Fruit Cake]]
+[[Fruit Cake with Mincemeat and Eagle Brand Milk UK2| Fruit Cake with Mincemeat and Eagle Brand Milk]]
 [[Sandeman's Fruit Cake  UK2| Sandeman's Fruit Cake]]
 #### Christmas Cake
 [[Christmas Cake UK2| Christmas Cake ]]

@@ -10,6 +10,7 @@ title: Sauces
 ## Dip
 [[Crab Cheese Dip LC |Crab Cheese Dip]]
 ### Guacamole
+[[Guacamole 2 UK2| Guacamole]]
 [[Guacamole UK2| Guacamole]]
 ## Dressing
 [[Cole Slaw Dressing UK2| Cole Slaw Dressing]]

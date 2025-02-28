@@ -18,6 +18,8 @@ title: Bread
 [[Jiffy Orange-Nut Loaf UK2| Jiffy Orange-Nut Loaf]]
 ## Muffins
 [[Beer Muffins UK2| Beer Muffins]]
+## Squaw Bread
+[[Squaw Bread UK2| Squaw Bread]]
 ## Torta
 [[Zucchini Torta UK2| Zucchini Torta]]
 ## Tortillas
