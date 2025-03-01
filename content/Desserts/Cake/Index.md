@@ -17,6 +17,8 @@ title: Cake
 [[Turtle Cake UK2| Turtle Cake]]
 ## Coconut Cake
 [[Bert Ellen Camp's Coconut Cake UK2| Bert Ellen Camp's Coconut Cake]]
+## Cream Cake
+[[Italian Cream Cake UK2| Italian Cream Cake]]
 ## Eggless Cake
 [[Eggless Cake UK2| Eggless Cake]]
 ### Wacky Cake
@@ -42,6 +44,8 @@ title: Cake
 #### Christmas Cake
 [[Christmas Cake UK2| Christmas Cake ]]
 [[English Christmas Cake UK2| English Christmas Cake]]
+## Lemon Cake
+[[Spry Lemon Cake UK2| Spry Lemon Cake]]
 ## Jam Cake
 [[Butterfield Jam Cake UK2| Butterfield Jam Cake]]
 [[Jam Cake UK2| Jam Cake]]

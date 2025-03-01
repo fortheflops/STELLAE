@@ -9,6 +9,7 @@ title: Beverages
 ## Float
 [[Orange Float Drink UK2| Orange Float Drink]]
 ## Milk
+[[Almond Milk UK2| Almond Milk]]
 [[Golden Milk UK2| Golden Milk]]
 ## Punch
 [[Orange Blossom Punch UK4 | Orange Blossom Punch]]

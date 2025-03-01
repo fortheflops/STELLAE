@@ -30,6 +30,8 @@ title: Entrees
 [[Salmon Croquettes UK2| Salmon Croquettes]]
 ## Egg
 [[Jennie's Chili Egg Puff UK2| Jennie's Chili Egg Puff]]
+## Fish
+[[Snapper Florentine UK2| Snapper Florentine]]
 ## Pasta
 [[Pasta With Vinaigrette PC| Pasta With Vinaigrette]]
 ### Alfredo

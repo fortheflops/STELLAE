@@ -47,6 +47,7 @@ title: Desserts
 [[Butterscotch Filling UK2| Butterscotch Filling]]
 [[Lemon Filling UK2| Lemon Filling]]
 ## Frosting
+[[Cream Cheese Frosting UK2| Cream Cheese Frosting]]
 [[Frosting UK2| Frosting]]
 [[Sea Foam Frosting UK2| Sea Foam Frosting]]
 [[Vanilla Frosting UK2| Vanilla Frosting]]
@@ -61,6 +62,7 @@ title: Desserts
 ## Icing
 [[Brown Sugar Icing UK2| Brown Sugar Icing]]
 [[Chocolate Icing UK2| Chocolate Icing]]
+[[Lemon Cake Icing UK2| Lemon Cake Icing]]
 ## Jubilee
 [[Cherries Flambé UK2| Cherries Flambé]]
 ## Meringues
@@ -68,6 +70,8 @@ title: Desserts
 ## Muffins
 [[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
 ## Other
+[[Date-Nut Dessert UK2| Date-Nut Dessert]]
+[[Geng-a-lings UK2| Geng-a-lings]]
 [[Graham Cracker Roll UK2| Graham Cracker Roll]]
 ## Pastries
 ### Doughnuts
