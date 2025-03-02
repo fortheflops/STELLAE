@@ -17,6 +17,7 @@ title: Cake
 [[Turtle Cake UK2| Turtle Cake]]
 ## Coconut Cake
 [[Bert Ellen Camp's Coconut Cake UK2| Bert Ellen Camp's Coconut Cake]]
+[[Coconut Cake on Perbleco UK2| Coconut Cake on Perbleco]]
 ## Cream Cake
 [[Italian Cream Cake UK2| Italian Cream Cake]]
 ## Eggless Cake
@@ -30,6 +31,7 @@ title: Cake
 [[Tomato Soup Cake PC| Tomato Soup Cake]]
 ### Apple
 [[Apple Dump Dish UK2| Apple Dump Dish]]
+[[Neva's Apple Cake UK2| Neva's Apple Cake]]
 #### Apple Sauce Cake
 [[Applesauce Spice Cake UK2| Applesauce Spice Cake]]
 [[Date-Apple Sauce Cake UK2| Date-Apple Sauce Cake]]

@@ -43,6 +43,8 @@ title: Entrees
 ### Stroganoff
 [[Beef a la Stroganoff UK2| Beef a la Stroganoff]]
 [[Beef Stroganoff UK2| Beef Stroganoff]]
+## Patties
+[[Russian Meat Patties UK2| Russian Meat Patties]]
 ## Pork Chops
 [[Barbequed Pork Chops LC |Barbequed Pork Chops]]
 ## Quiche
