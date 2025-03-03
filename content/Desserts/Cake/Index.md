@@ -65,10 +65,13 @@ title: Cake
 [[Old Fashioned Strawberry Shortcake UK2| Old Fashioned Strawberry Shortcake]]
 ## Sour Cream
 [[Sour Cream Cake UK2| Sour Cream Cake]]
+## Spice Cake
+[[Spice Cake UK2| Spice Cake]]
 ## Torte
 [[Blitz Torte UK2| Blitz Torte]]
 [[Chocolate Chip Torte LC | Chocolate Chip Torte]]
 ## Other
 [[A Cake for all Seasons UK2| A Cake for all Seasons]]
+[[Mardi Gras Party Cake UK2| Mardi Gras Party Cake]]
 [[Yummy Cake! UK2 | Yummy Cake!]]
  

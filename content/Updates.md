@@ -5,26 +5,31 @@ title: Updates
 | Long Term                           | To Do                |
 | ----------------------------------- | -------------------- |
 | Video form content                  | Unknown 1            |
-| [[Monetization]]?                   | Unknown 3            |
-| Recreation of Recipes               | Comments             |
-| List Tag in Abc. Order              | Unknown 5            |
-| Specify Certain Media Preview Cards | Unknown 6            |
-| Star Rating                         | Unknown 7            |
-|                                     | Unknown 8            |
-|                                     | Unknown 9            |
+| [[Monetization]]?                   | Unknown 5            |
+| Recreation of Recipes               | Unknown 6            |
+| List Tag in Abc. Order              | Unknown 7            |
+| Specify Certain Media Preview Cards | Unknown 8            |
+| Star Rating                         | Unknown 9            |
 |                                     | Diane Collection DC  |
 |                                     | Unknown 10           |
 |                                     | Alison Collection AC |
 |                                     | Better ICON          |
 |                                     | Jill Collection JC   |
 
+
 | In Progress        | TAG                   |     |
 | ------------------ | --------------------- | --- |
 | Loraine Collection | #TheLoraineCollection | LC  |
 | Unknown 4          | #UnknownFour          | UK4 |
-| Unknown 2          | #UnknownTwo           | UK2 |
+| Unknown 3          | #UnknownThree         | UK3 |
 
 
-| Done             | TAG               |     |
-| ---------------- | ----------------- | --- |
-| Patsy Collection | #PatsyCollection  | PC  |
+| Done Exc. Copywritten Recipes | TAG         |     |
+| ----------------------------- | ----------- | --- |
+| Unknown 2                     | #UnknownTwo | UK2 |
+
+
+| Done             | TAG              |     |
+| ---------------- | ---------------- | --- |
+| Patsy Collection | #PatsyCollection | PC  |
+| Comments         |                  |     |
