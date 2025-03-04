@@ -69,10 +69,6 @@ title: Desserts
 [[No Weep Meringues UK2| No Weep Meringues]]
 ## Muffins
 [[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
-## Other
-[[Date-Nut Dessert UK2| Date-Nut Dessert]]
-[[Geng-a-lings UK2| Geng-a-lings]]
-[[Graham Cracker Roll UK2| Graham Cracker Roll]]
 ## Pastries
 ### Doughnuts
 [[Beignets UK2| Beignets]]
@@ -127,3 +123,8 @@ title: Desserts
 [[Lois' Strawberry Angel Food Dessert UK2| Lois' Strawberry Angel Food Dessert]]
 ## Yum Yum
 [[Blueberry Yum Yum UK2| Blueberry Yum Yum]]
+## Other
+[[Date-Nut Dessert UK2| Date-Nut Dessert]]
+[[Geng-a-lings UK2| Geng-a-lings]]
+[[Graham Cracker Roll UK2| Graham Cracker Roll]]
+[[Tidbits Trash UK3| Tidbits Trash]]

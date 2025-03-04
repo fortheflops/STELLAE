@@ -30,6 +30,9 @@ title: Entrees
 [[Salmon Croquettes UK2| Salmon Croquettes]]
 ## Egg
 [[Jennie's Chili Egg Puff UK2| Jennie's Chili Egg Puff]]
+### Quiche
+[[Mushroom Quiche PC| Mushroom Quiche]]
+[[Sausage Quiche UK3| Sausage Quiche]]
 ## Fish
 [[Snapper Florentine UK2| Snapper Florentine]]
 ## Pasta
@@ -47,8 +50,6 @@ title: Entrees
 [[Russian Meat Patties UK2| Russian Meat Patties]]
 ## Pork Chops
 [[Barbequed Pork Chops LC |Barbequed Pork Chops]]
-## Quiche
-[[Mushroom Quiche PC| Mushroom Quiche]]
 ## Savory Pie
 [[Potato Meat Pie UK2| Potato Meat Pie]]
 [[Tamale Pie PC| Tamale Pie]]
