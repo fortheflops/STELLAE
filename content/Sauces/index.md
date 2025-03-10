@@ -13,13 +13,18 @@ title: Sauces
 ## Dip
 ### Cheese Dip
 [[Fondue PC| Fondue]]
+[[Pimento Cheese Crock UK3| Pimento Cheese Crock]]
 ### Shellfish
 [[Crab Cheese Dip LC | Crab Cheese Dip]]
 [[Shrimp & Crab Dip Delight UK3| Shrimp & Crab Dip Delight ]]
 ### Guacamole
 [[Guacamole 2 UK2| Guacamole]]
 [[Guacamole UK2| Guacamole]]
+### Spinach Dip
+[[Spinach Dip UK3| Spinach Dip]]
+[[Spinach Dip 2 UK3| Spinach Dip]]
 ## Dressing
+[[Celery Seed Dressing UK3| Celery Seed Dressing]]
 [[Cole Slaw Dressing UK2| Cole Slaw Dressing]]
 [[Lemony Fruit Dressing UK2| Lemony Fruit Dressing]]
 [[Lime Honey Dressing UK3| Lime Honey Dressing]]
