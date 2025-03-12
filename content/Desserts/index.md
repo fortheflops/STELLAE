@@ -1,12 +1,8 @@
 ---
 title: Desserts
 ---
-## Bars
-[[Chocolate Coconut Bars UK2| Chocolate Coconut Bars]]
-[[Double Chocolate Crumble Bars UK2| Double Chocolate Crumble Bars]]
-[[Jones Hopkins' Caramel Bars UK2| Jones Hopkins' Caramel Bars]]
-[[Lemon Squares UK2| Lemon Squares]]
-[[Nut Squares UK2| Nut Squares]]
+## [[Desserts/Bars/index| Bars]]
+
 ## Brownies
 [[Brownie PC| Brownies]]
 [[Jackie's Brownies PC| Jackie's Brownies]]
@@ -17,16 +13,8 @@ title: Desserts
 ## Cheesecake
 [[Cheese Cake UK2| Cheese Cake]]
 [[Sweet Little Cheesecake PC| Sweet Little Cheesecake]]
-## Confections
-### Candy
-[[Candied Walnuts PC| Candied Walnuts]]
-[[Candy Fours PC| Candy Fours]]
-[[Chocolate Almond Raisin Clusters UK2| Chocolate Almond Raisin Clusters]]
-[[Molly's Toffee PC| Molly's Toffee]]
-#### Bon Bons
-[[Pecan Bon Bons UK2| Pecan Bon Bons]]
-### Pralines
-[[Andria's Pralines UK2| Andria's Pralines]]
+## [[Desserts/Confections/index| Confections]]
+
 ## [[Desserts/Cookies/index| Cookies]]
 
 ## Cream Filling
@@ -69,11 +57,8 @@ title: Desserts
 [[No Weep Meringues UK2| No Weep Meringues]]
 ## Muffins
 [[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
-## Pastries
-### Doughnuts
-[[Beignets UK2| Beignets]]
-### Pull-apart Bread
-[[Crunchy Nut Ring UK2| Crunchy Nut Ring]]
+## [[Desserts/Pastries/index| Pastries]]
+
 ## [[Desserts/Pie/index| Pie]]
 ## Pudding
 [[Cherry Upside-Down Pudding UK2| Cherry Upside-Down Pudding]]
