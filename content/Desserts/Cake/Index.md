@@ -73,5 +73,5 @@ title: Cake
 ## Other
 [[A Cake for all Seasons UK2| A Cake for all Seasons]]
 [[Mardi Gras Party Cake UK2| Mardi Gras Party Cake]]
-[[Yummy Cake! UK2 | Yummy Cake!]]
+[[Yummy Cake! UK2 | Yummy Cake!]] 
  
