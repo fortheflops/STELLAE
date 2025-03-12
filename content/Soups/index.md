@@ -5,6 +5,8 @@ title: Soups
 [[Tomato Bisque PC| Tomato Bisque]]
 ## Clam
 [[Italian Clam & Potato Soup UK2| Italian Clam & Potato Soup]]
+## Cream of Potato
+[[Cream of Potato Soup UK3| Cream of Potato Soup]]
 ## Stew
 [[Marmitako UK2| Marmitako]]
 ### Chili

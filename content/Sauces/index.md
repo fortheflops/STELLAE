@@ -17,9 +17,15 @@ title: Sauces
 ### Shellfish
 [[Crab Cheese Dip LC | Crab Cheese Dip]]
 [[Shrimp & Crab Dip Delight UK3| Shrimp & Crab Dip Delight ]]
+### Fruit Dip
+[[Fruit Dip UK3| Fruit Dip]]
 ### Guacamole
 [[Guacamole 2 UK2| Guacamole]]
 [[Guacamole UK2| Guacamole]]
+### Ranch
+[[Vegetable Dip UK3| Vegetable Dip]]
+### Shrimp
+[[Shrimp Dip UK3| Shrimp Dip]]
 ### Spinach Dip
 [[Spinach Dip UK3| Spinach Dip]]
 [[Spinach Dip 2 UK3| Spinach Dip]]
@@ -31,6 +37,8 @@ title: Sauces
 [[Royal Cream Salad Dressing UK2| Royal Cream Salad Dressing]]
 ## Hard Sauce
 [[Brandied Hard Sauce UK2| Brandied Hard Sauce]]
+## Lemon Sauce
+[[Lemon Sauce UK3| Lemon Sauce]]
 ## Pasta Sauce
 [[Cheese Pasta Sauce PC| Cheese Pasta Sauce]]
 ### Tomato Sauce
