@@ -44,8 +44,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.NavMenu()),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.Graph(),Component.TableOfContents()),
 	Component.Backlinks(), 
   ],
 }
