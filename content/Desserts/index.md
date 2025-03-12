@@ -1,13 +1,13 @@
 ---
 title: Desserts
 ---
-## [[Desserts/Bars/index| Bars]]
+## [[content/Desserts/Bars/index| Bars]]
 
 ## Brownies
 [[Brownie PC| Brownies]]
 [[Jackie's Brownies PC| Jackie's Brownies]]
 [[Mary Doll's Butterscotch Brownies UK2| Mary Doll's Butterscotch Brownies]]
-## [[Desserts/Cake/index| Cake]]
+## [[content/Desserts/Cake/index| Cake]]
 ## Casserole
 [[Apricot Casserole PC| Apricot Casserole]]
 ## Cheesecake
