@@ -27,4 +27,4 @@ ___
 4. Store In Air-Tight Containers.
 5. This Fine Recipe Serves 26 Cookies.
 ___
-![[Handwritten_2025-02-04_115511.webp]]
+![[content/Desserts/Confections/Candy/Bon Bons/Assets/Handwritten_2025-02-04_115511.webp]]

@@ -34,6 +34,6 @@ ___
 6.  Bake 350 - 10 minutes.
 7.  Cool & frost with Choc. frosting.
 ___
-![[Handwritten_2025-02-21_125236.webp]]
+![[Handwritten_2025-02-21_125236.jpg]]
 
-![[Handwritten_2025-02-21_125324 (2).webp]]
+![[Handwritten_2025-02-21_125324 (2).jpg]]
