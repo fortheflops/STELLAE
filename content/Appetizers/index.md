@@ -1,6 +1,8 @@
 ---
 title: Appetizers
 ---
+## Cheese
+[[Cheese Log UK3| Cheese Log]]
 ## Crab Cakes
 [[Crab Cakes UK2| Crab Cakes]]
 [[Deviled Crab Cakes UK2| Deviled Crab Cakes]]
@@ -9,5 +11,6 @@ title: Appetizers
 ## Party Food
 [[Cheese Ball PC| Cheese Ball]]
 [[Cheese Ball UK2| Cheese Ball]]
+[[Cheese Ball UK3| Cheese Ball]]
 [[Party Chicken PC| Party Chicken]]
 [[Zesty Sausage Squares UK2| Zesty Sausage Squares]]
