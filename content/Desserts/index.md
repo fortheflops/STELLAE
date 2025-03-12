@@ -1,12 +1,8 @@
 ---
 title: Desserts
 ---
-## Bars
-[[Chocolate Coconut Bars UK2| Chocolate Coconut Bars]]
-[[Double Chocolate Crumble Bars UK2| Double Chocolate Crumble Bars]]
-[[Jones Hopkins' Caramel Bars UK2| Jones Hopkins' Caramel Bars]]
-[[Lemon Squares UK2| Lemon Squares]]
-[[Nut Squares UK2| Nut Squares]]
+## [[Desserts/Bars/index| Bars]]
+
 ## Brownies
 [[Brownie PC| Brownies]]
 [[Jackie's Brownies PC| Jackie's Brownies]]
