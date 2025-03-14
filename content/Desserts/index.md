@@ -57,6 +57,8 @@ title: Desserts
 [[No Weep Meringues UK2| No Weep Meringues]]
 ## Muffins
 [[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
+## Nuts
+[[Sugared Pecans UK3| Sugared Pecans]]
 ## [[Desserts/Pastries/index| Pastries]]
 
 ## [[Desserts/Pie/index| Pie]]

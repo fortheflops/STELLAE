@@ -13,6 +13,7 @@ title: Salads
 [[Cauliflower Salad UK2| Cauliflower Salad]]
 ## Potato Salad
 [[Potato Salad LC| Potato Salad]]
+[[Potato Salad UK3| Potato Salad ]]
 ## Rice Salad
 [[Rice Salad PC| Rice Salad]]
 ## Spinach Salad

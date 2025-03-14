@@ -29,6 +29,7 @@ title: Sides
 [[Nine Day Slaw UK3| Nine Day Slaw]]
 [[Pantry Cole Slaw UK2| Pantry Cole Slaw]]
 ### Potatoes
+[[Au Gratin Potatoes UK3| Au Gratin Potatoes]]
 [[Twice Baked Potatoes LC| Twice Baked Potatoes]]
 ### Spinach
 [[Spinach Mozzarella PC| Spinach Mozzarella]]
