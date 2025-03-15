@@ -15,8 +15,10 @@ title: Entrees
 ### Meat and Vegetable
 [[Meat and Vegetable Casserole UK2| Meat and Vegetable Casserole]]
 ### Vegetable
+[[Asparagus Casserole UK3| Asparagus Casserole]]
 [[Broccoli Casserole UK2| Broccoli Casserole]]
 [[Chili Relleno Casserole PC| Chili Relleno Casserole]]
+[[Corn Casserole UK3| Corn Casserole]]
 [[Eggplant Delight UK2| Eggplant Delight]]
 [[Spinach Casserole UK2| Spinach Casserole]]
 [[Spinach, Broccoli, and Asparagus Casserole PC| Spinach, Broccoli, and Asparagus Casserole]]
@@ -29,7 +31,9 @@ title: Entrees
 ## Croquettes
 [[Salmon Croquettes UK2| Salmon Croquettes]]
 ## Egg
+### Egg Puff
 [[Jennie's Chili Egg Puff UK2| Jennie's Chili Egg Puff]]
+[[Spinach Puff UK3| Spinach Puff]]
 ### Quiche
 [[Mushroom Quiche PC| Mushroom Quiche]]
 [[Sausage Quiche UK3| Sausage Quiche]]
@@ -57,6 +61,8 @@ title: Entrees
 [[Pirozhki's UK2| Pirozhki's]]
 ## Short Ribs
 [[Barbecued Short Ribs UK2| Barbecued Short Ribs]]
+## Soufflé
+[[Spinach Soufflé UK3| Spinach Soufflé]]
 ## Squash
 [[Stuffed Summer Squash UK2| Stuffed Summer Squash]]
 ## Steak

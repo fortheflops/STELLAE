@@ -8,6 +8,9 @@ title: Sides
 [[Spanish Beans UK2| Spanish Beans]]
 ### Baked Beans
 [[Baked Beans with Barbecued Meat Balls UK2| Baked Beans with Barbecued Meat Balls]]
+## Corn
+### Grits
+[[Grits UK3| Grits]]
 ## Fried
 [[Hush Puppies UK2| Hush Puppies]]
 [[Squash Cakes UK2| Squash Cakes]]
@@ -30,6 +33,7 @@ title: Sides
 [[Pantry Cole Slaw UK2| Pantry Cole Slaw]]
 ### Potatoes
 [[Au Gratin Potatoes UK3| Au Gratin Potatoes]]
+[[Scalloped Potatoes UK3| Scalloped Potatoes]]
 [[Twice Baked Potatoes LC| Twice Baked Potatoes]]
 ### Spinach
 [[Spinach Mozzarella PC| Spinach Mozzarella]]
