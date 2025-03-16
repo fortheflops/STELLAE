@@ -47,6 +47,8 @@ title: Entrees
 [[Mac & Cheese PC| Macaroni & Cheese]]
 ### Manicotti
 [[Stuffed Manicotti Marinara UK2| Stuffed Manicotti Marinara]]
+### Noodles Romano
+[[Noodles Romano UK3| Noodles Romano]]
 ### Stroganoff
 [[Beef a la Stroganoff UK2| Beef a la Stroganoff]]
 [[Beef Stroganoff UK2| Beef Stroganoff]]

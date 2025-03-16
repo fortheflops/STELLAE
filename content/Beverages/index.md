@@ -12,6 +12,8 @@ title: Beverages
 [[Almond Milk UK2| Almond Milk]]
 [[Golden Milk UK2| Golden Milk]]
 ## Punch
+[[Coke Punch UK3| Coke Punch]]
+[[Merry Berry Punch UK3| Merry Berry Punch]]
 [[Orange Blossom Punch UK4 | Orange Blossom Punch]]
 [[Pink Party Punch UK3| Pink Party Punch]]
 [[Punch 2 UK3| Punch]]
@@ -20,6 +22,7 @@ title: Beverages
 ## Sangria 
 [[Sangria UK2| Sangria]]
 ## Tea 
+[[Mint Tea UK3| Mint Tea]]
 [[Russian Tea UK2| Russian Tea]]
 [[Spiced Tea Mix UK3| Spiced Tea Mix]]
 [[Yogi Tea UK2| Yogi Tea]]
