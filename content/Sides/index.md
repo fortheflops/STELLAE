@@ -9,6 +9,7 @@ title: Sides
 ### Baked Beans
 [[Baked Beans with Barbecued Meat Balls UK2| Baked Beans with Barbecued Meat Balls]]
 ## Corn
+[[Creamed Corn UK3| Creamed Corn]]
 ### Grits
 [[Grits UK3| Grits]]
 ## Fried

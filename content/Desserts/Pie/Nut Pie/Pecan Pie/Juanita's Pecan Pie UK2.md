@@ -31,4 +31,4 @@ ___
 5. Bake for 45-60 minutes, or until the center is set. The pie may still jiggle slightly in the center but should not be liquid.  
 6. Let cool completely before serving.
 ___
-![[Handwritten_2025-02-01_112849.webp]]
+![[content/Desserts/Pie/Nut Pie/Pecan Pie/Assets/Handwritten_2025-02-01_112849.webp]]

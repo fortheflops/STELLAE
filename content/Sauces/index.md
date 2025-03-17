@@ -6,6 +6,8 @@ title: Sauces
 [[Barbecue Sauce UK3| Barbecue Sauce]]
 ## Berry
 [[Berry Sauce UK2| Berry Sauce]]
+## Cheese
+[[Sauce for Au Gratin Potatoes UK3| Sauce for Au Gratin Potatoes]]
 ## Chile Con Queso
 [[Chile Con Queso UK2| Chile Con Queso]]
 ## Cocktail Sauce
