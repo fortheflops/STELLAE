@@ -2,19 +2,21 @@
 title: Cookies
 ---
 [[Biscochitos UK2| Biscochitos]]
-[[Butter Cookies UK2| Butter Cookies]]
 [[Butterscotch Caramel Cookies LC| Butterscotch Caramel Cookies]]
 [[Holly Hermits UK2| Holly Hermits]]
 [[Lemon-Ginger Cookies UK2| Lemon-Ginger Cookies]]
 [[Lemonade Cookies UK2| Lemonade Cookies]]
 [[Mary Dell's Millionaire Cookies UK2| Mary Dell's Millionaire Cookies ]]
-[[Old Fashioned Butter Cookies PC| Old Fashioned Butter Cookies]]
 [[Orange-Spice Cookies UK2| Orange-Spice Cookies]]
 [[Roll Out Cookies PC| Roll Out Cookies]]
 [[Six-in-One Cookies UK2| Six-in-One Cookies]]
 [[Snickerdoodles LC| Snickerdoodles]]
 [[Swedish Slugs UK2| Swedish Slugs]]
 [[Thumbprint Cookies UK2| Thumbprint Cookies]]
+### Butter Cookies
+[[Butter Cookies UK2| Butter Cookies]]
+[[Butter Cookies UK3| Butter Cookies]]
+[[Old Fashioned Butter Cookies PC| Old Fashioned Butter Cookies]]
 ### Chocolate
 [[Chocolate Cookies UK2| Chocolate Cookies]]
 [[Chocolate Crinkles UK2| Chocolate Crinkles]]
@@ -42,3 +44,5 @@ title: Cookies
 [[Pineapple Oatmeal Cookies UK2| Pineapple Oatmeal Cookies]]
 ### Pizzelle
 [[Pizzelle UK2| Pizzelle]]
+### Sugar Cookies
+[[Sugar Cookies UK3| Sugar Cookies]]

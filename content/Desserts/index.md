@@ -54,6 +54,7 @@ title: Desserts
 ## Jubilee
 [[Cherries Flambé UK2| Cherries Flambé]]
 ## Meringues
+[[Meringue UK3| Meringue]]
 [[No Weep Meringues UK2| No Weep Meringues]]
 ## Muffins
 [[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
@@ -97,4 +98,5 @@ title: Desserts
 [[Date-Nut Dessert UK2| Date-Nut Dessert]]
 [[Geng-a-lings UK2| Geng-a-lings]]
 [[Graham Cracker Roll UK2| Graham Cracker Roll]]
+[[Rich Chocolate Dessert UK3| Rich Chocolate Dessert]]
 [[Tidbits Trash UK3| Tidbits Trash]]

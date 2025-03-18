@@ -70,6 +70,7 @@ title: Cake
 ## Torte
 [[Blitz Torte UK2| Blitz Torte]]
 [[Chocolate Chip Torte LC | Chocolate Chip Torte]]
+[[Huguenot Torte UK3| Huguenot Torte]]
 ## Other
 [[A Cake for all Seasons UK2| A Cake for all Seasons]]
 [[Mardi Gras Party Cake UK2| Mardi Gras Party Cake]]

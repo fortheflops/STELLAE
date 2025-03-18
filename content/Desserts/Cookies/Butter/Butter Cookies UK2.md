@@ -31,6 +31,6 @@ ___
 8. Shape the dough as desired and place on ungreased baking sheets.
 9. Bake for 10 minutes.
 ___
-![[Handwritten_2025-01-25_120554.webp]]
+![[content/Desserts/Cookies/Butter/Assets/Handwritten_2025-01-25_120554.webp]]
 
 ![[Handwritten_2025-01-25_120848 (2).webp]]
