@@ -24,4 +24,4 @@ ___
 2.  Press In Center & Dot With Jelly Or Cherries After They Have Cooked.
 3.  Bake 350° For 20 To 30 Min.
 ___
-![[Handwritten_2025-02-03_121533.webp]]
+![[Handwritten_2025-02-03_121533.webp|655]]

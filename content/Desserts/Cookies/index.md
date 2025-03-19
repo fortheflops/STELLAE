@@ -8,11 +8,11 @@ title: Cookies
 [[Lemonade Cookies UK2| Lemonade Cookies]]
 [[Mary Dell's Millionaire Cookies UK2| Mary Dell's Millionaire Cookies ]]
 [[Orange-Spice Cookies UK2| Orange-Spice Cookies]]
+[[Refrigerator Cookies UK3| Refrigerator Cookies]]
 [[Roll Out Cookies PC| Roll Out Cookies]]
 [[Six-in-One Cookies UK2| Six-in-One Cookies]]
 [[Snickerdoodles LC| Snickerdoodles]]
 [[Swedish Slugs UK2| Swedish Slugs]]
-[[Thumbprint Cookies UK2| Thumbprint Cookies]]
 ### Butter Cookies
 [[Butter Cookies UK2| Butter Cookies]]
 [[Butter Cookies UK3| Butter Cookies]]
@@ -30,6 +30,7 @@ title: Cookies
 [[Apple Sauce Cookies UK2| Apple Sauce Cookies]]
 [[Beatriz Mares' Cherry Winks UK2| Beatriz Mares' Cherry Winks]]
 [[Date-Nut Rocks UK2| Date-Nut Rocks]]
+[[Fruit Cake Cookies UK3| Fruit Cake Cookies]]
 [[Glazed Pineapple Drop Cookies UK2| Glazed Pineapple Drop Cookies]]
 [[Pineapple Drop Cookies UK2| Pineapple Drop Cookies]]
 ### Gingerbread
@@ -43,6 +44,11 @@ title: Cookies
 [[Oatmeal Cookies UK2| Oatmeal Cookies]]
 [[Pineapple Oatmeal Cookies UK2| Pineapple Oatmeal Cookies]]
 ### Pizzelle
+[[Lace Cookies UK3| Lace Cookies]]
 [[Pizzelle UK2| Pizzelle]]
 ### Sugar Cookies
+[[Sugar Cookies 2 UK3| Sugar Cookies]]
 [[Sugar Cookies UK3| Sugar Cookies]]
+### Thumbprint Cookies
+[[Thumb Print Cookies UK3| Thumb Print Cookies]]
+[[Thumbprint Cookies UK2| Thumbprint Cookies]]
