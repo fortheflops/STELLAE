@@ -8,6 +8,8 @@ title: Cookies
 [[Lemonade Cookies UK2| Lemonade Cookies]]
 [[Mary Dell's Millionaire Cookies UK2| Mary Dell's Millionaire Cookies ]]
 [[Orange-Spice Cookies UK2| Orange-Spice Cookies]]
+[[Plain Cookies UK3| Plain Cookies]]
+[[Refrigerator Cookies 2 UK3| Refrigerator Cookies 2]]
 [[Refrigerator Cookies UK3| Refrigerator Cookies]]
 [[Roll Out Cookies PC| Roll Out Cookies]]
 [[Six-in-One Cookies UK2| Six-in-One Cookies]]
@@ -48,6 +50,7 @@ title: Cookies
 [[Pizzelle UK2| Pizzelle]]
 ### Sugar Cookies
 [[Sugar Cookies 2 UK3| Sugar Cookies]]
+[[Sugar Cookies 3 UK3| Sugar Cookies]]
 [[Sugar Cookies UK3| Sugar Cookies]]
 ### Thumbprint Cookies
 [[Thumb Print Cookies UK3| Thumb Print Cookies]]
