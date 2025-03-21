@@ -50,12 +50,17 @@ title: Desserts
 [[Orange-Apricot Gelatin Mold UK2| Orange-Apricot Gelatin Mold]]
 ## Ice Cream
 [[Butterfinger Ice Cream UK3| Butterfinger Ice Cream]]
+[[Chocolate Ice Cream 2 UK3| Chocolate Ice Cream]]
+[[Chocolate Ice Cream UK3| Chocolate Ice Cream]]
+[[Homemade Ice Cream UK3| Homemade Ice Cream]]
 ## Icing
 [[Brown Sugar Icing UK2| Brown Sugar Icing]]
 [[Chocolate Icing UK2| Chocolate Icing]]
 [[Lemon Cake Icing UK2| Lemon Cake Icing]]
 ## Jubilee
 [[Cherries Flambé UK2| Cherries Flambé]]
+## Lemon Delight
+[[Lemon Delight UK3| Lemon Delight]]
 ## Meringues
 [[Meringue UK3| Meringue]]
 [[No Weep Meringues UK2| No Weep Meringues]]

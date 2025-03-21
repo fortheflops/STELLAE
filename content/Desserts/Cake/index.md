@@ -10,6 +10,7 @@ title: Cake
 ## Buttermilk Cake
 [[Buttermilk Cake UK2| Buttermilk Cake]]
 ## Chocolate Cake
+[[Chocolate Cake UK3| Chocolate Cake]]
 [[Orie's Wesson Oil Chocolate Cake UK2| Orie's Wesson Oil Chocolate Cake]]
 ### Devil's Food Cake
 [[Red Devil's Food Cake UK2| Red Devil's Food Cake]]
