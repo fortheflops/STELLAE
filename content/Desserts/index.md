@@ -50,6 +50,7 @@ title: Desserts
 [[Butterfinger Ice Cream UK3| Butterfinger Ice Cream]]
 [[Chocolate Ice Cream 2 UK3| Chocolate Ice Cream]]
 [[Chocolate Ice Cream UK3| Chocolate Ice Cream]]
+[[Frozen Passion UK3| Frozen Passion]]
 [[Homemade Ice Cream UK3| Homemade Ice Cream]]
 ## Icing
 [[Brown Sugar Icing UK2| Brown Sugar Icing]]

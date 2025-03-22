@@ -49,6 +49,8 @@ title: Cake
 [[English Christmas Cake UK2| English Christmas Cake]]
 ## Lemon Cake
 [[Spry Lemon Cake UK2| Spry Lemon Cake]]
+## Pumpkin Cake
+[[Pumpkin Cake UK3| Pumpkin Cake]]
 ## Jam Cake
 [[Butterfield Jam Cake UK2| Butterfield Jam Cake]]
 [[Jam Cake UK2| Jam Cake]]

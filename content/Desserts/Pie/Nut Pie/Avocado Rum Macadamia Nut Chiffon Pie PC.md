@@ -33,6 +33,6 @@ ___
 4. Pour into cool baked pie shell.
 5. Sprinkle top with macadamia nuts & garnish with whipped cream.
 ___
-![[Handwritten_2025-01-13_132102.webp]]
+![[public/Desserts/Pie/Assets/Handwritten_2025-01-13_132102.webp]]
 
 ![[Handwritten_2025-01-13_132154 (2).webp]]
