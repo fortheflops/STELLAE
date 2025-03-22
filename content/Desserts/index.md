@@ -1,13 +1,13 @@
 ---
 title: Desserts
 ---
-## [[content/Desserts/Bars/index| Bars]]
+## [[Desserts/Bars/index| Bars]]
 
 ## Brownies
 [[Brownie PC| Brownies]]
 [[Jackie's Brownies PC| Jackie's Brownies]]
 [[Mary Doll's Butterscotch Brownies UK2| Mary Doll's Butterscotch Brownies]]
-## [[content/Desserts/Cake/index| Cake]]
+## [[Desserts/Cake/index| Cake]]
 ## Casserole
 [[Apricot Casserole PC| Apricot Casserole]]
 ## Cheesecake
@@ -20,10 +20,8 @@ title: Desserts
 [[Carmel Corn UK3| Carmel Corn]]
 ## Cream Filling
 [[Mint Cream Filling PC| Mint Cream Filling]]
-## Crisp
-[[Annie's Apple Goodie UK2| Annie's Apple Goodie]]
-[[Apple Crisp LC | Apple Crisp]]
-[[Apple Crisp PC| Apple Crisp]]
+## [[Desserts/Crisp/index| Crisp]]
+
 ## Crumble
 [[Apple Crumble PC| Apple Crumble]]
 ## Curd
