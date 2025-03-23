@@ -12,6 +12,9 @@ title: Entrees
 [[Coq in Burgundy UK2| Coq in Burgundy]]
 [[Emily Pineda's Chicken Enchilada Casserole UK2| Emily Pineda's Chicken Enchilada Casserole]]
 [[Neva's Chicken Casserole UK2| Neva's Chicken Casserole ]]
+### Meat
+#### Beef
+[[Hamburger-Sour Cream Casserole UK3| Hamburger-Sour Cream Casserole]]
 ### Meat and Vegetable
 [[Meat and Vegetable Casserole UK2| Meat and Vegetable Casserole]]
 ### Vegetable

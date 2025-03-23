@@ -13,6 +13,8 @@ title: Desserts
 ## Cheesecake
 [[Cheese Cake UK2| Cheese Cake]]
 [[Sweet Little Cheesecake PC| Sweet Little Cheesecake]]
+## Cobbler
+[[Fruit Cobbler UK3| Fruit Cobbler]]
 ## [[Desserts/Confections/index| Confections]]
 
 ## [[Desserts/Cookies/index| Cookies]]
@@ -34,6 +36,7 @@ title: Desserts
 [[Butterscotch Filling UK2| Butterscotch Filling]]
 [[Lemon Filling UK2| Lemon Filling]]
 ## Frosting
+[[Chocolate Frosting UK3| Chocolate Frosting]]
 [[Cream Cheese Frosting UK2| Cream Cheese Frosting]]
 [[Frosting UK2| Frosting]]
 [[Sea Foam Frosting UK2| Sea Foam Frosting]]
@@ -66,6 +69,7 @@ title: Desserts
 ## Muffins
 [[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
 ## Nuts
+[[Pecan Treats UK3| Pecan Treats]]
 [[Sugared Pecans UK3| Sugared Pecans]]
 ## [[Desserts/Pastries/index| Pastries]]
 

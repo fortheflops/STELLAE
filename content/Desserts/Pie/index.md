@@ -18,6 +18,8 @@ title: Pie
 [[Sugarless Apple Pie UK2| Sugarless Apple Pie]]
 ## Chocolate Pie
 [[Chocolate Hershey Pie UK3| Chocolate Hershey Pie]]
+## Cracker Pie
+[[Ritz Cracker Pie UK3| Ritz Cracker Pie]]
 ### Nut Pie
 [[Avocado Rum Macadamia Nut Chiffon Pie PC| Avocado Rum Macadamia Nut Chiffon Pie]]
 [[Butterscotch Nut Pie UK3| Butterscotch Nut Pie]]

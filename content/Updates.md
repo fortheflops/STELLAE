@@ -16,6 +16,9 @@ title: Updates
 |                                     | Better ICON          |
 |                                     | Jill Collection JC   |
 |                                     | Unknown 11           |
+|                                     | Unknown 12           |
+|                                     | Unknown 13           |
+|                                     | Unknown 14           |
 
 
 | In Progress        | TAG                   |     |
