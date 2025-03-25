@@ -5,11 +5,14 @@ title: Entrees
 [[Korean Green Beans & Beef UK2| Korean Green Beans & Beef]]
 [[Meat Cakes in Sour Cream UK2| Meat Cakes in Sour Cream]]
 [[Ukrainian Beef UK2| Ukrainian Beef]]
+## Brisket
+[[3-Day Brisket UK3| 3-Day Brisket]]
+[[Brisket UK3| Brisket]]
 ## Burgers
 [[Tofu Burgers PC| Tofu Burgers]]
 ## Casserole
 ### Chicken
-[[Coq in Burgundy UK2| Coq in Burgundy]]
+[[Chicken Casserole UK3| Chicken Casserole]]
 [[Emily Pineda's Chicken Enchilada Casserole UK2| Emily Pineda's Chicken Enchilada Casserole]]
 [[Neva's Chicken Casserole UK2| Neva's Chicken Casserole ]]
 ### Meat
@@ -26,6 +29,8 @@ title: Entrees
 [[Spinach Casserole UK2| Spinach Casserole]]
 [[Spinach, Broccoli, and Asparagus Casserole PC| Spinach, Broccoli, and Asparagus Casserole]]
 ## Chicken
+[[Coq in Burgundy UK2| Coq in Burgundy]]
+[[Creamed Chicken UK3| Creamed Chicken]]
 [[Lemon Barbequed Chicken UK2| Lemon Barbequed Chicken]]
 [[Lena's 3 Cheese Chicken Bake UK2| Lena's 3 Cheese Chicken Bake]]
 ## Crab
