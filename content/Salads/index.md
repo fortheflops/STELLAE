@@ -3,7 +3,8 @@ title: Salads
 ---
 ## Bean Salad
 [[Black Bean Salad PC| Black Bean Salad]]
-[[Three Bean Salad PC| Three Bean Salad]]
+[[Three Bean Salad (Garbanzo, Pinto, Black) PC| Three Bean Salad (Garbanzo, Pinto, Black)]]
+[[Three Bean Salad (Green, Yellow, Kidney) UK3| Three Bean Salad (Green, Yellow, Kidney)]]
 ## Cabbage Salad
 [[Hyden Salad UK2| Hyden Salad]]
 [[Lois's Cabbage Salad UK2| Lois's Cabbage Salad]]

@@ -61,9 +61,13 @@ title: Entrees
 [[Stuffed Manicotti Marinara UK2| Stuffed Manicotti Marinara]]
 ### Noodles Romano
 [[Noodles Romano UK3| Noodles Romano]]
+### Chicken Spaghetti
+[[Chicken Spaghetti UK3| Chicken Spaghetti]]
 ### Stroganoff
 [[Beef a la Stroganoff UK2| Beef a la Stroganoff]]
 [[Beef Stroganoff UK2| Beef Stroganoff]]
+### Tetrazzini
+[[Chicken Tetrazzini UK3| Chicken Tetrazzini]]
 ## Patties
 [[Russian Meat Patties UK2| Russian Meat Patties]]
 ## Pork Chops

@@ -83,6 +83,7 @@ title: Desserts
 ## Salad
 [[Strawberry Salad UK2| Strawberry Salad]]
 [[Juanita's Orange Jello Salad UK2| Juanita's Orange Jello Salad]]
+[[Pineapple Lime Salad UK3| Pineapple Lime Salad]]
 [[Cranberry Salad UK2| Cranberry Salad]]
 ### Watergate Salad
 [[Watergate Salad UK2| Watergate Salad]]
