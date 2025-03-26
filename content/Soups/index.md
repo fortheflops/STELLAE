@@ -18,3 +18,5 @@ title: Soups
 ## Vegetable
 [[Mushroom Soup PC| Mushroom Soup]]
 [[Green Bean Soup PC| Green Bean Soup]]
+## Gumbo
+[[Shrimp Gumbo UK3| Shrimp Gumbo]]

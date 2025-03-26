@@ -13,11 +13,15 @@ title: Entrees
 ## Casserole
 ### Chicken
 [[Chicken Casserole UK3| Chicken Casserole]]
+[[Chicken Silk Rice Casserole UK3| Chicken Silk Rice Casserole]]
 [[Emily Pineda's Chicken Enchilada Casserole UK2| Emily Pineda's Chicken Enchilada Casserole]]
 [[Neva's Chicken Casserole UK2| Neva's Chicken Casserole ]]
 ### Meat
 #### Beef
+[[Company Casserole UK3| Company Casserole]]
 [[Hamburger-Sour Cream Casserole UK3| Hamburger-Sour Cream Casserole]]
+[[Jean's Hamburger Casserole UK3| Jean's Hamburger Casserole]]
+[[Mexican Casserole UK3| Mexican Casserole]]
 ### Meat and Vegetable
 [[Meat and Vegetable Casserole UK2| Meat and Vegetable Casserole]]
 ### Vegetable
