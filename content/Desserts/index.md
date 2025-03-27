@@ -80,13 +80,7 @@ title: Desserts
 [[Bread Pudding UK2| Bread Pudding]]
 ### Steamed Pudding
 [[Surprise 7 Minute Pudding UK2| Surprise 7 Minute Pudding]]
-## Salad
-[[Strawberry Salad UK2| Strawberry Salad]]
-[[Juanita's Orange Jello Salad UK2| Juanita's Orange Jello Salad]]
-[[Pineapple Lime Salad UK3| Pineapple Lime Salad]]
-[[Cranberry Salad UK2| Cranberry Salad]]
-### Watergate Salad
-[[Watergate Salad UK2| Watergate Salad]]
+## [[Desserts/Salad/index| Salad]]
 ## Scones
 [[Currant Scones UK2| Currant Scones]]
 ## Soups
