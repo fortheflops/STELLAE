@@ -26,6 +26,6 @@ ___
 4. Spread with 1 pint sour cream.
 5. Pour remaining fruit mixture over sour cream & allow to jell.
 ___
-![[Handwritten_2025-02-01_114333.webp]]
+![[content/Desserts/Salad/Jello Salad/Strawberry/Assets/Handwritten_2025-02-01_114333.webp]]
 
 ![[Handwritten_2025-02-01_114411 (2).webp]]

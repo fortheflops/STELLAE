@@ -19,5 +19,9 @@ title: Salads
 [[Rice Salad PC| Rice Salad]]
 ## Spinach Salad
 [[Chafing Dish Spinach Salad UK2| Chafing Dish Spinach Salad]]
+## Strawberry
+[[Strawberry Romaine UK3| Strawberry Romaine]]
 ## Taco Salad
 [[Marciel's Taco Salad UK2| Marciel's Taco Salad]]
+## Vermicelli Salad
+[[Vermicelli Salad UK3| Vermicelli Salad]]

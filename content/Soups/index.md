@@ -9,6 +9,8 @@ title: Soups
 [[Italian Clam & Potato Soup UK2| Italian Clam & Potato Soup]]
 ## Cream of Potato
 [[Cream of Potato Soup UK3| Cream of Potato Soup]]
+## Gazpacho
+[[Gazpacho UK3| Gazpacho]]
 ## Stew
 [[Marmitako UK2| Marmitako]]
 ### Chili
