@@ -1,5 +1,5 @@
 ---
-title: Spinach Dip
+title: Spinach Dip with Vegetable Soup Mix
 draft: false
 tags:
   - UnknownThree

@@ -1,5 +1,5 @@
 ---
-title: Spinach Dip
+title: Classic Spinach Dip
 draft: false
 tags:
   - UnknownThree

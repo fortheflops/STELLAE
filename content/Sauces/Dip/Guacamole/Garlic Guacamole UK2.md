@@ -1,5 +1,5 @@
 ---
-title: Guacamole
+title: Garlic Guacamole
 draft: false
 tags:
   - UnknownTwo

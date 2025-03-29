@@ -1,6 +1,8 @@
 ---
 title: Sauces
 ---
+## Apricot
+[[Apricot Sauce UK3| Apricot Sauce]]
 ## Barbecue Sauce
 [[Barbecue Sauce UK2| Barbecue Sauce]]
 [[Barbecue Sauce UK3| Barbecue Sauce]]
@@ -22,15 +24,16 @@ title: Sauces
 ### Fruit Dip
 [[Fruit Dip UK3| Fruit Dip]]
 ### Guacamole
-[[Guacamole 2 UK2| Guacamole]]
-[[Guacamole UK2| Guacamole]]
+[[Garlic Guacamole UK2| Garlic Guacamole]]
+[[Classic Guacamole with Cilantro UK2| Classic Guacamole with Cilantro]]
+[[Susan's Simple Guacamole UK3| Susan's Simple Guacamole]]
 ### Ranch
 [[Vegetable Dip UK3| Vegetable Dip]]
 ### Shrimp
 [[Shrimp Dip UK3| Shrimp Dip]]
 ### Spinach Dip
-[[Spinach Dip UK3| Spinach Dip]]
-[[Spinach Dip 2 UK3| Spinach Dip]]
+[[Spinach Dip with Vegetable Soup Mix UK3| Spinach Dip with Vegetable Soup Mix]]
+[[Classic Spinach Dip UK3| Classic Spinach Dip]]
 ## Dressing
 [[Celery Seed Dressing UK3| Celery Seed Dressing]]
 [[Cole Slaw Dressing UK2| Cole Slaw Dressing]]
