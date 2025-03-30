@@ -32,4 +32,4 @@ ___
 1. Combine all ingredients. It's implied to chop the vegetables and to let the salad come to room temperature.
 2. Make the sauce by combining the olive oil, lemon juice, cilantro, black pepper, and salt
 ___
-![[Handwritten_2025-01-10_120716.webp]]
+![[content/Salads/Vegetable Salad/Bean Salad/Assets/Handwritten_2025-01-10_120716.webp]]

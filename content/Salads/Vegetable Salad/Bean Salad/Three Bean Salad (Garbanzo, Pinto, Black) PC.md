@@ -31,4 +31,4 @@ ___
 3. Add right before serving: Avocado, Cherry Tomato's, and Crumbled tortilla chips
 
 ___
-![[Handwritten_2025-01-06_140956.webp]]
+![[content/Salads/Vegetable Salad/Bean Salad/Assets/Handwritten_2025-01-06_140956.webp]]

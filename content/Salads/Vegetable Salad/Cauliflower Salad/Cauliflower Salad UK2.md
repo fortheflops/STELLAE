@@ -37,6 +37,6 @@ ___
 8.  Simmer 5 minutes.
 9.  Chill 24 hours. Drain well before serving.
 ___
-![[Handwritten_2025-02-19_105824.webp]]
+![[content/Salads/Vegetable Salad/Cauliflower Salad/Assets/Handwritten_2025-02-19_105824.webp]]
 
 ![[Handwritten_2025-02-19_105908 (2).webp]]

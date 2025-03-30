@@ -37,4 +37,4 @@ ___
 >I use frozen round carrots from Ranch market
 
 ___
-![[Handwritten_2024-06-22_171845.webp]]![[Handwritten_2024-06-22_172311 (2).webp]]
+![[content/Salads/Vegetable Salad/Carrot Salad/Assets/Handwritten_2024-06-22_171845.webp]]![[Handwritten_2024-06-22_172311 (2).webp]]
