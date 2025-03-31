@@ -14,6 +14,8 @@ title: Sauces
 [[Chile Con Queso UK2| Chile Con Queso]]
 ## Cocktail Sauce
 [[Shrimp Cocktail Sauce UK2| Shrimp Cocktail Sauce]]
+## Compote
+[[Fruit Compote UK3| Fruit Compote]]
 ## Dip
 ### Cheese Dip
 [[Fondue PC| Fondue]]

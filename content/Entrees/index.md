@@ -4,6 +4,7 @@ title: Entrees
 ## Beef
 [[Korean Green Beans & Beef UK2| Korean Green Beans & Beef]]
 [[Meat Cakes in Sour Cream UK2| Meat Cakes in Sour Cream]]
+[[Swedish Beef Rolls UK3| Swedish Beef Rolls]]
 [[Ukrainian Beef UK2| Ukrainian Beef]]
 ## Brisket
 [[3-Day Brisket UK3| 3-Day Brisket]]

@@ -17,6 +17,9 @@ title: Sides
 [[Squash Cakes UK2| Squash Cakes]]
 ## Noodles
 [[Noodles Romanoff PC| Noodles Romanoff]]
+## Rice
+[[Sour Cream Rice PC| Sour Cream Rice]]
+[[Spanish Rice UK3| Spanish Rice]]
 ## Vegetable
 ### Broccoli
 [[Broccoli Crown PC| Broccoli Crown]]

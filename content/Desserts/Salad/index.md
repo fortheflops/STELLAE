@@ -21,6 +21,7 @@ title: Salad
 [[Cranberry Salad UK2| Cranberry Salad]]
 ## Orange
 [[Juanita's Orange Jello Salad UK2| Juanita's Orange Jello Salad]]
+[[Orange Salad UK3| Orange Salad]]
 ## Pineapple
 [[Cottage Cheese - Jello Salad UK3| Cottage Cheese - Jello Salad]]
 [[Pineapple Lime Salad UK3| Pineapple Lime Salad]]
@@ -28,5 +29,7 @@ title: Salad
 [[Frozen Strawberry Salad UK3| Frozen Strawberry Salad]]
 [[Strawberry Salad UK2| Strawberry Salad]]
 [[Strawberry, Pineapple and Banana Jello Salad UK3| Strawberry, Pineapple, Banana Jello Salad]]
+# Pie Salad
+[[Cherry Pie Salad UK3| Cherry Pie Salad]]
 # Watergate Salad
 [[Watergate Salad UK2| Watergate Salad]]
