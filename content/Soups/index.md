@@ -22,3 +22,5 @@ title: Soups
 [[Green Bean Soup PC| Green Bean Soup]]
 ## Gumbo
 [[Shrimp Gumbo UK3| Shrimp Gumbo]]
+## Shrimp Creole
+[[Shrimp Creole UK3| Shrimp Creole]]
