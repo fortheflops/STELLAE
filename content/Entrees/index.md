@@ -6,6 +6,7 @@ title: Entrees
 ### Beef
 [[Cheesy Creamy Mexican Casserole UK3| Cheesy Creamy Mexican Casserole]]
 [[Company Casserole UK3| Company Casserole]]
+[[Ground Meat Casserole UK3| Ground Meat Casserole]]
 [[Hamburger-Sour Cream Casserole UK3| Hamburger-Sour Cream Casserole]]
 [[Jean's Hamburger Casserole UK3| Jean's Hamburger Casserole]]
 [[Mexican Casserole UK3| Mexican Casserole]]
@@ -46,9 +47,13 @@ title: Entrees
 ## Chicken
 [[Chicken Diablo UK3| Chicken Diablo]]
 [[Coq in Burgundy UK2| Coq in Burgundy]]
+[[Country Style Chicken Kiev UK3| Country Style Chicken Kiev]]
 [[Creamed Chicken UK3| Creamed Chicken]]
 [[Lemon Barbequed Chicken UK2| Lemon Barbequed Chicken]]
 [[Lena's 3 Cheese Chicken Bake UK2| Lena's 3 Cheese Chicken Bake]]
+[[Mexican Chicken UK3| Mexican Chicken]]
+### Enchiladas
+[[Chicken Enchiladas UK3| Chicken Enchiladas]]
 ## Crab
 [[Crab Voltaire UK2| Crab Voltaire]]
 [[Creamy Crab UK2| Creamy Crab]]
@@ -61,7 +66,8 @@ title: Entrees
 ## Pie
 [[Potato Meat Pie UK2| Potato Meat Pie]]
 ## Pork Chops
-[[Barbequed Pork Chops LC |Barbequed Pork Chops]]
+[[Barbequed Pork Chops LC | Barbequed Pork Chops]]
+[[Pork Chops and Wild Rice UK3| Pork Chops and Wild Rice]]
 ## Short Ribs
 [[Barbecued Short Ribs UK2| Barbecued Short Ribs]]
 ## Steak
@@ -84,6 +90,7 @@ title: Entrees
 [[Beef a la Stroganoff UK2| Beef a la Stroganoff]]
 [[Beef Stroganoff UK2| Beef Stroganoff]]
 ### Tetrazzini
+[[Cathy's Chicken Tetrazzini UK3| Cathy's Chicken Tetrazzini]]
 [[Chicken Tetrazzini UK3| Chicken Tetrazzini]]
 # Vegetable
 ## Burger
