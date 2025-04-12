@@ -20,7 +20,8 @@ title: Cake
 [[Bert Ellen Camp's Coconut Cake UK2| Bert Ellen Camp's Coconut Cake]]
 [[Coconut Cake on Perbleco UK2| Coconut Cake on Perbleco]]
 ## Cream Cake
-[[Italian Cream Cake UK2| Italian Cream Cake]]
+[[Italian Cream Cake UK3| Italian Cream Cake]]
+[[Jr. League Italian Cream Cake UK2| Jr. League Italian Cream Cake]]
 ## Eggless Cake
 [[Eggless Cake UK2| Eggless Cake]]
 ### Wacky Cake
@@ -32,6 +33,7 @@ title: Cake
 [[Tomato Soup Cake PC| Tomato Soup Cake]]
 ### Apple
 [[Apple Dump Dish UK2| Apple Dump Dish]]
+[[Fresh Apple Cake UK3| Fresh Apple Cake]]
 [[Neva's Apple Cake UK2| Neva's Apple Cake]]
 #### Apple Sauce Cake
 [[Applesauce Spice Cake UK2| Applesauce Spice Cake]]

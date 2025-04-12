@@ -13,6 +13,8 @@ title: Soups
 [[Gazpacho UK3| Gazpacho]]
 ## Stew
 [[Marmitako UK2| Marmitako]]
+### Chicken Creole
+[[Chicken Creole UK3| Chicken Creole]]
 ### Chili
 [[Pardenales River Chili UK2| Pardenales River Chili]]
 ### Green Chile

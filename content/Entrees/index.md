@@ -6,6 +6,7 @@ title: Entrees
 ### Beef
 [[Cheesy Creamy Mexican Casserole UK3| Cheesy Creamy Mexican Casserole]]
 [[Company Casserole UK3| Company Casserole]]
+[[Enchilada Casserole UK3| Enchilada Casserole]]
 [[Ground Meat Casserole UK3| Ground Meat Casserole]]
 [[Hamburger-Sour Cream Casserole UK3| Hamburger-Sour Cream Casserole]]
 [[Jean's Hamburger Casserole UK3| Jean's Hamburger Casserole]]
@@ -34,6 +35,7 @@ title: Entrees
 [[Spinach Puff UK3| Spinach Puff]]
 ## Quiche
 [[Mushroom Quiche PC| Mushroom Quiche]]
+[[Quick Quiche UK3| Quick Quiche]]
 [[Sausage Quiche UK3| Sausage Quiche]]
 # Meat
 ## Beef
@@ -45,6 +47,7 @@ title: Entrees
 [[3-Day Brisket UK3| 3-Day Brisket]]
 [[Brisket UK3| Brisket]]
 ## Chicken
+[[Chicken & Crescents UK3| Chicken & Crescents]]
 [[Chicken Diablo UK3| Chicken Diablo]]
 [[Coq in Burgundy UK2| Coq in Burgundy]]
 [[Country Style Chicken Kiev UK3| Country Style Chicken Kiev]]
