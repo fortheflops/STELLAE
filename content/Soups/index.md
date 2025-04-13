@@ -5,6 +5,7 @@ title: Soups
 [[Tomato Bisque PC| Tomato Bisque]]
 ## Chowder
 [[Cheddar Chowder UK3| Cheddar Chowder ]]
+[[Susan's Cheddar Chowder UK3| Susan's Cheddar Chowder]]
 ## Clam
 [[Italian Clam & Potato Soup UK2| Italian Clam & Potato Soup]]
 ## Cream of Potato

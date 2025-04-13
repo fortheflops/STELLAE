@@ -1,5 +1,5 @@
 ---
-title: Fruit Cake
+title: " Fruit Cake"
 draft: false
 tags:
   - UnknownTwo
@@ -7,48 +7,45 @@ tags:
   - "#Fruit"
 ---
 ## Author
-Abby
+Unknown
 ___
 ## Recipe
 
 | Measurements | Ingredients               |
 | :----------- | ------------------------- |
-| 1 ½ Cups             | [[Golden Raisins]]                      |
-| 1 ½ Cups             | [[Dark Raisins]]                        |
-| 2 Cups            | [[Dates]]                               |
-| 6 Cups            | [[Candied Fruit (Mix)]]                 |
-| 2 tsp.              | [[Cinnamon]]                            |
-| 1 tsp.              | [[Allspice]]                            |
-| ½ tsp.              | [[Cloves]]                              |
-| 1 tsp.              | [[Nutmeg]]                              |
-| 1 ½ Cups          | [[Apricot Whole Fruit Nectar]]          |
-| 2 Cups            | [[Sugar]]                               |
-| 10                | [[Eggs]]                                |
-| 6 Cups            | [[Flour]]                               |
-| 2 tsp.            | [[Salt]]                                |
-| ½ tsp.              | [[Soda]]                                |
-| 2 Tbsp               | [[Vanilla]]                             |
-| 2 Cups               | [[Nuts]]                                |
-| 2 Cups               | [[Butter]]                              |
+| 1 1/2 Cups        | [[Golden Raisins]]              |
+| 1 1/2 Cups        | Dark [[Raisins]]            |
+| 2 Cups            | [[Dates]]                       |
+| 6 Cups            | Mixed [[Candied Fruit]]             |
+| 2 Teaspoons        | [[Cinnamon]]                    |
+| 1 Teaspoon        | [[Allspice]]                   |
+| 1/2 Teaspoon       | [[Cloves]]                      |
+| 1 Teaspoon       | [[Nutmeg]]                   |
+| 1 1/2 Cups           | [[Apricot Nectar]] (whole fruit)|
+| 2 Cups            | [[Sugar]]                       |
+| 10                | [[Eggs]]                        |
+| 6 Cups            | [[Flour]]                       |
+| 2 Teaspoons         | [[Salt]]                        |
+| 1/2 Teaspoon        | [[Baking Soda]]               |
+| 2 Tablespoons       | [[Vanilla]]                    |
+| 2 Cups            | [[Nuts]]                        |
+| 2 Cups            | [[Butter]]                      |
+|                   | [[Brown Paper]]                  |
+|                   | [[Water]]                        |
 ___
 ### Instructions
-1. Rinse And Drain Raisins.
-2. If They Are Dry And Hard, Steam Them In A Sieve Over Boiling Water.
-3. Combine Dates, Fruits, And Nectar In Large Kettle And Cook Slowly About 5 Minutes, Stirring Constantly.
-4. Cover And Let Stand Overnight.
-5. Cream Butter, Sugar, Add Eggs, Mix Well.
-6. Sift Flour, Salt, Soda And Add To Creamed Mixture.
-7. Stir In Vanilla And Nuts.
-8. Pour Batter Over Fruits And Mix Thoroughly.
-9. Turn Into One 9" Tube Pan And Two Loaf Pans 8 ½ x 4 ½ x 2 ½" Which Have Been Lined With Two Thicknesses Of Greased Brown Paper And One Of Greased Wax Paper.
-10. Bake 300 Degrees For 3 To 3 ½ Hours.
-11. A Shallow Pan Of Water In Bottom Of Oven Makes Moist Cake.
+1.  Rinse and drain raisins.
+2.  If they are dry and hard, steam them in a sieve over boiling water.
+3.  Combine dates, fruits, spices, and nectar in large kettle and cook slowly about 5 minutes, stirring constantly.
+4.  Cover and let stand overnight.
+5.  Cream butter and sugar, add eggs - mix well.
+6.  Sift flour, salt, and soda and add to creamed mixture.
+7.  Stir in vanilla and nuts.
+8.  Pour batter over fruits and mix thoroughly.
+9.  Turn into one 9" tube pan and two loaf pans 8 1/2 x 4 1/2 x 2 1/2", which have been lined with two thicknesses of greased brown paper and one of greased wax paper.
+10. Bake 300 degrees Fahrenheit - 3 to 3 1/2 hours.
+11. A shallow pan of water in bottom of oven makes moist cake. Makes 11 pounds.
 ___
+![[Handwritten_2025-02-28_145503.webp]]
 
->[! Servings]
->Makes 11 Pounds
-
-___
-![[2025-01-27_121044.webp]]
-
-![[Handwritten_2025-01-27_121146.webp]]
+![[Handwritten_2025-02-28_145602 (2).webp]]
