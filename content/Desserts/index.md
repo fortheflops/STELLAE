@@ -12,7 +12,10 @@ title: Desserts
 [[Apricot Casserole PC| Apricot Casserole]]
 ## Cheesecake
 [[Cheese Cake UK2| Cheese Cake]]
+[[Mini Cheesecakes UK3| Mini Cheesecakes]]
 [[Sweet Little Cheesecake PC| Sweet Little Cheesecake]]
+### Cheesecake Bars
+[[Festive Cranberry Cheese Squares UK3| Festive Cranberry Cheese Squares]]
 ## Cobbler
 [[Fruit Cobbler UK3| Fruit Cobbler]]
 ## [[Desserts/Confections/index| Confections]]
@@ -105,4 +108,5 @@ title: Desserts
 [[Geng-a-lings UK2| Geng-a-lings]]
 [[Graham Cracker Roll UK2| Graham Cracker Roll]]
 [[Rich Chocolate Dessert UK3| Rich Chocolate Dessert]]
+[[Strawberry Dessert UK3| Strawberry Dessert]]
 [[Tidbits Trash UK3| Tidbits Trash]]
