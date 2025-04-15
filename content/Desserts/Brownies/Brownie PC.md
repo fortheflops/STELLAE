@@ -30,4 +30,4 @@ ___
 8. Bake for 25 minutes.
 9. Let cool.
 ___
-![[Handwritten_2025-01-08_143107.webp]]
+![[content/Desserts/Brownies/Assets/Handwritten_2025-01-08_143107.webp]]

@@ -4,7 +4,8 @@ title: Desserts
 ## [[Desserts/Bars/index| Bars]]
 
 ## Brownies
-[[Brownie PC| Brownies]]
+[[Brownie PC| Brownie]]
+[[Brownies UK3| Brownies]]
 [[Jackie's Brownies PC| Jackie's Brownies]]
 [[Mary Doll's Butterscotch Brownies UK2| Mary Doll's Butterscotch Brownies]]
 ## [[Desserts/Cake/index| Cake]]
@@ -58,6 +59,7 @@ title: Desserts
 [[Chocolate Ice Cream UK3| Chocolate Ice Cream]]
 [[Frozen Passion UK3| Frozen Passion]]
 [[Homemade Ice Cream UK3| Homemade Ice Cream]]
+[[Ice Cream UK3| Ice Cream]]
 ## Icing
 [[Brown Sugar Icing UK2| Brown Sugar Icing]]
 [[Chocolate Icing UK2| Chocolate Icing]]
@@ -92,8 +94,10 @@ title: Desserts
 [[Honey Pecan Buns UK2| Honey Pecan Buns]]
 ## Syrup
 [[Brown Sugar Syrup UK2| Brown Sugar Syrup]]
+## Tarts
+[[Sand Tarts UK3| Sand Tarts]]
 ## Tea Cake
-[[Tea Cakes 2 UK2| Tea Cakes]]
+[[Clarice's Tea Cakes 2 UK2| Clarice's Tea Cakes]]
 [[Tea Cakes UK2| Tea Cakes]]
 ### Lemon
 [[Lemon Tea Cakes UK2| Lemon Tea Cakes]]

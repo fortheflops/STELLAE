@@ -1,6 +1,8 @@
 ---
 title: Confections
 ---
+## Brittle
+[[Microwave Peanut Brittle UK3| Microwave Peanut Brittle]]
 ## Candy
 [[Candied Walnuts PC| Candied Walnuts]]
 [[Candy Fours PC| Candy Fours]]

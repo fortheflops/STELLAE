@@ -48,6 +48,8 @@ title: Cookies
 ### Pizzelle
 [[Lace Cookies UK3| Lace Cookies]]
 [[Pizzelle UK2| Pizzelle]]
+### Shortbread
+[[Shortbread UK3| Shortbread]]
 ### Sugar Cookies
 [[Sugar Cookies 2 UK3| Sugar Cookies]]
 [[Sugar Cookies 3 UK3| Sugar Cookies]]
