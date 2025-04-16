@@ -41,9 +41,10 @@ title: Cookies
 [[Pecan Drops UK2| Pecan Drops]]
 [[Pecan Macaroons UK2| Pecan Macaroons]]
 ### Oatmeal
+[[Classic Oatmeal Cookies UK2| Classic Oatmeal Cookies]]
 [[Coconut Oatmeal Cookies UK2| Coconut Oatmeal Cookies]]
 [[Jumble Oatmeal Cookies UK2| Jumble Oatmeal Cookies]]
-[[Oatmeal Cookies UK2| Oatmeal Cookies]]
+[[Oatmeal Cookies UK3| Oatmeal Cookies]]
 [[Pineapple Oatmeal Cookies UK2| Pineapple Oatmeal Cookies]]
 ### Pizzelle
 [[Lace Cookies UK3| Lace Cookies]]

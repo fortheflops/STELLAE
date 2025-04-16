@@ -63,6 +63,7 @@ title: Desserts
 ## Icing
 [[Brown Sugar Icing UK2| Brown Sugar Icing]]
 [[Chocolate Icing UK2| Chocolate Icing]]
+[[Coconut Boiled White Icing UK3| Coconut Boiled White Icing]]
 [[Lemon Cake Icing UK2| Lemon Cake Icing]]
 ## Jubilee
 [[Cherries Flambé UK2| Cherries Flambé]]
@@ -72,6 +73,7 @@ title: Desserts
 [[Meringue UK3| Meringue]]
 [[No Weep Meringues UK2| No Weep Meringues]]
 ## Muffins
+[[Plum Muffins UK3| Plum Muffins]]
 [[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
 ## Nuts
 [[Pecan Treats UK3| Pecan Treats]]
