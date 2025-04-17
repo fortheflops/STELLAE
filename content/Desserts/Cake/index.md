@@ -16,6 +16,7 @@ title: Cake
 ### Devil's Food Cake
 [[Red Devil's Food Cake UK2| Red Devil's Food Cake]]
 ### German Chocolate
+[[German Chocolate Cake UK3| German Chocolate Cake]]
 [[Turtle Cake UK2| Turtle Cake]]
 ## Coconut Cake
 [[Bert Ellen Camp's Coconut Cake UK2| Bert Ellen Camp's Coconut Cake]]
@@ -80,6 +81,7 @@ title: Cake
 [[Old Fashioned Strawberry Shortcake UK2| Old Fashioned Strawberry Shortcake]]
 ## Sour Cream
 [[Sour Cream Cake UK2| Sour Cream Cake]]
+[[Sour Cream Coffee Cake UK3| Sour Cream Coffee Cake]]
 ## Spice Cake
 [[Spice Cake UK2| Spice Cake]]
 ## Torte

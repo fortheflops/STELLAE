@@ -8,6 +8,8 @@ title: Confections
 [[Candy Fours PC| Candy Fours]]
 [[Chocolate Almond Raisin Clusters UK2| Chocolate Almond Raisin Clusters]]
 [[Molly's Toffee PC| Molly's Toffee]]
+## Divinity
+[[Divinity UK3| Divinity]]
 ### Bon Bons
 [[Pecan Bon Bons UK2| Pecan Bon Bons]]
 ## Pralines

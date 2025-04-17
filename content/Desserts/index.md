@@ -113,6 +113,7 @@ title: Desserts
 [[Date-Nut Dessert UK2| Date-Nut Dessert]]
 [[Geng-a-lings UK2| Geng-a-lings]]
 [[Graham Cracker Roll UK2| Graham Cracker Roll]]
+[[Strawberry Cream Squares UK3| Strawberry Cream Squares]]
 [[Rich Chocolate Dessert UK3| Rich Chocolate Dessert]]
 [[Strawberry Dessert UK3| Strawberry Dessert]]
 [[Tidbits Trash UK3| Tidbits Trash]]
