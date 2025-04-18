@@ -24,6 +24,7 @@ title: Cookies
 [[Chocolate Crinkles UK2| Chocolate Crinkles]]
 [[Devil's Food Drop Cookies UK2| Devil's Food Drop Cookies]]
 ### Cookie Press
+[[Christmas Tree Cookies UK3| Christmas Tree Cookies]]
 [[Sour Cream Cookies for Cookie Press UK2| Sour Cream Cookies for Cookie Press]]
 ### Fruit
 [[Apple Cookies UK2| Apple Cookies]]
@@ -37,6 +38,8 @@ title: Cookies
 [[Pineapple Drop Cookies UK2| Pineapple Drop Cookies]]
 ### Gingerbread
 [[Gingerbread UK2| Gingerbread]]
+### Meringue Cookies
+[[Merengue Cookie UK3| Merengue Cookie]]
 ### Nut
 [[Pecan Drops UK2| Pecan Drops]]
 [[Pecan Macaroons UK2| Pecan Macaroons]]
@@ -50,10 +53,12 @@ title: Cookies
 [[Lace Cookies UK3| Lace Cookies]]
 [[Pizzelle UK2| Pizzelle]]
 ### Shortbread
+[[Melt Away Cookies UK3| Melt Away Cookies]]
 [[Shortbread UK3| Shortbread]]
 ### Sugar Cookies
-[[Sugar Cookies 2 UK3| Sugar Cookies]]
-[[Sugar Cookies 3 UK3| Sugar Cookies]]
+[[Cheth's Sugar Cookies UK3| Cheth's Sugar Cookies]]
+[[Cindy's Sugar Cookies UK3| Cindy's Sugar Cookies]]
+[[Classic Sugar Cookies UK3| Classic Sugar Cookies]]
 [[Sugar Cookies UK3| Sugar Cookies]]
 ### Thumbprint Cookies
 [[Thumb Print Cookies UK3| Thumb Print Cookies]]
