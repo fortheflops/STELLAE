@@ -8,12 +8,14 @@ title: Desserts
 [[Brownies UK3| Brownies]]
 [[Jackie's Brownies PC| Jackie's Brownies]]
 [[Mary Doll's Butterscotch Brownies UK2| Mary Doll's Butterscotch Brownies]]
+[[Millie's Brownies UK3| Millie's Brownies]]
 ## [[Desserts/Cake/index| Cake]]
 ## Casserole
 [[Apricot Casserole PC| Apricot Casserole]]
 ## Cheesecake
 [[Cheese Cake UK2| Cheese Cake]]
 [[Mini Cheesecakes UK3| Mini Cheesecakes]]
+[[Refrigerator Cheese Cake UK3| Refrigerator Cheese Cake]]
 [[Sweet Little Cheesecake PC| Sweet Little Cheesecake]]
 ### Cheesecake Bars
 [[Festive Cranberry Cheese Squares UK3| Festive Cranberry Cheese Squares]]
