@@ -71,6 +71,8 @@ title: Cake
 [[Yankee Layer Cake UK2| Yankee Layer Cake]]
 ## Mouse Cake
 [[Chocolate Mousse Cake UK2| Chocolate Mousse Cake]]
+## Oatmeal Cake
+[[Oatmeal Cake UK3| Oatmeal Cake]]
 ## Pound Cake
 [[Bourbon Pound Cake UK2| Bourbon Pound Cake]]
 ## Sheet Cake

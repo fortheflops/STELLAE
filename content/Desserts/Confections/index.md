@@ -9,6 +9,7 @@ title: Confections
 [[Candy Fours PC| Candy Fours]]
 [[Chocolate Almond Raisin Clusters UK2| Chocolate Almond Raisin Clusters]]
 [[Molly's Toffee PC| Molly's Toffee]]
+[[Rocky Road Candy UK3| Rocky Road Candy]]
 ## Divinity
 [[Butter Divinity UK3| Butter Divinity]]
 [[Divinity UK3| Divinity]]
