@@ -12,29 +12,23 @@ ___
 
 | Measurements | Ingredients               |
 | :----------- | ------------------------- |
-|3|[[Eggs]]|
-|1 Cup|[[Vegetable Oil]]|
-|1 1/2 Cups|[[Sugar]]|
-|3 Medium|[[Zucchini]] (Grated & Well Drained, about 2 cups)|
-|2 Teaspoons|[[Vanilla Extract]]|
-|3 Cups|[[Flour]] (Sifted)|
-|1/4 Teaspoon|[[Baking Powder]]|
-|1 Teaspoon|[[Baking Soda]]|
-|3 Teaspoons|[[Cinnamon]]|
-|1 Teaspoon|[[Salt]]|
-|1 Cup|[[Raisins]]|
-|1 Cup|[[Chopped Nuts]] (Walnuts or Pecans recommended)|
+| 3                   | [[Eggs]]                      |
+| 1 Cup               | [[Brown Sugar]]               |
+| 1 Cup               | [[White Sugar]]               |
+| 1 Cup | [[Salad Oil]]|
+| 2 Teaspoons            | [[Vanilla]]                   |
+| 3 Cups              | [[Flour]]                     |
+| 1 Teaspoon            | [[Baking Soda]]               |
+| 1 Teaspoon            | [[Salt]]                      |
+| 1 Teaspoon            | [[Cinnamon]]                  |
+| ¼ Teaspoon            | [[Baking Powder]]              |
+| 1 Cup               | Stewed [[Raisins]]          |
+| ½ Cup               | [[Nuts]]                     |
+
 ___
 ### Instructions
-1. **Prepare Batter:** Beat eggs, stir in oil, sugar, zucchini & vanilla.
-2. **Combine Dry:** Sift Flour, B.P, soda, cinnamon & salt onto wax paper. Stir into egg mixture until well blended.
-3. **Add Remaining Ingredients:** Stir in raisins & nuts.
-4. **Prepare Pans:** Spoon batter into two well-greased 8 x 5 x 3" loaf pans.
-5. **Bake:** Bake in moderate oven 375° for one hour.
-6. **Cool:** Cool in pans for 10 min. Remove from pans.
+1.  Add raisins and nuts.
+2. Grease and flour 2 loaf pans.
+3. Bake for 1 hour at 350 degrees.
 ___
-![[content/Bread/Zucchini Bread/Assets/Handwritten_2025-02-10_105519.webp]]
-
-![[Handwritten_2025-02-10_105625 (2).webp]]
-
-![[Handwritten_2025-02-10_105743 (3).webp]]
+![[Handwritten_2025-02-22_125919.webp]]

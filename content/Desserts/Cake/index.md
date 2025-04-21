@@ -56,12 +56,14 @@ title: Cake
 #### Christmas Cake
 [[Christmas Cake UK2| Christmas Cake ]]
 [[English Christmas Cake UK2| English Christmas Cake]]
-## Lemon Cake
+### Lemon Cake
 [[Lemon Cake UK3| Lemon Cake]]
 [[Lemon Supreme Special Cake UK3| Lemon Supreme Special Cake]]
 [[Spry Lemon Cake UK2| Spry Lemon Cake]]
-## Pumpkin Cake
+### Pumpkin Cake
 [[Pumpkin Cake UK3| Pumpkin Cake]]
+## Strawberry Cake
+[[Strawberry Cake UK3| Strawberry Cake]]
 ## Jam Cake
 [[Butterfield Jam Cake UK2| Butterfield Jam Cake]]
 [[Jam Cake UK2| Jam Cake]]

@@ -64,6 +64,8 @@ title: Entrees
 [[Snapper Florentine UK2| Snapper Florentine]]
 ### Croquettes
 [[Salmon Croquettes UK2| Salmon Croquettes]]
+## MeatLoaf
+[[Meatloaf UK3| Meat Loaf]]
 ## Patties
 [[Russian Meat Patties UK2| Russian Meat Patties]]
 ## Pie
@@ -95,6 +97,9 @@ title: Entrees
 ### Tetrazzini
 [[Cathy's Chicken Tetrazzini UK3| Cathy's Chicken Tetrazzini]]
 [[Chicken Tetrazzini UK3| Chicken Tetrazzini]]
+# Sandwich
+## Sloppy Joes
+[[Sloppy Joes UK3| Sloppy Joes]]
 # Vegetable
 ## Burger
 [[Tofu Burgers PC| Tofu Burgers]]

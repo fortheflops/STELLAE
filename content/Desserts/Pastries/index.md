@@ -3,6 +3,7 @@ title: Pastries
 ---
 ## Crescents
 [[Cream Cheese Crescents UK3| Cream Cheese Crescents]]
+[[Quick Crescent Carmel-Pecan Rolls UK3| Quick Crescent Carmel-Pecan Rolls]]
 ## Doughnuts
 [[Beignets UK2| Beignets]]
 ## Puff
