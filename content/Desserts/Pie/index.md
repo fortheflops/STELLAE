@@ -1,7 +1,6 @@
 ---
 title: Pie
 ---
-[[Adelina's Millionaire Pie UK2| Adelina's Millionaire]]
 [[Cranberry Pie UK2| Cranberry Pie]]
 [[Lemon Cheese Cake Pie UK2| Lemon Cheese Cake Pie]]
 [[Sour Cream Raisin Pie UK2| Sour Cream Raisin Pie]]
@@ -28,6 +27,9 @@ title: Pie
 [[Ritz Cracker Pie UK3| Ritz Cracker Pie]]
 ## Ice Box Pie
 [[Ice Box Pie UK3| Ice Box Pie]]
+### Millionaire Pie
+[[Adelina's Millionaire Pie UK2| Adelina's Millionaire Pie]]
+[[Millionaire Pie UK3| Millionaire Pie]]
 ## Nut Pie
 [[Avocado Rum Macadamia Nut Chiffon Pie PC| Avocado Rum Macadamia Nut Chiffon Pie]]
 [[Butterscotch Nut Pie UK3| Butterscotch Nut Pie]]
