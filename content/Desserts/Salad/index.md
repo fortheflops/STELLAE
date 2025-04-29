@@ -25,11 +25,15 @@ title: Salad
 ## Pineapple
 [[Cottage Cheese - Jello Salad UK3| Cottage Cheese - Jello Salad]]
 [[Pineapple Lime Salad UK3| Pineapple Lime Salad]]
+## Seven-Up Salad
+[[Seven-Up Salad UK3| Seven-Up Salad]]
 ## Strawberry
 [[Frozen Strawberry Salad UK3| Frozen Strawberry Salad]]
 [[Strawberry Salad UK2| Strawberry Salad]]
 [[Strawberry, Pineapple and Banana Jello Salad UK3| Strawberry, Pineapple, Banana Jello Salad]]
 # Pie Salad
 [[Cherry Pie Salad UK3| Cherry Pie Salad]]
+# Pudding Salad
+[[Caramel Apple Salad UK3| Caramel Apple Salad]]
 # Watergate Salad
 [[Watergate Salad UK2| Watergate Salad]]

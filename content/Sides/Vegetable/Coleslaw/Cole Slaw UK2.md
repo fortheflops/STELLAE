@@ -3,24 +3,29 @@ title: Cole Slaw
 draft: false
 tags:
   - UnknownTwo
-  - "#Vegetable"
-  - "#Coleslaw"
+  - "#Stew"
 ---
 ## Author
-Luby
+Unknown
 ___
 ## Recipe
 
-| Measurements | Ingredients               |
-| :----------- | ------------------------- |
-|1 med|[[Cabbage]], Chopped|
-|1 cup|Firmly Packed [[Spinach]] Leaves, Finely Chopped|
-|1 cup|[[Mayonnaise]]|
-|1 Tbsp|[[Sugar]]|
-|½ tsp|[[White Vinegar]]|
-|Dash|[[Salt]] & [[Pepper]]|
+| Measurements | Ingredients                                      |
+| :----------- | ------------------------------------------------ |
+| 1                  | [[Cabbage]]         |
+| 2                  | [[Apples]]          |
+| 2                  | [[Carrots]]         |
+| 1/2 Cup            | [[Sour Cream]]      |
+| 1 Small             | [[Onion]]           |
+|                    | [[Mayonnaise]]      |
+| 1/4 Teaspoon       | [[Sugar]]           |
 ___
 ### Instructions
-1. Refrigerate at least 2 hrs.
+   1.  Shred cabbage.
+   2.  Dice apples.
+   3.  Grate carrots.
+   4.  Combine and moisten with mayonnaise.
+   5.  Add sugar and sour cream.
+   6.  Mix thoroughly.
 ___
-![[Handwritten_2025-02-12_094100.webp]]
+![[Handwritten_2025-02-25_124553.webp]]

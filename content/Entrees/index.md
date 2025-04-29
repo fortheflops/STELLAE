@@ -68,6 +68,7 @@ title: Entrees
 [[Salmon Croquettes UK2| Salmon Croquettes]]
 ## MeatLoaf
 [[Meatloaf UK3| Meat Loaf]]
+[[Susan's Meatloaf UK3| Susan's Meatloaf]]
 ## Patties
 [[Russian Meat Patties UK2| Russian Meat Patties]]
 ## Pie
@@ -79,6 +80,8 @@ title: Entrees
 [[Barbecued Short Ribs UK2| Barbecued Short Ribs]]
 ## Steak
 [[Russian Steak UK2| Russian Steak]]
+### Eye of Round
+[[Roast UK3| Roast]]
 ## Veal
 [[Baked Veal (Wine Vinegar) UK2| Baked Veal]]
 # Pasta

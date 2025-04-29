@@ -7,6 +7,7 @@ title: Sides
 [[Pinto Beans PC| Pinto Beans]]
 [[Spanish Beans UK2| Spanish Beans]]
 ### Baked Beans
+[[Baked Beans UK6| Baked Beans]]
 [[Baked Beans with Barbecued Meat Balls UK2| Baked Beans with Barbecued Meat Balls]]
 ## Corn
 [[Creamed Corn UK3| Creamed Corn]]
@@ -30,13 +31,16 @@ title: Sides
 [[Corn Casserole PC| Corn Casserole]]
 [[Corn Pudding UK2| Corn Pudding]]
 ### Coleslaw
+[[Chinese Ramen Slaw UK3| Chinese Ramen Slaw]]
 [[Cole Slaw UK2| Cole Slaw]]
-[[Cole Slaw 2 UK2| Cole Slaw]]
+[[Luby's Cole Slaw UK2| Luby's Cole Slaw]]
 [[Lois' Cole Slaw UK2| Lois' Cole Slaw]]
 [[Nine Day Slaw UK3| Nine Day Slaw]]
 [[Pantry Cole Slaw UK2| Pantry Cole Slaw]]
 ### Potatoes
 [[Au Gratin Potatoes UK3| Au Gratin Potatoes]]
+[[Carol's Potatoes UK6| Carol's Potatoes]]
+[[Potatoes UK3| Potatoes]]
 [[Scalloped Potatoes UK3| Scalloped Potatoes]]
 [[Twice Baked Potatoes LC| Twice Baked Potatoes]]
 ### Spinach
