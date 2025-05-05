@@ -24,7 +24,9 @@ title: Sides
 ## Vegetable
 ### Broccoli
 [[Broccoli Crown PC| Broccoli Crown]]
+[[Broccoli with Fresh Mushrooms UK6| Broccoli with Fresh Mushrooms]]
 [[Juanita's Broccoli UK2| Juanita's Broccoli]]
+[[Stir Fried Broccoli UK6| Stir Fried Broccoli]]
 ### Carrots
 [[Dijon Carrots PC| Dijon Carrots]]
 ### Casserole
