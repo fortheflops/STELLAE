@@ -2,7 +2,7 @@
 title: Baked Beans
 draft: false
 tags:
-  - UnknownSix
+  - LouiseCollection
 ---
 ## Author
 Unknown

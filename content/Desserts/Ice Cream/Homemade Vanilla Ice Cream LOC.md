@@ -2,7 +2,7 @@
 title: Homemade Vanilla Ice Cream
 draft: false
 tags:
-  - UnknownSix
+  - LouiseCollection
 ---
 ## Author
 Unknown

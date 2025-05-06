@@ -8,7 +8,7 @@ title: Confections
 [[Candied Walnuts PC| Candied Walnuts]]
 [[Candy Fours PC| Candy Fours]]
 [[Chocolate Almond Raisin Clusters UK2| Chocolate Almond Raisin Clusters]]
-[[Hard Candy UK6| Hard Candy]]
+[[Hard Candy LOC| Hard Candy]]
 [[Molly's Toffee PC| Molly's Toffee]]
 [[Rocky Road Candy UK3| Rocky Road Candy]]
 ## Divinity

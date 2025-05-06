@@ -2,7 +2,7 @@
 title: Broccoli with Fresh Mushrooms
 draft: false
 tags:
-  - UnknownSix
+  - LouiseCollection
 ---
 ## Author
 Unknown
@@ -39,6 +39,6 @@ ___
 ___
 
 >[!Note]
->Instructions combined from the base "[[Stir Fried Broccoli UK6| Stir Fried Broccoli]]" recipe and the modification notes for this version
+>Instructions combined from the base "[[Stir Fried Broccoli LOC| Stir Fried Broccoli]]" recipe and the modification notes for this version
 ___
 ![[Handwritten_2025-05-05_092252.webp]]

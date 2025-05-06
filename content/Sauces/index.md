@@ -8,6 +8,8 @@ title: Sauces
 [[Barbecue Sauce UK3| Barbecue Sauce]]
 ## Berry
 [[Berry Sauce UK2| Berry Sauce]]
+### Cranberry Sauce
+[[Cranberry Orange Apple Sauce LOC| Cranberry Orange Apple Sauce]]
 ## Cheese
 [[Sauce for Au Gratin Potatoes UK3| Sauce for Au Gratin Potatoes]]
 ## Chile Con Queso
@@ -60,7 +62,7 @@ title: Sauces
 ## Salsa 
 [[Salsa UK2| Salsa]]
 ## Sweet and Sour Sauce
-[[Sweet & Sour Sauce UK6| Sweet & Sour Sauce]]
+[[Sweet & Sour Sauce LOC| Sweet & Sour Sauce]]
 ### Salsa Roja
 [[Enchilada Sauce PC| Enchilada Sauce]]
 [[Mildred's Chili- Enchilada Sauce UK2| Mildred's Chili- Enchilada Sauce]]

@@ -15,7 +15,7 @@ title: Soups
 ## Stew
 [[Marmitako UK2| Marmitako]]
 ### Beef Stew
-[[Stew UK6| Stew]]
+[[Stew LOC| Stew]]
 ### Chicken Creole
 [[Chicken Creole UK3| Chicken Creole]]
 ### Chili
