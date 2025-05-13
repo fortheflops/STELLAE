@@ -113,6 +113,7 @@ title: Desserts
 ## Yum Yum
 [[Blueberry Yum Yum UK2| Blueberry Yum Yum]]
 ## Other
+[[Chocolate Rum Pots LOC| Chocolate Rum Pots]]
 [[Coffee Nut Tortoni UK3| Coffee Nut Tortoni]]
 [[Date-Nut Dessert UK2| Date-Nut Dessert]]
 [[Geng-a-lings UK2| Geng-a-lings]]

@@ -41,9 +41,11 @@ title: Entrees
 [[Sausage Quiche UK3| Sausage Quiche]]
 # Meat
 ## Beef
+[[Barbecued Beef Skewers LOC| Barbecued Beef Skewers]]
 [[Korean Green Beans & Beef UK2| Korean Green Beans & Beef]]
 [[Meat Cakes in Sour Cream UK2| Meat Cakes in Sour Cream]]
 [[Swedish Beef Rolls UK3| Swedish Beef Rolls]]
+[[Tex's Argentinean Beef Sauté LOC| Tex's Argentinean Beef Sauté]]
 [[Ukrainian Beef UK2| Ukrainian Beef]]
 ## Brisket
 [[3-Day Brisket UK3| 3-Day Brisket]]
@@ -72,6 +74,7 @@ title: Entrees
 ## Patties
 [[Russian Meat Patties UK2| Russian Meat Patties]]
 ## Pie
+[[Meat Pie LOC| Meat Pie]]
 [[Potato Meat Pie UK2| Potato Meat Pie]]
 ## Pork Chops
 [[Barbequed Pork Chops LC | Barbequed Pork Chops]]
