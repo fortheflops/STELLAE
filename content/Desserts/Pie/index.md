@@ -33,6 +33,8 @@ title: Pie
 ## Nut Pie
 [[Avocado Rum Macadamia Nut Chiffon Pie PC| Avocado Rum Macadamia Nut Chiffon Pie]]
 [[Butterscotch Nut Pie UK3| Butterscotch Nut Pie]]
+## Peach Pie
+[[Fresh Peach Pie LOC| Fresh Peach Pie]]
 ### Pecan Pie
 [[Juanita's Pecan Pie UK2| Juanita's Pecan Pie]]
 [[Kentucky Pecan Pie UK3| Kentucky Pecan Pie]]

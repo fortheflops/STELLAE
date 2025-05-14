@@ -53,6 +53,8 @@ title: Sauces
 [[Lemon Sauce UK3| Lemon Sauce]]
 ## Pasta Sauce
 [[Cheese Pasta Sauce PC| Cheese Pasta Sauce]]
+### Geschnetzeltes
+[[Geschnetzeltes à Trudy LOC| Geschnetzeltes à Trudy LOC]]
 ### Tomato Sauce
 [[Italian Ham Spaghetti Sauce UK2| Italian Ham Spaghetti Sauce]]
 [[Lazy Day Marinara Sauce UK3| Lazy Day Marinara Sauce]]

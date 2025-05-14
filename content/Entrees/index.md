@@ -47,12 +47,18 @@ title: Entrees
 [[Swedish Beef Rolls UK3| Swedish Beef Rolls]]
 [[Tex's Argentinean Beef Sauté LOC| Tex's Argentinean Beef Sauté]]
 [[Ukrainian Beef UK2| Ukrainian Beef]]
+### Sandwich
+#### Hamburgers
+[[Taco Burgers LOC| Taco Burgers]]
+#### Sloppy Joes
+[[Sloppy Joes UK3| Sloppy Joes]]
 ## Brisket
 [[3-Day Brisket UK3| 3-Day Brisket]]
 [[Brisket UK3| Brisket]]
 ## Chicken
 [[Chicken & Crescents UK3| Chicken & Crescents]]
 [[Chicken Diablo UK3| Chicken Diablo]]
+[[Chilled Orange Chicken on Romaine LOC| Chilled Orange Chicken on Romaine]]
 [[Coq in Burgundy UK2| Coq in Burgundy]]
 [[Country Style Chicken Kiev UK3| Country Style Chicken Kiev]]
 [[Creamed Chicken UK3| Creamed Chicken]]
@@ -105,9 +111,6 @@ title: Entrees
 ### Tetrazzini
 [[Cathy's Chicken Tetrazzini UK3| Cathy's Chicken Tetrazzini]]
 [[Chicken Tetrazzini UK3| Chicken Tetrazzini]]
-# Sandwich
-## Sloppy Joes
-[[Sloppy Joes UK3| Sloppy Joes]]
 # Vegetable
 ## Burger
 [[Tofu Burgers PC| Tofu Burgers]]

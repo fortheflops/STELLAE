@@ -71,6 +71,8 @@ title: Cake
 [[Jello Pan Cake UK3| Jello Pan Cake]]
 ## Layer Cake
 [[Yankee Layer Cake UK2| Yankee Layer Cake]]
+## Molasses Cake
+[[Shoo-Fly Cake LOC| Shoo-Fly Cake]]
 ## Mouse Cake
 [[Chocolate Mousse Cake UK2| Chocolate Mousse Cake]]
 ## Oatmeal Cake
