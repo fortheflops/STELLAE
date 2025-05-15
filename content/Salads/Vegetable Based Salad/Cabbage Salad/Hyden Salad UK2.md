@@ -25,7 +25,7 @@ ___
 ### Instructions
 1. Boil until tender. 25 MINS.
 ___
-![[content/Salads/Vegetable Salad/Cabbage Salad/Assets/Handwritten_2025-01-23_121141.webp]]
+![[content/Salads/Vegetable Based Salad/Cabbage Salad/Assets/Handwritten_2025-01-23_121141.webp]]
 
 ![[Handwritten_2025-02-27_112236.webp]]
 ![[2025-02-27_112348.webp]]

@@ -9,10 +9,11 @@ title: Salads
 [[Strawberry Romaine UK3| Strawberry Romaine]]
 ## Taco Salad
 [[Marciel's Taco Salad UK2| Marciel's Taco Salad]]
-## Vegetable Salads
+## Vegetable Based Salads
 [[Vegetable Salad UK3| Vegetable Salad]]
 ### Bean Salad
 [[Black Bean Salad PC| Black Bean Salad]]
+[[Four Bean Salad (Green, Wax, Kidney, Garbanzo) LOC| Four Bean Salad (Green, Wax, Kidney, Garbanzo)]]
 [[Three Bean Salad (Garbanzo, Pinto, Black) PC| Three Bean Salad (Garbanzo, Pinto, Black)]]
 [[Three Bean Salad (Green, Yellow, Kidney) UK3| Three Bean Salad (Green, Yellow, Kidney)]]
 #### Green Bean
@@ -31,5 +32,6 @@ title: Salads
 [[Potato Salad UK3| Potato Salad ]]
 ### Spinach Salad
 [[Chafing Dish Spinach Salad UK2| Chafing Dish Spinach Salad]]
+[[Spinach & Bacon Salad LOC| Spinach & Bacon Salad]]
 ## Vermicelli Salad
 [[Vermicelli Salad UK3| Vermicelli Salad]]

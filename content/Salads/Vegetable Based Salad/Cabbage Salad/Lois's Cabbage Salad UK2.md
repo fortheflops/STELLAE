@@ -29,4 +29,4 @@ ___
 4. Leave out of refrig & toss & stir several times before refrigerating.
 5. If it becomes too sour add water & stir.
 ___
-![[content/Salads/Vegetable Salad/Cabbage Salad/Assets/Handwritten_2025-02-01_120029.webp]]
+![[content/Salads/Vegetable Based Salad/Cabbage Salad/Assets/Handwritten_2025-02-01_120029.webp]]

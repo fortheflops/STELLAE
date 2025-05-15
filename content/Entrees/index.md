@@ -1,34 +1,8 @@
 ---
 title: Entrees
 ---
-# Casserole
-## Meat
-### Beef
-[[Cheesy Creamy Mexican Casserole UK3| Cheesy Creamy Mexican Casserole]]
-[[Company Casserole UK3| Company Casserole]]
-[[Enchilada Casserole UK3| Enchilada Casserole]]
-[[Ground Meat Casserole UK3| Ground Meat Casserole]]
-[[Hamburger-Sour Cream Casserole UK3| Hamburger-Sour Cream Casserole]]
-[[Jean's Hamburger Casserole UK3| Jean's Hamburger Casserole]]
-[[Mexican Casserole UK3| Mexican Casserole]]
-### Chicken
-[[Chicken and Stuffing Casserole UK3| Chicken and Stuffing Casserole]]
-[[Chicken Casserole UK3| Chicken Casserole]]
-[[Chicken Silk Rice Casserole UK3| Chicken Silk Rice Casserole]]
-[[Emily Pineda's Chicken Enchilada Casserole UK2| Emily Pineda's Chicken Enchilada Casserole]]
-[[Neva's Chicken Casserole UK2| Neva's Chicken Casserole ]]
-## Meat and Vegetable
-[[Meat and Vegetable Casserole UK2| Meat and Vegetable Casserole]]
-### Moussaka
-[[Moussaka UK3| Moussaka]]
-## Vegetable
-[[Asparagus Casserole UK3| Asparagus Casserole]]
-[[Broccoli Casserole UK2| Broccoli Casserole]]
-[[Chili Relleno Casserole PC| Chili Relleno Casserole]]
-[[Corn Casserole UK3| Corn Casserole]]
-[[Eggplant Delight UK2| Eggplant Delight]]
-[[Spinach Casserole UK2| Spinach Casserole]]
-[[Spinach, Broccoli, and Asparagus Casserole PC| Spinach, Broccoli, and Asparagus Casserole]]
+# [[Entrees/Casserole/index| Casserole]]
+
 # Chilaquilles
 [[Chilaquilles UK3| Chilaquilles]]
 # Egg
@@ -42,6 +16,7 @@ title: Entrees
 # Meat
 ## Beef
 [[Barbecued Beef Skewers LOC| Barbecued Beef Skewers]]
+[[Curried Beef or Lamb LOC| Curried Beef or Lamb]]
 [[Korean Green Beans & Beef UK2| Korean Green Beans & Beef]]
 [[Meat Cakes in Sour Cream UK2| Meat Cakes in Sour Cream]]
 [[Swedish Beef Rolls UK3| Swedish Beef Rolls]]
@@ -74,6 +49,8 @@ title: Entrees
 [[Snapper Florentine UK2| Snapper Florentine]]
 ### Croquettes
 [[Salmon Croquettes UK2| Salmon Croquettes]]
+## Ham
+[[Ham Barbecue LOC| Ham Barbecue]]
 ## MeatLoaf
 [[Meatloaf UK3| Meat Loaf]]
 [[Susan's Meatloaf UK3| Susan's Meatloaf]]
@@ -88,6 +65,7 @@ title: Entrees
 ## Short Ribs
 [[Barbecued Short Ribs UK2| Barbecued Short Ribs]]
 ## Steak
+[[Panned Steak Strips LOC| Panned Steak Strips]]
 [[Russian Steak UK2| Russian Steak]]
 ### Eye of Round
 [[Roast UK3| Roast]]

@@ -30,5 +30,5 @@ ___
 6. Slice eggs—set half of them aside and mix the other half into the mixture from above
 7. Place the rest of the egg slices on top and sprinkle with paprika 
 ___
-![[content/Salads/Vegetable Salad/Potato Salad/Assets/2024-07-22_164937.webp]]
-![[content/Salads/Vegetable Salad/Potato Salad/Assets/Handwritten_2024-07-22_165448.webp]]
+![[content/Salads/Vegetable Based Salad/Potato Salad/Assets/2024-07-22_164937.webp]]
+![[content/Salads/Vegetable Based Salad/Potato Salad/Assets/Handwritten_2024-07-22_165448.webp]]

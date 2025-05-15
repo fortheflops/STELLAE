@@ -20,7 +20,7 @@ ___
 | 2/3 C        | [[Milk]]                            |
 | 1/4 C        | [[Fresh Lemon Juice]]               |
 | 2 Tbsp       | [[Grated Lemon Peel]]               |
-| 1            | [[Graham Cracker Crust UK2]] (8in.) |
+| 1            | [[Classic Graham Cracker Crust UK2]] (8in.) |
 ___
 ### Instructions
 1. Cream the cheese and butter;
@@ -28,7 +28,7 @@ ___
 3. Mix well.
 4. Add flour, then milk.
 5. Stir in lemon juice and peel.
-6. Pour into unbaked [[Graham Cracker Crust UK2]] shell.
+6. Pour into unbaked [[Classic Graham Cracker Crust UK2]] shell.
 7. Sprinkle with crust crumbs.
 8. Bake 35 minutes in an oven at 350F.
 9. Chill & serve.

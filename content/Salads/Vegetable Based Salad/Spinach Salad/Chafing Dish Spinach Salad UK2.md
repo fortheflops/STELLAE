@@ -32,6 +32,6 @@ ___
 7. Add Spinach; Toss Just Until Leaves Are Coated & Slightly Wilted.
 8. Sprinkle With Egg.
 ___
-![[content/Salads/Vegetable Salad/Spinach Salad/Assets/Handwritten_2025-02-12_091207.webp]]
+![[content/Salads/Vegetable Based Salad/Spinach Salad/Assets/Handwritten_2025-02-12_091207.webp]]
 
 ![[Handwritten_2025-02-12_091310 (2).webp]]
