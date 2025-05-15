@@ -18,4 +18,4 @@ ___
 ## Instructions
 1. No instructions provided on the recipe card. Implied step is to combine the ingredients.
 ___
-![[Handwritten_2025-05-05_095352.webp]]
+![[content/Beverages/Blended Ice/Assets/Handwritten_2025-05-05_095352.webp]]
