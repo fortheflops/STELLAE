@@ -32,4 +32,4 @@ ___
 6.  Garnish with the orange slices or mint sprigs.
 ___
 
-![[Handwritten_2025-05-05_092959.webp]]
+![[Spanish Sangria.webp]]
