@@ -19,13 +19,13 @@ title: Beverages
 ## Milkshake
 [[Milkshake LOC| Milkshake]]
 ## Punch
+[[Classic Punch UK3| Classic Punch]]
 [[Coke Punch UK3| Coke Punch]]
 [[Good Punch LOC| Good Punch]]
 [[Merry Berry Punch UK3| Merry Berry Punch]]
 [[Mulled Rosé Punch LOC| Mulled Rosé Punch]]
 [[Orange Blossom Punch UK4 | Orange Blossom Punch]]
 [[Pink Party Punch UK3| Pink Party Punch]]
-[[Punch 2 UK3| Punch]]
 [[Punch UK3| Punch]]
 [[Red Satin Punch UK2| Red Satin Punch]]
 ## Sangria 

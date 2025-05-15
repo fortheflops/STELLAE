@@ -25,4 +25,4 @@ ___
 4.  Refrigerate until thoroughly chilled.
 5.  Serve in glasses half filled with cracked ice.
 ___
-![[content/Beverages/Limonada/Assets/Handwritten_2025-05-05_092959.webp]]
+![[Handwritten_2025-05-05_092959.webp]]
