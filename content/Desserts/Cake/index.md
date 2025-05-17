@@ -23,6 +23,8 @@ title: Cake
 [[Coconut Cake on Perbleco UK2| Coconut Cake on Perbleco]]
 [[Coconut Cake UK3| Coconut Cake]]
 [[Pina Colada Cake UK3| Pina Colada Cake]]
+## Coffee Cake
+[[Hungarian Coffee Cake LOC| Hungarian Coffee Cake]]
 ## Cream Cake
 [[Italian Cream Cake UK3| Italian Cream Cake]]
 [[Jr. League Italian Cream Cake UK2| Jr. League Italian Cream Cake]]

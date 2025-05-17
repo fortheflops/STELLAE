@@ -3,6 +3,7 @@ title: Cookies
 ---
 [[Biscochitos UK2| Biscochitos]]
 [[Butterscotch Caramel Cookies LC| Butterscotch Caramel Cookies]]
+[[Christmas Cane Cookies LOC| Christmas Cane Cookies]]
 [[Holly Hermits UK2| Holly Hermits]]
 [[Lemon-Ginger Cookies UK2| Lemon-Ginger Cookies]]
 [[Lemonade Cookies UK2| Lemonade Cookies]]

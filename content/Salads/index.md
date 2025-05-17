@@ -1,37 +1,41 @@
 ---
 title: Salads
 ---
-## Crab Salad
+# Crab Salad
 [[Hot Crab Salad UK3| Hot Crab Salad]]
-## Rice Salad
+# Fruit Salad
+[[Summer Fruit Salad LOC| Summer Fruit Salad]]
+# Rice Salad
 [[Rice Salad PC| Rice Salad]]
-## Strawberry
+# Strawberry
 [[Strawberry Romaine UK3| Strawberry Romaine]]
-## Taco Salad
+# Taco Salad
 [[Marciel's Taco Salad UK2| Marciel's Taco Salad]]
-## Vegetable Based Salads
+# Vegetable Based Salads
 [[Vegetable Salad UK3| Vegetable Salad]]
-### Bean Salad
+## Bean Salad
 [[Black Bean Salad PC| Black Bean Salad]]
 [[Four Bean Salad (Green, Wax, Kidney, Garbanzo) LOC| Four Bean Salad (Green, Wax, Kidney, Garbanzo)]]
 [[Three Bean Salad (Garbanzo, Pinto, Black) PC| Three Bean Salad (Garbanzo, Pinto, Black)]]
 [[Three Bean Salad (Green, Yellow, Kidney) UK3| Three Bean Salad (Green, Yellow, Kidney)]]
-#### Green Bean
+### Green Bean
 [[Marinated Green Bean Salad UK3| Marinated Green Bean Salad]]
-### Cabbage Salad
+## Cabbage Salad
 [[Hyden Salad UK2| Hyden Salad]]
 [[Lois's Cabbage Salad UK2| Lois's Cabbage Salad]]
-### Carrot Salad
+## Carrot Salad
 [[Carrot Salad LC| Carrot Salad]]
-### Cauliflower Salad
+## Cauliflower Salad
 [[Cauliflower Salad UK2| Cauliflower Salad]]
-### Corn Salad
+## Corn Salad
 [[Marinated Corn & Green Pepper Salad UK3| Marinated Corn & Green Pepper Salad]]
-### Potato Salad
+## Cucumber Salad
+[[Cucumber Salad LOC| Cucumber Salad]]
+## Potato Salad
 [[Lillian's Potato Salad LC| Lillian's Potato Salad]]
 [[Potato Salad UK3| Potato Salad ]]
-### Spinach Salad
+## Spinach Salad
 [[Chafing Dish Spinach Salad UK2| Chafing Dish Spinach Salad]]
 [[Spinach & Bacon Salad LOC| Spinach & Bacon Salad]]
-## Vermicelli Salad
+# Vermicelli Salad
 [[Vermicelli Salad UK3| Vermicelli Salad]]
