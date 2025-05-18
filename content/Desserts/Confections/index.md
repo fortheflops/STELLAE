@@ -11,10 +11,12 @@ title: Confections
 [[Hard Candy LOC| Hard Candy]]
 [[Molly's Toffee PC| Molly's Toffee]]
 [[Rocky Road Candy UK3| Rocky Road Candy]]
+### Bon Bons
+[[Pecan Bon Bons UK2| Pecan Bon Bons]]
+### Truffles
+[[Rum Balls LOC| Rum Balls]]
 ## Divinity
 [[Butter Divinity UK3| Butter Divinity]]
 [[Divinity UK3| Divinity]]
-### Bon Bons
-[[Pecan Bon Bons UK2| Pecan Bon Bons]]
 ## Pralines
 [[Andria's Pralines UK2| Andria's Pralines]]

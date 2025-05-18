@@ -10,8 +10,6 @@ title: Cookies
 [[Mary Dell's Millionaire Cookies UK2| Mary Dell's Millionaire Cookies ]]
 [[Orange-Spice Cookies UK2| Orange-Spice Cookies]]
 [[Plain Cookies UK3| Plain Cookies]]
-[[Refrigerator Cookies 2 UK3| Refrigerator Cookies 2]]
-[[Refrigerator Cookies UK3| Refrigerator Cookies]]
 [[Roll Out Cookies PC| Roll Out Cookies]]
 [[Six-in-One Cookies UK2| Six-in-One Cookies]]
 [[Snickerdoodles LC| Snickerdoodles]]
@@ -53,12 +51,16 @@ title: Cookies
 ### Pizzelle
 [[Lace Cookies UK3| Lace Cookies]]
 [[Pizzelle UK2| Pizzelle]]
+### Refrigerator Cookies
+[[Classic Refrigerator Cookies UK3| Classic Refrigerator Cookies]]
+[[Refrigerator Cookies UK3| Refrigerator Cookies]]
 ### Shortbread
 [[Melt Away Cookies UK3| Melt Away Cookies]]
 [[Shortbread UK3| Shortbread]]
 ### Sugar Cookies
 [[Cheth's Sugar Cookies UK3| Cheth's Sugar Cookies]]
 [[Cindy's Sugar Cookies UK3| Cindy's Sugar Cookies]]
+[[Lemon Sugar Cookies LOC| Lemon Sugar Cookies]]
 [[Classic Sugar Cookies UK3| Classic Sugar Cookies]]
 [[Sugar Cookies UK3| Sugar Cookies]]
 ### Thumbprint Cookies

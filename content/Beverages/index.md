@@ -22,6 +22,7 @@ title: Beverages
 [[Classic Punch UK3| Classic Punch]]
 [[Coke Punch UK3| Coke Punch]]
 [[Good Punch LOC| Good Punch]]
+[[Hot Buttered Cranberry Punch LOC| Hot Buttered Cranberry Punch]]
 [[Merry Berry Punch UK3| Merry Berry Punch]]
 [[Mulled Rosé Punch LOC| Mulled Rosé Punch]]
 [[Orange Blossom Punch UK4 | Orange Blossom Punch]]
