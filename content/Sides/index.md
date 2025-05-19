@@ -19,6 +19,7 @@ title: Sides
 # Noodles
 [[Noodles Romanoff PC| Noodles Romanoff]]
 # Rice
+[[Simple Spanish Rice LOC| Simple Spanish Rice]]
 [[Sour Cream Rice PC| Sour Cream Rice]]
 [[Spanish Rice UK3| Spanish Rice]]
 # Vegetable

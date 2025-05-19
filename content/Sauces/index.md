@@ -14,6 +14,7 @@ title: Sauces
 [[Sauce for Au Gratin Potatoes UK3| Sauce for Au Gratin Potatoes]]
 ## Chile Con Queso
 [[Chile Con Queso UK2| Chile Con Queso]]
+[[Chili con Queso LOC| Chili con Queso]]
 ## Cocktail Sauce
 [[Shrimp Cocktail Sauce UK2| Shrimp Cocktail Sauce]]
 ## Compote

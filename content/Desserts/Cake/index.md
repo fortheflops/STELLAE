@@ -28,6 +28,8 @@ title: Cake
 ## Cream Cake
 [[Italian Cream Cake UK3| Italian Cream Cake]]
 [[Jr. League Italian Cream Cake UK2| Jr. League Italian Cream Cake]]
+## Dirt Cake
+[[Dirt Cake LOC| Dirt Cake]]
 ## Eggless Cake
 [[Eggless Cake UK2| Eggless Cake]]
 ### Wacky Cake
@@ -52,6 +54,7 @@ title: Cake
 [[Banana Split Cake UK2| Banana Split Cake]]
 ### Fruit Cake
 [[Abby's Fruit Cake UK2| Abby's Fruit Cake]]
+[[Bourbon Fruit & Nut Cake LOC| Bourbon Fruit & Nut Cake]]
 [[Fruit Cake UK2| Fruit Cake]]
 [[Fruit Cake with Mincemeat and Eagle Brand Milk UK2| Fruit Cake with Mincemeat and Eagle Brand Milk]]
 [[Sandeman's Fruit Cake  UK2| Sandeman's Fruit Cake]]
