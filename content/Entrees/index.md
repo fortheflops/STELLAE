@@ -22,6 +22,8 @@ title: Entrees
 [[Swedish Beef Rolls UK3| Swedish Beef Rolls]]
 [[Tex's Argentinean Beef Sauté LOC| Tex's Argentinean Beef Sauté]]
 [[Ukrainian Beef UK2| Ukrainian Beef]]
+### Braciola
+[[Braciole LOC| Braciole]]
 ### Sandwich
 #### Hamburgers
 [[Taco Burgers LOC| Taco Burgers]]
@@ -59,9 +61,12 @@ title: Entrees
 ## Pie
 [[Meat Pie LOC| Meat Pie]]
 [[Potato Meat Pie UK2| Potato Meat Pie]]
-## Pork Chops
+## Pork
+### Pork Chops
 [[Barbequed Pork Chops LC | Barbequed Pork Chops]]
 [[Pork Chops and Wild Rice UK3| Pork Chops and Wild Rice]]
+### Sweet and Sour Pork
+[[Sweet & Sour Pork With Mixed Vegetables LOC| Sweet & Sour Pork With Mixed Vegetables]]
 ## Short Ribs
 [[Barbecued Short Ribs UK2| Barbecued Short Ribs]]
 ## Steak

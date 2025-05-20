@@ -28,6 +28,8 @@ title: Desserts
 [[Carmel Corn UK3| Carmel Corn]]
 ## Cream Filling
 [[Mint Cream Filling PC| Mint Cream Filling]]
+## Cream Puffs
+[[Cream Puffs LOC| Cream Puffs]]
 ## [[Desserts/Crisp/index| Crisp]]
 
 ## Crumble
@@ -41,6 +43,8 @@ title: Desserts
 ## Filling
 [[Butterscotch Filling UK2| Butterscotch Filling]]
 [[Lemon Filling UK2| Lemon Filling]]
+## Fondue
+[[Chocolate Fondue LOC| Chocolate Fondue]]
 ## Frosting
 [[Chocolate Frosting UK3| Chocolate Frosting]]
 [[Cream Cheese Frosting UK2| Cream Cheese Frosting]]
@@ -121,4 +125,5 @@ title: Desserts
 [[Strawberry Cream Squares UK3| Strawberry Cream Squares]]
 [[Rich Chocolate Dessert UK3| Rich Chocolate Dessert]]
 [[Strawberry Dessert UK3| Strawberry Dessert]]
+[[Sugar Molding LOC| Sugar Molding]]
 [[Tidbits Trash UK3| Tidbits Trash]]

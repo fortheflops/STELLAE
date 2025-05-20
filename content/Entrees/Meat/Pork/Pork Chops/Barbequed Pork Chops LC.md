@@ -36,6 +36,6 @@ ___
 >Very good
 
 ___
-![[content/Entrees/Meat/Pork Chops/Assets/Handwritten_2024-07-17_083658.webp]]
+![[content/Entrees/Meat/Pork/Pork Chops/Assets/Handwritten_2024-07-17_083658.webp]]
 
 ![[Handwritten_2024-07-17_084320 (2).webp]]
