@@ -67,6 +67,8 @@ title: Entrees
 [[Pork Chops and Wild Rice UK3| Pork Chops and Wild Rice]]
 ### Sweet and Sour Pork
 [[Sweet & Sour Pork With Mixed Vegetables LOC| Sweet & Sour Pork With Mixed Vegetables]]
+## Shellfish
+[[Coquilles GC| Coquilles]]
 ## Short Ribs
 [[Barbecued Short Ribs UK2| Barbecued Short Ribs]]
 ## Steak
@@ -80,6 +82,8 @@ title: Entrees
 [[Pasta With Vinaigrette PC| Pasta With Vinaigrette]]
 ### Alfredo
 [[Fettuccine Alfredo UK2| Fettuccine Alfredo]]
+### Lasagna
+[[Super Fast, Easy, Delicious Lasagna GC| [Super Fast, Easy, Delicious Lasagna]]
 ### Mac & Cheese
 [[Mac & Cheese PC| Macaroni & Cheese]]
 ### Manicotti
@@ -103,5 +107,7 @@ title: Entrees
 [[Pirozhki's UK2| Pirozhki's]]
 ## Soufflé
 [[Spinach Soufflé UK3| Spinach Soufflé]]
+## Soy
+[[Textured Vegetable Protein GC| Textured Vegetable Protein]]
 ## Squash
 [[Stuffed Summer Squash UK2| Stuffed Summer Squash]]

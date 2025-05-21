@@ -2,39 +2,40 @@
 title: Updates
 ---
 
-| Long Term                           | To Do                |
-| ----------------------------------- | -------------------- |
-| Video form content                  | Unknown 1            |
-| [[Monetization]]?                   | Unknown 5            |
-| Recreation of Recipes               | Unknown 7            |
-| List Tag in Abc. Order              | Unknown 8            |
-| Specify Certain Media Preview Cards | Unknown 9            |
-| Star Rating                         | Diane Collection DC  |
-|                                     | Unknown 10           |
-|                                     | Alison Collection AC |
-|                                     | Better ICON          |
-|                                     | Jill Collection JC   |
-|                                     | Unknown 11           |
-|                                     | Unknown 12           |
-|                                     | Unknown 13           |
-|                                     | Unknown 14           |
-|                                     | Gail Collection GC   |
-|                                     | Unknown 15           |
+| Long Term                           | To Do             | TAG | Location   |
+| ----------------------------------- | ----------------- | --- | ---------- |
+| Video form content                  | Unknown 1         |     | New Mexico |
+| [[Monetization]]?                   | Unknown 5         |     | New Mexico |
+| Recreation of Recipes               | Unknown 7         |     | New Mexico |
+| List Tag in Abc. Order              | Unknown 8         |     | New Mexico |
+| Specify Certain Media Preview Cards | Unknown 9         |     | New Mexico |
+| Star Rating                         | Diane Collection  | DC  | New Mexico |
+|                                     | Unknown 10        |     | New Mexico |
+|                                     | Alison Collection | AC  | New Mexico |
+|                                     | Better ICON       |     |            |
+|                                     | Jill Collection   | JC  | New Mexico |
+|                                     | Unknown 11        |     | New Mexico |
+|                                     | Unknown 12        |     | New Mexico |
+|                                     | Unknown 13        |     | New Mexico |
+|                                     | Unknown 14        |     | New Mexico |
+|                                     | Gail Collection   | GC  | New Mexico |
+|                                     | Unknown 15        |     | New Mexico |
 
 
 
-| In Progress        | TAG                   |     |
-| ------------------ | --------------------- | --- |
-| Loraine Collection | #TheLoraineCollection | LC  |
-| Unknown 4          | #UnknownFour          | UK4 |
-| Louise Collection  | #LouiseCollection     | LOC |
+| In Progress       | TAG               |     | Location    |
+| ----------------- | ----------------- | --- | ----------- |
+| Unknown 4         | #UnknownFour      | UK4 | New Mexico  |
+| Louise Collection | #LouiseCollection | LOC | Chula Vista |
+| Gail Collection   | #GailCollection   | GC  | New Mexico  |
 
 
 
-| Done Exc. Copywritten Recipes | TAG           |     | Location   |
-| ----------------------------- | ------------- | --- | ---------- |
-| Unknown 2                     | #UnknownTwo   | UK2 | New Mexico |
-| Unknown 3                     | #UnknownThree | UK3 | Texas      |
+| Done Exc. Copywritten Recipes | TAG                   |     | Location   |
+| ----------------------------- | --------------------- | --- | ---------- |
+| Unknown 2                     | #UnknownTwo           | UK2 | New Mexico |
+| Unknown 3                     | #UnknownThree         | UK3 | Texas      |
+| Loraine Collection            | #TheLoraineCollection | LC  | New Mexico |
 
 
 | Done             | TAG              |     | Location   |
