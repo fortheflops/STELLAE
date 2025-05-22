@@ -26,4 +26,4 @@ ___
 5. Bake for 30 minutes in a 350°F (175°C) oven.
 6. Let cool before cutting and serving.
 ___
-![[content/Desserts/Brownies/Assets/2025-01-30_131410.webp]]
+![[2025-01-30_131410.webp]]

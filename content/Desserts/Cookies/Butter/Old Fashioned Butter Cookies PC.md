@@ -32,4 +32,4 @@ ___
 9. Cut into shapes.
 10. Bake at 400°F for 5-8 minutes.
 ___
-![[content/Desserts/Cookies/Butter/Assets/Handwritten_2025-01-11_105623.webp]]
+![[Old Fashioned Butter Cookies PC.webp]]

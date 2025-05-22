@@ -27,5 +27,5 @@ ___
 >65 cookies
 
 ___
-![[content/Desserts/Cookies/Assets/ButterscotchCaramelCookies.webp]]
-![[content/Desserts/Cookies/Assets/2024-07-26_151803.webp]]
+![[ButterscotchCaramelCookies.webp]]
+![[2024-07-26_151803.webp]]

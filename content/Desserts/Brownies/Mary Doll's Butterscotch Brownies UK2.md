@@ -32,4 +32,4 @@ ___
 6. Pour In Pan That Has Been Greased & Lined With Waxed Paper.
 7. Bake 350 Degrees for 30 Minutes.
 ___
-![[content/Desserts/Brownies/Assets/Handwritten_2025-01-27_124622.webp]]
+![[Handwritten_2025-01-27_124622.webp]]

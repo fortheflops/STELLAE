@@ -26,4 +26,4 @@ ___
 8. Fill with cream filling, whipped cream into which is folded sweetened strawberries or raspberries and blueberries, or ice cream; replace tops.
 9. This makes about 12 to 14 cream puffs. Whipped cream filling is mostly used. Some prefer fillings like such in boston cream pies. *) with strawberries
 ___
-![[2025-05-20_130714.webp]]
+![[unnamed (1).webp]]

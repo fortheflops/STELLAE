@@ -30,4 +30,4 @@ ___
 6. Bake 350 degrees for 45 min.
 7. Keep covered until last 5 min.
 ___
-![[content/Entrees/Casserole/Meat/Chicken/Assets/Handwritten_2025-01-31_062500.webp]]
+![[Handwritten_2025-01-31_062500.webp]]

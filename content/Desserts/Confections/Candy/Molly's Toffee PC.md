@@ -32,4 +32,4 @@ ___
 
 ___
 
-![[content/Desserts/Confections/Candy/Assets/Handwritten_2025-01-07_153710.webp]]
+![[Molly's Toffee.webp]]

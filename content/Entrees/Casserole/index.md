@@ -1,3 +1,7 @@
+---
+title: Casserole
+---
+
 ## Meat
 ### Beef
 [[Cheesy Creamy Mexican Casserole UK3| Cheesy Creamy Mexican Casserole]]

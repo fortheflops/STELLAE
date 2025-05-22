@@ -33,4 +33,4 @@ ___
 7.  Drop From Tsp. Ungreased Cookie Sheet.
 8.  Bake 400° 10 Min.
 ___
-![[content/Desserts/Cookies/Fruit/Assets/Handwritten_2025-02-04_114214.webp]]
+![[Pineapple Drop Cookies UK2.webp]]

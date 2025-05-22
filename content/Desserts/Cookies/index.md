@@ -28,9 +28,9 @@ title: Cookies
 ### Fruit
 [[Apple Cookies UK2| Apple Cookies]]
 [[Apple Drop Cookies UK2| Apple Drop Cookies]]
-[[Apple Sauce Cookies PC| Apple Sauce Cookies]]
 [[Apple Sauce Cookies UK2| Apple Sauce Cookies]]
 [[Beatriz Mares' Cherry Winks UK2| Beatriz Mares' Cherry Winks]]
+[[Classic Apple Sauce Cookies PC| Classic Apple Sauce Cookies]]
 [[Date-Nut Rocks UK2| Date-Nut Rocks]]
 [[Fruit Cake Cookies UK3| Fruit Cake Cookies]]
 [[Glazed Pineapple Drop Cookies UK2| Glazed Pineapple Drop Cookies]]

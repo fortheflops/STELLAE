@@ -32,4 +32,4 @@ ___
 7. Mix thoroughly.
 8. Bake at 350°F (175°C) for 20-30 minutes, or until a toothpick inserted into the center comes out clean.
 ___
-![[content/Desserts/Cake/Eggless Cake/Wacky Cake/Assets/Receipt_2025-01-30_130828.webp]]
+![[Receipt_2025-01-30_130828.webp|656]]

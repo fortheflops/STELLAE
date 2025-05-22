@@ -39,6 +39,7 @@ ___
 >[!Note] Servings
 >36-40 Cheesecakes
 
+
 >[! Quote] Note
 >Not best if frozen
 

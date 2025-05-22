@@ -33,5 +33,5 @@ ___
 >These are good for a morning coffee cookie. (As in a morning Tupperware party and you don't want to make coffee cake.) Also good if you are looking for an inexpensive cookie recipe for a pot luck.
 
 ___
-![[/Desserts/Cookies/Assets/BusinessCard_2024-07-20_204328.jpg]]
-![[/Desserts/Cookies/Assets/Handwritten_2024-07-20_204646.jpg]]
+![[Snickerdoodles LC.webp]]
+![[Snickerdoodles LC2.webp|656]]

@@ -1,3 +1,6 @@
+---
+title: Meat
+---
 ## Beef
 [[Barbecued Beef Skewers LOC| Barbecued Beef Skewers]]
 [[Curried Beef or Lamb LOC| Curried Beef or Lamb]]
