@@ -9,6 +9,8 @@ title: Sides
 ## Baked Beans
 [[Baked Beans LOC| Baked Beans]]
 [[Baked Beans with Barbecued Meat Balls UK2| Baked Beans with Barbecued Meat Balls]]
+## Bean Sprouts
+[[Korean Bean Sprouts GC| Korean Bean Sprouts]]
 # Corn
 [[Creamed Corn UK3| Creamed Corn]]
 ## Grits
