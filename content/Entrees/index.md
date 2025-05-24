@@ -13,6 +13,8 @@ title: Entrees
 [[Mushroom Quiche PC| Mushroom Quiche]]
 [[Quick Quiche UK3| Quick Quiche]]
 [[Sausage Quiche UK3| Sausage Quiche]]
+## Soufflé
+[[Parsnip Soufflé GC| Parsnip Soufflé]]
 # [[Entrees/Meat/index| Meat]]
 # Pasta
 [[Pasta With Vinaigrette PC| Pasta With Vinaigrette]]

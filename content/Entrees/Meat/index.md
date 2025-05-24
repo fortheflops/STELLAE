@@ -33,6 +33,7 @@ title: Meat
 [[Lena's 3 Cheese Chicken Bake UK2| Lena's 3 Cheese Chicken Bake]]
 [[Mexican Chicken UK3| Mexican Chicken]]
 [[Peachy Chicken GC| Peachy Chicken]]
+[[Sweet and Sour Chicken GC| Sweet and Sour Chicken]]
 ### Cornish Game Hens
 [[Cornish Game Hens GC| Cornish Game Hens]]
 ### Enchiladas
@@ -41,6 +42,7 @@ title: Meat
 [[Crab Voltaire UK2| Crab Voltaire]]
 [[Creamy Crab UK2| Creamy Crab]]
 ## Fish
+[[Cooked Whole Fish GC| Cooked Whole Fish]]
 [[Snapper Florentine UK2| Snapper Florentine]]
 ### Croquettes
 [[Salmon Croquettes UK2| Salmon Croquettes]]
@@ -54,6 +56,7 @@ title: Meat
 ## Pie
 [[Meat Pie LOC| Meat Pie]]
 [[Potato Meat Pie UK2| Potato Meat Pie]]
+[[Tamale Pie (small) GC| Tamale Pie (small)]]
 ## Pork
 ### Pork Chops
 [[Barbequed Pork Chops LC | Barbequed Pork Chops]]
