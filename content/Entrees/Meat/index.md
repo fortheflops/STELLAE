@@ -65,6 +65,8 @@ title: Meat
 [[Sweet & Sour Pork With Mixed Vegetables LOC| Sweet & Sour Pork With Mixed Vegetables]]
 ## Shellfish
 [[Coquilles GC| Coquilles]]
+### Lobster
+[[Lobster Cantonese GC| Lobster Cantonese]]
 ## Short Ribs
 [[Barbecued Short Ribs UK2| Barbecued Short Ribs]]
 ## Sparerib

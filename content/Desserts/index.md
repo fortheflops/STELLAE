@@ -24,8 +24,7 @@ title: Desserts
 ## [[Desserts/Confections/index| Confections]]
 
 ## [[Desserts/Cookies/index| Cookies]]
-## Corn
-[[Carmel Corn UK3| Carmel Corn]]
+
 ## Cream Filling
 [[Mint Cream Filling PC| Mint Cream Filling]]
 ## Cream Puffs
@@ -88,6 +87,9 @@ title: Desserts
 ## [[Desserts/Pastries/index| Pastries]]
 
 ## [[Desserts/Pie/index| Pie]]
+## Pop Corn
+[[Caramel Popcorn GC| Caramel Popcorn]]
+[[Carmel Corn UK3| Carmel Corn]]
 ## Pudding
 [[Cherry Upside-Down Pudding UK2| Cherry Upside-Down Pudding]]
 ### Bread Pudding

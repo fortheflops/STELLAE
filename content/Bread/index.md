@@ -19,6 +19,7 @@ title: Bread
 [[Raspberry Layer Loaf UK2| Raspberry Layer Loaf]]
 # Muffins
 [[Beer Muffins UK2| Beer Muffins]]
+[[Zucchini Muffins GC| Zucchini Muffins]]
 # Squaw Bread
 [[Squaw Bread UK2| Squaw Bread]]
 # Toast
