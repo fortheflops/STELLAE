@@ -82,8 +82,11 @@ title: Desserts
 [[Plum Muffins UK3| Plum Muffins]]
 [[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
 ## Nuts
+### Pecans
 [[Pecan Treats UK3| Pecan Treats]]
 [[Sugared Pecans UK3| Sugared Pecans]]
+### Walnuts
+[[Sherried Walnuts GC| Sherried Walnuts]]
 ## [[Desserts/Pastries/index| Pastries]]
 
 ## [[Desserts/Pie/index| Pie]]

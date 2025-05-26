@@ -23,4 +23,4 @@ ___
 1. Mix all ingredients.
 2. Add ice & garnish.
 ___
-![[Handwritten_2025-01-23_104604.webp]]
+![[content/Beverages/Cocktail/Sangria/Assets/Handwritten_2025-01-23_104604.webp]]
