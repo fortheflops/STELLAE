@@ -43,6 +43,8 @@ title: Entrees
 [[Tamale Pie PC| Tamale Pie]]
 ### Hand Pies
 [[Pirozhki's UK2| Pirozhki's]]
+## Sandwich
+[[Vegetable & Cheese Sandwich GC| Vegetable & Cheese Sandwich]]
 ## Soufflé
 [[Spinach Soufflé UK3| Spinach Soufflé]]
 ## Soy

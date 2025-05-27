@@ -1,14 +1,16 @@
 ---
 title: Appetizers
 ---
-## Cheese
+# Cheese
 [[Cheese Log UK3| Cheese Log]]
-## Crab Cakes
+### Fondue
+[[Beer Rarebit Fondue GC| Beer Rarebit Fondue]]
+# Crab Cakes
 [[Crab Cakes UK2| Crab Cakes]]
 [[Deviled Crab Cakes UK2| Deviled Crab Cakes]]
 [[Maryland Crab Cakes UK2| Maryland Crab Cakes]]
 [[Wanchese Crab Cakes UK2| Wanchese Crab Cakes]]
-## Party Food
+# Party Food
 [[Cheese Ball LOC| Cheese Ball]]
 [[Cheese Ball PC| Cheese Ball]]
 [[Cheese Ball UK2| Cheese Ball]]
