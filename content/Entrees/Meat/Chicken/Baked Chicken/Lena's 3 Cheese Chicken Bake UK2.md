@@ -40,4 +40,4 @@ ___
 Makes 12-15 Servings
 
 ___
-![[content/Entrees/Meat/Chicken/Assets/Handwritten_2025-01-31_062059.webp]]
+![[content/Entrees/Meat/Chicken/Baked Chicken/Assets/Handwritten_2025-01-31_062059.webp]]

@@ -22,7 +22,6 @@ title: Meat
 [[Brisket UK3| Brisket]]
 ## Chicken
 [[Artichokes & Chicken a la Cream GC| Artichokes & Chicken a la Cream]]
-[[Baked Chicken GC| Baked Chicken]]
 [[Chicken & Crescents UK3| Chicken & Crescents]]
 [[Chicken Diablo UK3| Chicken Diablo]]
 [[Chilled Orange Chicken on Romaine LOC| Chilled Orange Chicken on Romaine]]
@@ -30,10 +29,13 @@ title: Meat
 [[Country Style Chicken Kiev UK3| Country Style Chicken Kiev]]
 [[Creamed Chicken UK3| Creamed Chicken]]
 [[Lemon Barbequed Chicken UK2| Lemon Barbequed Chicken]]
-[[Lena's 3 Cheese Chicken Bake UK2| Lena's 3 Cheese Chicken Bake]]
 [[Mexican Chicken UK3| Mexican Chicken]]
 [[Peachy Chicken GC| Peachy Chicken]]
 [[Sweet and Sour Chicken GC| Sweet and Sour Chicken]]
+### Baked Chicken
+[[Jeanie's Baked Chicken GC| Jeanie's Baked Chicken]]
+[[Lena's 3 Cheese Chicken Bake UK2| Lena's 3 Cheese Chicken Bake]]
+[[Miriam's Baked Chicken GC| Miriam's Baked Chicken]]
 ### Cornish Game Hens
 [[Cornish Game Hens GC| Cornish Game Hens]]
 ### Enchiladas
@@ -48,6 +50,8 @@ title: Meat
 [[Salmon Croquettes UK2| Salmon Croquettes]]
 ## Ham
 [[Ham Barbecue LOC| Ham Barbecue]]
+## Lamb
+[[Lamb Riblets Eldorado GC| Lamb Riblets Eldorado]]
 ## MeatLoaf
 [[Meatloaf UK3| Meat Loaf]]
 [[Susan's Meatloaf UK3| Susan's Meatloaf]]

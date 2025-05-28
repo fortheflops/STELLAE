@@ -13,6 +13,7 @@ title: Sides
 [[Pinto Beans PC| Pinto Beans]]
 [[Swedish Brown Beans GC| Swedish Brown Beans]]
 ## Lima Beans
+[[Lima Beans with Ham Bone or Bacon GC| Lima Beans with Ham Bone or Bacon]]
 [[Spanish Beans UK2| Spanish Beans]]
 # Corn
 [[Creamed Corn UK3| Creamed Corn]]

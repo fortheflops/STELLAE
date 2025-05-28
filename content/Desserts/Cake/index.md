@@ -67,6 +67,7 @@ title: Cake
 [[Spry Lemon Cake UK2| Spry Lemon Cake]]
 ### Pumpkin Cake
 [[Pumpkin Cake UK3| Pumpkin Cake]]
+[[Pumpkin Cake with Crust GC| Pumpkin Cake with Crust]]
 ## Strawberry Cake
 [[Strawberry Cake UK3| Strawberry Cake]]
 ## Jam Cake

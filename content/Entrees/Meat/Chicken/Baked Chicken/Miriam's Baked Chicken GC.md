@@ -8,15 +8,15 @@ tags:
 Miriam D.
 ___
 ## Recipe
-| Measurements              | Ingredients                               |
-| :------------------------ | :---------------------------------------- |
-| 6                         | Chicken [[Legs]]                          |
-| 6                         | Chicken [[Thighs]]                        |
-| Amount as needed          | [[Dijon-Style Mustard]]                   |
-| Amount as needed          | [[Salt]]                                  |
-| Amount as needed          | [[Pepper]]                                |
-| Amount as needed          | [[Buttermilk]]                            |
-| Amount as needed          | Fine Dry [[Breadcrumbs]]                  |
+| Measurements     | Ingredients              |
+| :--------------- | :----------------------- |
+| 6                | Chicken [[Legs]]         |
+| 6                | Chicken [[Thighs]]       |
+| Amount as needed | [[Dijon-Style Mustard]]  |
+| Amount as needed | [[Salt]]                 |
+| Amount as needed | [[Pepper]]               |
+| Amount as needed | [[Buttermilk]]           |
+| Amount as needed | Fine Dry [[Breadcrumbs]] |
 ___
 ## Instructions
 1.  Spread 6 chicken legs and 6 thighs lightly with Dijon-style mustard.
