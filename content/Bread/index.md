@@ -12,6 +12,7 @@ title: Bread
 # Corn Bread
 [[Mexican Corn Bread UK2| Mexican Corn Bread]]
 # Fruit Bread
+[[Apricot Bread GC| Apricot Bread]]
 [[Barnett's Cranberry Orange Bread UK2| Barnett's Cranberry Orange Bread]]
 [[Date Loaf - Sara UK2| Date Loaf]]
 [[Date Loaf UK2| Date Loaf]]
@@ -30,10 +31,11 @@ title: Bread
 [[Corn Tortillas UK2| Corn Tortillas]]
 [[WhiteTortillas UK2| White Tortillas]]
 # Yeasted Bread
-[[Italian Style White Bread UK2| Italian Style White Bread]]
 ## Biscuits 
 [[Beer Biscuits UK2| Beer Biscuits ]]
 [[Sour Dough Biscuits UK2| Sour Dough Biscuits]]
+## Cardamom Bread
+[[Cardamom Bread GC| Cardamom Bread]]
 ## Garlic Bread
 [[Seasoned French Bread LOC| Seasoned French Bread]]
 ## Rolls
@@ -42,6 +44,10 @@ title: Bread
 [[Rolls UK3| Rolls]]
 ## Sourdough
 [[Sour Dough UK2| Sour Dough]]
-## Zucchini Bread
+## White Bread
+[[Italian Style White Bread UK2| Italian Style White Bread]]
+## Whole Wheat Bread
+[[Basic Whole Wheat Bread GC| Basic Whole Wheat Bread]]
+# Zucchini Bread
 [[Zucchini Bread UK2| Zucchini Bread]]
 [[Classic Zucchini Bread UK2| Classic Zucchini Bread]]

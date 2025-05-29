@@ -5,20 +5,20 @@ tags:
   - "#GailCollection"
 ---
 ## Author
-Joe Everett
+Joe Everett & Gail
 ___
 ## Recipe
-| Measurements        | Ingredients                                        |
-| :----------------- | :------------------------------------------------- |
-| Five Smallish or Three Large     | [[Eggplant]]                              |
-| Lots                             | [[Salt]] (for salting eggplant)           |
-| Two Cups                         | [[Water]]                                 |
-| Two Cups                         | Wine [[Vinegar]]                          |
-| Six Cloves                       | [[Garlic]], Chopped Fine                  |
-| Fine                             | Chopped [[Parsley]]                       |
-| To Taste                         | Red or Green [[Pepper]], in fine strips   |
-| To Taste (Optional)              | Seed of Red [[Chili Pepper]]              |
-| To Cover                         | [[Olive Oil]]                             |
+| Measurements                 | Ingredients                             |
+| :--------------------------- | :-------------------------------------- |
+| Five Smallish or Three Large | [[Eggplant]]                            |
+| Lots                         | [[Salt]] (for salting eggplant)         |
+| Two Cups                     | [[Water]]                               |
+| Two Cups                     | Wine [[Vinegar]]                        |
+| Six Cloves                   | [[Garlic]], Chopped Fine                |
+| Fine                         | Chopped [[Parsley]]                     |
+| To Taste                     | Red or Green [[Pepper]], in fine strips |
+| To Taste (Optional)          | Seed of Red [[Chili Pepper]]            |
+| To Cover                     | [[Olive Oil]]                           |
 ___
 ## Instructions
 1.  Use five smallish eggplants or three large ones. Peel and cut them into one-inch slices.
@@ -36,3 +36,6 @@ ___
 ![[Handwritten_2025-05-27_151138.webp]]
 
 ![[Handwritten_2025-05-27_151500 (2).webp]]
+![[Handwritten_2025-05-29_123740.webp]]
+
+![[Handwritten_2025-05-29_123826 (2).webp]]
