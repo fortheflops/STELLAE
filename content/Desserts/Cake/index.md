@@ -28,6 +28,8 @@ title: Cake
 ## Cream Cake
 [[Italian Cream Cake UK3| Italian Cream Cake]]
 [[Jr. League Italian Cream Cake UK2| Jr. League Italian Cream Cake]]
+## Cupcake
+[[Chocolate Cupcakes GC| Chocolate Cupcakes]]
 ## Dirt Cake
 [[Dirt Cake LOC| Dirt Cake]]
 ## Eggless Cake
@@ -97,6 +99,7 @@ title: Cake
 ## Spice Cake
 [[Spice Cake UK2| Spice Cake]]
 ## Torte
+[[Apple Torte GC| Apple Torte]]
 [[Blitz Torte UK2| Blitz Torte]]
 [[Chocolate Chip Torte LC | Chocolate Chip Torte]]
 [[Huguenot Torte UK3| Huguenot Torte]]

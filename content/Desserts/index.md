@@ -39,6 +39,7 @@ title: Desserts
 ## Custard
 [[Flan PC| Flan]]
 [[Caramel Custard UK2| Caramel Custard]]
+[[Pots de Creme GC| Pots de Creme]]
 ## Filling
 [[Butterscotch Filling UK2| Butterscotch Filling]]
 [[Lemon Filling UK2| Lemon Filling]]
@@ -48,11 +49,13 @@ title: Desserts
 [[Chocolate Frosting UK3| Chocolate Frosting]]
 [[Cream Cheese Frosting UK2| Cream Cheese Frosting]]
 [[Frosting UK2| Frosting]]
+[[Quickie Frosting GC| Quickie Frosting]]
 [[Sea Foam Frosting UK2| Sea Foam Frosting]]
 [[Vanilla Frosting UK2| Vanilla Frosting]]
 ## Fruit
-[[Pears In Honey Sauce LC | Pears in Honey Sauce]]
 [[Candied Citrus Fruit PC| Candied Citrus Fruit]]
+[[Candied Grapefruit Peel GC| Candied Grapefruit Peel]]
+[[Pears In Honey Sauce LC | Pears in Honey Sauce]]
 ## Fudge
 [[Lorraine's Chocolate Fudge UK2| Lorraine's Chocolate Fudge]]
 [[Marshmallow Fudge UK2| Marshmallow Fudge]]
