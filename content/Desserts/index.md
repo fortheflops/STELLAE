@@ -61,14 +61,8 @@ title: Desserts
 [[Marshmallow Fudge UK2| Marshmallow Fudge]]
 ## Gelatin
 [[Orange-Apricot Gelatin Mold UK2| Orange-Apricot Gelatin Mold]]
-## Ice Cream
-[[Butterfinger Ice Cream UK3| Butterfinger Ice Cream]]
-[[Chocolate Ice Cream 2 UK3| Chocolate Ice Cream]]
-[[Frozen Passion UK3| Frozen Passion]]
-[[Homemade Ice Cream UK3| Homemade Ice Cream]]
-[[Homemade Vanilla Ice Cream LOC| Homemade Vanilla Ice Cream]]
-[[Ice Cream UK3| Ice Cream]]
-[[Melinda's Chocolate Ice Cream UK3| Melinda's Chocolate Ice Cream]]
+## [[Desserts/Ice Cream/index| Ice Cream]]
+
 ## Icing
 [[Brown Sugar Icing UK2| Brown Sugar Icing]]
 [[Chocolate Icing UK2| Chocolate Icing]]
@@ -81,6 +75,8 @@ title: Desserts
 ## Meringues
 [[Meringue UK3| Meringue]]
 [[No Weep Meringues UK2| No Weep Meringues]]
+## Mousse
+[[Chocolate Mousse GC| Chocolate Mousse]]
 ## Muffins
 [[Plum Muffins UK3| Plum Muffins]]
 [[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
@@ -105,6 +101,8 @@ title: Desserts
 ## [[Desserts/Salad/index| Salad]]
 ## Scones
 [[Currant Scones UK2| Currant Scones]]
+## Sorbet
+[[Strawberry Ice GC| Strawberry Ice]]
 ## Soups
 [[Spiced Rhubarb Soup PC| Spiced Rhubarb Soup]]
 ## Sticky Buns

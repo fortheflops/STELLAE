@@ -14,6 +14,7 @@ title: Confections
 ### Bon Bons
 [[Pecan Bon Bons UK2| Pecan Bon Bons]]
 ### Truffles
+[[Brandy Balls GC| Brandy Balls]]
 [[Rum Balls LOC| Rum Balls]]
 ## Divinity
 [[Butter Divinity UK3| Butter Divinity]]

@@ -30,6 +30,7 @@ title: Cookies
 [[Apple Drop Cookies UK2| Apple Drop Cookies]]
 [[Apple Sauce Cookies UK2| Apple Sauce Cookies]]
 [[Beatriz Mares' Cherry Winks UK2| Beatriz Mares' Cherry Winks]]
+[[Cherry-Almond Balls GC| Cherry-Almond Balls]]
 [[Classic Apple Sauce Cookies PC| Classic Apple Sauce Cookies]]
 [[Date-Nut Rocks UK2| Date-Nut Rocks]]
 [[Fruit Cake Cookies UK3| Fruit Cake Cookies]]
