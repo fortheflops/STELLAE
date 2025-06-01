@@ -29,6 +29,7 @@ title: Cake
 [[Italian Cream Cake UK3| Italian Cream Cake]]
 [[Jr. League Italian Cream Cake UK2| Jr. League Italian Cream Cake]]
 ## Cupcake
+[[Chocolate Cake Mix Cupcakes (with Cream Cheese Filling) GC| Chocolate Cake Mix Cupcakes (with Cream Cheese Filling)]]
 [[Chocolate Cupcakes GC| Chocolate Cupcakes]]
 ## Dirt Cake
 [[Dirt Cake LOC| Dirt Cake]]
@@ -67,6 +68,8 @@ title: Cake
 [[Lemon Cake UK3| Lemon Cake]]
 [[Lemon Supreme Special Cake UK3| Lemon Supreme Special Cake]]
 [[Spry Lemon Cake UK2| Spry Lemon Cake]]
+### Persimmon Cake
+[[Persimmon Cake GC| Persimmon Cake]]
 ### Pumpkin Cake
 [[Pumpkin Cake UK3| Pumpkin Cake]]
 [[Pumpkin Cake with Crust GC| Pumpkin Cake with Crust]]
@@ -87,6 +90,7 @@ title: Cake
 [[Oatmeal Cake UK3| Oatmeal Cake]]
 ## Pound Cake
 [[Bourbon Pound Cake UK2| Bourbon Pound Cake]]
+[[German Pound Cake GC| German Pound Cake]]
 ## Sheet Cake
 [[Chocolate Sheath Cake UK2| Chocolate Sheath Cake]]
 ## Shortcake

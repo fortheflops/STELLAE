@@ -1,5 +1,5 @@
 ---
-title: Oven-Fried Eggplant
+title: Merengue Cookie
 draft: false
 tags:
   - "#UnknownThree"
@@ -8,13 +8,13 @@ tags:
 Rebecca
 ___
 ## Recipe
-| Measurements | Ingredients               |
-| :----------- | ------------------------- |
+| Measurements | Ingredients                  |
+| :----------- | ---------------------------- |
 | 2            | [[Egg Whites]], beaten stiff |
-| 2/3 cup      | [[Sugar]]                   |
-| 1 teaspoon    | [[Vanilla]]                 |
-| 1 cup        | Chopped [[Nuts]]            |
-| 1-6 oz.      | [[Chocolate Chips]]         |
+| 2/3 cup      | [[Sugar]]                    |
+| 1 teaspoon   | [[Vanilla]]                  |
+| 1 cup        | Chopped [[Nuts]]             |
+| 1-6 oz.      | [[Chocolate Chips]]          |
 
 ___
 ### Instructions
