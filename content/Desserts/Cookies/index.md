@@ -52,6 +52,7 @@ title: Cookies
 [[Oatmeal Cookies UK3| Oatmeal Cookies]]
 [[Pineapple Oatmeal Cookies UK2| Pineapple Oatmeal Cookies]]
 ### Pizzelle
+[[Classic Pizzelle GC| Classic Pizzelle]]
 [[Lace Cookies UK3| Lace Cookies]]
 [[Pizzelle UK2| Pizzelle]]
 ### Refrigerator Cookies

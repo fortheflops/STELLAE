@@ -61,6 +61,7 @@ title: Cake
 [[Fruit Cake UK2| Fruit Cake]]
 [[Fruit Cake with Mincemeat and Eagle Brand Milk UK2| Fruit Cake with Mincemeat and Eagle Brand Milk]]
 [[Sandeman's Fruit Cake  UK2| Sandeman's Fruit Cake]]
+[[Xmas Fruit Candy Loaf GC| Xmas Fruit Candy Loaf]]
 #### Christmas Cake
 [[Christmas Cake UK2| Christmas Cake ]]
 [[English Christmas Cake UK2| English Christmas Cake]]

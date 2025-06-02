@@ -3,6 +3,8 @@ title: Snacks
 ---
 # Cottage Cheese
 [[Cottage Cheese Mix LOC| Cottage Cheese Mix]]
+# Nuts
+[[Parmesan Peanuts GC| Parmesan Peanuts]]
 # Snack Mix
 [[Snack Mix LOC| Snack Mix]]
 # Vegetables

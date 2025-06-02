@@ -14,6 +14,7 @@ title: Bread
 # Fruit Bread
 [[Apricot Bread GC| Apricot Bread]]
 [[Barnett's Cranberry Orange Bread UK2| Barnett's Cranberry Orange Bread]]
+[[Bishop's Bread GC| Bishop's Bread]]
 [[Date Loaf - Sara UK2| Date Loaf]]
 [[Date Loaf UK2| Date Loaf]]
 [[Jiffy Orange-Nut Loaf UK2| Jiffy Orange-Nut Loaf]]

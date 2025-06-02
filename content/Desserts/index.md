@@ -20,6 +20,7 @@ title: Desserts
 ### Cheesecake Bars
 [[Festive Cranberry Cheese Squares UK3| Festive Cranberry Cheese Squares]]
 ## Cobbler
+[[Aunt Liz Peach Cobbler GC| Aunt Liz Peach Cobbler]]
 [[Fruit Cobbler UK3| Fruit Cobbler]]
 ## [[Desserts/Confections/index| Confections]]
 
@@ -128,6 +129,7 @@ title: Desserts
 [[Chocolate Rum Pots LOC| Chocolate Rum Pots]]
 [[Coffee Nut Tortoni UK3| Coffee Nut Tortoni]]
 [[Date-Nut Dessert UK2| Date-Nut Dessert]]
+[[Frozen Fruit Dessert GC| Frozen Fruit Dessert]]
 [[Geng-a-lings UK2| Geng-a-lings]]
 [[Graham Cracker Roll UK2| Graham Cracker Roll]]
 [[Strawberry Cream Squares UK3| Strawberry Cream Squares]]
