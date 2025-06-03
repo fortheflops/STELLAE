@@ -1,5 +1,5 @@
 ---
-title: Cream of Potato Soup
+title: Classic Meringues
 draft: false
 tags:
   - UnknownThree

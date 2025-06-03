@@ -67,7 +67,9 @@ title: Cake
 [[English Christmas Cake UK2| English Christmas Cake]]
 ### Lemon Cake
 [[Lemon Cake UK3| Lemon Cake]]
+[[Lemon Cake with Pudding Mix GC| Lemon Cake with Pudding Mix GC]]
 [[Lemon Supreme Special Cake UK3| Lemon Supreme Special Cake]]
+[[Poppy Seed Cake GC| Poppy Seed Cake]]
 [[Spry Lemon Cake UK2| Spry Lemon Cake]]
 ### Persimmon Cake
 [[Persimmon Cake GC| Persimmon Cake]]
@@ -103,6 +105,8 @@ title: Cake
 [[Sour Cream Coffee Cake UK3| Sour Cream Coffee Cake]]
 ## Spice Cake
 [[Spice Cake UK2| Spice Cake]]
+## Toffee Cake
+[[Toffee Cakes GC| Toffee Cakes]]
 ## Torte
 [[Apple Torte GC| Apple Torte]]
 [[Blitz Torte UK2| Blitz Torte]]

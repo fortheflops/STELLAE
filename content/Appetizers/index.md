@@ -3,6 +3,7 @@ title: Appetizers
 ---
 # Cheese
 [[Cheese Log UK3| Cheese Log]]
+[[Hot Cheese Canapes| Hot Cheese Canapes]]
 ### Fondue
 [[Beer Rarebit Fondue GC| Beer Rarebit Fondue]]
 # Crab Cakes
@@ -16,6 +17,8 @@ title: Appetizers
 [[Cheese Ball UK2| Cheese Ball]]
 [[Cheese Ball UK3| Cheese Ball]]
 [[Cheese Balls LOC| Cheese Balls]]
-[[Minis Things| Minis Things GS]]
+[[Minis Things GS| Minis Things]]
 [[Party Chicken PC| Party Chicken]]
 [[Zesty Sausage Squares UK2| Zesty Sausage Squares]]
+## Shrimp
+[[Shrimp on Crackers GC| Shrimp on Crackers]]

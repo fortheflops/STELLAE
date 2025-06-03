@@ -76,7 +76,8 @@ title: Desserts
 ## Lemon Delight
 [[Lemon Delight UK3| Lemon Delight]]
 ## Meringues
-[[Meringue UK3| Meringue]]
+[[Classic Meringues UK3| Meringue]]
+[[Meringues GC| Meringues]]
 [[No Weep Meringues UK2| No Weep Meringues]]
 ## Mousse
 [[Chocolate Mousse GC| Chocolate Mousse]]
