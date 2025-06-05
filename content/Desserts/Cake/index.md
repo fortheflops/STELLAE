@@ -14,6 +14,7 @@ title: Cake
 [[Chocolate Cake UK3| Chocolate Cake]]
 [[Orie's Wesson Oil Chocolate Cake UK2| Orie's Wesson Oil Chocolate Cake]]
 ### Devil's Food Cake
+[[Dark Devils Food Cake GC| Dark Devils Food Cake]]
 [[Red Devil's Food Cake UK2| Red Devil's Food Cake]]
 ### German Chocolate
 [[German Chocolate Cake UK3| German Chocolate Cake]]
@@ -24,6 +25,7 @@ title: Cake
 [[Coconut Cake UK3| Coconut Cake]]
 [[Pina Colada Cake UK3| Pina Colada Cake]]
 ## Coffee Cake
+[[Coffee Cake with Fresh Apricots or Apples GC| Coffee Cake with Fresh Apricots or Apples ]]
 [[Hungarian Coffee Cake LOC| Hungarian Coffee Cake]]
 ## Cream Cake
 [[Italian Cream Cake UK3| Italian Cream Cake]]
