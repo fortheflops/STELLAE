@@ -36,6 +36,8 @@ title: Entrees
 ### Tetrazzini
 [[Cathy's Chicken Tetrazzini UK3| Cathy's Chicken Tetrazzini]]
 [[Chicken Tetrazzini UK3| Chicken Tetrazzini]]
+# Rice
+[[Risotto con Funghi GC| Risotto con Funghi]]
 # Vegetable
 ## Burger
 [[Tofu Burgers PC| Tofu Burgers]]

@@ -8,3 +8,4 @@ title: Bars
 [[Lemon Squares UK2| Lemon Squares]]
 [[Millionaires UK3| Millionaires]]
 [[Nut Squares UK2| Nut Squares]]
+[[Peanut Butter Fruit Squares GC| Peanut Butter Fruit Squares]]

@@ -33,6 +33,6 @@ ___
 6. Heat The Beans.
 7. Pour Onto Hot Serving Platter & Arrange Meatballs Over Top.
 ___
-![[Handwritten_2025-01-28_173055.webp]]
+![[content/Sides/Vegetable/Beans/Baked Beans/Assets/Handwritten_2025-01-28_173055.webp]]
 
 ![[Handwritten_2025-01-28_173150 (2).webp]]

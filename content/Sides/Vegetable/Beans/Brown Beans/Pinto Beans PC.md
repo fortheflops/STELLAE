@@ -33,4 +33,4 @@ ___
 
 ___
 
-![[Handwritten_2025-01-13_130227.webp]]
+![[content/Sides/Vegetable/Beans/Brown Beans/Assets/Handwritten_2025-01-13_130227.webp]]

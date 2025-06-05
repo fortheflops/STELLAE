@@ -9,6 +9,8 @@ title: Desserts
 [[Jackie's Brownies PC| Jackie's Brownies]]
 [[Mary Doll's Butterscotch Brownies UK2| Mary Doll's Butterscotch Brownies]]
 [[Millie's Brownies UK3| Millie's Brownies]]
+### Blondies
+[[Congo Squares GC| Congo Squares]]
 ## [[Desserts/Cake/index| Cake]]
 ## Casserole
 [[Apricot Casserole PC| Apricot Casserole]]

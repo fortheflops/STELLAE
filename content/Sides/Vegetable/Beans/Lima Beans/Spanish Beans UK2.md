@@ -38,6 +38,6 @@ ___
 8. Pour in bean stock.
 9. Cover & bake for 2 hours.
 ___
-![[Handwritten_2025-01-15_124627.webp]]
+![[content/Sides/Vegetable/Beans/Lima Beans/Assets/Handwritten_2025-01-15_124627.webp]]
 
 ![[Handwritten_2025-01-15_124810 (2).webp|656]]
