@@ -6,6 +6,7 @@ title: Cake
 ## Alcohol 
 [[Bacardi Rum Cake PC| Bacardi Rum Cake]]
 [[Chre. Rum Cake UK3| Chre. Rum Cake]]
+[[Snooks Bacardi Rum Cake GC| Snooks Bacardi Rum Cake]]
 ## Angel Food Cake
 [[Mock Angel Food Cake UK2| Mock Angel Food Cake]]
 ## Buttermilk Cake
@@ -33,6 +34,7 @@ title: Cake
 ## Cupcake
 [[Chocolate Cake Mix Cupcakes (with Cream Cheese Filling) GC| Chocolate Cake Mix Cupcakes (with Cream Cheese Filling)]]
 [[Chocolate Cupcakes GC| Chocolate Cupcakes]]
+[[Prune Nut Cupcakes GC| Prune Nut Cupcakes]]
 ## Dirt Cake
 [[Dirt Cake LOC| Dirt Cake]]
 ## Eggless Cake

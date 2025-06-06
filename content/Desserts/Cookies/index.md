@@ -9,14 +9,16 @@ title: Cookies
 [[Lemonade Cookies UK2| Lemonade Cookies]]
 [[Mary Dell's Millionaire Cookies UK2| Mary Dell's Millionaire Cookies ]]
 [[Orange-Spice Cookies UK2| Orange-Spice Cookies]]
+[[Party Cookies GC| Party Cookies]]
 [[Plain Cookies UK3| Plain Cookies]]
 [[Roll Out Cookies PC| Roll Out Cookies]]
 [[Six-in-One Cookies UK2| Six-in-One Cookies]]
 [[Snickerdoodles LC| Snickerdoodles]]
 [[Swedish Slugs UK2| Swedish Slugs]]
 ### Butter Cookies
+[[Basic Butter Cookies UK3| Basic Butter Cookies]]
 [[Butter Cookies UK2| Butter Cookies]]
-[[Butter Cookies UK3| Butter Cookies]]
+[[Danish Cookies GC| Danish Cookies]]
 [[Old Fashioned Butter Cookies PC| Old Fashioned Butter Cookies]]
 ### Chocolate
 [[Chocolate Cookies UK2| Chocolate Cookies]]

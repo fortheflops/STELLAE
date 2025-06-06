@@ -17,6 +17,8 @@ title: Other
 [[Pickled Okra UKE| Pickled Okra]]
 ## Pickled Tomatoes
 [[Pickled Tomatoes GC| Pickled Tomatoes]]
+# Seasoning
+[[Brazilica Seasoning GC| Brazilica Seasoning]]
 # Spread
 [[Cheese Bread Spread UK3| Cheese Bread Spread]]
 # Topping
