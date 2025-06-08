@@ -31,6 +31,7 @@ title: Beverages
 ## Milkshake
 [[Milkshake LOC| Milkshake]]
 ## Punch
+[[Classic Party Punch GC| Classic Party Punch]]
 [[Classic Punch UK3| Classic Punch]]
 [[Coke Punch UK3| Coke Punch]]
 [[Good Punch LOC| Good Punch]]

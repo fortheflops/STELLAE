@@ -27,4 +27,4 @@ ___
 3. Arrange On Well Greased Baking Sheet.
 4. Bake 375° Until Golden.
 ___
-![[Handwritten_2025-01-18_093851.webp]]
+![[content/Appetizers/Seafood/Crab Cakes/Assets/Handwritten_2025-01-18_093851.webp]]

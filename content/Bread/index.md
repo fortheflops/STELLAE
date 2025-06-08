@@ -18,6 +18,7 @@ title: Bread
 [[Date Loaf - Sara UK2| Date Loaf]]
 [[Date Loaf UK2| Date Loaf]]
 [[Jiffy Orange-Nut Loaf UK2| Jiffy Orange-Nut Loaf]]
+[[Pumpkin Raisin Nut Bread GC| Pumpkin Raisin Nut Bread]]
 [[Raspberry Layer Loaf UK2| Raspberry Layer Loaf]]
 # Muffins
 [[Beer Muffins UK2| Beer Muffins]]

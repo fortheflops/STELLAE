@@ -31,4 +31,4 @@ ___
 6. **Cook:** Fry for about 3-5 minutes per side, or until golden brown and heated through. The internal temperature should reach 145°F (63°C).
 7. **Drain and Serve:** Remove the crab cakes from the skillet and place them on a plate lined with paper towels to drain any excess oil. Serve immediately.
 ___
-![[Handwritten_2025-01-19_112013.webp]]
+![[content/Appetizers/Seafood/Crab Cakes/Assets/Handwritten_2025-01-19_112013.webp]]

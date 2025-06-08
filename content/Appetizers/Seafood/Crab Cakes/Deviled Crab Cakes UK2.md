@@ -43,6 +43,6 @@ ___
 >Yields 7-10 servings
 
 ___
-![[Handwritten_2025-01-18_093026.webp]]
+![[content/Appetizers/Seafood/Crab Cakes/Assets/Handwritten_2025-01-18_093026.webp]]
 
 ![[Handwritten_2025-01-18_093132 (2).webp]]

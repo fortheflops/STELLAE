@@ -36,6 +36,6 @@ ___
 >Makes 6 Crab Cakes
 
 ___
-![[Handwritten_2025-01-17_121915.webp]]
+![[content/Appetizers/Seafood/Crab Cakes/Assets/Handwritten_2025-01-17_121915.webp]]
 
 ![[Handwritten_2025-01-17_122005 (2).webp]]

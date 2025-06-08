@@ -6,13 +6,6 @@ title: Appetizers
 [[Hot Cheese Canapes| Hot Cheese Canapes]]
 ### Fondue
 [[Beer Rarebit Fondue GC| Beer Rarebit Fondue]]
-# Crab Cakes
-[[Crab Cakes UK2| Crab Cakes]]
-[[Deviled Crab Cakes UK2| Deviled Crab Cakes]]
-[[Maryland Crab Cakes UK2| Maryland Crab Cakes]]
-[[Wanchese Crab Cakes UK2| Wanchese Crab Cakes]]
-# Mold Recipes
-[[Crab Mold GC| Crab Mold]]
 # Party Food
 [[Cheese Ball LOC| Cheese Ball]]
 [[Cheese Ball PC| Cheese Ball]]
@@ -22,5 +15,14 @@ title: Appetizers
 [[Minis Things GS| Minis Things]]
 [[Party Chicken PC| Party Chicken]]
 [[Zesty Sausage Squares UK2| Zesty Sausage Squares]]
+# Seafood
+## Crab Cakes
+[[Crab Cakes UK2| Crab Cakes]]
+[[Deviled Crab Cakes UK2| Deviled Crab Cakes]]
+[[Maryland Crab Cakes UK2| Maryland Crab Cakes]]
+[[Wanchese Crab Cakes UK2| Wanchese Crab Cakes]]
+## Mold Recipes
+[[Crab Mold GC| Crab Mold]]
 ## Shrimp
 [[Shrimp on Crackers GC| Shrimp on Crackers]]
+[[Shrimp Zorka GC| Shrimp Zorka]]

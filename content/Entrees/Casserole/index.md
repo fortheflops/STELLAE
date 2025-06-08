@@ -1,7 +1,6 @@
 ---
 title: Casserole
 ---
-
 ## Meat
 ### Beef
 [[Cheesy Creamy Mexican Casserole UK3| Cheesy Creamy Mexican Casserole]]
@@ -17,6 +16,7 @@ title: Casserole
 [[Chicken Casserole UK3| Chicken Casserole]]
 [[Chicken Delight Casserole LOC| Chicken Delight Casserole]]
 [[Chicken Silk Rice Casserole UK3| Chicken Silk Rice Casserole]]
+[[Creamed Chicken Casserole GC| Creamed Chicken Casserole]]
 [[Emily Pineda's Chicken Enchilada Casserole UK2| Emily Pineda's Chicken Enchilada Casserole]]
 [[Neva's Chicken Casserole UK2| Neva's Chicken Casserole ]]
 ## Meat and Vegetable
