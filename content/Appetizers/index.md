@@ -11,6 +11,8 @@ title: Appetizers
 [[Deviled Crab Cakes UK2| Deviled Crab Cakes]]
 [[Maryland Crab Cakes UK2| Maryland Crab Cakes]]
 [[Wanchese Crab Cakes UK2| Wanchese Crab Cakes]]
+# Mold Recipes
+[[Crab Mold GC| Crab Mold]]
 # Party Food
 [[Cheese Ball LOC| Cheese Ball]]
 [[Cheese Ball PC| Cheese Ball]]
