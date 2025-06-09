@@ -61,6 +61,7 @@ title: Cake
 [[Banana Split Cake UK2| Banana Split Cake]]
 ### Fruit Cake
 [[Abby's Fruit Cake UK2| Abby's Fruit Cake]]
+[[Bishop Fruitcake GC| Bishop Fruitcake]]
 [[Bourbon Fruit & Nut Cake LOC| Bourbon Fruit & Nut Cake]]
 [[Fruit Cake UK2| Fruit Cake]]
 [[Fruit Cake with Mincemeat and Eagle Brand Milk UK2| Fruit Cake with Mincemeat and Eagle Brand Milk]]

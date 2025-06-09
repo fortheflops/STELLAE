@@ -9,6 +9,7 @@ title: Pie
 [[Classic Graham Cracker Crust UK2| Classic Graham Cracker Crust]]
 [[Five Pie Crusts UK3| Five Pie Crusts]]
 [[Fool-Proof Pie Crust GC| Fool-Proof Pie Crust]]
+[[Gail's Pie Crust GC| Gail's Pie Crust]]
 [[Graham Cracker Crust UK3| Graham Cracker Crust]]
 [[Instant Pie Crust UK2| Instant Pie Crust]]
 [[Martha's Pie Crust UK3| Martha's Pie Crust]]
@@ -36,14 +37,16 @@ title: Pie
 ## Nut Pie
 [[Avocado Rum Macadamia Nut Chiffon Pie PC| Avocado Rum Macadamia Nut Chiffon Pie]]
 [[Butterscotch Nut Pie UK3| Butterscotch Nut Pie]]
-## Peach Pie
-[[Fresh Peach Pie LOC| Fresh Peach Pie]]
 ### Pecan Pie
+[[Classic Pecan Pie GC| Classic Pecan Pie]]
 [[Juanita's Pecan Pie UK2| Juanita's Pecan Pie]]
 [[Kentucky Pecan Pie UK3| Kentucky Pecan Pie]]
+## Peach Pie
+[[Fresh Peach Pie LOC| Fresh Peach Pie]]
 ## Pineapple Pie
 [[No Bake Pineapple Pie UK3| No Bake Pineapple Pie]]
 [[Pineapple Millionaire Pie UK2| Pineapple Millionaire Pie]]
 ## Pumpkin Pie
+[[Grandma's Pumpkin Pie GC| Grandma's Pumpkin Pie]]
 [[Pumpkin Pie (Impossible) PC| Pumpkin Pie (Impossible)]]
 [[Pumpkin Pie PC| Pumpkin Pie]]
