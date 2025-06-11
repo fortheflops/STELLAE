@@ -46,6 +46,7 @@ title: Sauces
 [[Lime Honey Dressing UK3| Lime Honey Dressing]]
 [[Royal Cream Salad Dressing UK2| Royal Cream Salad Dressing]]
 [[Salad Dressing LOC| Salad Dressing]]
+[[Superb French Dressing GC| Superb French Dressing]]
 [[Trudy's Sauce For Fruit Salad On Lettuce LOC]]
 ### Turkey Dressing
 [[Turkey Dressing GC| Turkey Dressing]]

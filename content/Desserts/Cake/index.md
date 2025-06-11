@@ -12,6 +12,7 @@ title: Cake
 ## Buttermilk Cake
 [[Buttermilk Cake UK2| Buttermilk Cake]]
 ## Chocolate Cake
+[[Chocolate Cake (with Banana and Whipped Cream Filling) GC| Chocolate Cake (with Banana and Whipped Cream Filling)]]
 [[Chocolate Cake UK3| Chocolate Cake]]
 [[Orie's Wesson Oil Chocolate Cake UK2| Orie's Wesson Oil Chocolate Cake]]
 ### Devil's Food Cake
@@ -118,6 +119,7 @@ title: Cake
 [[Chocolate Chip Torte LC | Chocolate Chip Torte]]
 [[Field's Apple Torte GC| Field's Apple Torte]]
 [[Huguenot Torte UK3| Huguenot Torte]]
+[[Soda Cracker Torte GC| Soda Cracker Torte]]
 ## Wafer Cake
 [[Vanilla Wafer Cake UK3| Vanilla Wafer Cake]]
 ## Other

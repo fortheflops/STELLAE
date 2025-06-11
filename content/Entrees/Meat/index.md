@@ -51,6 +51,7 @@ title: Meat
 ## Ham
 [[Ham Barbecue LOC| Ham Barbecue]]
 ## Lamb
+[[Cook Lamb Shanks GC| Cook Lamb Shanks]]
 [[Lamb Riblets Eldorado GC| Lamb Riblets Eldorado]]
 ## MeatLoaf
 [[Meatloaf UK3| Meat Loaf]]

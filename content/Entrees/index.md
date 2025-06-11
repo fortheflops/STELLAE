@@ -16,6 +16,8 @@ title: Entrees
 ## Soufflé
 [[Parsnip Soufflé GC| Parsnip Soufflé]]
 # [[Entrees/Meat/index| Meat]]
+# Oats
+[[Muesli GC| Muesli]]
 # Pasta
 [[Pasta With Vinaigrette PC| Pasta With Vinaigrette]]
 ### Alfredo
