@@ -21,6 +21,7 @@ title: Salad
 [[Cranberry Salad UK2| Cranberry Salad]]
 ## Lime Salad
 [[Lime Jello Salad GC| Lime Jello Salad]]
+[[Lime, Pear and Cherry Jello Salad GC| Lime, Pear and Cherry Jello Salad]]
 ## Orange
 [[Juanita's Orange Jello Salad UK2| Juanita's Orange Jello Salad]]
 [[Orange Salad UK3| Orange Salad]]
