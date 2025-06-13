@@ -23,6 +23,7 @@ title: Meat
 ## Chicken
 [[Artichokes & Chicken a la Cream GC| Artichokes & Chicken a la Cream]]
 [[Chicken & Crescents UK3| Chicken & Crescents]]
+[[Chicken & Dumpling GC| Chicken & Dumpling]]
 [[Chicken Diablo UK3| Chicken Diablo]]
 [[Chilled Orange Chicken on Romaine LOC| Chilled Orange Chicken on Romaine]]
 [[Coq in Burgundy UK2| Coq in Burgundy]]

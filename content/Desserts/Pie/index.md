@@ -22,6 +22,8 @@ title: Pie
 [[Sugarless Apple Pie UK2| Sugarless Apple Pie]]
 ## Butterscotch Pie
 [[Butterscotch Pie UK3| Butterscotch Pie]]
+## Cherry Pie
+[[Easy Cherry Pie GC| Easy Cherry Pie]]
 ## Chocolate Pie
 [[Chocolate Hershey Pie UK3| Chocolate Hershey Pie]]
 [[Chocolate Pie UK3| Chocolate Pie]]
@@ -50,3 +52,5 @@ title: Pie
 [[Grandma's Pumpkin Pie GC| Grandma's Pumpkin Pie]]
 [[Pumpkin Pie (Impossible) PC| Pumpkin Pie (Impossible)]]
 [[Pumpkin Pie PC| Pumpkin Pie]]
+## Strawberry Pie
+[[Strawberry Pie GC| Strawberry Pie]]

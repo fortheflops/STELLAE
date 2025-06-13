@@ -3,6 +3,7 @@ title: Bread
 ---
 # Batter Bread
 [[Blinchiki UK2| Blinchiki]]
+[[Cardamon Delight (Pancakes) GC| Cardamon Delight (Pancakes)]]
 [[Cheese Blintzes 2 UK2| Cheese Blintzes]]
 [[Cheese Blintzes UK2| Cheese Blintzes]]
 [[German Pancakes UK2| German Pancakes]]

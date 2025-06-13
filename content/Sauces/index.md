@@ -73,6 +73,8 @@ title: Sauces
 [[Salsa UK2| Salsa]]
 ## Sweet and Sour Sauce
 [[Sweet & Sour Sauce LOC| Sweet & Sour Sauce]]
+## Syrup
+[[Syrup GC| Syrup]]
 ### Salsa Roja
 [[Enchilada Sauce PC| Enchilada Sauce]]
 [[Mildred's Chili- Enchilada Sauce UK2| Mildred's Chili- Enchilada Sauce]]
