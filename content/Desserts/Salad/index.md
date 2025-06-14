@@ -1,6 +1,8 @@
 ---
 title: Salad
 ---
+# Ambrosia
+[[5 Cup Salad GC| 5 Cup Salad]]
 # Frozen Salad
 [[Frozen Salad UK3| Frozen Salad]]
 [[Melinda's Frozen Salad UK3| Melinda's Frozen Salad]]

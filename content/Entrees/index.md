@@ -38,6 +38,8 @@ title: Entrees
 ### Tetrazzini
 [[Cathy's Chicken Tetrazzini UK3| Cathy's Chicken Tetrazzini]]
 [[Chicken Tetrazzini UK3| Chicken Tetrazzini]]
+# Pizzia
+[[Mom's Pizza GC| Mom's Pizza]]
 # Rice
 [[Risotto con Funghi GC| Risotto con Funghi]]
 # Vegetable
