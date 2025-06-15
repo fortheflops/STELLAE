@@ -22,6 +22,7 @@ title: Appetizers
 [[Maryland Crab Cakes UK2| Maryland Crab Cakes]]
 [[Wanchese Crab Cakes UK2| Wanchese Crab Cakes]]
 ## Mold Recipes
+[[Crab Dip Mold GC| Crab Dip Mold]]
 [[Crab Mold GC| Crab Mold]]
 ## Shrimp
 [[Shrimp on Crackers GC| Shrimp on Crackers]]

@@ -48,6 +48,7 @@ title: Cake
 [[Quick Pineapple Cake UK2| Quick Pineapple Cake]]
 [[Tomato Soup Cake PC| Tomato Soup Cake]]
 ### Apple
+[[Apple Dapple Cake GC| Apple Dapple Cake]]
 [[Apple Dump Dish UK2| Apple Dump Dish]]
 [[Fresh Apple Cake UK3| Fresh Apple Cake]]
 [[Neva's Apple Cake UK2| Neva's Apple Cake]]

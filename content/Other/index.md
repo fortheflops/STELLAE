@@ -8,6 +8,8 @@ title: Other
 [[Ruth's Fresh Cranberry & Orange Relish UK2| Ruth's Fresh Cranberry & Orange Relish]]
 # Dumplings
 [[Dumplings UK2| Dumplings]]
+# Garnish
+[[Sugared Mint Leaves GC| Sugared Mint Leaves]]
 # Jelly
 [[Wine Jelly GC| Wine Jelly]]
 # Hello?

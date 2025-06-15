@@ -29,6 +29,7 @@ title: Meat
 [[Coq in Burgundy UK2| Coq in Burgundy]]
 [[Country Style Chicken Kiev UK3| Country Style Chicken Kiev]]
 [[Creamed Chicken UK3| Creamed Chicken]]
+[[Hawaiian Chicken GC| Hawaiian Chicken]]
 [[Lemon Barbequed Chicken UK2| Lemon Barbequed Chicken]]
 [[Mexican Chicken UK3| Mexican Chicken]]
 [[Peachy Chicken GC| Peachy Chicken]]
@@ -84,5 +85,7 @@ title: Meat
 [[Russian Steak UK2| Russian Steak]]
 ### Eye of Round
 [[Roast UK3| Roast]]
+### Flank Steak
+[[Flank Steak Teriyaki GC| Flank Steak Teriyaki]]
 ## Veal
 [[Baked Veal (Wine Vinegar) UK2| Baked Veal]]

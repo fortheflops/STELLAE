@@ -8,6 +8,8 @@ title: Beverages
 [[Mulled Cider UK2| Mulled Cider]]
 [[Spiced Cider UK2| Spiced Cider]]
 # Cocktail
+## Fizz
+[[Fizz GC| Fizz]]
 ## Limonada
 [[Limonada LOC| Limonada]]
 ## Sangria 

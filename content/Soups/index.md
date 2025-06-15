@@ -12,6 +12,8 @@ title: Soups
 [[Cream of Potato Soup UK3| Cream of Potato Soup]]
 ## Gazpacho
 [[Gazpacho UK3| Gazpacho]]
+## Meat Soup
+[[Meaty Soup - Veg. Bean GC| Meaty Soup - Veg. Bean]]
 ## Stew
 [[Marmitako UK2| Marmitako]]
 ### Beef Stew

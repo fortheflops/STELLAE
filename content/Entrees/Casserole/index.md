@@ -29,6 +29,7 @@ title: Casserole
 [[Chili Relleno Casserole PC| Chili Relleno Casserole]]
 [[Corn Casserole UK3| Corn Casserole]]
 [[Eggplant Delight UK2| Eggplant Delight]]
+[[Miriam's Broccoli Casserole GC| Miriam's Broccoli Casserole]]
 [[Spinach Casserole UK2| Spinach Casserole]]
 [[Spinach, Broccoli, and Asparagus Casserole PC| Spinach, Broccoli, and Asparagus Casserole]]
 [[Zucchini Casserole GC| Zucchini Casserole]]
