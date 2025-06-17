@@ -43,6 +43,8 @@ title: Entrees
 # Rice
 [[Risotto con Funghi GC| Risotto con Funghi]]
 # Vegetable
+## Bell Peppers
+[[Stuffed Bell Peppers with Curried Chicken and Rice GC| Stuffed Bell Peppers with Curried Chicken and Rice]]
 ## Burger
 [[Tofu Burgers PC| Tofu Burgers]]
 ## Pie

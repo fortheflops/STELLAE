@@ -35,3 +35,7 @@ ___
 ![[Handwritten_2025-05-28_100524.webp]]
 
 ![[Handwritten_2025-05-28_100625 (2).webp]]
+
+![[Handwritten_2025-06-16_184038 (2).webp]]
+
+![[Handwritten_2025-06-16_183957.webp]]

@@ -23,6 +23,7 @@ title: Other
 [[Pickled Tomatoes GC| Pickled Tomatoes]]
 # Seasoning
 [[Brazilica Seasoning GC| Brazilica Seasoning]]
+[[Orange Spice GC| Orange Spice]]
 # Spread
 [[Cheese Bread Spread UK3| Cheese Bread Spread]]
 # Topping

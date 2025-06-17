@@ -23,6 +23,8 @@ title: Sides
 ### Brown Beans
 [[Pinto Beans PC| Pinto Beans]]
 [[Swedish Brown Beans GC| Swedish Brown Beans]]
+### Kidney Beans
+[[Kidney Beans GC| Kidney Beans]]
 ### Lima Beans
 [[Lima Beans with Ham Bone or Bacon GC| Lima Beans with Ham Bone or Bacon]]
 [[Spanish Beans UK2| Spanish Beans]]

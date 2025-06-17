@@ -70,6 +70,8 @@ title: Meat
 [[Pork Chops and Wild Rice UK3| Pork Chops and Wild Rice]]
 ### Sweet and Sour Pork
 [[Sweet & Sour Pork With Mixed Vegetables LOC| Sweet & Sour Pork With Mixed Vegetables]]
+### Teriyaki Style
+[[Pork or Beef Teriyaki-Style GC| Pork or Beef Teriyaki-Style]]
 ## Shellfish
 [[Coquilles GC| Coquilles]]
 [[Entrée Crepes GC| Entrée Crepes]]
