@@ -113,7 +113,7 @@ title: Cake
 ## Spice Cake
 [[Spice Cake UK2| Spice Cake]]
 ## Toffee Cake
-[[Toffee Cakes GC| Toffee Cakes]]
+[[content/Desserts/Cake/Toffee Cake/Toffee Cakes GC| Toffee Cakes]]
 ## Torte
 [[Apple Torte GC| Apple Torte]]
 [[Blitz Torte UK2| Blitz Torte]]

@@ -55,7 +55,8 @@ title: Cookies
 [[Oatmeal Cookies UK3| Oatmeal Cookies]]
 [[Pineapple Oatmeal Cookies UK2| Pineapple Oatmeal Cookies]]
 ### Peanut Butter
-[[Peanut Butter Cookies GC| Peanut Butter Cookies]]
+[[Peanut Butter Cookies One GC| Peanut Butter Cookies One]]
+[[Peanut Butter Cookies Two GC| Peanut Butter Cookies Two]]
 ### Pizzelle
 [[Classic Pizzelle GC| Classic Pizzelle]]
 [[Lace Cookies UK3| Lace Cookies]]

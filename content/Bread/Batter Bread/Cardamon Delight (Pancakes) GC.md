@@ -34,3 +34,4 @@ ___
 8.  Cook until bubbles appear on the surface and the edges are dry, then flip and cook until golden brown on the other side.
 ___
 ![[Handwritten_2025-06-12_202657.webp]]
+![[2025-06-17_170354.webp]]

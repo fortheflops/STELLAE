@@ -41,6 +41,7 @@ title: Sauces
 [[Spinach Dip with Vegetable Soup Mix UK3| Spinach Dip with Vegetable Soup Mix]]
 [[Classic Spinach Dip UK3| Classic Spinach Dip]]
 ## Dressing
+[[Basil Salad Dressing GC| Basil Salad Dressing]]
 [[Celery Seed Dressing UK3| Celery Seed Dressing]]
 [[Cole Slaw Dressing UK2| Cole Slaw Dressing]]
 [[Lemony Fruit Dressing UK2| Lemony Fruit Dressing]]

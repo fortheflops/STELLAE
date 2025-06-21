@@ -31,11 +31,14 @@ title: Salads
 [[Marinated Corn & Green Pepper Salad UK3| Marinated Corn & Green Pepper Salad]]
 ## Cucumber Salad
 [[Cucumber Salad LOC| Cucumber Salad]]
+## Lettuce Based Salad
+[[24hr Salad GC| 24hr Salad]]
 ## Potato Salad
 [[Lillian's Potato Salad LC| Lillian's Potato Salad]]
 [[Potato Salad UK3| Potato Salad ]]
 ## Spinach Salad
 [[Chafing Dish Spinach Salad UK2| Chafing Dish Spinach Salad]]
 [[Spinach & Bacon Salad LOC| Spinach & Bacon Salad]]
+[[Spinach Salad GC| Spinach Salad]]
 # Vermicelli Salad
 [[Vermicelli Salad UK3| Vermicelli Salad]]

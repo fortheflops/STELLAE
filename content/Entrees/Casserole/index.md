@@ -5,6 +5,7 @@ title: Casserole
 ### Beef
 [[Cheesy Creamy Mexican Casserole UK3| Cheesy Creamy Mexican Casserole]]
 [[Company Casserole UK3| Company Casserole]]
+[[E-Z Casserole GC| E-Z Casserole]]
 [[Easy As Pie LOC| Easy As Pie]]
 [[Enchilada Casserole UK3| Enchilada Casserole]]
 [[Ground Meat Casserole UK3| Ground Meat Casserole]]
@@ -18,6 +19,7 @@ title: Casserole
 [[Chicken Silk Rice Casserole UK3| Chicken Silk Rice Casserole]]
 [[Creamed Chicken Casserole GC| Creamed Chicken Casserole]]
 [[Emily Pineda's Chicken Enchilada Casserole UK2| Emily Pineda's Chicken Enchilada Casserole]]
+[[Layered Chicken Casserole GC| Layered Chicken Casserole ]]
 [[Neva's Chicken Casserole UK2| Neva's Chicken Casserole ]]
 ## Meat and Vegetable
 [[Meat and Vegetable Casserole UK2| Meat and Vegetable Casserole]]
@@ -29,6 +31,7 @@ title: Casserole
 [[Chili Relleno Casserole PC| Chili Relleno Casserole]]
 [[Corn Casserole UK3| Corn Casserole]]
 [[Eggplant Delight UK2| Eggplant Delight]]
+[[Jeanie's Broccoli Casserole GC| Jeanie's Broccoli Casserole]]
 [[Miriam's Broccoli Casserole GC| Miriam's Broccoli Casserole]]
 [[Spinach Casserole UK2| Spinach Casserole]]
 [[Spinach, Broccoli, and Asparagus Casserole PC| Spinach, Broccoli, and Asparagus Casserole]]

@@ -17,6 +17,7 @@ title: Soups
 ## Stew
 [[Marmitako UK2| Marmitako]]
 ### Beef Stew
+[[Homestead Supelli GC| Homestead Supelli]]
 [[Stew LOC| Stew]]
 ### Chicken Creole
 [[Chicken Creole UK3| Chicken Creole]]

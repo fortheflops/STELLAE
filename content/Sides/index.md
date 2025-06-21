@@ -13,6 +13,8 @@ title: Sides
 [[Simple Spanish Rice LOC| Simple Spanish Rice]]
 [[Sour Cream Rice PC| Sour Cream Rice]]
 [[Spanish Rice UK3| Spanish Rice]]
+## Pilaf
+[[Pilaf GC| Pilaf]]
 # Vegetable
 ## Beans
 ### Baked Beans
@@ -58,6 +60,7 @@ title: Sides
 [[Scalloped Potatoes UK3| Scalloped Potatoes]]
 [[Twice Baked Potatoes LC| Twice Baked Potatoes]]
 ### Sweet Potatoes
+[[Candied Sweet Potatoes with Sherry-Jam Glaze GC| Candied Sweet Potatoes with Sherry-Jam Glaze]]
 [[Canned Sweet Potatoes LOC| Canned Sweet Potatoes]]
 ## Spinach
 [[Spinach Mozzarella PC| Spinach Mozzarella]]

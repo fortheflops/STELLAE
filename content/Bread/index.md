@@ -7,6 +7,7 @@ title: Bread
 [[Cheese Blintzes 2 UK2| Cheese Blintzes]]
 [[Cheese Blintzes UK2| Cheese Blintzes]]
 [[German Pancakes UK2| German Pancakes]]
+[[Gunner's Hot Cakes GC| Gunner's Hot Cakes]]
 [[Idaho Potato Pancakes UK2| Idaho Potato Pancakes]]
 [[Johnny Cakes UK2| Johnny Cakes]]
 [[Potato Pancakes UK2| Potato Pancakes]]

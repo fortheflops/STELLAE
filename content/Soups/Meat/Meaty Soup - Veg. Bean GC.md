@@ -8,27 +8,25 @@ tags:
 Unknown
 ___
 ## Recipe
-| Measurements        | Ingredients                                        |
-| :----------------- | :------------------------------------------------- |
-| Three Pounds                     | Meaty [[Beef Bones]]                      |
-| Five Cups                        | [[Water]] (for broth)                     |
-| One & $\frac{1}{2}$ Teaspoons    | [[Salt]] (for broth)                      |
-| $\frac{3}{4}$ Cup                | Navy [[Beans]], Dry                       |
-| Three Cups                       | Warm [[Water]] (for soaking beans)        |
-| Two Tablespoons                  | Pearled [[Barley]]                        |
-| One Teaspoon                     | [[Salt]] (for beans/barley)               |
-| $\frac{1}{2}$ Cup                | Sliced [[Onion]]                          |
-| $\frac{1}{2}$ Cup                | Sliced [[Carrot]]                         |
-| $\frac{1}{2}$ Cup                | Sliced [[Leeks]]                          |
+| Measurements                  | Ingredients                        |
+| :---------------------------- | :--------------------------------- |
+| Three Pounds                  | Meaty [[Beef Bones]]               |
+| Five Cups                     | [[Water]] (for broth)              |
+| One & $\frac{1}{2}$ Teaspoons | [[Salt]] (for broth)               |
+| $\frac{3}{4}$ Cup             | Navy [[Beans]], Dry                |
+| Three Cups                    | Warm [[Water]] (for soaking beans) |
+| Two Tablespoons               | Pearled [[Barley]]                 |
+| One Teaspoon                  | [[Salt]] (for beans/barley)        |
+| $\frac{1}{2}$ Cup             | Sliced [[Onion]]                   |
+| $\frac{1}{2}$ Cup             | Sliced [[Carrot]]                  |
+| $\frac{1}{2}$ Cup             | Sliced [[Leeks]]                   |
 ___
 ## Instructions
-1.  **Prepare the Broth:** In a large pot, bring three pounds of meaty beef bones, five cups of water, and one and a half teaspoons of salt to a boil. Reduce heat, cover, and simmer for 3 hours.
-2.  **Prepare the Beans and Barley:** While the broth is simmering, soak $\frac{3}{4}$ cup of navy beans in three cups of warm water for at least 2 hours ("a day before" is also noted, suggesting a longer soak is fine).
-3.  In a separate pot, simmer the soaked beans (in fresh water, covered) for 30 minutes.
-4.  Add two tablespoons of pearled barley and one teaspoon of salt to the beans. Simmer for 30 minutes longer.
-5.  **Combine the Soup:** Strain the beef broth into a rinsed pan. Add $\frac{1}{2}$ cup each of sliced onion, sliced carrot, and sliced leeks to the broth.
-6.  Simmer for 10 minutes.
-7.  Add the cooked beans, barley, and the meat picked from the beef bones to the broth and vegetables.
-8.  Heat through and serve. (The card suggests serving with bread, cheese, and fresh fruit. Makes 5 cups).
+1.  In a large pot or Dutch oven, brown the chopped garlic and onion in oil.
+2.  Add three cups of water or broth, $\frac{1}{2}$ cup of raw red kidney beans, $\frac{1}{2}$ cup of whole grain wheat, $\frac{1}{2}$ teaspoon of salt & oregano, and one teaspoon of mixed herbs.
+3.  Bring to a boil, then reduce heat, cover, and cook for 2 hours, or until the beans are tender. (If using dry, un-soaked beans, this may take longer).
+4.  Once the beans are tender, add $\frac{1}{2}$ teaspoon of powdered mustard or mustard seed.
+5.  Add two to four leaves of thinly chopped fresh Swiss chard or spinach.
+6.  Cook until the spinach/chard is done (wilted and tender), just a few more minutes.
 ___
-![[Handwritten_2025-06-14_080837.webp]]
+![[Handwritten_2025-06-19_143702.webp]]

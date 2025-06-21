@@ -18,7 +18,8 @@ title: Other
 # Pickles
 [[Bread and Butter Pickles UK2| Bread and Butter Pickles]]
 [[Peach Pickles UK2| Peach Pickles]]
-[[Pickled Okra UKE| Pickled Okra]]
+[[Pickled Okra UK3| Pickled Okra]]
+[[Watermelon Rind Pickles GC| Watermelon Rind Pickles]]
 ## Pickled Tomatoes
 [[Pickled Tomatoes GC| Pickled Tomatoes]]
 # Seasoning

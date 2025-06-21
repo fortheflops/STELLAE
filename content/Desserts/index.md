@@ -53,6 +53,7 @@ title: Desserts
 [[Coconut Frosting GC| Coconut Frosting]]
 [[Cream Cheese Frosting UK2| Cream Cheese Frosting]]
 [[Frosting UK2| Frosting]]
+[[Gail's Graham Cracker Frosting GC| Gail's Graham Cracker Frosting]]
 [[Graham Cracker Frosting GC| Graham Cracker Frosting]]
 [[Quickie Frosting GC| Quickie Frosting]]
 [[Sea Foam Frosting UK2| Sea Foam Frosting]]
@@ -66,6 +67,7 @@ title: Desserts
 [[Lorraine's Chocolate Fudge UK2| Lorraine's Chocolate Fudge]]
 [[Marshmallow Fudge UK2| Marshmallow Fudge]]
 ## Gelatin
+[[Lime, Pear, Cherry Mold GC| Lime, Pear, Cherry Mold]]
 [[Orange-Apricot Gelatin Mold UK2| Orange-Apricot Gelatin Mold]]
 ## [[Desserts/Ice Cream/index| Ice Cream]]
 
