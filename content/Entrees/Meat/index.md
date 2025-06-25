@@ -38,6 +38,7 @@ title: Meat
 [[Peachy Chicken GC| Peachy Chicken]]
 [[Sweet and Sour Chicken GC| Sweet and Sour Chicken]]
 ### Baked Chicken
+[[Broiled and Baked Chicken GC| Broiled and Baked Chicken]]
 [[Jeanie's Baked Chicken GC| Jeanie's Baked Chicken]]
 [[Lena's 3 Cheese Chicken Bake UK2| Lena's 3 Cheese Chicken Bake]]
 [[Marinated Baked Chicken GC| Marinated Baked Chicken]]
@@ -50,6 +51,7 @@ title: Meat
 [[Crab Voltaire UK2| Crab Voltaire]]
 [[Creamy Crab UK2| Creamy Crab]]
 ## Fish
+[[Baked Fish with Lemon Butter GC| Baked Fish with Lemon Butter]]
 [[Cooked Whole Fish GC| Cooked Whole Fish]]
 [[Snapper Florentine UK2| Snapper Florentine]]
 ### Croquettes

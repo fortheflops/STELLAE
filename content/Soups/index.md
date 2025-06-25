@@ -13,10 +13,14 @@ title: Soups
 ## Gazpacho
 [[Gazpacho UK3| Gazpacho]]
 ## Meat Soup
+[[Chicken Soup GC| Chicken Soup]]
 [[Meaty Soup - Veg. Bean GC| Meaty Soup - Veg. Bean]]
+## Noodle Soup
+[[Noodle Soup GC| Noodle Soup]]
 ## Stew
 [[Marmitako UK2| Marmitako]]
 ### Beef Stew
+[[Beef Stew GC| Beef Stew]]
 [[Homestead Supelli GC| Homestead Supelli]]
 [[Stew LOC| Stew]]
 ### Chicken Creole
@@ -28,6 +32,7 @@ title: Soups
 ## Vegetable
 [[Mushroom Soup PC| Mushroom Soup]]
 [[Green Bean Soup PC| Green Bean Soup]]
+[[Vegetable Soup GC| Vegetable Soup]]
 ## Gumbo
 [[Shrimp Gumbo UK3| Shrimp Gumbo]]
 ## Shrimp Creole

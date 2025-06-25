@@ -1,6 +1,9 @@
 ---
 title: Other
 ---
+# Cleanse
+[[Hornet's Body System Cleanse GC| Hornet's Body System Cleanse]]
+[[Lemon & Olive Oil Cleanse GC| Lemon & Olive Oil Cleanse]]
 # Condiments
 ## Relish
 [[Chow Chow UK2| Chow Chow]]

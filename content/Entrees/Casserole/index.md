@@ -11,6 +11,7 @@ title: Casserole
 [[Ground Meat Casserole UK3| Ground Meat Casserole]]
 [[Hamburger-Sour Cream Casserole UK3| Hamburger-Sour Cream Casserole]]
 [[Jean's Hamburger Casserole UK3| Jean's Hamburger Casserole]]
+[[Layered Rice Casserole with Meatballs & Tomato Sauce GC| Layered Rice Casserole with Meatballs & Tomato Sauce]]
 [[Mexican Casserole UK3| Mexican Casserole]]
 ### Chicken
 [[Chicken and Stuffing Casserole UK3| Chicken and Stuffing Casserole]]
@@ -21,6 +22,8 @@ title: Casserole
 [[Emily Pineda's Chicken Enchilada Casserole UK2| Emily Pineda's Chicken Enchilada Casserole]]
 [[Layered Chicken Casserole GC| Layered Chicken Casserole ]]
 [[Neva's Chicken Casserole UK2| Neva's Chicken Casserole ]]
+### Fish
+[[Crisp Noodle Casserole GC| Crisp Noodle Casserole]]
 ## Meat and Vegetable
 [[Meat and Vegetable Casserole UK2| Meat and Vegetable Casserole]]
 ### Moussaka

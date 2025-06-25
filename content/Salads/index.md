@@ -35,6 +35,7 @@ title: Salads
 [[24hr Salad GC| 24hr Salad]]
 ## Potato Salad
 [[Lillian's Potato Salad LC| Lillian's Potato Salad]]
+[[Pommes de Terre a L'Huile (French Potato Salad) GC| Pommes de Terre a L'Huile (French Potato Salad) GC]]
 [[Potato Salad UK3| Potato Salad ]]
 ## Spinach Salad
 [[Chafing Dish Spinach Salad UK2| Chafing Dish Spinach Salad]]

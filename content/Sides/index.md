@@ -7,6 +7,7 @@ title: Sides
 [[Hush Puppies UK2| Hush Puppies]]
 [[Squash Cakes UK2| Squash Cakes]]
 # Noodles
+[[Basil with Noodles GC| Basil with Noodles]]
 [[Noodles Romanoff PC| Noodles Romanoff]]
 # Rice
 [[Real Rice GC| Real Rice]]
@@ -40,6 +41,8 @@ title: Sides
 ## Casserole
 [[Corn Casserole PC| Corn Casserole]]
 [[Corn Pudding UK2| Corn Pudding]]
+## Cauliflower
+[[Simple Cauliflower Side GC| Simple Cauliflower Side]]
 ## Coleslaw
 [[Chinese Ramen Slaw UK3| Chinese Ramen Slaw]]
 [[Cole Slaw UK2| Cole Slaw]]

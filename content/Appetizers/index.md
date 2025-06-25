@@ -6,6 +6,8 @@ title: Appetizers
 [[Hot Cheese Canapes| Hot Cheese Canapes]]
 ### Fondue
 [[Beer Rarebit Fondue GC| Beer Rarebit Fondue]]
+# Dip
+[[7-Layer Dip GC| 7-Layer Dip]]
 # Party Food
 [[Cheese Ball LOC| Cheese Ball]]
 [[Cheese Ball PC| Cheese Ball]]
@@ -25,5 +27,6 @@ title: Appetizers
 [[Crab Dip Mold GC| Crab Dip Mold]]
 [[Crab Mold GC| Crab Mold]]
 ## Shrimp
+[[Shrimp Cocktail GC| Shrimp Cocktail]]
 [[Shrimp on Crackers GC| Shrimp on Crackers]]
 [[Shrimp Zorka GC| Shrimp Zorka]]
