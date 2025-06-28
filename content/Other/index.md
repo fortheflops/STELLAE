@@ -13,6 +13,8 @@ title: Other
 [[Dumplings UK2| Dumplings]]
 # Garnish
 [[Sugared Mint Leaves GC| Sugared Mint Leaves]]
+# Jam
+[[Pear Jam GC| Pear Jam]]
 # Jelly
 [[Wine Jelly GC| Wine Jelly]]
 # Hello?
@@ -23,7 +25,9 @@ title: Other
 [[Peach Pickles UK2| Peach Pickles]]
 [[Pickled Okra UK3| Pickled Okra]]
 [[Watermelon Rind Pickles GC| Watermelon Rind Pickles]]
-## Pickled Tomatoes
+## Pears
+[[Pickled Pears GC| Pickled Pears]]
+## Tomatoes
 [[Pickled Tomatoes GC| Pickled Tomatoes]]
 # Seasoning
 [[Brazilica Seasoning GC| Brazilica Seasoning]]

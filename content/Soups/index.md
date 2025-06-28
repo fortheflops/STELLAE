@@ -27,6 +27,8 @@ title: Soups
 [[Chicken Creole UK3| Chicken Creole]]
 ### Chili
 [[Pardenales River Chili UK2| Pardenales River Chili]]
+### Clam
+[[Creamy Oyster and Clam Stew GC| Creamy Oyster and Clam Stew]]
 ### Green Chile
 [[Black Bean & Green Chile Stew UK2| Black Bean & Green Chile Stew]]
 ## Vegetable

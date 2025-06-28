@@ -24,6 +24,7 @@ title: Casserole
 [[Neva's Chicken Casserole UK2| Neva's Chicken Casserole ]]
 ### Fish
 [[Crisp Noodle Casserole GC| Crisp Noodle Casserole]]
+[[Tuna Casserole GC| Tuna Casserole]]
 ## Meat and Vegetable
 [[Meat and Vegetable Casserole UK2| Meat and Vegetable Casserole]]
 ### Moussaka
@@ -35,6 +36,7 @@ title: Casserole
 [[Corn Casserole UK3| Corn Casserole]]
 [[Eggplant Delight UK2| Eggplant Delight]]
 [[Jeanie's Broccoli Casserole GC| Jeanie's Broccoli Casserole]]
+[[Layered Eggplant Casserole GC| Layered Eggplant Casserole]]
 [[Miriam's Broccoli Casserole GC| Miriam's Broccoli Casserole]]
 [[Spinach Casserole UK2| Spinach Casserole]]
 [[Spinach, Broccoli, and Asparagus Casserole PC| Spinach, Broccoli, and Asparagus Casserole]]

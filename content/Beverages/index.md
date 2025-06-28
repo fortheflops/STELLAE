@@ -10,6 +10,8 @@ title: Beverages
 # Cocktail
 ## Fizz
 [[Fizz GC| Fizz]]
+## Grasshopper
+[[Grasshopper Cocktail GC| Grasshopper Cocktail]]
 ## Limonada
 [[Limonada LOC| Limonada]]
 ## Sangria 

@@ -53,6 +53,7 @@ title: Sauces
 ### Turkey Dressing
 [[Turkey Dressing GC| Turkey Dressing]]
 ### Vinaigrette
+[[Italian Vinaigrette GC| Italian Vinaigrette]]
 [[Raspberry Vinaigrette UK3| Raspberry Vinaigrette]]
 ## Cream Gravy
 [[Cream Gravy UK3| Cream Gravy]]

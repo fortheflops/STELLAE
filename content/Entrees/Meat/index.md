@@ -53,6 +53,7 @@ title: Meat
 ## Fish
 [[Baked Fish with Lemon Butter GC| Baked Fish with Lemon Butter]]
 [[Cooked Whole Fish GC| Cooked Whole Fish]]
+[[Fried Fish GC| Fried Fish]]
 [[Snapper Florentine UK2| Snapper Florentine]]
 ### Croquettes
 [[Salmon Croquettes UK2| Salmon Croquettes]]
