@@ -35,6 +35,7 @@ title: Casserole
 [[Chili Relleno Casserole PC| Chili Relleno Casserole]]
 [[Corn Casserole UK3| Corn Casserole]]
 [[Eggplant Delight UK2| Eggplant Delight]]
+[[Frozen Spinach Casserole GC| Frozen Spinach Casserole]]
 [[Jeanie's Broccoli Casserole GC| Jeanie's Broccoli Casserole]]
 [[Layered Eggplant Casserole GC| Layered Eggplant Casserole]]
 [[Miriam's Broccoli Casserole GC| Miriam's Broccoli Casserole]]

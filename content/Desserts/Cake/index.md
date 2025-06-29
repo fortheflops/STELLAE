@@ -43,9 +43,6 @@ title: Cake
 ### Wacky Cake
 [[Wacky Cake PC| Wacky Cake]]
 ## Fruit Based Cakes
-[[Pineapple Cake UK2| Pineapple Cake]]
-[[Prune Cake PC| Prune Cake]]
-[[Quick Pineapple Cake UK2| Quick Pineapple Cake]]
 [[Tomato Soup Cake PC| Tomato Soup Cake]]
 ### Apple
 [[Apple Dapple Cake GC| Apple Dapple Cake]]
@@ -80,6 +77,12 @@ title: Cake
 [[Spry Lemon Cake UK2| Spry Lemon Cake]]
 ### Persimmon Cake
 [[Persimmon Cake GC| Persimmon Cake]]
+### Pineapple
+[[Pineapple Cake UK2| Pineapple Cake]]
+[[Quick Pineapple Cake UK2| Quick Pineapple Cake]]
+### Plum
+[[German Plum Cake (Pflaumenkuchen) GC| German Plum Cake (Pflaumenkuchen)]]
+[[Prune Cake PC| Prune Cake]]
 ### Pumpkin Cake
 [[Pumpkin Cake UK3| Pumpkin Cake]]
 [[Pumpkin Cake with Crust GC| Pumpkin Cake with Crust]]

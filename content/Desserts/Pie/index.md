@@ -20,6 +20,8 @@ title: Pie
 [[Angel Pie UK3| Angel Pie]]
 ## Apple Pie
 [[Sugarless Apple Pie UK2| Sugarless Apple Pie]]
+## Apricot Pie
+[[Apricot Lattice Pie GC| Apricot Lattice Pie]]
 ## Butterscotch Pie
 [[Butterscotch Pie UK3| Butterscotch Pie]]
 ## Cherry Pie
