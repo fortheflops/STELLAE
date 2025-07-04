@@ -25,4 +25,4 @@ ___
 2. Remove from heat, add butter & beat till creamy.
 3. Add vanilla & melted marshmallows & turn into a buttered dish.
 ___
-![[content/Desserts/Confections/Fudge/Assets/Handwritten_2025-01-24_100434.webp]]
+![[Handwritten_2025-01-24_100434.webp]]
