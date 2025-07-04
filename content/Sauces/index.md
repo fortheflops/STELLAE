@@ -9,6 +9,8 @@ title: Sauces
 [[Barbecue Sauce UK3| Barbecue Sauce]]
 ## Berry
 [[Berry Sauce UK2| Berry Sauce]]
+## Brandy
+[[Brandy Cream Sauce (or Batter) GC| Brandy Cream Sauce (or Batter)]]
 ### Cranberry Sauce
 [[Cranberry Orange Apple Sauce LOC| Cranberry Orange Apple Sauce]]
 ## Cheese

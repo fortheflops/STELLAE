@@ -18,17 +18,14 @@ title: Updates
 |                                     | Unknown 12        |     | New Mexico |
 |                                     | Unknown 13        |     | New Mexico |
 |                                     | Unknown 14        |     | New Mexico |
-|                                     | Gail Collection   | GC  | New Mexico |
-|                                     | Unknown 15        |     | New Mexico |
 
 
 
-| In Progress       | TAG               |     | Location    |
-| ----------------- | ----------------- | --- | ----------- |
-| Unknown 4         | #UnknownFour      | UK4 | New Mexico  |
-| Louise Collection | #LouiseCollection | LOC | Chula Vista |
-| Gail Collection   | #GailCollection   | GC  | New Mexico  |
-
+| In Progress       | TAG               |      | Location    |
+| ----------------- | ----------------- | ---- | ----------- |
+| Unknown 4         | #UnknownFour      | UK4  | New Mexico  |
+| Louise Collection | #LouiseCollection | LOC  | Chula Vista |
+| Unknown 15        | #UnknownFifteen   | UK15 | New Mexico  |
 
 
 | Done Exc. Copywritten Recipes | TAG                   |     | Location   |
@@ -36,6 +33,7 @@ title: Updates
 | Unknown 2                     | #UnknownTwo           | UK2 | New Mexico |
 | Unknown 3                     | #UnknownThree         | UK3 | Texas      |
 | Loraine Collection            | #TheLoraineCollection | LC  | New Mexico |
+| Gail Collection               | #GailCollection       | GC  | New Mexico |
 
 
 | Done             | TAG              |     | Location   |

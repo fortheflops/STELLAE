@@ -21,6 +21,7 @@ title: Salads
 ### Green Bean
 [[Marinated Green Bean Salad UK3| Marinated Green Bean Salad]]
 ## Cabbage Salad
+[[Don's Oriental Cabbage Salad UK15| Don's Oriental Cabbage Salad]]
 [[Hyden Salad UK2| Hyden Salad]]
 [[Lois's Cabbage Salad UK2| Lois's Cabbage Salad]]
 ## Carrot Salad

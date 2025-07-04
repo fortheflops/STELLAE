@@ -57,11 +57,6 @@ title: Desserts
 [[Candied Grapefruit Peel GC| Candied Grapefruit Peel]]
 [[Pears In Honey Sauce LC | Pears in Honey Sauce]]
 [[Stewed Prunes GC| Stewed Prunes]]
-## Fudge
-[[Copycat See's 175 Fudge GC|Copycat See's 175 Fudge GC]]
-[[Fudge Candy GC| Fudge Candy]]
-[[Lorraine's Chocolate Fudge UK2| Lorraine's Chocolate Fudge]]
-[[Marshmallow Fudge UK2| Marshmallow Fudge]]
 ## Gelatin
 [[Lime, Pear, Cherry Mold GC| Lime, Pear, Cherry Mold]]
 [[Orange-Apricot Gelatin Mold UK2| Orange-Apricot Gelatin Mold]]

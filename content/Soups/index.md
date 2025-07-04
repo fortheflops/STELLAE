@@ -31,6 +31,7 @@ title: Soups
 [[Creamy Oyster and Clam Stew GC| Creamy Oyster and Clam Stew]]
 ### Green Chile
 [[Black Bean & Green Chile Stew UK2| Black Bean & Green Chile Stew]]
+[[Green Chili Stew UK15| Green Chili Stew]]
 ## Vegetable
 [[Mushroom Soup PC| Mushroom Soup]]
 [[Green Bean Soup PC| Green Bean Soup]]

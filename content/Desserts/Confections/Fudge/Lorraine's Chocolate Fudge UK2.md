@@ -30,4 +30,4 @@ ___
 5.  Cool Before Slicing - But Before It Gets Cold.
 6. (Slice Better If Not Real Hard).
 ___
-![[Handwritten_2025-02-06_125929.webp]]
+![[content/Desserts/Confections/Fudge/Assets/Handwritten_2025-02-06_125929.webp]]

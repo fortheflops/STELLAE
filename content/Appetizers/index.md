@@ -8,6 +8,7 @@ title: Appetizers
 [[Beer Rarebit Fondue GC| Beer Rarebit Fondue]]
 # Dip
 [[7-Layer Dip GC| 7-Layer Dip]]
+[[Guacamole Dip UK15| Guacamole Dip]]
 # Party Food
 [[Cheese Ball LOC| Cheese Ball]]
 [[Cheese Ball PC| Cheese Ball]]
