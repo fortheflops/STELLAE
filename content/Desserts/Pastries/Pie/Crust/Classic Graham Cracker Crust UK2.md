@@ -25,4 +25,4 @@ ___
 5. Press remainder on bottom and sides of 8-inch pie plate.
 6. Chill until set.
 ___
-![[Handwritten_2025-01-23_114508 (2).webp]]
+![[content/Desserts/Pastries/Pie/Crust/Assets/Handwritten_2025-01-23_114508 (2).webp]]

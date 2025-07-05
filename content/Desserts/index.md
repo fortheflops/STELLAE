@@ -31,8 +31,6 @@ title: Desserts
 
 ## Cream Filling
 [[Mint Cream Filling PC| Mint Cream Filling]]
-## Cream Puffs
-[[Cream Puffs LOC| Cream Puffs]]
 ## [[Desserts/Crisp/index| Crisp]]
 
 ## Crumble
@@ -77,9 +75,6 @@ title: Desserts
 [[No Weep Meringues UK2| No Weep Meringues]]
 ## Mousse
 [[Chocolate Mousse GC| Chocolate Mousse]]
-## Muffins
-[[Plum Muffins UK3| Plum Muffins]]
-[[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
 ## Nuts
 ### Pecans
 [[Pecan Treats UK3| Pecan Treats]]
@@ -88,7 +83,6 @@ title: Desserts
 [[Sherried Walnuts GC| Sherried Walnuts]]
 ## [[Desserts/Pastries/index| Pastries]]
 
-## [[Desserts/Pie/index| Pie]]
 ## Pop Corn
 [[Caramel Popcorn GC| Caramel Popcorn]]
 [[Carmel Corn UK3| Carmel Corn]]
@@ -99,8 +93,7 @@ title: Desserts
 ### Steamed Pudding
 [[Surprise 7 Minute Pudding UK2| Surprise 7 Minute Pudding]]
 ## [[Desserts/Salad/index| Salad]]
-## Scones
-[[Currant Scones UK2| Currant Scones]]
+
 ## Sorbet
 [[Strawberry Ice GC| Strawberry Ice]]
 ## Soups
@@ -109,8 +102,6 @@ title: Desserts
 [[Honey Pecan Buns UK2| Honey Pecan Buns]]
 ## Syrup
 [[Brown Sugar Syrup UK2| Brown Sugar Syrup]]
-## Tarts
-[[Sand Tarts UK3| Sand Tarts]]
 ## Tea Cake
 [[Clarice's Tea Cakes 2 UK2| Clarice's Tea Cakes]]
 [[Tea Cakes UK2| Tea Cakes]]

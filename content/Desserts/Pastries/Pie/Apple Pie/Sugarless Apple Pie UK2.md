@@ -25,4 +25,4 @@ ___
 2. Mix all other ingredients & pour over apples & raisins.
 3. Place top crust, prick & bake 450° for 10 min, 350° for 30 min.
 ___
-![[Handwritten_2025-01-21_120926.webp]]
+![[content/Desserts/Pastries/Pie/Apple Pie/Assets/Handwritten_2025-01-21_120926.webp]]

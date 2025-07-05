@@ -3,8 +3,6 @@ title: Salads
 ---
 # Crab Salad
 [[Hot Crab Salad UK3| Hot Crab Salad]]
-# Fruit Salad
-[[Summer Fruit Salad LOC| Summer Fruit Salad]]
 # Rice Salad
 [[Rice Salad PC| Rice Salad]]
 # Strawberry

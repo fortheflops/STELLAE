@@ -36,6 +36,6 @@ ___
 8. Top with whipped cream, if desired.
 ___
 
-![[Handwritten_2025-01-30_124410.webp]]
+![[content/Desserts/Pastries/Pie/Pumpkin Pie/Assets/Handwritten_2025-01-30_124410.webp]]
 
 ![[Handwritten_2025-01-30_125151 (2).webp]]

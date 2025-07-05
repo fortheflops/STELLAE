@@ -9,6 +9,8 @@ title: Cake
 [[Snooks Bacardi Rum Cake GC| Snooks Bacardi Rum Cake]]
 ## Angel Food Cake
 [[Mock Angel Food Cake UK2| Mock Angel Food Cake]]
+## Better than Anything Cake
+[[Better Than Anything Cake UK15| Better Than Anything Cake]]
 ## Buttermilk Cake
 [[Buttermilk Cake UK2| Buttermilk Cake]]
 ## Chocolate Cake

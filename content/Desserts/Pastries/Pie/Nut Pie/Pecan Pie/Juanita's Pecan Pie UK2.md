@@ -27,8 +27,8 @@ ___
 1. In a large bowl, beat the eggs.
 2. Add the Karo syrup, sugar, and flour to the eggs. Mix well until combined.
 3. Stir in the pecans, vanilla (about 1 teaspoon is a good starting point), cream, and melted butter.
-4. Pour the mixture into an unbaked 9-inch [[content/Desserts/Pie/Crust/index|Pie Crust]].
+4. Pour the mixture into an unbaked 9-inch [[content/Desserts/Pastries/Pie/Crust/index|Pie Crust]].
 5. Bake for 45-60 minutes, or until the center is set. The pie may still jiggle slightly in the center but should not be liquid.  
 6. Let cool completely before serving.
 ___
-![[content/Desserts/Pie/Nut Pie/Pecan Pie/Assets/Handwritten_2025-02-01_112849.webp]]
+![[content/Desserts/Pastries/Pie/Nut Pie/Pecan Pie/Assets/Handwritten_2025-02-01_112849.webp]]

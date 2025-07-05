@@ -23,4 +23,4 @@ ___
 5.  Remove string (if used to secure the Braciole).
 6.  Slice and serve in tomato sauce over pasta or rice.
 ___
-![[2025-05-20_130714.webp]]
+![[content/Entrees/Meat/Beef/Braciola/Assets/2025-05-20_130714.webp]]

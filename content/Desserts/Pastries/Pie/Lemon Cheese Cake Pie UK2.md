@@ -42,6 +42,6 @@ ___
 
 ___
 
-![[Handwritten_2025-01-23_114358.webp]]
+![[content/Desserts/Pastries/Pie/Assets/Handwritten_2025-01-23_114358.webp]]
 
-![[content/Desserts/Pie/Assets/Handwritten_2025-01-23_114508 (2).webp]]
+![[content/Desserts/Pastries/Pie/Assets/Handwritten_2025-01-23_114508 (2).webp]]

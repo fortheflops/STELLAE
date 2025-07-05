@@ -32,4 +32,4 @@ ___
 7. Spoon on top of egg mixture.
 8. Chill thoroughly.
 ___
-![[Handwritten_2025-01-22_095627.webp]]
+![[content/Desserts/Pastries/Pie/Pineapple Pie/Assets/Handwritten_2025-01-22_095627.webp]]

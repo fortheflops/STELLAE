@@ -8,6 +8,9 @@ title: Salad
 [[Melinda's Frozen Salad UK3| Melinda's Frozen Salad]]
 ## Cranberry
 [[Frozen Cranberry Salad UK3| Frozen Cranberry Salad]]
+# Fruit Salad
+[[Summer Fruit Salad LOC| Summer Fruit Salad]]
+[[Uncle Fred's Fruit Salad UK15| Uncle Fred's Fruit Salad]]
 # Jello Salad
 ## Apricot
 [[Apricot Salad UK3| Apricot Salad]]
@@ -42,4 +45,5 @@ title: Salad
 # Pudding Salad
 [[Caramel Apple Salad UK3| Caramel Apple Salad]]
 # Watergate Salad
+[[May's Watergate Salad UK15| May's Watergate Salad]]
 [[Watergate Salad UK2| Watergate Salad]]

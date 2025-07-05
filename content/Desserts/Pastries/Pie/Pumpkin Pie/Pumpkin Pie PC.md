@@ -33,6 +33,6 @@ ___
 5. Bake for 50-55 minutes, or until a knife inserted near the center comes out clean.
 ___
 
-![[Handwritten_2025-01-30_123845.webp]]
+![[content/Desserts/Pastries/Pie/Pumpkin Pie/Assets/Handwritten_2025-01-30_123845.webp]]
 
 ![[Handwritten_2025-01-30_123940 (2).webp]]

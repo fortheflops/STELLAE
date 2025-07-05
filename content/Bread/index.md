@@ -11,7 +11,11 @@ title: Bread
 [[Idaho Potato Pancakes UK2| Idaho Potato Pancakes]]
 [[Johnny Cakes UK2| Johnny Cakes]]
 [[Potato Pancakes UK2| Potato Pancakes]]
+## Crepes
+[[Dessert Crepes GC| Dessert Crepes]]
 # Corn Bread
+[[Classic Corn Bread UK15| Classic Corn Bread]]
+[[Cornbread Muffins GC| Cornbread Muffins]]
 [[Mexican Corn Bread UK2| Mexican Corn Bread]]
 # Fruit Bread
 [[Apricot Bread GC| Apricot Bread]]
@@ -25,8 +29,9 @@ title: Bread
 # Muffins
 [[Beer Muffins UK2| Beer Muffins]]
 [[Bran and Honey Muffins GC| Bran and Honey Muffins]]
-[[Cornbread Muffins GC| Cornbread Muffins]]
 [[Graham Muffins GC| Graham Muffins]]
+[[Plum Muffins UK3| Plum Muffins]]
+[[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
 [[Zucchini Muffins GC| Zucchini Muffins]]
 # Squaw Bread
 [[Squaw Bread UK2| Squaw Bread]]

@@ -32,4 +32,4 @@ ___
 8. Brush tops with milk. Bake on ungreased baking tin 10-20 min. or until golden on top.
 9. Serve immediately, wrapped in a cloth. Serve with whipped Cream, butter & jam
 ___
-![[Handwritten_2025-02-11_132518.webp]]
+![[content/Desserts/Pastries/Scones/Assets/Handwritten_2025-02-11_132518.webp]]

@@ -26,6 +26,7 @@ title: Soups
 ### Chicken Creole
 [[Chicken Creole UK3| Chicken Creole]]
 ### Chili
+[[Jailhouse Chili UK15| Jailhouse Chili]]
 [[Pardenales River Chili UK2| Pardenales River Chili]]
 ### Clam
 [[Creamy Oyster and Clam Stew GC| Creamy Oyster and Clam Stew]]

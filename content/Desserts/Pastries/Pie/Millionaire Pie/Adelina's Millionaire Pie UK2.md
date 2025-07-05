@@ -24,4 +24,4 @@ ___
 2. Add pineapple & pecans.
 3. Refrigerate 1 hour.
 ___
-![[content/Desserts/Pie/Millionaire Pie/Assets/Handwritten_2025-02-11_125420.webp]]
+![[content/Desserts/Pastries/Pie/Millionaire Pie/Assets/Handwritten_2025-02-11_125420.webp]]
