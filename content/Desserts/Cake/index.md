@@ -45,10 +45,10 @@ title: Cake
 ### Wacky Cake
 [[Wacky Cake PC| Wacky Cake]]
 ## Fruit Based Cakes
-[[Tomato Soup Cake PC| Tomato Soup Cake]]
 ### Apple
 [[Apple Dapple Cake GC| Apple Dapple Cake]]
 [[Apple Dump Dish UK2| Apple Dump Dish]]
+[[Dried Apple Cake UK15| Dried Apple Cake]]
 [[Fresh Apple Cake UK3| Fresh Apple Cake]]
 [[Neva's Apple Cake UK2| Neva's Apple Cake]]
 ### Apricot
@@ -77,6 +77,8 @@ title: Cake
 [[Lemon Supreme Special Cake UK3| Lemon Supreme Special Cake]]
 [[Poppy Seed Cake GC| Poppy Seed Cake]]
 [[Spry Lemon Cake UK2| Spry Lemon Cake]]
+### Orange 
+[[Orange Slice Cake UK15| Orange Slice Cake]]
 ### Persimmon Cake
 [[Persimmon Cake GC| Persimmon Cake]]
 ### Pineapple
@@ -88,8 +90,10 @@ title: Cake
 ### Pumpkin Cake
 [[Pumpkin Cake UK3| Pumpkin Cake]]
 [[Pumpkin Cake with Crust GC| Pumpkin Cake with Crust]]
-## Strawberry Cake
+### Strawberry Cake
 [[Strawberry Cake UK3| Strawberry Cake]]
+### Tomato Cake
+[[Tomato Soup Cake PC| Tomato Soup Cake]]
 ## Jam Cake
 [[Butterfield Jam Cake UK2| Butterfield Jam Cake]]
 [[Jam Cake UK2| Jam Cake]]

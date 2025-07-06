@@ -57,8 +57,6 @@ title: Meat
 [[Snapper Florentine UK2| Snapper Florentine]]
 ### Croquettes
 [[Salmon Croquettes UK2| Salmon Croquettes]]
-## Ham
-[[Ham Barbecue LOC| Ham Barbecue]]
 ## Lamb
 [[Cook Lamb Shanks GC| Cook Lamb Shanks]]
 [[Lamb Riblets Eldorado GC| Lamb Riblets Eldorado]]
@@ -72,9 +70,13 @@ title: Meat
 [[Potato Meat Pie UK2| Potato Meat Pie]]
 [[Tamale Pie (small) GC| Tamale Pie (small)]]
 ## Pork
+### Ham
+[[Ham Barbecue LOC| Ham Barbecue]]
 ### Pork Chops
 [[Barbequed Pork Chops LC | Barbequed Pork Chops]]
 [[Pork Chops and Wild Rice UK3| Pork Chops and Wild Rice]]
+### Spam
+[[Hearty Spam & Bean Dinner UK15| Hearty Spam & Bean Dinner]]
 ### Sweet and Sour Pork
 [[Sweet & Sour Pork With Mixed Vegetables LOC| Sweet & Sour Pork With Mixed Vegetables]]
 ### Teriyaki Style
