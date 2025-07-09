@@ -7,6 +7,7 @@ title: Desserts
 [[Brownie PC| Brownie]]
 [[Brownies UK3| Brownies]]
 [[Jackie's Brownies PC| Jackie's Brownies]]
+[[Kahlua Classics (Brownies) UK15| Kahlua Classics (Brownies]]
 [[Mary Doll's Butterscotch Brownies UK2| Mary Doll's Butterscotch Brownies]]
 [[Millie's Brownies UK3| Millie's Brownies]]
 ### Blondies

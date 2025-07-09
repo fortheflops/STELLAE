@@ -34,6 +34,8 @@ title: Bread
 [[Plum Muffins UK3| Plum Muffins]]
 [[Whole Wheat Muffins UK2| Whole Wheat Muffins]]
 [[Zucchini Muffins GC| Zucchini Muffins]]
+# Quick Bread
+[[Guacamole Quick Bread UK15| Guacamole Quick Bread]]
 # Squaw Bread
 [[Squaw Bread UK2| Squaw Bread]]
 # Toast
