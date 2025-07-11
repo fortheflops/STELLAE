@@ -75,4 +75,4 @@ ___
 
 ![[Handwritten_2025-04-22_173258 (3).webp]]
 
-![[Handwritten_2025-04-22_173454 (4).jpg]]
+![[Handwritten_2025-04-22_173454 (4).webp]]

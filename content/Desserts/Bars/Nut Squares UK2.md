@@ -35,6 +35,6 @@ ___
 10. Cut in 16 squares or 32 bars while warm.
 11. Cool completely in pan on rack - Sprinkle with confectioners sugar.
 ___
-![[Handwritten_2025-02-21_124649.jpg]]
+![[Handwritten_2025-02-21_124649.webp]]
 
 ![[Handwritten_2025-02-21_124820 (2).webp]]

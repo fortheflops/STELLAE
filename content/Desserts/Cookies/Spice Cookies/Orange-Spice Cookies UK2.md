@@ -38,4 +38,4 @@ ___
 >Makes about 42
 
 ___
-![[Handwritten_2025-01-26_085208.webp]]
+![[content/Desserts/Cookies/Spice Cookies/Assets/Handwritten_2025-01-26_085208.webp]]

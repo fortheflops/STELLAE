@@ -65,5 +65,5 @@ ___
 >This version makes about 7 dozen cookies.
 
 ___
-![[Handwritten_2025-06-04_090533.jpg]]
-![[Handwritten_2025-06-04_094819 (2).jpg]]
+![[Handwritten_2025-06-04_090533.webp]]
+![[Handwritten_2025-06-04_094819 (2).webp]]

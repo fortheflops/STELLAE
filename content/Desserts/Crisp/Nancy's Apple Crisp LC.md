@@ -26,4 +26,4 @@ ___
 5. Top with the Flour/Sugar/butter mixture 
 6. Bake for 30 Minutes
 ___
-![[Handwritten_2024-07-07_103627.jpg]]
+![[Handwritten_2024-07-07_103627.webp]]

@@ -91,6 +91,8 @@ title: Desserts
 [[Cherry Upside-Down Pudding UK2| Cherry Upside-Down Pudding]]
 ### Bread Pudding
 [[Bread Pudding UK2| Bread Pudding]]
+### Layered Pudding
+[[Linda Carruth's Chocolate Dessert UK15| Linda Carruth's Chocolate Dessert]]
 ### Steamed Pudding
 [[Surprise 7 Minute Pudding UK2| Surprise 7 Minute Pudding]]
 ## [[Desserts/Salad/index| Salad]]

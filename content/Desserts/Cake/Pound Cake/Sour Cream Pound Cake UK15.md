@@ -47,4 +47,4 @@ ___
 3.  Remove from the heat and stir in the almond extract.
 4.  Drizzle the glaze over the warm cake.
 ___
-![[Handwritten_2025-07-08_175817.jpg]]
+![[Handwritten_2025-07-08_175817.webp]]

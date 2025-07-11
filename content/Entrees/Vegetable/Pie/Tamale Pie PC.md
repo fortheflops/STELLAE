@@ -36,4 +36,4 @@ ___
 
 ___
 
-![[content/Entrees/Vegetable/Pie/Assets/Handwritten_2025-01-05_122450.webp]]
+![[content/Entrees/Vegetable/Pie/Assets/Handwritten_2025-01-05_122450\.webp]]

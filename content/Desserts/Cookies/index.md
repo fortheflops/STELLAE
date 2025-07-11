@@ -1,10 +1,7 @@
 ---
 title: Cookies
 ---
-[[Biscochitos UK2| Biscochitos]]
 [[Butterscotch Caramel Cookies LC| Butterscotch Caramel Cookies]]
-[[Christmas Cane Cookies LOC| Christmas Cane Cookies]]
-[[Holly Hermits UK2| Holly Hermits]]
 [[Lemon-Ginger Cookies UK2| Lemon-Ginger Cookies]]
 [[Lemonade Cookies UK2| Lemonade Cookies]]
 [[Mary Dell's Millionaire Cookies UK2| Mary Dell's Millionaire Cookies ]]
@@ -17,8 +14,11 @@ title: Cookies
 [[Swedish Slugs UK2| Swedish Slugs]]
 ### Butter Cookies
 [[Basic Butter Cookies UK3| Basic Butter Cookies]]
+[[Biscochitos UK2| Biscochitos]]
 [[Butter Cookies UK2| Butter Cookies]]
+[[Christmas Cane Cookies LOC| Christmas Cane Cookies]]
 [[Danish Cookies GC| Danish Cookies]]
+[[Janet's Bizcochitos UK15| Janet's Bizcochitos]]
 [[Old Fashioned Butter Cookies PC| Old Fashioned Butter Cookies]]
 ### Chocolate
 [[Chocolate Cookies UK2| Chocolate Cookies]]
@@ -54,6 +54,7 @@ title: Cookies
 [[Jumble Oatmeal Cookies UK2| Jumble Oatmeal Cookies]]
 [[Oatmeal Cookies UK3| Oatmeal Cookies]]
 [[Pineapple Oatmeal Cookies UK2| Pineapple Oatmeal Cookies]]
+[[Texas Ranger Crispies UK15| Texas Ranger Crispies]]
 ### Peanut Butter
 [[Peanut Butter Cookies One GC| Peanut Butter Cookies One]]
 [[Peanut Butter Cookies Two GC| Peanut Butter Cookies Two]]
@@ -67,10 +68,13 @@ title: Cookies
 ### Shortbread
 [[Melt Away Cookies UK3| Melt Away Cookies]]
 [[Shortbread UK3| Shortbread]]
+### Spice Cookies
+[[Holly Hermits UK2| Holly Hermits]]
 ### Sugar Cookies
 [[Cheth's Sugar Cookies UK3| Cheth's Sugar Cookies]]
 [[Cindy's Sugar Cookies UK3| Cindy's Sugar Cookies]]
 [[Lemon Sugar Cookies LOC| Lemon Sugar Cookies]]
+[[Mary's Sugar Cookies UK15| Mary's Sugar Cookies]]
 [[Classic Sugar Cookies UK3| Classic Sugar Cookies]]
 [[Sugar Cookies UK3| Sugar Cookies]]
 ### Thumbprint Cookies

@@ -87,3 +87,5 @@ title: Sauces
 [[Mildred's Chili- Enchilada Sauce UK2| Mildred's Chili- Enchilada Sauce]]
 ## Vanilla
 [[Vanilla Sauce UK2| Vanilla Sauce]]
+## Wiskey
+[[Chocolate Whiskey Sauce UK15| Chocolate Whiskey Sauce]]

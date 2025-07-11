@@ -18,4 +18,4 @@ ___
 ## Instructions
 1.  Combine water and apple cider vinegar. The third ingredient is unclear but appears to be a treatment for "BS Cysts." "BS" could potentially stand for Baking Soda.
 ___
-![[Handwritten_2025-06-24_171535.jpg]]
+![[Handwritten_2025-06-24_171535.webp]]

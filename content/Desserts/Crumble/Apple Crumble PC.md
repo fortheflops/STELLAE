@@ -32,6 +32,6 @@ ___
 7. Test the apples for doneness. (Likely, they should be tender when pierced with a fork or knife).
 8. Best served warm.
 ___
-![[Handwritten_2025-01-09_123537.jpg|700]]
+![[Handwritten_2025-01-09_123537.webp|700]]
 
 ![[Handwritten_2025-01-09_123639 (2).webp]]

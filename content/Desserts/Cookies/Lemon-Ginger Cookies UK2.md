@@ -3,7 +3,6 @@ title: Lemon-Ginger Cookies
 draft: false
 tags:
   - UnknownTwo
-  - "#Cookies"
 ---
 ## Author
 Unknown

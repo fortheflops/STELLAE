@@ -49,4 +49,4 @@ ___
 3.  Spread the Kahlua frosting over the warm brownies.
 4.  Cut into 2-inch squares to serve.
 ___
-![[Handwritten_2025-07-08_175419.jpg]]![[Handwritten_2025-07-08_175513 (2).jpg]]
+![[Handwritten_2025-07-08_175419.webp]]![[Handwritten_2025-07-08_175513 (2).webp]]

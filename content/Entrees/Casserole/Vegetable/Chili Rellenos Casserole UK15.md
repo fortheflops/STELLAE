@@ -39,4 +39,4 @@ ___
 >The recipe card suggests this dish is "Good w/ Pinto Beans."
 
 ___
-![[Handwritten_2025-07-08_180105.jpg]]![[Handwritten_2025-07-08_180341 (2).jpg]]
+![[Handwritten_2025-07-08_180105.webp]]![[Handwritten_2025-07-08_180341 (2).webp]]

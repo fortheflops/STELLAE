@@ -24,4 +24,4 @@ ___
 >Cooking time about 15 minutes
 
 ___
-![[Handwritten_2025-06-24_171535.jpg]]
+![[Handwritten_2025-06-24_171535.webp]]
