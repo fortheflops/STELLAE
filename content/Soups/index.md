@@ -14,6 +14,7 @@ title: Soups
 [[Gazpacho UK3| Gazpacho]]
 ## Meat Soup
 [[Chicken Soup GC| Chicken Soup]]
+[[Hamburger Soup UK15| Hamburger Soup]]
 [[Meaty Soup - Veg. Bean GC| Meaty Soup - Veg. Bean]]
 ## Noodle Soup
 [[Noodle Soup GC| Noodle Soup]]

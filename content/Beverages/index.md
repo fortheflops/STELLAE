@@ -40,8 +40,9 @@ title: Beverages
 # Punch
 [[Classic Party Punch GC| Classic Party Punch]]
 [[Classic Punch UK3| Classic Punch]]
-[[Cranberry Fizz UK15| Cranberry Fizz]]
 [[Coke Punch UK3| Coke Punch]]
+[[Cranberry Fizz UK15| Cranberry Fizz]]
+[[Creamy Colada Punch UK15| Creamy Colada Punch]]
 [[Good Punch LOC| Good Punch]]
 [[Hot Buttered Cranberry Punch LOC| Hot Buttered Cranberry Punch]]
 [[Merry Berry Punch UK3| Merry Berry Punch]]

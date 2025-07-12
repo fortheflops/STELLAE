@@ -59,6 +59,8 @@ title: Desserts
 ## Gelatin
 [[Lime, Pear, Cherry Mold GC| Lime, Pear, Cherry Mold]]
 [[Orange-Apricot Gelatin Mold UK2| Orange-Apricot Gelatin Mold]]
+## Glaze
+[[Chocolate Glaze UK15| Chocolate Glaze]]
 ## [[Desserts/Ice Cream/index| Ice Cream]]
 
 ## Icing
@@ -93,6 +95,8 @@ title: Desserts
 [[Bread Pudding UK2| Bread Pudding]]
 ### Layered Pudding
 [[Linda Carruth's Chocolate Dessert UK15| Linda Carruth's Chocolate Dessert]]
+### Rice Pudding
+[[Old Fashioned Rice Pudding UK15| Old Fashioned Rice Pudding]]
 ### Steamed Pudding
 [[Surprise 7 Minute Pudding UK2| Surprise 7 Minute Pudding]]
 ## [[Desserts/Salad/index| Salad]]

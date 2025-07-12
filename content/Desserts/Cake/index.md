@@ -17,6 +17,7 @@ title: Cake
 [[Chocolate Cake (with Banana and Whipped Cream Filling) GC| Chocolate Cake (with Banana and Whipped Cream Filling)]]
 [[Chocolate Cake UK3| Chocolate Cake]]
 [[Orie's Wesson Oil Chocolate Cake UK2| Orie's Wesson Oil Chocolate Cake]]
+[[Softsilk Chocolate Pearl Cake UK15| Softsilk Chocolate Pearl Cake]]
 ### Devil's Food Cake
 [[Dark Devils Food Cake GC| Dark Devils Food Cake]]
 [[Red Devil's Food Cake UK2| Red Devil's Food Cake]]
@@ -31,6 +32,7 @@ title: Cake
 ## Coffee Cake
 [[Coffee Cake with Fresh Apricots or Apples GC| Coffee Cake with Fresh Apricots or Apples ]]
 [[Hungarian Coffee Cake LOC| Hungarian Coffee Cake]]
+[[Lazy-Dazy Cake with Broiled Topping UK15| Lazy-Dazy Cake with Broiled Topping]]
 ## Cream Cake
 [[Italian Cream Cake UK3| Italian Cream Cake]]
 [[Jr. League Italian Cream Cake UK2| Jr. League Italian Cream Cake]]
@@ -114,6 +116,8 @@ title: Cake
 [[Nashville Book Pound Cake UK15| Nashville Book Pound Cake]]
 [[Pound Cake UK15| Pound Cake]]
 [[Sour Cream Pound Cake UK15| Sour Cream Pound Cake]]
+## Pudding Cake
+[[Incredible Cake (Pudding Cake) UK15| Incredible Cake (Pudding Cake)]]
 ## Sheet Cake
 [[Chocolate Sheath Cake UK2| Chocolate Sheath Cake]]
 ## Shortcake
