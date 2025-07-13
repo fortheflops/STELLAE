@@ -32,4 +32,4 @@ ___
 >The ingredient "4 cups water" was crossed out on the original recipe card, likely because the tomato juice and soup provide enough liquid.d.
 
 ___
-![[Hamburger Soup UK15-1752350378479.webp]]
+![[Hamburger Soup UK15-1752350378479.webp]]![[Hamburger Soup UK15-1752416285884.webp]]

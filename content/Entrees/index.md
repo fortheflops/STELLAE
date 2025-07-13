@@ -30,8 +30,9 @@ title: Entrees
 [[Stuffed Manicotti Marinara UK2| Stuffed Manicotti Marinara]]
 ### Noodles Romano
 [[Noodles Romano UK3| Noodles Romano]]
-### Chicken Spaghetti
+### Spaghetti
 [[Chicken Spaghetti UK3| Chicken Spaghetti]]
+[[Simple Spaghetti UK15| Simple Spaghetti]]
 ### Stroganoff
 [[Beef a la Stroganoff UK2| Beef a la Stroganoff]]
 [[Beef Stroganoff UK2| Beef Stroganoff]]
