@@ -114,7 +114,10 @@ title: Cake
 [[Coconut Pound Cake UK15| Coconut Pound Cake]]
 [[German Pound Cake GC| German Pound Cake]]
 [[Nashville Book Pound Cake UK15| Nashville Book Pound Cake]]
+[[Old-Fashioned Buttermilk Marbled Pound Cake UK15| Old-Fashioned Buttermilk Marbled Pound Cake]]
+[[Pound Cake (Cold Oven Method) UK15| Pound Cake (Cold Oven Method)]]
 [[Pound Cake UK15| Pound Cake]]
+[[Sour Cream Pound Cake - Lo-Fat UK15| Sour Cream Pound Cake - Lo-Fat]]
 [[Sour Cream Pound Cake UK15| Sour Cream Pound Cake]]
 ## Pudding Cake
 [[Incredible Cake (Pudding Cake) UK15| Incredible Cake (Pudding Cake)]]
