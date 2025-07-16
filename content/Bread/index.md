@@ -36,6 +36,7 @@ title: Bread
 [[Zucchini Muffins GC| Zucchini Muffins]]
 # Quick Bread
 [[Guacamole Quick Bread UK15| Guacamole Quick Bread]]
+[[Irish Soda Bread UK15| Irish Soda Bread]]
 # Squaw Bread
 [[Squaw Bread UK2| Squaw Bread]]
 # Toast

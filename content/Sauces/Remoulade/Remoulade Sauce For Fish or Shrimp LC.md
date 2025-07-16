@@ -28,4 +28,4 @@ ___
 3. Add oil and beet mixture thoroughly
 4. Add onions and celery.
 ___
-![[content/Sauces/Remoulade/Assets/RemouladeSauceforfishorshrimp\.webp]]
+![[content/Sauces/Remoulade/Assets/RemouladeSauceforfishorshrimp.webp]]

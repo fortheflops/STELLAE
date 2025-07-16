@@ -29,6 +29,7 @@ title: Soups
 ### Chili
 [[Chile con Carne UK15| Chile con Carne]]
 [[Jailhouse Chili UK15| Jailhouse Chili]]
+[[Misty Chili with Beans UK15| Misty Chili with Beans]]
 [[Pardenales River Chili UK2| Pardenales River Chili]]
 ### Clam
 [[Creamy Oyster and Clam Stew GC| Creamy Oyster and Clam Stew]]

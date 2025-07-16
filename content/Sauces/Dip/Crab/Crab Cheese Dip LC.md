@@ -26,4 +26,4 @@ ___
 3. Add the rest
 
 ___
-![[/Sauces/Dip/Assets/Handwritten_2024-06-29_161234..webp]]
+![[Handwritten_2024-06-29_161234.webp]]

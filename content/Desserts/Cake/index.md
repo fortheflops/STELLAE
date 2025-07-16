@@ -18,6 +18,7 @@ title: Cake
 [[Chocolate Cake UK3| Chocolate Cake]]
 [[Orie's Wesson Oil Chocolate Cake UK2| Orie's Wesson Oil Chocolate Cake]]
 [[Softsilk Chocolate Pearl Cake UK15| Softsilk Chocolate Pearl Cake]]
+[[Turtle Cake UK15| Turtle Cake]]
 ### Devil's Food Cake
 [[Dark Devils Food Cake GC| Dark Devils Food Cake]]
 [[Red Devil's Food Cake UK2| Red Devil's Food Cake]]
@@ -109,6 +110,8 @@ title: Cake
 [[Chocolate Mousse Cake UK2| Chocolate Mousse Cake]]
 ## Oatmeal Cake
 [[Oatmeal Cake UK3| Oatmeal Cake]]
+## Pistachio Cake
+[[Pistachio Nut Cake UK15| Pistachio Nut Cake]]
 ## Pound Cake
 [[Bourbon Pound Cake UK2| Bourbon Pound Cake]]
 [[Coconut Pound Cake UK15| Coconut Pound Cake]]
