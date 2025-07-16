@@ -27,6 +27,7 @@ title: Soups
 ### Chicken Creole
 [[Chicken Creole UK3| Chicken Creole]]
 ### Chili
+[[Chile con Carne UK15| Chile con Carne]]
 [[Jailhouse Chili UK15| Jailhouse Chili]]
 [[Pardenales River Chili UK2| Pardenales River Chili]]
 ### Clam

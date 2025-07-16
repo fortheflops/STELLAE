@@ -22,6 +22,8 @@ title: Pie
 [[Sugarless Apple Pie UK2| Sugarless Apple Pie]]
 ## Apricot Pie
 [[Apricot Lattice Pie GC| Apricot Lattice Pie]]
+## Blueberry Pie
+[[Crunchy-Crust Blueberry Swirl Pie UK15| Crunchy-Crust Blueberry Swirl Pie]]
 ## Butterscotch Pie
 [[Butterscotch Pie UK3| Butterscotch Pie]]
 ## Cherry Pie

@@ -25,6 +25,7 @@ title: Desserts
 [[Festive Cranberry Cheese Squares UK3| Festive Cranberry Cheese Squares]]
 ## Cobbler
 [[Aunt Liz Peach Cobbler GC| Aunt Liz Peach Cobbler]]
+[[Cobbler (Dump Cake) UK15| Cobbler (Dump Cake)]]
 [[Fruit Cobbler UK3| Fruit Cobbler]]
 ## [[Desserts/Confections/index| Confections]]
 

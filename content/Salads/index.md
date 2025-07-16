@@ -24,6 +24,7 @@ title: Salads
 [[Lois's Cabbage Salad UK2| Lois's Cabbage Salad]]
 ## Carrot Salad
 [[Carrot Salad LC| Carrot Salad]]
+[[Copper Pennies (Marinated Carrot Salad) UK15| Copper Pennies (Marinated Carrot Salad)]]
 ## Cauliflower Salad
 [[Cauliflower Salad UK2| Cauliflower Salad]]
 ## Corn Salad
