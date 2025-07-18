@@ -65,6 +65,7 @@ title: Sides
 ### Sweet Potatoes
 [[Candied Sweet Potatoes with Sherry-Jam Glaze GC| Candied Sweet Potatoes with Sherry-Jam Glaze]]
 [[Canned Sweet Potatoes LOC| Canned Sweet Potatoes]]
+[[Sweet Potatoes UK15| Sweet Potatoes]]
 ## Spinach
 [[Spinach Mozzarella PC| Spinach Mozzarella]]
 [[Spinach Onion Veg Dish GC| Spinach Onion Veg Dish]]

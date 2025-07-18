@@ -120,12 +120,14 @@ title: Cake
 [[Old-Fashioned Buttermilk Marbled Pound Cake UK15| Old-Fashioned Buttermilk Marbled Pound Cake]]
 [[Pound Cake (Cold Oven Method) UK15| Pound Cake (Cold Oven Method)]]
 [[Pound Cake UK15| Pound Cake]]
+[[Sour Cream Lemon Pound Cake UK15| Sour Cream Lemon Pound Cake]]
 [[Sour Cream Pound Cake - Lo-Fat UK15| Sour Cream Pound Cake - Lo-Fat]]
 [[Sour Cream Pound Cake UK15| Sour Cream Pound Cake]]
 ## Pudding Cake
 [[Incredible Cake (Pudding Cake) UK15| Incredible Cake (Pudding Cake)]]
 ## Sheet Cake
 [[Chocolate Sheath Cake UK2| Chocolate Sheath Cake]]
+[[Cinnamon Toast Cake UK15| Cinnamon Toast Cake]]
 ## Shortcake
 [[Individual Shortcakes & Pastry UK2| Individual Shortcakes & Pastry]]
 [[Strawberry Shortcake PC| Strawberry Shortcake]]
@@ -148,5 +150,6 @@ title: Cake
 [[Vanilla Wafer Cake UK3| Vanilla Wafer Cake]]
 ## Other
 [[A Cake for all Seasons UK2| A Cake for all Seasons]]
+[[Cake & Frosting Ideas UK15| Cake & Frosting Ideas]]
 [[Mardi Gras Party Cake UK2| Mardi Gras Party Cake]]
 [[Yummy Cake! UK2 | Yummy Cake!]] 

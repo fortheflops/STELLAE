@@ -19,6 +19,7 @@ title: Bread
 [[Mexican Corn Bread UK2| Mexican Corn Bread]]
 [[Savory Corn Bread UK15| Savory Corn Bread]]
 # Fruit Bread
+[[Applesauce Nut Bread UK15| Applesauce Nut Bread]]
 [[Apricot Bread GC| Apricot Bread]]
 [[Barnett's Cranberry Orange Bread UK2| Barnett's Cranberry Orange Bread]]
 [[Bishop's Bread GC| Bishop's Bread]]
