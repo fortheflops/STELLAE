@@ -3,6 +3,8 @@ title: Salads
 ---
 # Crab Salad
 [[Hot Crab Salad UK3| Hot Crab Salad]]
+# Pasta Salad
+[[Macaroni Chicken Salad UK15| Macaroni Chicken Salad]]
 # Rice Salad
 [[Rice Salad PC| Rice Salad]]
 # Strawberry
