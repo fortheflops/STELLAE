@@ -52,4 +52,4 @@ ___
 >The frosting makes a thin, fudgy glaze. Mrs. Galloway says she sometimes leaves the glaze off and serves her cake with whipped cream combined with well-drained crushed pineapple.
 
 ___
-![[Handwritten_2025-07-10_183859 (2).webp]]![[Handwritten_2025-07-10_183809.webp]]
+![[Handwritten_2025-07-10_183809.webp]]![[Handwritten_2025-07-10_183859 (2).webp]]

@@ -12,6 +12,7 @@ title: Pie
 [[Gail's Pie Crust GC| Gail's Pie Crust]]
 [[Graham Cracker Crust UK3| Graham Cracker Crust]]
 [[Instant Pie Crust UK2| Instant Pie Crust]]
+[[Mac's Pie Crust UK15| Mac's Pie Crust]]
 [[Martha's Pie Crust UK3| Martha's Pie Crust]]
 [[No Roll Pie Crust UK2| No Roll Pie Crust]]
 [[Pie Crust UK2| Pie Crust]]
@@ -52,6 +53,7 @@ title: Pie
 ## Peach Pie
 [[Fresh Peach Pie LOC| Fresh Peach Pie]]
 ## Pineapple Pie
+[[Heavenly Pie UK15| Heavenly Pie]]
 [[No Bake Pineapple Pie UK3| No Bake Pineapple Pie]]
 [[Pineapple Millionaire Pie UK2| Pineapple Millionaire Pie]]
 ## Pumpkin Pie

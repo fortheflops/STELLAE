@@ -114,13 +114,17 @@ title: Cake
 [[Pistachio Nut Cake UK15| Pistachio Nut Cake]]
 ## Pound Cake
 [[Bourbon Pound Cake UK2| Bourbon Pound Cake]]
+[[Buttermilk Pound Cake UK15| Buttermilk Pound Cake]]
+[[Chocolate Pound Cake UK15| Chocolate Pound Cake]]
+[[Coconut Cream Cheese Pound Cake UK15| Coconut Cream Cheese Pound Cake]]
 [[Coconut Pound Cake UK15| Coconut Pound Cake]]
 [[German Pound Cake GC| German Pound Cake]]
+[[Lemon Sour Cream Pound Cake UK15| Lemon Sour Cream Pound Cake]]
 [[Nashville Book Pound Cake UK15| Nashville Book Pound Cake]]
 [[Old-Fashioned Buttermilk Marbled Pound Cake UK15| Old-Fashioned Buttermilk Marbled Pound Cake]]
 [[Pound Cake (Cold Oven Method) UK15| Pound Cake (Cold Oven Method)]]
 [[Pound Cake UK15| Pound Cake]]
-[[Sour Cream Lemon Pound Cake UK15| Sour Cream Lemon Pound Cake]]
+[[Quee's Sour Cream Lemon Pound Cake UK15| Quee's Sour Cream Lemon Pound Cake]]
 [[Sour Cream Pound Cake - Lo-Fat UK15| Sour Cream Pound Cake - Lo-Fat]]
 [[Sour Cream Pound Cake UK15| Sour Cream Pound Cake]]
 ## Pudding Cake
