@@ -67,6 +67,7 @@ title: Meat
 [[Mamie's Best Ever Meatloaf UK15| Mamie's Best Ever Meatloaf]]
 [[Meatloaf UK3| Meat Loaf]]
 [[Mexican Meat Loaf UK15| Mexican Meat Loaf]]
+[[Skillet Meat Loaf UK25| Skillet Meat Loaf]]
 [[Susan's Meatloaf UK3| Susan's Meatloaf]]
 ## Patties
 [[Russian Meat Patties UK2| Russian Meat Patties]]

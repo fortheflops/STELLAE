@@ -28,6 +28,7 @@ title: Cake
 ## Coconut Cake
 [[Bert Ellen Camp's Coconut Cake UK2| Bert Ellen Camp's Coconut Cake]]
 [[Coconut Cake on Perbleco UK2| Coconut Cake on Perbleco]]
+[[Delicate Coconut Cake (1918) UK15| Delicate Coconut Cake]]
 [[Coconut Cake UK3| Coconut Cake]]
 [[Pina Colada Cake UK3| Pina Colada Cake]]
 ## Coffee Cake
