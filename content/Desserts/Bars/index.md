@@ -9,5 +9,6 @@ title: Bars
 [[Jones Hopkins' Caramel Bars UK2| Jones Hopkins' Caramel Bars]]
 [[Lemon Squares UK2| Lemon Squares]]
 [[Millionaires UK3| Millionaires]]
+[[Neiman-Marcus Bars UK5| Neiman-Marcus Bars]]
 [[Nut Squares UK2| Nut Squares]]
 [[Peanut Butter Fruit Squares GC| Peanut Butter Fruit Squares]]

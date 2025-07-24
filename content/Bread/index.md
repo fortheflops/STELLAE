@@ -38,6 +38,7 @@ title: Bread
 # Muffins
 [[Beer Muffins UK2| Beer Muffins]]
 [[Bran and Honey Muffins GC| Bran and Honey Muffins]]
+[[Bran Muffins UK5| Bran Muffins]]
 [[Graham Muffins GC| Graham Muffins]]
 [[Plum Muffins UK3| Plum Muffins]]
 [[Whole Wheat Muffins UK2| Whole Wheat Muffins]]

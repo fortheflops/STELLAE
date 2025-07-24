@@ -30,6 +30,7 @@ title: Cake
 [[Coconut Cake on Perbleco UK2| Coconut Cake on Perbleco]]
 [[Delicate Coconut Cake (1918) UK15| Delicate Coconut Cake]]
 [[Coconut Cake UK3| Coconut Cake]]
+[[Italian Cream Cake UK5| Italian Cream Cake]]
 [[Pina Colada Cake UK3| Pina Colada Cake]]
 ## Coffee Cake
 [[Coffee Cake with Fresh Apricots or Apples GC| Coffee Cake with Fresh Apricots or Apples ]]

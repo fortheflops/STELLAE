@@ -5,12 +5,11 @@ title: Updates
 | Long Term                           | To Do             | TAG | Location   |
 | ----------------------------------- | ----------------- | --- | ---------- |
 | Video form content                  | Unknown 1         |     | New Mexico |
-| [[Monetization]]?                   | Unknown 5         |     | New Mexico |
-| Recreation of Recipes               | Unknown 7         |     | New Mexico |
-| List Tag in Abc. Order              | Unknown 8         |     | New Mexico |
-| Specify Certain Media Preview Cards | Unknown 9         |     | New Mexico |
-| Star Rating                         | Diane Collection  | DC  | New Mexico |
-|                                     | Unknown 10        |     | New Mexico |
+| [[Monetization]]?                   | Unknown 7         |     | New Mexico |
+| Recreation of Recipes               | Unknown 8         |     | New Mexico |
+| List Tag in Abc. Order              | Unknown 9         |     | New Mexico |
+| Specify Certain Media Preview Cards | Diane Collection  | DC  | New Mexico |
+| Star Rating                         | Unknown 10        |     | New Mexico |
 |                                     | Alison Collection | AC  | New Mexico |
 |                                     | Better ICON       |     |            |
 |                                     | Jill Collection   | JC  | New Mexico |
@@ -21,10 +20,12 @@ title: Updates
 
 
 
-| In Progress       | TAG               |      | Location    |
-| ----------------- | ----------------- | ---- | ----------- |
-| Unknown 4         | #UnknownFour      | UK4  | New Mexico  |
-| Louise Collection | #LouiseCollection | LOC  | Chula Vista |
+
+| In Progress       | TAG               |     | Location    |
+| ----------------- | ----------------- | --- | ----------- |
+| Unknown 4         | #UnknownFour      | UK4 | New Mexico  |
+| Louise Collection | #LouiseCollection | LOC | Chula Vista |
+| Unknown 5         | #UnknownFive      | UK5 | New Mexico  |
 
 
 | Done Exc. Copywritten Recipes | TAG                   |      | Location   |

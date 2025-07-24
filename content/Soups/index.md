@@ -36,7 +36,10 @@ title: Soups
 ### Green Chile
 [[Black Bean & Green Chile Stew UK2| Black Bean & Green Chile Stew]]
 [[Green Chili Stew UK15| Green Chili Stew]]
+## Tortilla Soup
+[[Tortilla Soup UK5| Tortilla Soup]]
 ## Vegetable
+[[Black Bean Soup UK15| Black Bean Soup]]
 [[Mushroom Soup PC| Mushroom Soup]]
 [[Green Bean Soup PC| Green Bean Soup]]
 [[Vegetable Soup GC| Vegetable Soup]]
