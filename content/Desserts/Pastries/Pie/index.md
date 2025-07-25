@@ -36,6 +36,8 @@ title: Pie
 [[Homemade Chocolate Pie UK3| Homemade Chocolate Pie]]
 ## Cracker Pie
 [[Ritz Cracker Pie UK3| Ritz Cracker Pie]]
+## Cream Cheese Pie
+[[Cream Cheese Pie UK5| Cream Cheese Pie]]
 ## Ice Box Pie
 [[Ice Box Pie UK3| Ice Box Pie]]
 ## Key Lime Pie

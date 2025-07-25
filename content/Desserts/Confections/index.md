@@ -26,6 +26,7 @@ title: Confections
 [[Fudge Candy GC| Fudge Candy]]
 [[Lorraine's Chocolate Fudge UK2| Lorraine's Chocolate Fudge]]
 [[Marshmallow Fudge UK2| Marshmallow Fudge]]
+[[Oatmeal-Fudge Bars UK5| Oatmeal-Fudge Bars]]
 [[Peanut Butter Fudge UK15| Peanut Butter Fudge]]
 # Pralines
 [[Andria's Pralines UK2| Andria's Pralines]]

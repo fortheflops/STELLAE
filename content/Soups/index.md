@@ -47,6 +47,7 @@ title: Soups
 [[Black Bean Soup UK15| Black Bean Soup]]
 [[Mushroom Soup PC| Mushroom Soup]]
 [[Green Bean Soup PC| Green Bean Soup]]
+[[Nine Bean Soup UK5| Nine Bean Soup]]
 [[Vegetable Soup GC| Vegetable Soup]]
 ## Gumbo
 [[Shrimp Gumbo UK3| Shrimp Gumbo]]
