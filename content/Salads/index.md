@@ -4,7 +4,9 @@ title: Salads
 # Crab Salad
 [[Hot Crab Salad UK3| Hot Crab Salad]]
 # Pasta Salad
+[[Bistro Chicken & Feta UK5| Bistro Chicken & Feta]]
 [[Macaroni Chicken Salad UK15| Macaroni Chicken Salad]]
+[[Pasta Salad UK5| Pasta Salad]]
 # Rice Salad
 [[Rice Salad PC| Rice Salad]]
 # Strawberry

@@ -27,15 +27,20 @@ title: Soups
 ### Chicken Creole
 [[Chicken Creole UK3| Chicken Creole]]
 ### Chili
+[[Boiled Meat Chili UK5| Boiled Meat Chili]]
 [[Chile con Carne UK15| Chile con Carne]]
+[[Fried Meat Chili UK5| Fried Meat Chili]]
 [[Jailhouse Chili UK15| Jailhouse Chili]]
 [[Misty Chili with Beans UK15| Misty Chili with Beans]]
 [[Pardenales River Chili UK2| Pardenales River Chili]]
+[[Red Chili UK5| Red Chili]]
+[[Texas Chili UK5| Texas Chili]]
 ### Clam
 [[Creamy Oyster and Clam Stew GC| Creamy Oyster and Clam Stew]]
 ### Green Chile
 [[Black Bean & Green Chile Stew UK2| Black Bean & Green Chile Stew]]
 [[Green Chili Stew UK15| Green Chili Stew]]
+[[Pork & Green Chile Stew UK5| Pork & Green Chile Stew]]
 ## Tortilla Soup
 [[Tortilla Soup UK5| Tortilla Soup]]
 ## Vegetable

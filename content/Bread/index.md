@@ -36,6 +36,7 @@ title: Bread
 [[Pumpkin Bread (Small Batch) UK15| Pumpkin Bread (Small Batch)]]
 [[Pumpkin Raisin Nut Bread GC| Pumpkin Raisin Nut Bread]]
 # Muffins
+[[Applesauce Oatmeal Muffins UK5| Applesauce Oatmeal Muffins]]
 [[Beer Muffins UK2| Beer Muffins]]
 [[Bran and Honey Muffins GC| Bran and Honey Muffins]]
 [[Bran Muffins UK5| Bran Muffins]]
