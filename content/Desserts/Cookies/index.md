@@ -73,9 +73,10 @@ title: Cookies
 ### Sugar Cookies
 [[Cheth's Sugar Cookies UK3| Cheth's Sugar Cookies]]
 [[Cindy's Sugar Cookies UK3| Cindy's Sugar Cookies]]
+[[Classic Sugar Cookies UK3| Classic Sugar Cookies]]
+[[Grandma Hill's Sugar Cookies UK5| Grandma Hill's Sugar Cookies]]
 [[Lemon Sugar Cookies LOC| Lemon Sugar Cookies]]
 [[Mary's Sugar Cookies UK15| Mary's Sugar Cookies]]
-[[Classic Sugar Cookies UK3| Classic Sugar Cookies]]
 [[Sugar Cookies UK3| Sugar Cookies]]
 ### Thumbprint Cookies
 [[Thumb Print Cookies UK3| Thumb Print Cookies]]

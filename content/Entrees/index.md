@@ -24,6 +24,8 @@ title: Entrees
 [[Fettuccine Alfredo UK2| Fettuccine Alfredo]]
 ### Lasagna
 [[Super Fast, Easy, Delicious Lasagna GC| Super Fast, Easy, Delicious Lasagna]]
+### Linguini
+[[Lazy Clam Linguini UK5| Lazy Clam Linguini]]
 ### Mac & Cheese
 [[Mac & Cheese PC| Macaroni & Cheese]]
 ### Manicotti

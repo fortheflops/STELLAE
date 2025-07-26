@@ -9,7 +9,7 @@ title: Updates
 | Recreation of Recipes               | Unknown 8         |     | New Mexico |
 | List Tag in Abc. Order              | Unknown 9         |     | New Mexico |
 | Specify Certain Media Preview Cards | Diane Collection  | DC  | New Mexico |
-| Star Rating                         | Unknown 10        |     | New Mexico |
+| Star Rating????                     | Unknown 10        |     | New Mexico |
 |                                     | Alison Collection | AC  | New Mexico |
 |                                     | Better ICON       |     |            |
 |                                     | Jill Collection   | JC  | New Mexico |
@@ -46,4 +46,4 @@ ___
 ## Numbers Not in Use
 | Not in order |
 | ------------ |
-| UnknownSix   |
+| Unknown 6    |

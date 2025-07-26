@@ -14,6 +14,7 @@ title: Cake
 ## Buttermilk Cake
 [[Buttermilk Cake UK2| Buttermilk Cake]]
 ## Chocolate Cake
+[[Chase's 15th Birthday Cake UK5| Chase's 15th Birthday Cake]]
 [[Chocolate Cake (with Banana and Whipped Cream Filling) GC| Chocolate Cake (with Banana and Whipped Cream Filling)]]
 [[Chocolate Cake UK3| Chocolate Cake]]
 [[Orie's Wesson Oil Chocolate Cake UK2| Orie's Wesson Oil Chocolate Cake]]
@@ -65,6 +66,7 @@ title: Cake
 [[Banana Cake UK3| Banana Cake]]
 [[Banana Nut Cake UK2| Banana Nut Cake]]
 [[Banana Split Cake UK2| Banana Split Cake]]
+[[Mary's Banana Split Cake UK5| Mary's Banana Split Cake]]
 ### Fruit Cake
 [[Abby's Fruit Cake UK2| Abby's Fruit Cake]]
 [[Bishop Fruitcake GC| Bishop Fruitcake]]
