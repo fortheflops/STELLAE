@@ -41,6 +41,7 @@ title: Meat
 ### Baked Chicken
 [[Baked Chicken with Peppers and Salsa UK15| Baked Chicken with Peppers and Salsa]]
 [[Broiled and Baked Chicken GC| Broiled and Baked Chicken]]
+[[Cheese-Baked Chicken UK5| Cheese-Baked Chicken]]
 [[Jeanie's Baked Chicken GC| Jeanie's Baked Chicken]]
 [[Lena's 3 Cheese Chicken Bake UK2| Lena's 3 Cheese Chicken Bake]]
 [[Marinated Baked Chicken GC| Marinated Baked Chicken]]
@@ -104,5 +105,8 @@ title: Meat
 [[Roast UK3| Roast]]
 ### Flank Steak
 [[Flank Steak Teriyaki GC| Flank Steak Teriyaki]]
+### Eye of Round
+[[Green Pepper Round Steak UK5|Green Pepper Round Steak]]
+[[Oven Swiss Steak UK5| Oven Swiss Steak]]
 ## Veal
 [[Baked Veal (Wine Vinegar) UK2| Baked Veal]]

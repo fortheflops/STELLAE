@@ -12,6 +12,8 @@ title: Soups
 [[Cream of Potato Soup UK3| Cream of Potato Soup]]
 ## Gazpacho
 [[Gazpacho UK3| Gazpacho]]
+## Goulash
+[[Goulash UK5| Goulash]]
 ## Meat Soup
 [[Chicken Soup GC| Chicken Soup]]
 [[Hamburger Soup UK15| Hamburger Soup]]

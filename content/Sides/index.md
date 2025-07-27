@@ -58,6 +58,7 @@ title: Sides
 [[Au Gratin Potatoes UK3| Au Gratin Potatoes]]
 [[Carol's Potatoes LOC| Carol's Potatoes]]
 [[Delicious Potatoes GC| Delicious Potatoes]]
+[[Midge's  Scalloped Potatoes UK5| Midge's  Scalloped Potatoes]]
 [[Potatoes UK3| Potatoes]]
 [[Potatoes with Dill Recipe GC| Potatoes with Dill Recipe]]
 [[Scalloped Potatoes UK3| Scalloped Potatoes]]
