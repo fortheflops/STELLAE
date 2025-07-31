@@ -22,7 +22,7 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import NavMenu from "./NavMenu"
-import ConditionalRender from ".ConditionalRender"
+import ConditionalRender from "./ConditionalRender"
 
 export {
   ArticleTitle,
