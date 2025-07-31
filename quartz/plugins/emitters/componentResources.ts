@@ -11,9 +11,7 @@ import { BuildCtx } from "../../util/ctx"
 import { QuartzComponent } from "../../components/types"
 import {
   googleFontHref,
-  googleFontSubsetHref,
   joinStyles,
-  processGoogleFonts,
 } from "../../util/theme"
 import { Features, transform } from "lightningcss"
 import { transform as transpile } from "esbuild"
