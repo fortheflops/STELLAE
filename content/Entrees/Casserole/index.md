@@ -1,6 +1,9 @@
 ---
 title: Casserole
 ---
+## Egg
+[[24 Hour Omelette JC| 24 Hour Omelette]]
+[[Easy Cheese Soufflé JC| Easy Cheese Soufflé]]
 ## Meat
 ### Beef
 [[Cheesy Creamy Mexican Casserole UK3| Cheesy Creamy Mexican Casserole]]
@@ -40,6 +43,7 @@ title: Casserole
 ## Vegetable
 [[Asparagus Casserole UK3| Asparagus Casserole]]
 [[Broccoli Casserole UK2| Broccoli Casserole]]
+[[Broccoli-Corn Casserole JC| Broccoli-Corn Casserole]]
 [[Chili Rellenos Casserole UK15| Chili Rellenos Casserole]]
 [[Corn Casserole UK15| Corn Casserole]]
 [[Eggplant Delight UK2| Eggplant Delight]]

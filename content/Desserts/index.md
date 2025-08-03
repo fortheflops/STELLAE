@@ -15,6 +15,7 @@ title: Desserts
 ## [[Desserts/Cake/index| Cake]]
 ## Casserole
 [[Apricot Casserole PC| Apricot Casserole]]
+[[Blintz Casserole JC| Blintz Casserole]]
 ## Cheesecake
 [[Cheese Cake UK2| Cheese Cake]]
 [[Cheesecake (Fragmented Recipe) GC| Cheesecake (Fragmented Recipe)]]
