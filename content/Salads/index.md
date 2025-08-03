@@ -7,6 +7,7 @@ title: Salads
 [[Bistro Chicken & Feta UK5| Bistro Chicken & Feta]]
 [[Macaroni Chicken Salad UK15| Macaroni Chicken Salad]]
 [[Pasta Salad UK5| Pasta Salad]]
+[[The McFarland Family's Pasta Salad UK5| The McFarland Family's Pasta Salad]]
 # Rice Salad
 [[Rice Salad PC| Rice Salad]]
 # Strawberry

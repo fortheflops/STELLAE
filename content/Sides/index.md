@@ -9,6 +9,8 @@ title: Sides
 # Noodles
 [[Basil with Noodles GC| Basil with Noodles]]
 [[Noodles Romanoff PC| Noodles Romanoff]]
+## Pudding
+[[Noodle Pudding a la Martha JC| Noodle Pudding a la Martha]]
 # Rice
 [[Real Rice GC| Real Rice]]
 [[Simple Spanish Rice LOC| Simple Spanish Rice]]

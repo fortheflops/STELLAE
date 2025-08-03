@@ -3,6 +3,7 @@ title: Beef Stew
 draft: false
 tags:
   - "#GailCollection"
+Date: 2025-08-02
 ---
 ## Author
 Unknown
@@ -37,7 +38,7 @@ ___
 ___
 
 >[!Note]
->he recipe card advises to "Add salt only if necessary" after the gravy is made, as the initial seasoning might be sufficient.
+>The recipe card advises to "Add salt only if necessary" after the gravy is made, as the initial seasoning might be sufficient.
 
 ___
 ![[Handwritten_2025-06-23_165130.webp]]

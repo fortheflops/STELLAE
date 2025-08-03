@@ -14,15 +14,32 @@ title: Meat
 [[Ukrainian Beef UK2| Ukrainian Beef]]
 ### Braciola
 [[Braciole LOC| Braciole]]
+### Brisket
+[[3-Day Brisket UK3| 3-Day Brisket]]
+[[Boned Rolled Beef Brisket JC| Boned Rolled Beef Brisket]]
+[[Brisket UK3| Brisket]]
 ### Sandwich
 #### Hamburgers
 [[Hamburger in Silver GC| Hamburger in Silver]]
 [[Taco Burgers LOC| Taco Burgers]]
 #### Sloppy Joes
 [[Sloppy Joes UK3| Sloppy Joes]]
-## Brisket
-[[3-Day Brisket UK3| 3-Day Brisket]]
-[[Brisket UK3| Brisket]]
+## Short Ribs
+[[Barbecued Short Ribs UK2| Barbecued Short Ribs]]
+[[Short Ribs JC| Short Ribs]]
+## Steak
+[[Panned Steak Strips LOC| Panned Steak Strips]]
+[[Russian Steak UK2| Russian Steak]]
+[[Steak Rolls Mexicana UK5| Steak Rolls Mexicana]]
+### Eye of Round
+[[Roast UK3| Roast]]
+### Flank Steak
+[[Flank Steak Teriyaki GC| Flank Steak Teriyaki]]
+### Eye of Round
+[[Green Pepper Round Steak UK5|Green Pepper Round Steak]]
+[[Oven Swiss Steak UK5| Oven Swiss Steak]]
+### Sirloin
+[[Sirloin Tip Roast JC| Sirloin Tip Roast]]
 ## Chicken
 [[Artichokes & Chicken a la Cream GC| Artichokes & Chicken a la Cream]]
 [[Chicken & Crescents UK3| Chicken & Crescents]]
@@ -79,11 +96,16 @@ title: Meat
 ## Pork
 ### Ham
 [[Ham Barbecue LOC| Ham Barbecue]]
+[[Hormel Pre-baked Canned Ham JC| Hormel Pre-baked Canned Ham]]
 ### Pork Chops
 [[Barbequed Pork Chops LC | Barbequed Pork Chops]]
 [[Pork Chops and Wild Rice UK3| Pork Chops and Wild Rice]]
 ### Spam
 [[Hearty Spam & Bean Dinner UK15| Hearty Spam & Bean Dinner]]
+## Sparerib
+[[Spare Ribs JC| Spare Ribs]]
+[[Sparerib Teriyaki GC| Sparerib Teriyaki]]
+[[Sweet and Sour Spareribs GC| Sweet and Sour Spareribs]]
 ### Sweet and Sour Pork
 [[Sweet & Sour Pork With Mixed Vegetables LOC| Sweet & Sour Pork With Mixed Vegetables]]
 ### Teriyaki Style
@@ -93,20 +115,5 @@ title: Meat
 [[Entrée Crepes GC| Entrée Crepes]]
 ### Lobster
 [[Lobster Cantonese GC| Lobster Cantonese]]
-## Short Ribs
-[[Barbecued Short Ribs UK2| Barbecued Short Ribs]]
-## Sparerib
-[[Sparerib Teriyaki GC| Sparerib Teriyaki]]
-[[Sweet and Sour Spareribs GC| Sweet and Sour Spareribs]]
-## Steak
-[[Panned Steak Strips LOC| Panned Steak Strips]]
-[[Russian Steak UK2| Russian Steak]]
-### Eye of Round
-[[Roast UK3| Roast]]
-### Flank Steak
-[[Flank Steak Teriyaki GC| Flank Steak Teriyaki]]
-### Eye of Round
-[[Green Pepper Round Steak UK5|Green Pepper Round Steak]]
-[[Oven Swiss Steak UK5| Oven Swiss Steak]]
 ## Veal
 [[Baked Veal (Wine Vinegar) UK2| Baked Veal]]

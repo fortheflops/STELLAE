@@ -29,4 +29,4 @@ ___
 5.  Add onions, water, and sour cream.
 6.  Cook very slowly until meat is tender, about 1½ hours.
 ___
-![[content/Entrees/Meat/Steak/Assets/Handwritten_2025-02-18_122250.webp]]
+![[content/Entrees/Meat/Beef/Steak/Assets/Handwritten_2025-02-18_122250.webp]]

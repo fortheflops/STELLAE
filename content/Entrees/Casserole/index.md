@@ -28,6 +28,7 @@ title: Casserole
 [[Emily Pineda's Chicken Enchilada Casserole UK2| Emily Pineda's Chicken Enchilada Casserole]]
 [[Layered Chicken Casserole GC| Layered Chicken Casserole ]]
 [[Neva's Chicken Casserole UK2| Neva's Chicken Casserole ]]
+[[Wanda's Layered Chicken Casserole UK5| Wanda's Layered Chicken Casserole]]
 ### Fish
 [[Crisp Noodle Casserole GC| Crisp Noodle Casserole]]
 [[Hot Barbecue Tuna (or Spam) UK15| Hot Barbecue Tuna (or Spam)]]

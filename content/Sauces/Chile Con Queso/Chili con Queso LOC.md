@@ -17,7 +17,7 @@ ___
 | 2 Pounds                            | [[Velveeta]] Cheese, Cubed |
 | 1 Can                               | [[Evaporated Milk]]     |
 ___
-### Instructions
+## Instructions
 1.  Chop onion, garlic, and chili fine.
 2.  Sauté the chopped onion, garlic, and chili in oil.
 3.  In a separate saucepan or double boiler, mix 2 lbs. cubed Velveeta and 1 can evaporated milk over heat, stirring until the Velveeta is melted and the mixture is smooth.

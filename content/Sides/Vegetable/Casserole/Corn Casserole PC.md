@@ -18,7 +18,7 @@ ___
 |8 oz|[[Cream Cheese]]|
 |1/4-1/2 Cup|[[Milk]]|
 ___
-### Instructions
+## Instructions
 1. Melt Cheese with 1/4 - 1/2 cup milk.
 2. Add other ingredients.
 3. Bake at 350° till bubbly or can simmer on top of stove.

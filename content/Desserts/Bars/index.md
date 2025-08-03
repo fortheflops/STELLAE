@@ -12,3 +12,4 @@ title: Bars
 [[Neiman-Marcus Bars UK5| Neiman-Marcus Bars]]
 [[Nut Squares UK2| Nut Squares]]
 [[Peanut Butter Fruit Squares GC| Peanut Butter Fruit Squares]]
+[[Strudel Bars UK5| Strudel Bars]]

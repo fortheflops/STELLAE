@@ -31,6 +31,7 @@ title: Bread
 [[Banana Bread (3 Bowl Method) UK15| Banana Bread (3 Bowl Method)]]
 [[Banana Bread (Large Unit) UK15| Banana Bread (Large Unit)]]
 ## Pumpkin Bread
+[[AP Pumpkin Bread UK5| AP Pumpkin Bread]]
 [[Classic Pumpkin Nut Bread UK15| Classic Pumpkin Nut Bread]]
 [[Pumpkin Bread (Large Batch) UK15| Pumpkin Bread (Large Batch)]]
 [[Pumpkin Bread (Small Batch) UK15| Pumpkin Bread (Small Batch)]]

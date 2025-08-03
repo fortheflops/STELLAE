@@ -22,7 +22,7 @@ ___
 |2 lb.|[[Grated Cheese (Monterey Jack)]]|
 |1 pt.|[[Sour Cream (for topping)]]|
 ___
-### Instructions
+## Instructions
 1.  Sauté onions and garlic in a quart of fat until clear.
 2.  Add tomatoes, salt, and pepper. Simmer until tomatoes are cooked.
 3.  Add peppers that have been cut into strips.

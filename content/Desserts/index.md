@@ -27,6 +27,9 @@ title: Desserts
 [[Aunt Liz Peach Cobbler GC| Aunt Liz Peach Cobbler]]
 [[Cobbler (Dump Cake) UK15| Cobbler (Dump Cake)]]
 [[Fruit Cobbler UK3| Fruit Cobbler]]
+[[Pennsylvania Dutch Apple Cobbler UK5| Pennsylvania Dutch Apple Cobbler]]
+### Crust
+[[Cobbler Crust UK5| Cobbler Crust]]
 ## [[Desserts/Confections/index| Confections]]
 
 ## [[Desserts/Cookies/index| Cookies]]

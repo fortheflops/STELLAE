@@ -37,6 +37,6 @@ ___
 8. Cover very tightly & bake 1½ hours - until tender.
 9. To serve, place ribs on platter & pour sauce over them.
 ___
-![[content/Entrees/Meat/Short Ribs/Assets/Handwritten_2025-02-14_114619.webp]]
+![[content/Entrees/Meat/Beef/Short Ribs/Assets/Handwritten_2025-02-14_114619.webp]]
 
 ![[Handwritten_2025-02-14_114702 (2).webp]]

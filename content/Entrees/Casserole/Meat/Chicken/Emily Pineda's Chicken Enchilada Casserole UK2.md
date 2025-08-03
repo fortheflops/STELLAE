@@ -21,7 +21,7 @@ ___
 |                   | Cooked [[Chicken]]                        |
 | 1 ½ Cups          | [[Chicken Broth]]                        |
 ___
-### Instructions
+## Instructions
 1. Combine Chicken, Green Chile, Onions & Cheese.
 2. Heat Broth & Soup, mix well & add to Chicken mixture. Blend.
 3. Cut Tortillas in quarters, dip in hot fat & drain.
