@@ -35,6 +35,6 @@ ___
 9. Sprinkle with cinnamon.
 10. Bake for 45 minutes.
 ___
-![[content/Desserts/Pastries/Pie/Assets/Handwritten_2025-01-19_122151.webp]]
+![[public/Desserts/Pie/Assets/Handwritten_2025-01-19_122151.webp]]
 
 ![[Handwritten_2025-01-19_122616 (2).webp]]

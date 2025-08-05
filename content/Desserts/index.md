@@ -70,15 +70,18 @@ title: Desserts
 
 ## Icing
 [[Brown Sugar Icing UK2| Brown Sugar Icing]]
+[[Chocolate Cream Cheese Icing JC| Chocolate Cream Cheese Icing]]
 [[Chocolate Icing UK2| Chocolate Icing]]
 [[Coconut Boiled White Icing UK3| Coconut Boiled White Icing]]
 [[Lemon Cake Icing UK2| Lemon Cake Icing]]
+[[Lemon, Orange, or Chocolate Cream Icing JC| Lemon, Orange, or Chocolate Cream Icing]]
 ## Jubilee
 [[Cherries Flambé UK2| Cherries Flambé]]
 ## Lemon Delight
 [[Lemon Delight UK3| Lemon Delight]]
 ## Meringues
 [[Classic Meringues UK3| Meringue]]
+[[Easy Meringues JC| Easy Meringues]]
 [[Meringues GC| Meringues]]
 [[No Weep Meringues UK2| No Weep Meringues]]
 ## Mousse

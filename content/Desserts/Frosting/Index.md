@@ -1,6 +1,7 @@
 ---
 title: Frosting
 ---
+[[Chocolate Fluff Frosting JC| Chocolate Fluff Frosting]]
 [[Chocolate Frosting UK3| Chocolate Frosting]]
 [[Coconut Frosting GC| Coconut Frosting]]
 [[Cream Cheese Frosting UK2| Cream Cheese Frosting]]
