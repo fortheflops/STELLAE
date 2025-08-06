@@ -4,11 +4,13 @@ title: Meat
 ## Beef
 [[Barbecued Beef Skewers LOC| Barbecued Beef Skewers]]
 [[Braised Meat (Churcheo) GC| Braised Meat (Churcheo)]]
+[[Cabbage Rolls JC| Cabbage Rolls]]
 [[Chili Meat Balls UK15| Chili Meat Balls]]
 [[Curried Beef or Lamb LOC| Curried Beef or Lamb]]
 [[Korean Beef GC| Korean Beef]]
 [[Korean Green Beans & Beef UK2| Korean Green Beans & Beef]]
 [[Meat Cakes in Sour Cream UK2| Meat Cakes in Sour Cream]]
+[[Stuffed Green or Red Peppers JC| Stuffed Green or Red Peppers]]
 [[Swedish Beef Rolls UK3| Swedish Beef Rolls]]
 [[Tex's Argentinean Beef Sauté LOC| Tex's Argentinean Beef Sauté]]
 [[Ukrainian Beef UK2| Ukrainian Beef]]

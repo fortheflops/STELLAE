@@ -49,6 +49,7 @@ title: Bread
 # Quick Bread
 [[Guacamole Quick Bread UK15| Guacamole Quick Bread]]
 [[Irish Soda Bread UK15| Irish Soda Bread]]
+[[Poppy Seed Bread JC| Poppy Seed Bread]]
 # Squaw Bread
 [[Squaw Bread UK2| Squaw Bread]]
 # Toast

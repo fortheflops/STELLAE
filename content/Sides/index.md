@@ -11,6 +11,7 @@ title: Sides
 [[Noodles Romanoff PC| Noodles Romanoff]]
 ## Pudding
 [[Noodle Pudding a la Martha JC| Noodle Pudding a la Martha]]
+[[Noodle Pudding JC| Noodle Pudding]]
 # Rice
 [[Real Rice GC| Real Rice]]
 [[Simple Spanish Rice LOC| Simple Spanish Rice]]
