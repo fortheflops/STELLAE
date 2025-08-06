@@ -3,7 +3,7 @@ title: Appetizers
 ---
 # Cheese
 [[Cheese Log UK3| Cheese Log]]
-[[Hot Cheese Canapes| Hot Cheese Canapes]]
+[[Hot Cheese Canapes GC|Hot Cheese Canapes GC]]
 ### Fondue
 [[Beer Rarebit Fondue GC| Beer Rarebit Fondue]]
 # Dip
