@@ -4,6 +4,7 @@ draft: false
 tags:
   - UnknownThree
 Description: A classic party appetizer! This savory cheese log blends four cheeses and is rolled in crunchy pecans.
+Date: 2025-08-05
 ---
 ## Author
 Unknown
