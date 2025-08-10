@@ -5,6 +5,7 @@ title: Frosting
 [[Chocolate Frosting UK3| Chocolate Frosting]]
 [[Coconut Frosting GC| Coconut Frosting]]
 [[Cream Cheese Frosting UK2| Cream Cheese Frosting]]
+[[Decorator's Frosting JC| Decorator's Frosting]]
 [[Frosting for Spice Cake GC| Frosting for Spice Cake]]
 [[Frosting UK2| Frosting]]
 [[Gail's Graham Cracker Frosting GC| Gail's Graham Cracker Frosting]]

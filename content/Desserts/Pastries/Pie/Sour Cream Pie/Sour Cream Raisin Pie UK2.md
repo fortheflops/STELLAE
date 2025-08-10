@@ -36,4 +36,4 @@ ___
     * Bake in a preheated oven at 350°F (175°C) for 12-15 minutes, or until the meringue is golden brown.
 8. Let cool before serving.
 ___
-![[content/Desserts/Pastries/Pie/Assets/Handwritten_2025-01-29_101338.webp]]
+![[Handwritten_2025-01-29_101338.webp]]

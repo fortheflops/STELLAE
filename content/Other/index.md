@@ -21,10 +21,14 @@ title: Other
 [[10 Day Liver Flush GC| 10 Day Liver Flush]]
 [[Potato and Mushroom Charlotte PC| Potato and Mushroom Charlotte]]
 # Pickles
-[[Bread and Butter Pickles UK2| Bread and Butter Pickles]]
 [[Peach Pickles UK2| Peach Pickles]]
 [[Pickled Okra UK3| Pickled Okra]]
 [[Watermelon Rind Pickles GC| Watermelon Rind Pickles]]
+## Beets
+[[Pickled Beets JC| Pickled Beets]]
+## Cucumbers
+[[Bread and Butter Pickles UK2| Bread and Butter Pickles]]
+[[Refrigerator Pickles JC| Refrigerator Pickles]]
 ## Pears
 [[Pickled Pears GC| Pickled Pears]]
 ## Tomatoes

@@ -31,6 +31,7 @@ title: Soups
 ### Chili
 [[Boiled Meat Chili UK5| Boiled Meat Chili]]
 [[Chile con Carne UK15| Chile con Carne]]
+[[Classic Chili Con Carne JC| Classic Chili Con Carne]]
 [[Fried Meat Chili UK5| Fried Meat Chili]]
 [[Jailhouse Chili UK15| Jailhouse Chili]]
 [[Misty Chili with Beans UK15| Misty Chili with Beans]]
@@ -50,6 +51,7 @@ title: Soups
 [[Mushroom Soup PC| Mushroom Soup]]
 [[Green Bean Soup PC| Green Bean Soup]]
 [[Nine Bean Soup UK5| Nine Bean Soup]]
+[[Squash Soup JC| Squash Soup]]
 [[Vegetable Soup GC| Vegetable Soup]]
 ## Gumbo
 [[Shrimp Gumbo UK3| Shrimp Gumbo]]

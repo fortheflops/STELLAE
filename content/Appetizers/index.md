@@ -11,6 +11,8 @@ title: Appetizers
 [[Guacamole Dip UK15| Guacamole Dip]]
 # Lumpia
 [[Lumpia UK5| Lumpia]]
+# Meat
+[[Sausage Balls JC| Sausage Balls]]
 # Party Food
 [[Cheese Ball LOC| Cheese Ball]]
 [[Cheese Ball PC| Cheese Ball]]

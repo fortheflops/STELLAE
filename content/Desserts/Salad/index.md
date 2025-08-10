@@ -51,5 +51,6 @@ title: Salad
 # Pudding Salad
 [[Caramel Apple Salad UK3| Caramel Apple Salad]]
 # Watergate Salad
-[[May's Watergate Salad UK15| May's Watergate Salad]]
+[[Mae's Watergate Salad UK15| Mae's Watergate Salad]]
+[[Watergate Dessert JC| Watergate Dessert]]
 [[Watergate Salad UK2| Watergate Salad]]

@@ -9,14 +9,18 @@ title: Cake
 [[Snooks Bacardi Rum Cake GC| Snooks Bacardi Rum Cake]]
 ## Angel Food Cake
 [[Mock Angel Food Cake UK2| Mock Angel Food Cake]]
+[[Yellow Angel Food Cake JC| Yellow Angel Food Cake]]
 ## Better than Anything Cake
 [[Better Than Anything Cake UK15| Better Than Anything Cake]]
+## Butter Cake
+[[Delicious Butter (White) Cake JC| Delicious Butter (White) Cake JC]]
 ## Buttermilk Cake
 [[Buttermilk Cake UK2| Buttermilk Cake]]
 ## Chocolate Cake
 [[Chase's 15th Birthday Cake UK5| Chase's 15th Birthday Cake]]
 [[Chocolate Cake (with Banana and Whipped Cream Filling) GC| Chocolate Cake (with Banana and Whipped Cream Filling)]]
 [[Chocolate Cake UK3| Chocolate Cake]]
+[[Delicious Chocolate Cake JC| Delicious Chocolate Cake]]
 [[Orie's Wesson Oil Chocolate Cake UK2| Orie's Wesson Oil Chocolate Cake]]
 [[Softsilk Chocolate Pearl Cake UK15| Softsilk Chocolate Pearl Cake]]
 [[Turtle Cake UK15| Turtle Cake]]
@@ -43,7 +47,10 @@ title: Cake
 ## Cupcake
 [[Chocolate Cake Mix Cupcakes (with Cream Cheese Filling) GC| Chocolate Cake Mix Cupcakes (with Cream Cheese Filling)]]
 [[Chocolate Cupcakes GC| Chocolate Cupcakes]]
+[[Orange Cupcakes JC| Orange Cupcakes]]
 [[Prune Nut Cupcakes GC| Prune Nut Cupcakes]]
+### Custard
+[[Custard Cake Cups JC| Custard Cake Cups]]
 ## Dirt Cake
 [[Dirt Cake LOC| Dirt Cake]]
 ## Eggless Cake
@@ -82,6 +89,7 @@ title: Cake
 ### Lemon Cake
 [[Lemon Cake UK3| Lemon Cake]]
 [[Lemon Cake with Pudding Mix GC| Lemon Cake with Pudding Mix GC]]
+[[Lemon Poppy Seed Cake JC| Lemon Poppy Seed Cake]]
 [[Lemon Supreme Special Cake UK3| Lemon Supreme Special Cake]]
 [[Poppy Seed Cake GC| Poppy Seed Cake]]
 [[Spry Lemon Cake UK2| Spry Lemon Cake]]
@@ -91,6 +99,7 @@ title: Cake
 [[Persimmon Cake GC| Persimmon Cake]]
 ### Pineapple
 [[Pineapple Cake UK2| Pineapple Cake]]
+[[Pineapple Upside-Down Cake JC| Pineapple Upside-Down Cake]]
 [[Quick Pineapple Cake UK2| Quick Pineapple Cake]]
 ### Plum
 [[German Plum Cake (Pflaumenkuchen) GC| German Plum Cake (Pflaumenkuchen)]]
@@ -109,6 +118,10 @@ title: Cake
 [[Jello Pan Cake UK3| Jello Pan Cake]]
 ## Layer Cake
 [[Yankee Layer Cake UK2| Yankee Layer Cake]]
+## Madeleines
+[[Chocolate Dipped Peanut Butter Madeleines JC| Chocolate Dipped Peanut Butter Madeleines]]
+## Marble Cake
+[[Mom's Marble Cake JC| Mom's Marble Cake]]
 ## Molasses Cake
 [[Shoo-Fly Cake LOC| Shoo-Fly Cake]]
 ## Mouse Cake
@@ -137,6 +150,7 @@ title: Cake
 ## Sheet Cake
 [[Chocolate Sheath Cake UK2| Chocolate Sheath Cake]]
 [[Cinnamon Toast Cake UK15| Cinnamon Toast Cake]]
+[[Texas Sheet Cake JC| Texas Sheet Cake]]
 ## Shortcake
 [[Individual Shortcakes & Pastry UK2| Individual Shortcakes & Pastry]]
 [[Strawberry Shortcake PC| Strawberry Shortcake]]

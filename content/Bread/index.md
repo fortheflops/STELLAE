@@ -4,13 +4,15 @@ title: Bread
 # Batter Bread
 [[Blinchiki UK2| Blinchiki]]
 [[Cardamon Delight (Pancakes) GC| Cardamon Delight (Pancakes)]]
-[[Cheese Blintzes 2 UK2| Cheese Blintzes]]
 [[Cheese Blintzes UK2| Cheese Blintzes]]
+[[Classic Cheese Blintzes UK2| Classic Cheese Blintzes]]
 [[German Pancakes UK2| German Pancakes]]
 [[Gunner's Hot Cakes GC| Gunner's Hot Cakes]]
 [[Idaho Potato Pancakes UK2| Idaho Potato Pancakes]]
 [[Johnny Cakes UK2| Johnny Cakes]]
+[[Mom's Cheese Blintzes JC| Mom's Cheese Blintzes]]
 [[Potato Pancakes UK2| Potato Pancakes]]
+[[Trudy's Potato Pancakes LOC| Trudy's Potato Pancakes]]
 ## Crepes
 [[Dessert Crepes GC| Dessert Crepes]]
 # Corn Bread
@@ -49,6 +51,7 @@ title: Bread
 # Quick Bread
 [[Guacamole Quick Bread UK15| Guacamole Quick Bread]]
 [[Irish Soda Bread UK15| Irish Soda Bread]]
+[[Muldoves JC| Muldoves]]
 [[Poppy Seed Bread JC| Poppy Seed Bread]]
 # Squaw Bread
 [[Squaw Bread UK2| Squaw Bread]]

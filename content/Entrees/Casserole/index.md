@@ -3,7 +3,7 @@ title: Casserole
 ---
 ## Egg
 [[24 Hour Omelette JC| 24 Hour Omelette]]
-[[Easy Cheese Soufflé JC| Easy Cheese Soufflé]]
+[[Cheese Strata JC| Cheese Strata]]
 ## Meat
 ### Beef
 [[Cheesy Creamy Mexican Casserole UK3| Cheesy Creamy Mexican Casserole]]
@@ -20,7 +20,9 @@ title: Casserole
 [[Mexican Casserole UK3| Mexican Casserole]]
 [[More Casserole UK15|More Casserole]]
 [[Pizza Hot Dish UK15| Pizza Hot Dish]]
+[[Slow-Cooked Taco Casserole JC| Slow-Cooked Taco Casserole]]
 [[South of Border Casserole GC| South of Border Casserole]]
+[[Veal Casserole JC| Veal Casserole]]
 ### Chicken
 [[Chicken and Stuffing Casserole UK3| Chicken and Stuffing Casserole]]
 [[Chicken Casserole UK3| Chicken Casserole]]
@@ -44,6 +46,7 @@ title: Casserole
 [[Asparagus Casserole UK3| Asparagus Casserole]]
 [[Broccoli Casserole UK2| Broccoli Casserole]]
 [[Broccoli-Corn Casserole JC| Broccoli-Corn Casserole]]
+[[Cauliflower Casserole JC| Cauliflower Casserole]]
 [[Chili Rellenos Casserole UK15| Chili Rellenos Casserole]]
 [[Corn Casserole UK15| Corn Casserole]]
 [[Eggplant Delight UK2| Eggplant Delight]]

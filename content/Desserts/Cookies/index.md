@@ -20,6 +20,7 @@ title: Cookies
 [[Danish Cookies GC| Danish Cookies]]
 [[Janet's Bizcochitos UK15| Janet's Bizcochitos]]
 [[Old Fashioned Butter Cookies PC| Old Fashioned Butter Cookies]]
+[[Plain Butter and Cream Cheese Cookies JC| Plain Butter and Cream Cheese Cookies]]
 ### Chocolate
 [[Chocolate Cookies UK2| Chocolate Cookies]]
 [[Chocolate Crinkles UK2| Chocolate Crinkles]]
@@ -67,7 +68,10 @@ title: Cookies
 [[Refrigerator Cookies UK3| Refrigerator Cookies]]
 ### Shortbread
 [[Melt Away Cookies UK3| Melt Away Cookies]]
+[[Mexican Wedding Cakes JC| Mexican Wedding Cakes]]
 [[Shortbread UK3| Shortbread]]
+### Sour Cream Cookies
+[[Sour Cream Cookies JC| Sour Cream Cookies]]
 ### Spice Cookies
 [[Holly Hermits UK2| Holly Hermits]]
 ### Sugar Cookies
@@ -77,6 +81,7 @@ title: Cookies
 [[Grandma Hill's Sugar Cookies UK5| Grandma Hill's Sugar Cookies]]
 [[Lemon Sugar Cookies LOC| Lemon Sugar Cookies]]
 [[Mary's Sugar Cookies UK15| Mary's Sugar Cookies]]
+[[Spice Sugar Cookies JC| Spice Sugar Cookies]]
 [[Sugar Cookies UK3| Sugar Cookies]]
 ### Thumbprint Cookies
 [[Thumb Print Cookies UK3| Thumb Print Cookies]]

@@ -10,6 +10,7 @@ title: Meat
 [[Korean Beef GC| Korean Beef]]
 [[Korean Green Beans & Beef UK2| Korean Green Beans & Beef]]
 [[Meat Cakes in Sour Cream UK2| Meat Cakes in Sour Cream]]
+[[Pot Roast JC| Pot Roast]]
 [[Stuffed Green or Red Peppers JC| Stuffed Green or Red Peppers]]
 [[Swedish Beef Rolls UK3| Swedish Beef Rolls]]
 [[Tex's Argentinean Beef Sauté LOC| Tex's Argentinean Beef Sauté]]
@@ -20,6 +21,8 @@ title: Meat
 [[3-Day Brisket UK3| 3-Day Brisket]]
 [[Boned Rolled Beef Brisket JC| Boned Rolled Beef Brisket]]
 [[Brisket UK3| Brisket]]
+[[Passover Brisket JC| Passover Brisket]]
+[[Simple Brisket JC| Simple Brisket]]
 ### Sandwich
 #### Hamburgers
 [[Hamburger in Silver GC| Hamburger in Silver]]
@@ -42,11 +45,15 @@ title: Meat
 [[Oven Swiss Steak UK5| Oven Swiss Steak]]
 ### Sirloin
 [[Sirloin Tip Roast JC| Sirloin Tip Roast]]
+## Tongue
+[[Pressure Cooker Tongue JC| Pressure Cooker Tongue]]
 ## Chicken
 [[Artichokes & Chicken a la Cream GC| Artichokes & Chicken a la Cream]]
+[[Cathy's Chicken Parmigiana JC| Cathy's Chicken Parmigiana]]
 [[Chicken & Crescents UK3| Chicken & Crescents]]
 [[Chicken & Dumpling GC| Chicken & Dumpling]]
 [[Chicken Diablo UK3| Chicken Diablo]]
+[[Chicken Parmigiana JC| Chicken Parmigiana]]
 [[Chilled Orange Chicken on Romaine LOC| Chilled Orange Chicken on Romaine]]
 [[Coq in Burgundy UK2| Coq in Burgundy]]
 [[Country Style Chicken Kiev UK3| Country Style Chicken Kiev]]
@@ -65,6 +72,7 @@ title: Meat
 [[Lena's 3 Cheese Chicken Bake UK2| Lena's 3 Cheese Chicken Bake]]
 [[Marinated Baked Chicken GC| Marinated Baked Chicken]]
 [[Miriam's Baked Chicken GC| Miriam's Baked Chicken]]
+[[Sunday Chicken JC| Sunday Chicken]]
 ### Cornish Game Hens
 [[Cornish Game Hens GC| Cornish Game Hens]]
 ### Enchiladas
@@ -92,12 +100,14 @@ title: Meat
 ## Patties
 [[Russian Meat Patties UK2| Russian Meat Patties]]
 ## Pie
+[[Chicken Enchilada Pie JC| Chicken Enchilada Pie]]
 [[Meat Pie LOC| Meat Pie]]
 [[Potato Meat Pie UK2| Potato Meat Pie]]
 [[Tamale Pie (small) GC| Tamale Pie (small)]]
 ## Pork
 ### Ham
 [[Ham Barbecue LOC| Ham Barbecue]]
+[[Hash JC| Hash]]
 [[Hormel Pre-baked Canned Ham JC| Hormel Pre-baked Canned Ham]]
 ### Pork Chops
 [[Barbequed Pork Chops LC | Barbequed Pork Chops]]

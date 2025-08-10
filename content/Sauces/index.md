@@ -13,6 +13,7 @@ title: Sauces
 [[Brandy Cream Sauce (or Batter) GC| Brandy Cream Sauce (or Batter)]]
 ### Cranberry Sauce
 [[Cranberry Orange Apple Sauce LOC| Cranberry Orange Apple Sauce]]
+[[Molded Strained Cranberry Sauce JC| Molded Strained Cranberry Sauce]]
 ## Cheese
 [[Sauce for Au Gratin Potatoes UK3| Sauce for Au Gratin Potatoes]]
 ## Chile Con Queso
@@ -53,10 +54,13 @@ title: Sauces
 [[Salad Dressing LOC| Salad Dressing]]
 [[Superb French Dressing GC| Superb French Dressing]]
 [[Trudy's Sauce For Fruit Salad On Lettuce LOC]]
+### French Dressing
+[[Aunt Jean's French Dressing JC| Aunt Jean's French Dressing]]
 ### Turkey Dressing
 [[Turkey Dressing GC| Turkey Dressing]]
 ### Vinaigrette
 [[Italian Vinaigrette GC| Italian Vinaigrette]]
+[[Lill's Dressing JC| Lill's Dressing]]
 [[Raspberry Vinaigrette UK3| Raspberry Vinaigrette]]
 ## Cream Gravy
 [[Cream Gravy UK3| Cream Gravy]]

@@ -3,7 +3,6 @@ title: Cheese Blintzes
 draft: false
 tags:
   - UnknownTwo
-  - "#BatterBread"
 ---
 ## Author
 Unknown

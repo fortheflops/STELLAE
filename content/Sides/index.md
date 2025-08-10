@@ -10,8 +10,9 @@ title: Sides
 [[Basil with Noodles GC| Basil with Noodles]]
 [[Noodles Romanoff PC| Noodles Romanoff]]
 ## Pudding
+[[Aunt Jean's Noodle Pudding JC| Aunt Jean's Noodle Pudding]]
 [[Noodle Pudding a la Martha JC| Noodle Pudding a la Martha]]
-[[Noodle Pudding JC| Noodle Pudding]]
+[[content/Sides/Noodles/Pudding/Noodle Pudding JC| Noodle Pudding]]
 # Rice
 [[Real Rice GC| Real Rice]]
 [[Simple Spanish Rice LOC| Simple Spanish Rice]]
@@ -60,6 +61,7 @@ title: Sides
 ## Potatoes
 [[Au Gratin Potatoes UK3| Au Gratin Potatoes]]
 [[Carol's Potatoes LOC| Carol's Potatoes]]
+[[Creamy Scalloped Potatoes JC| Creamy Scalloped Potatoes]]
 [[Delicious Potatoes GC| Delicious Potatoes]]
 [[Midge's  Scalloped Potatoes UK5| Midge's  Scalloped Potatoes]]
 [[Potatoes UK3| Potatoes]]

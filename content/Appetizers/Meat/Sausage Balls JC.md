@@ -1,0 +1,33 @@
+---
+title: Sausage Balls
+description: A classic and easy three-ingredient appetizer from Bobbie, made with Bisquick, pork sausage, and sharp cheddar cheese.
+draft: false
+tags:
+  - "#JillCollection"
+Date: 2025-08-09
+---
+## Author
+Bobbie
+___
+## Recipe
+| Measurements      | Ingredients                   |
+| :----------------- | :------------------------------------------------- |
+| 3 cups            | [[Bisquick]] baking mix         |
+| 1 pound           | Raw [[Pork Sausage]]              |
+| 10 ounces         | [[Sharp Cheddar Cheese]], shredded |
+___
+## Instructions
+1.  Preheat oven to 350°F.
+2.  In a large bowl, combine the Bisquick mix, raw pork sausage, and shredded cheddar cheese.
+3.  Using your hands, mix the ingredients together thoroughly until everything is well combined.
+4.  Roll the mixture into small, 1-inch balls.
+5.  Place the sausage balls on an ungreased baking sheet.
+6.  Bake for about 15 minutes, or until golden brown and cooked through.
+7.  Drain on paper towels before serving warm.
+___
+
+>[!Note]
+>For easier mixing, allow the sausage and cheese to come to room temperature before combining them with the baking mix.
+
+___
+![[Sausage Balls JC-1754788655420.webp]]

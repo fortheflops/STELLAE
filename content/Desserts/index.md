@@ -62,6 +62,8 @@ title: Desserts
 [[Pears In Honey Sauce LC | Pears in Honey Sauce]]
 [[Stewed Prunes GC| Stewed Prunes]]
 ## Gelatin
+[[Jello Mold JC| Jello Mold]]
+[[Knox Blocks JC| Knox Blocks]]
 [[Lime, Pear, Cherry Mold GC| Lime, Pear, Cherry Mold]]
 [[Orange-Apricot Gelatin Mold UK2| Orange-Apricot Gelatin Mold]]
 ## Glaze
@@ -99,10 +101,13 @@ title: Desserts
 [[Carmel Corn UK3| Carmel Corn]]
 ## Pudding
 [[Cherry Upside-Down Pudding UK2| Cherry Upside-Down Pudding]]
+[[Sweet Potato-Applesauce Pudding JC| Sweet Potato-Applesauce Pudding]]
 ### Bread Pudding
 [[Bread Pudding UK2| Bread Pudding]]
 ### Layered Pudding
 [[Linda Carruth's Chocolate Dessert UK15| Linda Carruth's Chocolate Dessert]]
+### Noodle Pudding
+[[Noodle Pudding JC|Noodle Pudding ]]
 ### Rice Pudding
 [[Old Fashioned Rice Pudding UK15| Old Fashioned Rice Pudding]]
 ### Steamed Pudding

@@ -2,6 +2,7 @@
 title: Bars
 ---
 [[Chocolate Coconut Bars UK2| Chocolate Coconut Bars]]
+[[Date Nut Bars JC| Date Nut Bars]]
 [[Deluxe Lemon Bars GC| Deluxe Lemon Bars]]
 [[Double Chocolate Crumble Bars UK2| Double Chocolate Crumble Bars]]
 [[Fudge Bars with Pecan Graham Crust UK15| Fudge Bars with Pecan Graham Crust]]
@@ -13,3 +14,4 @@ title: Bars
 [[Nut Squares UK2| Nut Squares]]
 [[Peanut Butter Fruit Squares GC| Peanut Butter Fruit Squares]]
 [[Strudel Bars UK5| Strudel Bars]]
+[[Toll House Squares JC| Toll House Squares]]
