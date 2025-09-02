@@ -1,9 +1,11 @@
 ---
-title: Pennsylvania Dutch Apple Cobbler
-draft: false
+title: "Pennsylvania Dutch Apple Cobbler"
 description: "This traditional Pennsylvania Dutch apple cobbler features three delicious layers: a base of tender baked apples, a moist cake-like batter made with sour cream, and a crunchy brown sugar and cinnamon crumble on top. It's a comforting dessert best served warm."
+image: "Pennsylvania Dutch Apple Cobbler UK5-1754011051193.webp"
 tags:
-  - "#UnknownFive"
+  - UnknownFive
+date: 09/02/2025
+draft: false
 ---
 ## Author
 J. Town
