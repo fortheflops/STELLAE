@@ -97,8 +97,7 @@ export default (() => {
             return resource
           }
         })}
-        })}
-        {/* The code below is what you should add */}
+        {/* This is the code that looks for 'recipe' in your frontmatter */}
         {fileData.frontmatter.recipe && (
           <script
             type="application/ld+json"
