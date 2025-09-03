@@ -97,6 +97,16 @@ export default (() => {
             return resource
           }
         })}
+        })}
+        {/* The code below is what you should add */}
+        {fileData.frontmatter.recipe && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(fileData.frontmatter.recipe),
+            }}
+          />
+        )}
       </head>
     )
   }
