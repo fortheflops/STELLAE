@@ -79,8 +79,8 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
-      Plugin.TagPage(),
+      Plugin.FolderPage({ sort: byDateAndAlphabetical }),
+      Plugin.TagPage({ sort: byDateAndAlphabetical }),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
@@ -89,7 +89,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },

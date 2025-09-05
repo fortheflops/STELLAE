@@ -59,8 +59,8 @@ recipe:
       "text": "Serve: Serve warm with the optional Cream Cheese Topping."
 ---
 *This traditional Pennsylvania Dutch apple cobbler features three delicious layers: a base of tender baked apples, a moist cake-like batter made with sour cream, and a crunchy brown sugar and cinnamon crumble on top. It's a comforting dessert best served warm.*
-
-**Author:** J. Town
+### Author
+J. Town
 ___
 ## Recipe
 | Measurements                                 | Ingredients           |
