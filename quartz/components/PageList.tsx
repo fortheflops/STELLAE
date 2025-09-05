@@ -51,6 +51,11 @@ export function byDateAndAlphabeticalFolderFirst(cfg: GlobalConfiguration): Sort
     return f1Title.localeCompare(f2Title)
   }
 }
+export function byAlphabetical(f1: QuartzPluginData, f2: QuartzPluginData): number {
+  const f1Title = f1.frontmatter?.title.toLowerCase() ?? ""
+  const f2Title = f2.frontmatter?.title.toLowerCase() ?? ""
+  return f1Title.localeCompare(f2Title)
+}
 
 type Props = {
   limit?: number
