@@ -1,0 +1,28 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - recipe.isEmpty()
+        - file.folder.contains("Appetizer")
+        - "!title.isEmpty()"
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: View
+    filters:
+      and:
+        - "!title.isEmpty()"
+        - recipe.isEmpty()
+    order:
+      - file.name
+      - tags
+      - file.basename
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.name: 358

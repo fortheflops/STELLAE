@@ -1,5 +1,5 @@
 ---
-title: " Lemon Sour Cream Pound Cake"
+title: Lemon Sour Cream Pound Cake
 draft: false
 tags:
   - "#UnknownFifteen"
