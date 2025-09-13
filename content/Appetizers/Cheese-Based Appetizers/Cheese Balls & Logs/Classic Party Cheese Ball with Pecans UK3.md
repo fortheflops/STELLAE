@@ -12,8 +12,11 @@ recipe:
   author:
     "@type": Person
     name: Unknown
-  datePublished: 2025-09-05
+  datePublished: "2025-09-05"
   description: "A savory blend of three cheeses with pecans mixed in and used as a coating with fresh parsley."
+  image:
+    - "https://content/Appetizers/Cheese-Based Appetizers/Cheese Balls & Logs/Assets/Handwritten_2025-03-12_100254.webp"
+    - "https://content/Appetizers/Cheese-Based Appetizers/Cheese Balls & Logs/Assets/Handwritten_2025-03-12_100431 (2).webp"
   prepTime: PT20M
   cookTime: PT0M
   totalTime: PT8H20M

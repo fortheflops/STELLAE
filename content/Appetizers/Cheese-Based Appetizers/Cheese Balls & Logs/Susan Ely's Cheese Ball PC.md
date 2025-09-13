@@ -13,8 +13,10 @@ recipe:
   author:
     "@type": Person
     name: Susan Ely
-  datePublished: 2025-09-05
+  datePublished: "2025-09-05"
   description: "A zesty cheese ball with cream cheese, blue cheese, and cheddar spread, seasoned with garlic and cayenne."
+  image:
+    - "content/Appetizers/Cheese-Based Appetizers/Cheese Balls & Logs/Assets/Handwritten_2025-01-05_151344.webp"
   prepTime: PT15M
   cookTime: PT0M
   totalTime: PT1H15M
@@ -51,7 +53,7 @@ ___
 | Measurements         | Ingredients             |
 | :------------------- | :------------------------------------------------- |
 | **For the Cheese Ball:** | |
-| 8 oz                 | [[Cream Cheese]], softened     |
+| 8 oz                 | [[Cream Cheese]], softened     |
 | 4 oz                 | [[Blue cheese]], crumbled |
 | 5 oz tube             | Processed Cheddar or Jalapeño [[Cheese]] Spread     |
 | ½ tbsp              | [[Onion Juice]]         |
@@ -61,11 +63,11 @@ ___
 | As Needed | Chopped Nuts, Parsley, Paprika, or extra Cayenne |
 ___
 ## Instructions
-1.  In the bowl of a mixer, combine the softened cream cheese, crumbled blue cheese, processed cheese spread, onion juice, minced garlic, and cayenne pepper.
-2.  Blend on medium speed until all ingredients are well combined and the mixture is smooth.
-3.  Cover the bowl and refrigerate for at least one hour, or until the mixture is firm enough to handle.
-4.  Once chilled, divide the mixture as desired and form into one or more balls.
-5.  If using a coating, spread it on a plate and gently roll the cheese ball(s) until evenly coated.
-6.  Wrap the finished cheese ball(s) in wax paper or plastic wrap and store in the refrigerator until ready to serve.
+1.  In the bowl of a mixer, combine the softened cream cheese, crumbled blue cheese, processed cheese spread, onion juice, minced garlic, and cayenne pepper.
+2.  Blend on medium speed until all ingredients are well combined and the mixture is smooth.
+3.  Cover the bowl and refrigerate for at least one hour, or until the mixture is firm enough to handle.
+4.  Once chilled, divide the mixture as desired and form into one or more balls.
+5.  If using a coating, spread it on a plate and gently roll the cheese ball(s) until evenly coated.
+6.  Wrap the finished cheese ball(s) in wax paper or plastic wrap and store in the refrigerator until ready to serve.
 ___
 ![[Handwritten_2025-01-05_151344.webp|704]]

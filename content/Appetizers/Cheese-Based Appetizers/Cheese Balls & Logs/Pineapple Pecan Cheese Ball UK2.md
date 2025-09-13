@@ -13,8 +13,10 @@ recipe:
   author:
     "@type": Person
     name: Unknown
-  datePublished: 2025-09-05
+  datePublished: "2025-09-05"
   description: "A sweet and savory cheese ball with cream cheese, crushed pineapple, and a pecan coating."
+  image:
+    - "content/Appetizers/Cheese-Based Appetizers/Cheese Balls & Logs/Assets/Handwritten_2025-02-13_112802.webp"
   prepTime: PT15M
   cookTime: PT0M
   totalTime: PT8H15M
@@ -59,11 +61,11 @@ ___
 | 1 cup | Chopped [[Pecans]] |
 ___
 ## Instructions
-1.  In a medium bowl, combine the softened cream cheese, well-drained crushed pineapple, finely chopped green bell pepper, finely chopped onion, and Lawry's Seasoned Salt.
-2.  Mix with a spatula or an electric mixer until all ingredients are thoroughly combined.
-3.  Cover the bowl with plastic wrap and refrigerate overnight to allow the flavors to meld and the mixture to firm up.
-4.  The next day, shape the chilled mixture into a ball.
-5.  Spread the chopped pecans on a plate or a sheet of wax paper and roll the cheese ball in the nuts until it is completely coated.
-6.  Wrap and refrigerate again until you are ready to serve.
+1.  In a medium bowl, combine the softened cream cheese, well-drained crushed pineapple, finely chopped green bell pepper, finely chopped onion, and Lawry's Seasoned Salt.
+2.  Mix with a spatula or an electric mixer until all ingredients are thoroughly combined.
+3.  Cover the bowl with plastic wrap and refrigerate overnight to allow the flavors to meld and the mixture to firm up.
+4.  The next day, shape the chilled mixture into a ball.
+5.  Spread the chopped pecans on a plate or a sheet of wax paper and roll the cheese ball in the nuts until it is completely coated.
+6.  Wrap and refrigerate again until you are ready to serve.
 ___
 ![[Handwritten_2025-02-13_112802.webp]]

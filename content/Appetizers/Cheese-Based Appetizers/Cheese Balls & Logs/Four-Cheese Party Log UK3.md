@@ -12,8 +12,11 @@ recipe:
   author:
     "@type": Person
     name: Unknown
-  datePublished: 2025-08-05
+  datePublished: "2025-08-05"
   description: "A rich and savory cheese log made with a blend of cream cheese, cheddar, Velveeta, and sharp cheese, coated in chopped pecans."
+  image:
+    - "content/Appetizers/Cheese-Based Appetizers/Cheese Balls & Logs/Assets/Handwritten_2025-03-12_095456.webp"
+    - "content/Appetizers/Cheese-Based Appetizers/Cheese Balls & Logs/Assets/Handwritten_2025-03-12_095550 (2).webp"
   prepTime: PT15M
   cookTime: PT0M
   totalTime: PT8H15M
@@ -50,23 +53,23 @@ ___
 | Measurements | Ingredients               |
 | :----------- | :------------------------------------------------- |
 | **For the Cheese Logs:** | |
-| 8 Ounce      | [[Cream Cheese]], softened                  |
-| 8 Ounce      | [[Cheddar Cheese]], shredded               |
+| 8 Ounce      | [[Cream Cheese]], softened                  |
+| 8 Ounce      | [[Cheddar Cheese]], shredded               |
 | 8 Ounce      | [[Velveeta Cheese]], softened             |
-| 8 Ounce      | Sharp [[Cheddar Cheese]], shredded           |
+| 8 Ounce      | Sharp [[Cheddar Cheese]], shredded           |
 | 1 Small      | [[Onion]], grated                |
 | 1-3 tsp      | [[Worcestershire Sauce]]              |
 | **For the Coating:** | |
 | 1/2 cup      | [[Pecans]], chopped             |
 ___
 ## Instructions
-1.  In a large bowl, combine the softened cream cheese, shredded cheddar cheese, softened Velveeta, and shredded sharp cheese.
-2.  Add the grated onion and Worcestershire sauce to the cheeses.
-3.  Using an electric mixer, beat the ingredients together on low then medium speed until the mixture is completely smooth and well-blended.
-4.  Divide the cheese mixture in half. On a sheet of wax paper, shape each half into a log.
-5.  Spread the chopped pecans on a separate sheet of wax paper or a plate and roll each log in the pecans until evenly coated.
-6.  Wrap each log tightly in wax paper or plastic wrap and chill for at least 8 hours, or overnight, until firm.
-7.  To serve, unwrap, slice, and serve with crackers.
+1.  In a large bowl, combine the softened cream cheese, shredded cheddar cheese, softened Velveeta, and shredded sharp cheese.
+2.  Add the grated onion and Worcestershire sauce to the cheeses.
+3.  Using an electric mixer, beat the ingredients together on low then medium speed until the mixture is completely smooth and well-blended.
+4.  Divide the cheese mixture in half. On a sheet of wax paper, shape each half into a log.
+5.  Spread the chopped pecans on a separate sheet of wax paper or a plate and roll each log in the pecans until evenly coated.
+6.  Wrap each log tightly in wax paper or plastic wrap and chill for at least 8 hours, or overnight, until firm.
+7.  To serve, unwrap, slice, and serve with crackers.
 ___
 
 >[!Note]
