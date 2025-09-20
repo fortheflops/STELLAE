@@ -4,7 +4,7 @@ views:
     filters:
       and:
         - recipe.isEmpty()
-        - file.folder.contains("Appetizer")
+        - file.folder.contains("Beverage")
         - "!title.isEmpty()"
     sort:
       - property: file.name
