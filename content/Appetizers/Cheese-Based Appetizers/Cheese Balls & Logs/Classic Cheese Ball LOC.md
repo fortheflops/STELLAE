@@ -14,8 +14,8 @@ recipe:
     name: Unknown
   datePublished: "2025-09-04"
   description: A savory blend of cream cheese, cheddar, and blue cheese, formed into a ball and coated with chopped pecans. A perfect party appetizer.
-  image:
-    - "content/Appetizers/Cheese-Based Appetizers/Cheese Balls & Logs/Assets/Receipt_2025-05-19_150620.webp"
+ image:
+    - "https://cucinamezzaluna.com/Appetizers/Cheese-Based-Appetizers/Cheese-Balls--and--Logs/Assets/Receipt_2025-05-19_150620.webp"
   prepTime: PT15M
   cookTime: PT0M
   totalTime: PT1H15M
