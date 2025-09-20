@@ -15,8 +15,8 @@ recipe:
   datePublished: "2025-09-05"
   description: "Fried crab cakes made with a creamy béchamel sauce binder, sautéed vegetables, and a crispy cracker meal coating."
   image:
-    - "content/Appetizers/Seafood Appetizers/Crab/Assets/Handwritten_2025-01-18_093026.webp"
-    - "content/Appetizers/Seafood Appetizers/Crab/Assets/Handwritten_2025-01-18_093132 (2).webp"
+    - "https://cucinamezzaluna.com/Appetizers/Seafood-Appetizers/Crab/Assets/Handwritten_2025-01-18_093026.webp"
+    - "https://cucinamezzaluna.com/Appetizers/Seafood-Appetizers/Crab/Assets/Handwritten_2025-01-18_093132%20(2).webp"
   prepTime: PT25M
   cookTime: PT15M
   totalTime: PT2H40M
@@ -59,26 +59,26 @@ recipe:
 Unknown
 ___
 ## Recipe
-| Measurements | Ingredients               |
+| Measurements | Ingredients                                        |
 | :----------- | :------------------------------------------------- |
-| **For the Thick Cream Sauce:** | |
-| 2 tbsp|[[Butter]]|
-| 2 tbsp|All-Purpose [[Flour]]|
-| 1 cup|[[Milk]]|
-| to taste|[[Salt]] & [[Pepper]]|
-| **For the Crab Cakes:** | |
-| 1 tbsp|[[Butter]]|
-| 1 medium|[[Onion]], finely chopped|
-| 1 small|[[Green Bell Pepper]], finely chopped|
-| 1 (6 oz) can|[[Crab Meat]], drained and flaked|
-| 1 tsp|[[Celery Flakes]]|
-| 1/2 tsp|[[Thyme]]|
-| 1 tsp|Minced [[Parsley]]|
-| 1/2 - 1 cup|[[Cracker Meal]] (for mixing)|
-| **For Coating & Frying:** | |
-| 1|[[Egg]], beaten|
-| Approx. 1 cup|[[Cracker Meal]] (for coating)|
-| As Needed|Fat or Oil, for frying|
+| **For the Thick Cream Sauce:** |                                                    |
+| 2 tbsp       | [[Butter]]                                         |
+| 2 tbsp       | All-Purpose [[Flour]]                              |
+| 1 cup        | [[Milk]]                                           |
+| to taste     | [[Salt]] & [[Pepper]]                              |
+| **For the Crab Cakes:** |                                                    |
+| 1 tbsp       | [[Butter]]                                         |
+| 1 medium     | [[Onion]], finely chopped                          |
+| 1 small      | [[Green Bell Pepper]], finely chopped              |
+| 1 (6 oz) can | [[Crab Meat]], drained and flaked                  |
+| 1 tsp        | [[Celery Flakes]]                                  |
+| 1/2 tsp      | [[Thyme]]                                          |
+| 1 tsp        | Minced [[Parsley]]                                 |
+| 1/2 - 1 cup  | [[Cracker Meal]] (for mixing)                      |
+| **For Coating & Frying:** |                                                    |
+| 1            | [[Egg]], beaten                                    |
+| Approx. 1 cup| [[Cracker Meal]] (for coating)                     |
+| As Needed    | Fat or Oil, for frying                             |
 ___
 ## Instructions
 1.  In a small saucepan, melt 2 tablespoons of butter over medium heat. Whisk in 2 tablespoons of flour and cook for one minute, stirring constantly. Gradually whisk in the milk until smooth. Bring to a simmer and cook, stirring, until the sauce becomes very thick, about 2-3 minutes. Season with a pinch of salt and pepper. Set aside.

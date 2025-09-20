@@ -15,8 +15,8 @@ recipe:
   datePublished: "2025-08-05"
   description: "A rich and savory cheese log made with a blend of cream cheese, cheddar, Velveeta, and sharp cheese, coated in chopped pecans."
   image:
-    - "content/Appetizers/Cheese-Based Appetizers/Cheese Balls & Logs/Assets/Handwritten_2025-03-12_095456.webp"
-    - "content/Appetizers/Cheese-Based Appetizers/Cheese Balls & Logs/Assets/Handwritten_2025-03-12_095550 (2).webp"
+    - "https://cucinamezzaluna.com/Appetizers/Cheese-Based-Appetizers/Cheese-Balls--and--Logs/Assets/Handwritten_2025-03-12_095456.webp"
+    - "https://cucinamezzaluna.com/Appetizers/Cheese-Based-Appetizers/Cheese-Balls--and--Logs/Assets/Handwritten_2025-03-12_095550%20(2).webp"
   prepTime: PT15M
   cookTime: PT0M
   totalTime: PT8H15M

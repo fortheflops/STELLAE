@@ -15,7 +15,7 @@ recipe:
   datePublished: "2025-09-05"
   description: "A simple and delicious cheese ball made with cream cheese, ranch dressing, and chives."
   image:
-    - "content/Appetizers/Cheese-Based Appetizers/Cheese Balls & Logs/Assets/Handwritten_2025-05-18_090353.webp"
+    - "https://cucinamezzaluna.com/Appetizers/Cheese-Based-Appetizers/Cheese-Balls--and--Logs/Assets/Handwritten_2025-05-18_090353.webp"
   prepTime: PT10M
   cookTime: PT0M
   totalTime: PT1H10M

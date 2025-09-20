@@ -15,8 +15,8 @@ recipe:
   datePublished: "2025-09-05"
   description: "A baked appetizer with layers of Bisquick crust, seasoned sausage, and a cheesy green chili topping."
   image:
-    - "content/Appetizers/Meat & Poultry Appetizers/Other Bites/Assets/Handwritten_2025-01-29_095913.webp"
-    - "content/Appetizers/Meat & Poultry Appetizers/Other Bites/Assets/Handwritten_2025-01-29_100128 (2).webp"
+    - "https://cucinamezzaluna.com/Appetizers/Meat--and--Poultry-Appetizers/Other-Bites/Assets/Handwritten_2025-01-29_095913.webp"
+    - "https://cucinamezzaluna.com/Appetizers/Meat--and--Poultry-Appetizers/Other-Bites/Assets/Handwritten_2025-01-29_100128%20(2).webp"
   prepTime: PT20M
   cookTime: PT30M
   totalTime: PT50M
@@ -53,31 +53,31 @@ recipe:
 Ruth Nowalk, from the kitchen of Ellena Coffman
 ___
 ## Recipe
-| Measurements | Ingredients               |
+| Measurements | Ingredients                                        |
 | :----------- | :------------------------------------------------- |
-| **For the Crust:** | |
-| 1 cup        | [[Bisquick]]              |
-| ⅓ cup        | [[Milk]]                  |
-| 2 tbsp        | [[Mayonnaise]]            |
-| **For the Filling:** | |
-| 1 lb.        | [[Sausage]]               |
-| ½ cup        | Chopped [[Onion]]         |
-| **For the Topping:** | |
-| 2 tbsp        | [[Mayonnaise]]            |
-| 1            | [[Egg]], beaten            |
-| 2 cups        | Grated [[Cheese]] (e.g., Cheddar, Monterey Jack)         |
-| 2 (4 oz) cans| Drained, Diced [[Green Chilies]]   |
+| **For the Crust:** |                                                    |
+| 1 cup        | [[Bisquick]]                                       |
+| ⅓ cup        | [[Milk]]                                           |
+| 2 tbsp       | [[Mayonnaise]]                                     |
+| **For the Filling:** |                                                    |
+| 1 lb.        | [[Sausage]]                                        |
+| ½ cup        | Chopped [[Onion]]                                  |
+| **For the Topping:** |                                                    |
+| 2 tbsp       | [[Mayonnaise]]                                     |
+| 1            | [[Egg]], beaten                                    |
+| 2 cups       | Grated [[Cheese]] (e.g., Cheddar, Monterey Jack)   |
+| 2 (4 oz) cans| Drained, Diced [[Green Chilies]]                   |
 ___
 ## Instructions
-1.  Preheat your oven to 375°F (190°C). Grease a 9x13 inch glass baking pan.
-2.  In a medium bowl, mix together the Bisquick, milk, and 2 tablespoons of the mayonnaise to form a soft dough. Press this evenly into the bottom of the prepared pan to form the crust.
-3.  In a skillet, cook the sausage and chopped onion over medium heat until the sausage is browned and the onion is soft. Drain off any excess grease.
-4.  Spread the cooked sausage and onion mixture evenly over the Bisquick crust.
-5.  In a separate bowl, beat the egg with the remaining 2 tablespoons of mayonnaise. Stir in the grated cheese and the drained green chilies.
-6.  Carefully spread this cheese and egg mixture over the sausage layer.
-7.  Bake for 30 minutes, or until the top is golden brown and the center is set.
-8.  Let cool for a few minutes before cutting into squares to serve.
-9.  This dish can be made ahead and reheated, or frozen and reheated later.
+1.  Preheat your oven to 375°F (190°C). Grease a 9x13 inch glass baking pan.
+2.  In a medium bowl, mix together the Bisquick, milk, and 2 tablespoons of the mayonnaise to form a soft dough. Press this evenly into the bottom of the prepared pan to form the crust.
+3.  In a skillet, cook the sausage and chopped onion over medium heat until the sausage is browned and the onion is soft. Drain off any excess grease.
+4.  Spread the cooked sausage and onion mixture evenly over the Bisquick crust.
+5.  In a separate bowl, beat the egg with the remaining 2 tablespoons of mayonnaise. Stir in the grated cheese and the drained green chilies.
+6.  Carefully spread this cheese and egg mixture over the sausage layer.
+7.  Bake for 30 minutes, or until the top is golden brown and the center is set.
+8.  Let cool for a few minutes before cutting into squares to serve.
+9.  This dish can be made ahead and reheated, or frozen and reheated later.
 ___
 ![[Handwritten_2025-01-29_095913.webp]]
 

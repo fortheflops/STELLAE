@@ -15,8 +15,8 @@ recipe:
   datePublished: "2025-09-05"
   description: "A savory cheddar cheese fondue with beer and ginger ale, perfect for dipping."
   image:
-    - "content/Appetizers/Dips, Spreads & Fondues/Fondue/Assets/Handwritten_2025-05-27_154543.webp"
-    - "content/Appetizers/Dips, Spreads & Fondues/Fondue/Assets/Handwritten_2025-05-27_154815 (2).webp"
+    - "https://cucinamezzaluna.com/Appetizers/Dips,-Spreads--and--Fondues/Fondue/Assets/Handwritten_2025-05-27_154543.webp"
+    - "https://cucinamezzaluna.com/Appetizers/Dips,-Spreads--and--Fondues/Fondue/Assets/Handwritten_2025-05-27_154815%20(2).webp"
   prepTime: PT10M
   cookTime: PT10M
   totalTime: PT20M
@@ -57,30 +57,30 @@ recipe:
 The Green Pen
 ___
 ## Recipe
-| Measurements | Ingredients                                        |
+| Measurements | Ingredients                                        |
 | :----------- | :------------------------------------------------- |
-| **For the Fondue:** | |
-| 4 cups       | Shredded Sharp Natural [[Cheddar Cheese]] |
-| 1/4 cup      | [[Beer]]                                  |
-| 1/4 cup      | [[Ginger Ale]]                            |
-| 2 tsp        | [[Worcestershire Sauce]]                  |
-| 1/2 tsp      | Dry [[Mustard]]                           |
-| 1/8 tsp      | [[Garlic Powder]]                         |
-| 1 dash       | Hot [[Pepper Sauce]]                      |
-| 1 tbsp       | [[Cornstarch]]          _                 |
-| 2 tbsp       | [[Water]]                                 |
-| **For Dipping:** | |
-| As Needed    | French [[Bread Cubes]], Raw [[Vegetables]], Cooked [[Meat]] |
+| **For the Fondue:** |                                            |
+| 4 cups       | Shredded Sharp Natural [[Cheddar Cheese]]          |
+| 1/4 cup      | [[Beer]]                                           |
+| 1/4 cup      | [[Ginger Ale]]                                     |
+| 2 tsp        | [[Worcestershire Sauce]]                           |
+| 1/2 tsp      | Dry [[Mustard]]                                    |
+| 1/8 tsp      | [[Garlic Powder]]                                  |
+| 1 dash       | Hot [[Pepper Sauce]]                               |
+| 1 tbsp       | [[Cornstarch]]                                     |
+| 2 tbsp       | [[Water]]                                          |
+| **For Dipping:** |                                            |
+| As Needed    | French [[Bread Cubes]], Raw [[Vegetables]], Cooked [[Meat]] |
 ___
 ## Instructions
-1.  Ensure the shredded cheese is at room temperature. In a medium bowl, use an electric mixer at low speed to blend the cheese.
-2.  Slowly add the beer and ginger ale while mixing. Continue to beat until the mixture is fluffy.
-3.  Add the Worcestershire sauce, dry mustard, garlic powder, and hot pepper sauce. Beat again until everything is well combined.
-4.  Transfer the cheese mixture to a fondue pot or a medium saucepan over low-medium heat.
-5.  Heat the mixture, stirring frequently, until it is melted and smooth.
-6.  In a small bowl, whisk together the cornstarch and 2 tablespoons of cold water to create a slurry.
-7.  Pour the slurry into the melted cheese mixture. Continue to cook and stir until the fondue thickens and begins to bubble, about 1-2 minutes.
-8.  Serve immediately in the fondue pot to keep warm.
+1.  Ensure the shredded cheese is at room temperature. In a medium bowl, use an electric mixer at low speed to blend the cheese.
+2.  Slowly add the beer and ginger ale while mixing. Continue to beat until the mixture is fluffy.
+3.  Add the Worcestershire sauce, dry mustard, garlic powder, and hot pepper sauce. Beat again until everything is well combined.
+4.  Transfer the cheese mixture to a fondue pot or a medium saucepan over low-medium heat.
+5.  Heat the mixture, stirring frequently, until it is melted and smooth.
+6.  In a small bowl, whisk together the cornstarch and 2 tablespoons of cold water to create a slurry.
+7.  Pour the slurry into the melted cheese mixture. Continue to cook and stir until the fondue thickens and begins to bubble, about 1-2 minutes.
+8.  Serve immediately in the fondue pot to keep warm.
 ___
 
 >[!Note]

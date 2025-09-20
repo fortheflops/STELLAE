@@ -16,7 +16,7 @@ recipe:
   datePublished: "2025-09-05"
   description: "A sweet and savory cheese ball with cream cheese, crushed pineapple, and a pecan coating."
   image:
-    - "content/Appetizers/Cheese-Based Appetizers/Cheese Balls & Logs/Assets/Handwritten_2025-02-13_112802.webp"
+    - "https://cucinamezzaluna.com/Appetizers/Cheese-Based-Appetizers/Cheese-Balls--and--Logs/Assets/Handwritten_2025-02-13_112802.webp"
   prepTime: PT15M
   cookTime: PT0M
   totalTime: PT8H15M

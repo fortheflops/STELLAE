@@ -15,7 +15,7 @@ recipe:
   datePublished: "2025-09-05"
   description: "A classic and easy guacamole featuring mashed avocados, lime juice, garlic salt, green chiles, and picante sauce."
   image:
-    - "content/Appetizers/Dips, Spreads & Fondues/Dip/Assets/Handwritten_2025-07-04_090337 (2).webp"
+    - "https://cucinamezzaluna.com/Appetizers/Dips,-Spreads--and--Fondues/Dip/Assets/Handwritten_2025-07-04_090337%20(2).webp"
   prepTime: PT10M
   cookTime: PT0M
   totalTime: PT10M
@@ -45,19 +45,19 @@ recipe:
 Unknown
 ___
 ## Recipe
-| Measurements    _    | Ingredients                                      |
+| Measurements       | Ingredients                                        |
 | :----------------- | :------------------------------------------------- |
-| 4 to 6             | Ripe [[Avocados]]                            |
-| Juice of 1/2       | [[Lime]]                                  |
-| To Taste           | [[Garlic Salt]]                           |
-| 1 (4 oz) can       | Chopped [[Green Chiles]], drained            |
-| 1/4 - 1/2 cup      | [[Pace Picante Sauce]] (or to taste)       |
+| 4 to 6             | Ripe [[Avocados]]                                  |
+| Juice of 1/2       | [[Lime]]                                           |
+| To Taste           | [[Garlic Salt]]                                    |
+| 1 (4 oz) can       | Chopped [[Green Chiles]], drained                  |
+| 1/4 - 1/2 cup      | [[Pace Picante Sauce]] (or to taste)               |
 ___
 ## Instructions
-1.  Cut the avocados in half, remove the pits, and scoop the flesh into a medium bowl.
-2.  Using a fork or a potato masher, mash the avocados to your desired consistency (chunky or smooth).
-3.  Squeeze the lime juice over the avocados and stir it in, along with garlic salt to taste.
-4.  Gently fold in the drained green chiles and the picante sauce, adding more picante sauce if you prefer a thinner or spicier dip.
-5.  Taste and adjust seasonings if necessary. Serve immediately with tortilla chips to prevent browning.
+1.  Cut the avocados in half, remove the pits, and scoop the flesh into a medium bowl.
+2.  Using a fork or a potato masher, mash the avocados to your desired consistency (chunky or smooth).
+3.  Squeeze the lime juice over the avocados and stir it in, along with garlic salt to taste.
+4.  Gently fold in the drained green chiles and the picante sauce, adding more picante sauce if you prefer a thinner or spicier dip.
+5.  Taste and adjust seasonings if necessary. Serve immediately with tortilla chips to prevent browning.
 ___
 ![[Handwritten_2025-07-04_090337 (2).webp]]

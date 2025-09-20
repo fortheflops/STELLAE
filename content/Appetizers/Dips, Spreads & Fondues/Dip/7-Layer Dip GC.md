@@ -15,7 +15,7 @@ recipe:
   datePublished: "2025-09-05"
   description: "A classic party dip with layers of refried beans, guacamole, sour cream, salsa, green onions, cheddar cheese, and black olives."
   image:
-    - "content/Appetizers/Dips, Spreads & Fondues/Dip/Assets/Handwritten_2025-06-23_192454.webp"
+    - "https://cucinamezzaluna.com/Appetizers/Dips,-Spreads--and--Fondues/Dip/Assets/Handwritten_2025-06-23_192454.webp"
   prepTime: PT15M
   cookTime: PT0M
   totalTime: PT45M
@@ -51,25 +51,25 @@ recipe:
 Unknown
 ___
 ## Recipe
-| Measurements        | Ingredients                                        |
+| Measurements       | Ingredients                                        |
 | :----------------- | :------------------------------------------------- |
-| 1 (16 ounce) can   | [[Refried Beans]]                         |
-| 2                  | [[Avocados]], mashed                      |
-| 1 pint (16 oz)     | [[Sour Cream]]                            |
-| 1 (16 oz) jar      | [[Salsa]] (mild or medium)                |
-| 3-4                | [[Green Onions]], chopped                 |
-| approx. 2 cups     | Grated [[Cheddar Cheese]]                 |
-| 1 (2.25 oz) can    | Chopped [[Olives]], drained              |
+| 1 (16 ounce) can   | [[Refried Beans]]                                  |
+| 2                  | [[Avocados]], mashed                               |
+| 1 pint (16 oz)     | [[Sour Cream]]                                     |
+| 1 (16 oz) jar      | [[Salsa]] (mild or medium)                         |
+| 3-4                | [[Green Onions]], chopped                          |
+| approx. 2 cups     | Grated [[Cheddar Cheese]]                          |
+| 1 (2.25 oz) can    | Chopped [[Olives]], drained                        |
 ___
 ## Instructions
-1.  In a clear serving dish (like a glass pie plate or trifle bowl), spread the refried beans evenly across the bottom to create the first layer.
-2.  Carefully spread the mashed avocados over the beans for the second layer.
-3.  Add the third layer by spreading the sour cream evenly over the avocados.
-4.  Gently pour and spread the salsa over the sour cream for the fourth layer.
-5.  Sprinkle the chopped green onions evenly over the salsa.
-6.  Add a generous layer of grated cheddar cheese.
-7.  Finish by topping with the chopped olives.
-8.  Cover and refrigerate for at least 30 minutes before serving to allow the dip to set.
+1.  In a clear serving dish (like a glass pie plate or trifle bowl), spread the refried beans evenly across the bottom to create the first layer.
+2.  Carefully spread the mashed avocados over the beans for the second layer.
+3.  Add the third layer by spreading the sour cream evenly over the avocados.
+4.  Gently pour and spread the salsa over the sour cream for the fourth layer.
+5.  Sprinkle the chopped green onions evenly over the salsa.
+6.  Add a generous layer of grated cheddar cheese.
+7.  Finish by topping with the chopped olives.
+8.  Cover and refrigerate for at least 30 minutes before serving to allow the dip to set.
 ___
 
 >[!Note]

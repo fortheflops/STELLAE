@@ -15,8 +15,8 @@ recipe:
   datePublished: "2025-09-05"
   description: "A savory blend of three cheeses with pecans mixed in and used as a coating with fresh parsley."
   image:
-    - "https://content/Appetizers/Cheese-Based Appetizers/Cheese Balls & Logs/Assets/Handwritten_2025-03-12_100254.webp"
-    - "https://content/Appetizers/Cheese-Based Appetizers/Cheese Balls & Logs/Assets/Handwritten_2025-03-12_100431 (2).webp"
+    - "https://cucinamezzaluna.com/Appetizers/Cheese-Based-Appetizers/Cheese-Balls--and--Logs/Assets/Handwritten_2025-03-12_100254.webp"
+    - "https://cucinamezzaluna.com/Appetizers/Cheese-Based-Appetizers/Cheese-Balls--and--Logs/Assets/Handwritten_2025-03-12_100431%20(2).webp"
   prepTime: PT20M
   cookTime: PT0M
   totalTime: PT8H20M
@@ -70,15 +70,15 @@ ___
 | | *(plus remaining 1/2 cup pecans from above)* |
 ___
 ## Instructions
-1.  Ensure all cheeses are at room temperature for easier mixing.
-2.  In a large bowl, combine the softened cream cheese, processed cheddar spread, diced cheddar, grated onion, Worcestershire sauce, and optional MSG.
-3.  Mix with an electric mixer or by hand until thoroughly blended and smooth.
-4.  Stir in 1/2 cup of the ground pecans.
-5.  Shape the mixture into a large ball and place it in a bowl lined with wax paper or foil.
-6.  Cover and chill overnight, or for at least 8 hours, until very firm.
-7.  About an hour before serving, combine the remaining 1/2 cup of pecans and the finely chopped parsley on a plate or a sheet of wax paper.
-8.  Unwrap the chilled cheese ball and roll it in the pecan-parsley mixture until evenly coated.
-9.  Place on a platter and serve with crisp crackers or croutons.
+1.  Ensure all cheeses are at room temperature for easier mixing.
+2.  In a large bowl, combine the softened cream cheese, processed cheddar spread, diced cheddar, grated onion, Worcestershire sauce, and optional MSG.
+3.  Mix with an electric mixer or by hand until thoroughly blended and smooth.
+4.  Stir in 1/2 cup of the ground pecans.
+5.  Shape the mixture into a large ball and place it in a bowl lined with wax paper or foil.
+6.  Cover and chill overnight, or for at least 8 hours, until very firm.
+7.  About an hour before serving, combine the remaining 1/2 cup of pecans and the finely chopped parsley on a plate or a sheet of wax paper.
+8.  Unwrap the chilled cheese ball and roll it in the pecan-parsley mixture until evenly coated.
+9.  Place on a platter and serve with crisp crackers or croutons.
 ___
 ![[Handwritten_2025-03-12_100254.webp]]
 

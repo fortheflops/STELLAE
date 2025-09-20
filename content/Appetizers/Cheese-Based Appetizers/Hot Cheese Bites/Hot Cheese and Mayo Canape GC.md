@@ -15,7 +15,7 @@ recipe:
   datePublished: "2025-09-05"
   description: "Easy-to-make broiled canapés with a topping of mayonnaise and shredded cheese over a base of bread and meat or shrimp."
   image:
-    - "content/Appetizers/Cheese-Based Appetizers/Hot Cheese Bites/Assets/Receipt_2025-06-03_112820.webp"
+    - "https://cucinamezzaluna.com/Appetizers/Cheese-Based-Appetizers/Hot-Cheese-Bites/Assets/Receipt_2025-06-03_112820.webp"
   prepTime: PT10M
   cookTime: PT5M
   totalTime: PT15M
@@ -46,7 +46,7 @@ recipe:
 Unknown
 ___
 ## Recipe
-| Measurements | Ingredients                                       |
+| Measurements | Ingredients                                        |
 | :----------- | :------------------------------------------------- |
 | 8-10 slices  | White [[Bread Slices]]                             |
 | 4 oz         | Slices of Cold [[Meats]], or cooked [[Shrimp]]     |

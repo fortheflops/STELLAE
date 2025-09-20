@@ -15,7 +15,7 @@ recipe:
   datePublished: "2025-09-05"
   description: "The simplest hot appetizer recipe: a mayo and cheese spread baked on crackers or bread for 3 minutes."
   image:
-    - "content/Appetizers/Cheese-Based Appetizers/Hot Cheese Bites/Assets/2025-05-28_093638.webp"
+    - "https://cucinamezzaluna.com/Appetizers/Cheese-Based-Appetizers/Hot-Cheese-Bites/Assets/2025-05-28_093638.webp"
   prepTime: PT5M
   cookTime: PT3M
   totalTime: PT8M
