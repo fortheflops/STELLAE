@@ -12,8 +12,10 @@ recipe:
   author:
     "@type": Person
     name: Unknown
-  datePublished: 2025-09-05
+  datePublished: "2025-09-05"
   description: "A classic party dip with layers of refried beans, guacamole, sour cream, salsa, green onions, cheddar cheese, and black olives."
+  image:
+    - "content/Appetizers/Dips, Spreads & Fondues/Dip/Assets/Handwritten_2025-06-23_192454.webp"
   prepTime: PT15M
   cookTime: PT0M
   totalTime: PT45M
@@ -60,14 +62,14 @@ ___
 | 1 (2.25 oz) can    | Chopped [[Olives]], drained              |
 ___
 ## Instructions
-1.  In a clear serving dish (like a glass pie plate or trifle bowl), spread the refried beans evenly across the bottom to create the first layer.
-2.  Carefully spread the mashed avocados over the beans for the second layer.
-3.  Add the third layer by spreading the sour cream evenly over the avocados.
-4.  Gently pour and spread the salsa over the sour cream for the fourth layer.
-5.  Sprinkle the chopped green onions evenly over the salsa.
-6.  Add a generous layer of grated cheddar cheese.
-7.  Finish by topping with the chopped olives.
-8.  Cover and refrigerate for at least 30 minutes before serving to allow the dip to set.
+1.  In a clear serving dish (like a glass pie plate or trifle bowl), spread the refried beans evenly across the bottom to create the first layer.
+2.  Carefully spread the mashed avocados over the beans for the second layer.
+3.  Add the third layer by spreading the sour cream evenly over the avocados.
+4.  Gently pour and spread the salsa over the sour cream for the fourth layer.
+5.  Sprinkle the chopped green onions evenly over the salsa.
+6.  Add a generous layer of grated cheddar cheese.
+7.  Finish by topping with the chopped olives.
+8.  Cover and refrigerate for at least 30 minutes before serving to allow the dip to set.
 ___
 
 >[!Note]

@@ -19,6 +19,8 @@ title: Updates
 |                                     | Elizabeth Knee Collection |     | New Mexico    |
 |                                     | Unknown 16                |     | New Mexico    |
 |                                     | Unknown 17                |     | Massachusetts |
+|                                     | Unknown 18                |     | New Mexico    |
+|                                     | Unknown 19                |     | Georgia       |
 
 
 

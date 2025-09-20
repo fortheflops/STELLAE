@@ -12,8 +12,10 @@ recipe:
   author:
     "@type": Person
     name: Unknown
-  datePublished: 2025-09-05
+  datePublished: "2025-09-05"
   description: "Easy baked crab cakes featuring lump crab meat, mayonnaise, and horseradish mustard, coated in crispy cracker crumbs."
+  image:
+    - "content/Appetizers/Seafood Appetizers/Crab/Assets/Handwritten_2025-01-18_093851.webp"
   prepTime: PT15M
   cookTime: PT20M
   totalTime: PT35M
@@ -62,12 +64,12 @@ ___
 | Approx. 1 cup|[[Cracker Crumbs]]|
 ___
 ## Instructions
-1.  Preheat your oven to 375°F (190°C). Grease a baking sheet or line it with parchment paper.
-2.  In a medium bowl, gently combine the crab meat, beaten eggs, mayonnaise, horseradish mustard, chopped parsley, salt, and pepper. Mix well, but be careful not to break up the lumps of crab meat too much.
-3.  Shape the mixture into patties or cakes of your desired size (about 6-8 cakes).
-4.  Place the cracker crumbs on a plate or in a shallow dish.
-5.  Carefully coat each crab cake on all sides with the cracker crumbs, pressing gently to adhere.
-6.  Arrange the crab cakes on the prepared baking sheet.
-7.  Bake for 15-20 minutes, or until the cakes are firm and golden brown on top.
+1.  Preheat your oven to 375°F (190°C). Grease a baking sheet or line it with parchment paper.
+2.  In a medium bowl, gently combine the crab meat, beaten eggs, mayonnaise, horseradish mustard, chopped parsley, salt, and pepper. Mix well, but be careful not to break up the lumps of crab meat too much.
+3.  Shape the mixture into patties or cakes of your desired size (about 6-8 cakes).
+4.  Place the cracker crumbs on a plate or in a shallow dish.
+5.  Carefully coat each crab cake on all sides with the cracker crumbs, pressing gently to adhere.
+6.  Arrange the crab cakes on the prepared baking sheet.
+7.  Bake for 15-20 minutes, or until the cakes are firm and golden brown on top.
 ___
 ![[Handwritten_2025-01-18_093851.webp]]

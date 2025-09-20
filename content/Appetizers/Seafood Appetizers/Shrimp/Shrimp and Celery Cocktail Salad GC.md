@@ -14,6 +14,8 @@ recipe:
     name: Unknown
   datePublished: "2025-09-05"
   description: "A simple, retro shrimp cocktail salad made by combining cooked shrimp, celery, and sweet pickle relish with a generous amount of ketchup."
+  image:
+    - "content/Appetizers/Seafood Appetizers/Shrimp/Assets/Handwritten_2025-06-23_162806.webp"
   prepTime: PT15M
   cookTime: PT0M
   totalTime: PT1H15M
@@ -44,16 +46,16 @@ ___
 ## Recipe
 | Measurements        | Ingredients                                       |
 | :----------------- | :------------------------------------------------- |
-| 1 pound            | [[Shrimp]], shelled, cooked, and chilled             |
+| 1 pound            | [[Shrimp]], shelled, cooked, and chilled             |
 | 1 cup              | [[Ketchup]] (or more, to taste)             |
 | 1/2 cup            | [[Sweet Pickle Relish]]                  |
 | 1 cup              | Chopped [[Celery Hearts]]                 |
 ___
 ## Instructions
-1.  If using large shrimp, you may want to roughly chop them into bite-sized pieces.
-2.  In a medium bowl, combine the chilled cooked shrimp, ketchup, sweet pickle relish, and chopped celery hearts.
-3.  Stir everything together until the shrimp and celery are evenly coated in the sauce.
-4.  Cover the bowl and refrigerate for at least 1 hour to allow the flavors to meld together.
-5.  Serve chilled in small bowls or cocktail glasses.
+1.  If using large shrimp, you may want to roughly chop them into bite-sized pieces.
+2.  In a medium bowl, combine the chilled cooked shrimp, ketchup, sweet pickle relish, and chopped celery hearts.
+3.  Stir everything together until the shrimp and celery are evenly coated in the sauce.
+4.  Cover the bowl and refrigerate for at least 1 hour to allow the flavors to meld together.
+5.  Serve chilled in small bowls or cocktail glasses.
 ___
 ![[Handwritten_2025-06-23_162806.webp]]

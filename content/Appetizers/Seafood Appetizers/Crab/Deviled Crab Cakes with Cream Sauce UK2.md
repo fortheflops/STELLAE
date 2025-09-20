@@ -14,6 +14,9 @@ recipe:
     name: "Unknown"
   datePublished: "2025-09-05"
   description: "Fried crab cakes made with a creamy béchamel sauce binder, sautéed vegetables, and a crispy cracker meal coating."
+  image:
+    - "content/Appetizers/Seafood Appetizers/Crab/Assets/Handwritten_2025-01-18_093026.webp"
+    - "content/Appetizers/Seafood Appetizers/Crab/Assets/Handwritten_2025-01-18_093132 (2).webp"
   prepTime: PT25M
   cookTime: PT15M
   totalTime: PT2H40M

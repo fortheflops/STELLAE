@@ -15,6 +15,8 @@ recipe:
     name: Unknown
   datePublished: "2025-09-05"
   description: "Classic pan-fried Maryland-style crab cakes with crab claw meat, horseradish, and a light cracker crumb coating."
+  image:
+    - "content/Appetizers/Seafood Appetizers/Crab/Assets/Handwritten_2025-01-19_112013.webp"
   prepTime: PT15M
   cookTime: PT10M
   totalTime: PT25M
@@ -65,12 +67,12 @@ ___
 | As Needed|Oil or Butter, for frying|
 ___
 ## Instructions
-1.  Roll out crackers into fine crumbs. Place the crumbs on a plate or shallow dish.
-2.  In a medium bowl, gently combine the crab meat, eggs, mayonnaise, horseradish, parsley, Tabasco sauce, salt, and pepper. Be careful not to overmix, as this can make the crab cakes tough.
-3.  Shape the crab mixture into cakes. The size is up to you, but they are typically about 1/2 to 3/4 inch thick and 2-3 inches in diameter.
-4.  Gently pat each crab cake into the cracker crumbs, coating both sides lightly.
-5.  Heat a large skillet over medium-high heat. Add enough oil (vegetable, canola, or another high-heat oil) or butter to coat the bottom of the pan. Once hot, carefully place the crab cakes in the skillet, leaving some space between them.
-6.  Fry for about 3-5 minutes per side, or until golden brown and heated through. The internal temperature should reach 145°F (63°C).
-7.  Remove the crab cakes from the skillet and place them on a plate lined with paper towels to drain any excess oil. Serve immediately.
+1.  Roll out crackers into fine crumbs. Place the crumbs on a plate or shallow dish.
+2.  In a medium bowl, gently combine the crab meat, eggs, mayonnaise, horseradish, parsley, Tabasco sauce, salt, and pepper. Be careful not to overmix, as this can make the crab cakes tough.
+3.  Shape the crab mixture into cakes. The size is up to you, but they are typically about 1/2 to 3/4 inch thick and 2-3 inches in diameter.
+4.  Gently pat each crab cake into the cracker crumbs, coating both sides lightly.
+5.  Heat a large skillet over medium-high heat. Add enough oil (vegetable, canola, or another high-heat oil) or butter to coat the bottom of the pan. Once hot, carefully place the crab cakes in the skillet, leaving some space between them.
+6.  Fry for about 3-5 minutes per side, or until golden brown and heated through. The internal temperature should reach 145°F (63°C).
+7.  Remove the crab cakes from the skillet and place them on a plate lined with paper towels to drain any excess oil. Serve immediately.
 ___
 ![[Handwritten_2025-01-19_112013.webp]]

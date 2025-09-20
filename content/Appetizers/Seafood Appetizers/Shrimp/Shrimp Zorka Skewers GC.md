@@ -14,6 +14,8 @@ recipe:
     name: Mita
   datePublished: "2025-09-05"
   description: "Easy and elegant broiled skewers with shrimp, lemon slices, and olives marinated in a tarragon-garlic Italian dressing."
+  image:
+    - "content/Appetizers/Seafood Appetizers/Shrimp/Assets/Handwritten_2025-06-08_103113.webp"
   prepTime: PT25M
   cookTime: PT6M
   totalTime: PT31M
@@ -49,7 +51,7 @@ ___
 ## Recipe
 | Measurements        | Ingredients                                       |
 | :----------------- | :------------------------------------------------- |
-| 6                  | Large [[Shrimp]], shelled and deveined           |
+| 6                  | Large [[Shrimp]], shelled and deveined           |
 | 4                  | Thin [[Lemon Slices]], with peel            |
 | 6                  | Pimento-Stuffed [[Olives]]                |
 | 1 tbsp             | [[Lemon Juice]]                           |
@@ -58,13 +60,13 @@ ___
 | 1/4 tsp            | Dried [[Tarragon]]                        |
 ___
 ## Instructions
-1.  In a small bowl, whisk together the Italian dressing, lemon juice, granulated garlic, and dried tarragon to create the marinade.
-2.  Add the shrimp, lemon slices, and olives to the bowl. Stir gently to coat everything, then cover and let marinate in the refrigerator for at least 15-30 minutes.
-3.  Preheat your broiler. If using wooden skewers, soak them in water for 20 minutes to prevent burning.
-4.  Thread the ingredients onto the skewers, alternating between olives, shrimp, and lemon slices. Reserve the leftover marinade for basting.
-5.  Place the skewers on a broiler pan or a baking sheet lined with foil.
-6.  Broil about 4-5 inches from the heat for 3 minutes on one side.
-7.  Flip the skewers, baste with the reserved marinade, and broil for another 3 minutes, or until the shrimp are pink and cooked through.
-8.  Serve immediately.
+1.  In a small bowl, whisk together the Italian dressing, lemon juice, granulated garlic, and dried tarragon to create the marinade.
+2.  Add the shrimp, lemon slices, and olives to the bowl. Stir gently to coat everything, then cover and let marinate in the refrigerator for at least 15-30 minutes.
+3.  Preheat your broiler. If using wooden skewers, soak them in water for 20 minutes to prevent burning.
+4.  Thread the ingredients onto the skewers, alternating between olives, shrimp, and lemon slices. Reserve the leftover marinade for basting.
+5.  Place the skewers on a broiler pan or a baking sheet lined with foil.
+6.  Broil about 4-5 inches from the heat for 3 minutes on one side.
+7.  Flip the skewers, baste with the reserved marinade, and broil for another 3 minutes, or until the shrimp are pink and cooked through.
+8.  Serve immediately.
 ___
 ![[Handwritten_2025-06-08_103113.webp]]

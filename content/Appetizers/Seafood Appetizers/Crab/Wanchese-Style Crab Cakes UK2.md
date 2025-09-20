@@ -14,6 +14,9 @@ recipe:
     name: Unknown
   datePublished: "2025-09-05"
   description: "Classic pan-fried crab cakes with a cracker crumb binder and a zesty seasoning blend of mustard, Worcestershire, and hot sauce."
+  image:
+    - "content/Appetizers/Seafood Appetizers/Crab/Assets/Handwritten_2025-01-17_121915.webp"
+    - "content/Appetizers/Seafood Appetizers/Crab/Assets/Handwritten_2025-01-17_122005 (2).webp"
   prepTime: PT15M
   cookTime: PT6M
   totalTime: PT21M
@@ -68,13 +71,13 @@ ___
 | As Needed|[[Oil]] for frying|
 ___
 ## Instructions
-1.  In a medium bowl, gently combine the flaked crabmeat, 1/4 cup of cracker crumbs, beaten egg, minced onion, mayonnaise, Worcestershire sauce, prepared mustard, hot pepper sauce, and salt. Mix with a fork until just combined, being careful not to overwork the mixture.
-2.  Shape the mixture into 6 patties, about 3 inches in diameter.
-3.  Place the additional cracker crumbs for coating on a plate or in a shallow dish.
-4.  Carefully coat each patty on both sides with the cracker crumbs.
-5.  In a large skillet, heat about 1/4 inch of oil over medium-high heat.
-6.  Carefully place the crab cakes in the hot oil and fry until golden brown, about 3 minutes per side.
-7.  Remove the crab cakes from the skillet and drain them on a paper towel-lined plate. Serve hot.
+1.  In a medium bowl, gently combine the flaked crabmeat, 1/4 cup of cracker crumbs, beaten egg, minced onion, mayonnaise, Worcestershire sauce, prepared mustard, hot pepper sauce, and salt. Mix with a fork until just combined, being careful not to overwork the mixture.
+2.  Shape the mixture into 6 patties, about 3 inches in diameter.
+3.  Place the additional cracker crumbs for coating on a plate or in a shallow dish.
+4.  Carefully coat each patty on both sides with the cracker crumbs.
+5.  In a large skillet, heat about 1/4 inch of oil over medium-high heat.
+6.  Carefully place the crab cakes in the hot oil and fry until golden brown, about 3 minutes per side.
+7.  Remove the crab cakes from the skillet and drain them on a paper towel-lined plate. Serve hot.
 ___
 
 >[!Servings]

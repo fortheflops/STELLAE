@@ -12,8 +12,10 @@ recipe:
   author:
     "@type": Person
     name: Sarah Hensley
-  datePublished: 2025-09-05
+  datePublished: "2025-09-05"
   description: "A savory, chilled crab dip set in a decorative mold, featuring cream cheese, celery, and green onions."
+  image:
+    - "content/Appetizers/Dips, Spreads & Fondues/Dip/Assets/Handwritten_2025-06-15_104453.webp"
   prepTime: PT20M
   cookTime: PT5M
   totalTime: PT4H25M
@@ -65,15 +67,15 @@ ___
 | 1/2 cup            | Finely Chopped Green [[Onions]]           |
 ___
 ## Instructions
-1.  In a large bowl, beat the softened cream cheese with a mixer until smooth. Add the mayonnaise, drained crab meat, finely chopped celery, and finely chopped green onions. Mix until well combined.
-2.  In a small bowl, sprinkle the two packages of gelatin over the 1/4 cup of cold water. Let it stand for 1-2 minutes to soften or "bloom."
-3.  In a small saucepan, heat the cream of mushroom soup over low heat until warm. Do not boil.
-4.  Add the softened gelatin mixture to the warm soup. Stir constantly until the gelatin is completely dissolved.
-5.  Remove the soup mixture from the heat and set it aside to cool to room temperature.
-6.  Once cooled, pour the soup mixture into the large bowl with the cream cheese mixture. Stir until everything is thoroughly blended.
-7.  Lightly coat a 4- to 5-cup mold with non-stick cooking spray.
-8.  Pour the final mixture into the prepared mold.
-9.  Refrigerate for at least 4 hours, or overnight, until the dip is completely firm.
+1.  In a large bowl, beat the softened cream cheese with a mixer until smooth. Add the mayonnaise, drained crab meat, finely chopped celery, and finely chopped green onions. Mix until well combined.
+2.  In a small bowl, sprinkle the two packages of gelatin over the 1/4 cup of cold water. Let it stand for 1-2 minutes to soften or "bloom."
+3.  In a small saucepan, heat the cream of mushroom soup over low heat until warm. Do not boil.
+4.  Add the softened gelatin mixture to the warm soup. Stir constantly until the gelatin is completely dissolved.
+5.  Remove the soup mixture from the heat and set it aside to cool to room temperature.
+6.  Once cooled, pour the soup mixture into the large bowl with the cream cheese mixture. Stir until everything is thoroughly blended.
+7.  Lightly coat a 4- to 5-cup mold with non-stick cooking spray.
+8.  Pour the final mixture into the prepared mold.
+9.  Refrigerate for at least 4 hours, or overnight, until the dip is completely firm.
 10. To serve, briefly dip the bottom of the mold in warm water, then invert it onto a serving platter. Serve with Ritz Crackers or Wheat Thins.
 ___
 ![[Handwritten_2025-06-15_104453.webp]]

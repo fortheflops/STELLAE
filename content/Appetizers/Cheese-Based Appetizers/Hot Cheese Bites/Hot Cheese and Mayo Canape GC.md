@@ -14,6 +14,8 @@ recipe:
     name: Unknown
   datePublished: "2025-09-05"
   description: "Easy-to-make broiled canapés with a topping of mayonnaise and shredded cheese over a base of bread and meat or shrimp."
+  image:
+    - "content/Appetizers/Cheese-Based Appetizers/Hot Cheese Bites/Assets/Receipt_2025-06-03_112820.webp"
   prepTime: PT10M
   cookTime: PT5M
   totalTime: PT15M
@@ -46,18 +48,18 @@ ___
 ## Recipe
 | Measurements | Ingredients                                       |
 | :----------- | :------------------------------------------------- |
-| 8-10 slices  | White [[Bread Slices]]                             |
-| 4 oz         | Slices of Cold [[Meats]], or cooked [[Shrimp]]     |
-| 1 cup        | [[Mayonnaise]]                                     |
+| 8-10 slices  | White [[Bread Slices]]                             |
+| 4 oz         | Slices of Cold [[Meats]], or cooked [[Shrimp]]     |
+| 1 cup        | [[Mayonnaise]]                                     |
 | 1/2 cup      | Shredded [[Cheese]] (e.g., Cheddar or Parmesan) |
 ___
 ## Instructions
-1.  Position an oven rack about 4-5 inches from the broiler and preheat the broiler.
-2.  Remove the crusts from the bread slices. Cut the bread into small decorative shapes, such as rounds, squares, or triangles, using a knife or cookie cutters.
-3.  Arrange the bread shapes on a baking sheet. Top each piece with a small slice of cold meat or a piece of cooked shrimp.
-4.  In a small bowl, thoroughly combine the mayonnaise and shredded cheese.
-5.  Spread a layer of the cheese and mayonnaise mixture over each canapé, making sure to cover the toppings completely to the edges of the bread.
-6.  Place the baking sheet under the preheated broiler. Watch very carefully and broil for 2-4 minutes, or just until the topping is golden brown and bubbly. They can burn quickly!
-7.  Remove from the oven and serve immediately while hot.
+1.  Position an oven rack about 4-5 inches from the broiler and preheat the broiler.
+2.  Remove the crusts from the bread slices. Cut the bread into small decorative shapes, such as rounds, squares, or triangles, using a knife or cookie cutters.
+3.  Arrange the bread shapes on a baking sheet. Top each piece with a small slice of cold meat or a piece of cooked shrimp.
+4.  In a small bowl, thoroughly combine the mayonnaise and shredded cheese.
+5.  Spread a layer of the cheese and mayonnaise mixture over each canapé, making sure to cover the toppings completely to the edges of the bread.
+6.  Place the baking sheet under the preheated broiler. Watch very carefully and broil for 2-4 minutes, or just until the topping is golden brown and bubbly. They can burn quickly!
+7.  Remove from the oven and serve immediately while hot.
 ___
 ![[Receipt_2025-06-03_112820.webp]]

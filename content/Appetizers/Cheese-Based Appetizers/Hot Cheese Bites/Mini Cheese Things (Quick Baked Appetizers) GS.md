@@ -14,6 +14,8 @@ recipe:
     name: Unknown
   datePublished: "2025-09-05"
   description: "The simplest hot appetizer recipe: a mayo and cheese spread baked on crackers or bread for 3 minutes."
+  image:
+    - "content/Appetizers/Cheese-Based Appetizers/Hot Cheese Bites/Assets/2025-05-28_093638.webp"
   prepTime: PT5M
   cookTime: PT3M
   totalTime: PT8M
@@ -44,17 +46,17 @@ ___
 ## Recipe
 | Measurements        | Ingredients                                       |
 | :----------------- | :------------------------------------------------- |
-| 1/2 cup            | [[Mayo]] (Mayonnaise)                     |
+| 1/2 cup            | [[Mayo]] (Mayonnaise)                     |
 | 1/4 cup            | Grated or Shredded [[Cheese]] (e.g., Parmesan, Cheddar) |
 | To Taste           | [[Salt]] & [[Pepper]]                        |
 | Approx. 24         | Crackers or small [[Bread Slices]] (for the base) |
 ___
 ## Instructions
-1.  Preheat your oven to 375°F (190°C).
-2.  In a small bowl, combine the mayonnaise, cheese, and a pinch of salt and pepper. Stir until well mixed.
-3.  Arrange your choice of base (crackers, baguette slices, etc.) in a single layer on a baking sheet.
-4.  Spoon a small amount of the cheese mixture onto each cracker or bread slice.
-5.  Bake for exactly 3 minutes, or just until the topping is hot and bubbly.
-6.  Serve immediately.
+1.  Preheat your oven to 375°F (190°C).
+2.  In a small bowl, combine the mayonnaise, cheese, and a pinch of salt and pepper. Stir until well mixed.
+3.  Arrange your choice of base (crackers, baguette slices, etc.) in a single layer on a baking sheet.
+4.  Spoon a small amount of the cheese mixture onto each cracker or bread slice.
+5.  Bake for exactly 3 minutes, or just until the topping is hot and bubbly.
+6.  Serve immediately.
 ___
 ![[2025-05-28_093638.webp]]

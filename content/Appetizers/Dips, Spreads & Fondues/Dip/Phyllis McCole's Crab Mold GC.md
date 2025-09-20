@@ -14,6 +14,8 @@ recipe:
     name: "Phyllis McCole"
   datePublished: "1986-12-01"
   description: "A vintage 1986 recipe for a savory, chilled crab dip set in a decorative mold, featuring cream cheese, celery, and onion."
+  image:
+    - "content/Appetizers/Dips, Spreads & Fondues/Dip/Assets/Handwritten_2025-06-07_182313.webp"
   prepTime: PT20M
   cookTime: PT5M
   totalTime: PT2H25M
@@ -55,25 +57,25 @@ ___
 ## Recipe
 | Measurements        | Ingredients                                        |
 | :----------------- | :------------------------------------------------- |
-| 1 (6-8 oz) can     | [[Crab Meat]], drained and flaked            |
+| 1 (6-8 oz) can     | [[Crab Meat]], drained and flaked            |
 | 8 Ounces           | [[Cream Cheese]], softened                |
 | 1 Cup              | [[Mayonnaise]]                            |
-| 1 (10.5 oz) can    | Cream of [[Mushroom Soup]]               |
+| 1 (10.5 oz) can    | Cream of [[Mushroom Soup]]               |
 | 2 Packages         | Knox [[Gelatin]] (Unflavored)             |
 | 2 Tablespoons      | Cold [[Water]]                            |
 | 1 Cup              | Finely Chopped [[Celery]]                 |
 | ½ Cup              | Finely Chopped [[Onion]]                  |
 ___
 ## Instructions
-1.  In a large bowl, combine the softened cream cheese and mayonnaise. Mix until smooth.
-2.  Stir in the finely chopped celery, finely chopped onion, and the drained, flaked crab meat. Set aside.
-3.  In a small bowl, sprinkle the two packages of gelatin over the 2 tablespoons of cold water. Let it stand for a minute to soften.
-4.  In a small saucepan, gently heat the can of mushroom soup over low heat until warm. Do not let it boil.
-5.  Add the softened gelatin mixture to the warm soup and stir constantly until the gelatin is completely dissolved.
-6.  Remove the soup from the heat and allow it to cool to room temperature.
-7.  Pour the cooled soup mixture into the large bowl with the cream cheese mixture. Stir until everything is well-blended.
-8.  Lightly coat a mold with non-stick cooking spray.
-9.  Pour the final mixture into the prepared mold and chill for at least 2 hours, or until fully set.
+1.  In a large bowl, combine the softened cream cheese and mayonnaise. Mix until smooth.
+2.  Stir in the finely chopped celery, finely chopped onion, and the drained, flaked crab meat. Set aside.
+3.  In a small bowl, sprinkle the two packages of gelatin over the 2 tablespoons of cold water. Let it stand for a minute to soften.
+4.  In a small saucepan, gently heat the can of mushroom soup over low heat until warm. Do not let it boil.
+5.  Add the softened gelatin mixture to the warm soup and stir constantly until the gelatin is completely dissolved.
+6.  Remove the soup from the heat and allow it to cool to room temperature.
+7.  Pour the cooled soup mixture into the large bowl with the cream cheese mixture. Stir until everything is well-blended.
+8.  Lightly coat a mold with non-stick cooking spray.
+9.  Pour the final mixture into the prepared mold and chill for at least 2 hours, or until fully set.
 10. To serve, unmold onto a platter and serve with crackers.
 ___
 ![[Handwritten_2025-06-07_182313.webp]]
