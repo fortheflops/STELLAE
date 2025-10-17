@@ -1,36 +1,84 @@
 ---
-title: Coquilles
-draft: false
+title: Dark Devils Food Cake
+description: A classic, rich Devil's Food Cake with a tender, moist crumb. This recipe uses the 'two-stage' mixing method, which is perfect for shortening-based cakes, ensuring a velvety texture.
 tags:
   - "#GailCollection"
+date: 2025-09-22
+draft: false
+recipe:
+  "@context": https://schema.org/
+  "@type": Recipe
+  name: Devil's Food Cake (Coquilles)
+  author:
+    "@type": Person
+    name: Unknown
+  datePublished: 2025-09-22
+  description: A classic, rich Devil's Food Cake made with cocoa and shortening, using a two-stage mixing method for a fine, moist crumb.
+  image:
+    - https://cucinamezzaluna.com/Desserts/Cake/Chocolate-Cake/Devil's-Food-Cake/Assets/Handwritten_2025-06-04_095440.webp
+    - https://cucinamezzaluna.com/Desserts/Cake/Chocolate-Cake/Devil's-Food-Cake/Assets/Handwritten_2025-06-04_095531%20(2).webp
+  prepTime: PT20M
+  cookTime: PT40M
+  totalTime: PT1H
+  recipeYield: 2 8-inch layers
+  recipeCategory: Dessert
+  recipeCuisine: American
+  recipeIngredient:
+    - 2 1/4 cups sifted cake flour (like Softasilk)
+    - 1 3/4 cups sugar
+    - 2/3 cup cocoa powder
+    - 1 1/3 teaspoons double-acting baking powder
+    - 1 1/4 teaspoons baking soda
+    - 1 teaspoon salt
+    - 2/3 cup high-grade shortening
+    - 1 cup water, divided
+    - 3 large eggs, unbeaten
+  recipeInstructions:
+    - "@type": HowToStep
+      text: Preheat oven to 350°F. Grease and flour two 8-inch round cake pans.
+    - "@type": HowToStep
+      text: In a large bowl, sift together the flour, sugar, baking powder, baking soda, salt, and cocoa powder.
+    - "@type": HowToStep
+      text: Add the shortening and 2/3 cup of the water to the dry ingredients. Beat for 2 minutes with an electric mixer at medium speed, scraping the bowl frequently.
+    - "@type": HowToStep
+      text: Add the unbeaten eggs and the remaining 1/3 cup of water. Beat for 2 more minutes.
+    - "@type": HowToStep
+      text: Pour the batter evenly into the prepared pans. Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.
+    - "@type": HowToStep
+      text: Cool in the pans for 10 minutes before inverting onto a wire rack to cool completely.
 ---
-## Author
+*A classic, rich Devil's Food Cake with a tender, moist crumb. This recipe uses the 'two-stage' mixing method, which is perfect for shortening-based cakes, ensuring a velvety texture.*
+### Author
 Unknown
 ___
 ## Recipe
-| Measurements        | Ingredients                                        |
+| Measurements       | Ingredients                                        |
 | :----------------- | :------------------------------------------------- |
-| Two & $\frac{1}{4}$ Cups         | Sifted Softasilk [[Cake Flour]] (or regular cake flour) |
-| One & $\frac{3}{4}$ Cups         | [[Sugar]]                                 |
-| One & $\frac{1}{3}$ Teaspoons    | Double-Acting [[Baking Powder]]           |
-| One & $\frac{1}{4}$ Teaspoons    | Baking [[Soda]]                           |
-| One Teaspoon                     | [[Salt]]                                  |
-| $\frac{2}{3}$ Cup                | [[Cocoa Powder]]                          |
-| $\frac{2}{3}$ Cup                | High-Grade [[Shortening]]                 |
-| $\frac{2}{3}$ Cup                | [[Water]] (first addition)                |
-| $\frac{1}{3}$ to $\frac{2}{3}$ Cup (about 3 eggs worth) | Unbeaten [[Eggs]] (Approximately 3 large eggs) |
-| $\frac{1}{3}$ Cup                | [[Water]] (second addition)               |
+| 2 ¼ Cups           | Sifted Softasilk [[Cake Flour]]                    |
+| 1 ¾ Cups           | [[Sugar]]                                          |
+| 1 ⅓ tsps           | Double-Acting [[Baking Powder]]                    |
+| 1 ¼ tsps           | Baking [[Soda]]                                    |
+| 1 tsp              | [[Salt]]                                           |
+| ⅔ Cup              | [[Cocoa Powder]]                                   |
+| ⅔ Cup              | High-Grade [[Shortening]]                          |
+| 1 Cup              | [[Water]], divided                                 |
+| 3                  | Unbeaten [[Eggs]]                                  |
 ___
 ## Instructions
-1.  Preheat oven to 350°F. Grease and flour cake pans (e.g., two 8-inch or 9-inch round pans, or a 9x13 inch pan, though pan size is not specified on the card).
-2.  In a large bowl, sift together two and $\frac{1}{4}$ cups of sifted Softasilk flour, one and $\frac{3}{4}$ cups of sugar, one and $\frac{1}{3}$ teaspoons of double-acting baking powder, one and $\frac{1}{4}$ teaspoons of baking soda, and one teaspoon of salt.
-3.  Add $\frac{2}{3}$ cup of cocoa powder, $\frac{2}{3}$ cup of high-grade shortening, and $\frac{2}{3}$ cup of water to the dry ingredients.
-4.  Beat vigorously with a spoon for 2 minutes, or with an electric mixer at medium speed for 2 minutes.
-5.  Add $\frac{1}{3}$ to $\frac{2}{3}$ cup of unbeaten eggs (approximately 3 large eggs) and another $\frac{1}{3}$ cup of water.
+1.  Preheat oven to 350°F. Grease and flour two 8-inch or 9-inch round cake pans.
+2.  In a large mixing bowl, sift together the cake flour, sugar, baking powder, baking soda, salt, and cocoa powder.
+3.  Add the shortening and ⅔ cup of the water to the dry ingredients.
+4.  Beat with an electric mixer at medium speed for 2 minutes, scraping the bowl occasionally.
+5.  Add the unbeaten eggs and the remaining ⅓ cup of water to the batter.
 6.  Beat for 2 more minutes.
-7.  Pour the batter into the prepared pans.
-8.  Bake at 350°F for 35-40 minutes, or until a toothpick inserted into the center comes out clean.
+7.  Pour the batter evenly into the prepared pans.
+8.  Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.
+9.  Let the cakes cool in the pans for 10 minutes before turning them out onto a wire rack to cool completely.
+___
+
+>[!Note]
+>The recipe card title "Coquilles" is French for "shells" and is an unusual name for this type of cake. The ingredients and method are for a classic Devil's Food Cake.
+
 ___
 ![[Handwritten_2025-06-04_095440.webp]]
-
 ![[Handwritten_2025-06-04_095531 (2).webp]]

@@ -1,37 +1,78 @@
 ---
-title: Old Fashioned Strawberry Shortcake
-draft: false
+title: "Old Fashioned Strawberry Shortcake"
+description: "A classic, old-fashioned recipe for a single, large shortcake baked in a round pan. This rich, biscuit-style cake is designed to be split and filled with fresh strawberries and cream."
 tags:
   - UnknownTwo
-  - "#Eggplant"
-  - "#Vegetable"
+date: 2025-10-05
+draft: false
+recipe:
+  "@context": https://schema.org/
+  "@type": Recipe
+  name: "Old Fashioned Strawberry Shortcake"
+  author:
+    "@type": Person
+    name: Unknown
+  datePublished: "2025-10-05"
+  description: "A classic recipe for a single, large biscuit-style shortcake, baked in a round pan and designed to be split and filled with fruit."
+  image:
+    - "https://cucinamezzaluna.com/Desserts/Cake/Shortcake/Assets/Handwritten_2025-01-26_082922.webp"
+    - "https://cucinamezzaluna.com/Desserts/Cake/Shortcake/Assets/Handwritten_2025-01-26_083033%20(2).webp"
+  prepTime: PT15M
+  cookTime: PT15M
+  totalTime: PT30M
+  recipeYield: "1 8-inch shortcake (6-8 servings)"
+  recipeCategory: Dessert
+  recipeCuisine: American
+  recipeIngredient:
+    - "2 cups all-purpose flour"
+    - "6 tablespoons sugar"
+    - "1 tablespoon baking powder"
+    - "1/2 teaspoon salt"
+    - "1/3 cup cold butter, cubed"
+    - "1 large egg"
+    - "1/2 cup milk"
+    - "Melted butter, for brushing"
+  recipeInstructions:
+    - "@type": HowToStep
+      text: "Preheat oven to 450°F. Grease an 8-inch round cake pan. Sift together the flour, baking powder, sugar, and salt. Cut in the cold butter until the mixture resembles coarse meal."
+    - "@type": HowToStep
+      text: "In a measuring cup, beat the egg and add enough milk to make a total of 3/4 cup of liquid. Gradually stir this into the flour mixture to form a soft dough."
+    - "@type": HowToStep
+      text: "On a floured surface, knead the dough gently for about 20 seconds. Divide the dough in half."
+    - "@type": HowToStep
+      text: "Pat half of the dough into the bottom of the prepared pan. Brush it with melted butter."
+    - "@type": HowToStep
+      text: "Pat out the remaining half of the dough and place it on top."
+    - "@type": HowToStep
+      text: "Bake for 12 to 15 minutes, or until golden brown. Split the warm cake, and fill and top with sweetened strawberries and whipped cream."
 ---
-## Author
+*A classic, old-fashioned recipe for a single, large shortcake baked in a round pan. This rich, biscuit-style cake is designed to be split and filled with fresh strawberries and cream.*
+### Author
 Unknown
 ___
 ## Recipe
-
-| Measurements | Ingredients               |
-| :----------- | ------------------------- |
-| 2 C.              | [[Flour]]     |
-| 1 Tbsp           | [[Baking Powder]] |
-| ½ tsp            | [[Salt]]      |
-| ⅓ C.             | [[Butter]]    |
-| 1                 | [[Egg]]       |
-| ½ C              | [[Milk]]      |
-| 6 Tbsp           | [[Sugar]]     |
+| Measurements      | Ingredients                                        |
+| :---------------- | :------------------------------------------------- |
+| 2 Cups            | [[Flour]]                                          |
+| 1 Tbsp            | [[Baking Powder]]                                  |
+| 6 Tbsp            | [[Sugar]]                                          |
+| ½ tsp             | [[Salt]]                                           |
+| ⅓ Cup             | [[Butter]], cold                                   |
+| 1                 | [[Egg]]                                            |
+| ½ Cup             | [[Milk]]                                           |
 ___
-### Instructions
-1. Sift Together Flour, Baking Powder, Sugar, And Salt.
-2. Cut In Butter With Pastry Blender Until Mixture Resembles Coarse Meal.
-3. Pour Beaten Egg Into Measuring Cup And Add Milk To Make ¾ Cup.
-4. Gradually Stir Into Flour Mixture.
-5. Knead 20 Seconds.
-6. Pat Half The Dough Into Round Greased 8 Inch Cake Pan.
-7. Brush With Melted Butter.
-8. Pat Out Remaining Half Of Dough And Place On Top.
-9. Bake At 450 Degrees For 12 To 15 Minutes.
+## Instructions
+1.  Preheat your oven to 450°F. Grease an 8-inch round cake pan.
+2.  In a large bowl, sift or whisk together the flour, baking powder, sugar, and salt.
+3.  Cut in the cold butter with a pastry blender or your fingertips until the mixture resembles coarse meal.
+4.  In a glass measuring cup, lightly beat the egg. Add enough milk to the cup to measure a total of ¾ cup of liquid.
+5.  Gradually stir the milk-egg mixture into the flour mixture with a fork until a soft dough forms.
+6.  Turn the dough out onto a lightly floured surface and knead gently for about 20 seconds.
+7.  Divide the dough in half. Pat half of the dough into the bottom of the prepared pan.
+8.  Brush the top of the dough in the pan with a little melted butter.
+9.  Pat out the remaining half of the dough into an 8-inch round and place it on top of the buttered layer.
+10. Bake for 12 to 15 minutes, or until golden brown.
+11. To serve, carefully split the warm cake along the buttered seam and fill with sweetened strawberries and whipped cream.
 ___
 ![[Handwritten_2025-01-26_082922.webp]]
-
 ![[Handwritten_2025-01-26_083033 (2).webp]]

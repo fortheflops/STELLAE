@@ -22,7 +22,9 @@ title: Updates
 |                                     | Unknown 18                |     | New Mexico    |
 |                                     | Unknown 19                |     | Georgia       |
 |                                     | Jean Collection           | JEC | New Mexico    |
-|                                     |                           |     |               |
+|                                     | John B. Collection        | JBC | New Mexico    |
+|                                     | Crocker Collection        | CC  | Tennessee     |
+|                                     | Unknown 20                |     | Maine         |
 
 
 

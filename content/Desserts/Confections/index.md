@@ -2,31 +2,44 @@
 title: Confections
 ---
 # Brittle
-[[Microwave Peanut Brittle UK3| Microwave Peanut Brittle]]
+[[Mickey Martin's Microwave Peanut Brittle UK3| Mickey Martin's Microwave Peanut Brittle]]
 [[Peanut Brittle UK3| Peanut Brittle]]
 # Candy
 [[Candied Walnuts PC| Candied Walnuts]]
-[[Candy Fours PC| Candy Fours]]
 [[Chocolate Almond Raisin Clusters UK2| Chocolate Almond Raisin Clusters]]
-[[Hard Candy LOC| Hard Candy]]
-[[Molly's Toffee PC| Molly's Toffee]]
-[[Rocky Road Candy UK3| Rocky Road Candy]]
+[[Classic Hard Candy (Lollipops) LOC| Classic Hard Candy (Lollipops)]]
+[[Easy Rocky Road Fudge UK3| Easy Rocky Road Fudge]]
 ## Bon Bons
-[[Pecan Bon Bons UK2| Pecan Bon Bons]]
+[[The Murphys' Pecan Bon Bons UK2| The Murphys' Pecan Bon Bons]]
+## Caramels
+[[Nutty Caramels (Candy Fours) PC| Nutty Caramels (Candy Fours)]]
+## Date Roll
+[[No-Bake Date Nut Loaf (Candy) UK2| Nutty Caramels (Candy Fours)]]
+## Sugar Molding
+[[Classic Decorative Sugar Molding LOC| Classic Decorative Sugar Molding]]
+## Toffee
+[[Molly's Toffee PC| Molly's Toffee]]
 ## Truffles
 [[Brandy & Rum Balls UK15| Brandy & Rum Balls]]
-[[Brandy Balls GC| Brandy Balls]]
-[[Nutty Brandy Balls UK15| Nutty Brandy Balls]]
-[[Rum Balls LOC| Rum Balls]]
+[[Chocolate Brandy Balls GC| Chocolate Brandy Balls]]
+[[Nutty Brandy & Rum Balls UK15| Nutty Brandy & Rum Balls]]
+[[Chocolate Rum Balls LOC| Chocolate Rum Balls]]
+## Turtles
+[[Millionaires UK3| Millionaires]]
 # Divinity
 [[Butter Divinity UK3| Butter Divinity]]
 [[Divinity UK3| Divinity]]
+# Fondue
+[[Chocolate Fondue LOC| Chocolate Fondue]]
 # Fudge
-[[Copycat See's 175 Fudge GC|Copycat See's 175 Fudge ]]
-[[Fudge Candy GC| Fudge Candy]]
+[[Copycat See's 175 Fudge GC| Copycat See's 175 Fudge ]]
+[[Fantasy Fudge GC| Fantasy Fudge]]
+[[Jackie's Peanut Butter Fudge UK15| Jackie's Peanut Butter Fudge]]
 [[Lorraine's Chocolate Fudge UK2| Lorraine's Chocolate Fudge]]
-[[Marshmallow Fudge UK2| Marshmallow Fudge]]
 [[Oatmeal-Fudge Bars UK5| Oatmeal-Fudge Bars]]
-[[Peanut Butter Fudge UK15| Peanut Butter Fudge]]
+[[Old-Fashioned Marshmallow Fudge UK2| Old-Fashioned Marshmallow Fudge]]
+# Popcorn
+[[Caramel Corn (Large Batch) UK3| Caramel Corn (Large Batch)]]
+[[Oven-Baked Caramel Popcorn GC| Oven-Baked Caramel Popcorn]]
 # Pralines
 [[Andria's Pralines UK2| Andria's Pralines]]
