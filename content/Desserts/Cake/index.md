@@ -3,7 +3,7 @@ title: Cake
 ---
 
 # Alcohol 
-[[Bacardi Rum Cake PC| Bacardi Rum Cake
+[[Bacardi Rum Cake PC| Bacardi Rum Cake]]
 [[Chocolate Rum Cake UK3| Chocolate Rum Cake]]
 [[Snooks' Bacardi Rum Cake GC| Snooks' Bacardi Rum Cake]]
 # Angel Food Cake

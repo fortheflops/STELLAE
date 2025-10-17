@@ -1,8 +1,8 @@
 ---
 title: Cookies & Bars
 ---
-# [[content/Desserts/Cookies & Bars/Bars/index|Bars]]
+# [[Desserts/Cookies & Bars/Bars/index|Bars]]
 
-# [[content/Desserts/Cookies & Bars/Brownies/index|Brownies]]
+# [[Desserts/Cookies & Bars/Brownies/index|Brownies]]
 
-# [[content/Desserts/Cookies & Bars/Cookies/index|Cookies]]
+# [[Desserts/Cookies & Bars/Cookies/index|Cookies]]

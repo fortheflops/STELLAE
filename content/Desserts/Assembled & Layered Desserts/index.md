@@ -1,5 +1,6 @@
 ---
 title: Assembled & Layered Desserts
+Date: 2025-10-16
 ---
 # Casserole
 [[Blintz Casserole JC| Blintz Casserole]]
