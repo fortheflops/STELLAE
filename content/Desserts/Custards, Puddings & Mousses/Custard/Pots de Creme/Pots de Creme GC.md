@@ -15,7 +15,7 @@ recipe:
   datePublished: "2025-10-12"
   description: "An incredibly simple and elegant no-bake chocolate pots de crème, made quickly in a blender for a rich, smooth, and decadent dessert."
   image:
-    - "https://cucinamezzaluna.com/Desserts/Custards,%20Puddings%20&%20Mousses/Pots%20de%20Creme/Assets/Handwritten_2025-05-30_113023.webp"
+    - "https://cucinamezzaluna.com/Desserts/Custards,%20Puddings%20&%20Mousses/Custard/Pots%20de%20Creme/Assets/Handwritten_2025-05-30_113023.webp"
   prepTime: PT10M
   cookTime: PT0M
   totalTime: PT10M
