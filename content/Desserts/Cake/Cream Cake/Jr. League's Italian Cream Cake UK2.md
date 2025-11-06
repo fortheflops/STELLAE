@@ -80,7 +80,7 @@ ___
 9.  Pour the batter evenly into the three prepared pans.
 10. Bake for 25 minutes, or until a toothpick inserted into the center comes out clean.
 11. Let the cakes cool in the pans for 10 minutes before turning them out onto a wire rack to cool completely.
-12. Frost with your favorite [[Classic Cream Cheese Frosting UK2|Cream Cheese Frosting]].
+12. Frost with your favorite [[Classic Cream Cheese Frosting|Cream Cheese Frosting]].
 ___
 
 >[!Note]

@@ -72,7 +72,7 @@ ___
 5.  Add the unbeaten egg and beat for 2 more minutes.
 6.  Pour the batter into the prepared pan.
 7.  Bake for 25-35 minutes, or until a toothpick inserted into the center comes out clean.
-8.  Let the cake cool completely before frosting with [[Classic Boiled Lemon Icing UK2|Lemon Cake Icing]].
+8.  Let the cake cool completely before frosting with [[Classic Boiled Lemon Icing|Lemon Cake Icing]].
 ___
 
 >[!Note]
