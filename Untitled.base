@@ -3,9 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - recipe.isEmpty()
-        - file.folder.contains("Bread")
-        - "!title.isEmpty()"
+        - file.tags.contains("Alcohol")
     sort:
       - property: file.name
         direction: ASC

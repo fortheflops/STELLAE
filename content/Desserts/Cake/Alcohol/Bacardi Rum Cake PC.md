@@ -1,57 +1,56 @@
 ---
-title: "Bacardi Rum Cake"
-description: "A classic and incredibly moist Bundt cake from Billiepaul, made easy with a cake mix base. It's infused with a generous amount of rum and soaked in a buttery rum glaze."
+title: Bacardi Rum Cake
+description: A classic and incredibly moist Bundt cake from Billiepaul, made easy with a cake mix base. It's infused with a generous amount of rum and soaked in a buttery rum glaze.
 tags:
   - "#PatsyCollection"
-  - "#Alcohol"
 date: 2025-09-22
 draft: false
 recipe:
   "@context": https://schema.org/
   "@type": Recipe
-  name: "Bacardi Rum Cake"
+  name: Bacardi Rum Cake
   author:
     "@type": Person
     name: Billiepaul
-  datePublished: "2025-09-22"
-  description: "A classic Bundt cake using a yellow cake mix, infused with rum and soaked in a buttery rum glaze. With special notes for high-altitude baking."
+  datePublished: 2025-09-22
+  description: A classic Bundt cake using a yellow cake mix, infused with rum and soaked in a buttery rum glaze. With special notes for high-altitude baking.
   image:
-    - "https://cucinamezzaluna.com/Desserts/Cake/Alcohol/Assets/Document_2025-01-11_110157.webp"
+    - https://cucinamezzaluna.com/Desserts/Cake/Alcohol/Assets/Document_2025-01-11_110157.webp
   prepTime: PT15M
   cookTime: PT50M
   totalTime: PT1H5M
-  recipeYield: "1 Bundt cake (12-16 servings)"
+  recipeYield: 1 Bundt cake (12-16 servings)
   recipeCategory: Dessert
   recipeCuisine: American
   recipeIngredient:
     - "For the Cake:"
-    - "1 (18.25-ounce) box yellow cake mix (butter flavor preferred)"
-    - "1 (3.4-ounce) package instant vanilla pudding mix"
-    - "4 large eggs"
-    - "1/2 cup cold water"
-    - "1/2 cup vegetable oil"
-    - "1/2 cup light or dark rum"
-    - "1/2 cup chopped pecans or walnuts"
+    - 1 (18.25-ounce) box yellow cake mix (butter flavor preferred)
+    - 1 (3.4-ounce) package instant vanilla pudding mix
+    - 4 large eggs
+    - 1/2 cup cold water
+    - 1/2 cup vegetable oil
+    - 1/2 cup light or dark rum
+    - 1/2 cup chopped pecans or walnuts
     - "For the Glaze:"
-    - "1/2 cup (1 stick) butter"
-    - "1/4 cup water"
-    - "1 cup granulated sugar"
-    - "1/2 cup dark rum (80 proof recommended)"
+    - 1/2 cup (1 stick) butter
+    - 1/4 cup water
+    - 1 cup granulated sugar
+    - 1/2 cup dark rum (80 proof recommended)
   recipeInstructions:
     - "@type": HowToStep
-      text: "Preheat oven to 325°F (for high altitude) or 350°F (for standard altitude). Generously grease and flour a Bundt or angel food cake pan. Sprinkle the chopped nuts evenly over the bottom of the pan."
+      text: Preheat oven to 325°F (for high altitude) or 350°F (for standard altitude). Generously grease and flour a Bundt or angel food cake pan. Sprinkle the chopped nuts evenly over the bottom of the pan.
     - "@type": HowToStep
-      text: "In a large bowl, combine the cake mix, pudding mix, eggs, cold water, oil, and 1/2 cup of rum. Beat with an electric mixer according to the cake mix box directions."
+      text: In a large bowl, combine the cake mix, pudding mix, eggs, cold water, oil, and 1/2 cup of rum. Beat with an electric mixer according to the cake mix box directions.
     - "@type": HowToStep
-      text: "Pour the batter evenly over the nuts in the prepared pan."
+      text: Pour the batter evenly over the nuts in the prepared pan.
     - "@type": HowToStep
-      text: "Bake for 45-50 minutes, or until a wooden skewer inserted into the center comes out clean."
+      text: Bake for 45-50 minutes, or until a wooden skewer inserted into the center comes out clean.
     - "@type": HowToStep
-      text: "Let the cake cool in the pan for about 15 minutes before inverting it onto a serving plate. While it cools, prepare the glaze."
+      text: Let the cake cool in the pan for about 15 minutes before inverting it onto a serving plate. While it cools, prepare the glaze.
     - "@type": HowToStep
-      text: "For the glaze, melt the butter in a saucepan. Stir in the water and sugar. Bring to a boil and cook for 5 minutes, stirring constantly. Remove from heat and stir in the 1/2 cup of dark rum."
+      text: For the glaze, melt the butter in a saucepan. Stir in the water and sugar. Bring to a boil and cook for 5 minutes, stirring constantly. Remove from heat and stir in the 1/2 cup of dark rum.
     - "@type": HowToStep
-      text: "Generously poke holes all over the warm cake with a toothpick or skewer. Slowly brush or spoon the hot glaze over the cake, allowing it to soak in."
+      text: Generously poke holes all over the warm cake with a toothpick or skewer. Slowly brush or spoon the hot glaze over the cake, allowing it to soak in.
 ---
 *A classic and incredibly moist Bundt cake from Billiepaul, made easy with a cake mix base. It's infused with a generous amount of rum and soaked in a buttery rum glaze.*
 ### Author

@@ -20,19 +20,20 @@ title: Updates
 |                                     | Unknown 16                |     | New Mexico    |
 |                                     | Unknown 17                |     | Massachusetts |
 |                                     | Unknown 18                |     | New Mexico    |
-|                                     | Unknown 19                |     | Georgia       |
 |                                     | Jean Collection           | JEC | New Mexico    |
 |                                     | John B. Collection        | JBC | New Mexico    |
 |                                     | Crocker Collection        | CC  | Tennessee     |
 |                                     | Unknown 20                |     | Maine         |
+|                                     | Unknown 21                |     | New Mexico    |
 
 
 
-| In Progress       | TAG               |     | Location    |
-| ----------------- | ----------------- | --- | ----------- |
-| Unknown 4         | #UnknownFour      | UK4 | New Mexico  |
-| Louise Collection | #LouiseCollection | LOC | Chula Vista |
-| Jill Collection   | #JillCollection   | JC  | New Mexico  |
+| In Progress       | TAG               |      | Location    |
+| ----------------- | ----------------- | ---- | ----------- |
+| Unknown 4         | #UnknownFour      | UK4  | New Mexico  |
+| Louise Collection | #LouiseCollection | LOC  | Chula Vista |
+| Jill Collection   | #JillCollection   | JC   | New Mexico  |
+| Unknown 19        | #UnknownNineteen  | UK19 | Georgia     |
 
 
 | Done Exc. Copywritten Recipes | TAG                   |      | Location   |

@@ -56,6 +56,7 @@ title: Sides
 [[Pantry Cole Slaw UK2| Pantry Cole Slaw]]
 ## Corn
 [[Creamed Corn UK3| Creamed Corn]]
+[[Herbed Roasting Ears (Roasted Corn)]]
 ### Grits
 [[Grits UK3| Grits]]
 ## Potatoes

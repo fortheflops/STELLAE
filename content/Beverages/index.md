@@ -43,11 +43,13 @@ title: Beverages
 # Milkshake
 [[Old-Fashioned Chocolate Milkshake LOC| Old-Fashioned Chocolate Milkshake]]
 # Punch
+[[Blushing Beauty Drink]]
 [[Classic Party Punch GC| Classic Party Punch]]
 [[Fruity Party Punch UK3| Fruity Party Punch]]
 [[Classic Coke Punch UK3| Classic Coke Punch]]
 [[Cranberry Fizz Punch UK15| Cranberry Fizz Punch]]
 [[Creamy Colada Punch UK15| Creamy Colada Punch]]
+[[Frosted Pineapple-Banana Crush]]
 [[Good Punch (Simple Three-Juice Punch) LOC| Good Punch (Simple Three-Juice Punch)]]
 [[Hot Buttered Cranberry Punch LOC| Hot Buttered Cranberry Punch]]
 [[Merry Berry Punch UK3| Merry Berry Punch]]
