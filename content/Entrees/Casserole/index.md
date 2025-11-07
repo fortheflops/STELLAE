@@ -5,6 +5,7 @@ title: Casserole
 [[24 Hour Omelette]]
 ## Strata
 [[Cheese Souffle (Breakfast Strata)]]
+[[Jill's Make-Ahead Breakfast Strata]]
 # Meat
 [[South of Border Casserole]]
 [[Cheddar Chowder Casserole]]

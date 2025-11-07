@@ -20,6 +20,7 @@ title: Salad
 ## Jello Salad
 ### Apricot
 [[Creamy Apricot Jello Salad UK3| Creamy Apricot Jello Salad]]
+[[Retro Apricot Jello Salad with Cheddar Topping]]
 ### Blueberry
 [[Blueberry Salad (Must Prepare Ahead) UK3| Blueberry Salad (Must Prepare Ahead) ]]
 [[Fluffy Blueberry Banana Jello Salad UK3| Fluffy Blueberry Banana Jello Salad]]

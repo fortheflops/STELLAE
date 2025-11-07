@@ -1,52 +1,7 @@
 ---
 title: Meat
 ---
-## Beef
-[[Barbecued Beef Skewers LOC| Barbecued Beef Skewers]]
-[[Braised Meat (Churcheo) GC| Braised Meat (Churcheo)]]
-[[Cabbage Rolls JC| Cabbage Rolls]]
-[[Chili Meat Balls UK15| Chili Meat Balls]]
-[[Curried Beef or Lamb LOC| Curried Beef or Lamb]]
-[[Korean Beef GC| Korean Beef]]
-[[Korean Green Beans & Beef UK2| Korean Green Beans & Beef]]
-[[Meat Cakes in Sour Cream UK2| Meat Cakes in Sour Cream]]
-[[Pot Roast JC| Pot Roast]]
-[[Stuffed Green or Red Peppers JC| Stuffed Green or Red Peppers]]
-[[Swedish Beef Rolls UK3| Swedish Beef Rolls]]
-[[Tex's Argentinean Beef Sauté LOC| Tex's Argentinean Beef Sauté]]
-[[Ukrainian Beef UK2| Ukrainian Beef]]
-### Braciola
-[[Braciole LOC| Braciole]]
-### Brisket
-[[3-Day Brisket UK3| 3-Day Brisket]]
-[[Boned Rolled Beef Brisket JC| Boned Rolled Beef Brisket]]
-[[Brisket UK3| Brisket]]
-[[Passover Brisket JC| Passover Brisket]]
-[[Simple Brisket JC| Simple Brisket]]
-### Sandwich
-#### Hamburgers
-[[Hamburger in Silver GC| Hamburger in Silver]]
-[[Taco Burgers LOC| Taco Burgers]]
-#### Sloppy Joes
-[[Sloppy Joes UK3| Sloppy Joes]]
-## Short Ribs
-[[Barbecued Short Ribs UK2| Barbecued Short Ribs]]
-[[Short Ribs JC| Short Ribs]]
-## Steak
-[[Panned Steak Strips LOC| Panned Steak Strips]]
-[[Russian Steak UK2| Russian Steak]]
-[[Steak Rolls Mexicana UK5| Steak Rolls Mexicana]]
-### Eye of Round
-[[Roast UK3| Roast]]
-### Flank Steak
-[[Flank Steak Teriyaki GC| Flank Steak Teriyaki]]
-### Eye of Round
-[[Green Pepper Round Steak UK5|Green Pepper Round Steak]]
-[[Oven Swiss Steak UK5| Oven Swiss Steak]]
-### Sirloin
-[[Sirloin Tip Roast JC| Sirloin Tip Roast]]
-## Tongue
-[[Pressure Cooker Tongue JC| Pressure Cooker Tongue]]
+# [[Entrees/Meat/Beef/index| Beef]]
 ## Chicken
 [[Artichokes & Chicken a la Cream GC| Artichokes & Chicken a la Cream]]
 [[Cathy's Chicken Parmigiana JC| Cathy's Chicken Parmigiana]]

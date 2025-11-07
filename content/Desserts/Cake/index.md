@@ -7,6 +7,7 @@ title: Cake
 [[Chocolate Rum Cake UK3| Chocolate Rum Cake]]
 [[Snooks' Bacardi Rum Cake GC| Snooks' Bacardi Rum Cake]]
 # Angel Food Cake
+[[Classic Homemade Angel Food Cake]]
 [[Mock Angel Food Cake UK2| Mock Angel Food Cake]]
 # Bundt Cake
 ## Better than Anything Cake
@@ -115,6 +116,8 @@ title: Cake
 [[Strawberry Cake with Strawberry Frosting UK3| Strawberry Cake with Strawberry Frosting]]
 ## Tomato
 [[Tomato Soup Cake PC| Tomato Soup Cake]]
+# Graham Cracker
+[[Faye's Graham Cracker Crumb Cake with Pineapple Frosting]]
 # Jam Cake
 [[Butterfield Jam Cake UK2| Butterfield Jam Cake]]
 [[Classic Spice Jam Cake UK2| Classic Spice Jam Cake]]

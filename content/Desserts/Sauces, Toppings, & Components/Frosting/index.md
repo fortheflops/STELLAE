@@ -4,6 +4,7 @@ title: Frosting
 [[Classic Boiled Vanilla Frosting (Seven-Minute Frosting)]]
 [[Classic Chocolate Fluff Frosting]]
 [[Classic Cream Cheese Frosting]]
+[[Fluffy Lemon Meringue Frosting (Cooked)]]
 [[Frosting for Spice Cake]]
 [[Frosting]]
 [[Fudgy Graham Cracker Frosting]]

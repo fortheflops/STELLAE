@@ -4,17 +4,15 @@ title: Entrees
 # [[Entrees/Casserole/index| Casserole]]
 
 # Chilaquilles
-[[Chilaquilles UK3| Chilaquilles]]
+[[Classic Baked Chilaquilles]]
 # Egg
 ## Egg Puff
-[[Jennie's Chili Egg Puff UK2| Jennie's Chili Egg Puff]]
-[[Spinach Puff UK3| Spinach Puff]]
+[[Jennie's Chili Egg Puff]]
+[[Riba's Spinach Puff]]
 ## Quiche
-[[Mushroom Quiche PC| Mushroom Quiche]]
-[[Quick Quiche UK3| Quick Quiche]]
-[[Sausage Quiche UK3| Sausage Quiche]]
-## Soufflé
-[[Easy Cheese Soufflé JC| Easy Cheese Soufflé]]
+[[Mushroom Quiche]]
+[[Quick Quiche with Ham and Swiss]]
+[[Theresa Rieff's Deep Dish Sausage Quiche]]
 # [[Entrees/Meat/index| Meat]]
 # Oats
 [[Muesli GC| Muesli]]
