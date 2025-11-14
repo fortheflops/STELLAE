@@ -3,7 +3,6 @@ title: Stuffed Summer Squash
 draft: false
 tags:
   - UnknownTwo
-  - "#Squash"
 ---
 ## Author
 Unknown

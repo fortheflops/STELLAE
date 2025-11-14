@@ -3,6 +3,9 @@ title: Salads
 ---
 # Crab Salad
 [[Hot Crab Salad UK3| Hot Crab Salad]]
+# Gelatin
+[[Classic Savory Molded Chicken Salad]]
+[[Savory Tuna Fish Mousse (Luncheon Salad)]]
 # Pasta Salad
 [[Bistro Chicken & Feta UK5| Bistro Chicken & Feta]]
 [[Macaroni Chicken Salad UK15| Macaroni Chicken Salad]]

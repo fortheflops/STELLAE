@@ -5,6 +5,7 @@ title: Meat
 [[Braciole (Italian Beef Rollups)]]
 # Braised
 [[Classic Simple Pot Roast with Onion & Pepper]]
+[[Judy Paris's Sweet & Spicy Hawaiian Braised Beef]]
 [[Rich, Tender Italian Wine-Braised Beef]]
 # Brisket
 [[Boned Rolled Beef Brisket (Pressure Cooker)]]

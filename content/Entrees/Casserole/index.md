@@ -6,7 +6,9 @@ title: Casserole
 ## Strata
 [[Cheese Souffle (Breakfast Strata)]]
 [[Jill's Make-Ahead Breakfast Strata]]
+[[Mary Agnes's Savory Cheese & Bread Bake]]
 # Meat
+## Beef
 [[South of Border Casserole]]
 [[Cheddar Chowder Casserole]]
 [[Cheesy Creamy Mexican Casserole]]
@@ -19,11 +21,28 @@ title: Casserole
 [[Easy Beef & Macaroni Casserole]]
 [[Easy Enchilada Casserole]]
 [[Italian-Style Beef and Rice Casserole]]
+[[Jay's Creamy Layered Beef & Noodle Casserole]]
 [[Jean's Hamburger Casserole]]
 [[Marilyn's Veal Casserole]]
 [[More Casserole (Beef & Noodle Bake)]]
 [[Paulette's E-Z Casserole]]
 [[Slow-Cooked Taco Casserole]]
+# Chicken
+[[Wanda's Layered Green Chile Chicken Casserole]]
+[[Cathy Ousawe's Curried Chicken & Wild Rice Casserole]]
+[[Cathy's Creamy No-Peek Chicken & Rice Casserole]]
+[[Classic Layered Chicken & Stuffing Casserole]]
+[[Creamy Chicken & Brussels Sprout Bake]]
+[[E. Wilson's Creamy Chicken Romanoff Casserole]]
+[[Easy Chicken & Cheese Crescent Roll Casserole]]
+[[Easy Crockpot Chicken Tortilla Casserole]]
+[[Easy Stovetop 'Cisco Chicken' Casserole]]
+[[Emily Pineda's Green Chile Chicken Enchilada Casserole]]
+[[Neva's Easy Italian Dressing Chicken & Rice Bake]]
+[[Party Chicken Casserole]]
+# Fish
+[[Creamy Tuna & Crispy Noodle Casserole]]
+[[Simple Baked Tuna Noodle Casserole (Custard-Style)]]
 # Meat and Vegetable
 [[Beef & Vegetable Casserole with Sour Cream Sauce]]
 ## Moussaka

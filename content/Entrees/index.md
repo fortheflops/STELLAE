@@ -66,4 +66,5 @@ title: Entrees
 ## Soy
 [[Textured Vegetable Protein GC| Textured Vegetable Protein]]
 ## Squash
+[[Cheesy Baked Summer Squash & Tomato Casserole]]
 [[Stuffed Summer Squash UK2| Stuffed Summer Squash]]

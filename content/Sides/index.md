@@ -14,7 +14,9 @@ title: Sides
 [[Noodle Pudding a la Martha JC| Noodle Pudding a la Martha]]
 [[content/Sides/Noodles/Pudding/Noodle Pudding JC| Noodle Pudding]]
 # Rice
+[[Gourmet Wild Rice Dressing (Stovetop or Baked)]]
 [[Real Rice GC| Real Rice]]
+[[Savory Mushroom & Wild Rice Stroganoff]]
 [[Simple Spanish Rice LOC| Simple Spanish Rice]]
 [[Sour Cream Rice PC| Sour Cream Rice]]
 [[Spanish Rice UK3| Spanish Rice]]
