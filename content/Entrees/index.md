@@ -13,6 +13,8 @@ title: Entrees
 [[Mushroom Quiche]]
 [[Quick Quiche with Ham and Swiss]]
 [[Theresa Rieff's Deep Dish Sausage Quiche]]
+# Handhelds
+[[Meaty Crescent Roll Turnovers (3 Variations)]]
 # [[Entrees/Meat/index| Meat]]
 # Oats
 [[Muesli GC| Muesli]]

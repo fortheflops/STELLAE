@@ -43,6 +43,9 @@ title: Casserole
 # Fish
 [[Creamy Tuna & Crispy Noodle Casserole]]
 [[Simple Baked Tuna Noodle Casserole (Custard-Style)]]
+# Pork
+[[Island Style Ham & Sweet Potato Casserole]]
+[[Savory Pork Chop & Rice Casserole]]
 # Meat and Vegetable
 [[Beef & Vegetable Casserole with Sour Cream Sauce]]
 ## Moussaka
