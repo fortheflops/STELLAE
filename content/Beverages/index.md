@@ -25,9 +25,10 @@ title: Beverages
 ## Tequila
 [[Classic Tequila Sunrise LOC| Classic Tequila Sunrise]]
 ## Wine
-[[Glögg (Swedish Mulled Wine) GC| Glögg (Swedish Mulled Wine)]]
-[[Classic Mulled Wine UK2| Classic Mulled Wine]]
-[[Merle's Mulled Rosé Punch LOC| Merle's Mulled Rosé Punch]]
+[[Merle's Mulled Rosé Punch]]
+[[Classic Mulled Wine]]
+[[Glögg (Swedish Mulled Wine)]]
+[[Homemade Choke Cherry Wine]]
 # Cider
 [[Classic Mulled Cider UK2| Classic Mulled Cider]]
 [[Spiced Cider UK2| Spiced Cider]]

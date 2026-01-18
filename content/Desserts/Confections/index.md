@@ -8,17 +8,19 @@ title: Confections
 [[Candied Walnuts PC| Candied Walnuts]]
 [[Chocolate Almond Raisin Clusters UK2| Chocolate Almond Raisin Clusters]]
 [[Classic Hard Candy (Lollipops) LOC| Classic Hard Candy (Lollipops)]]
-[[Easy Rocky Road Fudge UK3| Easy Rocky Road Fudge]]
 ## Bon Bons
 [[The Murphys' Pecan Bon Bons UK2| The Murphys' Pecan Bon Bons]]
 ## Caramels
-[[Nutty Caramels (Candy Fours) PC| Nutty Caramels (Candy Fours)]]
+[[Mary's Old-Fashioned Flour-Thickened Caramels]]
+[[Nutty Caramels (Candy Fours)]]
+[[Old-Fashioned Flour-Thickened Caramels]]
 ## Date Roll
 [[No-Bake Date Nut Loaf (Candy) UK2| Nutty Caramels (Candy Fours)]]
 ## Sugar Molding
 [[Classic Decorative Sugar Molding LOC| Classic Decorative Sugar Molding]]
 ## Toffee
-[[Molly's Toffee PC| Molly's Toffee]]
+[[Molly's Toffee (Saltine Toffee)]]
+[[Old-Fashioned Molasses Toffee]]
 ## Truffles
 [[Brandy & Rum Balls UK15| Brandy & Rum Balls]]
 [[Chocolate Brandy Balls GC| Chocolate Brandy Balls]]
@@ -32,7 +34,9 @@ title: Confections
 # Fondue
 [[Chocolate Fondue LOC| Chocolate Fondue]]
 # Fudge
-[[Copycat See's 175 Fudge GC| Copycat See's 175 Fudge ]]
+[[California Fruit Fudge]]
+[[Copycat See's 175 Fudge]]
+[[Easy Rocky Road Fudge]]
 [[Fantasy Fudge GC| Fantasy Fudge]]
 [[Jackie's Peanut Butter Fudge UK15| Jackie's Peanut Butter Fudge]]
 [[Lorraine's Chocolate Fudge UK2| Lorraine's Chocolate Fudge]]

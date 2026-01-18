@@ -54,7 +54,7 @@ recipe:
     - "@type": HowToStep
       text: Bake at 350°F for 1 hour.
 ---
-*A hearty one-dish meal. Browned pork chops are baked over a bed of rice and topped with onion, tomato, and green pepper in a savory consommé broth seasoned with marjoram and thyme.*
+ *A hearty one-dish meal. Browned pork chops are baked over a bed of rice and topped with onion, tomato, and green pepper in a savory consommé broth seasoned with marjoram and thyme.*
 ## Author
 Unknown
 ___
