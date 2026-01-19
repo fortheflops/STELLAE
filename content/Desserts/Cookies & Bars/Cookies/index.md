@@ -10,6 +10,8 @@ title: Cookies
 [[Danish Cookies GC| Danish Cookies]]
 [[Janet's Bizcochitos UK15| Janet's Bizcochitos]]
 [[Plain Butter and Cream Cheese Cookies JC| Plain Butter and Cream Cheese Cookies]]
+# Carrot
+[[Ursell's Glazed Carrot Cookies]]
 # Chocolate
 [[Chocolate Cookies UK2| Chocolate Cookies]]
 [[Classic Chocolate Crinkles UK2| Classic Chocolate Crinkles]]
@@ -23,7 +25,6 @@ title: Cookies
 [[Applesauce Spice Cookies UK2| Applesauce Spice Cookies]]
 [[Beatriz Mares' Cherry Winks UK2| Beatriz Mares' Cherry Winks ]]
 [[Cherry-Almond Balls GC| Cherry-Almond Balls]]
-[[Date-Nut Rocks UK2| Date-Nut Rocks]]
 [[Glazed Pineapple Drop Cookies UK2| Glazed Pineapple Drop Cookies]]
 [[Mary Dell's Millionaire Cookies UK2| Mary Dell's Millionaire Cookies]]
 [[Melinda's Fruit Cake Cookies UK3| Melinda's Fruit Cake Cookies]]
@@ -33,6 +34,9 @@ title: Cookies
 [[Spiced Apple Drop Cookies UK2| Spiced Apple Drop Cookies]]
 ## Lemon
 [[Betty Gaines' Lemonade Cookies UK2| Betty Gaines' Lemonade Cookies ]]
+## Date
+[[Date-Nut Rocks]]
+[[Jennie's Filled Date Cookies]]
 # Gingerbread
 [[Old-Fashioned Gingerbread UK2| Old-Fashioned Gingerbread]]
 # Meringue Cookies
@@ -63,10 +67,12 @@ title: Cookies
 [[Martha Daniel's Lace Cookies UK3| Martha Daniel's Lace Cookies]]
 # Refrigerator Cookies
 [[Classic Refrigerator Cookies (Slice-and-Bake) UK3| Classic Refrigerator Cookies (Slice-and-Bake)]]
+[[Orange Peanut Butter Ice Box Cookies]]
 [[Six-in-One Cookies UK2| Six-in-One Cookies]]
 [[Svarale's Refrigerator Cookies UK3| Svarale's Refrigerator Cookies]]
 # Shortbread
 [[Classic Sand Tarts (Pecan Shortbread Cookies) UK3| Classic Sand Tarts (Pecan Shortbread Cookies)]]
+[[Ida's Sugar Crescents]]
 [[Melt Away Cookies UK3| Melt Away Cookies]]
 [[Mexican Wedding Cakes JC| Mexican Wedding Cakes]]
 [[Shortbread UK3| Shortbread]]

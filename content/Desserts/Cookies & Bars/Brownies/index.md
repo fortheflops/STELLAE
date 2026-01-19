@@ -1,6 +1,7 @@
 ---
 title: Brownies
 ---
+[[Chocolate Pecan Squares]]
 [[Classic Cocoa Brownies UK3| Classic Cocoa Brownies ]]
 [[Fudgy Almond Brownies PC| Fudgy Almond Brownies]]
 [[Jackie's Brownies PC| Jackie's Brownies]]
