@@ -65,6 +65,7 @@ title: Bread
 [[Guacamole Quick Bread UK15| Guacamole Quick Bread]]
 [[Irish Soda Bread UK15| Irish Soda Bread]]
 [[Muldoves JC| Muldoves]]
+[[Vintage Orange Peel Bread]]
 # Toast
 [[Linda Brown's Parmesan Melba Toast UK3| Linda Brown's Parmesan Melba Toast]]
 # Torta
