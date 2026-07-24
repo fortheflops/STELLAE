@@ -2,12 +2,13 @@ import os
 import glob
 import json
 import shutil
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 from PIL import Image
 
-API_KEY = os.environ.get("GEMINI_API_KEY")
-genai.configure(api_key=API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+# Connect using the new official Google GenAI SDK
+client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
+MODEL_ID = 'gemini-2.5-flash'
 
 INTAKE_DIR = "intake"
 ARCHIVE_DIR = "archive/scans"
@@ -45,7 +46,6 @@ def process_intake():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs(ASSET_DIR, exist_ok=True)
 
-    # Search recursively so Python sees inside subfolders like /intake/John B. Collection/
     all_files = glob.glob(os.path.join(INTAKE_DIR, "**", "*.*"), recursive=True)
 
     for file_path in all_files:
@@ -60,15 +60,27 @@ def process_intake():
         print(f"🥘 Processing [{collection_name}] scan: {filename}...")
         
         try:
-            config = genai.GenerationConfig(response_mime_type="application/json", temperature=0.2)
+            config = types.GenerateContentConfig(
+                response_mime_type="application/json",
+                temperature=0.2
+            )
+            
             if file_path.lower().endswith('.pdf'):
-                sample_file = genai.upload_file(path=file_path)
-                response = model.generate_content([SYSTEM_PROMPT, sample_file], generation_config=config)
-                genai.delete_file(sample_file.name)
+                sample_file = client.files.upload(file=file_path)
+                response = client.models.generate_content(
+                    model=MODEL_ID,
+                    contents=[SYSTEM_PROMPT, sample_file],
+                    config=config
+                )
+                client.files.delete(name=sample_file.name)
                 save_and_archive(response.text, [file_path], filename, collection_name, is_pdf=True)
             elif file_path.lower().endswith(('png', 'jpg', 'jpeg', 'heic')):
                 img = Image.open(file_path)
-                response = model.generate_content([SYSTEM_PROMPT, img], generation_config=config)
+                response = client.models.generate_content(
+                    model=MODEL_ID,
+                    contents=[SYSTEM_PROMPT, img],
+                    config=config
+                )
                 save_and_archive(response.text, [file_path], filename, collection_name, img_obj=img)
         except Exception as e:
             print(f"❌ Failed processing on {filename}: {e}")
