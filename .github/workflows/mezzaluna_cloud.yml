@@ -37,5 +37,6 @@ jobs:
         run: |
           git config --global user.name "Mezzaluna Cloud Bot"
           git config --global user.email "bot@cucinamezzaluna.com"
-          git add content/ archive/ intake/
+          # Using git add -A safely stages any new recipes or archived scans without crashing on empty folders!
+          git add -A
           git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-digitized new recipe scan [skip ci]" && git push origin v4)
