@@ -8,7 +8,7 @@ from PIL import Image
 
 # Connect using the new official Google GenAI SDK
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
-MODEL_ID = 'gemini-2.5-flash'
+MODEL_ID = 'gemini-3.5-flash'
 
 INTAKE_DIR = "intake"
 ARCHIVE_DIR = "archive/scans"
