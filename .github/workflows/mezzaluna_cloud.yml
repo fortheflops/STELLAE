@@ -1,0 +1,41 @@
+name: Mezzaluna Cloud Recipe Extractor
+
+on:
+  push:
+    paths:
+      - 'intake/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extract-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-generativeai pillow
+
+      - name: Run Recipe Extraction Script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/process_cloud_recipe.py
+
+      - name: Commit and Push New Recipe to v4 Branch
+        run: |
+          git config --global user.name "Mezzaluna Cloud Bot"
+          git config --global user.email "bot@cucinamezzaluna.com"
+          git add content/ archive/ intake/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-digitized new recipe scan [skip ci]" && git push origin v4)
