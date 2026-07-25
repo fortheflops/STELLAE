@@ -1,6 +1,7 @@
 import os
 import json
 import shutil
+import time
 from google import genai
 from google.genai import types
 
@@ -11,7 +12,6 @@ MODEL_ID = 'gemini-3.5-flash'
 CONTENT_DIR = "content"
 ASSET_DIR = "content/assets/scans"
 
-# THE KITCHEN-READY PROMPT: Enforces usability, sensory cues, equipment, and flat categorization
 LIBRARIAN_PROMPT = """
 You are an expert digital librarian and culinary archivist for Cucina Mezzaluna.
 Your task is to take an older recipe file and upgrade it into our standardized "Kitchen-Ready" archival schema.
@@ -19,7 +19,7 @@ Your task is to take an older recipe file and upgrade it into our standardized "
 CRITICAL LIBRARIAN RULES:
 1. "title": Clean, proper Title Case (e.g., "Mocha Rolls", "Chilled Spiced Rhubarb Soup").
 2. "category": Strictly ONE of: Appetizers, Basics, Beverages, Bread, Breakfast, Desserts, Entrees, Preserves, Salads, Sauces, Sides, Snacks, Soups.
-3. "collection" & "author": Extract collection origin or author if mentioned in the text or folder path (default to "General Archive" and "Unknown" if missing).
+3. "collection" & "author": Extract collection origin or author if mentioned in the text or filename abbreviations like GC, UK15, JC, LOC (default to "General Archive" and "Unknown" if missing).
 4. "tags": Array of lowercase tags (e.g., dish type, primary ingredients, make-ahead, vintage).
 5. "equipment": Array of key kitchen tools needed (e.g., ["3-quart saucepan", "Wire whisk"]).
 6. "ingredients_sections": Array of sections (e.g., "For the Base", "For the Topping"). If flat, use "Main Ingredients". Each item MUST have "measurement", "ingredient" (wrap key items in wikilinks like [[Rhubarb]]), and "notes" (prep state like "diced", "cold", or "divided").
@@ -71,7 +71,7 @@ def reformat_archive():
             if file.lower().endswith('.md'):
                 all_md_files.append(os.path.join(root, file))
                 
-    print(f"📖 Found {len(all_md_files)} markdown file(s). Starting Kitchen-Ready upgrade...")
+    print(f"📖 Found {len(all_md_files)} markdown file(s). Starting Kitchen-Ready upgrade with rate-limit protection...")
     
     for file_path in all_md_files:
         filename = os.path.basename(file_path)
@@ -80,24 +80,47 @@ def reformat_archive():
         if filename.lower() in ["index.md", "about.md", "contact.md", "404.md"]:
             continue
             
-        print(f"📚 Processing: {filename}...")
-        
         try:
             with open(file_path, "r", encoding="utf-8") as f:
                 raw_content = f.read()
                 
-            config = types.GenerateContentConfig(response_mime_type="application/json", temperature=0.1)
-            response = client.models.generate_content(
-                model=MODEL_ID,
-                contents=[LIBRARIAN_PROMPT, f"CURRENT FILE PATH: {file_path}\n\nRAW RECIPE CONTENT:\n{raw_content}"],
-                config=config
-            )
+            # SMART SKIP: If file is already upgraded to Kitchen-Ready format, skip it!
+            if "### 🔪 Key Equipment" in raw_content or "| Inactive / Chill Time |" in raw_content:
+                print(f"⏭️ Already upgraded, skipping: {filename}")
+                continue
+                
+            print(f"📚 Processing: {filename}...")
             
-            data = json.loads(response.text)
-            save_upgraded_recipe(file_path, data)
+            # AUTO-RETRY LOOP: Tries up to 3 times if Google throws a 429 or 503 error
+            max_retries = 3
+            for attempt in range(max_retries):
+                try:
+                    config = types.GenerateContentConfig(response_mime_type="application/json", temperature=0.1)
+                    response = client.models.generate_content(
+                        model=MODEL_ID,
+                        contents=[LIBRARIAN_PROMPT, f"CURRENT FILE PATH: {file_path}\n\nRAW RECIPE CONTENT:\n{raw_content}"],
+                        config=config
+                    )
+                    
+                    data = json.loads(response.text)
+                    save_upgraded_recipe(file_path, data)
+                    
+                    # SMART THROTTLE: Sleep 3.5 seconds to stay under Google's 20 RPM Free Tier limit!
+                    time.sleep(3.5)
+                    break # Success! Break out of the retry loop
+                    
+                except Exception as e:
+                    error_msg = str(e)
+                    if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg or "503" in error_msg:
+                        wait_time = 60 * (attempt + 1)
+                        print(f"⏳ Rate limit or server spike hit! Resting for {wait_time} seconds before attempt {attempt + 2}/{max_retries}...")
+                        time.sleep(wait_time)
+                    else:
+                        print(f"❌ Failed librarian reformat on {filename}: {e}")
+                        break
             
         except Exception as e:
-            print(f"❌ Failed librarian reformat on {filename}: {e}")
+            print(f"❌ Could not open file {filename}: {e}")
 
     # Prune empty legacy subfolders after moving recipes to top-level rooms
     cleanup_empty_folders(CONTENT_DIR)
@@ -112,14 +135,12 @@ def save_upgraded_recipe(old_file_path, data):
     if category not in valid_cats:
         category = "Other"
         
-    # Migrate scattered images to central content/assets/scans/
     img_path = data.get('existing_image_path')
     webp_embed = ""
     
     if img_path:
         old_img_full = os.path.join(CONTENT_DIR, img_path.lstrip('/'))
         if not os.path.exists(old_img_full):
-            # Check if it was a local path relative to the old markdown file
             old_img_full = os.path.join(os.path.dirname(old_file_path), img_path)
             
         if os.path.exists(old_img_full) and not os.path.isdir(old_img_full):
@@ -134,11 +155,9 @@ def save_upgraded_recipe(old_file_path, data):
         else:
             webp_embed = f"\n---\n## Original Recipe Scan\n![Original Handwritten Card]({img_path})\n"
 
-    # Build Equipment Section
     equip_list = data.get('equipment', [])
     equip_md = "### 🔪 Key Equipment\n" + "\n".join([f"* {item}" for item in equip_list]) + "\n\n---\n" if equip_list else ""
 
-    # Build Ingredients Tables
     ing_md = "## Ingredients\n\n"
     for sec in data.get('ingredients_sections', []):
         sec_title = sec.get('section_title', 'Main Ingredients')
@@ -149,7 +168,6 @@ def save_upgraded_recipe(old_file_path, data):
             ing_md += f"| {item.get('measurement', '')} | {item.get('ingredient', '')} | {item.get('notes', '')} |\n"
         ing_md += "\n"
 
-    # Build Instructions Sections
     inst_md = "## Instructions\n\n"
     step_num = 1
     for sec in data.get('instructions_sections', []):
@@ -161,7 +179,6 @@ def save_upgraded_recipe(old_file_path, data):
             step_num += 1
         inst_md += "\n"
 
-    # Make Ahead Notes
     make_ahead = data.get('make_ahead_notes')
     make_ahead_md = f"---\n\n> 💡 **Make-Ahead & Storage:** {make_ahead}\n" if make_ahead else ""
 
@@ -194,7 +211,6 @@ recipe: {json.dumps(data.get('json_ld_schema', '{}'))}
 
 {inst_md}{make_ahead_md}{webp_embed}"""
 
-    # Save to the flat, top-level category room!
     cat_dir = os.path.join(CONTENT_DIR, category)
     os.makedirs(cat_dir, exist_ok=True)
     new_file_path = os.path.join(cat_dir, new_filename)
@@ -203,7 +219,6 @@ recipe: {json.dumps(data.get('json_ld_schema', '{}'))}
         f.write(markdown_content)
     print(f"✨ Upgraded -> [{category}]: {new_filename}")
     
-    # Delete old file if it was renamed or moved out of a subfolder
     if os.path.abspath(old_file_path) != os.path.abspath(new_file_path):
         os.remove(old_file_path)
         print(f"🗑️ Cleaned up old file path: {old_file_path}")
@@ -213,7 +228,6 @@ def cleanup_empty_folders(directory):
     for root, dirs, files in os.walk(directory, topdown=False):
         for name in dirs:
             folder_path = os.path.join(root, name)
-            # Do not delete our central assets folder!
             if os.path.abspath(folder_path) == os.path.abspath(ASSET_DIR):
                 continue
             try:
