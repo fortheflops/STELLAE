@@ -4,58 +4,74 @@ import shutil
 from google import genai
 from google.genai import types
 
-# Connect using the modern Google GenAI SDK
+# Connect using the official Google GenAI SDK
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 MODEL_ID = 'gemini-3.5-flash'
 
 CONTENT_DIR = "content"
+ASSET_DIR = "content/assets/scans"
 
+# THE KITCHEN-READY PROMPT: Enforces usability, sensory cues, equipment, and flat categorization
 LIBRARIAN_PROMPT = """
 You are an expert digital librarian and culinary archivist for Cucina Mezzaluna.
-Your task is to take an older, poorly formatted recipe markdown file and standardize it into our strict archival schema.
+Your task is to take an older recipe file and upgrade it into our standardized "Kitchen-Ready" archival schema.
 
 CRITICAL LIBRARIAN RULES:
 1. "title": Clean, proper Title Case (e.g., "Mocha Rolls", "Chilled Spiced Rhubarb Soup").
-2. "category": Strictly ONE of: Appetizers, Beverages, Bread, Desserts, Entrees, Salads, Sauces, Sides, Snacks, Soups.
-3. "author": Extract the author or attribution if mentioned in the text (default to "Unknown" if not found).
-4. "tags": Include descriptive archival tags (e.g., dish type, primary ingredients, historical era like "vintage" or "1960s").
-5. "ingredients_table": Parse all ingredients into an array of objects with "measurement" and "ingredient". Wrap foundational ingredients in wikilinks (e.g., [[Rhubarb]], [[Vanilla]]).
-6. "instructions": Chronological steps. MUST BOLD all ingredient names and exact measurements inside the steps (e.g., "Whisk the **2 Tbsp cornstarch** into the **cold water**...").
-7. "existing_image_path": If the raw markdown contains an image link (e.g., ![](/assets/scans/foo.webp) or ![](Assets/foo.webp)), extract exactly that path string so we can preserve it! If none exists, return null.
+2. "category": Strictly ONE of: Appetizers, Basics, Beverages, Bread, Breakfast, Desserts, Entrees, Preserves, Salads, Sauces, Sides, Snacks, Soups.
+3. "collection" & "author": Extract collection origin or author if mentioned in the text or folder path (default to "General Archive" and "Unknown" if missing).
+4. "tags": Array of lowercase tags (e.g., dish type, primary ingredients, make-ahead, vintage).
+5. "equipment": Array of key kitchen tools needed (e.g., ["3-quart saucepan", "Wire whisk"]).
+6. "ingredients_sections": Array of sections (e.g., "For the Base", "For the Topping"). If flat, use "Main Ingredients". Each item MUST have "measurement", "ingredient" (wrap key items in wikilinks like [[Rhubarb]]), and "notes" (prep state like "diced", "cold", or "divided").
+7. "instructions_sections": Array of chronological sections (e.g., "Step 1: Simmer the Base"). MUST BOLD all measurements and ingredient names inside the text! Include sensory doneness cues (e.g., "...until golden brown and fragrant").
+8. "make_ahead_notes": A 1-2 sentence storage/make-ahead tip (or null if not applicable).
+9. "existing_image_path": Extract the exact relative or absolute path of any existing markdown image link (e.g., ![](/assets/scans/foo.webp) or ![](Assets/foo.webp)). If none exists, return null.
 
 Return ONLY a raw JSON object with:
 {
     "title": "Clean Title Case Name",
     "category": "Desserts",
-    "author": "Patsy's collection",
-    "tags": ["vintage", "rhubarb", "dessert-soup"],
+    "collection": "Patsy's Collection",
+    "author": "Patsy",
+    "tags": ["vintage", "rhubarb", "make-ahead"],
+    "description": "A 2-sentence SEO optimized archival description.",
     "prep_time": "15 mins",
     "cook_time": "20 mins",
-    "servings": "4",
-    "description": "A 2-sentence SEO optimized archival description.",
+    "inactive_time": "2 hours (Chilling)",
+    "servings": "4–6 Servings",
+    "equipment": ["3-quart saucepan", "Wire whisk"],
     "existing_image_path": "/assets/scans/example.webp",
-    "ingredients_table": [
-        {"measurement": "4 Cups", "ingredient": "Diced [[Rhubarb]]"}
+    "ingredients_sections": [
+        {
+          "section_title": "For the Base",
+          "items": [
+            {"measurement": "4 Cups", "ingredient": "[[Rhubarb]]", "notes": "Diced into ½-inch pieces"}
+          ]
+        }
     ],
-    "instructions": [
-        "In a saucepan, combine the diced **rhubarb** and **4 cups of water**...",
-        "Simmer for **20 minutes**."
+    "instructions_sections": [
+        {
+          "section_title": "Step 1: Simmer",
+          "steps": [
+            "In a saucepan, combine the **4 cups rhubarb** and **water**. Simmer for **20 minutes** until tender."
+          ]
+        }
     ],
+    "make_ahead_notes": "Store sealed in the refrigerator for up to 4 days.",
     "json_ld_schema": "A valid stringified JSON-LD Recipe schema object."
 }
 """
 
 def reformat_archive():
-    print(f"🔍 Searching for recipe files in '{CONTENT_DIR}/' subfolders...")
+    print(f"🔍 Deep scanning '{CONTENT_DIR}/' for all recipe files...")
     
-    # Recursively traverse every subfolder inside content/
     all_md_files = []
     for root, dirs, files in os.walk(CONTENT_DIR):
         for file in files:
             if file.lower().endswith('.md'):
                 all_md_files.append(os.path.join(root, file))
                 
-    print(f"📖 Found {len(all_md_files)} markdown recipe file(s).")
+    print(f"📖 Found {len(all_md_files)} markdown file(s). Starting Kitchen-Ready upgrade...")
     
     for file_path in all_md_files:
         filename = os.path.basename(file_path)
@@ -64,7 +80,7 @@ def reformat_archive():
         if filename.lower() in ["index.md", "about.md", "contact.md", "404.md"]:
             continue
             
-        print(f"📚 Librarian AI processing: {filename} ({file_path})...")
+        print(f"📚 Processing: {filename}...")
         
         try:
             with open(file_path, "r", encoding="utf-8") as f:
@@ -73,7 +89,7 @@ def reformat_archive():
             config = types.GenerateContentConfig(response_mime_type="application/json", temperature=0.1)
             response = client.models.generate_content(
                 model=MODEL_ID,
-                contents=[LIBRARIAN_PROMPT, f"RAW RECIPE FILE TO REFORMAT:\n\n{raw_content}"],
+                contents=[LIBRARIAN_PROMPT, f"CURRENT FILE PATH: {file_path}\n\nRAW RECIPE CONTENT:\n{raw_content}"],
                 config=config
             )
             
@@ -83,68 +99,102 @@ def reformat_archive():
         except Exception as e:
             print(f"❌ Failed librarian reformat on {filename}: {e}")
 
+    # Prune empty legacy subfolders after moving recipes to top-level rooms
+    cleanup_empty_folders(CONTENT_DIR)
+
 def save_upgraded_recipe(old_file_path, data):
     raw_title = data.get('title', 'Untitled Dish').strip().title()
     safe_title = raw_title.replace("/", "-").replace("\\", "-")
     new_filename = safe_title + ".md"
     
     category = data.get('category', 'Other').strip().title()
-    if category not in ["Appetizers", "Beverages", "Bread", "Desserts", "Entrees", "Salads", "Sauces", "Sides", "Snacks", "Soups"]:
+    valid_cats = ["Appetizers", "Basics", "Beverages", "Bread", "Breakfast", "Desserts", "Entrees", "Preserves", "Salads", "Sauces", "Sides", "Snacks", "Soups"]
+    if category not in valid_cats:
         category = "Other"
         
+    # Migrate scattered images to central content/assets/scans/
     img_path = data.get('existing_image_path')
     webp_embed = ""
     
     if img_path:
-        old_img_full_path = os.path.join(CONTENT_DIR, img_path.lstrip('/'))
-        if os.path.exists(old_img_full_path):
-            img_name = os.path.basename(old_img_full_path)
-            new_img_full_path = os.path.join("content/assets/scans", img_name)
-            os.makedirs("content/assets/scans", exist_ok=True)
+        old_img_full = os.path.join(CONTENT_DIR, img_path.lstrip('/'))
+        if not os.path.exists(old_img_full):
+            # Check if it was a local path relative to the old markdown file
+            old_img_full = os.path.join(os.path.dirname(old_file_path), img_path)
             
-            if os.path.abspath(old_img_full_path) != os.path.abspath(new_img_full_path):
-                shutil.move(old_img_full_path, new_img_full_path)
+        if os.path.exists(old_img_full) and not os.path.isdir(old_img_full):
+            img_name = os.path.basename(old_img_full)
+            new_img_full = os.path.join(ASSET_DIR, img_name)
+            os.makedirs(ASSET_DIR, exist_ok=True)
+            
+            if os.path.abspath(old_img_full) != os.path.abspath(new_img_full):
+                shutil.move(old_img_full, new_img_full)
                 
-            webp_embed = f"\n---\n## Original Recipe Card\n![Original Handwritten Card](/assets/scans/{img_name})\n"
+            webp_embed = f"\n---\n## Original Recipe Scan\n![Original Handwritten Card](/assets/scans/{img_name})\n"
         else:
-            webp_embed = f"\n---\n## Original Recipe Card\n![Original Handwritten Card]({img_path})\n"
+            webp_embed = f"\n---\n## Original Recipe Scan\n![Original Handwritten Card]({img_path})\n"
 
-    # Clean up empty legacy Assets folders
-    old_dir = os.path.dirname(old_file_path)
-    legacy_assets_folder = os.path.join(old_dir, "Assets")
-    if os.path.exists(legacy_assets_folder) and not os.listdir(legacy_assets_folder):
-        os.rmdir(legacy_assets_folder)
+    # Build Equipment Section
+    equip_list = data.get('equipment', [])
+    equip_md = "### 🔪 Key Equipment\n" + "\n".join([f"* {item}" for item in equip_list]) + "\n\n---\n" if equip_list else ""
 
-    table_rows = "\n".join([f"| {row.get('measurement', '')} | {row.get('ingredient', '')} |" for row in data.get('ingredients_table', [])])
-    
+    # Build Ingredients Tables
+    ing_md = "## Ingredients\n\n"
+    for sec in data.get('ingredients_sections', []):
+        sec_title = sec.get('section_title', 'Main Ingredients')
+        if sec_title != 'Main Ingredients':
+            ing_md += f"### {sec_title}\n"
+        ing_md += "| Measurements | Ingredients | Prep / Notes |\n| :--- | :--- | :--- |\n"
+        for item in sec.get('items', []):
+            ing_md += f"| {item.get('measurement', '')} | {item.get('ingredient', '')} | {item.get('notes', '')} |\n"
+        ing_md += "\n"
+
+    # Build Instructions Sections
+    inst_md = "## Instructions\n\n"
+    step_num = 1
+    for sec in data.get('instructions_sections', []):
+        sec_title = sec.get('section_title', '')
+        if sec_title:
+            inst_md += f"### {sec_title}\n"
+        for step in sec.get('steps', []):
+            inst_md += f"{step_num}. {step}\n"
+            step_num += 1
+        inst_md += "\n"
+
+    # Make Ahead Notes
+    make_ahead = data.get('make_ahead_notes')
+    make_ahead_md = f"---\n\n> 💡 **Make-Ahead & Storage:** {make_ahead}\n" if make_ahead else ""
+
     markdown_content = f"""---
 title: "{safe_title}"
-description: "{data.get('description', '')}"
-draft: false
+category: "{category}"
+collection: "{data.get('collection', 'General Archive')}"
+source: "{data.get('author', 'Unknown')}"
 tags: {json.dumps(data.get('tags', []))}
+description: "{data.get('description', '')}"
 date: "2026-07-24"
+draft: false
 recipe: {json.dumps(data.get('json_ld_schema', '{}'))}
 ---
 
-*{data.get('description', '')}*
+# {safe_title}
 
-### Author
-{data.get('author', 'Unknown')}
-
----
-
-## Recipe
-
-| Measurements | Ingredients |
-| :--- | :--- |
-{table_rows}
+> 📜 **Collection:** {data.get('collection', 'General Archive')} | ✍️ **Attribution:** {data.get('author', 'Unknown')} | 📂 **Category:** {category}
+> *{data.get('description', '')}*
 
 ---
 
-## Instructions
-{chr(10).join([f"{i+1}. {step}" for i, step in enumerate(data.get('instructions', []))])}
-{webp_embed}
-"""
+| Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
+| :--- | :--- | :--- | :--- |
+| {data.get('prep_time', 'N/A')} | {data.get('cook_time', 'N/A')} | {data.get('inactive_time', 'None')} | {data.get('servings', 'N/A')} |
+
+---
+
+{equip_md}{ing_md}---
+
+{inst_md}{make_ahead_md}{webp_embed}"""
+
+    # Save to the flat, top-level category room!
     cat_dir = os.path.join(CONTENT_DIR, category)
     os.makedirs(cat_dir, exist_ok=True)
     new_file_path = os.path.join(cat_dir, new_filename)
@@ -153,9 +203,25 @@ recipe: {json.dumps(data.get('json_ld_schema', '{}'))}
         f.write(markdown_content)
     print(f"✨ Upgraded -> [{category}]: {new_filename}")
     
+    # Delete old file if it was renamed or moved out of a subfolder
     if os.path.abspath(old_file_path) != os.path.abspath(new_file_path):
         os.remove(old_file_path)
-        print(f"🗑️ Cleaned up old file: {old_file_path}")
+        print(f"🗑️ Cleaned up old file path: {old_file_path}")
+
+def cleanup_empty_folders(directory):
+    print("🧹 Cleaning up empty legacy subfolders...")
+    for root, dirs, files in os.walk(directory, topdown=False):
+        for name in dirs:
+            folder_path = os.path.join(root, name)
+            # Do not delete our central assets folder!
+            if os.path.abspath(folder_path) == os.path.abspath(ASSET_DIR):
+                continue
+            try:
+                if not os.listdir(folder_path):
+                    os.rmdir(folder_path)
+                    print(f"🗑️ Pruned empty folder: {folder_path}")
+            except Exception as e:
+                pass
 
 if __name__ == "__main__":
     reformat_archive()
