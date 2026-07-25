@@ -1,0 +1,35 @@
+name: Librarian Batch Reformat
+
+on:
+  workflow_dispatch: # This enables the manual "Run workflow" button in your Actions tab!
+
+permissions:
+  contents: write
+
+jobs:
+  reformat:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: pip install google-genai
+
+      - name: Run AI Librarian Reformatter
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/reformat_archive.py
+
+      - name: Commit and Push Upgraded Recipes
+        run: |
+          git config --global user.name "Mezzaluna Librarian Bot"
+          git config --global user.email "bot@cucinamezzaluna.com"
+          git add content/
+          git commit -m "📚 AI Librarian: Batch reformatted archive recipes" || echo "No changes to commit"
+          git push origin v4
