@@ -12,6 +12,10 @@ MODEL_ID = 'gemini-3.5-flash'
 CONTENT_DIR = "content"
 ASSET_DIR = "content/assets/scans"
 
+# BATCH LIMIT: Safely stops after 150 files so GitHub commits your progress before the 6-hour timeout!
+MAX_FILES_PER_RUN = 150
+
+# THE KITCHEN-READY PROMPT: Enforces usability, sensory cues, equipment, and flat categorization
 LIBRARIAN_PROMPT = """
 You are an expert digital librarian and culinary archivist for Cucina Mezzaluna.
 Your task is to take an older recipe file and upgrade it into our standardized "Kitchen-Ready" archival schema.
@@ -71,9 +75,17 @@ def reformat_archive():
             if file.lower().endswith('.md'):
                 all_md_files.append(os.path.join(root, file))
                 
-    print(f"📖 Found {len(all_md_files)} markdown file(s). Starting Kitchen-Ready upgrade with rate-limit protection...")
+    print(f"📖 Found {len(all_md_files)} markdown file(s). Starting Batch Upgrade (Max {MAX_FILES_PER_RUN} files this run)...")
+    
+    processed_count = 0
     
     for file_path in all_md_files:
+        # CIRCUIT BREAKER: Stop the loop once we hit 150 successful upgrades
+        if processed_count >= MAX_FILES_PER_RUN:
+            print(f"\n🛑 Reached safety batch limit of {MAX_FILES_PER_RUN} files!")
+            print("💾 Exiting cleanly so GitHub Actions can save and push your progress to the repository.")
+            break
+
         filename = os.path.basename(file_path)
         
         # Skip system landing pages and Quartz navigation files
@@ -84,12 +96,11 @@ def reformat_archive():
             with open(file_path, "r", encoding="utf-8") as f:
                 raw_content = f.read()
                 
-            # SMART SKIP: If file is already upgraded to Kitchen-Ready format, skip it!
+            # SMART SKIP: If file is already upgraded to Kitchen-Ready format, skip it in milliseconds!
             if "### 🔪 Key Equipment" in raw_content or "| Inactive / Chill Time |" in raw_content:
-                print(f"⏭️ Already upgraded, skipping: {filename}")
                 continue
                 
-            print(f"📚 Processing: {filename}...")
+            print(f"📚 [{processed_count + 1}/{MAX_FILES_PER_RUN}] Processing: {filename}...")
             
             # AUTO-RETRY LOOP: Tries up to 3 times if Google throws a 429 or 503 error
             max_retries = 3
@@ -104,6 +115,8 @@ def reformat_archive():
                     
                     data = json.loads(response.text)
                     save_upgraded_recipe(file_path, data)
+                    
+                    processed_count += 1
                     
                     # SMART THROTTLE: Sleep 3.5 seconds to stay under Google's 20 RPM Free Tier limit!
                     time.sleep(3.5)
@@ -124,6 +137,7 @@ def reformat_archive():
 
     # Prune empty legacy subfolders after moving recipes to top-level rooms
     cleanup_empty_folders(CONTENT_DIR)
+    print(f"\n🎉 Batch finished! Successfully upgraded {processed_count} files during this session.")
 
 def save_upgraded_recipe(old_file_path, data):
     raw_title = data.get('title', 'Untitled Dish').strip().title()
@@ -189,7 +203,7 @@ collection: "{data.get('collection', 'General Archive')}"
 source: "{data.get('author', 'Unknown')}"
 tags: {json.dumps(data.get('tags', []))}
 description: "{data.get('description', '')}"
-date: "2026-07-24"
+date: "2026-07-28"
 draft: false
 recipe: {json.dumps(data.get('json_ld_schema', '{}'))}
 ---
