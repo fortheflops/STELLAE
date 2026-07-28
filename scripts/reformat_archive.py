@@ -12,10 +12,12 @@ MODEL_ID = 'gemini-3.5-flash'
 CONTENT_DIR = "content"
 ASSET_DIR = "content/assets/scans"
 
-# BATCH LIMIT: Safely stops after 150 files so GitHub commits your progress before the 6-hour timeout!
-MAX_FILES_PER_RUN = 150
+# BATCH LIMIT: Safely stops after 50 files (takes ~15 mins!)
+MAX_FILES_PER_RUN = 50
 
-# THE KITCHEN-READY PROMPT: Enforces usability, sensory cues, equipment, and flat categorization
+# SAFETY LIMIT: If 3 files fail in a row, assume Daily Quota is empty and STOP!
+MAX_CONSECUTIVE_FAILURES = 3
+
 LIBRARIAN_PROMPT = """
 You are an expert digital librarian and culinary archivist for Cucina Mezzaluna.
 Your task is to take an older recipe file and upgrade it into our standardized "Kitchen-Ready" archival schema.
@@ -78,12 +80,19 @@ def reformat_archive():
     print(f"📖 Found {len(all_md_files)} markdown file(s). Starting Batch Upgrade (Max {MAX_FILES_PER_RUN} files this run)...")
     
     processed_count = 0
+    consecutive_failures = 0
     
     for file_path in all_md_files:
-        # CIRCUIT BREAKER: Stop the loop once we hit 150 successful upgrades
+        # CIRCUIT BREAKER 1: Stop once we hit our batch target (50 files)
         if processed_count >= MAX_FILES_PER_RUN:
             print(f"\n🛑 Reached safety batch limit of {MAX_FILES_PER_RUN} files!")
             print("💾 Exiting cleanly so GitHub Actions can save and push your progress to the repository.")
+            break
+
+        # CIRCUIT BREAKER 2: Stop if we hit 3 errors in a row (Daily Quota Exhausted!)
+        if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
+            print(f"\n🛑 {MAX_CONSECUTIVE_FAILURES} files failed in a row! Your Google Free Tier DAILY quota is likely exhausted.")
+            print("💾 Stopping immediately and exiting cleanly so GitHub can save any work finished so far!")
             break
 
         filename = os.path.basename(file_path)
@@ -102,8 +111,10 @@ def reformat_archive():
                 
             print(f"📚 [{processed_count + 1}/{MAX_FILES_PER_RUN}] Processing: {filename}...")
             
-            # AUTO-RETRY LOOP: Tries up to 3 times if Google throws a 429 or 503 error
-            max_retries = 3
+            # AUTO-RETRY LOOP: Tries up to 2 times if Google throws a temporary server error
+            max_retries = 2
+            file_success = False
+            
             for attempt in range(max_retries):
                 try:
                     config = types.GenerateContentConfig(response_mime_type="application/json", temperature=0.1)
@@ -117,27 +128,34 @@ def reformat_archive():
                     save_upgraded_recipe(file_path, data)
                     
                     processed_count += 1
+                    consecutive_failures = 0 # Reset failure streak on success!
+                    file_success = True
                     
-                    # SMART THROTTLE: Sleep 3.5 seconds to stay under Google's 20 RPM Free Tier limit!
-                    time.sleep(3.5)
+                    # SMART THROTTLE: Sleep 4.5 seconds to stay well under Google's per-minute limits!
+                    time.sleep(4.5)
                     break # Success! Break out of the retry loop
                     
                 except Exception as e:
                     error_msg = str(e)
                     if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg or "503" in error_msg:
-                        wait_time = 60 * (attempt + 1)
-                        print(f"⏳ Rate limit or server spike hit! Resting for {wait_time} seconds before attempt {attempt + 2}/{max_retries}...")
+                        wait_time = 30 * (attempt + 1)
+                        print(f"⏳ Rate limit hit! Resting for {wait_time} seconds (Attempt {attempt + 1}/{max_retries})...")
                         time.sleep(wait_time)
                     else:
                         print(f"❌ Failed librarian reformat on {filename}: {e}")
                         break
+            
+            # If all retries failed for this file, increment our Consecutive Failure tracker
+            if not file_success:
+                consecutive_failures += 1
+                print(f"⚠️ Warning: Consecutive failure count is now {consecutive_failures}/{MAX_CONSECUTIVE_FAILURES}")
             
         except Exception as e:
             print(f"❌ Could not open file {filename}: {e}")
 
     # Prune empty legacy subfolders after moving recipes to top-level rooms
     cleanup_empty_folders(CONTENT_DIR)
-    print(f"\n🎉 Batch finished! Successfully upgraded {processed_count} files during this session.")
+    print(f"\n🎉 Session finished! Successfully upgraded {processed_count} files.")
 
 def save_upgraded_recipe(old_file_path, data):
     raw_title = data.get('title', 'Untitled Dish').strip().title()
