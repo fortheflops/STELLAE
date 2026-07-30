@@ -2,13 +2,13 @@ import os
 import glob
 import json
 import shutil
+import time
 from google import genai
 from google.genai import types
 from PIL import Image
 
-# Connect using the new official Google GenAI SDK
+# Connect using the official Google GenAI SDK
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
-MODEL_ID = 'gemini-3.5-flash'
 
 INTAKE_DIR = "intake"
 ARCHIVE_DIR = "archive/scans"
@@ -48,6 +48,9 @@ def process_intake():
 
     all_files = glob.glob(os.path.join(INTAKE_DIR, "**", "*.*"), recursive=True)
 
+    # THE FAIL-SAFE RELAY RACE: Automatically shifts gears if a model is overloaded or out of quota!
+    model_fallback_list = ['gemini-3.5-flash', 'gemini-2.5-flash', 'gemini-1.5-flash']
+
     for file_path in all_files:
         if os.path.isdir(file_path) or file_path.endswith('.gitkeep'):
             continue
@@ -59,41 +62,67 @@ def process_intake():
 
         print(f"🥘 Processing [{collection_name}] scan: {filename}...")
         
-        try:
-            config = types.GenerateContentConfig(
-                response_mime_type="application/json",
-                temperature=0.2
-            )
-            
-            if file_path.lower().endswith('.pdf'):
-                sample_file = client.files.upload(file=file_path)
-                response = client.models.generate_content(
-                    model=MODEL_ID,
-                    contents=[SYSTEM_PROMPT, sample_file],
-                    config=config
+        file_success = False
+        current_model_index = 0
+        
+        while current_model_index < len(model_fallback_list):
+            active_model = model_fallback_list[current_model_index]
+            try:
+                config = types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    temperature=0.2
                 )
-                client.files.delete(name=sample_file.name)
-                save_and_archive(response.text, [file_path], filename, collection_name, is_pdf=True)
-            elif file_path.lower().endswith(('png', 'jpg', 'jpeg', 'heic')):
-                img = Image.open(file_path)
-                response = client.models.generate_content(
-                    model=MODEL_ID,
-                    contents=[SYSTEM_PROMPT, img],
-                    config=config
-                )
-                save_and_archive(response.text, [file_path], filename, collection_name, img_obj=img)
-        except Exception as e:
-            print(f"❌ Failed processing on {filename}: {e}")
+                
+                if file_path.lower().endswith('.pdf'):
+                    sample_file = client.files.upload(file=file_path)
+                    response = client.models.generate_content(
+                        model=active_model,
+                        contents=[SYSTEM_PROMPT, sample_file],
+                        config=config
+                    )
+                    client.files.delete(name=sample_file.name)
+                    save_and_archive(response.text, [file_path], filename, collection_name, is_pdf=True)
+                elif file_path.lower().endswith(('png', 'jpg', 'jpeg', 'heic')):
+                    img = Image.open(file_path)
+                    response = client.models.generate_content(
+                        model=active_model,
+                        contents=[SYSTEM_PROMPT, img],
+                        config=config
+                    )
+                    save_and_archive(response.text, [file_path], filename, collection_name, img_obj=img)
+                
+                file_success = True
+                time.sleep(4.5)
+                break # Success! Move to next file
+                
+            except Exception as e:
+                error_msg = str(e)
+                if "503" in error_msg or "UNAVAILABLE" in error_msg or "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg:
+                    print(f"⚠️ Model {active_model} is busy or rate-limited (503/429).")
+                    current_model_index += 1
+                    if current_model_index < len(model_fallback_list):
+                        print(f"🔄 FAIL-SAFE ACTIVATED: Switching to backup model -> {model_fallback_list[current_model_index]}...")
+                        time.sleep(3)
+                    else:
+                        print("🛑 All backup models are currently experiencing high demand!")
+                        break
+                else:
+                    print(f"❌ Failed processing on {filename}: {e}")
+                    break
+
+        if not file_success:
+            print(f"⚠️ Skipping {filename} for this run due to server errors.")
 
 def save_and_archive(json_text, source_files, archive_name, collection_name, is_pdf=False, img_obj=None):
     data = json.loads(json_text)
-    title = data.get('title', 'Untitled Dish')
+    title = data.get('title', 'Untitled Dish').strip().title()
+    safe_title = title.replace("/", "-").replace("\\", "-")
     
     category = data.get('category', 'Other').strip().title()
     if category not in ["Appetizers", "Beverages", "Bread", "Desserts", "Entrees", "Salads", "Sauces", "Sides", "Snacks", "Soups"]:
         category = "Other"
 
-    safe_base = title.lower().replace(" ", "-").replace("/", "-")
+    safe_base = safe_title.lower().replace(" ", "-")
     safe_filename = safe_base + ".md"
     webp_filename = safe_base + ".webp"
     
@@ -103,23 +132,26 @@ def save_and_archive(json_text, source_files, archive_name, collection_name, is_
         img_obj.convert("RGB").save(webp_path, "WEBP", quality=82)
         webp_embed = f"\n![Original Handwritten Card](/assets/scans/{webp_filename})\n"
     
+    # FIXED: json.dumps() used for all metadata fields to perfectly escape internal quotes and prevent Cloudflare crashes!
     markdown_content = f"""---
-title: "{title}"
-category: "{category}"
-collection: "{collection_name}"
-source: "{data.get('source', 'Unattributed')}"
+title: {json.dumps(safe_title)}
+category: {json.dumps(category)}
+collection: {json.dumps(collection_name)}
+source: {json.dumps(data.get('source', 'Unattributed'))}
 tags: {json.dumps(data.get('tags', []))}
-description: "{data.get('description', '')}"
-prep_time: "{data.get('prep_time', '')}"
-cook_time: "{data.get('cook_time', '')}"
-servings: "{data.get('servings', '')}"
-published: true
+description: {json.dumps(data.get('description', ''))}
+prep_time: {json.dumps(data.get('prep_time', ''))}
+cook_time: {json.dumps(data.get('cook_time', ''))}
+servings: {json.dumps(data.get('servings', ''))}
+date: "2026-07-30"
+draft: false
+recipe: {json.dumps(data.get('json_ld_schema', dict()))}
 ---
 
-# {title}
+# {safe_title}
 
 > **Collection:** {collection_name} | **Original Attribution:** {data.get('source', 'Unattributed')}
-> {data.get('description', '')}
+> *{data.get('description', '')}*
 {webp_embed}
 | Prep Time | Cook Time | Servings |
 | :--- | :--- | :--- |
@@ -133,10 +165,6 @@ published: true
 
 ---
 *Digitized for Cucina Mezzaluna Archive*
-
-<script type="application/ld+json">
-{data.get('json_ld_schema', '{}')}
-</script>
 """
     cat_dir = os.path.join(OUTPUT_DIR, category)
     os.makedirs(cat_dir, exist_ok=True)
