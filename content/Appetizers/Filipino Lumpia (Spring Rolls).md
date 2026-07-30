@@ -1,13 +1,20 @@
 ---
-title: "Filipino Lumpia (Spring Rolls)"
-category: "Appetizers"
-collection: "Unknown Five"
-source: "Jody Griffin"
-tags: ["appetizers", "filipino", "spring rolls", "ground beef", "pork sausage", "vintage", "party food"]
-description: "A classic recipe for crispy Filipino lumpia, featuring a savory, customizable filling of ground beef, pork sausage, and finely chopped vegetables. Perfect as a crowd-pleasing appetizer served with sweet chili dipping sauce."
-date: "2026-07-28"
+title: Filipino Lumpia (Spring Rolls)
+category: Appetizers
+collection: Unknown Five
+source: Jody Griffin
+tags:
+  - appetizers
+  - filipino
+  - springrolls
+  - groundbeef
+  - porksausage
+  - vintage
+  - partyfood
+description: A classic recipe for crispy Filipino lumpia, featuring a savory, customizable filling of ground beef, pork sausage, and finely chopped vegetables. Perfect as a crowd-pleasing appetizer served with sweet chili dipping sauce.
+date: 2026-07-28
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Filipino Lumpia (Spring Rolls)\", \"author\": {\"@type\": \"Person\", \"name\": \"Jody Griffin\"}, \"datePublished\": \"2025-09-05\", \"description\": \"Crispy fried Filipino spring rolls with a customizable savory filling of ground meat and vegetables.\", \"image\": [\"https://cucinamezzaluna.com/Appetizers/Finger-Food--and--Rolls/Assets/Lumpia%20UK5-1753483899764.webp\"], \"prepTime\": \"PT45M\", \"cookTime\": \"PT15M\", \"totalTime\": \"PT1H\", \"recipeYield\": \"40-50 lumpia\", \"recipeCategory\": \"Appetizer\", \"recipeCuisine\": \"Filipino\", \"recipeIngredient\": [\"1 pound ground beef\", \"1 pound pork sausage\", \"1 medium onion, finely chopped\", \"1 cup celery, finely chopped\", \"1 cup carrots, finely shredded\", \"1 green bell pepper, finely chopped\", \"1 teaspoon garlic powder\", \"2 tablespoons soy sauce\", \"1/2 teaspoon black pepper\", \"1 large egg, beaten\", \"1/2 cup cooked shrimp, chopped (optional)\", \"1/2 cup cooked ham, finely chopped (optional)\", \"1 tablespoon ketchup (optional)\", \"1 package lumpia or spring roll wrappers\", \"Vegetable or peanut oil, for frying\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a large skillet, cook the ground beef and pork sausage until browned. Drain excess fat.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the onion, celery, carrots, and green pepper to the skillet and saut\u00e9 until tender.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in the garlic powder, soy sauce, pepper, and optional ingredients. Remove from heat and let cool slightly.\"}, {\"@type\": \"HowToStep\", \"text\": \"Once cooled, mix in the beaten egg as a binder. Let the filling cool completely.\"}, {\"@type\": \"HowToStep\", \"text\": \"Place about 2 tablespoons of filling on a lumpia wrapper, fold in the sides, and roll tightly. Seal the edge with a dab of water or egg white.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a deep pot, heat 1-2 inches of oil to 350\u00b0F (175\u00b0C). Fry lumpia in batches until golden brown and crispy, about 3-5 minutes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Remove and drain on paper towels. Serve hot.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Filipino Lumpia (Spring Rolls)", "author": {"@type": "Person", "name": "Jody Griffin"}, "datePublished": "2025-09-05", "description": "Crispy fried Filipino spring rolls with a customizable savory filling of ground meat and vegetables.", "image": ["https://cucinamezzaluna.com/Appetizers/Finger-Food--and--Rolls/Assets/Lumpia%20UK5-1753483899764.webp"], "prepTime": "PT45M", "cookTime": "PT15M", "totalTime": "PT1H", "recipeYield": "40-50 lumpia", "recipeCategory": "Appetizer", "recipeCuisine": "Filipino", "recipeIngredient": ["1 pound ground beef", "1 pound pork sausage", "1 medium onion, finely chopped", "1 cup celery, finely chopped", "1 cup carrots, finely shredded", "1 green bell pepper, finely chopped", "1 teaspoon garlic powder", "2 tablespoons soy sauce", "1/2 teaspoon black pepper", "1 large egg, beaten", "1/2 cup cooked shrimp, chopped (optional)", "1/2 cup cooked ham, finely chopped (optional)", "1 tablespoon ketchup (optional)", "1 package lumpia or spring roll wrappers", "Vegetable or peanut oil, for frying"], "recipeInstructions": [{"@type": "HowToStep", "text": "In a large skillet, cook the ground beef and pork sausage until browned. Drain excess fat."}, {"@type": "HowToStep", "text": "Add the onion, celery, carrots, and green pepper to the skillet and sauté until tender."}, {"@type": "HowToStep", "text": "Stir in the garlic powder, soy sauce, pepper, and optional ingredients. Remove from heat and let cool slightly."}, {"@type": "HowToStep", "text": "Once cooled, mix in the beaten egg as a binder. Let the filling cool completely."}, {"@type": "HowToStep", "text": "Place about 2 tablespoons of filling on a lumpia wrapper, fold in the sides, and roll tightly. Seal the edge with a dab of water or egg white."}, {"@type": "HowToStep", "text": "In a deep pot, heat 1-2 inches of oil to 350°F (175°C). Fry lumpia in batches until golden brown and crispy, about 3-5 minutes."}, {"@type": "HowToStep", "text": "Remove and drain on paper towels. Serve hot."}]}'
 ---
 
 # Filipino Lumpia (Spring Rolls)
