@@ -16,7 +16,6 @@ published: true
 > **Collection:** John B. Collection | **Original Attribution:** Unattributed
 > A classic, no-bake vintage confection featuring crushed vanilla wafers, chopped pecans, and a rich mocha flavor from cocoa and instant coffee. These quick-to-make treats are shaped into small rolls and finished with a dusting of powdered sugar.
 
-![Original Handwritten Card](/assets/scans/mocha-rolls.webp)
 
 | Prep Time | Cook Time | Servings |
 | :--- | :--- | :--- |
@@ -36,6 +35,8 @@ published: true
 2. Add the corn syrup and water to the dry ingredients and mix thoroughly until a cohesive dough forms.
 3. Measure out the mixture by the tablespoon and shape each portion into a roll about 1 1/2 inches long.
 4. Roll each mocha roll in additional powdered sugar until fully coated.
+
+![Original Handwritten Card](/assets/scans/mocha-rolls.webp)
 
 ---
 *Digitized for Cucina Mezzaluna Archive*
