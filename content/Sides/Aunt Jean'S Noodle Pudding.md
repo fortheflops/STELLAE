@@ -1,5 +1,5 @@
 ---
-title: Aunt Jean'S Noodle Pudding
+title: Aunt Jean's Noodle Pudding
 category: Sides
 collection: JC
 source: Aunt Jean
@@ -8,14 +8,14 @@ tags:
   - vintage
   - kugel
   - noodlepudding
-  - comfort food
+  - comfortfood
 description: A classic, sweet noodle pudding from Aunt Jean, featuring a rich custard base with cottage cheese, sour cream, citrus, and raisins.
 date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Aunt Jean's Noodle Pudding\", \"author\": {\"@type\": \"Person\", \"name\": \"Aunt Jean\"}, \"description\": \"A classic, sweet noodle pudding from Aunt Jean, featuring a rich custard base with cottage cheese, sour cream, citrus, and raisins.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H\", \"recipeYield\": \"8–10 Servings\", \"recipeCategory\": \"Sides\", \"recipeIngredient\": [\"1 package Medium Thin Noodles\", \"6 Eggs\", \"1 cup Sugar\", \"1 1/2 teaspoons Cinnamon\", \"1/2 cup Raisins\", \"1/2 pint (1 cup) Cottage Cheese\", \"1/2 pint (1 cup) Sour Cream\", \"4 tablespoons Butter\", \"1/2 Lemon\", \"1/2 Orange\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 375F. Generously butter a large baking dish.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook noodles according to package directions and drain.\"}, {\"@type\": \"HowToStep\", \"text\": \"Beat egg yolks, sugar, and cinnamon. Stir in melted butter, cottage cheese, sour cream, lemon juice and rind, orange juice and rind.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add noodles and washed raisins to the cheese mixture.\"}, {\"@type\": \"HowToStep\", \"text\": \"Beat egg whites to stiff peaks and gently fold into the noodle mixture.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour into the baking dish, top with extra butter and cinnamon if desired, and bake for 1 hour until set and golden brown.\"}]}"
 ---
 
-# Aunt Jean'S Noodle Pudding
+# Aunt Jean's Noodle Pudding
 
 > 📜 **Collection:** JC | ✍️ **Attribution:** Aunt Jean | 📂 **Category:** Sides
 > *A classic, sweet noodle pudding from Aunt Jean, featuring a rich custard base with cottage cheese, sour cream, citrus, and raisins.*

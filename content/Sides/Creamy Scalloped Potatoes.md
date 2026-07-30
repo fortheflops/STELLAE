@@ -1,13 +1,60 @@
 ---
-title: "Creamy Scalloped Potatoes"
-category: "Sides"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["potatoes", "casserole", "cheese", "comfort food", "side dish"]
-description: "A comforting and easy scalloped potatoes recipe featuring a rich, creamy sauce made from canned cheese and mushroom, chicken, or celery soup. Baked to bubbly perfection, it is the ultimate hearty side dish for any family meal."
-date: "2026-07-30"
+title: Creamy Scalloped Potatoes
+category: Sides
+collection: Jill Collection
+source: Unknown
+tags:
+  - potatoes
+  - casserole
+  - cheese
+  - comfortfood
+  - sidedish
+description: A comforting and easy scalloped potatoes recipe featuring a rich, creamy sauce made from canned cheese and mushroom, chicken, or celery soup. Baked to bubbly perfection, it is the ultimate hearty side dish for any family meal.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Creamy Scalloped Potatoes\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A comforting and easy scalloped potatoes recipe featuring a rich, creamy sauce made from canned cheese and mushroom, chicken, or celery soup.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT30M\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeYield\": \"6-8 Servings\",\n  \"recipeIngredient\": [\n    \"3 to 4 pounds Potatoes\",\n    \"1 can Cheddar Cheese Soup\",\n    \"1 can Cream of Mushroom Soup, Cream of Chicken Soup, or Cream of Celery Soup\",\n    \"Extra shredded Cheese\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F. Grease a casserole dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place the potatoes in a large pot of water and boil them until just tender. Drain well.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate bowl, mix the two cans of soup together.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Spread a thin layer of the soup mixture on the bottom of the prepared casserole dish, followed by a layer of potatoes, repeating to end with soup on top.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Sprinkle extra shredded cheese over the top layer and bake for approximately 30 minutes until hot and bubbly.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Creamy Scalloped Potatoes",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A comforting and easy scalloped potatoes recipe featuring a rich, creamy sauce made from canned cheese and mushroom, chicken, or celery soup.",
+    "prepTime": "PT20M",
+    "cookTime": "PT30M",
+    "recipeCategory": "Sides",
+    "recipeYield": "6-8 Servings",
+    "recipeIngredient": [
+      "3 to 4 pounds Potatoes",
+      "1 can Cheddar Cheese Soup",
+      "1 can Cream of Mushroom Soup, Cream of Chicken Soup, or Cream of Celery Soup",
+      "Extra shredded Cheese"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F. Grease a casserole dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the potatoes in a large pot of water and boil them until just tender. Drain well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, mix the two cans of soup together."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread a thin layer of the soup mixture on the bottom of the prepared casserole dish, followed by a layer of potatoes, repeating to end with soup on top."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle extra shredded cheese over the top layer and bake for approximately 30 minutes until hot and bubbly."
+      }
+    ]
+  }
 ---
 
 # Creamy Scalloped Potatoes

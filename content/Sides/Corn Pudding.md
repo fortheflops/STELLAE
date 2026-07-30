@@ -1,13 +1,67 @@
 ---
-title: "Corn Pudding"
-category: "Sides"
-collection: "UK2"
-source: "Unknown"
-tags: ["casserole", "vegetable", "corn", "side dish", "vintage"]
-description: "A classic comforting corn pudding baked to a tender, set perfection with a hint of nutmeg. This traditional vegetable casserole is a wonderful addition to any holiday table or family dinner."
-date: "2026-07-30"
+title: Corn Pudding
+category: Sides
+collection: UK2
+source: Unknown
+tags:
+  - casserole
+  - vegetable
+  - corn
+  - sidedish
+  - vintage
+description: A classic comforting corn pudding baked to a tender, set perfection with a hint of nutmeg. This traditional vegetable casserole is a wonderful addition to any holiday table or family dinner.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Corn Pudding\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-01-22\",\n  \"description\": \"A classic comforting corn pudding baked to a tender, set perfection with a hint of nutmeg.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT30M\",\n  \"totalTime\": \"PT40M\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeCuisine\": \"American\",\n  \"recipeYield\": \"4-6 Servings\",\n  \"recipeIngredient\": [\n    \"2 Cups Corn\",\n    \"2 Eggs\",\n    \"1 tsp Salt\",\n    \"2 Tbsp Melted Margarine\",\n    \"2 Tbsp Sugar\",\n    \"3/4 Cups Milk\",\n    \"Nutmeg\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Beat eggs slightly in a mixing bowl.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the corn, salt, melted margarine, sugar, and milk, mixing well.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour into a buttered baking dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake at 325 degrees for 25 to 30 minutes until set. Do not overbake; if inserted knife blade comes out clean, the pudding is set.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Sprinkle with nutmeg.\"\n    }\n  ],\n  \"image\": \"Handwritten_2025-01-22_102356.webp\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Corn Pudding",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-01-22",
+    "description": "A classic comforting corn pudding baked to a tender, set perfection with a hint of nutmeg.",
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "American",
+    "recipeYield": "4-6 Servings",
+    "recipeIngredient": [
+      "2 Cups Corn",
+      "2 Eggs",
+      "1 tsp Salt",
+      "2 Tbsp Melted Margarine",
+      "2 Tbsp Sugar",
+      "3/4 Cups Milk",
+      "Nutmeg"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Beat eggs slightly in a mixing bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the corn, salt, melted margarine, sugar, and milk, mixing well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into a buttered baking dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake at 325 degrees for 25 to 30 minutes until set. Do not overbake; if inserted knife blade comes out clean, the pudding is set."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle with nutmeg."
+      }
+    ],
+    "image": "Handwritten_2025-01-22_102356.webp"
+  }
 ---
 
 # Corn Pudding

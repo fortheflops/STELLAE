@@ -1,13 +1,19 @@
 ---
-title: "Baked Beans With Barbecued Meat Balls"
-category: "Sides"
-collection: "UK2"
-source: "Unknown"
-tags: ["baked beans", "beans", "ground pork", "meatballs", "barbecue", "unknowntwo"]
-description: "Savory baked beans served with tender spiced pork meatballs glazed in a tangy barbecue sauce. A hearty and comforting side dish or main attraction for any family gathering."
-date: "2026-07-30"
+title: Baked Beans With Barbecued Meat Balls
+category: Sides
+collection: UK2
+source: Unknown
+tags:
+  - bakedbeans
+  - beans
+  - groundpork
+  - meatballs
+  - barbecue
+  - unknowntwo
+description: Savory baked beans served with tender spiced pork meatballs glazed in a tangy barbecue sauce. A hearty and comforting side dish or main attraction for any family gathering.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Baked Beans with Barbecued Meat Balls\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-01-28\", \"description\": \"Savory baked beans served with tender spiced pork meatballs glazed in a tangy barbecue sauce.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"4 Servings\", \"recipeCategory\": \"Sides\", \"recipeIngredient\": [\"1 lb Lean Ground Pork\", \"1 tsp Salt\", \"\u215b tsp Pepper\", \"1 Tbsp Fat\", \"\u00bc Cup Catsup\", \"1 Tbsp Brown Sugar\", \"1 Tbsp Cider Vinegar\", \"1 Tbsp Worcestershire Sauce\", \"1 Tbsp Prepared Brown Mustard\", \"19 oz Can Heinz Oven Baked Beans, Boston Style\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine 1 lb ground pork, 1 tsp salt, and \u215b tsp pepper, and form into balls 1 \u00bd inches in diameter. Brown in 1 Tbsp fat.\"}, {\"@type\": \"HowToStep\", \"text\": \"Combine \u00bc cup catsup, 1 Tbsp brown sugar, 1 Tbsp cider vinegar, 1 Tbsp Worcestershire sauce, and 1 Tbsp prepared brown mustard. Pour over meatballs, cover, and simmer about 5 minutes or until sauce is thick.\"}, {\"@type\": \"HowToStep\", \"text\": \"Heat the 19 oz can Heinz Oven Baked Beans, Boston Style. Pour onto hot serving platter and arrange meatballs over top.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Baked Beans with Barbecued Meat Balls", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-01-28", "description": "Savory baked beans served with tender spiced pork meatballs glazed in a tangy barbecue sauce.", "prepTime": "PT15M", "cookTime": "PT15M", "recipeYield": "4 Servings", "recipeCategory": "Sides", "recipeIngredient": ["1 lb Lean Ground Pork", "1 tsp Salt", "⅛ tsp Pepper", "1 Tbsp Fat", "¼ Cup Catsup", "1 Tbsp Brown Sugar", "1 Tbsp Cider Vinegar", "1 Tbsp Worcestershire Sauce", "1 Tbsp Prepared Brown Mustard", "19 oz Can Heinz Oven Baked Beans, Boston Style"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine 1 lb ground pork, 1 tsp salt, and ⅛ tsp pepper, and form into balls 1 ½ inches in diameter. Brown in 1 Tbsp fat."}, {"@type": "HowToStep", "text": "Combine ¼ cup catsup, 1 Tbsp brown sugar, 1 Tbsp cider vinegar, 1 Tbsp Worcestershire sauce, and 1 Tbsp prepared brown mustard. Pour over meatballs, cover, and simmer about 5 minutes or until sauce is thick."}, {"@type": "HowToStep", "text": "Heat the 19 oz can Heinz Oven Baked Beans, Boston Style. Pour onto hot serving platter and arrange meatballs over top."}]}'
 ---
 
 # Baked Beans With Barbecued Meat Balls

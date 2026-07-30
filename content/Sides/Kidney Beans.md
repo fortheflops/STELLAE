@@ -1,13 +1,18 @@
 ---
-title: "Kidney Beans"
-category: "Sides"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["kidney beans", "ground meat", "vintage", "make-ahead", "comfort food"]
-description: "A hearty vintage side dish featuring slow-simmered kidney beans, ground meat, and robust tomatoes. This savory classic tastes even better when prepared a day in advance."
-date: "2026-07-30"
+title: Kidney Beans
+category: Sides
+collection: Gail Collection
+source: Unknown
+tags:
+  - kidneybeans
+  - groundmeat
+  - vintage
+  - make-ahead
+  - comfortfood
+description: A hearty vintage side dish featuring slow-simmered kidney beans, ground meat, and robust tomatoes. This savory classic tastes even better when prepared a day in advance.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Kidney Beans\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-06-16\",\"description\":\"A hearty vintage side dish featuring slow-simmered kidney beans, ground meat, and robust tomatoes.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT40M\",\"recipeCategory\":\"Sides\",\"recipeYield\":\"6\u20138 Servings\",\"recipeIngredient\":[\"One Pound Ground Meat\",\"As Needed Oil\",\"One Onion\",\"Two Cloves Garlic\",\"Salt\",\"Pepper\",\"One Large Can Tomatoes\",\"Two Tall Cans Kidney Beans\",\"\u00bd Teaspoon Cayenne Pepper\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Fry one pound ground meat in oil with one chopped onion and two cloves garlic...\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Kidney Beans","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-06-16","description":"A hearty vintage side dish featuring slow-simmered kidney beans, ground meat, and robust tomatoes.","prepTime":"PT15M","cookTime":"PT40M","recipeCategory":"Sides","recipeYield":"6–8 Servings","recipeIngredient":["One Pound Ground Meat","As Needed Oil","One Onion","Two Cloves Garlic","Salt","Pepper","One Large Can Tomatoes","Two Tall Cans Kidney Beans","½ Teaspoon Cayenne Pepper"],"recipeInstructions":[{"@type":"HowToStep","text":"Fry one pound ground meat in oil with one chopped onion and two cloves garlic..."}]}'
 ---
 
 # Kidney Beans

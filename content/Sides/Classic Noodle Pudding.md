@@ -1,13 +1,19 @@
 ---
-title: "Classic Noodle Pudding"
-category: "Sides"
-collection: "JillCollection"
-source: "Unknown"
-tags: ["noodle pudding", "kugel", "sides", "casserole", "vintage", "comfort food"]
-description: "A rich and comforting traditional noodle kugel featuring a decadent blend of farmer cheese, cottage cheese, and cream cheese. Baked until the center is set and the top turns a delightful golden brown."
-date: "2026-07-30"
+title: Classic Noodle Pudding
+category: Sides
+collection: JillCollection
+source: Unknown
+tags:
+  - noodlepudding
+  - kugel
+  - sides
+  - casserole
+  - vintage
+  - comfortfood
+description: A rich and comforting traditional noodle kugel featuring a decadent blend of farmer cheese, cottage cheese, and cream cheese. Baked until the center is set and the top turns a delightful golden brown.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Noodle Pudding\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-08-05\", \"description\": \"A rich and comforting traditional noodle kugel featuring a decadent blend of farmer cheese, cottage cheese, and cream cheese.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT55M\", \"recipeYield\": \"8-10 Servings\", \"recipeCategory\": \"Sides\", \"recipeIngredient\": [\"1/2 pound Wide Egg Noodles\", \"1/4 pound Butter\", \"4 Eggs\", \"1 cup Sugar\", \"2 cups Milk\", \"1 pound Cottage Cheese\", \"1/4 pound Cream Cheese\", \"1/2 pound Farmer Cheese\", \"1/2 pint Sour Cream\", \"1 teaspoon Vanilla Extract\", \"1 teaspoon Salt\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Noodle Pudding", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-08-05", "description": "A rich and comforting traditional noodle kugel featuring a decadent blend of farmer cheese, cottage cheese, and cream cheese.", "prepTime": "PT20M", "cookTime": "PT55M", "recipeYield": "8-10 Servings", "recipeCategory": "Sides", "recipeIngredient": ["1/2 pound Wide Egg Noodles", "1/4 pound Butter", "4 Eggs", "1 cup Sugar", "2 cups Milk", "1 pound Cottage Cheese", "1/4 pound Cream Cheese", "1/2 pound Farmer Cheese", "1/2 pint Sour Cream", "1 teaspoon Vanilla Extract", "1 teaspoon Salt"]}'
 ---
 
 # Classic Noodle Pudding

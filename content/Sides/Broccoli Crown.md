@@ -1,13 +1,43 @@
 ---
-title: "Broccoli Crown"
-category: "Sides"
-collection: "Patsy's Collection"
-source: "Barbara Osborne"
-tags: ["patsycollection", "vegetable", "broccoli", "side dish", "baked"]
-description: "An elegant and savory baked broccoli crown served with herb-butter tomatoes, perfect for special family dinners. This vintage molded casserole features a rich sauce and a tender vegetable base."
-date: "2026-07-30"
+title: Broccoli Crown
+category: Sides
+collection: Patsy's Collection
+source: Barbara Osborne
+tags:
+  - patsycollection
+  - vegetable
+  - broccoli
+  - sidedish
+  - baked
+description: An elegant and savory baked broccoli crown served with herb-butter tomatoes, perfect for special family dinners. This vintage molded casserole features a rich sauce and a tender vegetable base.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Broccoli Crown\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Barbara Osborne\"\n  },\n  \"description\": \"An elegant and savory baked broccoli crown served with herb-butter tomatoes, perfect for special family dinners.\",\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT30M\",\n  \"recipeYield\": \"6-8 servings\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeIngredient\": [\n    \"2 lbs Broccoli\",\n    \"\u00bc Cup Onion\",\n    \"4 Tbsp Butter\",\n    \"4 Tbsp Flour\",\n    \"1 Tsp Seasoned Salt\",\n    \"1 Cup Milk\",\n    \"3 Eggs\",\n    \"\u00bd Cup Mayonnaise\",\n    \"\u00bc Cup Parsley\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Broccoli Crown",
+    "author": {
+      "@type": "Person",
+      "name": "Barbara Osborne"
+    },
+    "description": "An elegant and savory baked broccoli crown served with herb-butter tomatoes, perfect for special family dinners.",
+    "prepTime": "PT25M",
+    "cookTime": "PT30M",
+    "recipeYield": "6-8 servings",
+    "recipeCategory": "Sides",
+    "recipeIngredient": [
+      "2 lbs Broccoli",
+      "¼ Cup Onion",
+      "4 Tbsp Butter",
+      "4 Tbsp Flour",
+      "1 Tsp Seasoned Salt",
+      "1 Cup Milk",
+      "3 Eggs",
+      "½ Cup Mayonnaise",
+      "¼ Cup Parsley"
+    ]
+  }
 ---
 
 # Broccoli Crown

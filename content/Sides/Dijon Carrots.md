@@ -1,13 +1,18 @@
 ---
-title: "Dijon Carrots"
-category: "Sides"
-collection: "Patsy's Collection"
-source: "Unknown"
-tags: ["carrots", "vegetable", "dijon", "side dish", "glazed"]
-description: "Tender sliced carrots cooked to perfection and tossed in a sweet and tangy butter, brown sugar, and Dijon glaze. A simple yet elegant vegetable side dish suitable for both weeknight dinners and special occasions."
-date: "2026-07-30"
+title: Dijon Carrots
+category: Sides
+collection: Patsy's Collection
+source: Unknown
+tags:
+  - carrots
+  - vegetable
+  - dijon
+  - sidedish
+  - glazed
+description: Tender sliced carrots cooked to perfection and tossed in a sweet and tangy butter, brown sugar, and Dijon glaze. A simple yet elegant vegetable side dish suitable for both weeknight dinners and special occasions.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org\",\"@type\":\"Recipe\",\"name\":\"Dijon Carrots\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Cucina Mezzaluna\"},\"description\":\"Tender sliced carrots cooked to perfection and tossed in a sweet and tangy butter, brown sugar, and Dijon glaze.\",\"prepTime\":\"PT10M\",\"cookTime\":\"PT12M\",\"totalTime\":\"PT22M\",\"recipeYield\":\"4 Servings\",\"recipeCategory\":\"Sides\",\"recipeCuisine\":\"American\",\"keywords\":\"carrots, glazed, dijon mustard, side dish, vegetable\",\"recipeIngredient\":[\"1 Pound Carrots, peeled and cut into \u00bc-inch diagonal slices\",\"\u00bd Cup Water\",\"1 Tbsp Butter\",\"1 Tbsp Brown Sugar\",\"1 Tbsp Dijon Mustard\",\"To taste Parsley, snipped\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In a small saucepan, bring \u00bd cup water to a boil over medium-high heat.\"},{\"@type\":\"HowToStep\",\"text\":\"Add the prepared 1 pound carrots, cover with a lid, and cook until barely tender, about 10 minutes.\"},{\"@type\":\"HowToStep\",\"text\":\"Drain the carrots thoroughly in a colander.\"},{\"@type\":\"HowToStep\",\"text\":\"Return the drained carrots to the pan and stir in 1 tbsp butter, 1 tbsp brown sugar, and 1 tbsp Dijon mustard.\"},{\"@type\":\"HowToStep\",\"text\":\"Cook and stir over medium heat until glazed, about 1 to 2 minutes.\"},{\"@type\":\"HowToStep\",\"text\":\"Transfer to a serving dish and garnish with snipped parsley.\"}]}"
+recipe: '{"@context":"https://schema.org","@type":"Recipe","name":"Dijon Carrots","author":{"@type":"Person","name":"Unknown"},"publisher":{"@type":"Organization","name":"Cucina Mezzaluna"},"description":"Tender sliced carrots cooked to perfection and tossed in a sweet and tangy butter, brown sugar, and Dijon glaze.","prepTime":"PT10M","cookTime":"PT12M","totalTime":"PT22M","recipeYield":"4 Servings","recipeCategory":"Sides","recipeCuisine":"American","keywords":"carrots, glazed, dijon mustard, side dish, vegetable","recipeIngredient":["1 Pound Carrots, peeled and cut into ¼-inch diagonal slices","½ Cup Water","1 Tbsp Butter","1 Tbsp Brown Sugar","1 Tbsp Dijon Mustard","To taste Parsley, snipped"],"recipeInstructions":[{"@type":"HowToStep","text":"In a small saucepan, bring ½ cup water to a boil over medium-high heat."},{"@type":"HowToStep","text":"Add the prepared 1 pound carrots, cover with a lid, and cook until barely tender, about 10 minutes."},{"@type":"HowToStep","text":"Drain the carrots thoroughly in a colander."},{"@type":"HowToStep","text":"Return the drained carrots to the pan and stir in 1 tbsp butter, 1 tbsp brown sugar, and 1 tbsp Dijon mustard."},{"@type":"HowToStep","text":"Cook and stir over medium heat until glazed, about 1 to 2 minutes."},{"@type":"HowToStep","text":"Transfer to a serving dish and garnish with snipped parsley."}]}'
 ---
 
 # Dijon Carrots

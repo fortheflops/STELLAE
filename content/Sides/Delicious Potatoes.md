@@ -1,13 +1,67 @@
 ---
-title: "Delicious Potatoes"
-category: "Sides"
-collection: "Gail Collection"
-source: "Miriam Fox"
-tags: ["vintage", "potatoes", "casserole", "side dish", "comfort food"]
-description: "A slow-baked vintage casserole featuring grated potatoes, peppers, and green onions bathed in rich milk and butter. This comforting side dish bakes low and slow for hours until tender and flavorful."
-date: "2026-07-30"
+title: Delicious Potatoes
+category: Sides
+collection: Gail Collection
+source: Miriam Fox
+tags:
+  - vintage
+  - potatoes
+  - casserole
+  - sidedish
+  - comfortfood
+description: A slow-baked vintage casserole featuring grated potatoes, peppers, and green onions bathed in rich milk and butter. This comforting side dish bakes low and slow for hours until tender and flavorful.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Delicious Potatoes\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Miriam Fox\"\n  },\n  \"description\": \"A slow-baked vintage casserole featuring grated potatoes, peppers, and green onions bathed in rich milk and butter.\",\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT6H\",\n  \"recipeYield\": \"6 servings\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeIngredient\": [\n    \"1 \u00bd cups Milk\",\n    \"1 stick (\u00bd cup) Butter\",\n    \"6 medium sized Potatoes\",\n    \"\u00bc Green Pepper\",\n    \"\u00bc Sweet Red Pepper (or Pimento)\",\n    \"5 Green Onions\",\n    \"1 teaspoon Salt\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 200\u00b0F to 250\u00b0F.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a saucepan, melt the one stick butter in the one & half cups milk. Do not let it boil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Grate or grind the raw six potatoes, quarter green pepper, quarter sweet red pepper (or pimento), and five green onions.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Put the grated vegetable mixture into a 1 & half quart casserole dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the milk and butter mixture over the vegetables. Add the one teaspoon salt and stir.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake the casserole for 4-6 hours, adding more milk if necessary during baking.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Delicious Potatoes",
+    "author": {
+      "@type": "Person",
+      "name": "Miriam Fox"
+    },
+    "description": "A slow-baked vintage casserole featuring grated potatoes, peppers, and green onions bathed in rich milk and butter.",
+    "prepTime": "PT25M",
+    "cookTime": "PT6H",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Sides",
+    "recipeIngredient": [
+      "1 ½ cups Milk",
+      "1 stick (½ cup) Butter",
+      "6 medium sized Potatoes",
+      "¼ Green Pepper",
+      "¼ Sweet Red Pepper (or Pimento)",
+      "5 Green Onions",
+      "1 teaspoon Salt"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 200°F to 250°F."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan, melt the one stick butter in the one & half cups milk. Do not let it boil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grate or grind the raw six potatoes, quarter green pepper, quarter sweet red pepper (or pimento), and five green onions."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put the grated vegetable mixture into a 1 & half quart casserole dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the milk and butter mixture over the vegetables. Add the one teaspoon salt and stir."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake the casserole for 4-6 hours, adding more milk if necessary during baking."
+      }
+    ]
+  }
 ---
 
 # Delicious Potatoes

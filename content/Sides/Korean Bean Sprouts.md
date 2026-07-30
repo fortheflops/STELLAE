@@ -1,13 +1,44 @@
 ---
-title: "Korean Bean Sprouts"
-category: "Sides"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["sides", "korean", "bean sprouts", "vegetarian", "gail collection"]
-description: "A refreshing and savory traditional Korean side dish featuring tender bean sprouts tossed in a flavorful sesame and garlic dressing. Perfect for serving chilled on warm days."
-date: "2026-07-30"
+title: Korean Bean Sprouts
+category: Sides
+collection: Gail Collection
+source: Unknown
+tags:
+  - sides
+  - korean
+  - beansprouts
+  - vegetarian
+  - gailcollection
+description: A refreshing and savory traditional Korean side dish featuring tender bean sprouts tossed in a flavorful sesame and garlic dressing. Perfect for serving chilled on warm days.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Korean Bean Sprouts\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A refreshing and savory traditional Korean side dish featuring tender bean sprouts tossed in a flavorful sesame and garlic dressing.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT5M\",\n  \"recipeYield\": \"4 Servings\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeIngredient\": [\n    \"1 Pound Bean Sprouts\",\n    \"1 Teaspoon Salt\",\n    \"1/4 Teaspoon Pepper\",\n    \"1 Teaspoon Sesame Seed\",\n    \"1 1/2 Teaspoons Vinegar\",\n    \"1 Teaspoon Sesame Oil\",\n    \"1/2 Teaspoon Crushed Red Pepper\",\n    \"1 Green Onion\",\n    \"1/2 Clove Garlic\",\n    \"1 1/2 Teaspoons Soy Sauce\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Korean Bean Sprouts",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A refreshing and savory traditional Korean side dish featuring tender bean sprouts tossed in a flavorful sesame and garlic dressing.",
+    "prepTime": "PT10M",
+    "cookTime": "PT5M",
+    "recipeYield": "4 Servings",
+    "recipeCategory": "Sides",
+    "recipeIngredient": [
+      "1 Pound Bean Sprouts",
+      "1 Teaspoon Salt",
+      "1/4 Teaspoon Pepper",
+      "1 Teaspoon Sesame Seed",
+      "1 1/2 Teaspoons Vinegar",
+      "1 Teaspoon Sesame Oil",
+      "1/2 Teaspoon Crushed Red Pepper",
+      "1 Green Onion",
+      "1/2 Clove Garlic",
+      "1 1/2 Teaspoons Soy Sauce"
+    ]
+  }
 ---
 
 # Korean Bean Sprouts

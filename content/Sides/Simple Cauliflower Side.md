@@ -1,13 +1,18 @@
 ---
-title: "Simple Cauliflower Side"
-category: "Sides"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["cauliflower", "sides", "vegetables", "gail collection", "quick & easy"]
-description: "A quick and versatile cauliflower side dish blanched to crisp-tender perfection and seasoned with olive oil, garlic salt, and spices. An easy, light addition to any weeknight dinner."
-date: "2026-07-30"
+title: Simple Cauliflower Side
+category: Sides
+collection: Gail Collection
+source: Unknown
+tags:
+  - cauliflower
+  - sides
+  - vegetables
+  - gailcollection
+  - quick & easy
+description: A quick and versatile cauliflower side dish blanched to crisp-tender perfection and seasoned with olive oil, garlic salt, and spices. An easy, light addition to any weeknight dinner.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org\",\"@type\":\"Recipe\",\"name\":\"Simple Cauliflower Side\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"description\":\"A quick and versatile cauliflower side dish blanched to crisp-tender perfection and seasoned with olive oil, garlic salt, and spices.\",\"recipeCategory\":\"Sides\",\"prepTime\":\"PT10M\",\"cookTime\":\"PT5M\",\"recipeYield\":\"4 Servings\",\"recipeIngredient\":[\"1 head Cauliflower\",\"As needed Salt\",\"As needed Olive Oil\",\"As needed Garlic Salt\",\"As needed Seasoning Blend\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Cut cauliflower into florets.\"},{\"@type\":\"HowToStep\",\"text\":\"Blanch florets in salted boiling water for 5 minutes.\"},{\"@type\":\"HowToStep\",\"text\":\"Drain thoroughly.\"},{\"@type\":\"HowToStep\",\"text\":\"Toss with olive oil, garlic salt, and seasonings.\"},{\"@type\":\"HowToStep\",\"text\":\"Serve warm.\"}]}"
+recipe: '{"@context":"https://schema.org","@type":"Recipe","name":"Simple Cauliflower Side","author":{"@type":"Person","name":"Unknown"},"description":"A quick and versatile cauliflower side dish blanched to crisp-tender perfection and seasoned with olive oil, garlic salt, and spices.","recipeCategory":"Sides","prepTime":"PT10M","cookTime":"PT5M","recipeYield":"4 Servings","recipeIngredient":["1 head Cauliflower","As needed Salt","As needed Olive Oil","As needed Garlic Salt","As needed Seasoning Blend"],"recipeInstructions":[{"@type":"HowToStep","text":"Cut cauliflower into florets."},{"@type":"HowToStep","text":"Blanch florets in salted boiling water for 5 minutes."},{"@type":"HowToStep","text":"Drain thoroughly."},{"@type":"HowToStep","text":"Toss with olive oil, garlic salt, and seasonings."},{"@type":"HowToStep","text":"Serve warm."}]}'
 ---
 
 # Simple Cauliflower Side

@@ -1,11 +1,17 @@
 ---
-title: "Baked Beans"
-category: "Sides"
-collection: "LouiseCollection"
-source: "Unknown"
-tags: ["sides", "beans", "luncheon meat", "peaches", "vintage", "louisecollection"]
-description: "A delightful vintage side dish featuring baked beans combined with cubed luncheon meat, onions, and a surprising touch of canned peach slices. Quick to prepare on the stovetop, it offers a sweet and savory flavor profile."
-date: "2026-07-30"
+title: Baked Beans
+category: Sides
+collection: LouiseCollection
+source: Unknown
+tags:
+  - sides
+  - beans
+  - luncheonmeat
+  - peaches
+  - vintage
+  - louisecollection
+description: A delightful vintage side dish featuring baked beans combined with cubed luncheon meat, onions, and a surprising touch of canned peach slices. Quick to prepare on the stovetop, it offers a sweet and savory flavor profile.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Baked Beans\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-04-29\", \"description\": \"A delightful vintage side dish featuring baked beans combined with cubed luncheon meat, onions, and a surprising touch of canned peach slices.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"3-5 Servings\", \"recipeCategory\": \"Sides\", \"recipeIngredient\": [\"1 Cup Cubed Luncheon Meat\", \"1/4 Cup Chopped Onion\", \"2 Tbsp Butter or Margarine\", \"1 Tbsp Ketchup\", \"1 can (21 oz) Campbell's Pork & Beans\", \"Generous Dash Cinnamon\", \"1/2 Cup Canned Peach Slices\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In saucepan, brown meat and cook onion in butter until tender.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in remaining ingredients.\"}, {\"@type\": \"HowToStep\", \"text\": \"Heat; stir now and then.\"}]}"
 ---

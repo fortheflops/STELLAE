@@ -1,13 +1,18 @@
 ---
-title: "Nine Day Slaw"
-category: "Sides"
-collection: "Unknown Three Collection"
-source: "Unknown"
-tags: ["vintage", "coleslaw", "cabbage", "make-ahead", "side dish"]
-description: "A crisp, classic refrigerator slaw tossed with celery, onion, peppers, and a boiled sweet-and-sour dressing. Designed to be made ahead, this tangy salad improves over time and stays fresh for up to nine days."
-date: "2026-07-30"
+title: Nine Day Slaw
+category: Sides
+collection: Unknown Three Collection
+source: Unknown
+tags:
+  - vintage
+  - coleslaw
+  - cabbage
+  - make-ahead
+  - sidedish
+description: A crisp, classic refrigerator slaw tossed with celery, onion, peppers, and a boiled sweet-and-sour dressing. Designed to be made ahead, this tangy salad improves over time and stays fresh for up to nine days.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org\",\"@type\":\"Recipe\",\"name\":\"Nine Day Slaw\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"description\":\"A crisp, classic refrigerator slaw tossed with celery, onion, peppers, and a boiled sweet-and-sour dressing.\",\"prepTime\":\"PT20M\",\"cookTime\":\"PT5M\",\"totalTime\":\"PT24H25M\",\"recipeYield\":\"8\u201310 Servings\",\"recipeCategory\":\"Sides\",\"recipeCuisine\":\"American\",\"ingredient\":[\"1 Medium Head Cabbage, coarsely shredded\",\"4 Stalks Celery, diced\",\"1 Onion, diced\",\"1 Green Bell Pepper, chopped\",\"1 Jar (4 Ounce) Chopped Pimento, drained\",\"1 Cup Sugar, divided\",\"1 Cup Oil\",\"1 Cup Vinegar\",\"2 Tablespoons Salt\",\"1 Tablespoon Dry Mustard\",\"1 Tablespoon Celery Seed\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In a large mixing bowl, combine shredded cabbage, celery, onion, green bell pepper, pimento, and 1 cup minus 2 tablespoons of sugar.\"},{\"@type\":\"HowToStep\",\"text\":\"Combine oil, vinegar, salt, remaining 2 tablespoons sugar, dry mustard, and celery seed in a saucepan. Bring to a boil, stirring constantly.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour hot dressing over cabbage mixture and mix well. Cool, cover, and chill in the refrigerator for 24 hours before serving.\"}]}"
+recipe: '{"@context":"https://schema.org","@type":"Recipe","name":"Nine Day Slaw","author":{"@type":"Person","name":"Unknown"},"description":"A crisp, classic refrigerator slaw tossed with celery, onion, peppers, and a boiled sweet-and-sour dressing.","prepTime":"PT20M","cookTime":"PT5M","totalTime":"PT24H25M","recipeYield":"8–10 Servings","recipeCategory":"Sides","recipeCuisine":"American","ingredient":["1 Medium Head Cabbage, coarsely shredded","4 Stalks Celery, diced","1 Onion, diced","1 Green Bell Pepper, chopped","1 Jar (4 Ounce) Chopped Pimento, drained","1 Cup Sugar, divided","1 Cup Oil","1 Cup Vinegar","2 Tablespoons Salt","1 Tablespoon Dry Mustard","1 Tablespoon Celery Seed"],"recipeInstructions":[{"@type":"HowToStep","text":"In a large mixing bowl, combine shredded cabbage, celery, onion, green bell pepper, pimento, and 1 cup minus 2 tablespoons of sugar."},{"@type":"HowToStep","text":"Combine oil, vinegar, salt, remaining 2 tablespoons sugar, dry mustard, and celery seed in a saucepan. Bring to a boil, stirring constantly."},{"@type":"HowToStep","text":"Pour hot dressing over cabbage mixture and mix well. Cool, cover, and chill in the refrigerator for 24 hours before serving."}]}'
 ---
 
 # Nine Day Slaw

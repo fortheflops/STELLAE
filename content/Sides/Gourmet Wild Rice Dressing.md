@@ -1,13 +1,19 @@
 ---
-title: "Gourmet Wild Rice Dressing"
-category: "Sides"
-collection: "General Archive"
-source: "Unknown"
-tags: ["wild rice", "dressing", "side dish", "holiday", "bake-ahead", "stovetop"]
-description: "A versatile wild rice side dish that can be prepared on the stovetop or baked into a firm casserole with gourmet add-ins like mushrooms, sausage, and toasted nuts."
-date: "2026-07-30"
+title: Gourmet Wild Rice Dressing
+category: Sides
+collection: General Archive
+source: Unknown
+tags:
+  - wildrice
+  - dressing
+  - sidedish
+  - holiday
+  - bake-ahead
+  - stovetop
+description: A versatile wild rice side dish that can be prepared on the stovetop or baked into a firm casserole with gourmet add-ins like mushrooms, sausage, and toasted nuts.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Gourmet Wild Rice Dressing\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-11-12\", \"description\": \"A versatile wild rice dressing with multiple 'gourmet' mix-in options. Can be served as a loose dressing or baked into a firm casserole with an egg.\", \"image\": [\"https://cucinamezzaluna.com/Sides/Rice/Assets/Gourmet Wild Rice Dressing (Stovetop or Baked)-1762993205388.webp\", \"https://cucinamezzaluna.com/Sides/Rice/Assets/Gourmet Wild Rice Dressing (Stovetop or Baked)-1762993205386.webp\"], \"prepTime\": \"PT10M\", \"cookTime\": \"PT30M\", \"totalTime\": \"PT40M\", \"recipeYield\": \"4-6 servings\", \"recipeCategory\": \"Side Dish\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"6 oz. Uncle Ben's wild rice\", \"Herbs\", \"Saut\u00e9ed mushrooms\", \"Cooked sausage\", \"Minced chicken livers or oysters\", \"Toasted nuts\", \"Pimiento\", \"Parsley\", \"Olives\", \"Grated orange or lemon rind\", \"Wine\", \"1 beaten egg\"], \"recipeInstructions\": [{\"@type\": \"HowToSection\", \"name\": \"Stovetop Method\", \"itemListElement\": [{\"@type\": \"HowToStep\", \"text\": \"Cook the 6 oz. of wild rice according to package directions.\"}, {\"@type\": \"HowToStep\", \"text\": \"About 5 minutes before the end of cooking, fold in any of the desired 'gourmet' ingredients to your taste (e.g., mushrooms, nuts, parsley, wine).\"}, {\"@type\": \"HowToStep\", \"text\": \"Continue cooking for the final 5 minutes and serve.\"}]}, {\"@type\": \"HowToSection\", \"name\": \"Baked 'Firm Set' Dressing (Variation)\", \"itemListElement\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 350\u00b0F. Grease a casserole dish.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook the rice with your chosen add-ins as described in the stovetop method.\"}, {\"@type\": \"HowToStep\", \"text\": \"Remove the cooked rice from the heat and fold in one beaten egg.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour the mixture into the greased casserole dish.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake at 350\u00b0F for 15 to 20 minutes.\"}]}]}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Gourmet Wild Rice Dressing\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-11-12\", \"description\": \"A versatile wild rice dressing with multiple 'gourmet' mix-in options. Can be served as a loose dressing or baked into a firm casserole with an egg.\", \"image\": [\"https://cucinamezzaluna.com/Sides/Rice/Assets/Gourmet Wild Rice Dressing (Stovetop or Baked)-1762993205388.webp\", \"https://cucinamezzaluna.com/Sides/Rice/Assets/Gourmet Wild Rice Dressing (Stovetop or Baked)-1762993205386.webp\"], \"prepTime\": \"PT10M\", \"cookTime\": \"PT30M\", \"totalTime\": \"PT40M\", \"recipeYield\": \"4-6 servings\", \"recipeCategory\": \"Side Dish\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"6 oz. Uncle Ben's wild rice\", \"Herbs\", \"Sautéed mushrooms\", \"Cooked sausage\", \"Minced chicken livers or oysters\", \"Toasted nuts\", \"Pimiento\", \"Parsley\", \"Olives\", \"Grated orange or lemon rind\", \"Wine\", \"1 beaten egg\"], \"recipeInstructions\": [{\"@type\": \"HowToSection\", \"name\": \"Stovetop Method\", \"itemListElement\": [{\"@type\": \"HowToStep\", \"text\": \"Cook the 6 oz. of wild rice according to package directions.\"}, {\"@type\": \"HowToStep\", \"text\": \"About 5 minutes before the end of cooking, fold in any of the desired 'gourmet' ingredients to your taste (e.g., mushrooms, nuts, parsley, wine).\"}, {\"@type\": \"HowToStep\", \"text\": \"Continue cooking for the final 5 minutes and serve.\"}]}, {\"@type\": \"HowToSection\", \"name\": \"Baked 'Firm Set' Dressing (Variation)\", \"itemListElement\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 350°F. Grease a casserole dish.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook the rice with your chosen add-ins as described in the stovetop method.\"}, {\"@type\": \"HowToStep\", \"text\": \"Remove the cooked rice from the heat and fold in one beaten egg.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour the mixture into the greased casserole dish.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake at 350°F for 15 to 20 minutes.\"}]}]}"
 ---
 
 # Gourmet Wild Rice Dressing

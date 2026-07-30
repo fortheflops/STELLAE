@@ -1,13 +1,19 @@
 ---
-title: "Carol'S Potatoes"
-category: "Sides"
-collection: "LOC"
-source: "Carol"
-tags: ["louisecollection", "potatoes", "casserole", "cheese", "side dish", "vintage"]
-description: "A comforting, vintage potato casserole featuring a rich blend of sour cream, cream of chicken soup, and sharp cheddar cheese. Baked to bubbly perfection, this makes an effortless and crowd-pleasing side dish."
-date: "2026-07-30"
+title: Carol's Potatoes
+category: Sides
+collection: LOC
+source: Carol
+tags:
+  - louisecollection
+  - potatoes
+  - casserole
+  - cheese
+  - sidedish
+  - vintage
+description: A comforting, vintage potato casserole featuring a rich blend of sour cream, cream of chicken soup, and sharp cheddar cheese. Baked to bubbly perfection, this makes an effortless and crowd-pleasing side dish.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Carol's Potatoes\", \"author\": {\"@type\": \"Person\", \"name\": \"Carol\"}, \"datePublished\": \"2025-04-29\", \"description\": \"A comforting, vintage potato casserole featuring a rich blend of sour cream, cream of chicken soup, and sharp cheddar cheese.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT1H30M\", \"recipeYield\": \"6-8 Servings\", \"recipeCategory\": \"Sides\", \"recipeIngredient\": [\"2 lbs Potatoes\", \"0.5 Cup Sour Cream\", \"0.5 Cup Condensed Cream of Chicken Soup\", \"0.5 Cup Green Onion\", \"2 Cups Cheddar Cheese\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat your oven to 350\u00b0F.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a large mixing bowl, combine the 2 lbs potatoes, \u00bd cup sour cream, \u00bd cup condensed cream of chicken soup, \u00bd cup green onion, and 2 cups cheddar cheese.\"}, {\"@type\": \"HowToStep\", \"text\": \"Transfer the mixture to a greased baking dish and bake at 350\u00b0 for 1 \u00bd hours until tender and bubbly.\"}]}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Carol's Potatoes\", \"author\": {\"@type\": \"Person\", \"name\": \"Carol\"}, \"datePublished\": \"2025-04-29\", \"description\": \"A comforting, vintage potato casserole featuring a rich blend of sour cream, cream of chicken soup, and sharp cheddar cheese.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT1H30M\", \"recipeYield\": \"6-8 Servings\", \"recipeCategory\": \"Sides\", \"recipeIngredient\": [\"2 lbs Potatoes\", \"0.5 Cup Sour Cream\", \"0.5 Cup Condensed Cream of Chicken Soup\", \"0.5 Cup Green Onion\", \"2 Cups Cheddar Cheese\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat your oven to 350°F.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a large mixing bowl, combine the 2 lbs potatoes, ½ cup sour cream, ½ cup condensed cream of chicken soup, ½ cup green onion, and 2 cups cheddar cheese.\"}, {\"@type\": \"HowToStep\", \"text\": \"Transfer the mixture to a greased baking dish and bake at 350° for 1 ½ hours until tender and bubbly.\"}]}"
 ---
 
 # Carol'S Potatoes

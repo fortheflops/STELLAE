@@ -1,13 +1,18 @@
 ---
-title: "Glazed Canned Sweet Potatoes"
-category: "Sides"
-collection: "Louise Collection"
-source: "Unknown"
-tags: ["louisecollection", "sweet potatoes", "yams", "side dish", "vintage"]
-description: "A quick and classic vintage side dish featuring canned sweet potatoes simmered in a rich buttery sugar glaze. Perfect for pairing with holiday ham and baked to tender perfection."
-date: "2026-07-30"
+title: Glazed Canned Sweet Potatoes
+category: Sides
+collection: Louise Collection
+source: Unknown
+tags:
+  - louisecollection
+  - sweetpotatoes
+  - yams
+  - sidedish
+  - vintage
+description: A quick and classic vintage side dish featuring canned sweet potatoes simmered in a rich buttery sugar glaze. Perfect for pairing with holiday ham and baked to tender perfection.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Glazed Canned Sweet Potatoes\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-05-06\", \"description\": \"A quick and classic vintage side dish featuring canned sweet potatoes simmered in a rich buttery sugar glaze.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT30M\", \"totalTime\": \"PT35M\", \"recipeYield\": \"4 Servings\", \"recipeCategory\": \"Sides\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 (23 oz) can Sweet Potatoes (Yams)\", \"\u00bc cup Syrup\", \"\u2153 cup Sugar\", \"3 Tbsp Butter\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a saucepan, bring the \u00bc cup syrup from can, \u2153 cup sugar, and 3 Tbsp butter to a boil.\"}, {\"@type\": \"HowToStep\", \"text\": \"Arrange the 1 (23 oz) can sweet potatoes in a baking dish, pour the hot glaze over the yams, and bake at 350\u00b0 for 30 minutes until bubbly and caramelized.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Glazed Canned Sweet Potatoes", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-05-06", "description": "A quick and classic vintage side dish featuring canned sweet potatoes simmered in a rich buttery sugar glaze.", "prepTime": "PT5M", "cookTime": "PT30M", "totalTime": "PT35M", "recipeYield": "4 Servings", "recipeCategory": "Sides", "recipeCuisine": "American", "recipeIngredient": ["1 (23 oz) can Sweet Potatoes (Yams)", "¼ cup Syrup", "⅓ cup Sugar", "3 Tbsp Butter"], "recipeInstructions": [{"@type": "HowToStep", "text": "In a saucepan, bring the ¼ cup syrup from can, ⅓ cup sugar, and 3 Tbsp butter to a boil."}, {"@type": "HowToStep", "text": "Arrange the 1 (23 oz) can sweet potatoes in a baking dish, pour the hot glaze over the yams, and bake at 350° for 30 minutes until bubbly and caramelized."}]}'
 ---
 
 # Glazed Canned Sweet Potatoes

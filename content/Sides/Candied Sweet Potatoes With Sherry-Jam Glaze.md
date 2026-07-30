@@ -1,13 +1,52 @@
 ---
-title: "Candied Sweet Potatoes With Sherry-Jam Glaze"
-category: "Sides"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["sweet potatoes", "sherry", "jam", "holiday", "side dish", "gailcollection"]
-description: "Tender parboiled sweet potatoes coated in a rich sherry, apricot jam, and honey glaze, then baked until caramelized and bubbly."
-date: "2026-07-30"
+title: Candied Sweet Potatoes With Sherry-Jam Glaze
+category: Sides
+collection: Gail Collection
+source: Unknown
+tags:
+  - sweetpotatoes
+  - sherry
+  - jam
+  - holiday
+  - sidedish
+  - gailcollection
+description: Tender parboiled sweet potatoes coated in a rich sherry, apricot jam, and honey glaze, then baked until caramelized and bubbly.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Candied Sweet Potatoes with Sherry-Jam Glaze\",\n  \"description\": \"Tender parboiled sweet potatoes coated in a rich sherry, apricot jam, and honey glaze, then baked until caramelized and bubbly.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT40M\",\n  \"recipeYield\": \"6 Servings\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeIngredient\": [\n    \"Sweet Potatoes\",\n    \"1 cup Cream Sherry\",\n    \"1/2 cup Apricot Jam\",\n    \"1/2 cup Honey\",\n    \"1 dash Nutmeg\",\n    \"1 tablespoon Cornstarch\",\n    \"Butter\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a saucepan, combine the cream sherry, apricot jam, honey, nutmeg, and cornstarch. Cook over low heat, stirring constantly, until thickened.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Parboil the sweet potatoes for 20 minutes until fork-tender, cool, peel, and cut in half lengthwise. Place flat side down in a buttered baking pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Spoon glaze over potatoes and bake at 350\u00b0F for 20 minutes, then flip, add more glaze, and continue baking until done.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Candied Sweet Potatoes with Sherry-Jam Glaze",
+    "description": "Tender parboiled sweet potatoes coated in a rich sherry, apricot jam, and honey glaze, then baked until caramelized and bubbly.",
+    "prepTime": "PT20M",
+    "cookTime": "PT40M",
+    "recipeYield": "6 Servings",
+    "recipeCategory": "Sides",
+    "recipeIngredient": [
+      "Sweet Potatoes",
+      "1 cup Cream Sherry",
+      "1/2 cup Apricot Jam",
+      "1/2 cup Honey",
+      "1 dash Nutmeg",
+      "1 tablespoon Cornstarch",
+      "Butter"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan, combine the cream sherry, apricot jam, honey, nutmeg, and cornstarch. Cook over low heat, stirring constantly, until thickened."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Parboil the sweet potatoes for 20 minutes until fork-tender, cool, peel, and cut in half lengthwise. Place flat side down in a buttered baking pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon glaze over potatoes and bake at 350°F for 20 minutes, then flip, add more glaze, and continue baking until done."
+      }
+    ]
+  }
 ---
 
 # Candied Sweet Potatoes With Sherry-Jam Glaze

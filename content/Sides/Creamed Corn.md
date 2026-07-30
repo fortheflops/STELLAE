@@ -1,13 +1,55 @@
 ---
-title: "Creamed Corn"
-category: "Sides"
-collection: "UK3"
-source: "Susan LaFreniere"
-tags: ["corn", "casserole", "side dish", "comfort food", "vintage"]
-description: "Rich homemade creamed corn baked with a savory parmesan cheese crust until golden brown and bubbly. A comforting classic side dish from Susan LaFreniere's kitchen."
-date: "2026-07-30"
+title: Creamed Corn
+category: Sides
+collection: UK3
+source: Susan LaFreniere
+tags:
+  - corn
+  - casserole
+  - sidedish
+  - comfortfood
+  - vintage
+description: Rich homemade creamed corn baked with a savory parmesan cheese crust until golden brown and bubbly. A comforting classic side dish from Susan LaFreniere's kitchen.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Creamed Corn\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Susan LaFreniere\"\n  },\n  \"description\": \"Rich homemade creamed corn baked with a savory parmesan cheese crust until golden brown and bubbly.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT20M\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeYield\": \"6-8 Servings\",\n  \"recipeIngredient\": [\n    \"1 20-ounce bag Frozen Corn\",\n    \"1 cup Whip Cream - Unwhipped\",\n    \"1 teaspoon Salt\",\n    \"1 tablespoon Sugar\",\n    \"2 tablespoons Butter\",\n    \"2 tablespoons Flour\",\n    \"1 small bag Parmesan Cheese\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Thaw the 1 20-ounce bag frozen corn completely. Combine with 1 cup whip cream - unwhipped and simmer for 5 minutes. Stir in 1 teaspoon salt and 1 tablespoon sugar.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate pan, melt 2 tablespoons butter and stir in 2 tablespoons flour. Add to corn mixture and cook until thick.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Transfer to a casserole dish, top with 1 small bag parmesan cheese, and broil in the oven until the top is brown.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Creamed Corn",
+    "author": {
+      "@type": "Person",
+      "name": "Susan LaFreniere"
+    },
+    "description": "Rich homemade creamed corn baked with a savory parmesan cheese crust until golden brown and bubbly.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "recipeCategory": "Sides",
+    "recipeYield": "6-8 Servings",
+    "recipeIngredient": [
+      "1 20-ounce bag Frozen Corn",
+      "1 cup Whip Cream - Unwhipped",
+      "1 teaspoon Salt",
+      "1 tablespoon Sugar",
+      "2 tablespoons Butter",
+      "2 tablespoons Flour",
+      "1 small bag Parmesan Cheese"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Thaw the 1 20-ounce bag frozen corn completely. Combine with 1 cup whip cream - unwhipped and simmer for 5 minutes. Stir in 1 teaspoon salt and 1 tablespoon sugar."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate pan, melt 2 tablespoons butter and stir in 2 tablespoons flour. Add to corn mixture and cook until thick."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer to a casserole dish, top with 1 small bag parmesan cheese, and broil in the oven until the top is brown."
+      }
+    ]
+  }
 ---
 
 # Creamed Corn

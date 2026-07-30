@@ -1,13 +1,18 @@
 ---
-title: "Yorkshire Pudding"
-category: "Sides"
-collection: "UK Collection"
-source: "Unknown"
-tags: ["vintage", "british", "yorkshire pudding", "beef drippings", "sides"]
-description: "A classic British side dish baked in rich rendered beef fat until dramatically puffed, light, and golden brown. Designed to bake underneath roast beef so savory juices flavor the crisp pudding."
-date: "2026-07-30"
+title: Yorkshire Pudding
+category: Sides
+collection: UK Collection
+source: Unknown
+tags:
+  - vintage
+  - british
+  - yorkshirepudding
+  - beefdrippings
+  - sides
+description: A classic British side dish baked in rich rendered beef fat until dramatically puffed, light, and golden brown. Designed to bake underneath roast beef so savory juices flavor the crisp pudding.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org\",\"@type\":\"Recipe\",\"name\":\"Yorkshire Pudding\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"recipeCategory\":\"Sides\",\"recipeCuisine\":\"British\",\"prepTime\":\"PT10M\",\"cookTime\":\"PT45M\",\"totalTime\":\"PT55M\",\"recipeYield\":\"6 Servings\",\"recipeIngredient\":[\"1 Cup Flour\",\"1/4 Teaspoon Salt\",\"3 Eggs (well beaten)\",\"1/2 Cup Milk\",\"1/2 Cup Water\",\"As needed Beef Drippings\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Mix flour and salt. Add milk, water, and well-beaten eggs. Beat vigorously with a rotary beater.\"},{\"@type\":\"HowToStep\",\"text\":\"Grease roasting pan sides with hot beef drippings from roast. Pour batter into pan about 1/2 inch thick.\"},{\"@type\":\"HowToStep\",\"text\":\"Set roast on rack over pudding pan. Bake at 425\u00b0F for 15 minutes, then reduce to 375\u00b0F and bake 30 minutes until golden brown and puffed. Serve immediately.\"}]}"
+recipe: '{"@context":"https://schema.org","@type":"Recipe","name":"Yorkshire Pudding","author":{"@type":"Person","name":"Unknown"},"recipeCategory":"Sides","recipeCuisine":"British","prepTime":"PT10M","cookTime":"PT45M","totalTime":"PT55M","recipeYield":"6 Servings","recipeIngredient":["1 Cup Flour","1/4 Teaspoon Salt","3 Eggs (well beaten)","1/2 Cup Milk","1/2 Cup Water","As needed Beef Drippings"],"recipeInstructions":[{"@type":"HowToStep","text":"Mix flour and salt. Add milk, water, and well-beaten eggs. Beat vigorously with a rotary beater."},{"@type":"HowToStep","text":"Grease roasting pan sides with hot beef drippings from roast. Pour batter into pan about 1/2 inch thick."},{"@type":"HowToStep","text":"Set roast on rack over pudding pan. Bake at 425°F for 15 minutes, then reduce to 375°F and bake 30 minutes until golden brown and puffed. Serve immediately."}]}'
 ---
 
 # Yorkshire Pudding

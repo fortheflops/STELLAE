@@ -1,13 +1,17 @@
 ---
-title: "Bulgur Pilaf"
-category: "Sides"
-collection: "Gail Collection"
-source: "Harriet Boston"
-tags: ["pilaf", "bulgur", "side dish", "grain"]
-description: "A savory and traditional wheat bulgur pilaf lightly seasoned with oregano and cooked in rich chicken broth. Perfect for pairing with chicken, lamb, or pork."
-date: "2026-07-30"
+title: Bulgur Pilaf
+category: Sides
+collection: Gail Collection
+source: Harriet Boston
+tags:
+  - pilaf
+  - bulgur
+  - sidedish
+  - grain
+description: A savory and traditional wheat bulgur pilaf lightly seasoned with oregano and cooked in rich chicken broth. Perfect for pairing with chicken, lamb, or pork.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Bulgur Pilaf\",\"author\":{\"@type\":\"Person\",\"name\":\"Harriet Boston\"},\"description\":\"A savory and traditional wheat bulgur pilaf lightly seasoned with oregano and cooked in rich chicken broth.\",\"prepTime\":\"PT10M\",\"cookTime\":\"PT15M\",\"recipeYield\":\"4 Servings\",\"recipeCategory\":\"Sides\",\"recipeIngredient\":[\"1 Cup Bulgur\",\"2 Tablespoons Butter\",\"1 Tablespoon Onion\",\"2 Cups Chicken Broth\",\"1/4 Teaspoon Oregano\",\"1/2 Teaspoon Salt\",\"A Few Grains Pepper\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Melt 2 tablespoons of butter in a skillet over medium heat.\"},{\"@type\":\"HowToStep\",\"text\":\"Add 1 cup of uncooked wheat bulgur and 1 tablespoon of minced onion.\"},{\"@type\":\"HowToStep\",\"text\":\"Cook, stirring frequently, until the bulgur is golden and fragrant.\"},{\"@type\":\"HowToStep\",\"text\":\"Add 2 cups of chicken broth, 1/4 teaspoon of oregano, 1/2 teaspoon of salt, and a few grains of pepper.\"},{\"@type\":\"HowToStep\",\"text\":\"Cover the skillet and bring the mixture to a boil.\"},{\"@type\":\"HowToStep\",\"text\":\"Reduce the heat and simmer for 15 minutes, or until the liquid is absorbed and the bulgur is tender.\"},{\"@type\":\"HowToStep\",\"text\":\"Serve warm alongside chicken, lamb, or pork.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Bulgur Pilaf","author":{"@type":"Person","name":"Harriet Boston"},"description":"A savory and traditional wheat bulgur pilaf lightly seasoned with oregano and cooked in rich chicken broth.","prepTime":"PT10M","cookTime":"PT15M","recipeYield":"4 Servings","recipeCategory":"Sides","recipeIngredient":["1 Cup Bulgur","2 Tablespoons Butter","1 Tablespoon Onion","2 Cups Chicken Broth","1/4 Teaspoon Oregano","1/2 Teaspoon Salt","A Few Grains Pepper"],"recipeInstructions":[{"@type":"HowToStep","text":"Melt 2 tablespoons of butter in a skillet over medium heat."},{"@type":"HowToStep","text":"Add 1 cup of uncooked wheat bulgur and 1 tablespoon of minced onion."},{"@type":"HowToStep","text":"Cook, stirring frequently, until the bulgur is golden and fragrant."},{"@type":"HowToStep","text":"Add 2 cups of chicken broth, 1/4 teaspoon of oregano, 1/2 teaspoon of salt, and a few grains of pepper."},{"@type":"HowToStep","text":"Cover the skillet and bring the mixture to a boil."},{"@type":"HowToStep","text":"Reduce the heat and simmer for 15 minutes, or until the liquid is absorbed and the bulgur is tender."},{"@type":"HowToStep","text":"Serve warm alongside chicken, lamb, or pork."}]}'
 ---
 
 # Bulgur Pilaf

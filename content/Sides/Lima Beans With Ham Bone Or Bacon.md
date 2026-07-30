@@ -1,13 +1,59 @@
 ---
-title: "Lima Beans With Ham Bone Or Bacon"
-category: "Sides"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["lima beans", "ham bone", "bacon", "vintage", "comfort food", "southern"]
-description: "A traditional, comforting recipe for slow-cooked lima beans infused with savory ham bone or smoky bacon. Perfect as a hearty side dish for family gatherings."
-date: "2026-07-30"
+title: Lima Beans With Ham Bone Or Bacon
+category: Sides
+collection: Gail Collection
+source: Unknown
+tags:
+  - limabeans
+  - hambone
+  - bacon
+  - vintage
+  - comfortfood
+  - southern
+description: A traditional, comforting recipe for slow-cooked lima beans infused with savory ham bone or smoky bacon. Perfect as a hearty side dish for family gatherings.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Lima Beans with Ham Bone or Bacon\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A traditional, comforting recipe for slow-cooked lima beans infused with savory ham bone or smoky bacon.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT90M\",\n  \"totalTime\": \"PT110M\",\n  \"recipeYield\": \"6-8 servings\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 \u00bd Cups Lima Beans\",\n    \"Water\",\n    \"1 Large White Onion\",\n    \"Celery\",\n    \"1 Ham Bone\",\n    \"Salt\",\n    \"4 Slices Bacon\",\n    \"6 Cups Water\",\n    \"1 Cup Tomato Sauce\",\n    \"Sugar\",\n    \"Pork Love\",\n    \"Kitchen Bouquet\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Soak the 1 \u00bd cups lima beans in water overnight, optionally adding 1 teaspoon soda to help soften the beans. Drain the soaking water thoroughly.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large pot or pressure cooker, combine the drained lima beans, 1 large white onion, a little celery, and the 1 ham bone. Add water to cover and cook until tender.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Lima Beans with Ham Bone or Bacon",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A traditional, comforting recipe for slow-cooked lima beans infused with savory ham bone or smoky bacon.",
+    "prepTime": "PT20M",
+    "cookTime": "PT90M",
+    "totalTime": "PT110M",
+    "recipeYield": "6-8 servings",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 ½ Cups Lima Beans",
+      "Water",
+      "1 Large White Onion",
+      "Celery",
+      "1 Ham Bone",
+      "Salt",
+      "4 Slices Bacon",
+      "6 Cups Water",
+      "1 Cup Tomato Sauce",
+      "Sugar",
+      "Pork Love",
+      "Kitchen Bouquet"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Soak the 1 ½ cups lima beans in water overnight, optionally adding 1 teaspoon soda to help soften the beans. Drain the soaking water thoroughly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot or pressure cooker, combine the drained lima beans, 1 large white onion, a little celery, and the 1 ham bone. Add water to cover and cook until tender."
+      }
+    ]
+  }
 ---
 
 # Lima Beans With Ham Bone Or Bacon
