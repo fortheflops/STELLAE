@@ -82,7 +82,7 @@ def reformat_archive():
     consecutive_failures = 0
     
     # THE FAIL-SAFE RELAY RACE: Try Pro first, then fallback to the massive Flash daily limits!
-    model_fallback_list = ['gemini-1.5-pro', 'gemini-3.6-flash', 'gemini-2.5-flash', 'gemini-1.5-flash']
+    model_fallback_list = ['gemini-3.6-flash', 'gemini-2.5-flash']
     current_model_index = 0
     
     for file_path in all_md_files:
@@ -136,8 +136,9 @@ def reformat_archive():
                     
                 except Exception as e:
                     error_msg = str(e)
-                    if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg:
-                        print(f"⚠️ Model {active_model} is out of daily free quota.")
+                    # FIX: Now catches 404/NOT_FOUND errors and swaps models instead of crashing!
+                    if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg or "404" in error_msg or "NOT_FOUND" in error_msg:
+                        print(f"⚠️ Model {active_model} is unavailable (Out of Quota or Not Found).")
                         current_model_index += 1 # Shift to the next gear
                         
                         if current_model_index < len(model_fallback_list):
