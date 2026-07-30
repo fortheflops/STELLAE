@@ -83,13 +83,11 @@ def reformat_archive():
     consecutive_failures = 0
     
     for file_path in all_md_files:
-        # CIRCUIT BREAKER 1: Stop once we hit our batch target (50 files)
         if processed_count >= MAX_FILES_PER_RUN:
             print(f"\n🛑 Reached safety batch limit of {MAX_FILES_PER_RUN} files!")
             print("💾 Exiting cleanly so GitHub Actions can save and push your progress to the repository.")
             break
 
-        # CIRCUIT BREAKER 2: Stop if we hit 3 errors in a row (Daily Quota Exhausted!)
         if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
             print(f"\n🛑 {MAX_CONSECUTIVE_FAILURES} files failed in a row! Your Google Free Tier DAILY quota is likely exhausted.")
             print("💾 Stopping immediately and exiting cleanly so GitHub can save any work finished so far!")
@@ -97,7 +95,6 @@ def reformat_archive():
 
         filename = os.path.basename(file_path)
         
-        # Skip system landing pages and Quartz navigation files
         if filename.lower() in ["index.md", "about.md", "contact.md", "404.md"]:
             continue
             
@@ -105,13 +102,11 @@ def reformat_archive():
             with open(file_path, "r", encoding="utf-8") as f:
                 raw_content = f.read()
                 
-            # SMART SKIP: If file is already upgraded to Kitchen-Ready format, skip it in milliseconds!
             if "### 🔪 Key Equipment" in raw_content or "| Inactive / Chill Time |" in raw_content:
                 continue
                 
             print(f"📚 [{processed_count + 1}/{MAX_FILES_PER_RUN}] Processing: {filename}...")
             
-            # AUTO-RETRY LOOP: Tries up to 2 times if Google throws a temporary server error
             max_retries = 2
             file_success = False
             
@@ -128,12 +123,11 @@ def reformat_archive():
                     save_upgraded_recipe(file_path, data)
                     
                     processed_count += 1
-                    consecutive_failures = 0 # Reset failure streak on success!
+                    consecutive_failures = 0 
                     file_success = True
                     
-                    # SMART THROTTLE: Sleep 4.5 seconds to stay well under Google's per-minute limits!
                     time.sleep(4.5)
-                    break # Success! Break out of the retry loop
+                    break 
                     
                 except Exception as e:
                     error_msg = str(e)
@@ -145,7 +139,6 @@ def reformat_archive():
                         print(f"❌ Failed librarian reformat on {filename}: {e}")
                         break
             
-            # If all retries failed for this file, increment our Consecutive Failure tracker
             if not file_success:
                 consecutive_failures += 1
                 print(f"⚠️ Warning: Consecutive failure count is now {consecutive_failures}/{MAX_CONSECUTIVE_FAILURES}")
@@ -153,7 +146,6 @@ def reformat_archive():
         except Exception as e:
             print(f"❌ Could not open file {filename}: {e}")
 
-    # Prune empty legacy subfolders after moving recipes to top-level rooms
     cleanup_empty_folders(CONTENT_DIR)
     print(f"\n🎉 Session finished! Successfully upgraded {processed_count} files.")
 
@@ -214,16 +206,17 @@ def save_upgraded_recipe(old_file_path, data):
     make_ahead = data.get('make_ahead_notes')
     make_ahead_md = f"---\n\n> 💡 **Make-Ahead & Storage:** {make_ahead}\n" if make_ahead else ""
 
+    # FIXED: json.dumps() used for all metadata fields to perfectly escape internal quotes!
     markdown_content = f"""---
-title: "{safe_title}"
-category: "{category}"
-collection: "{data.get('collection', 'General Archive')}"
-source: "{data.get('author', 'Unknown')}"
+title: {json.dumps(safe_title)}
+category: {json.dumps(category)}
+collection: {json.dumps(data.get('collection', 'General Archive'))}
+source: {json.dumps(data.get('author', 'Unknown'))}
 tags: {json.dumps(data.get('tags', []))}
-description: "{data.get('description', '')}"
-date: "2026-07-28"
+description: {json.dumps(data.get('description', ''))}
+date: "2026-07-29"
 draft: false
-recipe: {json.dumps(data.get('json_ld_schema', '{}'))}
+recipe: {json.dumps(data.get('json_ld_schema', dict()))}
 ---
 
 # {safe_title}
