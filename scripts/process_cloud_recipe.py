@@ -72,7 +72,7 @@ def process_intake():
     os.makedirs(ASSET_DIR, exist_ok=True)
 
     all_files = glob.glob(os.path.join(INTAKE_DIR, "**", "*.*"), recursive=True)
-    model_fallback_list = ['gemini-3.5-flash', 'gemini-2.5-flash', 'gemini-1.5-flash']
+    model_fallback_list = ['gemini-3.5-flash', 'gemini-3.5-flash-lite', 'gemini-3.1-flash-lite']
 
     for file_path in all_files:
         if os.path.isdir(file_path) or file_path.endswith('.gitkeep'):
