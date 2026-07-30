@@ -3,7 +3,7 @@ title: Bobbie'S Sausage Balls
 category: Appetizers
 collection: Jill's Collection
 source: Bobbie
-tags: ["vintage", "appetizer", "sausage", "cheese", "jill-collection"]
+tags: [vintage, appetizer, sausage, cheese, jill-collection]
 description: A classic and easy three-ingredient appetizer from Bobbie, made with Bisquick, pork sausage, and sharp cheddar cheese. Simple to make and always a crowd-pleaser.
 date: 2026-07-24
 draft: false

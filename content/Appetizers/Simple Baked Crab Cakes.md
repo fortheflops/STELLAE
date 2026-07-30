@@ -3,7 +3,7 @@ title: Simple Baked Crab Cakes
 category: Appetizers
 collection: General Archive
 source: Unknown
-tags: ["vintage", "seafood", "crab", "baked", "appetizer"]
+tags: [vintage, seafood, crab, baked, appetizer]
 description: Classic, savory crab cakes made with lump crab meat and simple seasonings. They're formed, coated in cracker crumbs, and baked until perfectly golden brown.
 date: 2026-07-24
 draft: false

@@ -3,7 +3,7 @@ title: Beer Rarebit Fondue
 category: Appetizers
 collection: Gail Collection
 source: The Green Pen
-tags: ["vintage", "cheddar", "fondue", "appetizer", "gail-collection"]
+tags: [vintage, cheddar, fondue, appetizer, gail-collection]
 description: A savory and tangy cheddar cheese fondue inspired by classic Welsh rarebit. Melted with beer, ginger ale, and warm spices, it is the ultimate crowd-pleasing dip for bread, vegetables, and meats.
 date: 2026-07-24
 draft: false

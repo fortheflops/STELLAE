@@ -3,7 +3,7 @@ title: Maryland-Style Crab Cakes
 category: Appetizers
 collection: General Archive
 source: Unknown
-tags: ["vintage", "crab", "seafood", "appetizers", "maryland-style"]
+tags: [vintage, crab, seafood, appetizers, maryland-style]
 description: A classic recipe for Maryland-style crab cakes, featuring flavorful crab claw meat with minimal filler. Seasoned with horseradish and Tabasco, these cakes are coated in cracker crumbs and fried to a perfect golden brown.
 date: 2026-07-24
 draft: false
