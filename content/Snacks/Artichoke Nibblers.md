@@ -68,4 +68,4 @@ recipe: "{\"@context\":\"https://schema.org\",\"@type\":\"Recipe\",\"name\":\"Ar
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](content/Snacks/Vegetables/Artichoke/Assets/Handwritten_2025-01-04_151911.webp)
+![Original Handwritten Card](Handwritten_2025-01-04_151911.webp)
