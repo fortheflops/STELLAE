@@ -49,7 +49,7 @@ def process_intake():
     all_files = glob.glob(os.path.join(INTAKE_DIR, "**", "*.*"), recursive=True)
 
     # THE FAIL-SAFE RELAY RACE: Automatically shifts gears if a model is overloaded or out of quota!
-    model_fallback_list = ['gemini-3.5-flash', 'gemini-2.5-flash', 'gemini-1.5-flash']
+    model_fallback_list = ['gemini-3.5-flash', 'gemini-3.5-flash-lite', 'gemini-3.1-flash-lite']
 
     for file_path in all_files:
         if os.path.isdir(file_path) or file_path.endswith('.gitkeep'):
