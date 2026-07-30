@@ -105,7 +105,7 @@ def process_intake():
                     )
                     client.files.delete(name=sample_file.name)
                     img_obj = None
-                elif file_path.lower().endswith(('png', 'jpg', 'jpeg', 'heic')):
+                elif file_path.lower().endswith(('png', 'jpg', 'jpeg', 'heic', 'webp')):
                     img_obj = Image.open(file_path)
                     response = client.models.generate_content(
                         model=active_model,
