@@ -82,7 +82,7 @@ def reformat_archive():
     consecutive_failures = 0
     
     # THE FAIL-SAFE RELAY RACE: Try Pro first, then fallback to the massive Flash daily limits!
-    model_fallback_list = ['gemini-3.6-flash', 'gemini-2.5-flash']
+    model_fallback_list = ['gemini-3.5-flash', 'gemini-2.5-flash']
     current_model_index = 0
     
     for file_path in all_md_files:
