@@ -7,7 +7,6 @@ from google.genai import types
 
 # Connect using the official Google GenAI SDK
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
-MODEL_ID = 'gemini-3.5-flash'
 
 CONTENT_DIR = "content"
 ASSET_DIR = "content/assets/scans"
@@ -82,6 +81,10 @@ def reformat_archive():
     processed_count = 0
     consecutive_failures = 0
     
+    # THE FAIL-SAFE RELAY RACE: Try Pro first, then fallback to the massive Flash daily limits!
+    model_fallback_list = ['gemini-1.5-pro', 'gemini-3.6-flash', 'gemini-2.5-flash', 'gemini-1.5-flash']
+    current_model_index = 0
+    
     for file_path in all_md_files:
         if processed_count >= MAX_FILES_PER_RUN:
             print(f"\n🛑 Reached safety batch limit of {MAX_FILES_PER_RUN} files!")
@@ -89,7 +92,7 @@ def reformat_archive():
             break
 
         if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
-            print(f"\n🛑 {MAX_CONSECUTIVE_FAILURES} files failed in a row! Your Google Free Tier DAILY quota is likely exhausted.")
+            print(f"\n🛑 {MAX_CONSECUTIVE_FAILURES} files failed in a row! All daily quotas are likely exhausted.")
             print("💾 Stopping immediately and exiting cleanly so GitHub can save any work finished so far!")
             break
 
@@ -102,19 +105,21 @@ def reformat_archive():
             with open(file_path, "r", encoding="utf-8") as f:
                 raw_content = f.read()
                 
+            # SMART SKIP: If file is already upgraded to Kitchen-Ready format, skip it in milliseconds!
             if "### 🔪 Key Equipment" in raw_content or "| Inactive / Chill Time |" in raw_content:
                 continue
                 
             print(f"📚 [{processed_count + 1}/{MAX_FILES_PER_RUN}] Processing: {filename}...")
             
-            max_retries = 2
             file_success = False
             
-            for attempt in range(max_retries):
+            # AUTOMATIC FAIL-SAFE ENGINE
+            while current_model_index < len(model_fallback_list):
+                active_model = model_fallback_list[current_model_index]
                 try:
                     config = types.GenerateContentConfig(response_mime_type="application/json", temperature=0.1)
                     response = client.models.generate_content(
-                        model=MODEL_ID,
+                        model=active_model,
                         contents=[LIBRARIAN_PROMPT, f"CURRENT FILE PATH: {file_path}\n\nRAW RECIPE CONTENT:\n{raw_content}"],
                         config=config
                     )
@@ -127,14 +132,25 @@ def reformat_archive():
                     file_success = True
                     
                     time.sleep(4.5)
-                    break 
+                    break # Success! Break out of the engine loop and move to the next recipe
                     
                 except Exception as e:
                     error_msg = str(e)
-                    if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg or "503" in error_msg:
-                        wait_time = 30 * (attempt + 1)
-                        print(f"⏳ Rate limit hit! Resting for {wait_time} seconds (Attempt {attempt + 1}/{max_retries})...")
-                        time.sleep(wait_time)
+                    if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg:
+                        print(f"⚠️ Model {active_model} is out of daily free quota.")
+                        current_model_index += 1 # Shift to the next gear
+                        
+                        if current_model_index < len(model_fallback_list):
+                            print(f"🔄 FAIL-SAFE ACTIVATED: Switching to backup model -> {model_fallback_list[current_model_index]}...")
+                            time.sleep(2) # Give it a breath before retrying the same file
+                        else:
+                            print("🛑 All backup models in the relay are out of daily quota!")
+                            break # Break out of the engine loop entirely
+                            
+                    elif "503" in error_msg:
+                        print(f"⏳ Temporary server spike on {active_model}. Waiting 30 seconds before giving up on this file...")
+                        time.sleep(30)
+                        break
                     else:
                         print(f"❌ Failed librarian reformat on {filename}: {e}")
                         break
@@ -206,7 +222,6 @@ def save_upgraded_recipe(old_file_path, data):
     make_ahead = data.get('make_ahead_notes')
     make_ahead_md = f"---\n\n> 💡 **Make-Ahead & Storage:** {make_ahead}\n" if make_ahead else ""
 
-    # FIXED: json.dumps() used for all metadata fields to perfectly escape internal quotes!
     markdown_content = f"""---
 title: {json.dumps(safe_title)}
 category: {json.dumps(category)}
@@ -214,7 +229,7 @@ collection: {json.dumps(data.get('collection', 'General Archive'))}
 source: {json.dumps(data.get('author', 'Unknown'))}
 tags: {json.dumps(data.get('tags', []))}
 description: {json.dumps(data.get('description', ''))}
-date: "2026-07-29"
+date: "2026-07-30"
 draft: false
 recipe: {json.dumps(data.get('json_ld_schema', dict()))}
 ---
