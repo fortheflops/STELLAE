@@ -32,6 +32,7 @@ MAX_CONSECUTIVE_FAILURES = 3
 LIBRARIAN_PROMPT = """
 You are an expert digital librarian and culinary archivist for Cucina Mezzaluna.
 Your task is to take a newly scanned recipe image or PDF and process it into our standardized "Kitchen-Ready" archival schema.
+SYNTHESIZE ALL PAGES OF A MULTI-PAGE DOCUMENT INTO ONE SINGLE, COHESIVE RECIPE OBJECT.
 
 CRITICAL LIBRARIAN RULES:
 1. "title": Clean, proper Title Case (e.g., "Carol's Potatoes", "Marble Cookies"). Do not mess up apostrophes.
@@ -121,8 +122,10 @@ def process_intake():
                     temperature=0.2
                 )
                 
-                img_obj = None
-                if file_path.lower().endswith('.pdf'):
+                img_objects = []
+                is_pdf_file = file_path.lower().endswith('.pdf')
+
+                if is_pdf_file:
                     sample_file = client.files.upload(file=file_path)
                     response = client.models.generate_content(
                         model=active_model,
@@ -131,22 +134,24 @@ def process_intake():
                     )
                     client.files.delete(name=sample_file.name)
                     
-                    # Convert first page of PDF to image for the recipe card display
+                    # FIXED: Loop through ALL pages of the PDF so no pictures/pages are missed!
                     if PDF_SUPPORT:
                         doc = fitz.open(file_path)
-                        page = doc[0]
-                        pix = page.get_pixmap(dpi=150)
-                        img_obj = Image.open(BytesIO(pix.tobytes("png")))
+                        for page in doc:
+                            pix = page.get_pixmap(dpi=150)
+                            page_img = Image.open(BytesIO(pix.tobytes("png")))
+                            img_objects.append(page_img)
                 
                 elif file_path.lower().endswith(('png', 'jpg', 'jpeg', 'heic', 'webp')):
                     img_obj = Image.open(file_path)
+                    img_objects.append(img_obj)
                     response = client.models.generate_content(
                         model=active_model,
                         contents=[LIBRARIAN_PROMPT, img_obj],
                         config=config
                     )
                 
-                save_and_archive(response.text, [file_path], filename, collection_name, img_obj=img_obj)
+                save_and_archive(response.text, [file_path], filename, collection_name, img_objects=img_objects)
                 
                 processed_count += 1
                 consecutive_failures = 0
@@ -175,7 +180,7 @@ def process_intake():
 
     print(f"\n🎉 Session finished! Successfully processed {processed_count} new files.")
 
-def save_and_archive(json_text, source_files, archive_name, collection_name, img_obj=None):
+def save_and_archive(json_text, source_files, archive_name, collection_name, img_objects=None):
     data = json.loads(json_text)
     
     safe_title = data.get('title', 'Untitled Dish').strip()
@@ -190,13 +195,18 @@ def save_and_archive(json_text, source_files, archive_name, collection_name, img
 
     safe_base = safe_title.lower().replace(" ", "-").replace("'", "")
     safe_filename = safe_base + ".md"
-    webp_filename = safe_base + "-" + archive_name.replace(" ", "-").replace(".pdf", "") + ".webp"
     
-    webp_embed = ""
-    if img_obj:
-        webp_path = os.path.join(ASSET_DIR, webp_filename)
-        img_obj.convert("RGB").save(webp_path, "WEBP", quality=82)
-        webp_embed = f"\n---\n## Original Recipe Scan\n![Original Handwritten Card](/assets/scans/{webp_filename})\n"
+    webp_embeds = ""
+    if img_objects:
+        webp_embeds += "\n---\n## Original Recipe Scan\n"
+        for idx, img_obj in enumerate(img_objects):
+            page_suffix = f"-p{idx+1}" if len(img_objects) > 1 else ""
+            webp_filename = safe_base + "-" + archive_name.replace(" ", "-").replace(".pdf", "") + page_suffix + ".webp"
+            webp_path = os.path.join(ASSET_DIR, webp_filename)
+            img_obj.convert("RGB").save(webp_path, "WEBP", quality=82)
+            
+            label = f"Page {idx+1}" if len(img_objects) > 1 else "Original Handwritten Card"
+            webp_embeds += f"![{label}]({'/assets/scans/' + webp_filename})\n\n"
 
     equip_list = data.get('equipment', [])
     equip_md = "### 🔪 Key Equipment\n" + "\n".join([f"* {item}" for item in equip_list]) + "\n\n---\n" if equip_list else ""
@@ -252,7 +262,7 @@ recipe: {json.dumps(data.get('json_ld_schema', dict()))}
 
 {equip_md}{ing_md}---
 
-{inst_md}{make_ahead_md}{webp_embed}"""
+{inst_md}{make_ahead_md}{webp_embeds}"""
 
     cat_dir = os.path.join(OUTPUT_DIR, category)
     os.makedirs(cat_dir, exist_ok=True)
