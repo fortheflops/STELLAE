@@ -56,4 +56,4 @@ ___
 >This recipe card also lists ingredients for a pecan filling (6 Tbsp. brown sugar and 6 Tbsp. chopped pecans) and pecan halves for topping, suggesting this syrup is part of a larger recipe for pecan sticky buns.
 
 ___
-![[Handwritten_2025-02-08_102229 (2).webp]]
+![[content/Desserts/Sauces, Toppings, & Components/Syrup/Assets/Handwritten_2025-02-08_102229 (2).webp]]

@@ -65,4 +65,4 @@ recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](content/Other/Condiments/Relish/Assets/Handwritten_2025-01-19_120434.webp)
+![Original Handwritten Card](Handwritten_2025-01-19_120434.webp)
