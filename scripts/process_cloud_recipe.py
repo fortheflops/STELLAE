@@ -38,7 +38,7 @@ CRITICAL LIBRARIAN RULES:
 1. "title": Clean, proper Title Case (e.g., "Carol's Potatoes", "Marble Cookies"). Do not mess up apostrophes.
 2. "category": Strictly ONE of: Appetizers, Basics, Beverages, Bread, Breakfast, Desserts, Entrees, Preserves, Salads, Sauces, Sides, Snacks, Soups.
 3. "collection" & "author": Extract collection origin or author if mentioned in the text or filename (default to "John B. Collection" and "Unattributed" if missing).
-4. "tags": Array of lowercase, single-word or compressed tags without spaces (e.g., ["sidedish", "vintage", "potatoes", "comfortfood"]).
+4. "tags": Array of lowercase, single-word or compressed tags without spaces (e.g., ["sidedish", "potatoes", "comfortfood"]). Do NOT include the word "vintage".
 5. "equipment": Array of key kitchen tools needed (e.g., ["Mixing bowl", "Baking dish"]).
 6. "ingredients_sections": Array of sections (e.g., "Main Ingredients"). Each item MUST have "measurement", "ingredient" (wrap key items in wikilinks like [[Potatoes]], [[Butter]]), and "notes" (prep state like "diced", "melted").
 7. "instructions_sections": Array of chronological sections (e.g., "Step 1: Prep"). MUST BOLD all measurements and ingredient names inside the text! Include sensory doneness cues.
@@ -50,7 +50,7 @@ Return ONLY a raw JSON object with:
     "category": "Sides",
     "collection": "John B. Collection",
     "author": "Carol",
-    "tags": ["sidedish", "vintage", "potatoes", "comfortfood"],
+    "tags": ["sidedish", "potatoes", "comfortfood"],
     "description": "A 2-sentence SEO optimized archival description.",
     "prep_time": "20 mins",
     "cook_time": "45 mins",
@@ -134,7 +134,6 @@ def process_intake():
                     )
                     client.files.delete(name=sample_file.name)
                     
-                    # FIXED: Loop through ALL pages of the PDF so no pictures/pages are missed!
                     if PDF_SUPPORT:
                         doc = fitz.open(file_path)
                         for page in doc:
@@ -190,8 +189,13 @@ def save_and_archive(json_text, source_files, archive_name, collection_name, img
     if category not in valid_cats:
         category = "Other"
 
+    # FIXED: Strips spaces/punctuation from tags, removes "vintage", and adds folder name as a tag!
     raw_tags = data.get('tags', [])
-    clean_tags = [t.lower().strip().replace(" ", "") for t in raw_tags if t]
+    clean_tags = [t.lower().strip().replace(" ", "").replace("-", "") for t in raw_tags if t and t.lower().strip() != "vintage"]
+    
+    collection_tag = collection_name.lower().strip().replace(" ", "").replace(".", "").replace("'", "")
+    if collection_tag and collection_tag not in clean_tags:
+        clean_tags.append(collection_tag)
 
     safe_base = safe_title.lower().replace(" ", "-").replace("'", "")
     safe_filename = safe_base + ".md"
