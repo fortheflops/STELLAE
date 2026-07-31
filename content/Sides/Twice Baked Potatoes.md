@@ -69,4 +69,4 @@ recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\"
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](content/Sides/Vegetable/Potatoes/Assets/2024-07-22_172359.webp)
+![Original Handwritten Card](2024-07-22_172359.webp)
