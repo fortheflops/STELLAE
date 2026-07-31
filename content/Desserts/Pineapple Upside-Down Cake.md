@@ -78,4 +78,4 @@ recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\"
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](Assets/Pineapple%20Upside-Down%20Cake%20JC-1754694422170.webp)
+![Original Handwritten Card](Pineapple%20Upside-Down%20Cake%20JC-1754694422170.webp)

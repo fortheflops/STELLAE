@@ -1,3 +1,0 @@
----
-title: Pound Cake
----
