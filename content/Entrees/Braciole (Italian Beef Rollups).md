@@ -60,4 +60,4 @@ recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"B
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](2025-05-20_130714.webp)
+![Original Handwritten Card](content/assets/scans/2025-05-20_130714.webp)
