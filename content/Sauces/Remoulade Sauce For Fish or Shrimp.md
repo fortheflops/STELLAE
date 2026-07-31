@@ -62,4 +62,4 @@ recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\"
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](content/Sauces/Remoulade/Assets/RemouladeSauceforfishorshrimp.webp)
+![Original Handwritten Card](RemouladeSauceforfishorshrimp.webp)
