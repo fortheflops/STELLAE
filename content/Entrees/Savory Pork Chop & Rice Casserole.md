@@ -1,13 +1,18 @@
 ---
-title: "Savory Pork Chop & Rice Casserole"
-category: "Entrees"
-collection: "John B. Collection"
-source: "Unknown"
-tags: ["johnbcollection", "casserole", "porkchops", "comfortfood", "vintage"]
-description: "A hearty, vintage one-dish meal featuring browned pork chops baked over a bed of rice with fresh vegetables and savory consomm\u00e9. Perfect for a comforting and effortless family dinner."
-date: "2026-07-30"
+title: Savory Pork Chop & Rice Casserole
+category: Entrees
+collection: John B. Collection
+source: Unknown
+tags:
+  - johnbcollection
+  - casserole
+  - porkchops
+  - comfortfood
+  - JohnBCollection
+description: A hearty, vintage one-dish meal featuring browned pork chops baked over a bed of rice with fresh vegetables and savory consommé. Perfect for a comforting and effortless family dinner.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Savory Pork Chop & Rice Casserole\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"description\":\"Browned pork chops baked with rice, vegetables, and consomm\u00e9.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT1H\",\"totalTime\":\"PT1H15M\",\"recipeYield\":\"4 servings\",\"recipeCategory\":\"Entrees\",\"recipeIngredient\":[\"6 Tablespoons Raw Rice\",\"4 Pork Chops, browned\",\"Drippings from chops\",\"4 Slices Onion\",\"4 Slices Tomato\",\"4 Rings Green Pepper\",\"Salt & Pepper\",\"1 Can Consomm\u00e9\",\"Marjoram\",\"Thyme\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 350\u00b0F.\"},{\"@type\":\"HowToStep\",\"text\":\"Place 6 tablespoons of raw rice in the bottom of a casserole dish.\"},{\"@type\":\"HowToStep\",\"text\":\"Place the 4 browned pork chops on top of the rice.\"},{\"@type\":\"HowToStep\",\"text\":\"Add the drippings from the pan where the chops were browned.\"},{\"@type\":\"HowToStep\",\"text\":\"Put a slice of onion, a slice of tomato, and a ring of green pepper on each chop.\"},{\"@type\":\"HowToStep\",\"text\":\"Salt and pepper each layer.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour one can of consomm\u00e9 over the dish.\"},{\"@type\":\"HowToStep\",\"text\":\"Sprinkle with a couple pinches each of marjoram and thyme.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake at 350\u00b0F for 1 hour.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Savory Pork Chop & Rice Casserole","author":{"@type":"Person","name":"Unknown"},"description":"Browned pork chops baked with rice, vegetables, and consommé.","prepTime":"PT15M","cookTime":"PT1H","totalTime":"PT1H15M","recipeYield":"4 servings","recipeCategory":"Entrees","recipeIngredient":["6 Tablespoons Raw Rice","4 Pork Chops, browned","Drippings from chops","4 Slices Onion","4 Slices Tomato","4 Rings Green Pepper","Salt & Pepper","1 Can Consommé","Marjoram","Thyme"],"recipeInstructions":[{"@type":"HowToStep","text":"Preheat oven to 350°F."},{"@type":"HowToStep","text":"Place 6 tablespoons of raw rice in the bottom of a casserole dish."},{"@type":"HowToStep","text":"Place the 4 browned pork chops on top of the rice."},{"@type":"HowToStep","text":"Add the drippings from the pan where the chops were browned."},{"@type":"HowToStep","text":"Put a slice of onion, a slice of tomato, and a ring of green pepper on each chop."},{"@type":"HowToStep","text":"Salt and pepper each layer."},{"@type":"HowToStep","text":"Pour one can of consommé over the dish."},{"@type":"HowToStep","text":"Sprinkle with a couple pinches each of marjoram and thyme."},{"@type":"HowToStep","text":"Bake at 350°F for 1 hour."}]}'
 ---
 
 # Savory Pork Chop & Rice Casserole
