@@ -70,4 +70,4 @@ recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"C
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](content/Entrees/Meat/Crab/Assets/Handwritten_2025-01-18_090639.webp)
+![Original Handwritten Card](Handwritten_2025-01-18_090639.webp)

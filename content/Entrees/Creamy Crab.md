@@ -71,4 +71,4 @@ recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](content/Entrees/Meat/Crab/Assets/Handwritten_2025-01-18_092436.webp)
+![Original Handwritten Card](Handwritten_2025-01-18_092436.webp)

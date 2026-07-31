@@ -65,4 +65,4 @@ recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](content/Entrees/Meat/Fish/Croquettes/Assets/Handwritten_2025-02-18_122643.webp)
+![Original Handwritten Card](Handwritten_2025-02-18_122643.webp)
