@@ -1,13 +1,50 @@
 ---
-title: "Pecan Krispies"
-category: "Desserts"
-collection: "John B. Collection"
-source: "Unattributed"
-tags: ["cookies", "dessert", "pecans", "baking", "johnbcollection"]
-description: "Delight in these classic Pecan Krispies, a simple yet charming cookie recipe loaded with rich buttery flavor and nutty pecans. Perfect for serving with afternoon tea or as a sweet homemade treat."
-date: "2026-07-30"
+title: Pecan Krispies
+category: Desserts
+collection: John B. Collection
+source: Unattributed
+tags:
+  - cookies
+  - dessert
+  - pecans
+  - baking
+  - johnbcollection
+description: Delight in these classic Pecan Krispies, a simple yet charming cookie recipe loaded with rich buttery flavor and nutty pecans. Perfect for serving with afternoon tea or as a sweet homemade treat.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Pecan Krispies\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"description\": \"Delight in these classic Pecan Krispies, a simple yet charming cookie recipe loaded with rich buttery flavor and nutty pecans.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT10M\",\n  \"recipeYield\": \"24 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeIngredient\": [\n    \"1 cup Butter\",\n    \"2/3 cup Brown Sugar\",\n    \"1/2 tsp Baking Soda\",\n    \"3/4 cup Pecans\",\n    \"1 cup Flour\",\n    \"1 Egg\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cream together the 1 cup butter and 2/3 cup brown sugar until smooth, then add the 1 egg and mix well. Stir in the 1/2 tsp baking soda, 1 cup flour, and 3/4 cup pecans.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drop spoonfuls onto a baking sheet and bake until edges are golden brown and centers are set.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Pecan Krispies",
+    "author": {
+      "@type": "Person",
+      "name": "Unattributed"
+    },
+    "description": "Delight in these classic Pecan Krispies, a simple yet charming cookie recipe loaded with rich buttery flavor and nutty pecans.",
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "recipeYield": "24 servings",
+    "recipeCategory": "Desserts",
+    "recipeIngredient": [
+      "1 cup Butter",
+      "2/3 cup Brown Sugar",
+      "1/2 tsp Baking Soda",
+      "3/4 cup Pecans",
+      "1 cup Flour",
+      "1 Egg"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cream together the 1 cup butter and 2/3 cup brown sugar until smooth, then add the 1 egg and mix well. Stir in the 1/2 tsp baking soda, 1 cup flour, and 3/4 cup pecans."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drop spoonfuls onto a baking sheet and bake until edges are golden brown and centers are set."
+      }
+    ]
+  }
 ---
 
 # Pecan Krispies

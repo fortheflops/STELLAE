@@ -1,13 +1,20 @@
 ---
-title: "Pink Mint Frosting"
-category: "Desserts"
-collection: "John B. Collection"
-source: "Unattributed"
-tags: ["frosting", "vintage", "mint", "pink", "caketopping", "7minutefrosting"]
-description: "A classic vintage seven-minute style pink mint frosting, whipped over a double boiler to fluffy, glossy peaks. Perfect for filling and decorating cakes with beautiful, two-tone pink swirls."
-date: "2026-07-30"
+title: Pink Mint Frosting
+category: Desserts
+collection: John B. Collection
+source: Unattributed
+tags:
+  - frosting
+  - vintage
+  - mint
+  - pink
+  - caketopping
+  - 7minutefrosting
+  - JohnBCollection
+description: A classic vintage seven-minute style pink mint frosting, whipped over a double boiler to fluffy, glossy peaks. Perfect for filling and decorating cakes with beautiful, two-tone pink swirls.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org\",\"@type\":\"Recipe\",\"name\":\"Pink Mint Frosting\",\"author\":{\"@type\":\"Person\",\"name\":\"Unattributed\"},\"recipeCategory\":\"Dessert\",\"prepTime\":\"PT10M\",\"cookTime\":\"PT7M\",\"recipeYield\":\"1 cake\",\"recipeIngredient\":[\"2 unbeaten egg whites\",\"1 1/2 cups sugar\",\"5 tbsp water\",\"1 1/2 tsp white corn syrup\",\"1 1/2 tsp mint flavoring\",\"red food coloring\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In the top of a double boiler, combine egg whites, sugar, water, and white corn syrup.\"},{\"@type\":\"HowToStep\",\"text\":\"Beat constantly over rapidly boiling water until frosting stands in a peak, about 5 to 7 minutes.\"},{\"@type\":\"HowToStep\",\"text\":\"Remove from water, add mint flavoring and a small amount of red coloring, and beat until thick enough to spread.\"},{\"@type\":\"HowToStep\",\"text\":\"Tint 3 tbsp of frosting a deeper pink. Fill and frost cake, making swirls with the back of a spoon, and fill the centers of the swirls with the deeper shade.\"}]}"
+recipe: '{"@context":"https://schema.org","@type":"Recipe","name":"Pink Mint Frosting","author":{"@type":"Person","name":"Unattributed"},"recipeCategory":"Dessert","prepTime":"PT10M","cookTime":"PT7M","recipeYield":"1 cake","recipeIngredient":["2 unbeaten egg whites","1 1/2 cups sugar","5 tbsp water","1 1/2 tsp white corn syrup","1 1/2 tsp mint flavoring","red food coloring"],"recipeInstructions":[{"@type":"HowToStep","text":"In the top of a double boiler, combine egg whites, sugar, water, and white corn syrup."},{"@type":"HowToStep","text":"Beat constantly over rapidly boiling water until frosting stands in a peak, about 5 to 7 minutes."},{"@type":"HowToStep","text":"Remove from water, add mint flavoring and a small amount of red coloring, and beat until thick enough to spread."},{"@type":"HowToStep","text":"Tint 3 tbsp of frosting a deeper pink. Fill and frost cake, making swirls with the back of a spoon, and fill the centers of the swirls with the deeper shade."}]}'
 ---
 
 # Pink Mint Frosting
