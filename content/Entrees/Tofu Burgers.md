@@ -68,4 +68,4 @@ recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"T
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](content/Entrees/Vegetable/Burger/Assets/Handwritten_2025-01-07_155247.webp)
+![Original Handwritten Card](Handwritten_2025-01-07_155247.webp)
