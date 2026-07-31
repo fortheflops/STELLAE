@@ -3,9 +3,17 @@ import glob
 import json
 import shutil
 import time
+from io import BytesIO
 from google import genai
 from google.genai import types
 from PIL import Image
+
+# Try importing PyMuPDF for PDF rendering
+try:
+    import fitz  # PyMuPDF
+    PDF_SUPPORT = True
+except ImportError:
+    PDF_SUPPORT = False
 
 # Connect using the official Google GenAI SDK
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
@@ -15,52 +23,56 @@ ARCHIVE_DIR = "archive/scans"
 OUTPUT_DIR = "content"
 ASSET_DIR = "content/assets/scans"
 
-# UPGRADED LIBRARIAN PROMPT: Forces wikilinks, structured tables, equipment, and metadata!
+# BATCH LIMIT: Safely stops after 50 files per run!
+MAX_FILES_PER_RUN = 50
+
+# SAFETY LIMIT: If 3 files fail in a row, stop to protect API quotas.
+MAX_CONSECUTIVE_FAILURES = 3
+
 LIBRARIAN_PROMPT = """
 You are an expert digital librarian and culinary archivist for Cucina Mezzaluna.
-Your task is to take a newly scanned recipe image and process it into our standardized "Kitchen-Ready" archival schema.
+Your task is to take a newly scanned recipe image or PDF and process it into our standardized "Kitchen-Ready" archival schema.
 
 CRITICAL LIBRARIAN RULES:
-1. "title": Clean, proper Title Case (e.g., "Marble Cookies").
+1. "title": Clean, proper Title Case (e.g., "Carol's Potatoes", "Marble Cookies"). Do not mess up apostrophes.
 2. "category": Strictly ONE of: Appetizers, Basics, Beverages, Bread, Breakfast, Desserts, Entrees, Preserves, Salads, Sauces, Sides, Snacks, Soups.
 3. "collection" & "author": Extract collection origin or author if mentioned in the text or filename (default to "John B. Collection" and "Unattributed" if missing).
-4. "tags": Array of lowercase tags (e.g., dish type, primary ingredients, make-ahead, vintage).
-5. "equipment": Array of key kitchen tools needed (e.g., ["Mixing bowl", "Baking sheet"]).
-6. "ingredients_sections": Array of sections (e.g., "Main Ingredients"). Each item MUST have "measurement", "ingredient" (wrap key items in wikilinks like [[Shortening]], [[Chocolate]], [[Flour]]), and "notes" (prep state like "softened", "sifted").
-7. "instructions_sections": Array of chronological sections (e.g., "Step 1: Mix"). MUST BOLD all measurements and ingredient names inside the text! Include sensory doneness cues.
+4. "tags": Array of lowercase, single-word or compressed tags without spaces (e.g., ["sidedish", "vintage", "potatoes", "comfortfood"]).
+5. "equipment": Array of key kitchen tools needed (e.g., ["Mixing bowl", "Baking dish"]).
+6. "ingredients_sections": Array of sections (e.g., "Main Ingredients"). Each item MUST have "measurement", "ingredient" (wrap key items in wikilinks like [[Potatoes]], [[Butter]]), and "notes" (prep state like "diced", "melted").
+7. "instructions_sections": Array of chronological sections (e.g., "Step 1: Prep"). MUST BOLD all measurements and ingredient names inside the text! Include sensory doneness cues.
 8. "make_ahead_notes": A 1-2 sentence storage/make-ahead tip (or null if not applicable).
 
 Return ONLY a raw JSON object with:
 {
-    "title": "Marble Cookies",
-    "category": "Desserts",
+    "title": "Carol's Potatoes",
+    "category": "Sides",
     "collection": "John B. Collection",
-    "author": "Unattributed",
-    "tags": ["cookies", "marble", "chocolate", "vintage"],
+    "author": "Carol",
+    "tags": ["sidedish", "vintage", "potatoes", "comfortfood"],
     "description": "A 2-sentence SEO optimized archival description.",
     "prep_time": "20 mins",
-    "cook_time": "12 mins",
+    "cook_time": "45 mins",
     "inactive_time": "None",
-    "servings": "24 servings",
-    "equipment": ["Mixing bowl", "Baking sheet"],
+    "servings": "6 servings",
+    "equipment": ["Baking dish"],
     "ingredients_sections": [
         {
           "section_title": "Main Ingredients",
           "items": [
-            {"measurement": "1/3 C.", "ingredient": "[[Shortening]]", "notes": "None"},
-            {"measurement": "1 sq.", "ingredient": "[[Chocolate]]", "notes": "Melted"}
+            {"measurement": "4 cups", "ingredient": "[[Potatoes]]", "notes": "Sliced"}
           ]
         }
     ],
     "instructions_sections": [
         {
-          "section_title": "Step 1: Mixing",
+          "section_title": "Step 1: Baking",
           "steps": [
-            "Cream the **1/3 C. shortening** and **1/3 C. sugar** until smooth."
+            "Layer the **4 cups potatoes** in a greased baking dish."
           ]
         }
     ],
-    "make_ahead_notes": "Store in an airtight container at room temperature.",
+    "make_ahead_notes": "Cover and refrigerate up to 24 hours before baking.",
     "json_ld_schema": "A valid stringified JSON-LD Recipe schema object."
 }
 """
@@ -72,9 +84,23 @@ def process_intake():
     os.makedirs(ASSET_DIR, exist_ok=True)
 
     all_files = glob.glob(os.path.join(INTAKE_DIR, "**", "*.*"), recursive=True)
+    
+    processed_count = 0
+    consecutive_failures = 0
+
     model_fallback_list = ['gemini-3.5-flash', 'gemini-3.5-flash-lite', 'gemini-3.1-flash-lite']
+    current_model_index = 0
 
     for file_path in all_files:
+        if processed_count >= MAX_FILES_PER_RUN:
+            print(f"\n🛑 Reached safety batch limit of {MAX_FILES_PER_RUN} files!")
+            print("💾 Exiting cleanly so GitHub Actions can save and push your progress.")
+            break
+
+        if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
+            print(f"\n🛑 {MAX_CONSECUTIVE_FAILURES} files failed in a row! Stopping to protect quotas.")
+            break
+
         if os.path.isdir(file_path) or file_path.endswith('.gitkeep'):
             continue
 
@@ -86,7 +112,6 @@ def process_intake():
         print(f"🥘 Processing [{collection_name}] scan: {filename}...")
         
         file_success = False
-        current_model_index = 0
         
         while current_model_index < len(model_fallback_list):
             active_model = model_fallback_list[current_model_index]
@@ -96,6 +121,7 @@ def process_intake():
                     temperature=0.2
                 )
                 
+                img_obj = None
                 if file_path.lower().endswith('.pdf'):
                     sample_file = client.files.upload(file=file_path)
                     response = client.models.generate_content(
@@ -104,7 +130,14 @@ def process_intake():
                         config=config
                     )
                     client.files.delete(name=sample_file.name)
-                    img_obj = None
+                    
+                    # Convert first page of PDF to image for the recipe card display
+                    if PDF_SUPPORT:
+                        doc = fitz.open(file_path)
+                        page = doc[0]
+                        pix = page.get_pixmap(dpi=150)
+                        img_obj = Image.open(BytesIO(pix.tobytes("png")))
+                
                 elif file_path.lower().endswith(('png', 'jpg', 'jpeg', 'heic', 'webp')):
                     img_obj = Image.open(file_path)
                     response = client.models.generate_content(
@@ -114,39 +147,50 @@ def process_intake():
                     )
                 
                 save_and_archive(response.text, [file_path], filename, collection_name, img_obj=img_obj)
+                
+                processed_count += 1
+                consecutive_failures = 0
                 file_success = True
                 time.sleep(4.5)
                 break
                 
             except Exception as e:
                 error_msg = str(e)
-                if "503" in error_msg or "UNAVAILABLE" in error_msg or "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg:
-                    print(f"⚠️ Model {active_model} is busy or rate-limited. Switching backup...")
+                if "503" in error_msg or "UNAVAILABLE" in error_msg or "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg or "404" in error_msg or "NOT_FOUND" in error_msg:
+                    print(f"⚠️ Model {active_model} is unavailable or rate-limited.")
                     current_model_index += 1
                     if current_model_index < len(model_fallback_list):
+                        print(f"🔄 Switching to backup model -> {model_fallback_list[current_model_index]}...")
                         time.sleep(3)
                     else:
+                        print("🛑 All backup models out of quota!")
                         break
                 else:
                     print(f"❌ Failed processing on {filename}: {e}")
                     break
 
         if not file_success:
-            print(f"⚠️ Skipping {filename} due to errors.")
+            consecutive_failures += 1
+            print(f"⚠️ Warning: Consecutive failure count is now {consecutive_failures}/{MAX_CONSECUTIVE_FAILURES}")
+
+    print(f"\n🎉 Session finished! Successfully processed {processed_count} new files.")
 
 def save_and_archive(json_text, source_files, archive_name, collection_name, img_obj=None):
     data = json.loads(json_text)
-    raw_title = data.get('title', 'Untitled Dish').strip().title()
-    safe_title = raw_title.replace("/", "-").replace("\\", "-")
+    
+    safe_title = data.get('title', 'Untitled Dish').strip()
     
     category = data.get('category', 'Other').strip().title()
     valid_cats = ["Appetizers", "Basics", "Beverages", "Bread", "Breakfast", "Desserts", "Entrees", "Preserves", "Salads", "Sauces", "Sides", "Snacks", "Soups"]
     if category not in valid_cats:
         category = "Other"
 
-    safe_base = safe_title.lower().replace(" ", "-")
+    raw_tags = data.get('tags', [])
+    clean_tags = [t.lower().strip().replace(" ", "") for t in raw_tags if t]
+
+    safe_base = safe_title.lower().replace(" ", "-").replace("'", "")
     safe_filename = safe_base + ".md"
-    webp_filename = safe_base + "-" + archive_name.replace(" ", "-") + ".webp"
+    webp_filename = safe_base + "-" + archive_name.replace(" ", "-").replace(".pdf", "") + ".webp"
     
     webp_embed = ""
     if img_obj:
@@ -186,7 +230,7 @@ title: {json.dumps(safe_title)}
 category: {json.dumps(category)}
 collection: {json.dumps(collection_name)}
 source: {json.dumps(data.get('author', 'Unattributed'))}
-tags: {json.dumps(data.get('tags', []))}
+tags: {json.dumps(clean_tags)}
 description: {json.dumps(data.get('description', ''))}
 date: "2026-07-30"
 draft: false
