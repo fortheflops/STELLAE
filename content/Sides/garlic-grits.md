@@ -3,23 +3,23 @@ title: "Garlic Grits"
 category: "Sides"
 collection: "John B. Collection"
 source: "Unattributed"
-tags: ["sidedish", "grits", "garlic", "comfortfood", "casserole", "johnbcollection"]
-description: "A comforting casserole recipe featuring rich garlic-infused grits baked to perfection. These savory garlic grits make a wonderful and flavorful side dish for any hearty meal."
+tags: ["grits", "garlic", "cheesy", "casserole", "southern", "johnbcollection"]
+description: "A comforting and savory baked garlic grits casserole that serves six. This rich side dish features creamy grits infused with garlic cheese and butter, baked until set."
 date: "2026-07-30"
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Garlic Grits\", \"author\": {\"@type\": \"Person\", \"name\": \"Unattributed\"}, \"description\": \"A comforting casserole recipe featuring rich garlic-infused grits baked to perfection.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT45M\", \"recipeYield\": \"6 servings\", \"recipeCategory\": \"Sides\", \"recipeIngredient\": [\"4 cups Water\", \"1 tsp Salt\", \"1 cup Grits\", \"1 cup Butter\", \"2 cloves Garlic\", \"3 Eggs\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Bring 4 cups water and 1 tsp salt to a rolling boil.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in 1 cup grits and cook until thick.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add 1 cup butter, 2 cloves garlic, and 3 beaten eggs. Pour into a greased casserole and bake at 325 degrees F.\"}]}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Garlic Grits\", \"recipeYield\": \"6 servings\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT30M\", \"recipeCategory\": \"Sides\", \"recipeIngredient\": [\"4 cups water\", \"1 tsp salt\", \"1 cup grits\", \"1 cube butter\", \"1 roll garlic cheese\", \"3 eggs\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Bring water and salt to a boil. Stir in grits and cook until thick.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in butter, garlic cheese, and beaten eggs. Pour into a greased casserole dish and bake at 325 degrees for 30 minutes.\"}]}"
 ---
 
 # Garlic Grits
 
 > 📜 **Collection:** John B. Collection | ✍️ **Attribution:** Unattributed | 📂 **Category:** Sides
-> *A comforting casserole recipe featuring rich garlic-infused grits baked to perfection. These savory garlic grits make a wonderful and flavorful side dish for any hearty meal.*
+> *A comforting and savory baked garlic grits casserole that serves six. This rich side dish features creamy grits infused with garlic cheese and butter, baked until set.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 15 mins | 45 mins | None | 6 servings |
+| 15 mins | 30 mins | None | 6 servings |
 
 ---
 
@@ -34,30 +34,31 @@ recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\"
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
 | 4 cups | [[Water]] | Boiling |
-| 1 tsp | [[Salt]] | None |
-| 1 cup | [[Grits]] | None |
-| 1 cup | [[Butter]] | Cut into pieces |
-| 2 cloves | [[Garlic]] | Minced or pressed |
+| 1 tsp | [[Salt]] | To taste |
+| 1 cup | [[Grits]] | Dry |
+| 1 cube | [[Butter]] | Softened |
+| 1 roll | [[Garlic Cheese]] | Softened |
 | 3 | [[Eggs]] | Beaten |
 
 ---
 
 ## Instructions
 
-### Step 1: Cooking the Grits
-1. Bring **4 cups water** and **1 tsp salt** to a rolling boil.
-2. Stir in **1 cup grits** and cook until thick, stirring frequently to prevent lumps.
+### Step 1: Prepare Grits
+1. Bring **4 cups water** and **1 tsp salt** to a boil in a saucepan.
+2. Stir in **1 cup grits** and cook until the mixture becomes thick.
 
-### Step 2: Mixing and Baking
-3. Remove from heat and add **1 cup butter**, stirring until fully melted and incorporated.
-4. Stir in **2 cloves garlic** and the **3 eggs** (beaten), mixing thoroughly.
-5. Grease a casserole dish, pour the mixture in, and bake at 325 degrees F until set and golden.
+### Step 2: Combine and Bake
+3. Remove from heat and stir in **1 cube butter** and **1 roll garlic cheese** until melted and combined.
+4. Stir in **3 beaten eggs** until fully incorporated.
+5. Pour the mixture into a greased casserole dish.
+6. Bake at 325°F for 30 minutes until the center is set and the top is lightly golden.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Assemble the casserole in advance and store covered in the refrigerator for up to 24 hours before baking.
+> 💡 **Make-Ahead & Storage:** The grits mixture can be prepared and poured into the casserole dish up to 24 hours in advance; keep refrigerated until ready to bake.
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](/assets/scans/garlic-grits-Scanned_20260729-1838-14.jpg.webp)
+![Original Handwritten Card](/assets/scans/garlic-grits-Scanned_20260730-1632-18.jpg.webp)
 

@@ -3,17 +3,17 @@ title: "Mint Salad"
 category: "Salads"
 collection: "John B. Collection"
 source: "Unattributed"
-tags: ["salad", "mint", "jello", "fruity", "johnbcollection"]
-description: "A refreshing gelatin salad featuring crushed pineapple, pecans, and white grapes. Perfectly chilled and served on crisp lettuce with mayonnaise."
+tags: ["salad", "mint", "retro", "jello", "johnbcollection"]
+description: "A classic mid-century molded salad featuring refreshing mint gelatin, savory stuffed olives, and crunchy pecans. This unique dish is traditionally served with a dollop of creamy mayonnaise."
 date: "2026-07-30"
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Mint Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unattributed\"}, \"datePublished\": \"2023-10-25\", \"description\": \"A refreshing gelatin salad featuring crushed pineapple, pecans, and white grapes.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT0M\", \"performTime\": \"PT4H\", \"totalTime\": \"PT4H15M\", \"recipeCategory\": \"Salads\", \"recipeYield\": \"6 servings\", \"recipeIngredient\": [\"1 pkg Mint Jello\", \"1 C. Boiling Water\", \"2 C. Crushed Pineapple\", \"1/2 lb. Pecans\", \"1 C. White Grapes\", \"Lettuce\", \"Mayonnaise\", \"Red Or Green Cherries\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Dissolve the mint jello in boiling water. Let cool, then add crushed pineapple, pecans, and white grapes (cut fine).\"}, {\"@type\": \"HowToStep\", \"text\": \"Chill until set. Serve on lettuce with mayonnaise and garnish with red or green cherries.\"}]}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Mint Salad\", \"recipeCategory\": \"Salads\", \"recipeIngredient\": [\"1 pkg Mint Jello\", \"1 bottle Stuffed Olives\", \"1/2 cup Pecans\", \"1/2 cup Grapes or Cherries\", \"Mayonnaise\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Dissolve the mint jello in boiling water and cool. Fold in olives, pecans, and fruit. Chill until firm and serve with mayonnaise.\"}]}"
 ---
 
 # Mint Salad
 
 > 📜 **Collection:** John B. Collection | ✍️ **Attribution:** Unattributed | 📂 **Category:** Salads
-> *A refreshing gelatin salad featuring crushed pineapple, pecans, and white grapes. Perfectly chilled and served on crisp lettuce with mayonnaise.*
+> *A classic mid-century molded salad featuring refreshing mint gelatin, savory stuffed olives, and crunchy pecans. This unique dish is traditionally served with a dollop of creamy mayonnaise.*
 
 ---
 
@@ -25,39 +25,35 @@ recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\"
 
 ### 🔪 Key Equipment
 * Mixing bowl
-* Mold or pan
+* Gelatin mold
 
 ---
 ## Ingredients
 
+### Salad Ingredients
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 1 pkg | [[Mint Jello]] | Mint flavored gelatin |
-| 1 C. | [[Boiling Water]] | Hot |
-| 2 C. | [[Crushed Pineapple]] | Drained |
-| 1/2 lb. | [[Pecans]] | Chopped |
-| 1 C. | [[White Grapes]] | Cut fine |
-| As needed | [[Lettuce]] | For serving |
-| As needed | [[Mayonnaise]] | For serving |
-| As needed | [[Red Or Green Cherries]] | For garnish |
+| 1 pkg | [[Mint Jello]] | prepared according to package |
+| 1 bottle | [[Stuffed Olives]] | sliced |
+| 1/2 cup | [[Pecans]] | chopped |
+| 1/2 cup | [[Grapes]] or [[Cherries]] | halved |
+| to taste | [[Mayonnaise]] | for serving |
 
 ---
 
 ## Instructions
 
-### Step 1: Preparation
-1. Dissolve the **1 pkg mint jello** in **1 C. boiling water**.
-2. Let cool until slightly thickened, then add the **2 C. crushed pineapple**, **1/2 lb. pecans**, and **1 C. white grapes (cut fine)**.
-
-### Step 2: Chilling and Serving
-3. Chill in the refrigerator until completely set and firm.
-4. Serve on a bed of **lettuce** with a dollop of **mayonnaise**, and garnish with **red or green cherries**.
+### Preparation
+1. Dissolve the **1 pkg mint jello** in boiling water as directed on the package and allow it to cool slightly.
+2. Fold in the **1 bottle stuffed olives**, **1/2 cup pecans**, and **1/2 cup grapes or cherries** into the gelatin mixture.
+3. Pour into a mold and refrigerate until the gelatin is firm and set to the touch.
+4. Unmold onto a serving platter and serve chilled with a side of **mayonnaise**.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Prepare a day in advance and keep refrigerated until ready to serve.
+> 💡 **Make-Ahead & Storage:** Prepare the salad at least 4 hours in advance to ensure the gelatin is fully set before serving.
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](/assets/scans/mint-salad-Scanned_20260730-1625-08.jpg.webp)
+![Original Handwritten Card](/assets/scans/mint-salad-Scanned_20260730-1625-31.jpg.webp)
 

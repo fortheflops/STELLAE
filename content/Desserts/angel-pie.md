@@ -3,64 +3,73 @@ title: "Angel Pie"
 category: "Desserts"
 collection: "John B. Collection"
 source: "Unattributed"
-tags: ["dessert", "pie", "sweet", "baked", "johnbcollection"]
-description: "A delightful and classic Angel Pie recipe featuring a light graham cracker and nut crust with whipped cream. Perfect for any gathering where a sweet, airy dessert is desired."
+tags: ["pie", "dessert", "sweet", "classic", "johnbcollection"]
+description: "A delicate and airy dessert featuring a smooth, thickened filling folded with meringue. This classic treat is chilled until set and perfect for topping with whipped cream and nuts."
 date: "2026-07-30"
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Angel Pie\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"description\": \"A delightful and classic Angel Pie recipe featuring a light graham cracker and nut crust with whipped cream.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT20M\",\n  \"recipeYield\": \"8 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeIngredient\": [\n    \"11 Graham Crackers\",\n    \"1 cup Sugar\",\n    \"1/2 cup Nut Meats\",\n    \"3 Eggs\",\n    \"1 tsp Baking Powder\",\n    \"Whipped Cream\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Beat 3 egg yolks until light, add 1 cup sugar, 1/2 cup nut meats, 11 graham crackers, and 1 tsp baking pwd.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Fold in beaten 3 egg whites. Butter pie pan. Bake 20 minutes at about 350\u00b0 until set and golden. Serve with whipped cream.\"\n    }\n  ]\n}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Angel Pie\", \"recipeCategory\": \"Desserts\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"8 servings\", \"recipeIngredient\": [\"3/4 cup sugar\", \"4 1/2 tbsp cornstarch\", \"1 1/2 cups boiling water\", \"3 egg whites\", \"salt\", \"3 tsp sugar\", \"1 1/2 tsp vanilla extract\", \"1 baked pie crust\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Mix sugar and cornstarch, add boiling water, and cook until thick.\"}, {\"@type\": \"HowToStep\", \"text\": \"Beat egg whites with salt, fold in sugar, add to hot mixture with vanilla, pour into crust, and chill.\"}]}"
 ---
 
 # Angel Pie
 
 > 📜 **Collection:** John B. Collection | ✍️ **Attribution:** Unattributed | 📂 **Category:** Desserts
-> *A delightful and classic Angel Pie recipe featuring a light graham cracker and nut crust with whipped cream. Perfect for any gathering where a sweet, airy dessert is desired.*
+> *A delicate and airy dessert featuring a smooth, thickened filling folded with meringue. This classic treat is chilled until set and perfect for topping with whipped cream and nuts.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 15 mins | 20 mins | None | 8 servings |
+| 15 mins | 10 mins | 3 hours | 8 servings |
 
 ---
 
 ### 🔪 Key Equipment
-* Pie pan
+* Saucepan
+* Whisk
 * Mixing bowl
-* Electric mixer
+* Pie dish
 
 ---
 ## Ingredients
 
-### Filling and Crust
+### Filling
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 11 | [[Graham Crackers]] | Rolled fine |
-| 1 cup | [[Sugar]] | Divided or as needed |
-| 1/2 cup | [[Nut Meats]] | Chopped |
-| 3 | [[Eggs]] | Separated |
-| 1 tsp | [[Baking Powder]] | Standard |
+| 3/4 cup | [[Sugar]] | Granulated |
+| 4 1/2 tbsp | [[Cornstarch]] | None |
+| 1 1/2 cups | [[Water]] | Boiling |
+| 3 | [[Egg whites]] | Beaten |
+| 1 pinch | [[Salt]] | None |
+| 3 tsp | [[Sugar]] | For meringue |
+| 1 1/2 tsp | [[Vanilla extract]] | None |
 
-### Topping
+### Assembly
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| As needed | [[Whipped Cream]] | For serving |
+| 1 | [[Pie crust]] | Baked |
+| To taste | [[Whipped cream]] | Optional topping |
+| To taste | [[Nuts]] | Optional topping |
+| To taste | [[Chocolate]] | Optional topping |
 
 ---
 
 ## Instructions
 
-### Step 1: Preparation
-1. Beat **3 egg yolks** until light, add **1 cup sugar**, **1/2 cup nut meats**, **11 graham crackers**, and **1 tsp baking pwd**.
+### Step 1: Filling
+1. Mix **3/4 cup sugar** and **4 1/2 tbsp cornstarch** in a saucepan.
+2. Add **1 1/2 cups boiling water** and cook, stirring constantly, until the mixture is thick and translucent.
 
-### Step 2: Baking
-2. Fold in beaten **3 egg whites**. Butter **pie pan**. Bake **20 minutes** at about **350°** until set and golden.
-3. Serve with **whipped cream**.
+### Step 2: Meringue and Assembly
+3. In a separate bowl, beat **3 egg whites** with **salt** until stiff, then fold in **3 tsp sugar**.
+4. Add the meringue to the hot **sugar mixture**, stir in **1 1/2 tsp vanilla extract**, and pour into the **baked pie crust**.
+5. Place in the icebox (refrigerator) for several hours until set.
+6. Top with **whipped cream**, **nuts**, or **chocolate** before serving.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Bake the pie shell ahead of time and top with whipped cream just before serving.
+> 💡 **Make-Ahead & Storage:** The pie must be chilled for several hours to set properly; it is best served within 24 hours of assembly.
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](/assets/scans/angel-pie-Scanned_20260728-1816-07.jpg.webp)
+![Original Handwritten Card](/assets/scans/angel-pie-Scanned_20260730-1632-41.jpg.webp)
 
