@@ -1,13 +1,63 @@
 ---
-title: "Sweet & Sour Sauce"
-category: "Sauces"
-collection: "LOC"
-source: "Linda Brown"
-tags: ["louisecollection", "sauce", "sweetandsour", "123", "condiment"]
-description: "A classic homemade sweet and sour sauce featuring a flavorful blend of pineapple, green peppers, and savory spices. Perfectly balanced to elevate your favorite stir-fry or Asian-inspired dishes."
-date: "2026-07-30"
+title: Sweet & Sour Sauce
+category: Sauces
+collection: LOC
+source: Linda Brown
+tags:
+  - louisecollection
+  - sauce
+  - sweetandsour
+  - condiment
+description: A classic homemade sweet and sour sauce featuring a flavorful blend of pineapple, green peppers, and savory spices. Perfectly balanced to elevate your favorite stir-fry or Asian-inspired dishes.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Sweet & Sour Sauce\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Linda Brown\"\n  },\n  \"description\": \"A classic homemade sweet and sour sauce featuring a flavorful blend of pineapple, green peppers, and savory spices.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT15M\",\n  \"recipeCategory\": \"Sauces\",\n  \"recipeYield\": \"6 Servings\",\n  \"recipeIngredient\": [\n    \"2 Tbsp Cornstarch\",\n    \"1/2 Cup Chicken Broth\",\n    \"2 Tbsp Soy Sauce\",\n    \"2 Tbsp Butter\",\n    \"1 Cup Chicken Broth\",\n    \"3/4 to 1 Cup Diced Green Pepper\",\n    \"6 slices Diced Canned Pineapple\",\n    \"1/2 Cup Vinegar\",\n    \"3/4 Cup Pineapple Juice\",\n    \"1/2 Cup Sugar\",\n    \"1/2 tsp Salt\",\n    \"1/4 tsp Ginger\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Have ready a paste by combining 2 Tbsp cornstarch, 1/2 cup chicken broth, and 2 Tbsp soy sauce.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Melt in a heavy saucepan 2 Tbsp butter.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add 1 cup chicken broth, 3/4 to 1 cup diced green pepper, and 6 slices diced canned pineapple. Cover and simmer for 5 minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the cornstarch paste along with 1/2 cup vinegar, 3/4 cup pineapple juice, 1/2 cup sugar, 1/2 tsp salt, and 1/4 tsp ginger. Simmer, stirring constantly until the mixture thickens.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Sweet & Sour Sauce",
+    "author": {
+      "@type": "Person",
+      "name": "Linda Brown"
+    },
+    "description": "A classic homemade sweet and sour sauce featuring a flavorful blend of pineapple, green peppers, and savory spices.",
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "recipeCategory": "Sauces",
+    "recipeYield": "6 Servings",
+    "recipeIngredient": [
+      "2 Tbsp Cornstarch",
+      "1/2 Cup Chicken Broth",
+      "2 Tbsp Soy Sauce",
+      "2 Tbsp Butter",
+      "1 Cup Chicken Broth",
+      "3/4 to 1 Cup Diced Green Pepper",
+      "6 slices Diced Canned Pineapple",
+      "1/2 Cup Vinegar",
+      "3/4 Cup Pineapple Juice",
+      "1/2 Cup Sugar",
+      "1/2 tsp Salt",
+      "1/4 tsp Ginger"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Have ready a paste by combining 2 Tbsp cornstarch, 1/2 cup chicken broth, and 2 Tbsp soy sauce."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt in a heavy saucepan 2 Tbsp butter."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add 1 cup chicken broth, 3/4 to 1 cup diced green pepper, and 6 slices diced canned pineapple. Cover and simmer for 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cornstarch paste along with 1/2 cup vinegar, 3/4 cup pineapple juice, 1/2 cup sugar, 1/2 tsp salt, and 1/4 tsp ginger. Simmer, stirring constantly until the mixture thickens."
+      }
+    ]
+  }
 ---
 
 # Sweet & Sour Sauce

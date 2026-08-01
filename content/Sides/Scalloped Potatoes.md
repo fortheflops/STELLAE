@@ -1,13 +1,17 @@
 ---
-title: "Scalloped Potatoes"
-category: "Sides"
-collection: "UK3"
-source: "Unknown"
-tags: ["potatoes", "cheese", "side dish", "123", "casserole"]
-description: "A classic, comforting vintage recipe featuring layered potatoes baked in milk with savory cheese and onion. Perfectly tender with a rich, golden cheese topping."
-date: "2026-07-30"
+title: Scalloped Potatoes
+category: Sides
+collection: UK3
+source: Unknown
+tags:
+  - potatoes
+  - cheese
+  - side dish
+  - casserole
+description: A classic, comforting vintage recipe featuring layered potatoes baked in milk with savory cheese and onion. Perfectly tender with a rich, golden cheese topping.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Scalloped Potatoes\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-03-15\", \"description\": \"A classic, comforting vintage recipe featuring layered potatoes baked in milk with savory cheese and onion.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT60M\", \"totalTime\": \"PT75M\", \"recipeYield\": \"4 Servings\", \"recipeCategory\": \"Sides\", \"recipeIngredient\": [\"3 or 4 Medium Potatoes\", \"Salt\", \"Pepper\", \"Grated Cheese\", \"Grated Onion\", \"Milk\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Peel and slice crossways about 3 or 4 medium potatoes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Arrange the sliced potatoes in alternate layers with salt, pepper, grated cheese, and grated onion.\"}, {\"@type\": \"HowToStep\", \"text\": \"Finish with a final topping layer of grated cheese.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour enough milk into the dish so it comes up to about 1 inch from the top.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake at 350 degrees for about 45 minutes to an hour until tender and golden brown.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Scalloped Potatoes", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-03-15", "description": "A classic, comforting vintage recipe featuring layered potatoes baked in milk with savory cheese and onion.", "prepTime": "PT15M", "cookTime": "PT60M", "totalTime": "PT75M", "recipeYield": "4 Servings", "recipeCategory": "Sides", "recipeIngredient": ["3 or 4 Medium Potatoes", "Salt", "Pepper", "Grated Cheese", "Grated Onion", "Milk"], "recipeInstructions": [{"@type": "HowToStep", "text": "Peel and slice crossways about 3 or 4 medium potatoes."}, {"@type": "HowToStep", "text": "Arrange the sliced potatoes in alternate layers with salt, pepper, grated cheese, and grated onion."}, {"@type": "HowToStep", "text": "Finish with a final topping layer of grated cheese."}, {"@type": "HowToStep", "text": "Pour enough milk into the dish so it comes up to about 1 inch from the top."}, {"@type": "HowToStep", "text": "Bake at 350 degrees for about 45 minutes to an hour until tender and golden brown."}]}'
 ---
 
 # Scalloped Potatoes

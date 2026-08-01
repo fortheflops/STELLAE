@@ -1,13 +1,19 @@
 ---
-title: "Artichoke Nibblers"
-category: "Snacks"
-collection: "Patsy's Collection"
-source: "Unknown"
-tags: ["artichoke", "cheddar cheese", "appetizer", "microwave", "patsy collection", "123", "make-ahead"]
-description: "A savory microwave-baked appetizer packed with marinated artichoke hearts, sharp cheddar cheese, and aromatic spices. Cut into bite-sized squares, these easy nibblers are perfect for parties or quick entertaining."
-date: "2026-07-30"
+title: Artichoke Nibblers
+category: Snacks
+collection: Patsy's Collection
+source: Unknown
+tags:
+  - artichoke
+  - cheddar cheese
+  - appetizer
+  - microwave
+  - patsy collection
+  - make-ahead
+description: A savory microwave-baked appetizer packed with marinated artichoke hearts, sharp cheddar cheese, and aromatic spices. Cut into bite-sized squares, these easy nibblers are perfect for parties or quick entertaining.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org\",\"@type\":\"Recipe\",\"name\":\"Artichoke Nibblers\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"description\":\"A savory microwave-baked appetizer packed with marinated artichoke hearts, sharp cheddar cheese, and aromatic spices.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT13M\",\"totalTime\":\"PT38M\",\"recipeYield\":\"24-36 bite-sized squares\",\"recipeCategory\":\"Snacks\",\"recipeIngredient\":[\"2 jars (6 oz each) Marinated Artichoke Hearts\",\"1 small Onion, finely chopped\",\"1 clove Garlic, minced\",\"4 Eggs\",\"1/4 cup Fine dry Bread Crumbs\",\"1/4 tsp Salt\",\"1/4 tsp Pepper\",\"1/4 tsp Oregano\",\"1/4 tsp Tabasco\",\"2 cups Shredded Cheddar Cheese\",\"2 Tbsp Minced Parsley\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Drain marinade from 1 jar of artichoke hearts into a 7x11 baking dish. Drain second jar and reserve marinade if desired. Chop artichokes and set aside.\"},{\"@type\":\"HowToStep\",\"text\":\"Add onion and garlic to marinade in dish. Cover with waxed paper and microwave on high for 3 minutes, stirring after 2 minutes.\"},{\"@type\":\"HowToStep\",\"text\":\"In a bowl, beat eggs and stir in bread crumbs, spices, cheese, parsley, and chopped artichokes.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour into baking dish with onion mixture, spread evenly, cover with waxed paper, and microwave on high for 8-10 minutes. Let stand 10 minutes before cutting into squares.\"}]}"
+recipe: '{"@context":"https://schema.org","@type":"Recipe","name":"Artichoke Nibblers","author":{"@type":"Person","name":"Unknown"},"description":"A savory microwave-baked appetizer packed with marinated artichoke hearts, sharp cheddar cheese, and aromatic spices.","prepTime":"PT15M","cookTime":"PT13M","totalTime":"PT38M","recipeYield":"24-36 bite-sized squares","recipeCategory":"Snacks","recipeIngredient":["2 jars (6 oz each) Marinated Artichoke Hearts","1 small Onion, finely chopped","1 clove Garlic, minced","4 Eggs","1/4 cup Fine dry Bread Crumbs","1/4 tsp Salt","1/4 tsp Pepper","1/4 tsp Oregano","1/4 tsp Tabasco","2 cups Shredded Cheddar Cheese","2 Tbsp Minced Parsley"],"recipeInstructions":[{"@type":"HowToStep","text":"Drain marinade from 1 jar of artichoke hearts into a 7x11 baking dish. Drain second jar and reserve marinade if desired. Chop artichokes and set aside."},{"@type":"HowToStep","text":"Add onion and garlic to marinade in dish. Cover with waxed paper and microwave on high for 3 minutes, stirring after 2 minutes."},{"@type":"HowToStep","text":"In a bowl, beat eggs and stir in bread crumbs, spices, cheese, parsley, and chopped artichokes."},{"@type":"HowToStep","text":"Pour into baking dish with onion mixture, spread evenly, cover with waxed paper, and microwave on high for 8-10 minutes. Let stand 10 minutes before cutting into squares."}]}'
 ---
 
 # Artichoke Nibblers

@@ -1,13 +1,59 @@
 ---
-title: "Beef Stew"
-category: "Soups"
-collection: "LOC"
-source: "Unknown"
-tags: ["soup", "stew", "beef", "comfortfood", "123"]
-description: "A classic vintage beef stew featuring tender top round steak, fresh vegetables, and a rich V-8 and tomato juice broth. Slow-simmered to perfection for a hearty and comforting meal."
-date: "2026-07-30"
+title: Beef Stew
+category: Soups
+collection: LOC
+source: Unknown
+tags:
+  - soup
+  - stew
+  - beef
+  - comfortfood
+description: A classic vintage beef stew featuring tender top round steak, fresh vegetables, and a rich V-8 and tomato juice broth. Slow-simmered to perfection for a hearty and comforting meal.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Beef Stew\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A classic vintage beef stew featuring tender top round steak, fresh vegetables, and a rich V-8 and tomato juice broth.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT2H\",\n  \"recipeCategory\": \"Soups\",\n  \"recipeYield\": \"6\u20138 Servings\",\n  \"recipeIngredient\": [\n    \"Top Round Steak\",\n    \"Carrots\",\n    \"Rice\",\n    \"Celery\",\n    \"Onions\",\n    \"V-8 Juice\",\n    \"Tomato Juice\",\n    \"Potatoes\",\n    \"Mushrooms\",\n    \"Tamari\",\n    \"Arrowroot Powder\",\n    \"Red Wine\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a heavy Dutch oven, thoroughly brown the top round steak until nicely seared on all sides.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the carrots, celery, onions, potatoes, and mushrooms to the Dutch oven with the beef, then pour in the juices, red wine, and tamari.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Simmer until vegetables are tender and thicken with arrowroot powder if desired.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Beef Stew",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A classic vintage beef stew featuring tender top round steak, fresh vegetables, and a rich V-8 and tomato juice broth.",
+    "prepTime": "PT20M",
+    "cookTime": "PT2H",
+    "recipeCategory": "Soups",
+    "recipeYield": "6–8 Servings",
+    "recipeIngredient": [
+      "Top Round Steak",
+      "Carrots",
+      "Rice",
+      "Celery",
+      "Onions",
+      "V-8 Juice",
+      "Tomato Juice",
+      "Potatoes",
+      "Mushrooms",
+      "Tamari",
+      "Arrowroot Powder",
+      "Red Wine"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a heavy Dutch oven, thoroughly brown the top round steak until nicely seared on all sides."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the carrots, celery, onions, potatoes, and mushrooms to the Dutch oven with the beef, then pour in the juices, red wine, and tamari."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Simmer until vegetables are tender and thicken with arrowroot powder if desired."
+      }
+    ]
+  }
 ---
 
 # Beef Stew

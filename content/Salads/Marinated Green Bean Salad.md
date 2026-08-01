@@ -1,13 +1,17 @@
 ---
-title: "Marinated Green Bean Salad"
-category: "Salads"
-collection: "UK3"
-source: "Celina Engle"
-tags: ["salad", "vegetable", "greenbean", "marinated", "123"]
-description: "A crisp and tangy marinated green bean salad featuring sweet peas, pimentos, and celery. Prepared overnight for maximum flavor absorption and served chilled."
-date: "2026-07-30"
+title: Marinated Green Bean Salad
+category: Salads
+collection: UK3
+source: Celina Engle
+tags:
+  - salad
+  - vegetable
+  - greenbean
+  - marinated
+description: A crisp and tangy marinated green bean salad featuring sweet peas, pimentos, and celery. Prepared overnight for maximum flavor absorption and served chilled.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Marinated Green Bean Salad\",\"author\":{\"@type\":\"Person\",\"name\":\"Celina Engle\"},\"description\":\"A crisp and tangy marinated green bean salad featuring sweet peas, pimentos, and celery.\",\"prepTime\":\"PT20M\",\"recipeCategory\":\"Salads\",\"recipeYield\":\"6\u20138 Servings\",\"recipeIngredient\":[\"1 #2 can French Style Green Beans (Drained)\",\"1 Small can English Peas (Drained)\",\"1 glass jar Cut Pimentos (Drained)\",\"1 Cup Fine Cut Celery\",\"1 Medium Green Pepper (Cut Fine)\",\"1 Medium Onion (Cut Fine)\",\"1/2 C. Vinegar\",\"1/4 C. Salad Oil\",\"3/4 C. Sugar\",\"1 T. Salt\",\"1 T. Water\",\"Dash Paprika\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In a bowl, thoroughly mix the 1/2 c. vinegar, 1/4 c. salad oil, 3/4 c. sugar, 1 t. salt, 1 t. water, and dash paprika until the sugar is dissolved.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour the dressing mixture over the 1 #2 can french style green beans (drained), 1 small can english peas (drained), 1 glass jar cut pimentos (drained), 1 cup fine cut celery, 1 medium green pepper (cut fine), and 1 medium onion (cut fine).\"},{\"@type\":\"HowToStep\",\"text\":\"Leave in the refrigerator overnight until the vegetables are fully marinated and flavorful, then rechill before serving.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Marinated Green Bean Salad","author":{"@type":"Person","name":"Celina Engle"},"description":"A crisp and tangy marinated green bean salad featuring sweet peas, pimentos, and celery.","prepTime":"PT20M","recipeCategory":"Salads","recipeYield":"6–8 Servings","recipeIngredient":["1 #2 can French Style Green Beans (Drained)","1 Small can English Peas (Drained)","1 glass jar Cut Pimentos (Drained)","1 Cup Fine Cut Celery","1 Medium Green Pepper (Cut Fine)","1 Medium Onion (Cut Fine)","1/2 C. Vinegar","1/4 C. Salad Oil","3/4 C. Sugar","1 T. Salt","1 T. Water","Dash Paprika"],"recipeInstructions":[{"@type":"HowToStep","text":"In a bowl, thoroughly mix the 1/2 c. vinegar, 1/4 c. salad oil, 3/4 c. sugar, 1 t. salt, 1 t. water, and dash paprika until the sugar is dissolved."},{"@type":"HowToStep","text":"Pour the dressing mixture over the 1 #2 can french style green beans (drained), 1 small can english peas (drained), 1 glass jar cut pimentos (drained), 1 cup fine cut celery, 1 medium green pepper (cut fine), and 1 medium onion (cut fine)."},{"@type":"HowToStep","text":"Leave in the refrigerator overnight until the vegetables are fully marinated and flavorful, then rechill before serving."}]}'
 ---
 
 # Marinated Green Bean Salad

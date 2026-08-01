@@ -1,13 +1,17 @@
 ---
-title: "Spinach & Bacon Salad"
-category: "Salads"
-collection: "LOC"
-source: "Unknown"
-tags: ["salad", "spinach", "bacon", "123", "louisecollection"]
-description: "A classic vintage salad featuring fresh spinach, crisp bacon, and a tangy homemade dressing. Tossed together right before serving for optimal texture and flavor."
-date: "2026-07-30"
+title: Spinach & Bacon Salad
+category: Salads
+collection: LOC
+source: Unknown
+tags:
+  - salad
+  - spinach
+  - bacon
+  - louisecollection
+description: A classic vintage salad featuring fresh spinach, crisp bacon, and a tangy homemade dressing. Tossed together right before serving for optimal texture and flavor.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Spinach & Bacon Salad\",\"image\":[\"Handwritten_2025-05-15_134327.webp\"],\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-05-15\",\"description\":\"A classic vintage salad featuring fresh spinach, crisp bacon, and a tangy homemade dressing.\",\"prepTime\":\"PT20M\",\"cookTime\":\"PT10M\",\"performTime\":\"PT0M\",\"totalTime\":\"PT30M\",\"recipeYield\":\"6\u20138 Servings\",\"recipeCategory\":\"Salads\",\"recipeCuisine\":\"American\",\"ingredients\":[\"1 Pound Fresh Spinach\",\"1 Head Red Leaf Lettuce\",\"1/4 Pound Bacon\",\"1/4 Cup Sugar\",\"1 Teaspoon Salt\",\"1 Teaspoon Dry Mustard\",\"1 Teaspoon Onion juice\",\"1/3 Cup Cider Vinegar\",\"1 Cup Salad Oil\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Wash, drain, and tear the spinach and lettuce, then place them in a large salad bowl.\"},{\"@type\":\"HowToStep\",\"text\":\"Fry the bacon until crisp, drain the fat, let cool, and crumble.\"},{\"@type\":\"HowToStep\",\"text\":\"In a separate bowl, whisk together the sugar, salt, dry mustard, onion juice, cider vinegar, and salad oil.\"},{\"@type\":\"HowToStep\",\"text\":\"Add the crumbled bacon to the greens, pour dressing over just before serving, and toss gently.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Spinach & Bacon Salad","image":["Handwritten_2025-05-15_134327.webp"],"author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-05-15","description":"A classic vintage salad featuring fresh spinach, crisp bacon, and a tangy homemade dressing.","prepTime":"PT20M","cookTime":"PT10M","performTime":"PT0M","totalTime":"PT30M","recipeYield":"6–8 Servings","recipeCategory":"Salads","recipeCuisine":"American","ingredients":["1 Pound Fresh Spinach","1 Head Red Leaf Lettuce","1/4 Pound Bacon","1/4 Cup Sugar","1 Teaspoon Salt","1 Teaspoon Dry Mustard","1 Teaspoon Onion juice","1/3 Cup Cider Vinegar","1 Cup Salad Oil"],"recipeInstructions":[{"@type":"HowToStep","text":"Wash, drain, and tear the spinach and lettuce, then place them in a large salad bowl."},{"@type":"HowToStep","text":"Fry the bacon until crisp, drain the fat, let cool, and crumble."},{"@type":"HowToStep","text":"In a separate bowl, whisk together the sugar, salt, dry mustard, onion juice, cider vinegar, and salad oil."},{"@type":"HowToStep","text":"Add the crumbled bacon to the greens, pour dressing over just before serving, and toss gently."}]}'
 ---
 
 # Spinach & Bacon Salad

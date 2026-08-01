@@ -1,13 +1,17 @@
 ---
-title: "Superb French Dressing"
-category: "Sauces"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["dressing", "frenchdressing", "123", "condiment", "gailcollection"]
-description: "A classic, tangy French dressing featuring a rich tomato base and aromatic herbs. This versatile vintage recipe is perfect for elevating fresh garden salads."
-date: "2026-07-30"
+title: Superb French Dressing
+category: Sauces
+collection: Gail Collection
+source: Unknown
+tags:
+  - dressing
+  - frenchdressing
+  - condiment
+  - gailcollection
+description: A classic, tangy French dressing featuring a rich tomato base and aromatic herbs. This versatile vintage recipe is perfect for elevating fresh garden salads.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Superb French Dressing\", \"recipeCategory\": \"Sauces\", \"prepTime\": \"PT10M\", \"recipeYield\": \"2 Cups\", \"recipeIngredient\": [\"1 Cup Catsup\", \"1/4 Cup Sugar\", \"1/2 Cup Vinegar\", \"1 Teaspoon Salt\", \"1 Small Onion\", \"1/2 Teaspoon Celery Seed\", \"1/4 Teaspoon Paprika\", \"3/4 Cup Salad Oil\", \"2-3 Green Onions\", \"1 Clove Garlic\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Blend catsup, sugar, vinegar, salt, onion, celery seed, paprika, and oil for 30 seconds.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add green onions and garlic, then blend briefly to combine.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Superb French Dressing", "recipeCategory": "Sauces", "prepTime": "PT10M", "recipeYield": "2 Cups", "recipeIngredient": ["1 Cup Catsup", "1/4 Cup Sugar", "1/2 Cup Vinegar", "1 Teaspoon Salt", "1 Small Onion", "1/2 Teaspoon Celery Seed", "1/4 Teaspoon Paprika", "3/4 Cup Salad Oil", "2-3 Green Onions", "1 Clove Garlic"], "recipeInstructions": [{"@type": "HowToStep", "text": "Blend catsup, sugar, vinegar, salt, onion, celery seed, paprika, and oil for 30 seconds."}, {"@type": "HowToStep", "text": "Add green onions and garlic, then blend briefly to combine."}]}'
 ---
 
 # Superb French Dressing

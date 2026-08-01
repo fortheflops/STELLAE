@@ -1,13 +1,49 @@
 ---
-title: "New Potatoes With Mint"
-category: "Sides"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["sides", "potatoes", "mint", "vegetable", "123"]
-description: "Delicate new potatoes boiled with fresh mint and tossed in butter, featuring an optional creamy variation with fresh peas."
-date: "2026-07-30"
+title: New Potatoes With Mint
+category: Sides
+collection: Gail Collection
+source: Unknown
+tags:
+  - sides
+  - potatoes
+  - mint
+  - vegetable
+description: Delicate new potatoes boiled with fresh mint and tossed in butter, featuring an optional creamy variation with fresh peas.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"New Potatoes with Mint\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"Delicate new potatoes boiled with fresh mint and tossed in butter, featuring an optional creamy variation with fresh peas.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT15M\",\n  \"recipeYield\": \"4 Servings\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeIngredient\": [\n    \"Small, Even-Sized New Potatoes\",\n    \"Water\",\n    \"Salt\",\n    \"Fresh Mint Sprigs\",\n    \"Butter\",\n    \"Chopped Parsley\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Choose small, even-sized new potatoes with tender skins. Place them in a pot and add boiling water to cover, seasoned with salt and fresh mint sprigs. Cook for about 15 minutes until tender.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drain the potatoes, rub off the skins if desired, and toss hot with butter and chopped parsley.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "New Potatoes with Mint",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "Delicate new potatoes boiled with fresh mint and tossed in butter, featuring an optional creamy variation with fresh peas.",
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "recipeYield": "4 Servings",
+    "recipeCategory": "Sides",
+    "recipeIngredient": [
+      "Small, Even-Sized New Potatoes",
+      "Water",
+      "Salt",
+      "Fresh Mint Sprigs",
+      "Butter",
+      "Chopped Parsley"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Choose small, even-sized new potatoes with tender skins. Place them in a pot and add boiling water to cover, seasoned with salt and fresh mint sprigs. Cook for about 15 minutes until tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain the potatoes, rub off the skins if desired, and toss hot with butter and chopped parsley."
+      }
+    ]
+  }
 ---
 
 # New Potatoes With Mint

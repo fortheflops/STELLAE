@@ -1,13 +1,17 @@
 ---
-title: "Brandy Cream Sauce"
-category: "Sauces"
-collection: "Gail Collection"
-source: "Ann"
-tags: ["sauce", "brandy", "123", "dessert", "gailcollection"]
-description: "A rich and velvety brandy-infused cream sauce perfect for drizzling over desserts. This vintage recipe offers a decadent finish with a delicate hint of nutmeg."
-date: "2026-07-30"
+title: Brandy Cream Sauce
+category: Sauces
+collection: Gail Collection
+source: Ann
+tags:
+  - sauce
+  - brandy
+  - dessert
+  - gailcollection
+description: A rich and velvety brandy-infused cream sauce perfect for drizzling over desserts. This vintage recipe offers a decadent finish with a delicate hint of nutmeg.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Brandy Cream Sauce\", \"author\": {\"@type\": \"Person\", \"name\": \"Ann\"}, \"description\": \"A rich and velvety brandy-infused cream sauce perfect for drizzling over desserts.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"4 servings\", \"recipeIngredient\": [\"3 eggs\", \"1/4 cup cream\", \"1/2 cup sugar\", \"1/2 cup brandy\", \"1 pint hot cream\", \"nutmeg\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Beat eggs, cream, and sugar, then whisk in brandy.\"}, {\"@type\": \"HowToStep\", \"text\": \"Gently heat with hot cream until thickened, then finish with nutmeg.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Brandy Cream Sauce", "author": {"@type": "Person", "name": "Ann"}, "description": "A rich and velvety brandy-infused cream sauce perfect for drizzling over desserts.", "prepTime": "PT10M", "cookTime": "PT10M", "recipeYield": "4 servings", "recipeIngredient": ["3 eggs", "1/4 cup cream", "1/2 cup sugar", "1/2 cup brandy", "1 pint hot cream", "nutmeg"], "recipeInstructions": [{"@type": "HowToStep", "text": "Beat eggs, cream, and sugar, then whisk in brandy."}, {"@type": "HowToStep", "text": "Gently heat with hot cream until thickened, then finish with nutmeg."}]}'
 ---
 
 # Brandy Cream Sauce

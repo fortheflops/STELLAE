@@ -1,13 +1,17 @@
 ---
-title: "Fruit Compote"
-category: "Sauces"
-collection: "UK3"
-source: "Unknown"
-tags: ["compote", "fruit", "123", "dessert", "sauce"]
-description: "A rich and elegant fruit compote featuring a blend of dried fruits and cherries. This versatile dish is perfect served warm over ice cream or as a sophisticated dessert topping."
-date: "2026-07-30"
+title: Fruit Compote
+category: Sauces
+collection: UK3
+source: Unknown
+tags:
+  - compote
+  - fruit
+  - dessert
+  - sauce
+description: A rich and elegant fruit compote featuring a blend of dried fruits and cherries. This versatile dish is perfect served warm over ice cream or as a sophisticated dessert topping.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Fruit Compote\", \"recipeCategory\": \"Sauces\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT60M\", \"recipeIngredient\": [\"1 package Dried Prunes (Pitted)\", \"1 package Dried Apricots\", \"1 large can Pineapple Chunks with liquid\", \"1 can Cherry Pie Mix\", \"1/2 cup Liquid\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Mix all ingredients in a large pyrex bowl and bake at 350\u00b0F for 1 hour.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Fruit Compote", "recipeCategory": "Sauces", "prepTime": "PT10M", "cookTime": "PT60M", "recipeIngredient": ["1 package Dried Prunes (Pitted)", "1 package Dried Apricots", "1 large can Pineapple Chunks with liquid", "1 can Cherry Pie Mix", "1/2 cup Liquid"], "recipeInstructions": [{"@type": "HowToStep", "text": "Mix all ingredients in a large pyrex bowl and bake at 350°F for 1 hour."}]}'
 ---
 
 # Fruit Compote

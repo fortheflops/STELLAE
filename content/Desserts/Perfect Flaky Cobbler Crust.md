@@ -1,13 +1,17 @@
 ---
-title: "Perfect Flaky Cobbler Crust"
-category: "Desserts"
-collection: "UK5"
-source: "Unknown"
-tags: ["cobbler", "crust", "baking", "123", "pastry"]
-description: "A versatile and flaky cobbler crust recipe featuring a blend of butter and lard for superior texture, with a bright hint of lemon zest. This classic pastry is the perfect topping for any fruit cobbler."
-date: "2026-07-30"
+title: Perfect Flaky Cobbler Crust
+category: Desserts
+collection: UK5
+source: Unknown
+tags:
+  - cobbler
+  - crust
+  - baking
+  - pastry
+description: A versatile and flaky cobbler crust recipe featuring a blend of butter and lard for superior texture, with a bright hint of lemon zest. This classic pastry is the perfect topping for any fruit cobbler.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Perfect Flaky Cobbler Crust\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT40M\", \"cookTime\": \"PT40M\", \"recipeYield\": \"1 9-inch cobbler topping\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Perfect Flaky Cobbler Crust", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT40M", "cookTime": "PT40M", "recipeYield": "1 9-inch cobbler topping", "recipeCategory": "Dessert"}'
 ---
 
 # Perfect Flaky Cobbler Crust

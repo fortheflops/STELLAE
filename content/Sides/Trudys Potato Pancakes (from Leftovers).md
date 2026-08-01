@@ -1,11 +1,17 @@
 ---
-title: "Trudy's Potato Pancakes (from Leftovers)"
-category: "Sides"
-collection: "LOC"
-source: "Trudy"
-tags: ["louisecollection", "potatoes", "pancakes", "leftovers", "123", "breakfast", "sidedish"]
-description: "A clever and delicious recipe from Trudy for turning leftover mashed potatoes into savory pancakes. Enriched with an egg yolk and a hint of nutmeg, they're fried in butter until golden and crisp."
-date: "2026-07-30"
+title: Trudy's Potato Pancakes (from Leftovers)
+category: Sides
+collection: LOC
+source: Trudy
+tags:
+  - louisecollection
+  - potatoes
+  - pancakes
+  - leftovers
+  - breakfast
+  - sidedish
+description: A clever and delicious recipe from Trudy for turning leftover mashed potatoes into savory pancakes. Enriched with an egg yolk and a hint of nutmeg, they're fried in butter until golden and crisp.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Trudy's Potato Pancakes (from Leftovers)\",\"author\":{\"@type\":\"Person\",\"name\":\"Trudy\"},\"datePublished\":\"2025-09-21\",\"description\":\"A quick and easy way to turn leftover mashed potatoes into delicious, savory pancakes fried in butter.\",\"image\":[\"https://cucinamezzaluna.com/Bread/Batter-Bread/Pancakes/Assets/Handwritten_2025-05-06_120406.webp\"],\"prepTime\":\"PT10M\",\"cookTime\":\"PT10M\",\"totalTime\":\"PT20M\",\"recipeYield\":\"6-8 pancakes\",\"recipeCategory\":\"Sides\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"2 cups cold leftover mashed potatoes\",\"1 large egg yolk\",\"1 tablespoon all-purpose flour\",\"1/4 teaspoon ground nutmeg\",\"Salt and pepper to taste\",\"Butter, for frying\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In a medium bowl, combine the cold mashed potatoes, egg yolk, flour, and nutmeg. Season with salt and pepper if your potatoes aren't already seasoned.\"},{\"@type\":\"HowToStep\",\"text\":\"Mix until just combined. Form the mixture into small, flat patties.\"},{\"@type\":\"HowToStep\",\"text\":\"In a large skillet, melt a generous amount of butter over medium-high heat.\"},{\"@type\":\"HowToStep\",\"text\":\"Carefully place the potato patties in the hot butter and fry for 3-5 minutes per side, until golden brown and crispy.\"},{\"@type\":\"HowToStep\",\"text\":\"Serve immediately.\"}]}"
 ---

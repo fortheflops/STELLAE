@@ -1,13 +1,44 @@
 ---
-title: "Pinto Beans"
-category: "Sides"
-collection: "Patsy's Collection"
-source: "Unknown"
-tags: ["beans", "pinto beans", "side dish", "123", "patscollection"]
-description: "A traditional homestyle side dish of tender pinto beans seasoned with garlic salt, black pepper, and oregano. Simple, comforting, and packed with flavor."
-date: "2026-07-30"
+title: Pinto Beans
+category: Sides
+collection: Patsy's Collection
+source: Unknown
+tags:
+  - beans
+  - pinto beans
+  - side dish
+  - patscollection
+description: A traditional homestyle side dish of tender pinto beans seasoned with garlic salt, black pepper, and oregano. Simple, comforting, and packed with flavor.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Pinto Beans\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A traditional homestyle side dish of tender pinto beans seasoned with garlic salt, black pepper, and oregano.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT1H\",\n  \"recipeYield\": \"4-6 Servings\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeIngredient\": [\n    \"Pinto Beans\",\n    \"Water\",\n    \"Garlic Salt\",\n    \"Black Pepper\",\n    \"Oregano\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine all ingredients in a pot. Cook for 1 hour on medium heat. Turn off heat, and don't open for 1/2 hour.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Pinto Beans",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A traditional homestyle side dish of tender pinto beans seasoned with garlic salt, black pepper, and oregano.",
+    "prepTime": "PT10M",
+    "cookTime": "PT1H",
+    "recipeYield": "4-6 Servings",
+    "recipeCategory": "Sides",
+    "recipeIngredient": [
+      "Pinto Beans",
+      "Water",
+      "Garlic Salt",
+      "Black Pepper",
+      "Oregano"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine all ingredients in a pot. Cook for 1 hour on medium heat. Turn off heat, and don't open for 1/2 hour."
+      }
+    ]
+  }
 ---
 
 # Pinto Beans

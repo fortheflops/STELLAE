@@ -1,13 +1,17 @@
 ---
-title: "Real Rice"
-category: "Sides"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["rice", "spanish rice", "scrambled eggs", "123", "gc"]
-description: "A traditional boiled and steamed rice recipe featuring options for Spanish rice and scrambled egg variations. This vintage method ensures fluffy, separate grains."
-date: "2026-07-30"
+title: Real Rice
+category: Sides
+collection: Gail Collection
+source: Unknown
+tags:
+  - rice
+  - spanish rice
+  - scrambled eggs
+  - gc
+description: A traditional boiled and steamed rice recipe featuring options for Spanish rice and scrambled egg variations. This vintage method ensures fluffy, separate grains.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Real Rice\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-06-09\", \"description\": \"A traditional boiled and steamed rice recipe featuring options for Spanish rice and scrambled egg variations.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT25M\", \"recipeCategory\": \"Sides\", \"recipeYield\": \"4 Servings\", \"recipeIngredient\": [\"1 Cup Dried Rice\", \"4 to 5 Cups Water\", \"1 Heaping Teaspoon Salt\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Bring water and salt to a boil, add rice, and boil fast for 20 minutes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Drain, then steam over boiling water with a cloth on top for a fluffy texture.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Real Rice", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-06-09", "description": "A traditional boiled and steamed rice recipe featuring options for Spanish rice and scrambled egg variations.", "prepTime": "PT5M", "cookTime": "PT25M", "recipeCategory": "Sides", "recipeYield": "4 Servings", "recipeIngredient": ["1 Cup Dried Rice", "4 to 5 Cups Water", "1 Heaping Teaspoon Salt"], "recipeInstructions": [{"@type": "HowToStep", "text": "Bring water and salt to a boil, add rice, and boil fast for 20 minutes."}, {"@type": "HowToStep", "text": "Drain, then steam over boiling water with a cloth on top for a fluffy texture."}]}'
 ---
 
 # Real Rice

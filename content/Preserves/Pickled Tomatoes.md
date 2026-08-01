@@ -1,13 +1,56 @@
 ---
-title: "Pickled Tomatoes"
-category: "Preserves"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["preserves", "pickles", "tomatoes", "canning", "123"]
-description: "Tangy and spiced pickled small green tomatoes cured in a flavorful brine for three weeks. A classic vintage preservation recipe from the Gail Collection."
-date: "2026-07-30"
+title: Pickled Tomatoes
+category: Preserves
+collection: Gail Collection
+source: Unknown
+tags:
+  - preserves
+  - pickles
+  - tomatoes
+  - canning
+description: Tangy and spiced pickled small green tomatoes cured in a flavorful brine for three weeks. A classic vintage preservation recipe from the Gail Collection.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Pickled Tomatoes\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"Tangy and spiced pickled small green tomatoes cured in a flavorful brine for three weeks.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT10M\",\n  \"recipeCategory\": \"Preserves\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 Quarts Water\",\n    \"1/2 Cup Salt\",\n    \"1 Cup Vinegar\",\n    \"1 Clove Garlic\",\n    \"1 Teaspoon Peppercorns\",\n    \"Dill Seeds\",\n    \"1 Bay Leaf\",\n    \"1 1/2 Teaspoons Spices\",\n    \"Small Green Tomatoes\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Boil 2 quarts of water with 1/2 cup of salt, add 1 cup of vinegar, and cool completely.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place garlic, peppercorns, dill seeds, bay leaf, and pickling spices in each jar. Pack in small green tomatoes and pour cooled brine over them.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Seal jars and let stand for three weeks before using.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Pickled Tomatoes",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "Tangy and spiced pickled small green tomatoes cured in a flavorful brine for three weeks.",
+    "prepTime": "PT30M",
+    "cookTime": "PT10M",
+    "recipeCategory": "Preserves",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 Quarts Water",
+      "1/2 Cup Salt",
+      "1 Cup Vinegar",
+      "1 Clove Garlic",
+      "1 Teaspoon Peppercorns",
+      "Dill Seeds",
+      "1 Bay Leaf",
+      "1 1/2 Teaspoons Spices",
+      "Small Green Tomatoes"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Boil 2 quarts of water with 1/2 cup of salt, add 1 cup of vinegar, and cool completely."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place garlic, peppercorns, dill seeds, bay leaf, and pickling spices in each jar. Pack in small green tomatoes and pour cooled brine over them."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Seal jars and let stand for three weeks before using."
+      }
+    ]
+  }
 ---
 
 # Pickled Tomatoes

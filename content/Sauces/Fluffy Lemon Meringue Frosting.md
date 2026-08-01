@@ -1,13 +1,17 @@
 ---
-title: "Fluffy Lemon Meringue Frosting"
-category: "Sauces"
-collection: "General Archive"
-source: "Unknown"
-tags: ["frosting", "meringue", "lemon", "123", "desserttopping"]
-description: "A light and airy cooked meringue frosting featuring a delicate lemon flavor. This classic recipe uses a hot sugar syrup to stabilize whipped egg whites for a glossy, professional finish."
-date: "2026-07-30"
+title: Fluffy Lemon Meringue Frosting
+category: Sauces
+collection: General Archive
+source: Unknown
+tags:
+  - frosting
+  - meringue
+  - lemon
+  - desserttopping
+description: A light and airy cooked meringue frosting featuring a delicate lemon flavor. This classic recipe uses a hot sugar syrup to stabilize whipped egg whites for a glossy, professional finish.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Fluffy Lemon Meringue Frosting\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT5M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"Frosts one 8 or 9-inch cake\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"1 cup sugar\", \"1 pinch salt\", \"1 tablespoon white Karo\", \"1/4 cup water\", \"2 large egg whites\", \"1 teaspoon lemon flavoring\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Fluffy Lemon Meringue Frosting", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT5M", "cookTime": "PT10M", "recipeYield": "Frosts one 8 or 9-inch cake", "recipeCategory": "Sauces", "recipeIngredient": ["1 cup sugar", "1 pinch salt", "1 tablespoon white Karo", "1/4 cup water", "2 large egg whites", "1 teaspoon lemon flavoring"]}'
 ---
 
 # Fluffy Lemon Meringue Frosting

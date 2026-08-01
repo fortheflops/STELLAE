@@ -1,13 +1,17 @@
 ---
-title: "Potato Salad"
-category: "Salads"
-collection: "UK3"
-source: "Unknown"
-tags: ["salad", "123", "potatoes", "side", "classic"]
-description: "A classic, comforting potato salad featuring hard-boiled eggs, onions, and sour pickles bound with mayonnaise or mustard. Perfect for picnics, barbecues, and family gatherings."
-date: "2026-07-30"
+title: Potato Salad
+category: Salads
+collection: UK3
+source: Unknown
+tags:
+  - salad
+  - potatoes
+  - side
+  - classic
+description: A classic, comforting potato salad featuring hard-boiled eggs, onions, and sour pickles bound with mayonnaise or mustard. Perfect for picnics, barbecues, and family gatherings.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Potato Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-03-13\", \"description\": \"A classic, comforting potato salad featuring hard-boiled eggs, onions, and sour pickles bound with mayonnaise or mustard.\", \"prepTime\": \"PT20M\", \"performTime\": \"PT30M\", \"totalTime\": \"PT50M\", \"recipeYield\": \"4-6 Servings\", \"recipeCategory\": \"Salads\", \"recipeIngredient\": [\"4 Cooked Potatoes\", \"4 Hard-Boiled Eggs\", \"1 Onion\", \"2-3 Sour Pickles\", \"Salt\", \"Pepper\", \"Celery Seed\", \"Mayonnaise or Mustard\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Dice the cooked potatoes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Chop the hard-boiled eggs.\"}, {\"@type\": \"HowToStep\", \"text\": \"Chop the onion.\"}, {\"@type\": \"HowToStep\", \"text\": \"Chop the sour pickles.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a large bowl, combine the diced potatoes, chopped eggs, onion, and pickles.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add salt, pepper, and celery seed to taste.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add mayonnaise or mustard to taste.\"}, {\"@type\": \"HowToStep\", \"text\": \"Mix well until all ingredients are evenly coated.\"}, {\"@type\": \"HowToStep\", \"text\": \"Chill for at least 30 minutes to an hour.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Potato Salad", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-03-13", "description": "A classic, comforting potato salad featuring hard-boiled eggs, onions, and sour pickles bound with mayonnaise or mustard.", "prepTime": "PT20M", "performTime": "PT30M", "totalTime": "PT50M", "recipeYield": "4-6 Servings", "recipeCategory": "Salads", "recipeIngredient": ["4 Cooked Potatoes", "4 Hard-Boiled Eggs", "1 Onion", "2-3 Sour Pickles", "Salt", "Pepper", "Celery Seed", "Mayonnaise or Mustard"], "recipeInstructions": [{"@type": "HowToStep", "text": "Dice the cooked potatoes."}, {"@type": "HowToStep", "text": "Chop the hard-boiled eggs."}, {"@type": "HowToStep", "text": "Chop the onion."}, {"@type": "HowToStep", "text": "Chop the sour pickles."}, {"@type": "HowToStep", "text": "In a large bowl, combine the diced potatoes, chopped eggs, onion, and pickles."}, {"@type": "HowToStep", "text": "Add salt, pepper, and celery seed to taste."}, {"@type": "HowToStep", "text": "Add mayonnaise or mustard to taste."}, {"@type": "HowToStep", "text": "Mix well until all ingredients are evenly coated."}, {"@type": "HowToStep", "text": "Chill for at least 30 minutes to an hour."}]}'
 ---
 
 # Potato Salad

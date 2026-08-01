@@ -1,13 +1,17 @@
 ---
-title: "Black Bean Salad"
-category: "Salads"
-collection: "Patsy Collection"
-source: "Unknown"
-tags: ["salad", "beans", "vegetarian", "appetizer", "123"]
-description: "A vibrant and refreshing black bean salad packed with crisp bell peppers, sweet corn, and a zesty cilantro-lemon dressing. Perfect for potlucks and warm-weather gatherings."
-date: "2026-07-30"
+title: Black Bean Salad
+category: Salads
+collection: Patsy Collection
+source: Unknown
+tags:
+  - salad
+  - beans
+  - vegetarian
+  - appetizer
+description: A vibrant and refreshing black bean salad packed with crisp bell peppers, sweet corn, and a zesty cilantro-lemon dressing. Perfect for potlucks and warm-weather gatherings.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Black Bean Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-01-10\", \"description\": \"A vibrant and refreshing black bean salad packed with crisp bell peppers, sweet corn, and a zesty cilantro-lemon dressing.\", \"prepTime\": \"PT15M\", \"performanceTime\": \"PT0M\", \"recipeYield\": \"6 servings\", \"recipeCategory\": \"Salads\", \"recipeCuisine\": \"American\", \"ingredient\": [\"2 Cans Black Beans\", \"1 Red Bell Pepper\", \"3 Green Onions\", \"2 Ripe Plum Tomatoes\", \"1 Can Corn\", \"6 Tbsp Extra Virgin Olive Oil\", \"3 Tbsp Lemon Juice\", \"5 Tbsp Cilantro\", \"Black Olives\", \"1 Tsp Black Pepper\", \"Cheese\", \"Pickle Relish\", \"Peppers\", \"\u00be Tsp Salt\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine all chopped vegetables and beans in a bowl.\"}, {\"@type\": \"HowToStep\", \"text\": \"Whisk together olive oil, lemon juice, cilantro, black pepper, and salt, then pour over the salad and let come to room temperature.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Black Bean Salad", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-01-10", "description": "A vibrant and refreshing black bean salad packed with crisp bell peppers, sweet corn, and a zesty cilantro-lemon dressing.", "prepTime": "PT15M", "performanceTime": "PT0M", "recipeYield": "6 servings", "recipeCategory": "Salads", "recipeCuisine": "American", "ingredient": ["2 Cans Black Beans", "1 Red Bell Pepper", "3 Green Onions", "2 Ripe Plum Tomatoes", "1 Can Corn", "6 Tbsp Extra Virgin Olive Oil", "3 Tbsp Lemon Juice", "5 Tbsp Cilantro", "Black Olives", "1 Tsp Black Pepper", "Cheese", "Pickle Relish", "Peppers", "¾ Tsp Salt"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine all chopped vegetables and beans in a bowl."}, {"@type": "HowToStep", "text": "Whisk together olive oil, lemon juice, cilantro, black pepper, and salt, then pour over the salad and let come to room temperature."}]}'
 ---
 
 # Black Bean Salad

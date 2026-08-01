@@ -1,13 +1,17 @@
 ---
-title: "Sauce for Au Gratin Potatoes"
-category: "Sauces"
-collection: "UK3"
-source: "Unknown"
-tags: ["sauce", "augratin", "potatoes", "cheese", "123"]
-description: "A rich and creamy homemade cheese sauce perfect for topping au gratin potatoes or roasted vegetables. This versatile recipe uses a classic roux base for a smooth, velvety consistency."
-date: "2026-07-30"
+title: Sauce for Au Gratin Potatoes
+category: Sauces
+collection: UK3
+source: Unknown
+tags:
+  - sauce
+  - augratin
+  - potatoes
+  - cheese
+description: A rich and creamy homemade cheese sauce perfect for topping au gratin potatoes or roasted vegetables. This versatile recipe uses a classic roux base for a smooth, velvety consistency.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Sauce for Au Gratin Potatoes\", \"recipeCategory\": \"Sauces\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"4-6 servings\", \"recipeIngredient\": [\"1/2 Stick Butter\", \"2 Tablespoons Flour\", \"2 Cups Milk\", \"1 Cup Carnation Milk\", \"1 Cup Water\", \"A Good Size Chunky Cheese\", \"Garlic Salt\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Melt butter, whisk in flour to create a roux, add liquids, cheese, and simmer until thickened.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Sauce for Au Gratin Potatoes", "recipeCategory": "Sauces", "prepTime": "PT10M", "cookTime": "PT15M", "recipeYield": "4-6 servings", "recipeIngredient": ["1/2 Stick Butter", "2 Tablespoons Flour", "2 Cups Milk", "1 Cup Carnation Milk", "1 Cup Water", "A Good Size Chunky Cheese", "Garlic Salt"], "recipeInstructions": [{"@type": "HowToStep", "text": "Melt butter, whisk in flour to create a roux, add liquids, cheese, and simmer until thickened."}]}'
 ---
 
 # Sauce for Au Gratin Potatoes

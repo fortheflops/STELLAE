@@ -1,13 +1,17 @@
 ---
-title: "Classic Coconut Boiled White Icing"
-category: "Sauces"
-collection: "General Archive"
-source: "Unknown"
-tags: ["icing", "coconut", "dessert", "123", "frosting"]
-description: "A light, fluffy, and glossy boiled icing, perfect for a classic coconut cake. This stable meringue-style frosting is made by whipping a hot sugar syrup into beaten egg whites."
-date: "2026-07-30"
+title: Classic Coconut Boiled White Icing
+category: Sauces
+collection: General Archive
+source: Unknown
+tags:
+  - icing
+  - coconut
+  - dessert
+  - frosting
+description: A light, fluffy, and glossy boiled icing, perfect for a classic coconut cake. This stable meringue-style frosting is made by whipping a hot sugar syrup into beaten egg whites.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Coconut Boiled White Icing\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A light, fluffy, and glossy boiled icing, perfect for a classic coconut cake.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"Frosting for a three-layer cake\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"1 1/2 cups Sugar\", \"1 cup Water\", \"6 tablespoons Karo Syrup\", \"6 Egg Whites\", \"1/3 cup Powdered Sugar\", \"2-3 cups Coconut\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Coconut Boiled White Icing", "author": {"@type": "Person", "name": "Unknown"}, "description": "A light, fluffy, and glossy boiled icing, perfect for a classic coconut cake.", "prepTime": "PT5M", "cookTime": "PT15M", "recipeYield": "Frosting for a three-layer cake", "recipeCategory": "Sauces", "recipeIngredient": ["1 1/2 cups Sugar", "1 cup Water", "6 tablespoons Karo Syrup", "6 Egg Whites", "1/3 cup Powdered Sugar", "2-3 cups Coconut"]}'
 ---
 
 # Classic Coconut Boiled White Icing

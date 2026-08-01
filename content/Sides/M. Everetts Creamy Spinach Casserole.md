@@ -1,11 +1,16 @@
 ---
-title: "M. Everett's Creamy Spinach Casserole"
-category: "Sides"
-collection: "Gail Collection"
-source: "M. Everett"
-tags: ["casserole", "spinach", "sidedish", "123", "gailcollection", "comfortfood"]
-description: "A classic and incredibly easy spinach casserole from M. Everett's collection. This simple side dish features a creamy, savory base of spinach, sour cream, and onion soup mix, all topped with crunchy French-fried onions."
-date: "2026-07-30"
+title: M. Everett's Creamy Spinach Casserole
+category: Sides
+collection: Gail Collection
+source: M. Everett
+tags:
+  - casserole
+  - spinach
+  - sidedish
+  - gailcollection
+  - comfortfood
+description: A classic and incredibly easy spinach casserole from M. Everett's collection. This simple side dish features a creamy, savory base of spinach, sour cream, and onion soup mix, all topped with crunchy French-fried onions.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"M. Everett's Creamy Spinach Casserole\", \"author\": {\"@type\": \"Person\", \"name\": \"M. Everett\"}, \"datePublished\": \"2025-10-16\", \"description\": \"A classic and incredibly easy spinach casserole from M. Everett's collection. This simple side dish features a creamy, savory base of spinach, sour cream, and onion soup mix, all topped with crunchy French-fried onions.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT40M\", \"totalTime\": \"PT55M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Side Dish\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3 packages (10 oz each) Frozen Spinach\", \"1 small container (8 oz) Sour Cream\", \"1 package (1 oz) Dry Onion Soup Mix\", \"1 small can (2.8 oz) French-Fried Onion Rings\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 375\\u00b0F (190\\u00b0C). Grease a casserole dish.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook the frozen spinach according to the package directions. Drain the spinach thoroughly, squeezing out as much excess moisture as possible.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a medium bowl, combine the drained spinach, the sour cream, and the dry onion soup mix. Stir well.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour the mixture into the prepared casserole dish.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake for 20-25 minutes, or until the casserole is heated through and bubbly around the edges.\"}, {\"@type\": \"HowToStep\", \"text\": \"Sprinkle the French-fried onion rings evenly over the top.\"}, {\"@type\": \"HowToStep\", \"text\": \"Return to the oven and bake for an additional 10-15 minutes, or until the onions are golden brown.\"}]}"
 ---

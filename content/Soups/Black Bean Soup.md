@@ -1,13 +1,16 @@
 ---
-title: "Black Bean Soup"
-category: "Soups"
-collection: "UK15"
-source: "Unknown"
-tags: ["soup", "blackbeans", "savory", "123"]
-description: "A comforting and deeply flavorful classic black bean soup seasoned with garlic, cilantro, and warm spices. Perfect as a hearty standalone meal or paired with fresh crusty bread."
-date: "2026-07-30"
+title: Black Bean Soup
+category: Soups
+collection: UK15
+source: Unknown
+tags:
+  - soup
+  - blackbeans
+  - savory
+description: A comforting and deeply flavorful classic black bean soup seasoned with garlic, cilantro, and warm spices. Perfect as a hearty standalone meal or paired with fresh crusty bread.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org\", \"@type\": \"Recipe\", \"name\": \"Black Bean Soup\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A comforting and deeply flavorful classic black bean soup seasoned with garlic, cilantro, and warm spices.\", \"recipeCategory\": \"Soup\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT1H\", \"recipeYield\": \"4-6 servings\", \"recipeIngredient\": [\"Black Beans\", \"Garlic, pureed\", \"Cilantro\", \"Chili Powder\", \"Tomato Powder\", \"Onion Salt\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"If using dried black beans, soak them overnight. If using canned, rinse and drain them.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a large pot, combine the black beans with enough water or vegetable broth to cover.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in the pureed garlic, cilantro, chili powder, tomato powder, and onion salt.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bring the soup to a boil, then reduce the heat and let it simmer for at least an hour to allow the flavors to meld.\"}, {\"@type\": \"HowToStep\", \"text\": \"For a creamier soup, use an immersion blender to partially or fully puree the soup.\"}, {\"@type\": \"HowToStep\", \"text\": \"Serve hot.\"}]}"
+recipe: '{"@context": "https://schema.org", "@type": "Recipe", "name": "Black Bean Soup", "author": {"@type": "Person", "name": "Unknown"}, "description": "A comforting and deeply flavorful classic black bean soup seasoned with garlic, cilantro, and warm spices.", "recipeCategory": "Soup", "prepTime": "PT10M", "cookTime": "PT1H", "recipeYield": "4-6 servings", "recipeIngredient": ["Black Beans", "Garlic, pureed", "Cilantro", "Chili Powder", "Tomato Powder", "Onion Salt"], "recipeInstructions": [{"@type": "HowToStep", "text": "If using dried black beans, soak them overnight. If using canned, rinse and drain them."}, {"@type": "HowToStep", "text": "In a large pot, combine the black beans with enough water or vegetable broth to cover."}, {"@type": "HowToStep", "text": "Stir in the pureed garlic, cilantro, chili powder, tomato powder, and onion salt."}, {"@type": "HowToStep", "text": "Bring the soup to a boil, then reduce the heat and let it simmer for at least an hour to allow the flavors to meld."}, {"@type": "HowToStep", "text": "For a creamier soup, use an immersion blender to partially or fully puree the soup."}, {"@type": "HowToStep", "text": "Serve hot."}]}'
 ---
 
 # Black Bean Soup

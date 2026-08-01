@@ -1,13 +1,66 @@
 ---
-title: "Chocolate Whiskey Sauce"
-category: "Sauces"
-collection: "UK15"
-source: "Leonardo's Restaurant in Santa Fe"
-tags: ["sauce", "chocolate", "whiskey", "dessert", "123"]
-description: "A rich and decadent chocolate whiskey sauce from Leonardo's Restaurant in Santa Fe, featuring Irish whiskey and dual chocolates. Perfect for drizzling over your favorite desserts and easily made ahead."
-date: "2026-07-30"
+title: Chocolate Whiskey Sauce
+category: Sauces
+collection: UK15
+source: Leonardo's Restaurant in Santa Fe
+tags:
+  - sauce
+  - chocolate
+  - whiskey
+  - dessert
+description: A rich and decadent chocolate whiskey sauce from Leonardo's Restaurant in Santa Fe, featuring Irish whiskey and dual chocolates. Perfect for drizzling over your favorite desserts and easily made ahead.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Chocolate Whiskey Sauce\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Leonardo's Restaurant in Santa Fe\"\n  },\n  \"description\": \"A rich and decadent chocolate whiskey sauce featuring Irish whiskey and dual chocolates.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT10M\",\n  \"recipeCategory\": \"Sauces\",\n  \"recipeYield\": \"6\u20138 Servings\",\n  \"recipeIngredient\": [\n    \"3/4 cup Whipping Cream\",\n    \"1/3 cup Sugar\",\n    \"1/4 cup Unsalted Butter\",\n    \"3 tablespoons Irish Whiskey\",\n    \"4 ounces Semisweet Chocolate\",\n    \"2 ounces Unsweetened Chocolate\",\n    \"1 teaspoon Vanilla Extract\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a small saucepan, heat the cream, sugar, and butter over medium heat until the sugar dissolves.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bring the mixture to a simmer and cook until it has slightly thickened, about 4 minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the whiskey and simmer for 4 more minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Remove the saucepan from the heat.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add both the semisweet and unsweetened chocolates, along with the vanilla extract.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Mix until the sauce is completely smooth and let it cool slightly before serving.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Chocolate Whiskey Sauce",
+    "author": {
+      "@type": "Person",
+      "name": "Leonardo's Restaurant in Santa Fe"
+    },
+    "description": "A rich and decadent chocolate whiskey sauce featuring Irish whiskey and dual chocolates.",
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "recipeCategory": "Sauces",
+    "recipeYield": "6–8 Servings",
+    "recipeIngredient": [
+      "3/4 cup Whipping Cream",
+      "1/3 cup Sugar",
+      "1/4 cup Unsalted Butter",
+      "3 tablespoons Irish Whiskey",
+      "4 ounces Semisweet Chocolate",
+      "2 ounces Unsweetened Chocolate",
+      "1 teaspoon Vanilla Extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a small saucepan, heat the cream, sugar, and butter over medium heat until the sugar dissolves."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the mixture to a simmer and cook until it has slightly thickened, about 4 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the whiskey and simmer for 4 more minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the saucepan from the heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add both the semisweet and unsweetened chocolates, along with the vanilla extract."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix until the sauce is completely smooth and let it cool slightly before serving."
+      }
+    ]
+  }
 ---
 
 # Chocolate Whiskey Sauce

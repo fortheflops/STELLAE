@@ -1,13 +1,79 @@
 ---
-title: "South of Border Casserole"
-category: "Entrees"
-collection: "UK15"
-source: "Unknown"
-tags: ["casserole", "texmex", "beef", "weeknight", "comfortfood", "123"]
-description: "A classic and hearty South of the Border casserole featuring seasoned ground beef, corn, and tortillas in a rich tomato-chili sauce. Topped with melted cheddar cheese, it makes for a satisfying and easy family dinner."
-date: "2026-07-30"
+title: South of Border Casserole
+category: Entrees
+collection: UK15
+source: Unknown
+tags:
+  - casserole
+  - texmex
+  - beef
+  - weeknight
+  - comfortfood
+description: A classic and hearty South of the Border casserole featuring seasoned ground beef, corn, and tortillas in a rich tomato-chili sauce. Topped with melted cheddar cheese, it makes for a satisfying and easy family dinner.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"South of Border Casserole\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-16\",\n  \"description\": \"A classic and hearty 'South of the Border' casserole, perfect for a weeknight. This simple dish layers seasoned ground beef, corn, and tortillas in a rich tomato-chili sauce, all topped with melted cheddar cheese.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Entrees/Casserole/Meat/Beef/Assets/Handwritten_2025-07-04_090238.webp\"\n  ],\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT30M\",\n  \"totalTime\": \"PT45M\",\n  \"recipeYield\": \"8-10 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"Tex-Mex\",\n  \"recipeIngredient\": [\n    \"1 1/2 pounds Ground Beef\",\n    \"1 Onion, chopped\",\n    \"1 large can (approx. 28 oz) Whole Kernel Corn, undrained\",\n    \"1 large can (approx. 46 oz) Tomato Juice\",\n    \"1 dozen Corn Tortillas\",\n    \"2 heaping tablespoons Chili Powder\",\n    \"Salt, to taste\",\n    \"Garlic Salt, to taste\",\n    \"1-2 cups Grated Cheddar Cheese\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F (175\u00b0C). Grease a large casserole dish (e.g., 9x13 inch).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large skillet or Dutch oven, brown the ground beef and chopped onion until the meat is cooked through. Drain any excess fat.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in the can of corn (undrained), the tomato juice, chili powder, salt, and garlic salt. Bring the mixture to a simmer.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Tear or cut the corn tortillas into strips or quarters.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"To assemble, spread a layer of the meat mixture in the bottom of the prepared dish. Top with a layer of tortilla pieces. Repeat the layers, ending with a final layer of the meat mixture on top.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Sprinkle the grated cheddar cheese evenly over the top.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for 20-30 minutes, or until the casserole is hot and the cheese is melted and bubbly.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "South of Border Casserole",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-16",
+    "description": "A classic and hearty 'South of the Border' casserole, perfect for a weeknight. This simple dish layers seasoned ground beef, corn, and tortillas in a rich tomato-chili sauce, all topped with melted cheddar cheese.",
+    "image": [
+      "https://cucinamezzaluna.com/Entrees/Casserole/Meat/Beef/Assets/Handwritten_2025-07-04_090238.webp"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "recipeYield": "8-10 servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "Tex-Mex",
+    "recipeIngredient": [
+      "1 1/2 pounds Ground Beef",
+      "1 Onion, chopped",
+      "1 large can (approx. 28 oz) Whole Kernel Corn, undrained",
+      "1 large can (approx. 46 oz) Tomato Juice",
+      "1 dozen Corn Tortillas",
+      "2 heaping tablespoons Chili Powder",
+      "Salt, to taste",
+      "Garlic Salt, to taste",
+      "1-2 cups Grated Cheddar Cheese"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F (175°C). Grease a large casserole dish (e.g., 9x13 inch)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large skillet or Dutch oven, brown the ground beef and chopped onion until the meat is cooked through. Drain any excess fat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the can of corn (undrained), the tomato juice, chili powder, salt, and garlic salt. Bring the mixture to a simmer."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Tear or cut the corn tortillas into strips or quarters."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To assemble, spread a layer of the meat mixture in the bottom of the prepared dish. Top with a layer of tortilla pieces. Repeat the layers, ending with a final layer of the meat mixture on top."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the grated cheddar cheese evenly over the top."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 20-30 minutes, or until the casserole is hot and the cheese is melted and bubbly."
+      }
+    ]
+  }
 ---
 
 # South of Border Casserole

@@ -1,13 +1,86 @@
 ---
-title: "Tender Oven-Braised Swiss Steak"
-category: "Entrees"
-collection: "UK5"
-source: "Midge Robertson"
-tags: ["comfortfood", "beef", "steak", "braised", "123"]
-description: "A classic comfort food recipe featuring tender round steak slow-braised in the oven with stewed tomatoes, vegetables, and melted cheese. Perfect for a cozy weeknight dinner."
-date: "2026-07-30"
+title: Tender Oven-Braised Swiss Steak
+category: Entrees
+collection: UK5
+source: Midge Robertson
+tags:
+  - comfortfood
+  - beef
+  - steak
+  - braised
+description: A classic comfort food recipe featuring tender round steak slow-braised in the oven with stewed tomatoes, vegetables, and melted cheese. Perfect for a cozy weeknight dinner.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Oven Swiss Steak\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Midge Robertson\"\n  },\n  \"datePublished\": \"2025-11-07\",\n  \"description\": \"Tender round steak braised in the oven with stewed tomatoes, celery, carrots, and onions, topped with melted cheese.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Entrees/Meat/Beef/Steak/Round Steak/Assets/Oven Swiss Steak UK5-1753636632841.webp\"\n  ],\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT2H10M\",\n  \"totalTime\": \"PT2H25M\",\n  \"recipeYield\": \"2 servings\",\n  \"recipeCategory\": \"Entree\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1/2 to 3/4 pound Round Steak\",\n    \"2 tablespoons Flour\",\n    \"Salt and Pepper, to taste\",\n    \"1 (8 ounce) can Stewed Tomatoes\",\n    \"1/4 cup Chopped Celery\",\n    \"1/4 cup Chopped Carrot\",\n    \"1 tablespoon Chopped Onion\",\n    \"1/4 teaspoon Worcestershire Sauce\",\n    \"2 tablespoons Shredded Cheese\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cut the round steak into two portions.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Coat the meat with salt, pepper, and flour.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a skillet, brown the meat in hot oil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place the browned meat in a shallow baking dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Blend any remaining flour with the drippings in the skillet.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the remaining ingredients (tomatoes, celery, carrot, onion, Worcestershire sauce) to the skillet and cook, stirring constantly, until the mixture boils.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the sauce mixture over the meat in the baking dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cover and bake at 325\u00b0F - 350\u00b0F for 2 hours, or until the meat is tender.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Sprinkle the shredded cheese over the meat and return it to the oven just until the cheese melts.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Oven Swiss Steak",
+    "author": {
+      "@type": "Person",
+      "name": "Midge Robertson"
+    },
+    "datePublished": "2025-11-07",
+    "description": "Tender round steak braised in the oven with stewed tomatoes, celery, carrots, and onions, topped with melted cheese.",
+    "image": [
+      "https://cucinamezzaluna.com/Entrees/Meat/Beef/Steak/Round Steak/Assets/Oven Swiss Steak UK5-1753636632841.webp"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT2H10M",
+    "totalTime": "PT2H25M",
+    "recipeYield": "2 servings",
+    "recipeCategory": "Entree",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1/2 to 3/4 pound Round Steak",
+      "2 tablespoons Flour",
+      "Salt and Pepper, to taste",
+      "1 (8 ounce) can Stewed Tomatoes",
+      "1/4 cup Chopped Celery",
+      "1/4 cup Chopped Carrot",
+      "1 tablespoon Chopped Onion",
+      "1/4 teaspoon Worcestershire Sauce",
+      "2 tablespoons Shredded Cheese"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cut the round steak into two portions."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Coat the meat with salt, pepper, and flour."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet, brown the meat in hot oil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the browned meat in a shallow baking dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend any remaining flour with the drippings in the skillet."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the remaining ingredients (tomatoes, celery, carrot, onion, Worcestershire sauce) to the skillet and cook, stirring constantly, until the mixture boils."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the sauce mixture over the meat in the baking dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover and bake at 325°F - 350°F for 2 hours, or until the meat is tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the shredded cheese over the meat and return it to the oven just until the cheese melts."
+      }
+    ]
+  }
 ---
 
 # Tender Oven-Braised Swiss Steak

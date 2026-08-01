@@ -1,13 +1,17 @@
 ---
-title: "Spinach Salad"
-category: "Salads"
-collection: "Gail Collection"
-source: "Joy"
-tags: ["salad", "spinach", "gailcollection", "123", "vegetarian"]
-description: "A vibrant layered spinach salad featuring fresh bell peppers, hard-boiled eggs, and a warm garlic-sesame dressing. This vintage recipe from the Gail Collection delivers a delightful contrast of textures and flavors."
-date: "2026-07-30"
+title: Spinach Salad
+category: Salads
+collection: Gail Collection
+source: Joy
+tags:
+  - salad
+  - spinach
+  - gailcollection
+  - vegetarian
+description: A vibrant layered spinach salad featuring fresh bell peppers, hard-boiled eggs, and a warm garlic-sesame dressing. This vintage recipe from the Gail Collection delivers a delightful contrast of textures and flavors.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Spinach Salad\",\"author\":{\"@type\":\"Person\",\"name\":\"Joy\"},\"description\":\"A vibrant layered spinach salad featuring fresh bell peppers, hard-boiled eggs, and a warm garlic-sesame dressing.\",\"prepTime\":\"PT20M\",\"cookTime\":\"PT5M\",\"recipeYield\":\"6 servings\",\"recipeCategory\":\"Salads\",\"recipeIngredient\":[\"1 \u00bd Bunches Fresh Spinach\",\"1 Bunch Green Onions\",\"4 Hard-boiled Eggs\",\"2 Tablespoons Sesame Seeds\",\"1 Large Red or Green Bell Pepper\",\"\u00bc Cup Olive Oil\",\"3 to 4 Cloves Garlic\",\"1 Tablespoon Sesame Seeds\",\"3 Tablespoons Lemon Juice\",\"3 Tablespoons Soy Sauce\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In a large bowl or platter, layer the spinach, sliced bell pepper, chopped green onions, and top with sliced hard-boiled eggs. Sprinkle with sesame seeds.\"},{\"@type\":\"HowToStep\",\"text\":\"Heat olive oil in a skillet, saut\u00e9 garlic and sesame seeds until fragrant, then turn off heat and stir in lemon juice and soy sauce.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour hot dressing over the layered salad immediately and serve without tossing.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Spinach Salad","author":{"@type":"Person","name":"Joy"},"description":"A vibrant layered spinach salad featuring fresh bell peppers, hard-boiled eggs, and a warm garlic-sesame dressing.","prepTime":"PT20M","cookTime":"PT5M","recipeYield":"6 servings","recipeCategory":"Salads","recipeIngredient":["1 ½ Bunches Fresh Spinach","1 Bunch Green Onions","4 Hard-boiled Eggs","2 Tablespoons Sesame Seeds","1 Large Red or Green Bell Pepper","¼ Cup Olive Oil","3 to 4 Cloves Garlic","1 Tablespoon Sesame Seeds","3 Tablespoons Lemon Juice","3 Tablespoons Soy Sauce"],"recipeInstructions":[{"@type":"HowToStep","text":"In a large bowl or platter, layer the spinach, sliced bell pepper, chopped green onions, and top with sliced hard-boiled eggs. Sprinkle with sesame seeds."},{"@type":"HowToStep","text":"Heat olive oil in a skillet, sauté garlic and sesame seeds until fragrant, then turn off heat and stir in lemon juice and soy sauce."},{"@type":"HowToStep","text":"Pour hot dressing over the layered salad immediately and serve without tossing."}]}'
 ---
 
 # Spinach Salad

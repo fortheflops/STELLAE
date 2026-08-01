@@ -1,13 +1,18 @@
 ---
-title: "Italian Ham Spaghetti Sauce"
-category: "Sauces"
-collection: "UK2"
-source: "Unknown"
-tags: ["sauce", "pasta", "tomato", "ham", "italian", "123"]
-description: "A savory and comforting Italian ham spaghetti sauce infused with fresh basil, garlic, and crushed red pepper flakes. Perfect for serving over your favorite pasta twists."
-date: "2026-07-30"
+title: Italian Ham Spaghetti Sauce
+category: Sauces
+collection: UK2
+source: Unknown
+tags:
+  - sauce
+  - pasta
+  - tomato
+  - ham
+  - italian
+description: A savory and comforting Italian ham spaghetti sauce infused with fresh basil, garlic, and crushed red pepper flakes. Perfect for serving over your favorite pasta twists.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Italian Ham Spaghetti Sauce\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-01-28\", \"description\": \"A savory and comforting Italian ham spaghetti sauce infused with fresh basil, garlic, and crushed red pepper flakes. Perfect for serving over your favorite pasta twists.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT25M\", \"recipeYield\": \"4-6 Servings\", \"recipeCategory\": \"Sauces\", \"recipeCuisine\": \"Italian\", \"keywords\": \"sauce, pasta, tomato, ham, italian, vintage\", \"recipeIngredient\": [\"1 Onion\", \"3 Cloves Garlic\", \"Olive Oil\", \"Crushed Red Pepper Flakes\", \"2 Cans Italian Tomatoes\", \"1 Can Tomato Sauce\", \"Ham\", \"1 Cup Fresh Basil\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Cook the 1 onion and 3 cloves garlic in a pan with olive oil until soft and fragrant.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in the crushed red pepper flakes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the 2 cans chopped Italian tomatoes and 1 can tomato sauce to the pan.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook for 20 minutes until the sauce thickens and deepens in flavor.\"}, {\"@type\": \"HowToStep\", \"text\": \"While the sauce simmers, roll the ham and cut it into narrow ribbon strips.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the prepared ham and 1 cup chopped fresh basil into the sauce.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook for a few minutes until heated through, then serve over pasta twists.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Italian Ham Spaghetti Sauce", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-01-28", "description": "A savory and comforting Italian ham spaghetti sauce infused with fresh basil, garlic, and crushed red pepper flakes. Perfect for serving over your favorite pasta twists.", "prepTime": "PT15M", "cookTime": "PT25M", "recipeYield": "4-6 Servings", "recipeCategory": "Sauces", "recipeCuisine": "Italian", "keywords": "sauce, pasta, tomato, ham, italian, vintage", "recipeIngredient": ["1 Onion", "3 Cloves Garlic", "Olive Oil", "Crushed Red Pepper Flakes", "2 Cans Italian Tomatoes", "1 Can Tomato Sauce", "Ham", "1 Cup Fresh Basil"], "recipeInstructions": [{"@type": "HowToStep", "text": "Cook the 1 onion and 3 cloves garlic in a pan with olive oil until soft and fragrant."}, {"@type": "HowToStep", "text": "Stir in the crushed red pepper flakes."}, {"@type": "HowToStep", "text": "Add the 2 cans chopped Italian tomatoes and 1 can tomato sauce to the pan."}, {"@type": "HowToStep", "text": "Cook for 20 minutes until the sauce thickens and deepens in flavor."}, {"@type": "HowToStep", "text": "While the sauce simmers, roll the ham and cut it into narrow ribbon strips."}, {"@type": "HowToStep", "text": "Add the prepared ham and 1 cup chopped fresh basil into the sauce."}, {"@type": "HowToStep", "text": "Cook for a few minutes until heated through, then serve over pasta twists."}]}'
 ---
 
 # Italian Ham Spaghetti Sauce

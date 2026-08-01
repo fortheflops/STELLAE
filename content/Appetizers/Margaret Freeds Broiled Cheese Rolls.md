@@ -1,11 +1,16 @@
 ---
-title: "Margaret Freed's Broiled Cheese Rolls"
-category: "Appetizers"
-collection: "Gail Collection"
-source: "Margaret Freed"
-tags: ["appetizer", "snack", "cheese", "bacon", "123", "gailcollection"]
-description: "A savory appetizer or snack made by broiling a mixture of sharp cheddar cheese, diced raw bacon, and green onions on English muffin halves until bubbly and golden."
-date: "2026-07-30"
+title: Margaret Freed's Broiled Cheese Rolls
+category: Appetizers
+collection: Gail Collection
+source: Margaret Freed
+tags:
+  - appetizer
+  - snack
+  - cheese
+  - bacon
+  - gailcollection
+description: A savory appetizer or snack made by broiling a mixture of sharp cheddar cheese, diced raw bacon, and green onions on English muffin halves until bubbly and golden.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Margaret Freed's Broiled Cheese Rolls\", \"author\": {\"@type\": \"Person\", \"name\": \"Margaret Freed\"}, \"datePublished\": \"2025-09-22\", \"description\": \"A savory appetizer or snack made by broiling a mixture of cheddar cheese, diced raw bacon, and green onions on English muffin halves.\", \"image\": [\"https://cucinamezzaluna.com/Bread/Yeasted-Bread/Rolls/Assets/Handwritten_2025-06-11_181557.webp\", \"https://cucinamezzaluna.com/Bread/Yeasted-Bread/Rolls/Assets/Handwritten_2025-06-11_181647%20(2).webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT8M\", \"totalTime\": \"PT23M\", \"recipeYield\": \"12 halves\", \"recipeCategory\": \"Appetizers\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1/2 pound (8 ounces) sharp cheddar cheese, grated\", \"2 strips uncooked bacon, finely diced\", \"5-6 green onions, finely chopped\", \"2 tablespoons cooking oil\", \"1/2 teaspoon salt\", \"1/8 teaspoon pepper\", \"1 package (6) English muffins\"]}"
 ---

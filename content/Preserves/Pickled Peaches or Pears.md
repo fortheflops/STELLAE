@@ -1,13 +1,57 @@
 ---
-title: "Pickled Peaches or Pears"
-category: "Preserves"
-collection: "GC"
-source: "Ann Seranne"
-tags: ["preserves", "pickled", "fruit", "canning", "123"]
-description: "A classic home-preserving recipe for spiced pickled peaches or pears infused with cinnamon, cloves, and allspice. Perfect for adding a sweet and tangy touch to your pantry collection."
-date: "2026-07-30"
+title: Pickled Peaches or Pears
+category: Preserves
+collection: GC
+source: Ann Seranne
+tags:
+  - preserves
+  - pickled
+  - fruit
+  - canning
+description: A classic home-preserving recipe for spiced pickled peaches or pears infused with cinnamon, cloves, and allspice. Perfect for adding a sweet and tangy touch to your pantry collection.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Pickled Peaches or Pears\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Ann Seranne\"\n  },\n  \"datePublished\": \"1995\",\n  \"description\": \"A classic home-preserving recipe for spiced pickled peaches or pears infused with cinnamon, cloves, and allspice.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT10M\",\n  \"recipeCategory\": \"Preserves\",\n  \"recipeIngredient\": [\n    \"7 pounds Firm-ripe Peaches or Pears\",\n    \"As Needed Whole Cloves\",\n    \"4 cups Cider Vinegar\",\n    \"6 cups Sugar\",\n    \"1 tablespoon Broken Stick Cinnamon\",\n    \"1 tablespoon Whole Allspice\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Peel the fruit. Stick 4 whole cloves into each piece of fruit. Tie the broken stick cinnamon and whole allspice in a spice bag.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large pot, combine the cider vinegar and sugar. Add the spice bag and bring to a boil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drop the fruit into the boiling syrup one piece at a time. Cook for about 10 minutes until easily pierced with a fork.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Discard the spice bag, pack hot fruit into hot sterilized jars, fill with boiling syrup, and seal immediately.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Pickled Peaches or Pears",
+    "author": {
+      "@type": "Person",
+      "name": "Ann Seranne"
+    },
+    "datePublished": "1995",
+    "description": "A classic home-preserving recipe for spiced pickled peaches or pears infused with cinnamon, cloves, and allspice.",
+    "prepTime": "PT30M",
+    "cookTime": "PT10M",
+    "recipeCategory": "Preserves",
+    "recipeIngredient": [
+      "7 pounds Firm-ripe Peaches or Pears",
+      "As Needed Whole Cloves",
+      "4 cups Cider Vinegar",
+      "6 cups Sugar",
+      "1 tablespoon Broken Stick Cinnamon",
+      "1 tablespoon Whole Allspice"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel the fruit. Stick 4 whole cloves into each piece of fruit. Tie the broken stick cinnamon and whole allspice in a spice bag."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, combine the cider vinegar and sugar. Add the spice bag and bring to a boil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drop the fruit into the boiling syrup one piece at a time. Cook for about 10 minutes until easily pierced with a fork."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Discard the spice bag, pack hot fruit into hot sterilized jars, fill with boiling syrup, and seal immediately."
+      }
+    ]
+  }
 ---
 
 # Pickled Peaches or Pears

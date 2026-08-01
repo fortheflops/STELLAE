@@ -1,13 +1,18 @@
 ---
-title: "Easy Jiffy Cake Mix Apple Crisp"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["dessert", "applecrisp", "shortcut", "jiffy", "easy", "123"]
-description: "A simple and delicious shortcut apple crisp featuring a buttery Jiffy yellow cake mix topping. This foolproof dessert is perfect for quick cravings and uses minimal ingredients."
-date: "2026-07-30"
+title: Easy Jiffy Cake Mix Apple Crisp
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - dessert
+  - applecrisp
+  - shortcut
+  - jiffy
+  - easy
+description: A simple and delicious shortcut apple crisp featuring a buttery Jiffy yellow cake mix topping. This foolproof dessert is perfect for quick cravings and uses minimal ingredients.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Easy Jiffy Cake Mix Apple Crisp\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A simple and delicious shortcut apple crisp featuring a buttery Jiffy yellow cake mix topping.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT25M\", \"recipeYield\": \"6 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"4-5 medium apples, peeled, cored, and sliced\", \"1/2 cup (1 stick) butter, cut into pats\", \"1 box Jiffy Yellow Cake Mix\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Easy Jiffy Cake Mix Apple Crisp", "author": {"@type": "Person", "name": "Unknown"}, "description": "A simple and delicious shortcut apple crisp featuring a buttery Jiffy yellow cake mix topping.", "prepTime": "PT5M", "cookTime": "PT25M", "recipeYield": "6 servings", "recipeCategory": "Dessert", "recipeIngredient": ["4-5 medium apples, peeled, cored, and sliced", "1/2 cup (1 stick) butter, cut into pats", "1 box Jiffy Yellow Cake Mix"]}'
 ---
 
 # Easy Jiffy Cake Mix Apple Crisp

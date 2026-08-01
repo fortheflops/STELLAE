@@ -1,13 +1,17 @@
 ---
-title: "Classic Banana Cake"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["cake", "banana", "123", "dessert", "baking"]
-description: "A wonderfully moist and tender banana layer cake featuring a rich flavor profile from buttermilk and shortening. This versatile recipe is easily customized with your favorite chopped nuts and warm spices."
-date: "2026-07-30"
+title: Classic Banana Cake
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - cake
+  - banana
+  - dessert
+  - baking
+description: A wonderfully moist and tender banana layer cake featuring a rich flavor profile from buttermilk and shortening. This versatile recipe is easily customized with your favorite chopped nuts and warm spices.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Banana Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT40M\", \"recipeYield\": \"12 Servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Banana Cake", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT20M", "cookTime": "PT40M", "recipeYield": "12 Servings", "recipeCategory": "Dessert"}'
 ---
 
 # Classic Banana Cake

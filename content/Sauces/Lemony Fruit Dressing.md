@@ -1,13 +1,17 @@
 ---
-title: "Lemony Fruit Dressing"
-category: "Sauces"
-collection: "UK2"
-source: "Unknown"
-tags: ["dressing", "fruit", "123", "lemon", "sauce"]
-description: "A classic, creamy vintage dressing featuring a sweet and tangy lemon base perfect for fruit salads. This versatile sauce combines citrus notes with a marshmallow-thickened texture for a unique flavor profile."
-date: "2026-07-30"
+title: Lemony Fruit Dressing
+category: Sauces
+collection: UK2
+source: Unknown
+tags:
+  - dressing
+  - fruit
+  - lemon
+  - sauce
+description: A classic, creamy vintage dressing featuring a sweet and tangy lemon base perfect for fruit salads. This versatile sauce combines citrus notes with a marshmallow-thickened texture for a unique flavor profile.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Lemony Fruit Dressing\", \"recipeCategory\": \"Sauces\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"2 cups\", \"recipeIngredient\": [\"1/3 cup sugar\", \"1 tbsp flour\", \"1/2 tsp grated lemon peel\", \"1/4 cup lemon juice\", \"1 egg\", \"1 cup tiny marshmallows\", \"1 cup mayonnaise or salad dressing\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Lemony Fruit Dressing", "recipeCategory": "Sauces", "prepTime": "PT10M", "cookTime": "PT10M", "recipeYield": "2 cups", "recipeIngredient": ["1/3 cup sugar", "1 tbsp flour", "1/2 tsp grated lemon peel", "1/4 cup lemon juice", "1 egg", "1 cup tiny marshmallows", "1 cup mayonnaise or salad dressing"]}'
 ---
 
 # Lemony Fruit Dressing

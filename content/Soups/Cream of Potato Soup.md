@@ -1,13 +1,76 @@
 ---
-title: "Cream of Potato Soup"
-category: "Soups"
-collection: "UK3"
-source: "Unknown"
-tags: ["soup", "potato", "comfortfood", "123"]
-description: "A comforting vintage Cream of Potato Soup featuring tender diced potatoes, celery, and a touch of savory Lee & Perrin sauce. Perfect for a cozy meal."
-date: "2026-07-30"
+title: Cream of Potato Soup
+category: Soups
+collection: UK3
+source: Unknown
+tags:
+  - soup
+  - potato
+  - comfortfood
+description: A comforting vintage Cream of Potato Soup featuring tender diced potatoes, celery, and a touch of savory Lee & Perrin sauce. Perfect for a cozy meal.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Cream of Potato Soup\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-03-11\",\n  \"description\": \"A comforting vintage Cream of Potato Soup featuring tender diced potatoes, celery, and a touch of savory Lee & Perrin sauce.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT20M\",\n  \"recipeCategory\": \"Soups\",\n  \"recipeCuisine\": \"American\",\n  \"recipeYield\": \"4\u20136 Servings\",\n  \"recipeIngredient\": [\n    \"4 Cups Water\",\n    \"2 Cups Potatoes, Raw, Diced\",\n    \"1/2 Cup Celery, Diced\",\n    \"1/4 Cup Onion, Chopped\",\n    \"3 Tablespoon Parsley, Chopped\",\n    \"1/2 Tablespoon Salt\",\n    \"3 Tablespoon Butter\",\n    \"2 Tablespoon Flour\",\n    \"2 Cups Milk\",\n    \"To Taste Salt\",\n    \"To Taste Pepper\",\n    \"To Taste Lee & Perrin Sauce\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook potatoes, celery, onion, parsley, and salt, covered in 4 cups water for 20 minutes until tender.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"When tender, press vegetables through a food mill.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Melt in pan, 3 tablespoon of butter.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add and mix well, 2 tablespoons of flour.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add flour and butter mixture to vegetables and the water that they were cooked in.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"To this add 2 cups of milk.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Reheat and adjust seasoning with salt, pepper, and Lee & Perrin Sauce.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Cream of Potato Soup",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-03-11",
+    "description": "A comforting vintage Cream of Potato Soup featuring tender diced potatoes, celery, and a touch of savory Lee & Perrin sauce.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "recipeCategory": "Soups",
+    "recipeCuisine": "American",
+    "recipeYield": "4–6 Servings",
+    "recipeIngredient": [
+      "4 Cups Water",
+      "2 Cups Potatoes, Raw, Diced",
+      "1/2 Cup Celery, Diced",
+      "1/4 Cup Onion, Chopped",
+      "3 Tablespoon Parsley, Chopped",
+      "1/2 Tablespoon Salt",
+      "3 Tablespoon Butter",
+      "2 Tablespoon Flour",
+      "2 Cups Milk",
+      "To Taste Salt",
+      "To Taste Pepper",
+      "To Taste Lee & Perrin Sauce"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cook potatoes, celery, onion, parsley, and salt, covered in 4 cups water for 20 minutes until tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When tender, press vegetables through a food mill."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt in pan, 3 tablespoon of butter."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add and mix well, 2 tablespoons of flour."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add flour and butter mixture to vegetables and the water that they were cooked in."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To this add 2 cups of milk."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Reheat and adjust seasoning with salt, pepper, and Lee & Perrin Sauce."
+      }
+    ]
+  }
 ---
 
 # Cream of Potato Soup

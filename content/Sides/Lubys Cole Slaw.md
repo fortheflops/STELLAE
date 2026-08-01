@@ -1,13 +1,53 @@
 ---
-title: "Luby's Cole Slaw"
-category: "Sides"
-collection: "Unknown Two"
-source: "Luby"
-tags: ["sides", "coleslaw", "salad", "123"]
-description: "A classic, creamy coleslaw recipe featuring chopped cabbage and finely chopped spinach tossed in a sweet and tangy mayonnaise dressing. Perfect as a refreshing side dish for barbecues, picnics, and family gatherings."
-date: "2026-07-30"
+title: Luby's Cole Slaw
+category: Sides
+collection: Unknown Two
+source: Luby
+tags:
+  - sides
+  - coleslaw
+  - salad
+description: A classic, creamy coleslaw recipe featuring chopped cabbage and finely chopped spinach tossed in a sweet and tangy mayonnaise dressing. Perfect as a refreshing side dish for barbecues, picnics, and family gatherings.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Luby's Cole Slaw\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Luby\"\n  },\n  \"description\": \"A classic, creamy coleslaw recipe featuring chopped cabbage and finely chopped spinach tossed in a sweet and tangy mayonnaise dressing.\",\n  \"recipeCategory\": \"Sides\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT0M\",\n  \"totalTime\": \"PT2H15M\",\n  \"recipeYield\": \"6 servings\",\n  \"recipeIngredient\": [\n    \"1 medium Cabbage, chopped\",\n    \"1 cup firmly packed Spinach leaves, finely chopped\",\n    \"1 cup Mayonnaise\",\n    \"1 Tbsp Sugar\",\n    \"\u00bd tsp White Vinegar\",\n    \"Dash Salt & Pepper\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large mixing bowl, combine the chopped cabbage, finely chopped spinach leaves, mayonnaise, sugar, white vinegar, and salt & pepper.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Toss all ingredients thoroughly until evenly coated.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cover and refrigerate for at least 2 hours before serving.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "name": "Luby's Cole Slaw",
+    "author": {
+      "@type": "Person",
+      "name": "Luby"
+    },
+    "description": "A classic, creamy coleslaw recipe featuring chopped cabbage and finely chopped spinach tossed in a sweet and tangy mayonnaise dressing.",
+    "recipeCategory": "Sides",
+    "prepTime": "PT15M",
+    "cookTime": "PT0M",
+    "totalTime": "PT2H15M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+      "1 medium Cabbage, chopped",
+      "1 cup firmly packed Spinach leaves, finely chopped",
+      "1 cup Mayonnaise",
+      "1 Tbsp Sugar",
+      "½ tsp White Vinegar",
+      "Dash Salt & Pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a large mixing bowl, combine the chopped cabbage, finely chopped spinach leaves, mayonnaise, sugar, white vinegar, and salt & pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss all ingredients thoroughly until evenly coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover and refrigerate for at least 2 hours before serving."
+      }
+    ]
+  }
 ---
 
 # Luby's Cole Slaw

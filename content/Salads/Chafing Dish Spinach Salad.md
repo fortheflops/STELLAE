@@ -1,13 +1,16 @@
 ---
-title: "Chafing Dish Spinach Salad"
-category: "Salads"
-collection: "UK2"
-source: "Unknown"
-tags: ["salad", "spinach", "123", "appetizer"]
-description: "A warm and vibrant chafing dish spinach salad tossed with crispy bacon, green onions, and a tangy dressing. Perfectly wilted to tender perfection right at the table."
-date: "2026-07-30"
+title: Chafing Dish Spinach Salad
+category: Salads
+collection: UK2
+source: Unknown
+tags:
+  - salad
+  - spinach
+  - appetizer
+description: A warm and vibrant chafing dish spinach salad tossed with crispy bacon, green onions, and a tangy dressing. Perfectly wilted to tender perfection right at the table.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Chafing Dish Spinach Salad\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-02-12\",\"description\":\"A warm and vibrant chafing dish spinach salad tossed with crispy bacon, green onions, and a tangy dressing.\","
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Chafing Dish Spinach Salad","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-02-12","description":"A warm and vibrant chafing dish spinach salad tossed with crispy bacon, green onions, and a tangy dressing.",'
 ---
 
 # Chafing Dish Spinach Salad

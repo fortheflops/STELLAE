@@ -1,13 +1,17 @@
 ---
-title: "Mildred's Chili-Enchilada Sauce"
-category: "Sauces"
-collection: "UK2"
-source: "Mildred (Neighbor on 12th St. - 1943)"
-tags: ["sauce", "chili", "enchilada", "123", "salsaroja"]
-description: "A rich and savory vintage chili-enchilada sauce from 1943, featuring ground beef, aromatic spices, and a robust chili powder base. Perfect for layering into authentic, crispy enchiladas."
-date: "2026-07-30"
+title: Mildred's Chili-Enchilada Sauce
+category: Sauces
+collection: UK2
+source: Mildred (Neighbor on 12th St. - 1943)
+tags:
+  - sauce
+  - chili
+  - enchilada
+  - salsaroja
+description: A rich and savory vintage chili-enchilada sauce from 1943, featuring ground beef, aromatic spices, and a robust chili powder base. Perfect for layering into authentic, crispy enchiladas.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Mildred's Chili-Enchilada Sauce\",\"author\":{\"@type\":\"Person\",\"name\":\"Mildred (Neighbor on 12th St. - 1943)\"},\"datePublished\":\"1943\",\"description\":\"A rich and savory vintage chili-enchilada sauce from 1943, featuring ground beef, aromatic spices, and a robust chili powder base.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT30M\",\"totalTime\":\"PT45M\",\"recipeCategory\":\"Sauces\",\"recipeCuisine\":\"American-Vintage\",\"recipeYield\":\"6\u20138 servings\",\"recipeIngredient\":[\"2 Tbsp. Crisco\",\"2 lb. Hamburger\",\"2 Garlic\",\"10 Tbsp. Red Chili Powder\",\"1 level Tbsp. Cumino Seed\",\"1 scant Tbsp. Cumino Seed\",\"1 Tbsp. Oregano\",\"1 Tbsp. Salt\",\"Water\",\"1 Can Tomato Paste\",\"1 Tbsp. Flour\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Melt 2 Tbsp. Crisco in a frying pan over medium heat.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour in 2 lb. hamburger and cook until browned.\"},{\"@type\":\"HowToStep\",\"text\":\"Add 2 grated garlic buttons and cook for another minute until fragrant.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir in 10 Tbsp. plain red chili powder, 1 level Tbsp. cumino seed, 1 scant Tbsp. powdered cumino seed, 1 Tbsp. oregano, and 1 Tbsp. salt.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir thoroughly to coat the meat evenly.\"},{\"@type\":\"HowToStep\",\"text\":\"Add enough water to cover the mixture.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir in 1 can tomato paste and sprinkle with 1 Tbsp. flour.\"},{\"@type\":\"HowToStep\",\"text\":\"Simmer for 20 to 30 minutes until thickened and deeply flavorful.\"}]}"
+recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Mildred's Chili-Enchilada Sauce\",\"author\":{\"@type\":\"Person\",\"name\":\"Mildred (Neighbor on 12th St. - 1943)\"},\"datePublished\":\"1943\",\"description\":\"A rich and savory vintage chili-enchilada sauce from 1943, featuring ground beef, aromatic spices, and a robust chili powder base.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT30M\",\"totalTime\":\"PT45M\",\"recipeCategory\":\"Sauces\",\"recipeCuisine\":\"American-Vintage\",\"recipeYield\":\"6–8 servings\",\"recipeIngredient\":[\"2 Tbsp. Crisco\",\"2 lb. Hamburger\",\"2 Garlic\",\"10 Tbsp. Red Chili Powder\",\"1 level Tbsp. Cumino Seed\",\"1 scant Tbsp. Cumino Seed\",\"1 Tbsp. Oregano\",\"1 Tbsp. Salt\",\"Water\",\"1 Can Tomato Paste\",\"1 Tbsp. Flour\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Melt 2 Tbsp. Crisco in a frying pan over medium heat.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour in 2 lb. hamburger and cook until browned.\"},{\"@type\":\"HowToStep\",\"text\":\"Add 2 grated garlic buttons and cook for another minute until fragrant.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir in 10 Tbsp. plain red chili powder, 1 level Tbsp. cumino seed, 1 scant Tbsp. powdered cumino seed, 1 Tbsp. oregano, and 1 Tbsp. salt.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir thoroughly to coat the meat evenly.\"},{\"@type\":\"HowToStep\",\"text\":\"Add enough water to cover the mixture.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir in 1 can tomato paste and sprinkle with 1 Tbsp. flour.\"},{\"@type\":\"HowToStep\",\"text\":\"Simmer for 20 to 30 minutes until thickened and deeply flavorful.\"}]}"
 ---
 
 # Mildred's Chili-Enchilada Sauce

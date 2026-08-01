@@ -1,13 +1,19 @@
 ---
-title: "Spinach Onion Veg Dish"
-category: "Sides"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["gailcollection", "spinach", "onion", "casserole", "side dish", "frozen vegetables", "123"]
-description: "A comforting vintage side dish featuring frozen spinach bound with creamy sour cream and savory Lipton onion soup mix, topped with crispy onion rings. This easy-to-make casserole is wonderfully rich and tastes even better when made ahead."
-date: "2026-07-30"
+title: Spinach Onion Veg Dish
+category: Sides
+collection: Gail Collection
+source: Unknown
+tags:
+  - gailcollection
+  - spinach
+  - onion
+  - casserole
+  - side dish
+  - frozen vegetables
+description: A comforting vintage side dish featuring frozen spinach bound with creamy sour cream and savory Lipton onion soup mix, topped with crispy onion rings. This easy-to-make casserole is wonderfully rich and tastes even better when made ahead.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Spinach Onion Veg Dish\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-05-27\", \"description\": \"A comforting vintage side dish featuring frozen spinach bound with creamy sour cream and savory Lipton onion soup mix, topped with crispy onion rings.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT20M\", \"totalTime\": \"PT30M\", \"recipeCategory\": \"Sides\", \"recipeCuisine\": \"American\", \"recipeYield\": \"6-8 Servings\", \"recipeIngredient\": [\"3 Packages frozen Spinach\", \"1 Small Carton Sour Cream\", \"1 Package Lipton Onion Soup Mix\", \"1 Small Package frozen Onion Rings\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Cook and drain the three packages frozen spinach.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir one small carton sour cream and one package Lipton onion soup mix together.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir the sour cream mixture into the spinach.\"}, {\"@type\": \"HowToStep\", \"text\": \"Put the spinach mixture into a casserole dish.\"}, {\"@type\": \"HowToStep\", \"text\": \"Place one small package frozen onion rings on top.\"}, {\"@type\": \"HowToStep\", \"text\": \"Heat for about 20 minutes at 350\u00b0F until warm and bubbly.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Spinach Onion Veg Dish", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-05-27", "description": "A comforting vintage side dish featuring frozen spinach bound with creamy sour cream and savory Lipton onion soup mix, topped with crispy onion rings.", "prepTime": "PT10M", "cookTime": "PT20M", "totalTime": "PT30M", "recipeCategory": "Sides", "recipeCuisine": "American", "recipeYield": "6-8 Servings", "recipeIngredient": ["3 Packages frozen Spinach", "1 Small Carton Sour Cream", "1 Package Lipton Onion Soup Mix", "1 Small Package frozen Onion Rings"], "recipeInstructions": [{"@type": "HowToStep", "text": "Cook and drain the three packages frozen spinach."}, {"@type": "HowToStep", "text": "Stir one small carton sour cream and one package Lipton onion soup mix together."}, {"@type": "HowToStep", "text": "Stir the sour cream mixture into the spinach."}, {"@type": "HowToStep", "text": "Put the spinach mixture into a casserole dish."}, {"@type": "HowToStep", "text": "Place one small package frozen onion rings on top."}, {"@type": "HowToStep", "text": "Heat for about 20 minutes at 350°F until warm and bubbly."}]}'
 ---
 
 # Spinach Onion Veg Dish

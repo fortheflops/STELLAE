@@ -1,13 +1,33 @@
 ---
-title: "Miriam Fox's Broccoli Casserole"
-category: "Sides"
-collection: "GailCollection"
-source: "Miriam Fox"
-tags: ["sidedish", "casserole", "comfortfood", "vegetable", "123"]
-description: "A classic and comforting broccoli casserole featuring a rich, homemade Cheez Whiz sauce and a crunchy cracker crumb topping. The beaten eggs give it a light, souffl\u00e9-like texture."
-date: "2026-07-30"
+title: Miriam Fox's Broccoli Casserole
+category: Sides
+collection: GailCollection
+source: Miriam Fox
+tags:
+  - sidedish
+  - casserole
+  - comfortfood
+  - vegetable
+description: A classic and comforting broccoli casserole featuring a rich, homemade Cheez Whiz sauce and a crunchy cracker crumb topping. The beaten eggs give it a light, soufflé-like texture.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Miriam Fox's Broccoli Casserole\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Miriam Fox\"\n  },\n  \"description\": \"A classic and comforting broccoli casserole from Miriam Fox, featuring a rich, homemade Cheez Whiz sauce and a crunchy cracker crumb topping.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT50M\",\n  \"totalTime\": \"PT1H5M\",\n  \"recipeYield\": \"6-8 servings\",\n  \"recipeCategory\": \"Side Dish\",\n  \"recipeCuisine\": \"American\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Miriam Fox's Broccoli Casserole",
+    "author": {
+      "@type": "Person",
+      "name": "Miriam Fox"
+    },
+    "description": "A classic and comforting broccoli casserole from Miriam Fox, featuring a rich, homemade Cheez Whiz sauce and a crunchy cracker crumb topping.",
+    "prepTime": "PT15M",
+    "cookTime": "PT50M",
+    "totalTime": "PT1H5M",
+    "recipeYield": "6-8 servings",
+    "recipeCategory": "Side Dish",
+    "recipeCuisine": "American"
+  }
 ---
 
 # Miriam Fox's Broccoli Casserole

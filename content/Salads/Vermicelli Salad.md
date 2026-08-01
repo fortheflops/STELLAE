@@ -1,13 +1,17 @@
 ---
-title: "Vermicelli Salad"
-category: "Salads"
-collection: "UK3"
-source: "Unknown"
-tags: ["salad", "vermicelli", "pasta", "cold", "123"]
-description: "A delightful chilled pasta salad combining broken vermicelli, crisp vegetables, and a creamy mayonnaise dressing. Perfect for potlucks, this make-ahead dish absorbs vibrant flavors overnight."
-date: "2026-07-30"
+title: Vermicelli Salad
+category: Salads
+collection: UK3
+source: Unknown
+tags:
+  - salad
+  - vermicelli
+  - pasta
+  - cold
+description: A delightful chilled pasta salad combining broken vermicelli, crisp vegetables, and a creamy mayonnaise dressing. Perfect for potlucks, this make-ahead dish absorbs vibrant flavors overnight.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Vermicelli Salad\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-03-28\",\"description\":\"A delightful chilled pasta salad combining broken vermicelli, crisp vegetables, and a creamy mayonnaise dressing.\",\"prepTime\":\"PT30M\",\"cookTime\":\"PT10M\",\"recipeCategory\":\"Salads\",\"recipeYield\":\"8\u201310 Servings\",\"recipeIngredient\":[\"1 lb. Vermicelli\",\"2 T. Lemon Juice\",\"1 T. Accent\",\"4 T. Oil\",\"1 lg. can Black Olives\",\"1 C. Celery\",\"1 med. Bell Pepper\",\"1 med. Onion\",\"1 sm. jar Pimentos\",\"2 C. Mayonnaise\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Cook the vermicelli, drain without rinsing, and break into thirds. While still hot, mix the pasta with lemon juice, Accent, and oil.\"},{\"@type\":\"HowToStep\",\"text\":\"Cover the seasoned pasta mixture and refrigerate overnight.\"},{\"@type\":\"HowToStep\",\"text\":\"Remove from refrigerator and fold in black olives and celery.\"},{\"@type\":\"HowToStep\",\"text\":\"Add the bell pepper, onion, pimentos, and mayonnaise.\"},{\"@type\":\"HowToStep\",\"text\":\"Mix thoroughly until all ingredients are evenly coated and chilled until ready to serve.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Vermicelli Salad","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-03-28","description":"A delightful chilled pasta salad combining broken vermicelli, crisp vegetables, and a creamy mayonnaise dressing.","prepTime":"PT30M","cookTime":"PT10M","recipeCategory":"Salads","recipeYield":"8–10 Servings","recipeIngredient":["1 lb. Vermicelli","2 T. Lemon Juice","1 T. Accent","4 T. Oil","1 lg. can Black Olives","1 C. Celery","1 med. Bell Pepper","1 med. Onion","1 sm. jar Pimentos","2 C. Mayonnaise"],"recipeInstructions":[{"@type":"HowToStep","text":"Cook the vermicelli, drain without rinsing, and break into thirds. While still hot, mix the pasta with lemon juice, Accent, and oil."},{"@type":"HowToStep","text":"Cover the seasoned pasta mixture and refrigerate overnight."},{"@type":"HowToStep","text":"Remove from refrigerator and fold in black olives and celery."},{"@type":"HowToStep","text":"Add the bell pepper, onion, pimentos, and mayonnaise."},{"@type":"HowToStep","text":"Mix thoroughly until all ingredients are evenly coated and chilled until ready to serve."}]}'
 ---
 
 # Vermicelli Salad

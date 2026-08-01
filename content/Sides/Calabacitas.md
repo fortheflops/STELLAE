@@ -1,13 +1,18 @@
 ---
-title: "Calabacitas"
-category: "Sides"
-collection: "UK4 Collection"
-source: "Ana"
-tags: ["sides", "squash", "zucchini", "calabacitas", "mexican", "123"]
-description: "A classic southwestern vegetable side dish featuring saut\u00e9ed yellow squash, zucchini, sweet corn, and mild green chiles. Melted cheese and a splash of cream bind the tender summer vegetables together before serving in warm flour tortillas."
-date: "2026-07-30"
+title: Calabacitas
+category: Sides
+collection: UK4 Collection
+source: Ana
+tags:
+  - sides
+  - squash
+  - zucchini
+  - calabacitas
+  - mexican
+description: A classic southwestern vegetable side dish featuring sautéed yellow squash, zucchini, sweet corn, and mild green chiles. Melted cheese and a splash of cream bind the tender summer vegetables together before serving in warm flour tortillas.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Calabacitas\",\"author\":{\"@type\":\"Person\",\"name\":\"Ana\"},\"description\":\"A classic southwestern vegetable side dish featuring saut\u00e9ed yellow squash, zucchini, sweet corn, and mild green chiles wrapped in warm flour tortillas.\",\"prepTime\":\"PT10M\",\"cookTime\":\"PT15M\",\"totalTime\":\"PT25M\",\"keywords\":\"calabacitas, squash, zucchini, side dish, Mexican\",\"recipeYield\":\"4 Servings\",\"recipeCategory\":\"Sides\",\"recipeIngredient\":[\"2 Tbsp Butter\",\"1 Onion, chopped\",\"2 medium Yellow Squash, diced\",\"2 medium Zucchini Squash, diced\",\"1 Can Corn, drained\",\"1 Can Green Chiles, chopped\",\"1 Dash Half and Half\",\"1 Cup Cheese, grated\",\"4\u20136 Flour Tortilla\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Melt 2 Tbsp butter in a skillet and saute 1 chopped onion until translucent.\"},{\"@type\":\"HowToStep\",\"text\":\"Add 2 medium yellow squash, 2 medium zucchini squash, 1 can corn, 1 can chopped green chiles, and 1 dash half and half.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir until squash softens slightly, top with 1 cup grated cheese, cover, and simmer until melted.\"},{\"@type\":\"HowToStep\",\"text\":\"Wrap in warm flour tortillas to serve.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Calabacitas","author":{"@type":"Person","name":"Ana"},"description":"A classic southwestern vegetable side dish featuring sautéed yellow squash, zucchini, sweet corn, and mild green chiles wrapped in warm flour tortillas.","prepTime":"PT10M","cookTime":"PT15M","totalTime":"PT25M","keywords":"calabacitas, squash, zucchini, side dish, Mexican","recipeYield":"4 Servings","recipeCategory":"Sides","recipeIngredient":["2 Tbsp Butter","1 Onion, chopped","2 medium Yellow Squash, diced","2 medium Zucchini Squash, diced","1 Can Corn, drained","1 Can Green Chiles, chopped","1 Dash Half and Half","1 Cup Cheese, grated","4–6 Flour Tortilla"],"recipeInstructions":[{"@type":"HowToStep","text":"Melt 2 Tbsp butter in a skillet and saute 1 chopped onion until translucent."},{"@type":"HowToStep","text":"Add 2 medium yellow squash, 2 medium zucchini squash, 1 can corn, 1 can chopped green chiles, and 1 dash half and half."},{"@type":"HowToStep","text":"Stir until squash softens slightly, top with 1 cup grated cheese, cover, and simmer until melted."},{"@type":"HowToStep","text":"Wrap in warm flour tortillas to serve."}]}'
 ---
 
 # Calabacitas

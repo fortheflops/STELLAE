@@ -1,13 +1,17 @@
 ---
-title: "Teriyaki Sauce"
-category: "Sauces"
-collection: "Gail Collection"
-source: "Rick & Joy Gay"
-tags: ["sauce", "teriyaki", "marinade", "123", "gailcollection"]
-description: "A classic, versatile homemade teriyaki sauce perfect for marinating meats. This simple blend of brown sugar, soy sauce, and aromatics delivers a deep, savory-sweet flavor profile."
-date: "2026-07-30"
+title: Teriyaki Sauce
+category: Sauces
+collection: Gail Collection
+source: Rick & Joy Gay
+tags:
+  - sauce
+  - teriyaki
+  - marinade
+  - gailcollection
+description: A classic, versatile homemade teriyaki sauce perfect for marinating meats. This simple blend of brown sugar, soy sauce, and aromatics delivers a deep, savory-sweet flavor profile.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Teriyaki Sauce\", \"author\": {\"@type\": \"Person\", \"name\": \"Rick & Joy Gay\"}, \"description\": \"A classic, versatile homemade teriyaki sauce perfect for marinating meats.\", \"prepTime\": \"PT5M\", \"recipeYield\": \"3.5 Cups\", \"recipeIngredient\": [\"1 Cup Brown Sugar\", \"1 Cup Soy Sauce\", \"1 Cup Water\", \"1/2 Cup Vegetable Oil\", \"1 Teaspoon Lemon Juice\", \"1/2 Teaspoon Pepper\", \"1/2 Teaspoon Ground Ginger\", \"1/2 Teaspoon Garlic Salt\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Mix all ingredients together in a bowl until the sugar is dissolved.\"}, {\"@type\": \"HowToStep\", \"text\": \"Use as a marinade for chicken, steak, or pork, ideally for 24 hours.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Teriyaki Sauce", "author": {"@type": "Person", "name": "Rick & Joy Gay"}, "description": "A classic, versatile homemade teriyaki sauce perfect for marinating meats.", "prepTime": "PT5M", "recipeYield": "3.5 Cups", "recipeIngredient": ["1 Cup Brown Sugar", "1 Cup Soy Sauce", "1 Cup Water", "1/2 Cup Vegetable Oil", "1 Teaspoon Lemon Juice", "1/2 Teaspoon Pepper", "1/2 Teaspoon Ground Ginger", "1/2 Teaspoon Garlic Salt"], "recipeInstructions": [{"@type": "HowToStep", "text": "Mix all ingredients together in a bowl until the sugar is dissolved."}, {"@type": "HowToStep", "text": "Use as a marinade for chicken, steak, or pork, ideally for 24 hours."}]}'
 ---
 
 # Teriyaki Sauce

@@ -1,13 +1,54 @@
 ---
-title: "Berry Sauce"
-category: "Sauces"
-collection: "UK2"
-source: "Unknown"
-tags: ["sauces", "berry", "desserttoppings", "123"]
-description: "A smooth and tangy berry sauce thickened with cornstarch and folded into rich sour cream. Perfect for drizzling over desserts or breakfast treats."
-date: "2026-07-30"
+title: Berry Sauce
+category: Sauces
+collection: UK2
+source: Unknown
+tags:
+  - sauces
+  - berry
+  - desserttoppings
+description: A smooth and tangy berry sauce thickened with cornstarch and folded into rich sour cream. Perfect for drizzling over desserts or breakfast treats.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Berry Sauce\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-03-02\",\n  \"description\": \"A smooth and tangy berry sauce thickened with cornstarch and folded into rich sour cream.\",\n  \"prepTime\": \"PT5M\",\n  \"cookTime\": \"PT10M\",\n  \"recipeCategory\": \"Sauces\",\n  \"recipeYield\": \"4-6 Servings\",\n  \"recipeIngredient\": [\n    \"3/4 Cup [[Berry Juice]]\",\n    \"1/2 Cup [[Sour Cream]]\",\n    \"2 Teaspoons [[Cornstarch]]\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine 3/4 cup berry juice and 2 teaspoons cornstarch in saucepan, mixing until smooth.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook over medium heat, stirring constantly until mixture thickens and loses starchy taste.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Chill thoroughly.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"When ready to serve, fold juice into 1/2 cup sour cream.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Berry Sauce",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-03-02",
+    "description": "A smooth and tangy berry sauce thickened with cornstarch and folded into rich sour cream.",
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "recipeCategory": "Sauces",
+    "recipeYield": "4-6 Servings",
+    "recipeIngredient": [
+      "3/4 Cup [[Berry Juice]]",
+      "1/2 Cup [[Sour Cream]]",
+      "2 Teaspoons [[Cornstarch]]"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine 3/4 cup berry juice and 2 teaspoons cornstarch in saucepan, mixing until smooth."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook over medium heat, stirring constantly until mixture thickens and loses starchy taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chill thoroughly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When ready to serve, fold juice into 1/2 cup sour cream."
+      }
+    ]
+  }
 ---
 
 # Berry Sauce

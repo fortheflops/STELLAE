@@ -1,13 +1,48 @@
 ---
-title: "Hyden Salad"
-category: "Salads"
-collection: "UK2"
-source: "Ruth Miller"
-tags: ["salad", "cabbagesalad", "123", "cabbage", "tomatoes"]
-description: "A traditional, large-batch spiced cabbage and tomato salad recipe handed down by Ruth Miller. This vintage preserve-style salad features warm spices and a tangy vinegar base."
-date: "2026-07-30"
+title: Hyden Salad
+category: Salads
+collection: UK2
+source: Ruth Miller
+tags:
+  - salad
+  - cabbagesalad
+  - cabbage
+  - tomatoes
+description: A traditional, large-batch spiced cabbage and tomato salad recipe handed down by Ruth Miller. This vintage preserve-style salad features warm spices and a tangy vinegar base.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Hyden Salad\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Ruth Miller\"\n  },\n  \"description\": \"A traditional, large-batch spiced cabbage and tomato salad recipe handed down by Ruth Miller.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT25M\",\n  \"recipeYield\": \"20\u201324 Servings\",\n  \"recipeCategory\": \"Salads\",\n  \"recipeIngredient\": [\n    \"1 gal Ground Cabbage\",\n    \"1/2 gal Tomatoes, Firm but Turning\",\n    \"3 Tbsp White Mustard Seed\",\n    \"1 1/2 Tbsp Ground Cinnamon\",\n    \"1 1/2 Tsp Ground Cloves\",\n    \"2 Tbsp Celery Seed\",\n    \"2 Tbsp Salt\",\n    \"1 1/2 cups Brown Sugar\",\n    \"1/2 gal Vinegar\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large stockpot, combine the ground cabbage, tomatoes, white mustard seed, ground cinnamon, ground cloves, celery seed, salt, brown sugar, and vinegar. Bring the mixture to a boil and cook for 25 mins until tender and fragrant.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Hyden Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Ruth Miller"
+    },
+    "description": "A traditional, large-batch spiced cabbage and tomato salad recipe handed down by Ruth Miller.",
+    "prepTime": "PT30M",
+    "cookTime": "PT25M",
+    "recipeYield": "20–24 Servings",
+    "recipeCategory": "Salads",
+    "recipeIngredient": [
+      "1 gal Ground Cabbage",
+      "1/2 gal Tomatoes, Firm but Turning",
+      "3 Tbsp White Mustard Seed",
+      "1 1/2 Tbsp Ground Cinnamon",
+      "1 1/2 Tsp Ground Cloves",
+      "2 Tbsp Celery Seed",
+      "2 Tbsp Salt",
+      "1 1/2 cups Brown Sugar",
+      "1/2 gal Vinegar"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a large stockpot, combine the ground cabbage, tomatoes, white mustard seed, ground cinnamon, ground cloves, celery seed, salt, brown sugar, and vinegar. Bring the mixture to a boil and cook for 25 mins until tender and fragrant."
+      }
+    ]
+  }
 ---
 
 # Hyden Salad

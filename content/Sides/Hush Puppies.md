@@ -1,13 +1,60 @@
 ---
-title: "Hush Puppies"
-category: "Sides"
-collection: "UK2"
-source: "Unknown"
-tags: ["fried", "cornmeal", "southern", "123"]
-description: "Crispy golden-brown southern hush puppies made with cornmeal, onion, and red pepper. Perfectly fried for a delicious savory side dish."
-date: "2026-07-30"
+title: Hush Puppies
+category: Sides
+collection: UK2
+source: Unknown
+tags:
+  - fried
+  - cornmeal
+  - southern
+description: Crispy golden-brown southern hush puppies made with cornmeal, onion, and red pepper. Perfectly fried for a delicious savory side dish.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Hush Puppies\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"Crispy golden-brown southern hush puppies made with cornmeal, onion, and red pepper.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT10M\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeCuisine\": \"Southern\",\n  \"recipeYield\": \"4-6 Servings\",\n  \"recipeIngredient\": [\n    \"1 Cup Cornmeal\",\n    \"1/3 Cup Flour\",\n    \"1 1/2 tsp Salt\",\n    \"1/2 tsp Red Pepper\",\n    \"1 Onion\",\n    \"1 Egg\",\n    \"Pinch Baking Powder\",\n    \"Sweet Milk\",\n    \"Oil for frying\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, whisk together the cornmeal, flour, salt, red pepper, and baking powder.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the chopped onion and egg to the dry ingredients, then gradually stir in sweet milk until the batter will almost drip from a spoon.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Heat oil to 350\u00b0F in a deep fryer or large heavy pot.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drop rounded tablespoons of batter into the hot oil and fry for 2-3 minutes until golden brown.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Hush Puppies",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "Crispy golden-brown southern hush puppies made with cornmeal, onion, and red pepper.",
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "Southern",
+    "recipeYield": "4-6 Servings",
+    "recipeIngredient": [
+      "1 Cup Cornmeal",
+      "1/3 Cup Flour",
+      "1 1/2 tsp Salt",
+      "1/2 tsp Red Pepper",
+      "1 Onion",
+      "1 Egg",
+      "Pinch Baking Powder",
+      "Sweet Milk",
+      "Oil for frying"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, whisk together the cornmeal, flour, salt, red pepper, and baking powder."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped onion and egg to the dry ingredients, then gradually stir in sweet milk until the batter will almost drip from a spoon."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat oil to 350°F in a deep fryer or large heavy pot."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drop rounded tablespoons of batter into the hot oil and fry for 2-3 minutes until golden brown."
+      }
+    ]
+  }
 ---
 
 # Hush Puppies

@@ -1,13 +1,17 @@
 ---
-title: "Vanilla Sauce"
-category: "Sauces"
-collection: "UK2"
-source: "Unknown"
-tags: ["sauce", "vanilla", "dessert", "123", "sweet"]
-description: "A classic, silky vanilla sauce perfect for drizzling over warm puddings and desserts. This simple stovetop recipe uses cornstarch for a smooth, thickened consistency."
-date: "2026-07-30"
+title: Vanilla Sauce
+category: Sauces
+collection: UK2
+source: Unknown
+tags:
+  - sauce
+  - vanilla
+  - dessert
+  - sweet
+description: A classic, silky vanilla sauce perfect for drizzling over warm puddings and desserts. This simple stovetop recipe uses cornstarch for a smooth, thickened consistency.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Vanilla Sauce\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"1 Cup Sugar\", \"1/4 tsp Nutmeg\", \"1 tsp Vanilla\", \"2 Tbsp Cornstarch\", \"2 Tbsp Butter\", \"3 Cups Cold Water\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine all ingredients in a saucepan with cold water. Boil while whisking until smooth and thickened.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Vanilla Sauce", "recipeCategory": "Sauces", "recipeIngredient": ["1 Cup Sugar", "1/4 tsp Nutmeg", "1 tsp Vanilla", "2 Tbsp Cornstarch", "2 Tbsp Butter", "3 Cups Cold Water"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine all ingredients in a saucepan with cold water. Boil while whisking until smooth and thickened."}]}'
 ---
 
 # Vanilla Sauce

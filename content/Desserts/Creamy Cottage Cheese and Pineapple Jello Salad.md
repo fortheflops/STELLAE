@@ -1,13 +1,18 @@
 ---
-title: "Creamy Cottage Cheese and Pineapple Jello Salad"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "jello", "salad", "123", "nobake", "fruit"]
-description: "A classic no-bake fluff salad featuring a clever shortcut of mixing dry gelatin powder directly into a creamy base of cottage cheese and pineapple. This tangy, sweet treat sets up in the refrigerator for a refreshing dessert."
-date: "2026-07-30"
+title: Creamy Cottage Cheese and Pineapple Jello Salad
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - jello
+  - salad
+  - nobake
+  - fruit
+description: A classic no-bake fluff salad featuring a clever shortcut of mixing dry gelatin powder directly into a creamy base of cottage cheese and pineapple. This tangy, sweet treat sets up in the refrigerator for a refreshing dessert.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Creamy Cottage Cheese and Pineapple Jello Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic no-bake fluff salad featuring a clever shortcut of mixing dry gelatin powder directly into a creamy base of cottage cheese and pineapple.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT10M\", \"recipeYield\": \"8 servings\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"2 Cups Cottage Cheese\", \"2 Cups Pineapple Bits\", \"2 Cups Cool Whip\", \"1 Pkg. Dry Jello\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine cottage cheese, pineapple, and Cool Whip in a bowl.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in dry Jello powder until fully incorporated.\"}, {\"@type\": \"HowToStep\", \"text\": \"Chill for 2-4 hours until set.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Creamy Cottage Cheese and Pineapple Jello Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic no-bake fluff salad featuring a clever shortcut of mixing dry gelatin powder directly into a creamy base of cottage cheese and pineapple.", "prepTime": "PT10M", "cookTime": "PT0M", "totalTime": "PT10M", "recipeYield": "8 servings", "recipeCategory": "Desserts", "recipeIngredient": ["2 Cups Cottage Cheese", "2 Cups Pineapple Bits", "2 Cups Cool Whip", "1 Pkg. Dry Jello"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine cottage cheese, pineapple, and Cool Whip in a bowl."}, {"@type": "HowToStep", "text": "Stir in dry Jello powder until fully incorporated."}, {"@type": "HowToStep", "text": "Chill for 2-4 hours until set."}]}'
 ---
 
 # Creamy Cottage Cheese and Pineapple Jello Salad

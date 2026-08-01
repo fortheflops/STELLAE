@@ -1,13 +1,41 @@
 ---
-title: "Hot Dog Topping"
-category: "Sauces"
-collection: "LouiseCollection"
-source: "Unknown"
-tags: ["topping", "hotdog", "condiment", "louisecollection", "123"]
-description: "A unique vintage condiment featuring a tangy blend of sauerkraut, green onions, and apples. Perfect for elevating classic hot dogs with a crisp and savory crunch."
-date: "2026-07-30"
+title: Hot Dog Topping
+category: Sauces
+collection: LouiseCollection
+source: Unknown
+tags:
+  - topping
+  - hotdog
+  - condiment
+  - louisecollection
+description: A unique vintage condiment featuring a tangy blend of sauerkraut, green onions, and apples. Perfect for elevating classic hot dogs with a crisp and savory crunch.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Hot Dog Topping\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A unique vintage condiment featuring a tangy blend of sauerkraut, green onions, and apples. Perfect for elevating classic hot dogs with a crisp and savory crunch.\",\n  \"prepTime\": \"PT10M\",\n  \"recipeCategory\": \"Sauces\",\n  \"recipeYield\": \"4\u20136 Servings\",\n  \"recipeIngredient\": [\n    \"Sauerkraut\",\n    \"Green Onions\",\n    \"Apple\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a mixing bowl, combine the sauerkraut, green onions, and apple until evenly distributed and well mixed.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Hot Dog Topping",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A unique vintage condiment featuring a tangy blend of sauerkraut, green onions, and apples. Perfect for elevating classic hot dogs with a crisp and savory crunch.",
+    "prepTime": "PT10M",
+    "recipeCategory": "Sauces",
+    "recipeYield": "4–6 Servings",
+    "recipeIngredient": [
+      "Sauerkraut",
+      "Green Onions",
+      "Apple"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, combine the sauerkraut, green onions, and apple until evenly distributed and well mixed."
+      }
+    ]
+  }
 ---
 
 # Hot Dog Topping

@@ -1,13 +1,17 @@
 ---
-title: "Classic Meringue Topping for Pies"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["meringue", "topping", "pie", "dessert", "123"]
-description: "A classic and simple recipe for a light, airy, and glossy meringue topping. Perfect for piling high on your favorite cream or custard pies and baking until golden brown."
-date: "2026-07-30"
+title: Classic Meringue Topping for Pies
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - meringue
+  - topping
+  - pie
+  - dessert
+description: A classic and simple recipe for a light, airy, and glossy meringue topping. Perfect for piling high on your favorite cream or custard pies and baking until golden brown.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Meringue Topping for Pies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT10M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"Topping for one 9-inch pie\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"3 Egg Whites\", \"3/8 Teaspoon Cream of Tartar\", \"6 Tablespoons Sugar\", \"1/2 Teaspoon Vanilla\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Meringue Topping for Pies", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT10M", "cookTime": "PT10M", "recipeYield": "Topping for one 9-inch pie", "recipeCategory": "Dessert", "recipeIngredient": ["3 Egg Whites", "3/8 Teaspoon Cream of Tartar", "6 Tablespoons Sugar", "1/2 Teaspoon Vanilla"]}'
 ---
 
 # Classic Meringue Topping for Pies

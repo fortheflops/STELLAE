@@ -1,13 +1,16 @@
 ---
-title: "Brandied Hard Sauce"
-category: "Sauces"
-collection: "UK2"
-source: "Unknown"
-tags: ["hardsauce", "123", "holiday", "desserttopping"]
-description: "A classic, rich, and creamy brandy-infused sauce perfect for drizzling over holiday puddings and cakes. This vintage recipe yields a velvety texture that elevates any traditional dessert."
-date: "2026-07-30"
+title: Brandied Hard Sauce
+category: Sauces
+collection: UK2
+source: Unknown
+tags:
+  - hardsauce
+  - holiday
+  - desserttopping
+description: A classic, rich, and creamy brandy-infused sauce perfect for drizzling over holiday puddings and cakes. This vintage recipe yields a velvety texture that elevates any traditional dessert.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Brandied Hard Sauce\", \"recipeIngredient\": [\"1/2 Cup Butter\", \"2 Cups Powdered Sugar\", \"1 Egg Yolk\", \"2 Tbsp Brandy\", \"1/2 tsp Vanilla\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Cream butter and gradually add sugar until light and fluffy.\"}, {\"@type\": \"HowToStep\", \"text\": \"Mix in egg yolk, brandy, and vanilla until smooth.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Brandied Hard Sauce", "recipeIngredient": ["1/2 Cup Butter", "2 Cups Powdered Sugar", "1 Egg Yolk", "2 Tbsp Brandy", "1/2 tsp Vanilla"], "recipeInstructions": [{"@type": "HowToStep", "text": "Cream butter and gradually add sugar until light and fluffy."}, {"@type": "HowToStep", "text": "Mix in egg yolk, brandy, and vanilla until smooth."}]}'
 ---
 
 # Brandied Hard Sauce

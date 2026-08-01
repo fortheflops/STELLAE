@@ -1,11 +1,15 @@
 ---
-title: "Classic Decorator's Frosting (Royal Icing)"
-category: "Sauces"
-collection: "Jill's Collection"
-source: "Unknown"
-tags: ["frosting", "royalicing", "baking", "decorating", "123"]
-description: "A stiff, classic decorator's frosting that dries to a hard finish, perfect for intricate piping work. This recipe creates a glossy, stable icing ideal for detailed cookie and cake decorations."
-date: "2026-07-30"
+title: Classic Decorator's Frosting (Royal Icing)
+category: Sauces
+collection: Jill's Collection
+source: Unknown
+tags:
+  - frosting
+  - royalicing
+  - baking
+  - decorating
+description: A stiff, classic decorator's frosting that dries to a hard finish, perfect for intricate piping work. This recipe creates a glossy, stable icing ideal for detailed cookie and cake decorations.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Decorator's Frosting (Royal Icing)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A stiff, classic decorator's frosting that dries to a hard finish, perfect for intricate piping work.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"1 cup\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"1 1/4 cups Confectioners Sugar\", \"1/8 teaspoon Cream of Tartar\", \"1 large Egg White\"]}"
 ---

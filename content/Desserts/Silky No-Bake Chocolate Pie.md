@@ -1,11 +1,15 @@
 ---
-title: "Silky No-Bake Chocolate Pie"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["dessert", "pie", "chocolate", "nobake", "123"]
+title: Silky No-Bake Chocolate Pie
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - dessert
+  - pie
+  - chocolate
+  - nobake
 description: "A wonderfully simple and rich no-bake chocolate pie with a unique cooking method that creates a silky, decadent filling from just three ingredients: dark chocolate, sweetened condensed milk, and water."
-date: "2026-07-30"
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Silky No-Bake Chocolate Pie\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-13\", \"description\": \"A wonderfully simple and rich no-bake chocolate pie with a unique cooking method that creates a silky, decadent filling from just three ingredients: dark chocolate, sweetened condensed milk, and water.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Chocolate%20Pie/Assets/2025-04-20_091551.webp\", \"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Chocolate%20Pie/Assets/2025-04-20_091654%20(2).webp\"], \"prepTime\": \"PT10M\", \"cookTime\": \"PT10M\", \"totalTime\": \"PT20M\", \"recipeYield\": \"One 9-inch pie\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 can Sweetened Condensed Milk (e.g., Eagle Brand)\", \"1 bar Dark Chocolate (e.g., Hershey's, approx 4 oz)\", \"1/2 Cup Tap Water\", \"1 (9-inch) Baked Pie Shell\", \"Whipped Cream (for topping, optional)\", \"Extra Dark Chocolate for shaving (optional)\"], \"recipeInstructions\": [{\"@context\": \"https://schema.org/\", \"@type\": \"HowToStep\", \"text\": \"Break the dark chocolate bar into pieces and melt it in a medium saucepan over low heat, stirring until smooth.\"}, {\"@context\": \"https://schema.org/\", \"@type\": \"HowToStep\", \"text\": \"Add the entire can of sweetened condensed milk to the melted chocolate.\"}, {\"@context\": \"https://schema.org/\", \"@type\": \"HowToStep\", \"text\": \"Cook over medium heat, stirring constantly, until the mixture thickens and becomes 'lumpy' or very thick.\"}, {\"@context\": \"https://schema.org/\", \"@type\": \"HowToStep\", \"text\": \"As soon as the mixture thickens, remove the saucepan from the heat and immediately pour in the 1/2 cup of water.\"}, {\"@context\": \"https://schema.org/\", \"@type\": \"HowToStep\", \"text\": \"Stir the mixture vigorously until it becomes completely smooth and silky.\"}, {\"@context\": \"https://schema.org/\", \"@type\": \"HowToStep\", \"text\": \"Pour the smooth chocolate filling into the pre-baked 9-inch pie shell and spread evenly.\"}, {\"@context\": \"https://schema.org/\", \"@type\": \"HowToStep\", \"text\": \"Chill the pie in the refrigerator for at least 4 hours, or until the filling is completely set.\"}, {\"@context\": \"https://schema.org/\", \"@type\": \"HowToStep\", \"text\": \"Top with whipped cream and chocolate shavings before serving, if desired.\"}]}"
 ---

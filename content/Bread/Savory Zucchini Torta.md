@@ -1,13 +1,18 @@
 ---
-title: "Savory Zucchini Torta"
-category: "Bread"
-collection: "Unknown Two"
-source: "Unknown"
-tags: ["bread", "savory", "zucchini", "torta", "bisquick", "123"]
-description: "A simple and savory crustless pie made with grated zucchini, onion, and Parmesan cheese held together with a Bisquick batter. Perfect as a side dish, appetizer, or light lunch."
-date: "2026-07-30"
+title: Savory Zucchini Torta
+category: Bread
+collection: Unknown Two
+source: Unknown
+tags:
+  - bread
+  - savory
+  - zucchini
+  - torta
+  - bisquick
+description: A simple and savory crustless pie made with grated zucchini, onion, and Parmesan cheese held together with a Bisquick batter. Perfect as a side dish, appetizer, or light lunch.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Savory Zucchini Torta\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A simple and savory baked zucchini pie made with Bisquick, Parmesan cheese, and onion.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT40M\", \"totalTime\": \"PT55M\", \"recipeYield\": \"8 servings\", \"recipeCategory\": \"Side Dish\", \"recipeIngredient\": [\"2 cups grated zucchini, squeezed dry\", \"1 cup Bisquick baking mix\", \"1/2 cup grated Parmesan cheese\", \"1 cup chopped onion\", \"4 large eggs\", \"1/4 cup vegetable oil\", \"1 tablespoon parsley\", \"Salt and pepper to taste\", \"Extra Parmesan cheese and paprika for topping\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 350\u00b0F. Grease a 9-inch pie plate.\"}, {\"@type\": \"HowToStep\", \"text\": \"Place the grated zucchini in a clean kitchen towel and squeeze to remove as much excess moisture as possible.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a large bowl, combine the squeezed zucchini, Bisquick, 1/2 cup Parmesan cheese, chopped onion, eggs, oil, parsley, salt, and pepper. Mix until just combined.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour the mixture into the prepared pie plate and spread evenly.\"}, {\"@type\": \"HowToStep\", \"text\": \"Sprinkle the top with extra Parmesan cheese and a dash of paprika.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake for 40 minutes, or until golden brown and a knife inserted into the center comes out clean.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Savory Zucchini Torta", "author": {"@type": "Person", "name": "Unknown"}, "description": "A simple and savory baked zucchini pie made with Bisquick, Parmesan cheese, and onion.", "prepTime": "PT15M", "cookTime": "PT40M", "totalTime": "PT55M", "recipeYield": "8 servings", "recipeCategory": "Side Dish", "recipeIngredient": ["2 cups grated zucchini, squeezed dry", "1 cup Bisquick baking mix", "1/2 cup grated Parmesan cheese", "1 cup chopped onion", "4 large eggs", "1/4 cup vegetable oil", "1 tablespoon parsley", "Salt and pepper to taste", "Extra Parmesan cheese and paprika for topping"], "recipeInstructions": [{"@type": "HowToStep", "text": "Preheat oven to 350°F. Grease a 9-inch pie plate."}, {"@type": "HowToStep", "text": "Place the grated zucchini in a clean kitchen towel and squeeze to remove as much excess moisture as possible."}, {"@type": "HowToStep", "text": "In a large bowl, combine the squeezed zucchini, Bisquick, 1/2 cup Parmesan cheese, chopped onion, eggs, oil, parsley, salt, and pepper. Mix until just combined."}, {"@type": "HowToStep", "text": "Pour the mixture into the prepared pie plate and spread evenly."}, {"@type": "HowToStep", "text": "Sprinkle the top with extra Parmesan cheese and a dash of paprika."}, {"@type": "HowToStep", "text": "Bake for 40 minutes, or until golden brown and a knife inserted into the center comes out clean."}]}'
 ---
 
 # Savory Zucchini Torta

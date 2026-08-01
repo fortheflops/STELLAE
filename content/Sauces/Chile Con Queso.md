@@ -1,13 +1,17 @@
 ---
-title: "Chile Con Queso"
-category: "Sauces"
-collection: "UK2"
-source: "Unknown"
-tags: ["sauce", "chileconqueso", "appetizer", "dip", "123"]
-description: "A classic, creamy Chile Con Queso dip featuring a savory blend of onions, garlic, chiles, and melted cheese. This vintage recipe is perfect for parties and gatherings."
-date: "2026-07-30"
+title: Chile Con Queso
+category: Sauces
+collection: UK2
+source: Unknown
+tags:
+  - sauce
+  - chileconqueso
+  - appetizer
+  - dip
+description: A classic, creamy Chile Con Queso dip featuring a savory blend of onions, garlic, chiles, and melted cheese. This vintage recipe is perfect for parties and gatherings.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Chile Con Queso\", \"recipeCategory\": \"Sauces\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT15M\", \"recipeIngredient\": [\"2 Cups Onions, diced\", \"8 Cloves Garlic, minced\", \"Grease\", \"3 Cans Chili, chopped\", \"1 Can Tomatoes, drained\", \"2 Pounds Velveeta Cheese\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Fry onions and garlic in grease until clear.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add chili and tomatoes, then stir in Velveeta until melted and smooth.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Chile Con Queso", "recipeCategory": "Sauces", "prepTime": "PT10M", "cookTime": "PT15M", "recipeIngredient": ["2 Cups Onions, diced", "8 Cloves Garlic, minced", "Grease", "3 Cans Chili, chopped", "1 Can Tomatoes, drained", "2 Pounds Velveeta Cheese"], "recipeInstructions": [{"@type": "HowToStep", "text": "Fry onions and garlic in grease until clear."}, {"@type": "HowToStep", "text": "Add chili and tomatoes, then stir in Velveeta until melted and smooth."}]}'
 ---
 
 # Chile Con Queso

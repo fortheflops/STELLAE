@@ -1,13 +1,17 @@
 ---
-title: "Noodle Pudding A La Martha"
-category: "Sides"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["jillcollection", "noodles", "pudding", "123", "casserole"]
-description: "A classic baked noodle pudding featuring creamy cottage cheese, whipped egg whites, and a hint of lemon, baked until golden and bubbling."
-date: "2026-07-30"
+title: Noodle Pudding A La Martha
+category: Sides
+collection: Jill Collection
+source: Unknown
+tags:
+  - jillcollection
+  - noodles
+  - pudding
+  - casserole
+description: A classic baked noodle pudding featuring creamy cottage cheese, whipped egg whites, and a hint of lemon, baked until golden and bubbling.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Noodle Pudding a la Martha\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-08-02\", \"description\": \"A classic baked noodle pudding featuring creamy cottage cheese, whipped egg whites, and a hint of lemon, baked until golden and bubbling.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT45M\", \"recipeYield\": \"6-8 Servings\", \"recipeCategory\": \"Sides\", \"recipeIngredient\": [\"1 pint Cottage Cheese\", \"1 package Noodles\", \"3 Eggs\", \"1 Lemon\", \"Sugar\", \"Cinnamon\", \"1 pinch Salt\", \"Butter\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to between 375\u00b0F and 400\u00b0F and generously butter a Pyrex pan.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook noodles according to package directions and drain.\"}, {\"@type\": \"HowToStep\", \"text\": \"Separate the eggs. Mix cottage cheese, lemon juice, lemon rind, sugar, salt, and cinnamon in a large bowl.\"}, {\"@type\": \"HowToStep\", \"text\": \"Beat egg yolks, stir into the cheese mixture, then fold in the cooked noodles.\"}, {\"@type\": \"HowToStep\", \"text\": \"Beat egg whites until stiff peaks form and gently fold into the noodle mixture.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour into the prepared pan and bake until the top is browned.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Noodle Pudding a la Martha", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-08-02", "description": "A classic baked noodle pudding featuring creamy cottage cheese, whipped egg whites, and a hint of lemon, baked until golden and bubbling.", "prepTime": "PT20M", "cookTime": "PT45M", "recipeYield": "6-8 Servings", "recipeCategory": "Sides", "recipeIngredient": ["1 pint Cottage Cheese", "1 package Noodles", "3 Eggs", "1 Lemon", "Sugar", "Cinnamon", "1 pinch Salt", "Butter"], "recipeInstructions": [{"@type": "HowToStep", "text": "Preheat oven to between 375°F and 400°F and generously butter a Pyrex pan."}, {"@type": "HowToStep", "text": "Cook noodles according to package directions and drain."}, {"@type": "HowToStep", "text": "Separate the eggs. Mix cottage cheese, lemon juice, lemon rind, sugar, salt, and cinnamon in a large bowl."}, {"@type": "HowToStep", "text": "Beat egg yolks, stir into the cheese mixture, then fold in the cooked noodles."}, {"@type": "HowToStep", "text": "Beat egg whites until stiff peaks form and gently fold into the noodle mixture."}, {"@type": "HowToStep", "text": "Pour into the prepared pan and bake until the top is browned."}]}'
 ---
 
 # Noodle Pudding A La Martha

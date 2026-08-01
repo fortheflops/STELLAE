@@ -1,13 +1,45 @@
 ---
-title: "Midge's Scalloped Potatoes"
-category: "Sides"
-collection: "UK5"
-source: "Midge Robertson"
-tags: ["sidedish", "123", "potatoes", "comfortfood", "casserole"]
-description: "A classic, comforting vintage recipe for scalloped potatoes layered with butter, flour, and milk until tender and golden brown. Perfect as a rich and creamy side dish for any hearty family meal."
-date: "2026-07-30"
+title: Midge's Scalloped Potatoes
+category: Sides
+collection: UK5
+source: Midge Robertson
+tags:
+  - sidedish
+  - potatoes
+  - comfortfood
+  - casserole
+description: A classic, comforting vintage recipe for scalloped potatoes layered with butter, flour, and milk until tender and golden brown. Perfect as a rich and creamy side dish for any hearty family meal.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Midge's Scalloped Potatoes\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Midge Robertson\"\n  },\n  \"description\": \"A classic, comforting vintage recipe for scalloped potatoes layered with butter, flour, and milk until tender and golden brown.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H\",\n  \"recipeYield\": \"6-8 Servings\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeIngredient\": [\n    \"2 Potatoes\",\n    \"Flour\",\n    \"Salt\",\n    \"Pepper\",\n    \"Butter\",\n    \"Milk\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat the oven to 350\u00b0F to 375\u00b0F. In a well-buttered baking pan, place a single layer of thinly sliced potatoes. Lightly sprinkle with flour, salt, and pepper, and dot with butter. Continue layering, leaving the top layer unfloured, then pour milk until 2/3 full and bake until tender and golden brown.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Midge's Scalloped Potatoes",
+    "author": {
+      "@type": "Person",
+      "name": "Midge Robertson"
+    },
+    "description": "A classic, comforting vintage recipe for scalloped potatoes layered with butter, flour, and milk until tender and golden brown.",
+    "prepTime": "PT20M",
+    "cookTime": "PT1H",
+    "recipeYield": "6-8 Servings",
+    "recipeCategory": "Sides",
+    "recipeIngredient": [
+      "2 Potatoes",
+      "Flour",
+      "Salt",
+      "Pepper",
+      "Butter",
+      "Milk"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 350°F to 375°F. In a well-buttered baking pan, place a single layer of thinly sliced potatoes. Lightly sprinkle with flour, salt, and pepper, and dot with butter. Continue layering, leaving the top layer unfloured, then pour milk until 2/3 full and bake until tender and golden brown."
+      }
+    ]
+  }
 ---
 
 # Midge's Scalloped Potatoes

@@ -1,13 +1,49 @@
 ---
-title: "Classic French Quarter Style Beignets"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "pastries", "doughnuts", "cajun", "123", "fried"]
-description: "A classic recipe for light, airy, and pillowy beignets made with a simple choux pastry. These deep-fried doughnuts are generously dusted with powdered sugar and best served warm."
-date: "2026-07-30"
+title: Classic French Quarter Style Beignets
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - pastries
+  - doughnuts
+  - cajun
+  - fried
+description: A classic recipe for light, airy, and pillowy beignets made with a simple choux pastry. These deep-fried doughnuts are generously dusted with powdered sugar and best served warm.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Classic French Quarter Style Beignets\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-13\",\n  \"description\": \"A classic recipe for light, airy, and pillowy beignets. Made with a simple choux pastry, these deep-fried doughnuts are generously dusted with powdered sugar and best served warm.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Pastries/Doughnuts/Assets/Handwritten_2025-02-10_101408.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Pastries/Doughnuts/Assets/Handwritten_2025-02-10_101458%20(2).webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT15M\",\n  \"totalTime\": \"PT35M\",\n  \"recipeYield\": \"12-18 beignets\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"Cajun\",\n  \"recipeIngredient\": [\n    \"1 Stick (1/2 cup) Butter\",\n    \"1 Cup Water\",\n    \"2 Teaspoons Sugar\",\n    \"1 Cup Cake Flour\",\n    \"2 Large Eggs\",\n    \"1 Large Egg Yolk\",\n    \"Vegetable Oil or Shortening, for frying\",\n    \"Confectioners' Sugar, for dusting\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Classic French Quarter Style Beignets",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-13",
+    "description": "A classic recipe for light, airy, and pillowy beignets. Made with a simple choux pastry, these deep-fried doughnuts are generously dusted with powdered sugar and best served warm.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Pastries/Doughnuts/Assets/Handwritten_2025-02-10_101408.webp",
+      "https://cucinamezzaluna.com/Desserts/Pastries/Doughnuts/Assets/Handwritten_2025-02-10_101458%20(2).webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT15M",
+    "totalTime": "PT35M",
+    "recipeYield": "12-18 beignets",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "Cajun",
+    "recipeIngredient": [
+      "1 Stick (1/2 cup) Butter",
+      "1 Cup Water",
+      "2 Teaspoons Sugar",
+      "1 Cup Cake Flour",
+      "2 Large Eggs",
+      "1 Large Egg Yolk",
+      "Vegetable Oil or Shortening, for frying",
+      "Confectioners' Sugar, for dusting"
+    ]
+  }
 ---
 
 # Classic French Quarter Style Beignets

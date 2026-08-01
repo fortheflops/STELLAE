@@ -1,13 +1,17 @@
 ---
-title: "Classic Stovetop Lemon Curd"
-category: "Sauces"
-collection: "General Archive"
-source: "Unknown"
-tags: ["dessert", "sauce", "lemon", "curd", "123"]
-description: "A classic recipe for a rich and tangy lemon curd made directly on the stovetop. A simple but decadent filling for tarts or a spread for scones."
-date: "2026-07-30"
+title: Classic Stovetop Lemon Curd
+category: Sauces
+collection: General Archive
+source: Unknown
+tags:
+  - dessert
+  - sauce
+  - lemon
+  - curd
+description: A classic recipe for a rich and tangy lemon curd made directly on the stovetop. A simple but decadent filling for tarts or a spread for scones.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Stovetop Lemon Curd\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic recipe for a rich and tangy lemon curd made directly on the stovetop. A simple but decadent filling for tarts or a spread for scones.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"1 cup\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"6 oz Sugar\", \"2 oz Margarine or Butter\", \"2 Eggs\", \"2 Lemons\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Stovetop Lemon Curd", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic recipe for a rich and tangy lemon curd made directly on the stovetop. A simple but decadent filling for tarts or a spread for scones.", "prepTime": "PT10M", "cookTime": "PT10M", "recipeYield": "1 cup", "recipeCategory": "Sauces", "recipeIngredient": ["6 oz Sugar", "2 oz Margarine or Butter", "2 Eggs", "2 Lemons"]}'
 ---
 
 # Classic Stovetop Lemon Curd

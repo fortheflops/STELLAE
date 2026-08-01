@@ -1,13 +1,79 @@
 ---
-title: "Geschnetzeltes \u00e0 Trudy"
-category: "Sauces"
-collection: "LOC"
-source: "Unknown"
-tags: ["louisecollection", "geschnetzeltes", "beef", "comfortfood", "123"]
-description: "A savory and comforting Swiss-inspired beef dish featuring tender cubed beef simmered in a rich brown gravy with onions and a touch of sour cream. Perfect for serving over a warm bed of noodles."
-date: "2026-07-30"
+title: Geschnetzeltes à Trudy
+category: Sauces
+collection: LOC
+source: Unknown
+tags:
+  - louisecollection
+  - geschnetzeltes
+  - beef
+  - comfortfood
+description: A savory and comforting Swiss-inspired beef dish featuring tender cubed beef simmered in a rich brown gravy with onions and a touch of sour cream. Perfect for serving over a warm bed of noodles.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Geschnetzeltes \u00e0 Trudy\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-05-14\",\n  \"description\": \"A savory and comforting Swiss-inspired beef dish featuring tender cubed beef simmered in a rich brown gravy with onions and a touch of sour cream. Perfect for serving over a warm bed of noodles.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT30M\",\n  \"totalTime\": \"PT45M\",\n  \"recipeCategory\": \"Sauces\",\n  \"recipeCuisine\": \"Swiss\",\n  \"recipeYield\": \"4 Servings\",\n  \"recipeIngredient\": [\n    \"1 Package Brown Gravy Mix\",\n    \"1 Pound Beef\",\n    \"A Little Crisco\",\n    \"Onion\",\n    \"Pepper\",\n    \"Paprika\",\n    \"1 Tablespoon Sour Cream\",\n    \"Noodles\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Prepare the 1 package brown gravy mix according to the package directions.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cut the 1 pound beef into small cubes, omitting any fat.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a pan, braise the 1 pound beef and onion with a little Crisco (or other fat) until the beef is browned and fragrant.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the prepared gravy mix over the browned meat.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bring the mixture to a boil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add pepper and paprika to taste.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in the 1 tablespoon sour cream.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook until the beef is tender and the sauce has reduced slightly, then serve hot over noodles.\"\n    }\n  ],\n  \"image\": \"Handwritten_2025-05-14_145620.webp\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Geschnetzeltes à Trudy",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-05-14",
+    "description": "A savory and comforting Swiss-inspired beef dish featuring tender cubed beef simmered in a rich brown gravy with onions and a touch of sour cream. Perfect for serving over a warm bed of noodles.",
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "recipeCategory": "Sauces",
+    "recipeCuisine": "Swiss",
+    "recipeYield": "4 Servings",
+    "recipeIngredient": [
+      "1 Package Brown Gravy Mix",
+      "1 Pound Beef",
+      "A Little Crisco",
+      "Onion",
+      "Pepper",
+      "Paprika",
+      "1 Tablespoon Sour Cream",
+      "Noodles"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the 1 package brown gravy mix according to the package directions."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the 1 pound beef into small cubes, omitting any fat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, braise the 1 pound beef and onion with a little Crisco (or other fat) until the beef is browned and fragrant."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the prepared gravy mix over the browned meat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the mixture to a boil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add pepper and paprika to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the 1 tablespoon sour cream."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook until the beef is tender and the sauce has reduced slightly, then serve hot over noodles."
+      }
+    ],
+    "image": "Handwritten_2025-05-14_145620.webp"
+  }
 ---
 
 # Geschnetzeltes à Trudy

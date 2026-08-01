@@ -1,13 +1,77 @@
 ---
-title: "Quee's Sour Cream Lemon Pound Cake"
-category: "Desserts"
-collection: "UK15"
-source: "Quee"
-tags: ["dessert", "cake", "poundcake", "lemon", "sourcream", "baking", "123"]
-description: "A rich and wonderfully moist sour cream pound cake featuring a bright, fresh flavor from real lemon juice and zest. This classic archival dessert yields a perfectly tender crumb and golden crust."
-date: "2026-07-30"
+title: Quee's Sour Cream Lemon Pound Cake
+category: Desserts
+collection: UK15
+source: Quee
+tags:
+  - dessert
+  - cake
+  - poundcake
+  - lemon
+  - sourcream
+  - baking
+description: A rich and wonderfully moist sour cream pound cake featuring a bright, fresh flavor from real lemon juice and zest. This classic archival dessert yields a perfectly tender crumb and golden crust.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Quee's Sour Cream Lemon Pound Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Quee\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A classic, dense, and moist sour cream pound cake with a bright flavor from fresh lemon juice and zest.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Sour-Cream-Pound-Cake/Assets/Untitled-1752799155340.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Assets/Untitled-1752799155339.webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H30M\",\n  \"totalTime\": \"PT1H50M\",\n  \"recipeYield\": \"1 10-cup pan\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"3 cups all-purpose flour\",\n    \"1/2 teaspoon baking soda\",\n    \"1/2 teaspoon salt\",\n    \"1 cup (2 sticks) unsalted butter, at room temperature\",\n    \"3 cups sugar\",\n    \"6 large eggs, at room temperature\",\n    \"1 cup sour cream\",\n    \"1/4 cup fresh lemon juice\",\n    \"1 tablespoon grated lemon peel\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat the oven to 325\u00b0F. Grease and flour a 10-cup Bundt or tube pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, cream the butter and sugar together until light and fluffy. Add the eggs one at a time, beating well after each.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate bowl, whisk together the flour, baking soda, and salt. In another small bowl, combine the sour cream, lemon juice, and lemon peel.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Alternately add the dry ingredients and the sour cream mixture to the creamed butter mixture, beginning and ending with the dry ingredients. Mix on low speed until just combined.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the batter into the prepared pan and bake for 1 hour and 30 minutes, or until a long skewer inserted into the center comes out clean.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Let the cake cool in the pan for 15 minutes before inverting it onto a wire rack to cool completely.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Quee's Sour Cream Lemon Pound Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Quee"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A classic, dense, and moist sour cream pound cake with a bright flavor from fresh lemon juice and zest.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Sour-Cream-Pound-Cake/Assets/Untitled-1752799155340.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Assets/Untitled-1752799155339.webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT1H30M",
+    "totalTime": "PT1H50M",
+    "recipeYield": "1 10-cup pan",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "3 cups all-purpose flour",
+      "1/2 teaspoon baking soda",
+      "1/2 teaspoon salt",
+      "1 cup (2 sticks) unsalted butter, at room temperature",
+      "3 cups sugar",
+      "6 large eggs, at room temperature",
+      "1 cup sour cream",
+      "1/4 cup fresh lemon juice",
+      "1 tablespoon grated lemon peel"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 325°F. Grease and flour a 10-cup Bundt or tube pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, cream the butter and sugar together until light and fluffy. Add the eggs one at a time, beating well after each."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, whisk together the flour, baking soda, and salt. In another small bowl, combine the sour cream, lemon juice, and lemon peel."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Alternately add the dry ingredients and the sour cream mixture to the creamed butter mixture, beginning and ending with the dry ingredients. Mix on low speed until just combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter into the prepared pan and bake for 1 hour and 30 minutes, or until a long skewer inserted into the center comes out clean."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the cake cool in the pan for 15 minutes before inverting it onto a wire rack to cool completely."
+      }
+    ]
+  }
 ---
 
 # Quee's Sour Cream Lemon Pound Cake

@@ -1,13 +1,17 @@
 ---
-title: "Watermelon Rind Pickles"
-category: "Preserves"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["preserves", "pickles", "watermelon", "123", "canning"]
-description: "Traditional Southern-style pickled watermelon rinds spiced with cloves and cinnamon. These sweet and tangy preserves are a delightful way to reduce kitchen waste."
-date: "2026-07-30"
+title: Watermelon Rind Pickles
+category: Preserves
+collection: Gail Collection
+source: Unknown
+tags:
+  - preserves
+  - pickles
+  - watermelon
+  - canning
+description: Traditional Southern-style pickled watermelon rinds spiced with cloves and cinnamon. These sweet and tangy preserves are a delightful way to reduce kitchen waste.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Watermelon Rind Pickles\",\"image\":[\"Handwritten_2025-06-19_143921.webp\"],\"description\":\"Traditional Southern-style pickled watermelon rinds spiced with cloves and cinnamon.\",\"prepTime\":\"PT30M\",\"cookTime\":\"PT45M\",\"recipeYield\":\"6-8 Pint Jars\",\"recipeCategory\":\"Preserves\",\"recipeCuisine\":\"Southern\",\"recipeIngredient\":[\"Watermelon Rind\",\"4 Tablespoons Salt\",\"1 Quart Water\",\"4 Cups Sugar\",\"2 Cups Vinegar\",\"4 Teaspoons Cloves\",\"8 Sticks Cinnamon\",\"Mustard Seed\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Peel the tough outer green skin from the Watermelon Rind and cut into one-inch cubes.\"},{\"@type\":\"HowToStep\",\"text\":\"Soak in a brine of salt and water overnight.\"},{\"@type\":\"HowToStep\",\"text\":\"Boil the rind in fresh water until almost tender, then drain.\"},{\"@type\":\"HowToStep\",\"text\":\"Simmer sugar, vinegar, and spices in a spice bag to create a syrup, then add the rind and cook until clear.\"},{\"@type\":\"HowToStep\",\"text\":\"Pack hot pickles into sterilized jars and seal immediately.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Watermelon Rind Pickles","image":["Handwritten_2025-06-19_143921.webp"],"description":"Traditional Southern-style pickled watermelon rinds spiced with cloves and cinnamon.","prepTime":"PT30M","cookTime":"PT45M","recipeYield":"6-8 Pint Jars","recipeCategory":"Preserves","recipeCuisine":"Southern","recipeIngredient":["Watermelon Rind","4 Tablespoons Salt","1 Quart Water","4 Cups Sugar","2 Cups Vinegar","4 Teaspoons Cloves","8 Sticks Cinnamon","Mustard Seed"],"recipeInstructions":[{"@type":"HowToStep","text":"Peel the tough outer green skin from the Watermelon Rind and cut into one-inch cubes."},{"@type":"HowToStep","text":"Soak in a brine of salt and water overnight."},{"@type":"HowToStep","text":"Boil the rind in fresh water until almost tender, then drain."},{"@type":"HowToStep","text":"Simmer sugar, vinegar, and spices in a spice bag to create a syrup, then add the rind and cook until clear."},{"@type":"HowToStep","text":"Pack hot pickles into sterilized jars and seal immediately."}]}'
 ---
 
 # Watermelon Rind Pickles

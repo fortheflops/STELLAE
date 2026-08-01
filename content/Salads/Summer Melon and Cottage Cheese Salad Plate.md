@@ -1,13 +1,17 @@
 ---
-title: "Summer Melon and Cottage Cheese Salad Plate"
-category: "Salads"
-collection: "Louise Collection"
-source: "Unknown"
-tags: ["salad", "summer", "fruit", "light", "123"]
-description: "A refreshing and classic summer fruit plate featuring slices of cantaloupe and honeydew melon served on a bed of lettuce with a scoop of cottage cheese and fresh strawberries. This light dish is perfect for a quick lunch or a cooling side."
-date: "2026-07-30"
+title: Summer Melon and Cottage Cheese Salad Plate
+category: Salads
+collection: Louise Collection
+source: Unknown
+tags:
+  - salad
+  - summer
+  - fruit
+  - light
+description: A refreshing and classic summer fruit plate featuring slices of cantaloupe and honeydew melon served on a bed of lettuce with a scoop of cottage cheese and fresh strawberries. This light dish is perfect for a quick lunch or a cooling side.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Summer Melon and Cottage Cheese Salad Plate\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A refreshing and classic summer fruit plate featuring slices of cantaloupe and honeydew melon served on a bed of lettuce with a scoop of cottage cheese and fresh strawberries.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"1 serving\", \"recipeCategory\": \"Salad\", \"recipeIngredient\": [\"1 slice cantaloupe\", \"1 slice honeydew melon\", \"Lettuce leaves\", \"1 scoop cottage cheese\", \"Sliced strawberries\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Summer Melon and Cottage Cheese Salad Plate", "author": {"@type": "Person", "name": "Unknown"}, "description": "A refreshing and classic summer fruit plate featuring slices of cantaloupe and honeydew melon served on a bed of lettuce with a scoop of cottage cheese and fresh strawberries.", "prepTime": "PT10M", "cookTime": "PT0M", "recipeYield": "1 serving", "recipeCategory": "Salad", "recipeIngredient": ["1 slice cantaloupe", "1 slice honeydew melon", "Lettuce leaves", "1 scoop cottage cheese", "Sliced strawberries"]}'
 ---
 
 # Summer Melon and Cottage Cheese Salad Plate

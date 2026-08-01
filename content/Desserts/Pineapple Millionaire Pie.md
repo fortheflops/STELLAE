@@ -1,13 +1,71 @@
 ---
-title: "Pineapple Millionaire Pie"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["dessert", "pie", "nobake", "southern", "pineapple", "123"]
-description: "A decadent, Southern-style no-bake pie featuring a rich, buttery base and a light pineapple-nut whipped cream topping. This vintage recipe yields two delicious pies."
-date: "2026-07-30"
+title: Pineapple Millionaire Pie
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - dessert
+  - pie
+  - nobake
+  - southern
+  - pineapple
+description: A decadent, Southern-style no-bake pie featuring a rich, buttery base and a light pineapple-nut whipped cream topping. This vintage recipe yields two delicious pies.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Pineapple Millionaire Pie\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-14\",\n  \"description\": \"A decadent, Southern-style no-bake pie with two distinct layers: a rich, buttery, and fluffy base, topped with a light pineapple and pecan whipped cream. This recipe makes two pies.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Pineapple%20Pie/Assets/Handwritten_2025-01-22_095627.webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT0M\",\n  \"totalTime\": \"PT20M\",\n  \"recipeYield\": \"Two 8-inch pies\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 (8-inch) baked Pie Crusts, cooled\",\n    \"2 Cups Powdered Sugar\",\n    \"1 Stick (1/2 cup) Oleo or butter, softened\",\n    \"1 Large Egg\",\n    \"1/4 tsp Salt\",\n    \"1/4 tsp Vanilla\",\n    \"1 Cup Heavy Cream\",\n    \"1 Cup Drained Crushed Pineapple\",\n    \"1/2 Cup Chopped Nuts\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"name\": \"Make the Base Filling\",\n      \"text\": \"In a mixing bowl, cream together the softened oleo/butter and the powdered sugar. Add the egg, salt, and vanilla. Beat with an electric mixer on high speed for 5-7 minutes until the mixture is very light and fluffy.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"name\": \"Assemble Base and Chill\",\n      \"text\": \"Divide this mixture evenly between the two cooled, baked pie crusts and spread into a smooth layer. Chill in the refrigerator for at least 30 minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"name\": \"Make the Topping\",\n      \"text\": \"In a separate, chilled bowl, whip the heavy cream until stiff peaks form and gently fold in the well-drained crushed pineapple and the chopped nuts.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"name\": \"Final Assembly and Chill\",\n      \"text\": \"Spread the pineapple whipped cream topping evenly over the chilled base layer in each pie. Refrigerate the pies for at least 4 hours, or preferably overnight, until completely firm and chilled before serving.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Pineapple Millionaire Pie",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-14",
+    "description": "A decadent, Southern-style no-bake pie with two distinct layers: a rich, buttery, and fluffy base, topped with a light pineapple and pecan whipped cream. This recipe makes two pies.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Pastries/Pie/Pineapple%20Pie/Assets/Handwritten_2025-01-22_095627.webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT0M",
+    "totalTime": "PT20M",
+    "recipeYield": "Two 8-inch pies",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 (8-inch) baked Pie Crusts, cooled",
+      "2 Cups Powdered Sugar",
+      "1 Stick (1/2 cup) Oleo or butter, softened",
+      "1 Large Egg",
+      "1/4 tsp Salt",
+      "1/4 tsp Vanilla",
+      "1 Cup Heavy Cream",
+      "1 Cup Drained Crushed Pineapple",
+      "1/2 Cup Chopped Nuts"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "name": "Make the Base Filling",
+        "text": "In a mixing bowl, cream together the softened oleo/butter and the powdered sugar. Add the egg, salt, and vanilla. Beat with an electric mixer on high speed for 5-7 minutes until the mixture is very light and fluffy."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Assemble Base and Chill",
+        "text": "Divide this mixture evenly between the two cooled, baked pie crusts and spread into a smooth layer. Chill in the refrigerator for at least 30 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Make the Topping",
+        "text": "In a separate, chilled bowl, whip the heavy cream until stiff peaks form and gently fold in the well-drained crushed pineapple and the chopped nuts."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Final Assembly and Chill",
+        "text": "Spread the pineapple whipped cream topping evenly over the chilled base layer in each pie. Refrigerate the pies for at least 4 hours, or preferably overnight, until completely firm and chilled before serving."
+      }
+    ]
+  }
 ---
 
 # Pineapple Millionaire Pie

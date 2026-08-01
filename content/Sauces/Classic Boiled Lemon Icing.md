@@ -1,13 +1,17 @@
 ---
-title: "Classic Boiled Lemon Icing"
-category: "Sauces"
-collection: "General Archive"
-source: "Unknown"
-tags: ["icing", "lemon", "123", "boiledicing", "desserttopping"]
-description: "A classic boiled icing featuring a bright lemon flavor, cooked on the stovetop and beaten until thick, glossy, and perfectly spreadable. This vintage recipe creates a smooth, non-gritty frosting ideal for finishing lemon cakes."
-date: "2026-07-30"
+title: Classic Boiled Lemon Icing
+category: Sauces
+collection: General Archive
+source: Unknown
+tags:
+  - icing
+  - lemon
+  - boiledicing
+  - desserttopping
+description: A classic boiled icing featuring a bright lemon flavor, cooked on the stovetop and beaten until thick, glossy, and perfectly spreadable. This vintage recipe creates a smooth, non-gritty frosting ideal for finishing lemon cakes.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Boiled Lemon Icing\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic boiled icing with a bright lemon flavor, cooked on the stovetop and beaten until thick and creamy.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"Icing for one 8 or 9-inch cake\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"3/4 Cup Sugar\", \"1/4 Cup Milk\", \"3 Tablespoons Spry\", \"1/4 Teaspoon Salt\", \"3/4 Teaspoon Lemon Rind\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Boiled Lemon Icing", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic boiled icing with a bright lemon flavor, cooked on the stovetop and beaten until thick and creamy.", "prepTime": "PT5M", "cookTime": "PT10M", "recipeYield": "Icing for one 8 or 9-inch cake", "recipeCategory": "Sauces", "recipeIngredient": ["3/4 Cup Sugar", "1/4 Cup Milk", "3 Tablespoons Spry", "1/4 Teaspoon Salt", "3/4 Teaspoon Lemon Rind"]}'
 ---
 
 # Classic Boiled Lemon Icing

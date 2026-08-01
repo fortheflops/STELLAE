@@ -1,13 +1,17 @@
 ---
-title: "Italian Vinaigrette"
-category: "Sauces"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["vinaigrette", "dressing", "italian", "gailcollection", "123"]
-description: "A simple, customizable Italian vinaigrette base enhanced with dried herbs and seasonings. This archival recipe offers a quick way to elevate a standard vinegar and oil dressing."
-date: "2026-07-30"
+title: Italian Vinaigrette
+category: Sauces
+collection: Gail Collection
+source: Unknown
+tags:
+  - vinaigrette
+  - dressing
+  - italian
+  - gailcollection
+description: A simple, customizable Italian vinaigrette base enhanced with dried herbs and seasonings. This archival recipe offers a quick way to elevate a standard vinegar and oil dressing.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Italian Vinaigrette\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A simple, customizable Italian vinaigrette base enhanced with dried herbs and seasonings.\", \"prepTime\": \"PT5M\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"Greens\", \"Salt\", \"Pepper\", \"White Vinegar\", \"Italian Seasoning\", \"Thyme\", \"White Vinegar & Oil Dressing Base\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Italian Vinaigrette", "author": {"@type": "Person", "name": "Unknown"}, "description": "A simple, customizable Italian vinaigrette base enhanced with dried herbs and seasonings.", "prepTime": "PT5M", "recipeCategory": "Sauces", "recipeIngredient": ["Greens", "Salt", "Pepper", "White Vinegar", "Italian Seasoning", "Thyme", "White Vinegar & Oil Dressing Base"]}'
 ---
 
 # Italian Vinaigrette

@@ -1,13 +1,17 @@
 ---
-title: "Fudgy Poured Chocolate Icing"
-category: "Sauces"
-collection: "General Archive"
-source: "Unknown"
-tags: ["icing", "chocolate", "123", "desserttopping", "fudgy"]
-description: "A classic, rich cooked chocolate icing designed to be poured over hot cake for a glossy, fudge-like finish. This traditional recipe is the perfect companion for Texas Sheet Cake."
-date: "2026-07-30"
+title: Fudgy Poured Chocolate Icing
+category: Sauces
+collection: General Archive
+source: Unknown
+tags:
+  - icing
+  - chocolate
+  - desserttopping
+  - fudgy
+description: A classic, rich cooked chocolate icing designed to be poured over hot cake for a glossy, fudge-like finish. This traditional recipe is the perfect companion for Texas Sheet Cake.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Fudgy Poured Chocolate Icing\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, rich cooked chocolate icing designed to be poured over hot cake for a glossy, fudge-like finish.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"Frosting for one 9x13 inch cake\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"1 stick Oleo or butter\", \"4 Tbsp Cocoa\", \"6 Tbsp Canned milk\", \"1 lb Powdered sugar\", \"1/2 Cup Pecans and/or Coconut\", \"1 tsp Vanilla\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Fudgy Poured Chocolate Icing", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, rich cooked chocolate icing designed to be poured over hot cake for a glossy, fudge-like finish.", "prepTime": "PT5M", "cookTime": "PT5M", "recipeYield": "Frosting for one 9x13 inch cake", "recipeCategory": "Sauces", "recipeIngredient": ["1 stick Oleo or butter", "4 Tbsp Cocoa", "6 Tbsp Canned milk", "1 lb Powdered sugar", "1/2 Cup Pecans and/or Coconut", "1 tsp Vanilla"]}'
 ---
 
 # Fudgy Poured Chocolate Icing

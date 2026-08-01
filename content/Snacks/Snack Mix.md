@@ -1,13 +1,17 @@
 ---
-title: "Snack Mix"
-category: "Snacks"
-collection: "Louise Collection"
-source: "Unknown"
-tags: ["123", "snacks", "chex mix", "party mix", "louise collection"]
-description: "A classic savory party mix featuring crisp Chex cereal, nuts, and pretzels tossed in a seasoned butter glaze. Slow-baked to crunchy, golden perfection with hints of Worcestershire and spice."
-date: "2026-07-30"
+title: Snack Mix
+category: Snacks
+collection: Louise Collection
+source: Unknown
+tags:
+  - snacks
+  - chex mix
+  - party mix
+  - louise collection
+description: A classic savory party mix featuring crisp Chex cereal, nuts, and pretzels tossed in a seasoned butter glaze. Slow-baked to crunchy, golden perfection with hints of Worcestershire and spice.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org\",\"@type\":\"Recipe\",\"name\":\"Snack Mix\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"description\":\"A classic savory party mix featuring crisp Chex cereal, nuts, and pretzels tossed in a seasoned butter glaze.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT1H\",\"totalTime\":\"PT1H15M\",\"recipeYield\":\"8\u201310 Servings\",\"recipeCategory\":\"Snacks\",\"recipeIngredient\":[\"2 2/3 Cups Rice Chex\",\"2 2/3 Cups Wheat Chex\",\"2 2/3 Cups Corn Chex\",\"1 Cup Nuts\",\"1 Cup Pretzels\",\"1 \u00bd sticks melted butter\",\"2 Tbsp Worcestershire Sauce\",\"1/2 Tbsp Onion Powder\",\"1/2 Tbsp Garlic Powder\",\"1 tsp Tabasco Sauce\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 225\u00b0F.\"},{\"@type\":\"HowToStep\",\"text\":\"Combine Chex cereals, nuts, and pretzels in a large pan.\"},{\"@type\":\"HowToStep\",\"text\":\"Whisk melted butter, Worcestershire sauce, onion powder, garlic powder, and Tabasco sauce together.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour seasoning mixture over cereal mixture and stir to coat.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake at 225\u00b0F for 1 hour, stirring every 10 minutes until crisp.\"}]}"
+recipe: '{"@context":"https://schema.org","@type":"Recipe","name":"Snack Mix","author":{"@type":"Person","name":"Unknown"},"description":"A classic savory party mix featuring crisp Chex cereal, nuts, and pretzels tossed in a seasoned butter glaze.","prepTime":"PT15M","cookTime":"PT1H","totalTime":"PT1H15M","recipeYield":"8–10 Servings","recipeCategory":"Snacks","recipeIngredient":["2 2/3 Cups Rice Chex","2 2/3 Cups Wheat Chex","2 2/3 Cups Corn Chex","1 Cup Nuts","1 Cup Pretzels","1 ½ sticks melted butter","2 Tbsp Worcestershire Sauce","1/2 Tbsp Onion Powder","1/2 Tbsp Garlic Powder","1 tsp Tabasco Sauce"],"recipeInstructions":[{"@type":"HowToStep","text":"Preheat oven to 225°F."},{"@type":"HowToStep","text":"Combine Chex cereals, nuts, and pretzels in a large pan."},{"@type":"HowToStep","text":"Whisk melted butter, Worcestershire sauce, onion powder, garlic powder, and Tabasco sauce together."},{"@type":"HowToStep","text":"Pour seasoning mixture over cereal mixture and stir to coat."},{"@type":"HowToStep","text":"Bake at 225°F for 1 hour, stirring every 10 minutes until crisp."}]}'
 ---
 
 # Snack Mix

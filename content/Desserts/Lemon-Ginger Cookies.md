@@ -1,13 +1,18 @@
 ---
-title: "Lemon-Ginger Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "ginger", "lemon", "dessert", "123", "bakedgoods"]
-description: "A classic drop cookie featuring a delightful combination of warm, spicy ginger and bright, fresh lemon. These simple treats are studded with bits of candied ginger for an extra flavor kick."
-date: "2026-07-30"
+title: Lemon-Ginger Cookies
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - ginger
+  - lemon
+  - dessert
+  - bakedgoods
+description: A classic drop cookie featuring a delightful combination of warm, spicy ginger and bright, fresh lemon. These simple treats are studded with bits of candied ginger for an extra flavor kick.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Lemon-Ginger Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic drop cookie with a delightful combination of warm, spicy ginger and bright, fresh lemon.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"36 cookies\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"1/2 cup butter or oleo\", \"3/4 cup sugar\", \"1 large egg\", \"1 tsp grated lemon rind\", \"1 1/2 cups flour\", \"1/2 tsp ground ginger\", \"1/2 tsp baking soda\", \"1/4 tsp salt\", \"1/4 cup finely chopped candied ginger\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Lemon-Ginger Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic drop cookie with a delightful combination of warm, spicy ginger and bright, fresh lemon.", "prepTime": "PT15M", "cookTime": "PT10M", "recipeYield": "36 cookies", "recipeCategory": "Desserts", "recipeIngredient": ["1/2 cup butter or oleo", "3/4 cup sugar", "1 large egg", "1 tsp grated lemon rind", "1 1/2 cups flour", "1/2 tsp ground ginger", "1/2 tsp baking soda", "1/4 tsp salt", "1/4 cup finely chopped candied ginger"]}'
 ---
 
 # Lemon-Ginger Cookies

@@ -1,13 +1,18 @@
 ---
-title: "Molded Cranberry, Orange, and Nut Salad"
-category: "Sides"
-collection: "UK2"
-source: "Unknown"
-tags: ["cranberry", "holiday", "123", "salad", "molded", "gelatin"]
-description: "A classic holiday side dish featuring ground fresh cranberries and a whole orange, with a delightful crunch from celery and nuts. This refreshing molded salad is set with gelatin for a perfect festive presentation."
-date: "2026-07-30"
+title: Molded Cranberry, Orange, and Nut Salad
+category: Sides
+collection: UK2
+source: Unknown
+tags:
+  - cranberry
+  - holiday
+  - salad
+  - molded
+  - gelatin
+description: A classic holiday side dish featuring ground fresh cranberries and a whole orange, with a delightful crunch from celery and nuts. This refreshing molded salad is set with gelatin for a perfect festive presentation.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Molded Cranberry, Orange, and Nut Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic holiday side dish featuring ground fresh cranberries and a whole orange, with a delightful crunch from celery and nuts.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Sides\", \"recipeIngredient\": [\"1 quart cranberries\", \"1 whole orange\", \"2 Cups sugar\", \"2 Tbsp gelatin\", \"1 Cup cold water\", \"1 Cup chopped nuts\", \"1 Cup diced celery\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Molded Cranberry, Orange, and Nut Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic holiday side dish featuring ground fresh cranberries and a whole orange, with a delightful crunch from celery and nuts.", "prepTime": "PT20M", "cookTime": "PT10M", "recipeYield": "8-10 servings", "recipeCategory": "Sides", "recipeIngredient": ["1 quart cranberries", "1 whole orange", "2 Cups sugar", "2 Tbsp gelatin", "1 Cup cold water", "1 Cup chopped nuts", "1 Cup diced celery"]}'
 ---
 
 # Molded Cranberry, Orange, and Nut Salad

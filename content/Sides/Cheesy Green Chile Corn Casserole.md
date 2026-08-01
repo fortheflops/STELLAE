@@ -1,13 +1,75 @@
 ---
-title: "Cheesy Green Chile Corn Casserole"
-category: "Sides"
-collection: "UK15"
-source: "Unknown"
-tags: ["casserole", "corn", "side", "cheese", "vegetarian", "123"]
-description: "A classic, savory corn casserole with a spoonbread-like texture, packed with creamed corn, cheddar cheese, and a mild kick from green chiles. This comforting side dish bakes up golden and set in the center."
-date: "2026-07-30"
+title: Cheesy Green Chile Corn Casserole
+category: Sides
+collection: UK15
+source: Unknown
+tags:
+  - casserole
+  - corn
+  - side
+  - cheese
+  - vegetarian
+description: A classic, savory corn casserole with a spoonbread-like texture, packed with creamed corn, cheddar cheese, and a mild kick from green chiles. This comforting side dish bakes up golden and set in the center.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Cheesy Green Chile Corn Casserole\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-16\",\n  \"description\": \"A classic, savory corn casserole with a spoonbread-like texture, packed with creamed corn, cheddar cheese, and a mild kick from green chiles.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Entrees/Casserole/Vegetable/Assets/Handwritten_2025-07-07_172156.webp\"\n  ],\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT50M\",\n  \"totalTime\": \"PT1H\",\n  \"recipeYield\": \"8-10 servings\",\n  \"recipeCategory\": \"Side Dish\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 (16 ounce) cans Cream Corn\",\n    \"2 cups Shredded Cheddar Cheese\",\n    \"1 tiny can (4 oz) Chopped Green Chiles\",\n    \"1/2 cup Finely chopped Onion\",\n    \"1 cup Milk\",\n    \"2 large Eggs, lightly beaten\",\n    \"1 cup Yellow Corn Meal\",\n    \"1/2 teaspoon Garlic Salt\",\n    \"1/2 teaspoon Baking Soda\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat the oven to 350\u00b0F (175\u00b0C). Spray an 11x7x1.5 inch baking dish with non-stick spray.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, combine the cream corn, shredded cheddar cheese, green chiles, chopped onion, milk, and beaten eggs. Stir well.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate small bowl, whisk together the corn meal, garlic salt, and baking soda.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the dry corn meal mixture to the wet corn mixture and stir until just combined.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the batter into the prepared baking dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for 50 minutes, or until the casserole is set in the center and a knife inserted comes out clean.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Cheesy Green Chile Corn Casserole",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-16",
+    "description": "A classic, savory corn casserole with a spoonbread-like texture, packed with creamed corn, cheddar cheese, and a mild kick from green chiles.",
+    "image": [
+      "https://cucinamezzaluna.com/Entrees/Casserole/Vegetable/Assets/Handwritten_2025-07-07_172156.webp"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT50M",
+    "totalTime": "PT1H",
+    "recipeYield": "8-10 servings",
+    "recipeCategory": "Side Dish",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 (16 ounce) cans Cream Corn",
+      "2 cups Shredded Cheddar Cheese",
+      "1 tiny can (4 oz) Chopped Green Chiles",
+      "1/2 cup Finely chopped Onion",
+      "1 cup Milk",
+      "2 large Eggs, lightly beaten",
+      "1 cup Yellow Corn Meal",
+      "1/2 teaspoon Garlic Salt",
+      "1/2 teaspoon Baking Soda"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 350°F (175°C). Spray an 11x7x1.5 inch baking dish with non-stick spray."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the cream corn, shredded cheddar cheese, green chiles, chopped onion, milk, and beaten eggs. Stir well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate small bowl, whisk together the corn meal, garlic salt, and baking soda."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the dry corn meal mixture to the wet corn mixture and stir until just combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter into the prepared baking dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 50 minutes, or until the casserole is set in the center and a knife inserted comes out clean."
+      }
+    ]
+  }
 ---
 
 # Cheesy Green Chile Corn Casserole

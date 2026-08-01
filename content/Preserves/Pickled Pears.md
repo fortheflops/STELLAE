@@ -1,13 +1,17 @@
 ---
-title: "Pickled Pears"
-category: "Preserves"
-collection: "Gail Collection"
-source: "Ann Seranne"
-tags: ["preserves", "pears", "pickled", "canning", "123"]
-description: "Delightful spiced pickled pears preserved in a sweet syrup, adapted from The Complete Book of Home Preserving. This vintage recipe yields tender, translucent fruit infused with warm spices."
-date: "2026-07-30"
+title: Pickled Pears
+category: Preserves
+collection: Gail Collection
+source: Ann Seranne
+tags:
+  - preserves
+  - pears
+  - pickled
+  - canning
+description: Delightful spiced pickled pears preserved in a sweet syrup, adapted from The Complete Book of Home Preserving. This vintage recipe yields tender, translucent fruit infused with warm spices.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Pickled Pears\",\"author\":{\"@type\":\"Person\",\"name\":\"Ann Seranne\"},\"description\":\"Delightful spiced pickled pears preserved in a sweet syrup, adapted from The Complete Book of Home Preserving.\",\"prepTime\":\"PT30M\",\"cookTime\":\"PT45M\",\"recipeYield\":\"6\\u20138 Jars\",\"recipeCategory\":\"Preserves\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"3 pounds Firm Pears\",\"4 cups Sugar\",\"3 cups Vinegar\",\"5 cups Water\",\"1 piece Ginger Root\",\"1 tablespoon Mixed Whole Spices\",\"1 stick Cinnamon\",\"A few Whole Cloves\",\"Grated rind of 1 Lemon\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Peel the 3 pounds pears but leave them whole.\"},{\"@type\":\"HowToStep\",\"text\":\"In a large pot, make a syrup by combining the 4 cups sugar, 3 cups vinegar, and 5 cups water.\"},{\"@type\":\"HowToStep\",\"text\":\"Tie the 1 piece ginger root, 1 tablespoon mixed whole spices, 1 stick cinnamon, and a few whole cloves in a spice bag. Add the spice bag to the syrup.\"},{\"@type\":\"HowToStep\",\"text\":\"Bring the syrup to a boil, then add the whole pears and the grated rind of 1 lemon.\"},{\"@type\":\"HowToStep\",\"text\":\"Cook until the pears are tender and clear, and the syrup registers 222\\u00b0F on a candy thermometer.\"},{\"@type\":\"HowToStep\",\"text\":\"Let the fruit stand in the syrup overnight until fully cooled and infused.\"},{\"@type\":\"HowToStep\",\"text\":\"The next day, remove the spice bag.\"},{\"@type\":\"HowToStep\",\"text\":\"Pack the pears into jars, adding an extra stick of fresh cinnamon to each jar.\"},{\"@type\":\"HowToStep\",\"text\":\"Bring the syrup back to a boil, pour the hot syrup over the fruit in the jars, and seal immediately.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Pickled Pears","author":{"@type":"Person","name":"Ann Seranne"},"description":"Delightful spiced pickled pears preserved in a sweet syrup, adapted from The Complete Book of Home Preserving.","prepTime":"PT30M","cookTime":"PT45M","recipeYield":"6\u20138 Jars","recipeCategory":"Preserves","recipeCuisine":"American","recipeIngredient":["3 pounds Firm Pears","4 cups Sugar","3 cups Vinegar","5 cups Water","1 piece Ginger Root","1 tablespoon Mixed Whole Spices","1 stick Cinnamon","A few Whole Cloves","Grated rind of 1 Lemon"],"recipeInstructions":[{"@type":"HowToStep","text":"Peel the 3 pounds pears but leave them whole."},{"@type":"HowToStep","text":"In a large pot, make a syrup by combining the 4 cups sugar, 3 cups vinegar, and 5 cups water."},{"@type":"HowToStep","text":"Tie the 1 piece ginger root, 1 tablespoon mixed whole spices, 1 stick cinnamon, and a few whole cloves in a spice bag. Add the spice bag to the syrup."},{"@type":"HowToStep","text":"Bring the syrup to a boil, then add the whole pears and the grated rind of 1 lemon."},{"@type":"HowToStep","text":"Cook until the pears are tender and clear, and the syrup registers 222\u00b0F on a candy thermometer."},{"@type":"HowToStep","text":"Let the fruit stand in the syrup overnight until fully cooled and infused."},{"@type":"HowToStep","text":"The next day, remove the spice bag."},{"@type":"HowToStep","text":"Pack the pears into jars, adding an extra stick of fresh cinnamon to each jar."},{"@type":"HowToStep","text":"Bring the syrup back to a boil, pour the hot syrup over the fruit in the jars, and seal immediately."}]}'
 ---
 
 # Pickled Pears

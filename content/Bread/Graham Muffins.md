@@ -1,11 +1,17 @@
 ---
-title: "Graham Muffins"
-category: "Bread"
-collection: "GC"
-source: "Ruth Marshel"
-tags: ["muffins", "bran", "breakfast", "baking", "refrigeratormuffins", "largebatch", "123"]
-description: "A classic large-batch refrigerator bran muffin recipe from Ruth Marshel that yields delicious, fresh-baked muffins on demand. The versatile batter can be stored safely in the refrigerator for up to two weeks."
-date: "2026-07-30"
+title: Graham Muffins
+category: Bread
+collection: GC
+source: Ruth Marshel
+tags:
+  - muffins
+  - bran
+  - breakfast
+  - baking
+  - refrigeratormuffins
+  - largebatch
+description: A classic large-batch refrigerator bran muffin recipe from Ruth Marshel that yields delicious, fresh-baked muffins on demand. The versatile batter can be stored safely in the refrigerator for up to two weeks.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Ruth Marshel's Refrigerator Bran Muffins\",\"author\":{\"@type\":\"Person\",\"name\":\"Ruth Marshel\"},\"datePublished\":\"2025-09-22\",\"description\":\"A very large batch of bran muffin batter that keeps in the refrigerator for up to two weeks, perfect for baking fresh muffins as needed.\",\"prepTime\":\"PT25M\",\"cookTime\":\"PT20M\",\"totalTime\":\"PT45M\",\"recipeYield\":\"5-6 dozen muffins\",\"recipeCategory\":\"Bread\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"6 cups bran cereal (like All-Bran or Bran Buds), divided\",\"2 cups boiling water\",\"5 cups all-purpose flour\",\"2 1/2 cups sugar\",\"5 teaspoons baking soda\",\"1 1/2 tablespoons salt\",\"4 large eggs\",\"1 quart (4 cups) buttermilk\",\"1 cup vegetable shortening (like Crisco)\",\"Optional: Raisins or dates\"]}"
 ---

@@ -1,13 +1,78 @@
 ---
-title: "Lois Ross's Creamy Broccoli Casserole"
-category: "Sides"
-collection: "General Archive"
-source: "Lois Ross"
-tags: ["casserole", "broccoli", "cheesy", "comfortfood", "sidedish", "123"]
-description: "A classic and comforting broccoli casserole from Lois Ross, featuring tender broccoli, crunchy water chestnuts, and a rich, cheesy custard made with soup and mayonnaise."
-date: "2026-07-30"
+title: Lois Ross's Creamy Broccoli Casserole
+category: Sides
+collection: General Archive
+source: Lois Ross
+tags:
+  - casserole
+  - broccoli
+  - cheesy
+  - comfortfood
+  - sidedish
+description: A classic and comforting broccoli casserole from Lois Ross, featuring tender broccoli, crunchy water chestnuts, and a rich, cheesy custard made with soup and mayonnaise.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Lois Ross's Creamy Broccoli Casserole\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Lois Ross\"\n  },\n  \"datePublished\": \"2025-11-06\",\n  \"description\": \"A classic and comforting broccoli casserole from Lois Ross, featuring tender broccoli, crunchy water chestnuts, and a rich, cheesy custard made with soup and mayonnaise.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Entrees/Casserole/Vegetable/Assets/Handwritten_2025-01-31_061240.webp\"\n  ],\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT40M\",\n  \"totalTime\": \"PT55M\",\n  \"recipeYield\": \"6-8 servings\",\n  \"recipeCategory\": \"Side Dish\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 bunch Fresh Broccoli\",\n    \"1 can (8 oz) Sliced Water Chestnuts\",\n    \"1/2 Medium Onion\",\n    \"1 can (10.5 oz) Cream of Mushroom Soup\",\n    \"3/4 cup Mayonnaise\",\n    \"2 Eggs\",\n    \"1 cup Grated Cheddar Cheese\",\n    \"1/4 cup Bread Crumbs (optional)\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 375\u00b0F (190\u00b0C). Grease a casserole dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Prepare the broccoli: Cut into fine pieces, steam until just tender-crisp, and drain very well.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, combine the steamed and chopped broccoli, drained water chestnuts, chopped onion, cream of mushroom soup, mayonnaise, beaten eggs, and grated cheddar cheese.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir well until all ingredients are evenly combined.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the mixture into the prepared casserole dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Sprinkle with bread crumbs, if desired.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for 30-45 minutes, or until the casserole is hot, bubbly, and set in the center.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Lois Ross's Creamy Broccoli Casserole",
+    "author": {
+      "@type": "Person",
+      "name": "Lois Ross"
+    },
+    "datePublished": "2025-11-06",
+    "description": "A classic and comforting broccoli casserole from Lois Ross, featuring tender broccoli, crunchy water chestnuts, and a rich, cheesy custard made with soup and mayonnaise.",
+    "image": [
+      "https://cucinamezzaluna.com/Entrees/Casserole/Vegetable/Assets/Handwritten_2025-01-31_061240.webp"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT40M",
+    "totalTime": "PT55M",
+    "recipeYield": "6-8 servings",
+    "recipeCategory": "Side Dish",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 bunch Fresh Broccoli",
+      "1 can (8 oz) Sliced Water Chestnuts",
+      "1/2 Medium Onion",
+      "1 can (10.5 oz) Cream of Mushroom Soup",
+      "3/4 cup Mayonnaise",
+      "2 Eggs",
+      "1 cup Grated Cheddar Cheese",
+      "1/4 cup Bread Crumbs (optional)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375°F (190°C). Grease a casserole dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the broccoli: Cut into fine pieces, steam until just tender-crisp, and drain very well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the steamed and chopped broccoli, drained water chestnuts, chopped onion, cream of mushroom soup, mayonnaise, beaten eggs, and grated cheddar cheese."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir well until all ingredients are evenly combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the mixture into the prepared casserole dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle with bread crumbs, if desired."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 30-45 minutes, or until the casserole is hot, bubbly, and set in the center."
+      }
+    ]
+  }
 ---
 
 # Lois Ross's Creamy Broccoli Casserole

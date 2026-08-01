@@ -1,13 +1,18 @@
 ---
-title: "Cinnamon Sugar Candied Pecans"
-category: "Snacks"
-collection: "General Archive"
-source: "Unknown"
-tags: ["pecans", "candied", "snack", "holiday", "spiced", "123"]
-description: "A classic and addictive recipe for crunchy, sweet, and spiced candied pecans. These are perfect for snacking, gifting, or adding a delightful crunch to salads."
-date: "2026-07-30"
+title: Cinnamon Sugar Candied Pecans
+category: Snacks
+collection: General Archive
+source: Unknown
+tags:
+  - pecans
+  - candied
+  - snack
+  - holiday
+  - spiced
+description: A classic and addictive recipe for crunchy, sweet, and spiced candied pecans. These are perfect for snacking, gifting, or adding a delightful crunch to salads.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Cinnamon Sugar Candied Pecans\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic and addictive recipe for crunchy, sweet, and spiced candied pecans.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT45M\", \"recipeYield\": \"3 cups\", \"recipeCategory\": \"Snacks\", \"recipeIngredient\": [\"1 Egg White\", \"1 Tablespoon Water\", \"1 Cup Sugar\", \"1 Teaspoon Cinnamon\", \"1 Teaspoon Salt\", \"1 (10 Ounce) Package Pecans\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 300\u00b0F. Beat egg white and water until frothy.\"}, {\"@type\": \"HowToStep\", \"text\": \"Combine sugar, cinnamon, and salt. Toss pecans in egg mixture, then coat in sugar mixture.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake for 45 minutes, stirring every 15 minutes until crisp.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Cinnamon Sugar Candied Pecans", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic and addictive recipe for crunchy, sweet, and spiced candied pecans.", "prepTime": "PT10M", "cookTime": "PT45M", "recipeYield": "3 cups", "recipeCategory": "Snacks", "recipeIngredient": ["1 Egg White", "1 Tablespoon Water", "1 Cup Sugar", "1 Teaspoon Cinnamon", "1 Teaspoon Salt", "1 (10 Ounce) Package Pecans"], "recipeInstructions": [{"@type": "HowToStep", "text": "Preheat oven to 300°F. Beat egg white and water until frothy."}, {"@type": "HowToStep", "text": "Combine sugar, cinnamon, and salt. Toss pecans in egg mixture, then coat in sugar mixture."}, {"@type": "HowToStep", "text": "Bake for 45 minutes, stirring every 15 minutes until crisp."}]}'
 ---
 
 # Cinnamon Sugar Candied Pecans

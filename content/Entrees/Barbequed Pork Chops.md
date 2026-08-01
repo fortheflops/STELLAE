@@ -1,13 +1,52 @@
 ---
-title: "Barbequed Pork Chops"
-category: "Entrees"
-collection: "TheLoraineCollection"
-source: "Hellen"
-tags: ["porkchop", "pork", "barbeque", "123", "entree"]
-description: "Savory baked pork chops topped with zesty onion and lemon slices, then simmered in a tangy homemade barbecue sauce until tender and caramelized. A comforting vintage classic featuring bold Worcestershire and chili powder flavors."
-date: "2026-07-30"
+title: Barbequed Pork Chops
+category: Entrees
+collection: TheLoraineCollection
+source: Hellen
+tags:
+  - porkchop
+  - pork
+  - barbeque
+  - entree
+description: Savory baked pork chops topped with zesty onion and lemon slices, then simmered in a tangy homemade barbecue sauce until tender and caramelized. A comforting vintage classic featuring bold Worcestershire and chili powder flavors.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Barbequed Pork Chops\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Hellen\"\n  },\n  \"description\": \"Savory baked pork chops topped with zesty onion and lemon slices, then simmered in a tangy homemade barbecue sauce until tender.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT1H30M\",\n  \"recipeYield\": \"10 Servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeIngredient\": [\n    \"10 Pork Chops\",\n    \"1 Lemon, Sliced\",\n    \"1 large Onion, Sliced\",\n    \"1 cup Catsup\",\n    \"1 cup Water\",\n    \"3 T. Worcestershire Sauce\",\n    \"1 t. Chili Powder\",\n    \"1 t. Salt\",\n    \"2 dashes Tabasco\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place 10 pork chops in a baking pan. Put a slice of 1 large onion and 1 lemon on each chop. Roast for 30 minutes at 450\u00b0F.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine remaining ingredients (catsup, water, Worcestershire sauce, chili powder, salt, and Tabasco). Pour over chops. Reduce heat to 350\u00b0F. Bake 1 hr. more, basting occasionally.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Barbequed Pork Chops",
+    "author": {
+      "@type": "Person",
+      "name": "Hellen"
+    },
+    "description": "Savory baked pork chops topped with zesty onion and lemon slices, then simmered in a tangy homemade barbecue sauce until tender.",
+    "prepTime": "PT15M",
+    "cookTime": "PT1H30M",
+    "recipeYield": "10 Servings",
+    "recipeCategory": "Entrees",
+    "recipeIngredient": [
+      "10 Pork Chops",
+      "1 Lemon, Sliced",
+      "1 large Onion, Sliced",
+      "1 cup Catsup",
+      "1 cup Water",
+      "3 T. Worcestershire Sauce",
+      "1 t. Chili Powder",
+      "1 t. Salt",
+      "2 dashes Tabasco"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place 10 pork chops in a baking pan. Put a slice of 1 large onion and 1 lemon on each chop. Roast for 30 minutes at 450°F."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine remaining ingredients (catsup, water, Worcestershire sauce, chili powder, salt, and Tabasco). Pour over chops. Reduce heat to 350°F. Bake 1 hr. more, basting occasionally."
+      }
+    ]
+  }
 ---
 
 # Barbequed Pork Chops

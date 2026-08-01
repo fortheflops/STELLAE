@@ -1,13 +1,18 @@
 ---
-title: "Four-Cheese Party Log"
-category: "Appetizers"
-collection: "UK3 Collection"
-source: "Unknown"
-tags: ["appetizers", "cheese log", "pecans", "party food", "make-ahead", "123"]
-description: "This savory Four-Cheese Party Log blends cream cheese, cheddar, Velveeta, and sharp cheddar with grated onion and Worcestershire sauce. Coated in crunchy pecans and chilled until firm, it makes a rich and satisfying classic appetizer for any gathering."
-date: "2026-07-30"
+title: Four-Cheese Party Log
+category: Appetizers
+collection: UK3 Collection
+source: Unknown
+tags:
+  - appetizers
+  - cheese log
+  - pecans
+  - party food
+  - make-ahead
+description: This savory Four-Cheese Party Log blends cream cheese, cheddar, Velveeta, and sharp cheddar with grated onion and Worcestershire sauce. Coated in crunchy pecans and chilled until firm, it makes a rich and satisfying classic appetizer for any gathering.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Four-Cheese Party Log\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-08-05\",\"description\":\"A rich and savory cheese log made with a blend of cream cheese, cheddar, Velveeta, and sharp cheese, coated in chopped pecans.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT0M\",\"totalTime\":\"PT8H15M\",\"recipeYield\":\"2 logs (about 24 servings)\",\"recipeCategory\":\"Appetizer\",\"recipeCuisine\":\"American\"}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Four-Cheese Party Log","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-08-05","description":"A rich and savory cheese log made with a blend of cream cheese, cheddar, Velveeta, and sharp cheese, coated in chopped pecans.","prepTime":"PT15M","cookTime":"PT0M","totalTime":"PT8H15M","recipeYield":"2 logs (about 24 servings)","recipeCategory":"Appetizer","recipeCuisine":"American"}'
 ---
 
 # Four-Cheese Party Log

@@ -1,13 +1,21 @@
 ---
-title: "Bishop'S Bread"
-category: "Bread"
-collection: "GailCollection"
-source: "Unknown"
-tags: ["bread", "fruit bread", "holidays", "walnuts", "dates", "cherries", "chocolate chips", "123", "gailcollection"]
-description: "A rich, dense, and festive fruitcake-style loaf, packed with walnuts, dates, glac\u00e9ed cherries, and chocolate chips. Perfect for holidays and special occasions."
-date: "2026-07-30"
+title: Bishop'S Bread
+category: Bread
+collection: GailCollection
+source: Unknown
+tags:
+  - bread
+  - fruit bread
+  - holidays
+  - walnuts
+  - dates
+  - cherries
+  - chocolate chips
+  - gailcollection
+description: A rich, dense, and festive fruitcake-style loaf, packed with walnuts, dates, glacéed cherries, and chocolate chips. Perfect for holidays and special occasions.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Bishop's Bread\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-09-21\", \"description\": \"A dense, sweet loaf bread loaded with chocolate chips, walnuts, dates, and glac\u00e9ed cherries.\", \"image\": [\"https://cucinamezzaluna.com/Bread/Fruit-Bread/Bishop's-Bread/Assets/Handwritten_2025-06-02_070659.webp\", \"https://cucinamezzaluna.com/Bread/Fruit-Bread/Bishop's-Bread/Assets/Handwritten_2025-06-02_070755%20(2).webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H30M\", \"totalTime\": \"PT1H50M\", \"recipeYield\": \"1 loaf\", \"recipeCategory\": \"Bread\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 1/2 cups all-purpose flour, sifted\", \"1 1/2 teaspoons baking powder\", \"1/4 teaspoon salt\", \"3 large eggs\", \"1 cup sugar\", \"2 cups coarsely chopped walnuts\", \"1 cup finely snipped dates\", \"1 cup halved glac\u00e9ed cherries\", \"2/3 cup semi-sweet chocolate chips\"]}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Bishop's Bread\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-09-21\", \"description\": \"A dense, sweet loaf bread loaded with chocolate chips, walnuts, dates, and glacéed cherries.\", \"image\": [\"https://cucinamezzaluna.com/Bread/Fruit-Bread/Bishop's-Bread/Assets/Handwritten_2025-06-02_070659.webp\", \"https://cucinamezzaluna.com/Bread/Fruit-Bread/Bishop's-Bread/Assets/Handwritten_2025-06-02_070755%20(2).webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H30M\", \"totalTime\": \"PT1H50M\", \"recipeYield\": \"1 loaf\", \"recipeCategory\": \"Bread\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 1/2 cups all-purpose flour, sifted\", \"1 1/2 teaspoons baking powder\", \"1/4 teaspoon salt\", \"3 large eggs\", \"1 cup sugar\", \"2 cups coarsely chopped walnuts\", \"1 cup finely snipped dates\", \"1 cup halved glacéed cherries\", \"2/3 cup semi-sweet chocolate chips\"]}"
 ---
 
 # Bishop'S Bread

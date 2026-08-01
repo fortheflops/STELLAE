@@ -1,13 +1,47 @@
 ---
-title: "Chicken Creole"
-category: "Soups"
-collection: "UK3"
-source: "Unknown"
-tags: ["chicken", "creole", "entree", "comfortfood", "123"]
-description: "A classic Southern-style chicken creole featuring tender fried chicken baked in a savory spiced tomato and Worcestershire sauce. Perfectly comforting when served warm over steamed rice."
-date: "2026-07-30"
+title: Chicken Creole
+category: Soups
+collection: UK3
+source: Unknown
+tags:
+  - chicken
+  - creole
+  - entree
+  - comfortfood
+description: A classic Southern-style chicken creole featuring tender fried chicken baked in a savory spiced tomato and Worcestershire sauce. Perfectly comforting when served warm over steamed rice.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Chicken Creole\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A classic Southern-style chicken creole featuring tender fried chicken baked in a savory spiced tomato and Worcestershire sauce.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H\",\n  \"recipeYield\": \"5 servings\",\n  \"recipeCategory\": \"Soups\",\n  \"recipeIngredient\": [\n    \"1 (1 1/2 to 3 lb.) Frying Chicken\",\n    \"1/2 cup Flour\",\n    \"1 teaspoon Salt\",\n    \"1 1/2 teaspoon Pepper\",\n    \"Crisco\",\n    \"Butter\",\n    \"1/2 cup Celery\",\n    \"1/2 cup Green Pepper\",\n    \"1/2 cup Onion\",\n    \"2 Tablespoons Butter (for sauce)\",\n    \"1 cup Catsup\",\n    \"2 Tablespoons Worcestershire Sauce\",\n    \"1 cup Water\",\n    \"2 Tablespoons Brown Sugar\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Chicken Creole",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A classic Southern-style chicken creole featuring tender fried chicken baked in a savory spiced tomato and Worcestershire sauce.",
+    "prepTime": "PT20M",
+    "cookTime": "PT1H",
+    "recipeYield": "5 servings",
+    "recipeCategory": "Soups",
+    "recipeIngredient": [
+      "1 (1 1/2 to 3 lb.) Frying Chicken",
+      "1/2 cup Flour",
+      "1 teaspoon Salt",
+      "1 1/2 teaspoon Pepper",
+      "Crisco",
+      "Butter",
+      "1/2 cup Celery",
+      "1/2 cup Green Pepper",
+      "1/2 cup Onion",
+      "2 Tablespoons Butter (for sauce)",
+      "1 cup Catsup",
+      "2 Tablespoons Worcestershire Sauce",
+      "1 cup Water",
+      "2 Tablespoons Brown Sugar"
+    ]
+  }
 ---
 
 # Chicken Creole

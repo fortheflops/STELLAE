@@ -1,13 +1,17 @@
 ---
-title: "Oven-Baked Caramel Popcorn"
-category: "Snacks"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["snack", "caramel", "popcorn", "123", "confection"]
-description: "A classic recipe for perfectly crisp and crunchy caramel popcorn. Popcorn is coated in a simple, boiled brown sugar caramel sauce and then baked low and slow in the oven for an irresistible, non-sticky finish."
-date: "2026-07-30"
+title: Oven-Baked Caramel Popcorn
+category: Snacks
+collection: Gail Collection
+source: Unknown
+tags:
+  - snack
+  - caramel
+  - popcorn
+  - confection
+description: A classic recipe for perfectly crisp and crunchy caramel popcorn. Popcorn is coated in a simple, boiled brown sugar caramel sauce and then baked low and slow in the oven for an irresistible, non-sticky finish.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Oven-Baked Caramel Popcorn\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic recipe for perfectly crisp and crunchy caramel popcorn.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT1H\", \"recipeYield\": \"3 quarts\", \"recipeCategory\": \"Snack\", \"recipeIngredient\": [\"3 quarts popped popcorn\", \"1 cup packed brown sugar\", \"1/2 cup butter or margarine\", \"1/4 cup light corn syrup\", \"1/2 teaspoon salt\", \"1/2 teaspoon baking soda\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Oven-Baked Caramel Popcorn", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic recipe for perfectly crisp and crunchy caramel popcorn.", "prepTime": "PT15M", "cookTime": "PT1H", "recipeYield": "3 quarts", "recipeCategory": "Snack", "recipeIngredient": ["3 quarts popped popcorn", "1 cup packed brown sugar", "1/2 cup butter or margarine", "1/4 cup light corn syrup", "1/2 teaspoon salt", "1/2 teaspoon baking soda"]}'
 ---
 
 # Oven-Baked Caramel Popcorn

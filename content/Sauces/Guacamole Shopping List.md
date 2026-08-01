@@ -1,13 +1,17 @@
 ---
-title: "Guacamole Shopping List"
-category: "Sauces"
-collection: "UK15"
-source: "Unknown"
-tags: ["guacamole", "dip", "appetizer", "123", "mexicaninspired"]
-description: "A creamy and zesty guacamole recipe featuring a unique blend of picante sauce and green chiles. This simple dip is perfect for parties and pairs excellently with tortilla chips."
-date: "2026-07-30"
+title: Guacamole Shopping List
+category: Sauces
+collection: UK15
+source: Unknown
+tags:
+  - guacamole
+  - dip
+  - appetizer
+  - mexicaninspired
+description: A creamy and zesty guacamole recipe featuring a unique blend of picante sauce and green chiles. This simple dip is perfect for parties and pairs excellently with tortilla chips.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Guacamole Shopping List\", \"recipeCategory\": \"Sauces\", \"prepTime\": \"PT10M\", \"recipeYield\": \"4-6 servings\", \"recipeIngredient\": [\"2 large Avocados\", \"1 jar Pace Picante Sauce\", \"As Needed Sour Cream\", \"1 (4 ounce) can Green Chiles\", \"To Taste Garlic Powder\", \"To Taste Salt\", \"Juice of 1/2 Lime\", \"1 small Tomato\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Mash the avocados in a bowl.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in the lime juice, garlic powder, and salt.\"}, {\"@type\": \"HowToStep\", \"text\": \"Fold in the Pace Picante sauce, sour cream, green chiles, and diced tomato to your desired taste and consistency.\"}, {\"@type\": \"HowToStep\", \"text\": \"Serve immediately.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Guacamole Shopping List", "recipeCategory": "Sauces", "prepTime": "PT10M", "recipeYield": "4-6 servings", "recipeIngredient": ["2 large Avocados", "1 jar Pace Picante Sauce", "As Needed Sour Cream", "1 (4 ounce) can Green Chiles", "To Taste Garlic Powder", "To Taste Salt", "Juice of 1/2 Lime", "1 small Tomato"], "recipeInstructions": [{"@type": "HowToStep", "text": "Mash the avocados in a bowl."}, {"@type": "HowToStep", "text": "Stir in the lime juice, garlic powder, and salt."}, {"@type": "HowToStep", "text": "Fold in the Pace Picante sauce, sour cream, green chiles, and diced tomato to your desired taste and consistency."}, {"@type": "HowToStep", "text": "Serve immediately."}]}'
 ---
 
 # Guacamole Shopping List

@@ -1,13 +1,55 @@
 ---
-title: "Aunt Joan's English Fruit Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Aunt Joan"
-tags: ["dessert", "cake", "fruitcake", "british", "123", "holiday", "baking"]
-description: "A traditional English fruitcake from Aunt Joan, flavored with Amontillado sherry. This rich, spiced cake is packed with raisins, candied fruit, and walnuts that are steeped in sherry overnight for incredible flavor."
-date: "2026-07-30"
+title: Aunt Joan's English Fruit Cake
+category: Desserts
+collection: UK2
+source: Aunt Joan
+tags:
+  - dessert
+  - cake
+  - fruitcake
+  - british
+  - holiday
+  - baking
+description: A traditional English fruitcake from Aunt Joan, flavored with Amontillado sherry. This rich, spiced cake is packed with raisins, candied fruit, and walnuts that are steeped in sherry overnight for incredible flavor.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Aunt Joan's English Fruit Cake (Sandeman's)\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Aunt Joan\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A classic English-style fruitcake where the fruit and nuts are soaked overnight in Amontillado sherry. A dense, moist, and flavorful holiday cake.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Handwritten_2025-02-18_121133.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Handwritten_2025-02-18_121234%20(2).webp\"\n  ],\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT2H\",\n  \"totalTime\": \"P1DT2H25M\",\n  \"recipeYield\": \"1 9-inch round cake\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"British\",\n  \"recipeIngredient\": [\n    \"1 1/2 cups raisins\",\n    \"1 cup mixed candied fruit\",\n    \"1/4 lb (1 cup) blanched walnuts, chopped\",\n    \"4 tablespoons Amontillado sherry, divided\",\n    \"1 cup (2 sticks) butter or margarine, softened\",\n    \"2/3 cup packed brown sugar\",\n    \"1/2 cup white sugar\",\n    \"4 large eggs\",\n    \"2 2/3 cups all-purpose flour\",\n    \"1/2 teaspoon nutmeg\",\n    \"1/2 teaspoon cinnamon\",\n    \"1/2 teaspoon salt\",\n    \"1/2 teaspoon baking powder\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Aunt Joan's English Fruit Cake (Sandeman's)",
+    "author": {
+      "@type": "Person",
+      "name": "Aunt Joan"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A classic English-style fruitcake where the fruit and nuts are soaked overnight in Amontillado sherry. A dense, moist, and flavorful holiday cake.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Handwritten_2025-02-18_121133.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Handwritten_2025-02-18_121234%20(2).webp"
+    ],
+    "prepTime": "PT25M",
+    "cookTime": "PT2H",
+    "totalTime": "P1DT2H25M",
+    "recipeYield": "1 9-inch round cake",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "British",
+    "recipeIngredient": [
+      "1 1/2 cups raisins",
+      "1 cup mixed candied fruit",
+      "1/4 lb (1 cup) blanched walnuts, chopped",
+      "4 tablespoons Amontillado sherry, divided",
+      "1 cup (2 sticks) butter or margarine, softened",
+      "2/3 cup packed brown sugar",
+      "1/2 cup white sugar",
+      "4 large eggs",
+      "2 2/3 cups all-purpose flour",
+      "1/2 teaspoon nutmeg",
+      "1/2 teaspoon cinnamon",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon baking powder"
+    ]
+  }
 ---
 
 # Aunt Joan's English Fruit Cake

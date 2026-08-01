@@ -1,13 +1,51 @@
 ---
-title: "Apricot Conserve"
-category: "Preserves"
-collection: "John B. Collection"
-source: "Unattributed"
-tags: ["preserves", "jam", "apricot", "123", "canning"]
-description: "A delightful vintage preserve combining fresh apricots, oranges, lemons, raisins, and blanched almonds. This thick and fruity conserve yields multiple glasses of homemade goodness."
-date: "2026-07-30"
+title: Apricot Conserve
+category: Preserves
+collection: John B. Collection
+source: Unattributed
+tags:
+  - preserves
+  - jam
+  - apricot
+  - canning
+description: A delightful vintage preserve combining fresh apricots, oranges, lemons, raisins, and blanched almonds. This thick and fruity conserve yields multiple glasses of homemade goodness.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Apricot Conserve\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"datePublished\": \"2024-03-01\",\n  \"description\": \"A delightful vintage preserve combining fresh apricots, oranges, lemons, raisins, and blanched almonds.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT1H\",\n  \"recipeCategory\": \"Preserves\",\n  \"recipeYield\": \"18 glasses\",\n  \"recipeIngredient\": [\n    \"3 Oranges\",\n    \"4 lbs Fresh Apricots\",\n    \"1 Orange\",\n    \"1/2 Lemon\",\n    \"1 cup White Raisins\",\n    \"3 lbs Sugar\",\n    \"1 cup Blanched Almonds\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine the 3 oranges, 4 lbs fresh apricots, grated rind of 1 orange, juice of 3 oranges, juice of 1/2 lemon, 1 cup white raisins, and 3 lbs sugar in a preserving kettle. Cook until thick, adding 1 cup blanched almonds in the last 5 minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour into hot sterilized glasses and seal.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Apricot Conserve",
+    "author": {
+      "@type": "Person",
+      "name": "Unattributed"
+    },
+    "datePublished": "2024-03-01",
+    "description": "A delightful vintage preserve combining fresh apricots, oranges, lemons, raisins, and blanched almonds.",
+    "prepTime": "PT30M",
+    "cookTime": "PT1H",
+    "recipeCategory": "Preserves",
+    "recipeYield": "18 glasses",
+    "recipeIngredient": [
+      "3 Oranges",
+      "4 lbs Fresh Apricots",
+      "1 Orange",
+      "1/2 Lemon",
+      "1 cup White Raisins",
+      "3 lbs Sugar",
+      "1 cup Blanched Almonds"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine the 3 oranges, 4 lbs fresh apricots, grated rind of 1 orange, juice of 3 oranges, juice of 1/2 lemon, 1 cup white raisins, and 3 lbs sugar in a preserving kettle. Cook until thick, adding 1 cup blanched almonds in the last 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into hot sterilized glasses and seal."
+      }
+    ]
+  }
 ---
 
 # Apricot Conserve

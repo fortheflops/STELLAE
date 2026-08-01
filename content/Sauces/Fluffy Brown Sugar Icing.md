@@ -1,13 +1,17 @@
 ---
-title: "Fluffy Brown Sugar Icing"
-category: "Sauces"
-collection: "General Archive"
-source: "Unknown"
-tags: ["icing", "dessert", "123", "brownsugar", "meringue"]
-description: "A classic boiled icing that gets a delicate caramel color and flavor from brown sugar. This light, fluffy meringue-style frosting is made by beating egg whites and sugar over a double boiler until stiff and glossy."
-date: "2026-07-30"
+title: Fluffy Brown Sugar Icing
+category: Sauces
+collection: General Archive
+source: Unknown
+tags:
+  - icing
+  - dessert
+  - brownsugar
+  - meringue
+description: A classic boiled icing that gets a delicate caramel color and flavor from brown sugar. This light, fluffy meringue-style frosting is made by beating egg whites and sugar over a double boiler until stiff and glossy.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Fluffy Brown Sugar Icing\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic boiled icing that gets a delicate caramel color and flavor from brown sugar.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT7M\", \"recipeYield\": \"Frosting for one 8-inch cake\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"1 Cup Brown Sugar\", \"3 Tbsp Water\", \"1 Egg White\", \"Pinch of Cream of Tartar\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Fluffy Brown Sugar Icing", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic boiled icing that gets a delicate caramel color and flavor from brown sugar.", "prepTime": "PT5M", "cookTime": "PT7M", "recipeYield": "Frosting for one 8-inch cake", "recipeCategory": "Sauces", "recipeIngredient": ["1 Cup Brown Sugar", "3 Tbsp Water", "1 Egg White", "Pinch of Cream of Tartar"]}'
 ---
 
 # Fluffy Brown Sugar Icing

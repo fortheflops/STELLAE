@@ -1,11 +1,16 @@
 ---
-title: "Johnnie Gold's Classic Roquefort Dressing"
-category: "Sauces"
-collection: "General Archive"
-source: "Johnnie Gold"
-tags: ["sauce", "dressing", "roquefort", "bluecheese", "no-cook", "123"]
-description: "A rich, tangy, and classic homemade dressing featuring a creamy base of cream cheese, sour cream, and mayonnaise. This no-cook recipe is perfectly seasoned with garlic and dry mustard for a bold, savory finish."
-date: "2026-07-30"
+title: Johnnie Gold's Classic Roquefort Dressing
+category: Sauces
+collection: General Archive
+source: Johnnie Gold
+tags:
+  - sauce
+  - dressing
+  - roquefort
+  - bluecheese
+  - no-cook
+description: A rich, tangy, and classic homemade dressing featuring a creamy base of cream cheese, sour cream, and mayonnaise. This no-cook recipe is perfectly seasoned with garlic and dry mustard for a bold, savory finish.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Johnnie Gold's Classic Roquefort Dressing\", \"author\": {\"@type\": \"Person\", \"name\": \"Johnnie Gold\"}, \"description\": \"A rich, no-cook Roquefort or blue cheese dressing with a cream cheese, sour cream, and mayonnaise base.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"1.75 cups\", \"recipeCategory\": \"Sauces\"}"
 ---

@@ -1,13 +1,17 @@
 ---
-title: "Rum Sour"
-category: "Beverages"
-collection: "GC"
-source: "Phil"
-tags: ["beverage", "cocktail", "rum", "sour", "123"]
-description: "A quick and easy 2-ingredient cocktail featuring rum and sweet & sour mix, which can be served over ice or blended into a daiquiri."
-date: "2026-07-30"
+title: Rum Sour
+category: Beverages
+collection: GC
+source: Phil
+tags:
+  - beverage
+  - cocktail
+  - rum
+  - sour
+description: A quick and easy 2-ingredient cocktail featuring rum and sweet & sour mix, which can be served over ice or blended into a daiquiri.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Rum Sour\", \"author\": {\"@type\": \"Person\", \"name\": \"Phil\"}, \"datePublished\": \"2025-09-20\", \"description\": \"A quick and easy 2-ingredient cocktail featuring rum and sweet & sour mix. Can be served over ice or blended into a daiquiri.\", \"image\": [\"https://cucinamezzaluna.com/Beverages/Cocktails/Assets/Handwritten_2025-05-26_115052.webp\"], \"prepTime\": \"PT5M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT5M\", \"recipeYield\": \"1 cocktail\", \"recipeCategory\": \"Drink\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1.5 ounces (1 shot) rum\", \"4-5 ounces sweet & sour mix\", \"Ice cubes or crushed ice\", \"Pineapple slice or maraschino cherry for garnish (optional)\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Rum Sour", "author": {"@type": "Person", "name": "Phil"}, "datePublished": "2025-09-20", "description": "A quick and easy 2-ingredient cocktail featuring rum and sweet & sour mix. Can be served over ice or blended into a daiquiri.", "image": ["https://cucinamezzaluna.com/Beverages/Cocktails/Assets/Handwritten_2025-05-26_115052.webp"], "prepTime": "PT5M", "cookTime": "PT0M", "totalTime": "PT5M", "recipeYield": "1 cocktail", "recipeCategory": "Drink", "recipeCuisine": "American", "recipeIngredient": ["1.5 ounces (1 shot) rum", "4-5 ounces sweet & sour mix", "Ice cubes or crushed ice", "Pineapple slice or maraschino cherry for garnish (optional)"]}'
 ---
 
 # Rum Sour

@@ -1,13 +1,56 @@
 ---
-title: "Lois's Cabbage Salad"
-category: "Salads"
-collection: "UK2"
-source: "Lois"
-tags: ["salads", "cabbage", "123", "salad"]
-description: "A crisp and tangy vintage cabbage salad layered with fresh onions and green peppers, marinated in a simple oil and vinegar dressing. This refreshing side dish can be easily adjusted for the perfect balance of flavor."
-date: "2026-07-30"
+title: Lois's Cabbage Salad
+category: Salads
+collection: UK2
+source: Lois
+tags:
+  - salads
+  - cabbage
+  - salad
+description: A crisp and tangy vintage cabbage salad layered with fresh onions and green peppers, marinated in a simple oil and vinegar dressing. This refreshing side dish can be easily adjusted for the perfect balance of flavor.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Lois's Cabbage Salad\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Lois\"\n  },\n  \"datePublished\": \"2025-02-01\",\n  \"description\": \"A crisp and tangy vintage cabbage salad layered with fresh onions and green peppers, marinated in a simple oil and vinegar dressing.\",\n  \"prepTime\": \"PT20M\",\n  \"recipeCategory\": \"Salads\",\n  \"recipeYield\": \"6\u20138 Servings\",\n  \"recipeIngredient\": [\n    \"Cabbage\",\n    \"Onions\",\n    \"Salt\",\n    \"Green Peppers\",\n    \"\u00bd Cup Vinegar\",\n    \"\u00bd Cup Oil\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Salt the layers of Cabbage as you chop it, using quite a bit of Salt.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Top with layering of Onions, Salt, then Green Peppers.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in \u00bd Cup Oil and \u00bd Cup Vinegar.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Leave out of refrigerator and toss and stir several times before refrigerating. If it becomes too sour add water and stir.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Lois's Cabbage Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Lois"
+    },
+    "datePublished": "2025-02-01",
+    "description": "A crisp and tangy vintage cabbage salad layered with fresh onions and green peppers, marinated in a simple oil and vinegar dressing.",
+    "prepTime": "PT20M",
+    "recipeCategory": "Salads",
+    "recipeYield": "6–8 Servings",
+    "recipeIngredient": [
+      "Cabbage",
+      "Onions",
+      "Salt",
+      "Green Peppers",
+      "½ Cup Vinegar",
+      "½ Cup Oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Salt the layers of Cabbage as you chop it, using quite a bit of Salt."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with layering of Onions, Salt, then Green Peppers."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in ½ Cup Oil and ½ Cup Vinegar."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Leave out of refrigerator and toss and stir several times before refrigerating. If it becomes too sour add water and stir."
+      }
+    ]
+  }
 ---
 
 # Lois's Cabbage Salad

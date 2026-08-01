@@ -1,13 +1,63 @@
 ---
-title: "Carrot Salad"
-category: "Salads"
-collection: "The Loraine Collection"
-source: "Hazel"
-tags: ["salad", "carrots", "marinated", "123", "cold"]
-description: "A classic marinated carrot salad featuring a savory-sweet hot tomato soup dressing, crisp onions, and bell peppers. This vintage recipe chills overnight to absorb robust flavors before serving."
-date: "2026-07-30"
+title: Carrot Salad
+category: Salads
+collection: The Loraine Collection
+source: Hazel
+tags:
+  - salad
+  - carrots
+  - marinated
+  - cold
+description: A classic marinated carrot salad featuring a savory-sweet hot tomato soup dressing, crisp onions, and bell peppers. This vintage recipe chills overnight to absorb robust flavors before serving.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Carrot Salad\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Hazel\"\n  },\n  \"description\": \"A classic marinated carrot salad featuring a savory-sweet hot tomato soup dressing, crisp onions, and bell peppers.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT15M\",\n  \"totalTime\": \"PT8H35M\",\n  \"recipeYield\": \"6-8 Servings\",\n  \"recipeCategory\": \"Salads\",\n  \"recipeIngredient\": [\n    \"1 can Tomato Soup\",\n    \"3/4 cup Sugar\",\n    \"1/2 cup Oil\",\n    \"1 tsp Mustard\",\n    \"1 tsp Worcestershire Sauce\",\n    \"1/2 cup Vinegar\",\n    \"1 tsp Salt\",\n    \"1 tsp Pepper\",\n    \"2 lbs Carrots\",\n    \"1 medium Onion\",\n    \"1 Bell Pepper\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Peel, slice and cook carrots without salt until tender.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drain well and mix with sliced onion and diced green pepper.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bring Ingredients for hot marinade to a boil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cover carrot mixture with hot marinade and chill overnight.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Carrot Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Hazel"
+    },
+    "description": "A classic marinated carrot salad featuring a savory-sweet hot tomato soup dressing, crisp onions, and bell peppers.",
+    "prepTime": "PT20M",
+    "cookTime": "PT15M",
+    "totalTime": "PT8H35M",
+    "recipeYield": "6-8 Servings",
+    "recipeCategory": "Salads",
+    "recipeIngredient": [
+      "1 can Tomato Soup",
+      "3/4 cup Sugar",
+      "1/2 cup Oil",
+      "1 tsp Mustard",
+      "1 tsp Worcestershire Sauce",
+      "1/2 cup Vinegar",
+      "1 tsp Salt",
+      "1 tsp Pepper",
+      "2 lbs Carrots",
+      "1 medium Onion",
+      "1 Bell Pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel, slice and cook carrots without salt until tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain well and mix with sliced onion and diced green pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring Ingredients for hot marinade to a boil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover carrot mixture with hot marinade and chill overnight."
+      }
+    ]
+  }
 ---
 
 # Carrot Salad

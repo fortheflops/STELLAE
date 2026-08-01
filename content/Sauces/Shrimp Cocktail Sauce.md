@@ -1,13 +1,50 @@
 ---
-title: "Shrimp Cocktail Sauce"
-category: "Sauces"
-collection: "UK2"
-source: "Unknown"
-tags: ["sauces", "cocktailsauce", "seafood", "123", "appetizer"]
-description: "A classic, zesty shrimp cocktail sauce featuring catsup, chili sauce, horseradish, and a splash of cooking sherry. Perfect for pairing with chilled seafood appetizers."
-date: "2026-07-30"
+title: Shrimp Cocktail Sauce
+category: Sauces
+collection: UK2
+source: Unknown
+tags:
+  - sauces
+  - cocktailsauce
+  - seafood
+  - appetizer
+description: A classic, zesty shrimp cocktail sauce featuring catsup, chili sauce, horseradish, and a splash of cooking sherry. Perfect for pairing with chilled seafood appetizers.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Shrimp Cocktail Sauce\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A classic, zesty shrimp cocktail sauce featuring catsup, chili sauce, horseradish, and a splash of cooking sherry.\",\n  \"prepTime\": \"PT10M\",\n  \"recipeYield\": \"4 Servings\",\n  \"recipeCategory\": \"Sauces\",\n  \"recipeIngredient\": [\n    \"\u00bc cup Catsup\",\n    \"\u00bc cup Chili Sauce\",\n    \"\u00bc cup Lemon Juice\",\n    \"1 tsp Grated Horseradish\",\n    \"6 drops Tabasco Sauce\",\n    \"1 tsp Chopped Chives\",\n    \"\u00bd tsp Chopped Parsley\",\n    \"\u00bd cup Cooking Sherry\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine ingredients and place in refrigerator to chill.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"At serving time, place shrimp in cocktail glasses and cover with 1 to 2 Tbsp. of sauce for each serving.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Shrimp Cocktail Sauce",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A classic, zesty shrimp cocktail sauce featuring catsup, chili sauce, horseradish, and a splash of cooking sherry.",
+    "prepTime": "PT10M",
+    "recipeYield": "4 Servings",
+    "recipeCategory": "Sauces",
+    "recipeIngredient": [
+      "¼ cup Catsup",
+      "¼ cup Chili Sauce",
+      "¼ cup Lemon Juice",
+      "1 tsp Grated Horseradish",
+      "6 drops Tabasco Sauce",
+      "1 tsp Chopped Chives",
+      "½ tsp Chopped Parsley",
+      "½ cup Cooking Sherry"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine ingredients and place in refrigerator to chill."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "At serving time, place shrimp in cocktail glasses and cover with 1 to 2 Tbsp. of sauce for each serving."
+      }
+    ]
+  }
 ---
 
 # Shrimp Cocktail Sauce

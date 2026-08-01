@@ -1,13 +1,18 @@
 ---
-title: "Misty Chili with Sweet Potatoes"
-category: "Sides"
-collection: "UK15"
-source: "Moonlite"
-tags: ["sweetpotatoes", "casserole", "123", "marshmallows", "side", "comfortfood"]
-description: "A comforting vintage casserole featuring tender sweet potatoes baked in a sweet vanilla butter glaze and topped with toasted marshmallows. This classic side dish offers a delightful balance of rich and sweet flavors."
-date: "2026-07-30"
+title: Misty Chili with Sweet Potatoes
+category: Sides
+collection: UK15
+source: Moonlite
+tags:
+  - sweetpotatoes
+  - casserole
+  - marshmallows
+  - side
+  - comfortfood
+description: A comforting vintage casserole featuring tender sweet potatoes baked in a sweet vanilla butter glaze and topped with toasted marshmallows. This classic side dish offers a delightful balance of rich and sweet flavors.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Misty Chili with Sweet Potatoes\",\"author\":{\"@type\":\"Person\",\"name\":\"Moonlite\"},\"description\":\"A comforting vintage casserole featuring tender sweet potatoes baked in a sweet vanilla butter glaze and topped with toasted marshmallows.\":\"prepTime\":\"PT15M\",\"cookTime\":\"PT20M\",\"recipeCategory\":\"Sides\",\"recipeYield\":\"4-6 servings\",\"recipeIngredient\":[\"4 medium [[Sweet Potatoes]]\",\"1 cup [[Sugar]]\",\"1 teaspoon [[Vanilla]]\",\"3 tablespoons [[Butter]]\",\"As Needed [[Marshmallows]]\",\"1 cup [[Cream]] or [[Pet Milk]]\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Peel and slice the 4 medium sweet potatoes.\"},{\"@type\":\"HowToStep\",\"text\":\"Boil the potato slices in salted water until tender.\"},{\"@type\":\"HowToStep\",\"text\":\"Drain the potatoes and place them in a baking dish.\"},{\"@type\":\"HowToStep\",\"text\":\"In a small bowl, mix the sugar, vanilla, and melted butter.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour this mixture over the sweet potatoes in the baking dish.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake at 400\u00b0F for 15 minutes.\"},{\"@type\":\"HowToStep\",\"text\":\"Cover the top with marshmallows and return to the oven to brown for about 5 more minutes.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Misty Chili with Sweet Potatoes","author":{"@type":"Person","name":"Moonlite"},"description":"A comforting vintage casserole featuring tender sweet potatoes baked in a sweet vanilla butter glaze and topped with toasted marshmallows.":"prepTime":"PT15M","cookTime":"PT20M","recipeCategory":"Sides","recipeYield":"4-6 servings","recipeIngredient":["4 medium [[Sweet Potatoes]]","1 cup [[Sugar]]","1 teaspoon [[Vanilla]]","3 tablespoons [[Butter]]","As Needed [[Marshmallows]]","1 cup [[Cream]] or [[Pet Milk]]"],"recipeInstructions":[{"@type":"HowToStep","text":"Peel and slice the 4 medium sweet potatoes."},{"@type":"HowToStep","text":"Boil the potato slices in salted water until tender."},{"@type":"HowToStep","text":"Drain the potatoes and place them in a baking dish."},{"@type":"HowToStep","text":"In a small bowl, mix the sugar, vanilla, and melted butter."},{"@type":"HowToStep","text":"Pour this mixture over the sweet potatoes in the baking dish."},{"@type":"HowToStep","text":"Bake at 400°F for 15 minutes."},{"@type":"HowToStep","text":"Cover the top with marshmallows and return to the oven to brown for about 5 more minutes."}]}'
 ---
 
 # Misty Chili with Sweet Potatoes

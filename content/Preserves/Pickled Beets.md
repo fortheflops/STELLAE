@@ -1,13 +1,61 @@
 ---
-title: "Pickled Beets"
-category: "Preserves"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["pickles", "beets", "quickpickle", "123", "appetizer"]
-description: "Discover an extremely simple and quick method for making sweet pickled beets using convenient canned sliced beets. These refrigerator pickles marinate overnight for a tangy, crisp bite that elevates any meal."
-date: "2026-07-30"
+title: Pickled Beets
+category: Preserves
+collection: Jill Collection
+source: Unknown
+tags:
+  - pickles
+  - beets
+  - quickpickle
+  - appetizer
+description: Discover an extremely simple and quick method for making sweet pickled beets using convenient canned sliced beets. These refrigerator pickles marinate overnight for a tangy, crisp bite that elevates any meal.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Pickled Beets\",\n  \"description\": \"An extremely simple and quick method for making sweet pickled beets using canned sliced beets.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT0M\",\n  \"totalTime\": \"PT24H10M\",\n  \"recipeCategory\": \"Preserves\",\n  \"recipeYield\": \"4 Servings\",\n  \"recipeIngredient\": [\n    \"1 can Sliced Beets\",\n    \"1/2 cup Sugar\",\n    \"1/2 cup Vinegar\",\n    \"As Needed Sliced Onion\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drain the juice from the can of sliced beets.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place the drained beets in a jar.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a small bowl, stir the sugar and vinegar together until the sugar begins to dissolve. Pour this mixture over the beets.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add a few slices of onion.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Seal the jar and keep it in the refrigerator. For best flavor, let them marinate for at least 24 hours.\"\n    }\n  ],\n  \"image\": \"Pickled Beets JC-1754841633740.webp\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Pickled Beets",
+    "description": "An extremely simple and quick method for making sweet pickled beets using canned sliced beets.",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "prepTime": "PT10M",
+    "cookTime": "PT0M",
+    "totalTime": "PT24H10M",
+    "recipeCategory": "Preserves",
+    "recipeYield": "4 Servings",
+    "recipeIngredient": [
+      "1 can Sliced Beets",
+      "1/2 cup Sugar",
+      "1/2 cup Vinegar",
+      "As Needed Sliced Onion"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Drain the juice from the can of sliced beets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the drained beets in a jar."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, stir the sugar and vinegar together until the sugar begins to dissolve. Pour this mixture over the beets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add a few slices of onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Seal the jar and keep it in the refrigerator. For best flavor, let them marinate for at least 24 hours."
+      }
+    ],
+    "image": "Pickled Beets JC-1754841633740.webp"
+  }
 ---
 
 # Pickled Beets

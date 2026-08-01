@@ -1,11 +1,16 @@
 ---
-title: "Jill's Make-Ahead Breakfast Strata"
-category: "Breakfast"
-collection: "JillCollection"
-source: "Unknown"
-tags: ["breakfast", "brunch", "casserole", "cheese", "makeahead", "123"]
-description: "A classic make-ahead breakfast or brunch casserole featuring cubed white bread and cheddar cheese soaked in an egg custard, then baked until puffed and golden. Perfect for effortless morning entertaining."
-date: "2026-07-30"
+title: Jill's Make-Ahead Breakfast Strata
+category: Breakfast
+collection: JillCollection
+source: Unknown
+tags:
+  - breakfast
+  - brunch
+  - casserole
+  - cheese
+  - makeahead
+description: A classic make-ahead breakfast or brunch casserole featuring cubed white bread and cheddar cheese soaked in an egg custard, then baked until puffed and golden. Perfect for effortless morning entertaining.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Jill's Make-Ahead Breakfast Strata\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-11-06\", \"description\": \"A classic make-ahead breakfast or brunch casserole from Jill's collection, also known as a cheese strata.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT1H\", \"totalTime\": \"PT1H15M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Breakfast\", \"recipeCuisine\": \"American\"}"
 ---

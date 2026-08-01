@@ -1,13 +1,18 @@
 ---
-title: "Peanut Coconut Brittle"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["brittle", "candy", "peanuts", "coconut", "123", "holiday"]
-description: "A classic stovetop peanut brittle with a delightful twist of shredded coconut for extra texture. This crunchy, sweet, and salty candy is perfect for holiday gifting or special treats."
-date: "2026-07-30"
+title: Peanut Coconut Brittle
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - brittle
+  - candy
+  - peanuts
+  - coconut
+  - holiday
+description: A classic stovetop peanut brittle with a delightful twist of shredded coconut for extra texture. This crunchy, sweet, and salty candy is perfect for holiday gifting or special treats.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Peanut Coconut Brittle\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic stovetop peanut brittle with a delightful twist of shredded coconut.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT20M\", \"recipeYield\": \"2 pounds\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"2 cups sugar\", \"1/2 cup water\", \"1/4 cup Karo syrup\", \"2 tablespoons oleo\", \"1 1/2 cups peanuts\", \"1 cup coconut\", \"2 1/2 teaspoons baking soda\", \"2 tablespoons vanilla\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Peanut Coconut Brittle", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic stovetop peanut brittle with a delightful twist of shredded coconut.", "prepTime": "PT10M", "cookTime": "PT20M", "recipeYield": "2 pounds", "recipeCategory": "Desserts", "recipeIngredient": ["2 cups sugar", "1/2 cup water", "1/4 cup Karo syrup", "2 tablespoons oleo", "1 1/2 cups peanuts", "1 cup coconut", "2 1/2 teaspoons baking soda", "2 tablespoons vanilla"]}'
 ---
 
 # Peanut Coconut Brittle

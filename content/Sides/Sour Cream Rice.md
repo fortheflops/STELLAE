@@ -1,13 +1,17 @@
 ---
-title: "Sour Cream Rice"
-category: "Sides"
-collection: "Patsy's Collection"
-source: "Emma Lou"
-tags: ["rice", "sour cream", "casserole", "side dish", "123"]
-description: "A creamy, comforting baked side dish made with converted rice, green chiles, jalape\u00f1o, and plenty of melted cheddar cheese. This vintage recipe from the Patsy Collection delivers a mild kick and rich texture."
-date: "2026-07-30"
+title: Sour Cream Rice
+category: Sides
+collection: Patsy's Collection
+source: Emma Lou
+tags:
+  - rice
+  - sour cream
+  - casserole
+  - side dish
+description: A creamy, comforting baked side dish made with converted rice, green chiles, jalapeño, and plenty of melted cheddar cheese. This vintage recipe from the Patsy Collection delivers a mild kick and rich texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Sour Cream Rice\", \"author\": {\"@type\": \"Person\", \"name\": \"Emma Lou\"}, \"description\": \"A creamy, comforting baked side dish made with converted rice, green chiles, jalape\u00f1o, and plenty of melted cheddar cheese.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"6-8 Servings\", \"recipeCategory\": \"Sides\", \"recipeIngredient\": [\"Converted Rice\", \"Jalapeno Pepper\", \"Green Chiles\", \"Corn\", \"Black Pepper\", \"Sour Cream\", \"Cheddar Cheese\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Cook Converted Rice as directed with 1 jalapeno pepper and 1 can chopped green chiles.\"}, {\"@type\": \"HowToStep\", \"text\": \"Remove the jalapeno pepper, add another can of corn (optional), more green chiles, lots of ground black pepper, and a large carton of sour cream. Mix.\"}, {\"@type\": \"HowToStep\", \"text\": \"Sprinkle lots of shredded cheddar cheese on top.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake at 350\u00b0 for about 1/2 hr until hot and bubbly.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Sour Cream Rice", "author": {"@type": "Person", "name": "Emma Lou"}, "description": "A creamy, comforting baked side dish made with converted rice, green chiles, jalapeño, and plenty of melted cheddar cheese.", "prepTime": "PT15M", "cookTime": "PT30M", "recipeYield": "6-8 Servings", "recipeCategory": "Sides", "recipeIngredient": ["Converted Rice", "Jalapeno Pepper", "Green Chiles", "Corn", "Black Pepper", "Sour Cream", "Cheddar Cheese"], "recipeInstructions": [{"@type": "HowToStep", "text": "Cook Converted Rice as directed with 1 jalapeno pepper and 1 can chopped green chiles."}, {"@type": "HowToStep", "text": "Remove the jalapeno pepper, add another can of corn (optional), more green chiles, lots of ground black pepper, and a large carton of sour cream. Mix."}, {"@type": "HowToStep", "text": "Sprinkle lots of shredded cheddar cheese on top."}, {"@type": "HowToStep", "text": "Bake at 350° for about 1/2 hr until hot and bubbly."}]}'
 ---
 
 # Sour Cream Rice

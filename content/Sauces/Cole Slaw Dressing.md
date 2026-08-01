@@ -1,13 +1,16 @@
 ---
-title: "Cole Slaw Dressing"
-category: "Sauces"
-collection: "UK2"
-source: "Unknown"
-tags: ["dressing", "coleslaw", "condiment", "123"]
-description: "A simple and classic creamy dressing perfect for fresh coleslaw. This versatile recipe balances tangy vinegar with a touch of sweetness for a perfect crunch."
-date: "2026-07-30"
+title: Cole Slaw Dressing
+category: Sauces
+collection: UK2
+source: Unknown
+tags:
+  - dressing
+  - coleslaw
+  - condiment
+description: A simple and classic creamy dressing perfect for fresh coleslaw. This versatile recipe balances tangy vinegar with a touch of sweetness for a perfect crunch.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Cole Slaw Dressing\", \"recipeCategory\": \"Sauces\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"4 Servings\", \"recipeIngredient\": [\"1/4 Cup Cream\", \"1 Tbsp Vinegar\", \"1-2 Tbsp Sugar\", \"Salt to taste\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine all ingredients in a bowl and whisk until smooth and well combined.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Cole Slaw Dressing", "recipeCategory": "Sauces", "prepTime": "PT5M", "cookTime": "PT0M", "recipeYield": "4 Servings", "recipeIngredient": ["1/4 Cup Cream", "1 Tbsp Vinegar", "1-2 Tbsp Sugar", "Salt to taste"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine all ingredients in a bowl and whisk until smooth and well combined."}]}'
 ---
 
 # Cole Slaw Dressing

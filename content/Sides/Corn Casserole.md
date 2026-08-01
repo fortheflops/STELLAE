@@ -1,13 +1,17 @@
 ---
-title: "Corn Casserole"
-category: "Sides"
-collection: "Patsy's Collection"
-source: "Opal"
-tags: ["casserole", "vegetable", "corn", "patsycollection", "123"]
-description: "A comforting and creamy corn casserole featuring sweet corn and green chiles melted together with rich cream cheese. Perfect as a quick and easy side dish for any weeknight meal or gathering."
-date: "2026-07-30"
+title: Corn Casserole
+category: Sides
+collection: Patsy's Collection
+source: Opal
+tags:
+  - casserole
+  - vegetable
+  - corn
+  - patsycollection
+description: A comforting and creamy corn casserole featuring sweet corn and green chiles melted together with rich cream cheese. Perfect as a quick and easy side dish for any weeknight meal or gathering.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Corn Casserole\", \"author\": {\"@type\": \"Person\", \"name\": \"Opal\"}, \"description\": \"A comforting and creamy corn casserole featuring sweet corn and green chiles melted together with rich cream cheese.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT25M\", \"recipeYield\": \"4-6 Servings\", \"recipeCategory\": \"Sides\", \"recipeIngredient\": [\"1 pkg or 2 Cans Frozen Corn\", \"1 Can Green Chiles\", \"8 oz Cream Cheese\", \"1/4-1/2 Cup Milk\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Melt the 8 oz cream cheese with the 1/4 - 1/2 cup milk over low heat until smooth and creamy.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the 1 pkg or 2 cans frozen corn and 1 can green chiles to the mixture, stirring well to combine all ingredients.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake at 350\u00b0 till bubbly or can simmer on top of stove.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Corn Casserole", "author": {"@type": "Person", "name": "Opal"}, "description": "A comforting and creamy corn casserole featuring sweet corn and green chiles melted together with rich cream cheese.", "prepTime": "PT10M", "cookTime": "PT25M", "recipeYield": "4-6 Servings", "recipeCategory": "Sides", "recipeIngredient": ["1 pkg or 2 Cans Frozen Corn", "1 Can Green Chiles", "8 oz Cream Cheese", "1/4-1/2 Cup Milk"], "recipeInstructions": [{"@type": "HowToStep", "text": "Melt the 8 oz cream cheese with the 1/4 - 1/2 cup milk over low heat until smooth and creamy."}, {"@type": "HowToStep", "text": "Add the 1 pkg or 2 cans frozen corn and 1 can green chiles to the mixture, stirring well to combine all ingredients."}, {"@type": "HowToStep", "text": "Bake at 350° till bubbly or can simmer on top of stove."}]}'
 ---
 
 # Corn Casserole

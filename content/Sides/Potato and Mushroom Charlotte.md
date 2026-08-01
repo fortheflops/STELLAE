@@ -1,13 +1,62 @@
 ---
-title: "Potato and Mushroom Charlotte"
-category: "Sides"
-collection: "Patsy Collection"
-source: "Unknown"
-tags: ["sidedish", "123", "mushrooms", "potatoes", "charlotte"]
-description: "An elegant layered potato and wild mushroom charlette baked to golden perfection. This vintage side dish features a rich mushroom filling encased in thinly sliced russet potatoes and parmesan cheese."
-date: "2026-07-30"
+title: Potato and Mushroom Charlotte
+category: Sides
+collection: Patsy Collection
+source: Unknown
+tags:
+  - sidedish
+  - mushrooms
+  - potatoes
+  - charlotte
+description: An elegant layered potato and wild mushroom charlette baked to golden perfection. This vintage side dish features a rich mushroom filling encased in thinly sliced russet potatoes and parmesan cheese.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Potato and Mushroom Charlotte\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"An elegant layered potato and wild mushroom charlotte baked to golden perfection.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT45M\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeYield\": \"6-8 Servings\",\n  \"recipeIngredient\": [\n    \"4 oz Fresh Shitakee Mushrooms\",\n    \"4 oz Chanterelle Mushrooms\",\n    \"4 oz Oyster Mushrooms\",\n    \"1 Tbsp Chives\",\n    \"Salt\",\n    \"Pepper\",\n    \"3 cups Russet Potatoes\",\n    \"6 Tbsp Parmesan Cheese\",\n    \"2 tsp Olive Oil\",\n    \"Butter\",\n    \"Flour\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Melt butter in a pan, add flour to create a roux, cook mushrooms until tender, and season with salt, pepper, and chives.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Blanch potato slices, drain, mix with parmesan cheese and olive oil, and dry on towels.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Layer potatoes, mushrooms, and cheese in 8 total layers in a mold, ending with potatoes and a drizzle of olive oil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake at 400\u00b0F until golden brown, pressing down with a spatula, until a knife easily pierces the layers.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Potato and Mushroom Charlotte",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "An elegant layered potato and wild mushroom charlotte baked to golden perfection.",
+    "prepTime": "PT30M",
+    "cookTime": "PT45M",
+    "recipeCategory": "Sides",
+    "recipeYield": "6-8 Servings",
+    "recipeIngredient": [
+      "4 oz Fresh Shitakee Mushrooms",
+      "4 oz Chanterelle Mushrooms",
+      "4 oz Oyster Mushrooms",
+      "1 Tbsp Chives",
+      "Salt",
+      "Pepper",
+      "3 cups Russet Potatoes",
+      "6 Tbsp Parmesan Cheese",
+      "2 tsp Olive Oil",
+      "Butter",
+      "Flour"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Melt butter in a pan, add flour to create a roux, cook mushrooms until tender, and season with salt, pepper, and chives."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blanch potato slices, drain, mix with parmesan cheese and olive oil, and dry on towels."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Layer potatoes, mushrooms, and cheese in 8 total layers in a mold, ending with potatoes and a drizzle of olive oil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake at 400°F until golden brown, pressing down with a spatula, until a knife easily pierces the layers."
+      }
+    ]
+  }
 ---
 
 # Potato and Mushroom Charlotte

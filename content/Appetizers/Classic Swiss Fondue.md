@@ -1,13 +1,17 @@
 ---
-title: "Classic Swiss Fondue"
-category: "Appetizers"
-collection: "Patsy Collection"
-source: "Unknown"
-tags: ["fondue", "cheesedip", "123", "appetizer", "swiss"]
-description: "A traditional Swiss-style fondue featuring a blend of dry white wine and natural Swiss cheese. This rich, melted dip is perfect for communal dining and crusty bread dipping."
-date: "2026-07-30"
+title: Classic Swiss Fondue
+category: Appetizers
+collection: Patsy Collection
+source: Unknown
+tags:
+  - fondue
+  - cheesedip
+  - appetizer
+  - swiss
+description: A traditional Swiss-style fondue featuring a blend of dry white wine and natural Swiss cheese. This rich, melted dip is perfect for communal dining and crusty bread dipping.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Swiss Fondue\", \"recipeIngredient\": [\"1/2 clove Garlic\", \"3 Tbsp Kirsch\", \"2 Cups Dry White Wine\", \"3 Tbsp Corn Starch\", \"1 LB Natural Swiss Cheese\", \"1/4 tsp Baking Soda\", \"White Pepper\", \"Paprika\", \"Nutmeg\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Rub the pot with garlic.\"}, {\"@type\": \"HowToStep\", \"text\": \"Mix corn starch and kirsch.\"}, {\"@type\": \"HowToStep\", \"text\": \"Heat wine, add cheese, then thicken with starch mixture and spices.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Swiss Fondue", "recipeIngredient": ["1/2 clove Garlic", "3 Tbsp Kirsch", "2 Cups Dry White Wine", "3 Tbsp Corn Starch", "1 LB Natural Swiss Cheese", "1/4 tsp Baking Soda", "White Pepper", "Paprika", "Nutmeg"], "recipeInstructions": [{"@type": "HowToStep", "text": "Rub the pot with garlic."}, {"@type": "HowToStep", "text": "Mix corn starch and kirsch."}, {"@type": "HowToStep", "text": "Heat wine, add cheese, then thicken with starch mixture and spices."}]}'
 ---
 
 # Classic Swiss Fondue

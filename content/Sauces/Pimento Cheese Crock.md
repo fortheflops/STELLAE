@@ -1,13 +1,17 @@
 ---
-title: "Pimento Cheese Crock"
-category: "Sauces"
-collection: "UK3"
-source: "Karlene Jensen"
-tags: ["pimento", "cheese", "dip", "123", "spread"]
-description: "A classic, creamy pimento cheese dip made with melted Velveeta and tangy vinegar. This vintage recipe is perfect for parties and easily stored for later enjoyment."
-date: "2026-07-30"
+title: Pimento Cheese Crock
+category: Sauces
+collection: UK3
+source: Karlene Jensen
+tags:
+  - pimento
+  - cheese
+  - dip
+  - spread
+description: A classic, creamy pimento cheese dip made with melted Velveeta and tangy vinegar. This vintage recipe is perfect for parties and easily stored for later enjoyment.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Pimento Cheese Crock\", \"author\": {\"@type\": \"Person\", \"name\": \"Karlene Jensen\"}, \"description\": \"A classic, creamy pimento cheese dip made with melted Velveeta and tangy vinegar.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT15M\", \"recipeIngredient\": [\"1 13-ounce can Evaporated Milk\", \"1/2 pound Velveeta Cheese\", \"1 large jar Pimentos\", \"2 tablespoons Vinegar\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Bring evaporated milk to a boil in a double boiler.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add Velveeta cheese, pimentos, and vinegar.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bring to a boil again until smooth.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Pimento Cheese Crock", "author": {"@type": "Person", "name": "Karlene Jensen"}, "description": "A classic, creamy pimento cheese dip made with melted Velveeta and tangy vinegar.", "prepTime": "PT5M", "cookTime": "PT15M", "recipeIngredient": ["1 13-ounce can Evaporated Milk", "1/2 pound Velveeta Cheese", "1 large jar Pimentos", "2 tablespoons Vinegar"], "recipeInstructions": [{"@type": "HowToStep", "text": "Bring evaporated milk to a boil in a double boiler."}, {"@type": "HowToStep", "text": "Add Velveeta cheese, pimentos, and vinegar."}, {"@type": "HowToStep", "text": "Bring to a boil again until smooth."}]}'
 ---
 
 # Pimento Cheese Crock

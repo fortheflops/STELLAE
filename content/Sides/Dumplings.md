@@ -1,13 +1,16 @@
 ---
-title: "Dumplings"
-category: "Sides"
-collection: "UK2"
-source: "Jr. League"
-tags: ["dumplings", "123", "comfortfood", "side"]
-description: "Discover how to make tender homemade dumplings from scratch with this vintage Jr. League recipe, perfect for pairing with savory chicken broth. These delicate strips are rolled thin and simmered to golden perfection for a comforting homestyle side."
-date: "2026-07-30"
+title: Dumplings
+category: Sides
+collection: UK2
+source: Jr. League
+tags:
+  - dumplings
+  - comfortfood
+  - side
+description: Discover how to make tender homemade dumplings from scratch with this vintage Jr. League recipe, perfect for pairing with savory chicken broth. These delicate strips are rolled thin and simmered to golden perfection for a comforting homestyle side.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Dumplings\",\"author\":{\"@type\":\"Person\",\"name\":\"Jr. League\"},\"description\":\"Vintage recipe for homemade dumplings from the UK2 collection.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT6M\",\"recipeYield\":\"6-8 Servings\",\"recipeCategory\":\"Sides\",\"recipeIngredient\":[\"1 1/2 C Sifted Self Rising Flour\",\"3 T Shortening\",\"7 T Cold Milk\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Mix salt, flour, shortening, & milk as for pie crust.\"},{\"@type\":\"HowToStep\",\"text\":\"Roll very thin & cut into 1x3 inches strips.\"},{\"@type\":\"HowToStep\",\"text\":\"Drop one at a time into vigorously boiling broth.\"},{\"@type\":\"HowToStep\",\"text\":\"After the last strip is dropped into the broth, allow to cook for 6 minutes.\"},{\"@type\":\"HowToStep\",\"text\":\"Remove from heat, add chicken, stir gently.\"},{\"@type\":\"HowToStep\",\"text\":\"Let stand at least 1 hour before serving.\"},{\"@type\":\"HowToStep\",\"text\":\"Warm gently to serving temp.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Dumplings","author":{"@type":"Person","name":"Jr. League"},"description":"Vintage recipe for homemade dumplings from the UK2 collection.","prepTime":"PT15M","cookTime":"PT6M","recipeYield":"6-8 Servings","recipeCategory":"Sides","recipeIngredient":["1 1/2 C Sifted Self Rising Flour","3 T Shortening","7 T Cold Milk"],"recipeInstructions":[{"@type":"HowToStep","text":"Mix salt, flour, shortening, & milk as for pie crust."},{"@type":"HowToStep","text":"Roll very thin & cut into 1x3 inches strips."},{"@type":"HowToStep","text":"Drop one at a time into vigorously boiling broth."},{"@type":"HowToStep","text":"After the last strip is dropped into the broth, allow to cook for 6 minutes."},{"@type":"HowToStep","text":"Remove from heat, add chicken, stir gently."},{"@type":"HowToStep","text":"Let stand at least 1 hour before serving."},{"@type":"HowToStep","text":"Warm gently to serving temp."}]}'
 ---
 
 # Dumplings

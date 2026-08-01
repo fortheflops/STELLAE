@@ -1,13 +1,18 @@
 ---
-title: "Party Cookies (M&M Cookies)"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["cookies", "dessert", "chocolate", "party", "123", "sweets"]
-description: "A classic, crowd-pleasing recipe for soft and chewy M&M cookies. This simple drop cookie is packed with colorful candy-coated chocolates, making it a perfect treat for any party."
-date: "2026-07-30"
+title: Party Cookies (M&M Cookies)
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - cookies
+  - dessert
+  - chocolate
+  - party
+  - sweets
+description: A classic, crowd-pleasing recipe for soft and chewy M&M cookies. This simple drop cookie is packed with colorful candy-coated chocolates, making it a perfect treat for any party.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Party Cookies (M&M Cookies)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, crowd-pleasing recipe for soft and chewy M&M cookies.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT12M\", \"recipeYield\": \"4 dozen\", \"recipeIngredient\": [\"1 cup shortening\", \"1 cup packed brown sugar\", \"1/2 cup granulated sugar\", \"2 large eggs\", \"2 teaspoons vanilla extract\", \"2 1/4 cups sifted all-purpose flour\", \"1 teaspoon baking soda\", \"1 teaspoon salt\", \"1 1/2 cups M&M candies\"], \"recipeCategory\": \"Desserts\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Party Cookies (M&M Cookies)", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, crowd-pleasing recipe for soft and chewy M&M cookies.", "prepTime": "PT15M", "cookTime": "PT12M", "recipeYield": "4 dozen", "recipeIngredient": ["1 cup shortening", "1 cup packed brown sugar", "1/2 cup granulated sugar", "2 large eggs", "2 teaspoons vanilla extract", "2 1/4 cups sifted all-purpose flour", "1 teaspoon baking soda", "1 teaspoon salt", "1 1/2 cups M&M candies"], "recipeCategory": "Desserts"}'
 ---
 
 # Party Cookies (M&M Cookies)

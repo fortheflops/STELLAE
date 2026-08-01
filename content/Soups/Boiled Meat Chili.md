@@ -1,13 +1,50 @@
 ---
-title: "Boiled Meat Chili"
-category: "Soups"
-collection: "UK5"
-source: "Unknown"
-tags: ["chili", "meat", "soup", "123"]
-description: "A traditional, slow-simmered boiled meat chili featuring tender shredded pork or beef in a richly spiced broth. This rustic recipe relies on reduction for thickness rather than flour."
-date: "2026-07-30"
+title: Boiled Meat Chili
+category: Soups
+collection: UK5
+source: Unknown
+tags:
+  - chili
+  - meat
+  - soup
+description: A traditional, slow-simmered boiled meat chili featuring tender shredded pork or beef in a richly spiced broth. This rustic recipe relies on reduction for thickness rather than flour.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Boiled Meat Chili\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A traditional, slow-simmered boiled meat chili featuring tender shredded pork or beef in a richly spiced broth.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT2H\",\n  \"recipeYield\": \"6-8 Servings\",\n  \"recipeCategory\": \"Soups\",\n  \"recipeIngredient\": [\n    \"Pork or Beef Stewing Meat or Roast\",\n    \"Water\",\n    \"Chili Powder\",\n    \"Spices (salt, garlic, oregano)\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Boil the pork or beef in a covered pot with water until tender, about 2 hours.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Let the meat cool, remove from broth, and shred or chop.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add chili powder and other spices to the reserved broth, then return the meat to the spiced broth and continue cooking until desired consistency is reached.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Boiled Meat Chili",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A traditional, slow-simmered boiled meat chili featuring tender shredded pork or beef in a richly spiced broth.",
+    "prepTime": "PT15M",
+    "cookTime": "PT2H",
+    "recipeYield": "6-8 Servings",
+    "recipeCategory": "Soups",
+    "recipeIngredient": [
+      "Pork or Beef Stewing Meat or Roast",
+      "Water",
+      "Chili Powder",
+      "Spices (salt, garlic, oregano)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Boil the pork or beef in a covered pot with water until tender, about 2 hours."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the meat cool, remove from broth, and shred or chop."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add chili powder and other spices to the reserved broth, then return the meat to the spiced broth and continue cooking until desired consistency is reached."
+      }
+    ]
+  }
 ---
 
 # Boiled Meat Chili

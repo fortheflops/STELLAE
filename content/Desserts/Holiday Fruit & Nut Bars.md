@@ -1,13 +1,18 @@
 ---
-title: "Holiday Fruit & Nut Bars"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["holiday", "bars", "fruitcake", "123", "largebatch", "cookies"]
-description: "A festive, large-batch recipe for rich and chewy fruitcake-style bars. This batter is packed with dates, pineapple, cherries, chocolate chips, and nuts, making it perfect for holiday gift-giving."
-date: "2026-07-30"
+title: Holiday Fruit & Nut Bars
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - holiday
+  - bars
+  - fruitcake
+  - largebatch
+  - cookies
+description: A festive, large-batch recipe for rich and chewy fruitcake-style bars. This batter is packed with dates, pineapple, cherries, chocolate chips, and nuts, making it perfect for holiday gift-giving.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Holiday Fruit & Nut Bars\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT25M\", \"cookTime\": \"PT55M\", \"recipeYield\": \"5-6 dozen bars\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"9 large eggs\", \"3 cups sugar\", \"4 1/2 cups all-purpose flour\", \"4 1/2 teaspoons baking powder\", \"3/4 teaspoon salt\", \"6 cups chopped nuts\", \"3 cups chopped dates\", \"3 cups crushed pineapple\", \"3 cups maraschino or candied cherries\", \"3/4 pound chocolate chips\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Holiday Fruit & Nut Bars", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT25M", "cookTime": "PT55M", "recipeYield": "5-6 dozen bars", "recipeCategory": "Dessert", "recipeIngredient": ["9 large eggs", "3 cups sugar", "4 1/2 cups all-purpose flour", "4 1/2 teaspoons baking powder", "3/4 teaspoon salt", "6 cups chopped nuts", "3 cups chopped dates", "3 cups crushed pineapple", "3 cups maraschino or candied cherries", "3/4 pound chocolate chips"]}'
 ---
 
 # Holiday Fruit & Nut Bars

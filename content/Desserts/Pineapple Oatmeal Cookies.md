@@ -1,13 +1,18 @@
 ---
-title: "Pineapple Oatmeal Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "oatmeal", "pineapple", "123", "tropical", "dessert"]
-description: "A soft and chewy oatmeal drop cookie featuring a tropical twist of crushed pineapple and warm spices. These cookies are perfectly balanced with brown sugar and crunchy walnuts."
-date: "2026-07-30"
+title: Pineapple Oatmeal Cookies
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - oatmeal
+  - pineapple
+  - tropical
+  - dessert
+description: A soft and chewy oatmeal drop cookie featuring a tropical twist of crushed pineapple and warm spices. These cookies are perfectly balanced with brown sugar and crunchy walnuts.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Pineapple Oatmeal Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A soft and chewy oatmeal drop cookie featuring a tropical twist of crushed pineapple and warm spices.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"36 cookies\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Pineapple Oatmeal Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A soft and chewy oatmeal drop cookie featuring a tropical twist of crushed pineapple and warm spices.", "prepTime": "PT15M", "cookTime": "PT15M", "recipeYield": "36 cookies", "recipeCategory": "Dessert"}'
 ---
 
 # Pineapple Oatmeal Cookies

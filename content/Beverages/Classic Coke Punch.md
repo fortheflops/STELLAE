@@ -1,13 +1,63 @@
 ---
-title: "Classic Coke Punch"
-category: "Beverages"
-collection: "UK3"
-source: "Unknown"
-tags: ["beverage", "punch", "party", "123", "cola", "unknownthree"]
-description: "A simple, old-fashioned party punch recipe featuring the classic taste of Coca-Cola mixed with the bright, fruity flavors of pineapple and fresh lemon juice."
-date: "2026-07-30"
+title: Classic Coke Punch
+category: Beverages
+collection: UK3
+source: Unknown
+tags:
+  - beverage
+  - punch
+  - party
+  - cola
+  - unknownthree
+description: A simple, old-fashioned party punch recipe featuring the classic taste of Coca-Cola mixed with the bright, fruity flavors of pineapple and fresh lemon juice.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Classic Coke Punch\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-09-20\",\n  \"description\": \"A refreshing party punch made by combining Coca-Cola with pineapple juice, fresh lemon juice, and a simple sugar syrup.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Beverages/Punch/Assets/Handwritten_2025-03-16_151514.webp\"\n  ],\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT5M\",\n  \"totalTime\": \"PT15M\",\n  \"recipeYield\": \"12-15 servings\",\n  \"recipeCategory\": \"Beverages\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 cups water\",\n    \"3/4 cup sugar\",\n    \"1 cup pineapple juice, chilled\",\n    \"Juice of 3 lemons\",\n    \"1 (2-liter) bottle Coca-Cola, chilled\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"First, create a simple syrup by combining the water and sugar in a small saucepan. Heat over medium heat, stirring, until the sugar has completely dissolved. Set aside to cool completely.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large punch bowl or pitcher, combine the cooled sugar syrup, the chilled pineapple juice, and the fresh juice from the three lemons.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Just before serving, gently pour in the chilled Coca-Cola.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir briefly to mix and serve immediately in glasses over ice.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Classic Coke Punch",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-09-20",
+    "description": "A refreshing party punch made by combining Coca-Cola with pineapple juice, fresh lemon juice, and a simple sugar syrup.",
+    "image": [
+      "https://cucinamezzaluna.com/Beverages/Punch/Assets/Handwritten_2025-03-16_151514.webp"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT5M",
+    "totalTime": "PT15M",
+    "recipeYield": "12-15 servings",
+    "recipeCategory": "Beverages",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 cups water",
+      "3/4 cup sugar",
+      "1 cup pineapple juice, chilled",
+      "Juice of 3 lemons",
+      "1 (2-liter) bottle Coca-Cola, chilled"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "First, create a simple syrup by combining the water and sugar in a small saucepan. Heat over medium heat, stirring, until the sugar has completely dissolved. Set aside to cool completely."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large punch bowl or pitcher, combine the cooled sugar syrup, the chilled pineapple juice, and the fresh juice from the three lemons."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Just before serving, gently pour in the chilled Coca-Cola."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir briefly to mix and serve immediately in glasses over ice."
+      }
+    ]
+  }
 ---
 
 # Classic Coke Punch

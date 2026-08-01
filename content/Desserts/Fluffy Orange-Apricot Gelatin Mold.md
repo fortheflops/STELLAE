@@ -1,13 +1,79 @@
 ---
-title: "Fluffy Orange-Apricot Gelatin Mold"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "gelatin", "123", "mousse", "fruit"]
-description: "An elegant and airy gelatin mold featuring the bright flavors of orange and apricot. Whipped egg whites are folded into the base to create a light, mousse-like texture, studded with fresh fruit."
-date: "2026-07-30"
+title: Fluffy Orange-Apricot Gelatin Mold
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - gelatin
+  - mousse
+  - fruit
+description: An elegant and airy gelatin mold featuring the bright flavors of orange and apricot. Whipped egg whites are folded into the base to create a light, mousse-like texture, studded with fresh fruit.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Fluffy Orange-Apricot Gelatin Mold\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-13\",\n  \"description\": \"An elegant and airy gelatin mold featuring the bright flavors of orange and apricot. Whipped egg whites are folded into the base to create a light, mousse-like texture, studded with fresh fruit.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Gelatin/Assets/Handwritten_2025-02-19_110700.webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT5M\",\n  \"totalTime\": \"PT25M\",\n  \"recipeYield\": \"8-10 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"4 1/2 Cups orange juice, divided\",\n    \"1/3 Cup sugar\",\n    \"3 envelopes unflavored gelatin\",\n    \"1/4 Cup apricot nectar\",\n    \"2 large egg whites\",\n    \"1 Pint (2 cups) mixed fruit (e.g., pears, peaches, apricots, grapes, or berries)\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a medium saucepan, combine 1 cup of the orange juice, the sugar, and the unflavored gelatin. Let it stand for a minute to soften the gelatin.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Heat the mixture over medium-low heat, stirring constantly, until the sugar and gelatin are completely dissolved. Do not boil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Remove from heat and stir in the remaining 3 1/2 cups of orange juice and the apricot nectar.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the mixture into a large bowl and chill in the refrigerator until it is syrupy and has the consistency of unbeaten egg whites.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate, clean bowl, beat the 2 egg whites until they form soft peaks.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Gently fold the whipped egg whites into the chilled, syrupy gelatin mixture.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Fold in your choice of mixed fresh fruit.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the final mixture into a 1 1/2 quart mold and refrigerate for at least 6 hours, or overnight, until completely firm.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Fluffy Orange-Apricot Gelatin Mold",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-13",
+    "description": "An elegant and airy gelatin mold featuring the bright flavors of orange and apricot. Whipped egg whites are folded into the base to create a light, mousse-like texture, studded with fresh fruit.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Gelatin/Assets/Handwritten_2025-02-19_110700.webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT5M",
+    "totalTime": "PT25M",
+    "recipeYield": "8-10 servings",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "4 1/2 Cups orange juice, divided",
+      "1/3 Cup sugar",
+      "3 envelopes unflavored gelatin",
+      "1/4 Cup apricot nectar",
+      "2 large egg whites",
+      "1 Pint (2 cups) mixed fruit (e.g., pears, peaches, apricots, grapes, or berries)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a medium saucepan, combine 1 cup of the orange juice, the sugar, and the unflavored gelatin. Let it stand for a minute to soften the gelatin."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the mixture over medium-low heat, stirring constantly, until the sugar and gelatin are completely dissolved. Do not boil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from heat and stir in the remaining 3 1/2 cups of orange juice and the apricot nectar."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the mixture into a large bowl and chill in the refrigerator until it is syrupy and has the consistency of unbeaten egg whites."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate, clean bowl, beat the 2 egg whites until they form soft peaks."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently fold the whipped egg whites into the chilled, syrupy gelatin mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fold in your choice of mixed fresh fruit."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the final mixture into a 1 1/2 quart mold and refrigerate for at least 6 hours, or overnight, until completely firm."
+      }
+    ]
+  }
 ---
 
 # Fluffy Orange-Apricot Gelatin Mold

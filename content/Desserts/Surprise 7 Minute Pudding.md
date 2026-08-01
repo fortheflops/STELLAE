@@ -1,13 +1,18 @@
 ---
-title: "Surprise 7 Minute Pudding"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["pudding", "steamed", "123", "british", "holiday", "dessert"]
-description: "A traditional, rich steamed pudding featuring a surprise blend of grated carrots, candied fruits, and pecans. Despite the quick assembly time, this classic dessert is steamed for four hours to achieve a moist, flavorful texture."
-date: "2026-07-30"
+title: Surprise 7 Minute Pudding
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - pudding
+  - steamed
+  - british
+  - holiday
+  - dessert
+description: A traditional, rich steamed pudding featuring a surprise blend of grated carrots, candied fruits, and pecans. Despite the quick assembly time, this classic dessert is steamed for four hours to achieve a moist, flavorful texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Surprise 7 Minute Pudding\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT4H\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Surprise 7 Minute Pudding", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT15M", "cookTime": "PT4H", "recipeYield": "8-10 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Surprise 7 Minute Pudding

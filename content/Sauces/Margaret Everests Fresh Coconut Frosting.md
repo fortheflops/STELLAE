@@ -1,11 +1,15 @@
 ---
-title: "Margaret Everest's Fresh Coconut Frosting"
-category: "Sauces"
-collection: "Gail Collection"
-source: "Margaret Everest"
-tags: ["frosting", "coconut", "meringue", "123", "uncooked"]
-description: "A classic, uncooked meringue frosting featuring freshly grated coconut for a uniquely moist texture. This airy topping is designed to soak into cake layers for a deep, tropical flavor."
-date: "2026-07-30"
+title: Margaret Everest's Fresh Coconut Frosting
+category: Sauces
+collection: Gail Collection
+source: Margaret Everest
+tags:
+  - frosting
+  - coconut
+  - meringue
+  - uncooked
+description: A classic, uncooked meringue frosting featuring freshly grated coconut for a uniquely moist texture. This airy topping is designed to soak into cake layers for a deep, tropical flavor.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Margaret Everest's Fresh Coconut Frosting\", \"author\": {\"@type\": \"Person\", \"name\": \"Margaret Everest\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"Frosting for one two-layer cake\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"1 small fresh coconut, finely grated\", \"2 egg whites\", \"1 cup granulated sugar\", \"1 teaspoon vanilla extract\"]}"
 ---

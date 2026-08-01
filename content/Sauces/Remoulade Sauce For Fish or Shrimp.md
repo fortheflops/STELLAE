@@ -1,13 +1,17 @@
 ---
-title: "Remoulade Sauce For Fish or Shrimp"
-category: "Sauces"
-collection: "The Loraine Collection"
-source: "Unknown"
-tags: ["remoulade", "sauce", "seafood", "condiment", "123"]
-description: "A classic, zesty remoulade sauce featuring a blend of horseradish, tarragon vinegar, and fresh aromatics. Perfect for elevating fried fish or chilled shrimp dishes."
-date: "2026-07-30"
+title: Remoulade Sauce For Fish or Shrimp
+category: Sauces
+collection: The Loraine Collection
+source: Unknown
+tags:
+  - remoulade
+  - sauce
+  - seafood
+  - condiment
+description: A classic, zesty remoulade sauce featuring a blend of horseradish, tarragon vinegar, and fresh aromatics. Perfect for elevating fried fish or chilled shrimp dishes.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Remoulade Sauce For Fish or Shrimp\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, zesty remoulade sauce featuring a blend of horseradish, tarragon vinegar, and fresh aromatics.\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"1 Tbsp Horseradish Mustard\", \"1/2 Cup Tarragon Vinegar\", \"2 Tbsp Tomato Catsup\", \"1 Tbsp Paprika\", \"1/2 tsp Cayenne Pepper\", \"1 clove Garlic\", \"1 Cup Salad Oil\", \"1/2 Cup Green Onion\", \"1/2 Cup Celery\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Press garlic and whisk with vinegar and spices.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add oil and beat thoroughly, then fold in onions and celery.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Remoulade Sauce For Fish or Shrimp", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, zesty remoulade sauce featuring a blend of horseradish, tarragon vinegar, and fresh aromatics.", "recipeCategory": "Sauces", "recipeIngredient": ["1 Tbsp Horseradish Mustard", "1/2 Cup Tarragon Vinegar", "2 Tbsp Tomato Catsup", "1 Tbsp Paprika", "1/2 tsp Cayenne Pepper", "1 clove Garlic", "1 Cup Salad Oil", "1/2 Cup Green Onion", "1/2 Cup Celery"], "recipeInstructions": [{"@type": "HowToStep", "text": "Press garlic and whisk with vinegar and spices."}, {"@type": "HowToStep", "text": "Add oil and beat thoroughly, then fold in onions and celery."}]}'
 ---
 
 # Remoulade Sauce For Fish or Shrimp

@@ -1,13 +1,18 @@
 ---
-title: "Chocolate Toffee Bars"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["dessert", "cookies", "bars", "toffee", "chocolate", "123"]
-description: "A classic and incredibly easy recipe for toffee bars featuring a rich, buttery brown sugar shortbread base topped with melted chocolate and crunchy nuts. These simple bar cookies are perfect for sharing and come together with minimal effort."
-date: "2026-07-30"
+title: Chocolate Toffee Bars
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - dessert
+  - cookies
+  - bars
+  - toffee
+  - chocolate
+description: A classic and incredibly easy recipe for toffee bars featuring a rich, buttery brown sugar shortbread base topped with melted chocolate and crunchy nuts. These simple bar cookies are perfect for sharing and come together with minimal effort.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Chocolate Toffee Bars\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic and incredibly easy recipe for toffee bars featuring a rich, buttery brown sugar shortbread base topped with melted chocolate and crunchy nuts.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT25M\", \"recipeYield\": \"4 dozen small squares\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"3/4 cup butter, softened\", \"1/2 cup packed brown sugar\", \"2 cups all-purpose flour\", \"1 package (6-12 oz) semi-sweet chocolate chips\", \"1/2 cup chopped nuts\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Chocolate Toffee Bars", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic and incredibly easy recipe for toffee bars featuring a rich, buttery brown sugar shortbread base topped with melted chocolate and crunchy nuts.", "prepTime": "PT10M", "cookTime": "PT25M", "recipeYield": "4 dozen small squares", "recipeCategory": "Dessert", "recipeIngredient": ["3/4 cup butter, softened", "1/2 cup packed brown sugar", "2 cups all-purpose flour", "1 package (6-12 oz) semi-sweet chocolate chips", "1/2 cup chopped nuts"]}'
 ---
 
 # Chocolate Toffee Bars

@@ -1,13 +1,57 @@
 ---
-title: "Four Bean Salad"
-category: "Salads"
-collection: "LOC"
-source: "Unknown"
-tags: ["salad", "beans", "123", "louisecollection", "sidedish", "cold"]
-description: "A classic marinated four bean salad featuring green, wax, kidney, and garbanzo beans tossed in a tangy vinaigrette. Chill overnight for the best flavor development before serving."
-date: "2026-07-30"
+title: Four Bean Salad
+category: Salads
+collection: LOC
+source: Unknown
+tags:
+  - salad
+  - beans
+  - louisecollection
+  - sidedish
+  - cold
+description: A classic marinated four bean salad featuring green, wax, kidney, and garbanzo beans tossed in a tangy vinaigrette. Chill overnight for the best flavor development before serving.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Four Bean Salad\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-05-15\",\n  \"description\": \"A classic marinated four bean salad featuring green, wax, kidney, and garbanzo beans tossed in a tangy vinaigrette.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT0M\",\n  \"recipeCategory\": \"Salads\",\n  \"recipeCuisine\": \"American\",\n  \"recipeYield\": \"6-8 servings\",\n  \"recipeIngredient\": [\n    \"1 Can Cut Green Beans\",\n    \"1 Can Cut Wax Beans\",\n    \"1 Can Kidney Beans\",\n    \"1 Can Garbanzo Beans\",\n    \"1 Medium Onion\",\n    \"1 Can Sweet Pepper Flakes\",\n    \"1/3 Cup Oil\",\n    \"2/3 Cup White Vinegar\",\n    \"1 Teaspoon Salt\",\n    \"Dash Pepper\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drain all the canned green beans, wax beans, kidney beans, and garbanzo beans. Chop or slice the medium onion. In a large bowl, combine the drained beans and the onion.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate bowl or jar, mix together the oil, white vinegar, salt, dash of pepper, and the can of sweet pepper flakes. Pour the dressing over the beans, mix well, and chill for several hours or overnight.\"\n    }\n  ],\n  \"image\": \"Handwritten_2025-05-15_133135.webp\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Four Bean Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-05-15",
+    "description": "A classic marinated four bean salad featuring green, wax, kidney, and garbanzo beans tossed in a tangy vinaigrette.",
+    "prepTime": "PT15M",
+    "cookTime": "PT0M",
+    "recipeCategory": "Salads",
+    "recipeCuisine": "American",
+    "recipeYield": "6-8 servings",
+    "recipeIngredient": [
+      "1 Can Cut Green Beans",
+      "1 Can Cut Wax Beans",
+      "1 Can Kidney Beans",
+      "1 Can Garbanzo Beans",
+      "1 Medium Onion",
+      "1 Can Sweet Pepper Flakes",
+      "1/3 Cup Oil",
+      "2/3 Cup White Vinegar",
+      "1 Teaspoon Salt",
+      "Dash Pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Drain all the canned green beans, wax beans, kidney beans, and garbanzo beans. Chop or slice the medium onion. In a large bowl, combine the drained beans and the onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl or jar, mix together the oil, white vinegar, salt, dash of pepper, and the can of sweet pepper flakes. Pour the dressing over the beans, mix well, and chill for several hours or overnight."
+      }
+    ],
+    "image": "Handwritten_2025-05-15_133135.webp"
+  }
 ---
 
 # Four Bean Salad

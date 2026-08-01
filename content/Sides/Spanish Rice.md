@@ -1,13 +1,51 @@
 ---
-title: "Spanish Rice"
-category: "Sides"
-collection: "UK3"
-source: "Unknown"
-tags: ["spanish rice", "rice", "hamburger meat", "casserole", "123"]
-description: "A comforting vintage casserole featuring savory [[Hamburger Meat]], [[Rice]], and melted [[Grated Cheese]]. Baked to perfection in a slow oven for an easy family side dish."
-date: "2026-07-30"
+title: Spanish Rice
+category: Sides
+collection: UK3
+source: Unknown
+tags:
+  - spanish rice
+  - rice
+  - hamburger meat
+  - casserole
+description: A comforting vintage casserole featuring savory [[Hamburger Meat]], [[Rice]], and melted [[Grated Cheese]]. Baked to perfection in a slow oven for an easy family side dish.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Spanish Rice\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-03-31\",\n  \"description\": \"A comforting vintage casserole featuring savory Hamburger Meat, Rice, and melted Grated Cheese.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT45M\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeYield\": \"4\u20136 Servings\",\n  \"recipeIngredient\": [\n    \"1/2 Bell Pepper\",\n    \"1/2 large Onion\",\n    \"1 lb. Hamburger Meat\",\n    \"1 cup Water\",\n    \"1 cup Rice\",\n    \"1 can Tomatoes\",\n    \"Grated Cheese\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Brown the bell pepper and onion in butter along with the hamburger meat. Mix with water, rice, and tomatoes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place in a casserole dish and bake at 250 degrees for 30 minutes. Add grated cheese and cook for 15 more minutes.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Spanish Rice",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-03-31",
+    "description": "A comforting vintage casserole featuring savory Hamburger Meat, Rice, and melted Grated Cheese.",
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "recipeCategory": "Sides",
+    "recipeYield": "4–6 Servings",
+    "recipeIngredient": [
+      "1/2 Bell Pepper",
+      "1/2 large Onion",
+      "1 lb. Hamburger Meat",
+      "1 cup Water",
+      "1 cup Rice",
+      "1 can Tomatoes",
+      "Grated Cheese"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Brown the bell pepper and onion in butter along with the hamburger meat. Mix with water, rice, and tomatoes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place in a casserole dish and bake at 250 degrees for 30 minutes. Add grated cheese and cook for 15 more minutes."
+      }
+    ]
+  }
 ---
 
 # Spanish Rice

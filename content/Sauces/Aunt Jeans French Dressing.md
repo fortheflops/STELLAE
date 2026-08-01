@@ -1,11 +1,15 @@
 ---
-title: "Aunt Jean's French Dressing"
-category: "Sauces"
-collection: "Jill Collection"
-source: "Aunt Jean"
-tags: ["dressing", "123", "classic", "condiment", "jillcollection"]
-description: "A classic, tangy French dressing featuring a rich tomato soup base emulsified with vegetable oil. This vintage recipe is perfectly balanced with mustard and Worcestershire for a timeless salad accompaniment."
-date: "2026-07-30"
+title: Aunt Jean's French Dressing
+category: Sauces
+collection: Jill Collection
+source: Aunt Jean
+tags:
+  - dressing
+  - classic
+  - condiment
+  - jillcollection
+description: A classic, tangy French dressing featuring a rich tomato soup base emulsified with vegetable oil. This vintage recipe is perfectly balanced with mustard and Worcestershire for a timeless salad accompaniment.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Aunt Jean's French Dressing\", \"author\": {\"@type\": \"Person\", \"name\": \"Aunt Jean\"}, \"description\": \"A classic, tangy French dressing featuring a rich tomato soup base emulsified with vegetable oil.\", \"prepTime\": \"PT10M\", \"recipeYield\": \"24 servings\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"1 can (10.75-oz) Campbell's Tomato Soup\", \"1 cup Vinegar\", \"1 cup Mazola Oil\", \"1/2 cup Sugar\", \"1 tablespoon Mustard\", \"1 teaspoon Worcestershire Sauce\", \"1/2 teaspoon Salt\", \"1 whole Onion\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine soup, sugar, vinegar, mustard, salt, and Worcestershire sauce in a blender.\"}, {\"@type\": \"HowToStep\", \"text\": \"Slowly incorporate oil while blending until thick and emulsified.\"}, {\"@type\": \"HowToStep\", \"text\": \"Store in a mason jar with the whole onion for flavor.\"}]}"
 ---

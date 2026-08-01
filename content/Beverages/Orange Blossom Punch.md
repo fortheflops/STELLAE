@@ -1,13 +1,17 @@
 ---
-title: "Orange Blossom Punch"
-category: "Beverages"
-collection: "UK4"
-source: "Unknown"
-tags: ["beverage", "punch", "party", "123", "unknownfour"]
-description: "A bright and fruity party punch featuring a refreshing blend of citrus juices and ginger ale, topped with creamy sherbet. Perfect for celebrations and large gatherings."
-date: "2026-07-30"
+title: Orange Blossom Punch
+category: Beverages
+collection: UK4
+source: Unknown
+tags:
+  - beverage
+  - punch
+  - party
+  - unknownfour
+description: A bright and fruity party punch featuring a refreshing blend of citrus juices and ginger ale, topped with creamy sherbet. Perfect for celebrations and large gatherings.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Orange Blossom Punch\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-09-20\",\"description\":\"A refreshing and easy-to-make party punch with a base of orange, lemon, and cherry juices, made fizzy with ginger ale and creamy with sherbet.\",\"prepTime\":\"PT10M\",\"cookTime\":\"PT0M\",\"totalTime\":\"PT10M\",\"recipeYield\":\"Approx. 5 quarts (40-50 servings)\",\"recipeCategory\":\"Beverages\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1.5 quarts (6 cups) orange juice, chilled\",\"1 cup lemon juice, chilled\",\"1/3 cup cherry juice (from maraschino cherry jar), chilled\",\"1/2 cup sugar\",\"1 (2-liter) bottle ginger ale, chilled\",\"2 quarts orange or lemon sherbet\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In a large punch bowl, combine the orange juice, lemon juice, cherry juice, and sugar.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir vigorously until the sugar is completely dissolved.\"},{\"@type\":\"HowToStep\",\"text\":\"Just before serving, gently pour in the chilled ginger ale.\"},{\"@type\":\"HowToStep\",\"text\":\"Add large scoops of the orange or lemon sherbet to the punch bowl.\"},{\"@type\":\"HowToStep\",\"text\":\"Serve immediately while it is cold and fizzy.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Orange Blossom Punch","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-09-20","description":"A refreshing and easy-to-make party punch with a base of orange, lemon, and cherry juices, made fizzy with ginger ale and creamy with sherbet.","prepTime":"PT10M","cookTime":"PT0M","totalTime":"PT10M","recipeYield":"Approx. 5 quarts (40-50 servings)","recipeCategory":"Beverages","recipeCuisine":"American","recipeIngredient":["1.5 quarts (6 cups) orange juice, chilled","1 cup lemon juice, chilled","1/3 cup cherry juice (from maraschino cherry jar), chilled","1/2 cup sugar","1 (2-liter) bottle ginger ale, chilled","2 quarts orange or lemon sherbet"],"recipeInstructions":[{"@type":"HowToStep","text":"In a large punch bowl, combine the orange juice, lemon juice, cherry juice, and sugar."},{"@type":"HowToStep","text":"Stir vigorously until the sugar is completely dissolved."},{"@type":"HowToStep","text":"Just before serving, gently pour in the chilled ginger ale."},{"@type":"HowToStep","text":"Add large scoops of the orange or lemon sherbet to the punch bowl."},{"@type":"HowToStep","text":"Serve immediately while it is cold and fizzy."}]}'
 ---
 
 # Orange Blossom Punch

@@ -1,11 +1,16 @@
 ---
-title: "Jeanie's Crispy Bisquick-Baked Chicken"
-category: "Entrees"
-collection: "GailCollection"
-source: "Jeanie"
-tags: ["chicken", "entree", "ovenfried", "bisquick", "comfortfood", "123"]
-description: "A classic oven-fried chicken recipe from Jeanie featuring cut-up chicken seasoned with herbs, coated in Bisquick, and baked in a rich margarine and oil mixture until crispy and golden brown."
-date: "2026-07-30"
+title: Jeanie's Crispy Bisquick-Baked Chicken
+category: Entrees
+collection: GailCollection
+source: Jeanie
+tags:
+  - chicken
+  - entree
+  - ovenfried
+  - bisquick
+  - comfortfood
+description: A classic oven-fried chicken recipe from Jeanie featuring cut-up chicken seasoned with herbs, coated in Bisquick, and baked in a rich margarine and oil mixture until crispy and golden brown.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Jeanie's Baked Chicken\", \"author\": {\"@type\": \"Person\", \"name\": \"Jeanie\"}, \"datePublished\": \"2025-11-13\", \"description\": \"Cut-up chicken seasoned, coated in Bisquick, and baked in a margarine-oil mixture for a crispy, oven-fried finish.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT1H\", \"totalTime\": \"PT1H15M\", \"recipeYield\": \"4-6 servings\", \"recipeCategory\": \"Entree\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"One Cube (1/2 cup) Margarine\", \"Equivalent Amount to Margarine (1/2 cup) Oil (e.g., Corn Oil)\", \"One Chicken, Cut Up\", \"Salt, to taste\", \"Pepper, to taste\", \"Rosemary, to taste\", \"Oregano, to taste\", \"Garlic Salt, to taste\", \"Bisquick Baking Mix (for coating)\"], \"recipeInstructions\": [{\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Preheat oven to 350\\u00b0F.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Melt one cube of margarine and an equivalent amount of oil in a baking dish in the hot oven.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Sprinkle all sides of the chicken pieces with salt, pepper, rosemary, oregano, and garlic salt.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Put Bisquick baking mix in a bag. Add the seasoned chicken pieces to the bag and shake to coat evenly.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Place the coated chicken pieces in the hot baking dish with the melted margarine and oil, skin-side down.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Bake at 350\\u00b0F for about 30 minutes (1/2 hr).\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Turn the chicken pieces over so they are skin-side up.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Continue to cook for about another 30 minutes (1/2 hour more), or until the chicken is tender and cooked through.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"If the chicken is browning too quickly, you can 'put foil or cover over it' for the remainder of the cooking time.\"}]}"
 ---

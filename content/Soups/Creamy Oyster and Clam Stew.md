@@ -1,13 +1,17 @@
 ---
-title: "Creamy Oyster and Clam Stew"
-category: "Soups"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["soup", "stew", "seafood", "123", "gailcollection"]
-description: "A rich and comforting vintage seafood stew featuring oysters and clams in a creamy, seasoned broth. Perfect served hot over toasted bread."
-date: "2026-07-30"
+title: Creamy Oyster and Clam Stew
+category: Soups
+collection: Gail Collection
+source: Unknown
+tags:
+  - soup
+  - stew
+  - seafood
+  - gailcollection
+description: A rich and comforting vintage seafood stew featuring oysters and clams in a creamy, seasoned broth. Perfect served hot over toasted bread.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org\", \"@type\": \"Recipe\", \"name\": \"Creamy Oyster and Clam Stew\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A rich and comforting vintage seafood stew featuring oysters and clams in a creamy, seasoned broth.\", \"recipeCategory\": \"Soup\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"4 servings\", \"recipeIngredient\": [\"Butter, as needed\", \"Water, as needed\", \"Oysters, as needed\", \"Clams, as needed\", \"White Sauce, as needed\", \"Paprika, to taste\", \"Chili Sauce, to taste\", \"Half-and-Half, as needed\", \"Cream, as needed\", \"Toast, as needed\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a pot, combine butter, water, oysters, clams, white sauce, paprika, and chili sauce.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook the mixture until the edges of the oysters begin to curl.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in the half-and-half and cream.\"}, {\"@type\": \"HowToStep\", \"text\": \"Continue to cook until the stew is simmering. Do not boil.\"}, {\"@type\": \"HowToStep\", \"text\": \"To serve, place a piece of toast in the bottom of each bowl and ladle the hot stew over it.\"}]}"
+recipe: '{"@context": "https://schema.org", "@type": "Recipe", "name": "Creamy Oyster and Clam Stew", "author": {"@type": "Person", "name": "Unknown"}, "description": "A rich and comforting vintage seafood stew featuring oysters and clams in a creamy, seasoned broth.", "recipeCategory": "Soup", "prepTime": "PT10M", "cookTime": "PT15M", "recipeYield": "4 servings", "recipeIngredient": ["Butter, as needed", "Water, as needed", "Oysters, as needed", "Clams, as needed", "White Sauce, as needed", "Paprika, to taste", "Chili Sauce, to taste", "Half-and-Half, as needed", "Cream, as needed", "Toast, as needed"], "recipeInstructions": [{"@type": "HowToStep", "text": "In a pot, combine butter, water, oysters, clams, white sauce, paprika, and chili sauce."}, {"@type": "HowToStep", "text": "Cook the mixture until the edges of the oysters begin to curl."}, {"@type": "HowToStep", "text": "Stir in the half-and-half and cream."}, {"@type": "HowToStep", "text": "Continue to cook until the stew is simmering. Do not boil."}, {"@type": "HowToStep", "text": "To serve, place a piece of toast in the bottom of each bowl and ladle the hot stew over it."}]}'
 ---
 
 # Creamy Oyster and Clam Stew

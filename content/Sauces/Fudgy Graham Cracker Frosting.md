@@ -1,11 +1,16 @@
 ---
-title: "Fudgy Graham Cracker Frosting"
-category: "Sauces"
-collection: "Gail's Collection"
-source: "Unknown"
-tags: ["frosting", "fudgy", "grahamcracker", "walnuts", "desserttopping", "123"]
-description: "A rich and textured frosting featuring a delightful crunch from graham crackers and walnuts. This unique recipe spreads perfectly over warm cakes for a decadent finish."
-date: "2026-07-30"
+title: Fudgy Graham Cracker Frosting
+category: Sauces
+collection: Gail's Collection
+source: Unknown
+tags:
+  - frosting
+  - fudgy
+  - grahamcracker
+  - walnuts
+  - desserttopping
+description: A rich and textured frosting featuring a delightful crunch from graham crackers and walnuts. This unique recipe spreads perfectly over warm cakes for a decadent finish.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Fudgy Graham Cracker Frosting\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A rich and textured frosting featuring a delightful crunch from graham crackers and walnuts.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"Frosting for one 9x13 inch cake\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"1/2 cup Condensed Milk\", \"2 tablespoons Melted Butter\", \"1 cup Sifted Powdered Sugar\", \"2 tablespoons Hershey's Cocoa Powder\", \"3/4 cup Graham Cracker Crumbs\", \"1/2 cup Chopped Walnuts\", \"1 teaspoon Vanilla Extract\"]}"
 ---

@@ -1,13 +1,17 @@
 ---
-title: "Sugared Mint Leaves"
-category: "Basics"
-collection: "GC"
-source: "Unknown"
-tags: ["garnish", "mint", "sugared", "123", "desserttoppings"]
-description: "Learn how to make delicate sugared mint leaves, perfect as a sweet edible candy or a charming garnish for your favorite hot and cold beverages. This classic technique uses fresh herbs, egg white, and fine sugar for a sparkling, crisp finish."
-date: "2026-07-30"
+title: Sugared Mint Leaves
+category: Basics
+collection: GC
+source: Unknown
+tags:
+  - garnish
+  - mint
+  - sugared
+  - desserttoppings
+description: Learn how to make delicate sugared mint leaves, perfect as a sweet edible candy or a charming garnish for your favorite hot and cold beverages. This classic technique uses fresh herbs, egg white, and fine sugar for a sparkling, crisp finish.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Sugared Mint Leaves\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-06-15\", \"description\": \"Delicate sugared mint leaves, perfect as a sweet edible candy or a charming garnish.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H\", \"recipeCategory\": \"Basics\", \"recipeYield\": \"1 batch\", \"recipeIngredient\": [\"Fresh Mint Leaves\", \"1 Egg White\", \"Superfine or Granulated Sugar\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Pick fresh mint leaves, wash and dry them completely.\"}, {\"@type\": \"HowToStep\", \"text\": \"Beat the egg white until slightly fluffy.\"}, {\"@type\": \"HowToStep\", \"text\": \"Coat each leaf in egg white, then dip in sugar.\"}, {\"@type\": \"HowToStep\", \"text\": \"Dry in a low oven until completely dry and crisp.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Sugared Mint Leaves", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-06-15", "description": "Delicate sugared mint leaves, perfect as a sweet edible candy or a charming garnish.", "prepTime": "PT20M", "cookTime": "PT1H", "recipeCategory": "Basics", "recipeYield": "1 batch", "recipeIngredient": ["Fresh Mint Leaves", "1 Egg White", "Superfine or Granulated Sugar"], "recipeInstructions": [{"@type": "HowToStep", "text": "Pick fresh mint leaves, wash and dry them completely."}, {"@type": "HowToStep", "text": "Beat the egg white until slightly fluffy."}, {"@type": "HowToStep", "text": "Coat each leaf in egg white, then dip in sugar."}, {"@type": "HowToStep", "text": "Dry in a low oven until completely dry and crisp."}]}'
 ---
 
 # Sugared Mint Leaves

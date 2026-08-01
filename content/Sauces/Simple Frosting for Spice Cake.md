@@ -1,13 +1,17 @@
 ---
-title: "Simple Frosting for Spice Cake"
-category: "Sauces"
-collection: "Gail's Collection"
-source: "Unknown"
-tags: ["frosting", "spicecake", "123", "quick", "desserttopping"]
-description: "A quick and easy classic frosting or glaze perfect for drizzling over a spice cake. This simple four-ingredient recipe comes together in minutes for a smooth, sweet finish."
-date: "2026-07-30"
+title: Simple Frosting for Spice Cake
+category: Sauces
+collection: Gail's Collection
+source: Unknown
+tags:
+  - frosting
+  - spicecake
+  - quick
+  - desserttopping
+description: A quick and easy classic frosting or glaze perfect for drizzling over a spice cake. This simple four-ingredient recipe comes together in minutes for a smooth, sweet finish.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Simple Frosting for Spice Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A quick and easy classic frosting or glaze perfect for drizzling over a spice cake.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"Frosting for one cake\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"1 cup Powdered Sugar\", \"1 tablespoon Butter\", \"1 teaspoon Vanilla Extract\", \"1-2 tablespoons Canned Milk or Regular Milk\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Simple Frosting for Spice Cake", "author": {"@type": "Person", "name": "Unknown"}, "description": "A quick and easy classic frosting or glaze perfect for drizzling over a spice cake.", "prepTime": "PT5M", "cookTime": "PT0M", "recipeYield": "Frosting for one cake", "recipeCategory": "Sauces", "recipeIngredient": ["1 cup Powdered Sugar", "1 tablespoon Butter", "1 teaspoon Vanilla Extract", "1-2 tablespoons Canned Milk or Regular Milk"]}'
 ---
 
 # Simple Frosting for Spice Cake

@@ -1,13 +1,19 @@
 ---
-title: "Brazilica Seasoning"
-category: "Sauces"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["seasoning", "condiment", "cheese", "basil", "garlic", "123", "gailcollection"]
-description: "A flavorful and aromatic vintage seasoning blend made with grated cheese, fresh basil, and garlic, perfect for tossing with hot noodles."
-date: "2026-07-30"
+title: Brazilica Seasoning
+category: Sauces
+collection: Gail Collection
+source: Unknown
+tags:
+  - seasoning
+  - condiment
+  - cheese
+  - basil
+  - garlic
+  - gailcollection
+description: A flavorful and aromatic vintage seasoning blend made with grated cheese, fresh basil, and garlic, perfect for tossing with hot noodles.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Brazilica Seasoning\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-06-06\", \"description\": \"A flavorful and aromatic vintage seasoning blend made with grated cheese, fresh basil, and garlic, perfect for tossing with hot noodles.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT5M\", \"recipeCategory\": \"Sauces\", \"recipeYield\": \"5 small jars\", \"recipeIngredient\": [\"4 Cups Grated Cheese\", \"1 1/2 Cups Ground Basil\", \"9 Cloves Ground Garlic\", \"1 Small Cupped Handful Salt\", \"3 Large Tablespoons Brazilica\", \"1/3 Cube Butter\", \"Hot Water\", \"1 Pack Noodles\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a bowl, cream the 4 cups grated cheese into the 1 1/2 cups ground basil along with a small cupped handful of salt.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the 9 ground garlic cloves to the mixture and work together until smooth.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pack the mixture into five small artichoke jars and store.\"}, {\"@type\": \"HowToStep\", \"text\": \"For 1 pack of cooked noodles, combine 3 large tablespoons of Brazilica, 1/3 cube of butter, and a splash of hot cooking water, then toss with the noodles.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Brazilica Seasoning", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-06-06", "description": "A flavorful and aromatic vintage seasoning blend made with grated cheese, fresh basil, and garlic, perfect for tossing with hot noodles.", "prepTime": "PT15M", "cookTime": "PT5M", "recipeCategory": "Sauces", "recipeYield": "5 small jars", "recipeIngredient": ["4 Cups Grated Cheese", "1 1/2 Cups Ground Basil", "9 Cloves Ground Garlic", "1 Small Cupped Handful Salt", "3 Large Tablespoons Brazilica", "1/3 Cube Butter", "Hot Water", "1 Pack Noodles"], "recipeInstructions": [{"@type": "HowToStep", "text": "In a bowl, cream the 4 cups grated cheese into the 1 1/2 cups ground basil along with a small cupped handful of salt."}, {"@type": "HowToStep", "text": "Add the 9 ground garlic cloves to the mixture and work together until smooth."}, {"@type": "HowToStep", "text": "Pack the mixture into five small artichoke jars and store."}, {"@type": "HowToStep", "text": "For 1 pack of cooked noodles, combine 3 large tablespoons of Brazilica, 1/3 cube of butter, and a splash of hot cooking water, then toss with the noodles."}]}'
 ---
 
 # Brazilica Seasoning

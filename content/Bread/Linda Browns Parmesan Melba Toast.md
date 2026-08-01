@@ -1,13 +1,18 @@
 ---
-title: "Linda Brown's Parmesan Melba Toast"
-category: "Bread"
-collection: "UK3"
-source: "Linda Brown"
-tags: ["appetizer", "snack", "bread", "parmesan", "toast", "123"]
-description: "A simple yet elegant recipe from Linda Brown for creating your own crispy Parmesan Melba Toast. Thinly sliced bread is basted with butter and baked low and slow until perfectly dry and golden."
-date: "2026-07-30"
+title: Linda Brown's Parmesan Melba Toast
+category: Bread
+collection: UK3
+source: Linda Brown
+tags:
+  - appetizer
+  - snack
+  - bread
+  - parmesan
+  - toast
+description: A simple yet elegant recipe from Linda Brown for creating your own crispy Parmesan Melba Toast. Thinly sliced bread is basted with butter and baked low and slow until perfectly dry and golden.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Linda Brown's Parmesan Melba Toast\",\"author\":{\"@type\":\"Person\",\"name\":\"Linda Brown\"},\"datePublished\":\"2025-09-22\",\"description\":\"A simple method for making thin, crispy, savory Parmesan melba toasts, perfect for appetizers and snacks.\",\"image\":[\"https://cucinamezzaluna.com/Bread/Toast/Assets/Handwritten_2025-03-12_102741.webp\"],\"prepTime\":\"PT15M\",\"cookTime\":\"PT1H\",\"totalTime\":\"PT1H15M\",\"recipeYield\":\"24-30 toasts\",\"recipeCategory\":\"Appetizer\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 loaf of your favorite dense bread (sourdough, wheat, etc.)\",\"1/2 cup (1 stick) margarine or butter, melted\",\"1 cup grated Parmesan cheese\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"For easiest slicing, freeze the loaf of bread until firm.\"},{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 250\u00b0F. Using an electric or very sharp serrated knife, slice the frozen bread as thinly as possible (1/16 to 1/4 inch thick).\"},{\"@type\":\"HowToStep\",\"text\":\"Arrange the bread slices in a single layer on a large cookie sheet.\"},{\"@type\":\"HowToStep\",\"text\":\"Using a pastry brush, baste both sides of each bread slice with the melted margarine.\"},{\"@type\":\"HowToStep\",\"text\":\"Sprinkle the top side of each slice generously with grated Parmesan cheese.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake for 45 minutes to 1 hour, or until the toasts are golden, dry, and very crisp.\"},{\"@type\":\"HowToStep\",\"text\":\"Let cool completely on the cookie sheet before storing in an airtight container.\"}]}"
+recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Linda Brown's Parmesan Melba Toast\",\"author\":{\"@type\":\"Person\",\"name\":\"Linda Brown\"},\"datePublished\":\"2025-09-22\",\"description\":\"A simple method for making thin, crispy, savory Parmesan melba toasts, perfect for appetizers and snacks.\",\"image\":[\"https://cucinamezzaluna.com/Bread/Toast/Assets/Handwritten_2025-03-12_102741.webp\"],\"prepTime\":\"PT15M\",\"cookTime\":\"PT1H\",\"totalTime\":\"PT1H15M\",\"recipeYield\":\"24-30 toasts\",\"recipeCategory\":\"Appetizer\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 loaf of your favorite dense bread (sourdough, wheat, etc.)\",\"1/2 cup (1 stick) margarine or butter, melted\",\"1 cup grated Parmesan cheese\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"For easiest slicing, freeze the loaf of bread until firm.\"},{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 250°F. Using an electric or very sharp serrated knife, slice the frozen bread as thinly as possible (1/16 to 1/4 inch thick).\"},{\"@type\":\"HowToStep\",\"text\":\"Arrange the bread slices in a single layer on a large cookie sheet.\"},{\"@type\":\"HowToStep\",\"text\":\"Using a pastry brush, baste both sides of each bread slice with the melted margarine.\"},{\"@type\":\"HowToStep\",\"text\":\"Sprinkle the top side of each slice generously with grated Parmesan cheese.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake for 45 minutes to 1 hour, or until the toasts are golden, dry, and very crisp.\"},{\"@type\":\"HowToStep\",\"text\":\"Let cool completely on the cookie sheet before storing in an airtight container.\"}]}"
 ---
 
 # Linda Brown's Parmesan Melba Toast

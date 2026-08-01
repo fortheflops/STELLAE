@@ -1,13 +1,17 @@
 ---
-title: "Cucumber Salad"
-category: "Salads"
-collection: "LOC"
-source: "Unknown"
-tags: ["salad", "vegetable", "louisecollection", "123", "sidedish"]
-description: "A crisp and creamy vintage cucumber salad tossed with sour cream, fresh lemon juice, dill, and seasoned salt. Perfect as a refreshing side dish for any meal."
-date: "2026-07-30"
+title: Cucumber Salad
+category: Salads
+collection: LOC
+source: Unknown
+tags:
+  - salad
+  - vegetable
+  - louisecollection
+  - sidedish
+description: A crisp and creamy vintage cucumber salad tossed with sour cream, fresh lemon juice, dill, and seasoned salt. Perfect as a refreshing side dish for any meal.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Cucumber Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-05-17\", \"description\": \"A crisp and creamy vintage cucumber salad tossed with sour cream, fresh lemon juice, dill, and seasoned salt.\", \"prepTime\": \"PT15M\", \"recipeYield\": \"4 servings\", \"recipeCategory\": \"Salads\", \"recipeIngredient\": [\"Sliced Cucumbers\", \"Sour Cream\", \"1 Tablespoon Minced Onion\", \"1 Tablespoon Fresh Lemon Juice\", \"1/4 Teaspoon Dill Weed\", \"1/4 Teaspoon Seasoned Salt\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine sliced cucumbers, sour cream, 1 tablespoon minced onion, 1 tablespoon fresh lemon juice, 1/4 teaspoon dill weed, and 1/4 teaspoon seasoned salt.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Cucumber Salad", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-05-17", "description": "A crisp and creamy vintage cucumber salad tossed with sour cream, fresh lemon juice, dill, and seasoned salt.", "prepTime": "PT15M", "recipeYield": "4 servings", "recipeCategory": "Salads", "recipeIngredient": ["Sliced Cucumbers", "Sour Cream", "1 Tablespoon Minced Onion", "1 Tablespoon Fresh Lemon Juice", "1/4 Teaspoon Dill Weed", "1/4 Teaspoon Seasoned Salt"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine sliced cucumbers, sour cream, 1 tablespoon minced onion, 1 tablespoon fresh lemon juice, 1/4 teaspoon dill weed, and 1/4 teaspoon seasoned salt."}]}'
 ---
 
 # Cucumber Salad

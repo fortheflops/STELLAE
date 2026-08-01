@@ -1,13 +1,16 @@
 ---
-title: "Crab Voltaire"
-category: "Entrees"
-collection: "UK2"
-source: "Unknown"
-tags: ["crab", "seafood", "123", "entree"]
-description: "An elegant vintage seafood dish featuring cooked crab meat saut\u00e9ed with mushrooms and shallots, then simmered in a rich brandy, sherry, and heavy cream sauce. Finished with egg yolks for a velvety, luxurious texture."
-date: "2026-07-30"
+title: Crab Voltaire
+category: Entrees
+collection: UK2
+source: Unknown
+tags:
+  - crab
+  - seafood
+  - entree
+description: An elegant vintage seafood dish featuring cooked crab meat sautéed with mushrooms and shallots, then simmered in a rich brandy, sherry, and heavy cream sauce. Finished with egg yolks for a velvety, luxurious texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Crab Voltaire\",\"image\":[\"content/Entrees/Meat/Crab/Assets/Handwritten_2025-01-18_090639.webp\"],\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"prepTime\":\"PT15M\",\"cookTime\":\"PT15M\",\"recipeYield\":\"4 servings\",\"recipeCategory\":\"Entrees\",\"recipeIngredient\":[\"2 Cups Cooked Crab Meat\",\"1/4 Cup Butter\",\"1 tsp Chopped Shallot\",\"1/4 lb Fresh Mushrooms\",\"2 Tbsp Brandy\",\"6 Tbsp Sherry\",\"2 Cups Heavy Cream\",\"2 tsp Minced Chives\",\"2 Egg Yolks\",\"Salt\",\"Cayenne\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Saut crab in butter with shallot and mushrooms for 3 minutes.\"},{\"@type\":\"HowToStep\",\"text\":\"Add brandy and sherry, then bring to a boil.\"},{\"@type\":\"HowToStep\",\"text\":\"Add 1 3/4 cup heavy cream and boil 3 min.\"},{\"@type\":\"HowToStep\",\"text\":\"Add chives, boil 1 min.\"},{\"@type\":\"HowToStep\",\"text\":\"Beat egg yolks with remaining cream and stir in crab mixture gradually.\"},{\"@type\":\"HowToStep\",\"text\":\"Remove skillet from heat, heat gently until thickened without boiling, season with salt and cayenne, and serve from a chafing dish.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Crab Voltaire","image":["content/Entrees/Meat/Crab/Assets/Handwritten_2025-01-18_090639.webp"],"author":{"@type":"Person","name":"Unknown"},"prepTime":"PT15M","cookTime":"PT15M","recipeYield":"4 servings","recipeCategory":"Entrees","recipeIngredient":["2 Cups Cooked Crab Meat","1/4 Cup Butter","1 tsp Chopped Shallot","1/4 lb Fresh Mushrooms","2 Tbsp Brandy","6 Tbsp Sherry","2 Cups Heavy Cream","2 tsp Minced Chives","2 Egg Yolks","Salt","Cayenne"],"recipeInstructions":[{"@type":"HowToStep","text":"Saut crab in butter with shallot and mushrooms for 3 minutes."},{"@type":"HowToStep","text":"Add brandy and sherry, then bring to a boil."},{"@type":"HowToStep","text":"Add 1 3/4 cup heavy cream and boil 3 min."},{"@type":"HowToStep","text":"Add chives, boil 1 min."},{"@type":"HowToStep","text":"Beat egg yolks with remaining cream and stir in crab mixture gradually."},{"@type":"HowToStep","text":"Remove skillet from heat, heat gently until thickened without boiling, season with salt and cayenne, and serve from a chafing dish."}]}'
 ---
 
 # Crab Voltaire

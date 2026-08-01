@@ -1,13 +1,18 @@
 ---
-title: "Bistro Chicken & Feta"
-category: "Salads"
-collection: "UK5"
-source: "Lisa McFarland"
-tags: ["salads", "chicken", "feta", "pasta", "bistro", "123"]
-description: "Discover a delightful Bistro Chicken & Feta salad featuring tender pasta, grilled chicken, and fresh tomatoes. This versatile dish can be served warm or chilled for maximum flavor blending."
-date: "2026-07-30"
+title: Bistro Chicken & Feta
+category: Salads
+collection: UK5
+source: Lisa McFarland
+tags:
+  - salads
+  - chicken
+  - feta
+  - pasta
+  - bistro
+description: Discover a delightful Bistro Chicken & Feta salad featuring tender pasta, grilled chicken, and fresh tomatoes. This versatile dish can be served warm or chilled for maximum flavor blending.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Bistro Chicken & Feta\", \"author\": {\"@type\": \"Person\", \"name\": \"Lisa McFarland\"}, \"datePublished\": \"2023-07-24\", \"description\": \"A delightful Bistro Chicken & Feta salad featuring tender pasta, grilled chicken, and fresh tomatoes.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"4 Servings\", \"recipeCategory\": \"Salads\", \"recipeIngredient\": [\"2 cups Cooked Bowtie Pasta or Rotini Pasta, drained\", \"1 cup Cherry Tomatoes, quartered\", \"1 package Crumbled Feta & Basil Tomato\", \"1/2 cup Caesar Salad Dressing\", \"1/2 teaspoon Basil\", \"1 small can Sliced Olives\", \"1/4 cup Chopped Red Onion\", \"As Needed Marinated, grilled Chicken Strips, sliced into 1/4\\\" strips\", \"To Taste Parmesan Cheese\", \"To Taste Salt and Pepper\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine all ingredients in a large bowl and mix well.\" }, {\"@type\": \"HowToStep\", \"text\": \"Serve warm or chilled.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Bistro Chicken & Feta", "author": {"@type": "Person", "name": "Lisa McFarland"}, "datePublished": "2023-07-24", "description": "A delightful Bistro Chicken & Feta salad featuring tender pasta, grilled chicken, and fresh tomatoes.", "prepTime": "PT15M", "cookTime": "PT10M", "recipeYield": "4 Servings", "recipeCategory": "Salads", "recipeIngredient": ["2 cups Cooked Bowtie Pasta or Rotini Pasta, drained", "1 cup Cherry Tomatoes, quartered", "1 package Crumbled Feta & Basil Tomato", "1/2 cup Caesar Salad Dressing", "1/2 teaspoon Basil", "1 small can Sliced Olives", "1/4 cup Chopped Red Onion", "As Needed Marinated, grilled Chicken Strips, sliced into 1/4\" strips", "To Taste Parmesan Cheese", "To Taste Salt and Pepper"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine all ingredients in a large bowl and mix well." }, {"@type": "HowToStep", "text": "Serve warm or chilled."}]}'
 ---
 
 # Bistro Chicken & Feta

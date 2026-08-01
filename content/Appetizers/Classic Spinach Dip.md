@@ -1,13 +1,17 @@
 ---
-title: "Classic Spinach Dip"
-category: "Appetizers"
-collection: "UK3"
-source: "Unknown"
-tags: ["spinach", "dip", "appetizer", "123", "colddip"]
-description: "A simple and creamy classic spinach dip perfect for parties and gatherings. This vintage recipe combines fresh herbs and frozen spinach for a quick, crowd-pleasing appetizer."
-date: "2026-07-30"
+title: Classic Spinach Dip
+category: Appetizers
+collection: UK3
+source: Unknown
+tags:
+  - spinach
+  - dip
+  - appetizer
+  - colddip
+description: A simple and creamy classic spinach dip perfect for parties and gatherings. This vintage recipe combines fresh herbs and frozen spinach for a quick, crowd-pleasing appetizer.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Spinach Dip\", \"recipeIngredient\": [\"1/2 Cup Parsley\", \"1/2 Cup Chopped Green Onion\", \"1 Cup Real Mayonnaise\", \"1 Bag Frozen Chopped Spinach\", \"Salt & Pepper\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Mix together the spinach, mayonnaise, parsley, and green onions until well combined. Season to taste and chill before serving.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Spinach Dip", "recipeIngredient": ["1/2 Cup Parsley", "1/2 Cup Chopped Green Onion", "1 Cup Real Mayonnaise", "1 Bag Frozen Chopped Spinach", "Salt & Pepper"], "recipeInstructions": [{"@type": "HowToStep", "text": "Mix together the spinach, mayonnaise, parsley, and green onions until well combined. Season to taste and chill before serving."}]}'
 ---
 
 # Classic Spinach Dip

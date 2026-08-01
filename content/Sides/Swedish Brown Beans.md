@@ -1,13 +1,53 @@
 ---
-title: "Swedish Brown Beans"
-category: "Sides"
-collection: "Gail Collection"
-source: "Miriam B. Fox"
-tags: ["sidedish", "beans", "123", "comfortfood", "scandinavian"]
-description: "A traditional, comforting Scandinavian side dish featuring tender beans simmered in a sweet and spiced vinegar sauce with bacon. Perfectly balanced and deeply flavorful, it complements any hearty meal."
-date: "2026-07-30"
+title: Swedish Brown Beans
+category: Sides
+collection: Gail Collection
+source: Miriam B. Fox
+tags:
+  - sidedish
+  - beans
+  - comfortfood
+  - scandinavian
+description: A traditional, comforting Scandinavian side dish featuring tender beans simmered in a sweet and spiced vinegar sauce with bacon. Perfectly balanced and deeply flavorful, it complements any hearty meal.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Swedish Brown Beans\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Miriam B. Fox\"\n  },\n  \"description\": \"A traditional, comforting Scandinavian side dish featuring tender beans simmered in a sweet and spiced vinegar sauce with bacon.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT45M\",\n  \"recipeYield\": \"6-8 Servings\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeCuisine\": \"Scandinavian\",\n  \"ingredients\": [\n    \"2 (20 oz) Cans Kidney Beans, Undrained\",\n    \"3/4 Cup Brown Sugar\",\n    \"6 Tablespoons Bacon, Finely cut\",\n    \"1/4 Teaspoon Cinnamon\",\n    \"1/4 Teaspoon Nutmeg\",\n    \"4 Tablespoons Vinegar\",\n    \"Salt, To Taste\",\n    \"Pepper, To Taste\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a saucepan or pot, combine 2 (20 oz) cans kidney beans (undrained), 3/4 cup brown sugar, 6 tablespoons finely cut bacon, 1/4 teaspoon cinnamon, 1/4 teaspoon nutmeg, 4 tablespoons vinegar, salt, and pepper.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Simmer the mixture over low heat, stirring occasionally, until the sauce has thickened to your liking and the beans are tender, about 30 to 45 minutes until rich, glossy, and fragrant.\"\n    }\n  ],\n  \"image\": \"Handwritten_2025-05-27_160003.webp\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Swedish Brown Beans",
+    "author": {
+      "@type": "Person",
+      "name": "Miriam B. Fox"
+    },
+    "description": "A traditional, comforting Scandinavian side dish featuring tender beans simmered in a sweet and spiced vinegar sauce with bacon.",
+    "prepTime": "PT10M",
+    "cookTime": "PT45M",
+    "recipeYield": "6-8 Servings",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "Scandinavian",
+    "ingredients": [
+      "2 (20 oz) Cans Kidney Beans, Undrained",
+      "3/4 Cup Brown Sugar",
+      "6 Tablespoons Bacon, Finely cut",
+      "1/4 Teaspoon Cinnamon",
+      "1/4 Teaspoon Nutmeg",
+      "4 Tablespoons Vinegar",
+      "Salt, To Taste",
+      "Pepper, To Taste"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan or pot, combine 2 (20 oz) cans kidney beans (undrained), 3/4 cup brown sugar, 6 tablespoons finely cut bacon, 1/4 teaspoon cinnamon, 1/4 teaspoon nutmeg, 4 tablespoons vinegar, salt, and pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Simmer the mixture over low heat, stirring occasionally, until the sauce has thickened to your liking and the beans are tender, about 30 to 45 minutes until rich, glossy, and fragrant."
+      }
+    ],
+    "image": "Handwritten_2025-05-27_160003.webp"
+  }
 ---
 
 # Swedish Brown Beans

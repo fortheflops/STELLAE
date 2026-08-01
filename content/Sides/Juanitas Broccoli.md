@@ -1,13 +1,56 @@
 ---
-title: "Juanita's Broccoli"
-category: "Sides"
-collection: "UK2"
-source: "Juanita"
-tags: ["broccoli", "sides", "casserole", "cheese", "123"]
-description: "Discover Juanita's Broccoli, a comforting vintage side dish featuring tender broccoli bathed in a rich garlic cheese and mushroom soup sauce. Topped with bread crumbs and baked to golden perfection, it is a timeless family favorite."
-date: "2026-07-30"
+title: Juanita's Broccoli
+category: Sides
+collection: UK2
+source: Juanita
+tags:
+  - broccoli
+  - sides
+  - casserole
+  - cheese
+description: Discover Juanita's Broccoli, a comforting vintage side dish featuring tender broccoli bathed in a rich garlic cheese and mushroom soup sauce. Topped with bread crumbs and baked to golden perfection, it is a timeless family favorite.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Juanita's Broccoli\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Juanita\"\n  },\n  \"description\": \"A comforting vintage side dish featuring tender broccoli baked in a rich garlic cheese and mushroom soup sauce.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT30M\",\n  \"totalTime\": \"PT45M\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeYield\": \"6-8 Servings\",\n  \"recipeIngredient\": [\n    \"1 Stick Butter\",\n    \"Onion\",\n    \"Garlic\",\n    \"1 Roll Kraft Garlic Cheese\",\n    \"1 Can Mushroom Soup\",\n    \"1/2 Can Water\",\n    \"Broccoli\",\n    \"Bread Crumbs\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Melt 1 stick of butter in a skillet, add chopped onion and garlic, then stir in 1 roll of Kraft garlic cheese, 1 can of mushroom soup, and 1/2 can of water until smooth.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook, separate, and drain broccoli, then place in a baking dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour cheese mixture over broccoli, sprinkle with bread crumbs, and bake at 325\u00b0 for 30 minutes until golden brown.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Juanita's Broccoli",
+    "author": {
+      "@type": "Person",
+      "name": "Juanita"
+    },
+    "description": "A comforting vintage side dish featuring tender broccoli baked in a rich garlic cheese and mushroom soup sauce.",
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "recipeCategory": "Sides",
+    "recipeYield": "6-8 Servings",
+    "recipeIngredient": [
+      "1 Stick Butter",
+      "Onion",
+      "Garlic",
+      "1 Roll Kraft Garlic Cheese",
+      "1 Can Mushroom Soup",
+      "1/2 Can Water",
+      "Broccoli",
+      "Bread Crumbs"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Melt 1 stick of butter in a skillet, add chopped onion and garlic, then stir in 1 roll of Kraft garlic cheese, 1 can of mushroom soup, and 1/2 can of water until smooth."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook, separate, and drain broccoli, then place in a baking dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour cheese mixture over broccoli, sprinkle with bread crumbs, and bake at 325° for 30 minutes until golden brown."
+      }
+    ]
+  }
 ---
 
 # Juanita's Broccoli

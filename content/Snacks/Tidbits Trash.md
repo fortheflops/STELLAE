@@ -1,13 +1,19 @@
 ---
-title: "Tidbits Trash"
-category: "Snacks"
-collection: "Unknown Three Collection"
-source: "Unknown"
-tags: ["snacks", "snack mix", "123", "party snack", "savory", "chex mix", "bacon fat"]
-description: "A classic savory party snack mix packed with cereals, pretzels, pecans, and smoked bacon fat seasoning. Slow-roasted at low heat until crispy, crunchy, and deeply flavorful."
-date: "2026-07-30"
+title: Tidbits Trash
+category: Snacks
+collection: Unknown Three Collection
+source: Unknown
+tags:
+  - snacks
+  - snack mix
+  - party snack
+  - savory
+  - chex mix
+  - bacon fat
+description: A classic savory party snack mix packed with cereals, pretzels, pecans, and smoked bacon fat seasoning. Slow-roasted at low heat until crispy, crunchy, and deeply flavorful.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Tidbits Trash\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"description\":\"A classic savory party snack mix packed with cereals, pretzels, pecans, and smoked bacon fat seasoning. Slow-roasted at low heat until crispy, crunchy, and deeply flavorful.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT2H\",\"totalTime\":\"PT2H15M\",\"recipeYield\":\"25 servings\",\"recipeCategory\":\"Snacks\",\"recipeIngredient\":[\"1 Box Cheerios\",\"1 Box Wheat Chex\",\"1 Box Rice Chex\",\"1 Box Stick Pretzels\",\"1 Bag Pretzel Goldfish (or Oyster Crackers)\",\"2 Pounds Pecans\",\"2 Sticks Butter\",\"2 Cups Bacon Fat\",\"4 Tablespoons Worcestershire Sauce\",\"3 Tablespoons Garlic Salt\",\"4 Tablespoons Liquid Smoke\",\"1 Tablespoon Salt\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In a large, clean plastic bag, toss together the Cheerios, Wheat Chex, Rice Chex, stick pretzels, pretzel Goldfish, and pecans.\"},{\"@type\":\"HowToStep\",\"text\":\"In a separate bowl, melt together the butter and bacon fat. Whisk in Worcestershire sauce, garlic salt, liquid smoke, and salt.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour the sauce over the dry mixture in the bag, seal, and toss to coat evenly.\"},{\"@type\":\"HowToStep\",\"text\":\"Transfer into a roaster pan and bake at 250\u00b0F for 2 hours, turning every 15 to 20 minutes until crunchy and toasted.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Tidbits Trash","author":{"@type":"Person","name":"Unknown"},"description":"A classic savory party snack mix packed with cereals, pretzels, pecans, and smoked bacon fat seasoning. Slow-roasted at low heat until crispy, crunchy, and deeply flavorful.","prepTime":"PT15M","cookTime":"PT2H","totalTime":"PT2H15M","recipeYield":"25 servings","recipeCategory":"Snacks","recipeIngredient":["1 Box Cheerios","1 Box Wheat Chex","1 Box Rice Chex","1 Box Stick Pretzels","1 Bag Pretzel Goldfish (or Oyster Crackers)","2 Pounds Pecans","2 Sticks Butter","2 Cups Bacon Fat","4 Tablespoons Worcestershire Sauce","3 Tablespoons Garlic Salt","4 Tablespoons Liquid Smoke","1 Tablespoon Salt"],"recipeInstructions":[{"@type":"HowToStep","text":"In a large, clean plastic bag, toss together the Cheerios, Wheat Chex, Rice Chex, stick pretzels, pretzel Goldfish, and pecans."},{"@type":"HowToStep","text":"In a separate bowl, melt together the butter and bacon fat. Whisk in Worcestershire sauce, garlic salt, liquid smoke, and salt."},{"@type":"HowToStep","text":"Pour the sauce over the dry mixture in the bag, seal, and toss to coat evenly."},{"@type":"HowToStep","text":"Transfer into a roaster pan and bake at 250°F for 2 hours, turning every 15 to 20 minutes until crunchy and toasted."}]}'
 ---
 
 # Tidbits Trash

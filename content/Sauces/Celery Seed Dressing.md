@@ -1,13 +1,16 @@
 ---
-title: "Celery Seed Dressing"
-category: "Sauces"
-collection: "UK3"
-source: "Unknown"
-tags: ["dressing", "123", "celeryseed", "condiment"]
-description: "A classic, tangy celery seed dressing perfect for brightening up fresh spinach and citrus salads. This versatile vintage recipe balances sweetness and acidity for a refreshing finish."
-date: "2026-07-30"
+title: Celery Seed Dressing
+category: Sauces
+collection: UK3
+source: Unknown
+tags:
+  - dressing
+  - celeryseed
+  - condiment
+description: A classic, tangy celery seed dressing perfect for brightening up fresh spinach and citrus salads. This versatile vintage recipe balances sweetness and acidity for a refreshing finish.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Celery Seed Dressing\", \"recipeIngredient\": [\"1 Cup Oil\", \"1/4 Cup Vinegar\", \"1/2 Cup Sugar\", \"1/4 Medium Onion\", \"1 Teaspoon Salt\", \"1 Tablespoon Dry Mustard\", \"1 Tablespoon Celery Seed\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine all ingredients in a jar and shake well until emulsified.\"}], \"recipeCategory\": \"Sauces\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Celery Seed Dressing", "recipeIngredient": ["1 Cup Oil", "1/4 Cup Vinegar", "1/2 Cup Sugar", "1/4 Medium Onion", "1 Teaspoon Salt", "1 Tablespoon Dry Mustard", "1 Tablespoon Celery Seed"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine all ingredients in a jar and shake well until emulsified."}], "recipeCategory": "Sauces"}'
 ---
 
 # Celery Seed Dressing

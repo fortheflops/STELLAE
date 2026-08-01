@@ -1,13 +1,60 @@
 ---
-title: "Macaroni Chicken Salad"
-category: "Salads"
-collection: "UK15"
-source: "Unknown"
-tags: ["salad", "chicken", "pasta", "123", "cold"]
-description: "A delightful vintage pasta salad combining prepared macaroni and cheese dinner with tender chicken, hard-cooked eggs, and crisp vegetables. Tossed in a creamy dressing and chilled thoroughly, it makes for a refreshing and hearty side or main dish."
-date: "2026-07-30"
+title: Macaroni Chicken Salad
+category: Salads
+collection: UK15
+source: Unknown
+tags:
+  - salad
+  - chicken
+  - pasta
+  - cold
+description: A delightful vintage pasta salad combining prepared macaroni and cheese dinner with tender chicken, hard-cooked eggs, and crisp vegetables. Tossed in a creamy dressing and chilled thoroughly, it makes for a refreshing and hearty side or main dish.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Macaroni Chicken Salad\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A delightful vintage pasta salad combining prepared macaroni and cheese dinner with tender chicken, hard-cooked eggs, and crisp vegetables.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT10M\",\n  \"recipeYield\": \"4-6 servings\",\n  \"recipeCategory\": \"Salads\",\n  \"recipeIngredient\": [\n    \"1 (7 1/4 ounce) package Macaroni & Cheese Dinner\",\n    \"1 cup Chicken\",\n    \"3 Eggs\",\n    \"1/2 cup Green Pepper\",\n    \"1/2 cup Green Peas\",\n    \"1/4 cup Celery\",\n    \"1/4 cup Radishes\",\n    \"3 tablespoons Onion\",\n    \"1/3 cup Salad Dressing\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook the macaroni and cheese dinner according to the package directions.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, combine the prepared macaroni and cheese with all the other ingredients, except for the salad dressing.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in the salad dressing last and toss gently to combine.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Chill thoroughly before serving.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Macaroni Chicken Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A delightful vintage pasta salad combining prepared macaroni and cheese dinner with tender chicken, hard-cooked eggs, and crisp vegetables.",
+    "prepTime": "PT20M",
+    "cookTime": "PT10M",
+    "recipeYield": "4-6 servings",
+    "recipeCategory": "Salads",
+    "recipeIngredient": [
+      "1 (7 1/4 ounce) package Macaroni & Cheese Dinner",
+      "1 cup Chicken",
+      "3 Eggs",
+      "1/2 cup Green Pepper",
+      "1/2 cup Green Peas",
+      "1/4 cup Celery",
+      "1/4 cup Radishes",
+      "3 tablespoons Onion",
+      "1/3 cup Salad Dressing"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cook the macaroni and cheese dinner according to the package directions."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the prepared macaroni and cheese with all the other ingredients, except for the salad dressing."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the salad dressing last and toss gently to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chill thoroughly before serving."
+      }
+    ]
+  }
 ---
 
 # Macaroni Chicken Salad

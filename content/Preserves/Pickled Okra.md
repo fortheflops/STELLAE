@@ -1,13 +1,17 @@
 ---
-title: "Pickled Okra"
-category: "Preserves"
-collection: "UK3"
-source: "Svarale"
-tags: ["preserves", "pickled", "okra", "canning", "123"]
-description: "Discover a traditional vintage recipe for crisp pickled okra featuring garlic, hot pepper, and dill seed. Preserved to perfection after six weeks of curing."
-date: "2026-07-30"
+title: Pickled Okra
+category: Preserves
+collection: UK3
+source: Svarale
+tags:
+  - preserves
+  - pickled
+  - okra
+  - canning
+description: Discover a traditional vintage recipe for crisp pickled okra featuring garlic, hot pepper, and dill seed. Preserved to perfection after six weeks of curing.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Pickled Okra\", \"author\": {\"@type\": \"Person\", \"name\": \"Svarale\"}, \"datePublished\": \"2025-03-13\", \"description\": \"Discover a traditional vintage recipe for crisp pickled okra featuring garlic, hot pepper, and dill seed.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"1 batch\", \"recipeCategory\": \"Preserves\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 Button Garlic\", \"1 Hot Pepper\", \"1 Tablespoon Dill Seed\", \"1/2 Gallon Vinegar\", \"1/2 Gallon Water\", \"1 Cup Salt\", \"Okra\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a large stockpot, mix the vinegar, water, and salt.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bring the brine mixture to a boil until the salt is completely dissolved.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pack the okra, garlic, hot pepper, and dill seed tightly into sterilized jars and pour the hot brine over them.\"}, {\"@type\": \"HowToStep\", \"text\": \"Seal the jars securely and store for 6 weeks.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Pickled Okra", "author": {"@type": "Person", "name": "Svarale"}, "datePublished": "2025-03-13", "description": "Discover a traditional vintage recipe for crisp pickled okra featuring garlic, hot pepper, and dill seed.", "prepTime": "PT20M", "cookTime": "PT15M", "recipeYield": "1 batch", "recipeCategory": "Preserves", "recipeCuisine": "American", "recipeIngredient": ["1 Button Garlic", "1 Hot Pepper", "1 Tablespoon Dill Seed", "1/2 Gallon Vinegar", "1/2 Gallon Water", "1 Cup Salt", "Okra"], "recipeInstructions": [{"@type": "HowToStep", "text": "In a large stockpot, mix the vinegar, water, and salt."}, {"@type": "HowToStep", "text": "Bring the brine mixture to a boil until the salt is completely dissolved."}, {"@type": "HowToStep", "text": "Pack the okra, garlic, hot pepper, and dill seed tightly into sterilized jars and pour the hot brine over them."}, {"@type": "HowToStep", "text": "Seal the jars securely and store for 6 weeks."}]}'
 ---
 
 # Pickled Okra

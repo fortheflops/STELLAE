@@ -1,13 +1,17 @@
 ---
-title: "Squash Cakes"
-category: "Sides"
-collection: "UK2"
-source: "Neva"
-tags: ["unknowntwo", "fried", "squash", "123", "sides"]
-description: "A traditional vintage side dish of savory fried squash cakes made with fresh squash, onion, and a simple batter. Crispy golden-brown on both sides, this comforting recipe is pan-fried to perfection."
-date: "2026-07-30"
+title: Squash Cakes
+category: Sides
+collection: UK2
+source: Neva
+tags:
+  - unknowntwo
+  - fried
+  - squash
+  - sides
+description: A traditional vintage side dish of savory fried squash cakes made with fresh squash, onion, and a simple batter. Crispy golden-brown on both sides, this comforting recipe is pan-fried to perfection.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Squash Cakes\", \"author\": {\"@type\": \"Person\", \"name\": \"Neva\"}, \"description\": \"A traditional vintage side dish of savory fried squash cakes made with fresh squash, onion, and a simple batter.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT15M\", \"recipeCategory\": \"Sides\", \"recipeYield\": \"4\u20136 Servings\", \"recipeIngredient\": [\"Squash\", \"Onion\", \"Salt\", \"Water\", \"2 Eggs\", \"Meal Mix (or Flour)\", \"Crisco\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Boil the squash, onion, and salt in a small amount of water until tender. Cool slightly.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add 2 eggs and mix well. Add meal mix (or flour) until reaching spoon bread dough consistency, and mix well.\"}, {\"@type\": \"HowToStep\", \"text\": \"Spoon into frying pan and fry in a small amount of crisco till brown on both sides.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Squash Cakes", "author": {"@type": "Person", "name": "Neva"}, "description": "A traditional vintage side dish of savory fried squash cakes made with fresh squash, onion, and a simple batter.", "prepTime": "PT15M", "cookTime": "PT15M", "recipeCategory": "Sides", "recipeYield": "4–6 Servings", "recipeIngredient": ["Squash", "Onion", "Salt", "Water", "2 Eggs", "Meal Mix (or Flour)", "Crisco"], "recipeInstructions": [{"@type": "HowToStep", "text": "Boil the squash, onion, and salt in a small amount of water until tender. Cool slightly."}, {"@type": "HowToStep", "text": "Add 2 eggs and mix well. Add meal mix (or flour) until reaching spoon bread dough consistency, and mix well."}, {"@type": "HowToStep", "text": "Spoon into frying pan and fry in a small amount of crisco till brown on both sides."}]}'
 ---
 
 # Squash Cakes

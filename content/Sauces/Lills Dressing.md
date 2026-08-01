@@ -1,11 +1,15 @@
 ---
-title: "Lill's Dressing"
-category: "Sauces"
-collection: "JillCollection"
-source: "Lill"
-tags: ["vinaigrette", "salad", "sweet", "tangy", "123"]
-description: "A classic, sweet and tangy vinaigrette featuring a unique catsup base. This versatile dressing pairs perfectly with delicate greens like French endive or marinated artichoke hearts."
-date: "2026-07-30"
+title: Lill's Dressing
+category: Sauces
+collection: JillCollection
+source: Lill
+tags:
+  - vinaigrette
+  - salad
+  - sweet
+  - tangy
+description: A classic, sweet and tangy vinaigrette featuring a unique catsup base. This versatile dressing pairs perfectly with delicate greens like French endive or marinated artichoke hearts.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Lill's Dressing\", \"author\": {\"@type\": \"Person\", \"name\": \"Lill\"}, \"description\": \"A classic, sweet and tangy vinaigrette featuring a unique catsup base.\", \"prepTime\": \"PT5M\", \"recipeYield\": \"1 cup\", \"recipeIngredient\": [\"1/3 to 1/2 cup Catsup\", \"3 tablespoons Sugar\", \"1/4 cup Vinegar\", \"1/2 cup Oil\", \"1 small dash Salt\", \"1 small dash Pepper\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine all ingredients in a jar and shake vigorously until sugar is dissolved and dressing is emulsified.\"}]}"
 ---

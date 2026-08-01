@@ -1,11 +1,15 @@
 ---
-title: "Bert Ellen Camp's Coconut Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Bert Ellen Camp"
-tags: ["dessert", "cake", "coconut", "sourcream", "123"]
-description: "A classic recipe from Bert Ellen Camp for an incredibly moist coconut cake with a sour cream and coconut filling. Refrigerated for four days, the filling soaks into the layers to create an unforgettable texture and flavor."
-date: "2026-07-30"
+title: Bert Ellen Camp's Coconut Cake
+category: Desserts
+collection: UK2
+source: Bert Ellen Camp
+tags:
+  - dessert
+  - cake
+  - coconut
+  - sourcream
+description: A classic recipe from Bert Ellen Camp for an incredibly moist coconut cake with a sour cream and coconut filling. Refrigerated for four days, the filling soaks into the layers to create an unforgettable texture and flavor.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Bert Ellen Camp's Coconut Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Bert Ellen Camp\"}, \"datePublished\": \"2025-09-22\", \"description\": \"A unique layered coconut cake made with a yellow cake mix and a no-cook sour cream and coconut frosting that is refrigerated for four days to allow it to soak into the cake.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Coconut-Cake/Assets/Handwritten_2025-02-17_103554.webp\"], \"prepTime\": \"PT30M\", \"cookTime\": \"PT35M\", \"totalTime\": \"P4DT1H5M\", \"recipeYield\": \"1 4-layer cake\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 box yellow cake mix, plus ingredients to prepare it\", \"2 (14-ounce) packages frozen or fresh shredded coconut\", \"2 cups sour cream\", \"2 cups sugar\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Prepare and bake the yellow cake mix according to package directions for two 8- or 9-inch round layers. Let the layers cool completely.\"}, {\"@type\": \"HowToStep\", \"text\": \"While the cake cools, prepare the filling. In a large bowl, mix together the coconut, sour cream, and sugar. Set aside.\"}, {\"@type\": \"HowToStep\", \"text\": \"Once the cake layers are completely cool, carefully split each layer in half horizontally to create four thin layers.\"}, {\"@type\": \"HowToStep\", \"text\": \"Place the bottom layer on a plate. Spread a portion of the coconut filling over it. Add the next layer and repeat, continuing until all four layers are stacked with filling in between.\"}, {\"@type\": \"HowToStep\", \"text\": \"Use the remaining filling to frost the top and sides of the entire cake.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cover the cake and refrigerate for four days before serving. This allows the filling to soak into the cake, making it incredibly moist. The cake also freezes well.\"}]}"
 ---

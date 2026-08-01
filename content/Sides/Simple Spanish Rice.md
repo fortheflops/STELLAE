@@ -1,13 +1,53 @@
 ---
-title: "Simple Spanish Rice"
-category: "Sides"
-collection: "LOC"
-source: "Unknown"
-tags: ["louisecollection", "rice", "spanish rice", "123", "side dish"]
-description: "A classic vintage side dish featuring rice fried in bacon fat with aromatic vegetables and rich tomato sauce. This comforting Spanish rice brings traditional flavor and simplicity to any meal."
-date: "2026-07-30"
+title: Simple Spanish Rice
+category: Sides
+collection: LOC
+source: Unknown
+tags:
+  - louisecollection
+  - rice
+  - spanish rice
+  - side dish
+description: A classic vintage side dish featuring rice fried in bacon fat with aromatic vegetables and rich tomato sauce. This comforting Spanish rice brings traditional flavor and simplicity to any meal.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Simple Spanish Rice\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-05-19\",\n  \"description\": \"A classic vintage side dish featuring rice fried in bacon fat with aromatic vegetables and rich tomato sauce.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT25M\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeYield\": \"2\u20134 Servings\",\n  \"recipeIngredient\": [\n    \"\u00bd Cup Rice\",\n    \"Bacon Fat\",\n    \"Celery\",\n    \"Bell Pepper\",\n    \"Onion\",\n    \"Tomato Sauce\",\n    \"Salt\",\n    \"Pepper\",\n    \"Water\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a skillet, fry the \u00bd cup rice in bacon fat until golden brown and fragrant. Add the chopped celery, bell pepper, and onion, saut\u00e9ing until softened.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in the tomato sauce, and season with salt and pepper to taste. Fill the skillet with water, ensuring there is enough liquid to cook the rice and create a sauce. Bring the mixture to a boil, then cover and simmer until the rice is tender and the liquid is fully absorbed.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Simple Spanish Rice",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-05-19",
+    "description": "A classic vintage side dish featuring rice fried in bacon fat with aromatic vegetables and rich tomato sauce.",
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "recipeCategory": "Sides",
+    "recipeYield": "2–4 Servings",
+    "recipeIngredient": [
+      "½ Cup Rice",
+      "Bacon Fat",
+      "Celery",
+      "Bell Pepper",
+      "Onion",
+      "Tomato Sauce",
+      "Salt",
+      "Pepper",
+      "Water"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet, fry the ½ cup rice in bacon fat until golden brown and fragrant. Add the chopped celery, bell pepper, and onion, sautéing until softened."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the tomato sauce, and season with salt and pepper to taste. Fill the skillet with water, ensuring there is enough liquid to cook the rice and create a sauce. Bring the mixture to a boil, then cover and simmer until the rice is tender and the liquid is fully absorbed."
+      }
+    ]
+  }
 ---
 
 # Simple Spanish Rice

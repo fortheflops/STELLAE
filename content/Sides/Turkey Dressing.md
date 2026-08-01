@@ -1,13 +1,17 @@
 ---
-title: "Turkey Dressing"
-category: "Sides"
-collection: "Gail Collection"
-source: "Rick & Joy Gay"
-tags: ["dressing", "thanksgiving", "sausage", "123", "savory"]
-description: "A hearty, traditional turkey dressing featuring savory sausage, aromatic vegetables, and a unique potato-bread base. This classic recipe is perfect for stuffing poultry or serving as a rich side dish for pork."
-date: "2026-07-30"
+title: Turkey Dressing
+category: Sides
+collection: Gail Collection
+source: Rick & Joy Gay
+tags:
+  - dressing
+  - thanksgiving
+  - sausage
+  - savory
+description: A hearty, traditional turkey dressing featuring savory sausage, aromatic vegetables, and a unique potato-bread base. This classic recipe is perfect for stuffing poultry or serving as a rich side dish for pork.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Turkey Dressing\", \"author\": {\"@type\": \"Person\", \"name\": \"Rick & Joy Gay\"}, \"description\": \"A hearty, traditional turkey dressing featuring savory sausage, aromatic vegetables, and a unique potato-bread base.\", \"prepTime\": \"PT30M\", \"cookTime\": \"PT20M\", \"recipeYield\": \"4-5 Quarts\", \"recipeIngredient\": [\"4 large Onions\", \"2 pounds Sausage\", \"6-8 large stalks Celery\", \"1/2 medium Potatoes\", \"Equal amount Dry Bread\", \"Sage\", \"Poultry Seasoning\", \"Salt\", \"Pepper\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Cook sausage, celery, and onion in a large skillet until browned and tender.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add potatoes and bread, then season with sage, poultry seasoning, salt, and pepper.\"}, {\"@type\": \"HowToStep\", \"text\": \"Mix well and cool completely before use.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Turkey Dressing", "author": {"@type": "Person", "name": "Rick & Joy Gay"}, "description": "A hearty, traditional turkey dressing featuring savory sausage, aromatic vegetables, and a unique potato-bread base.", "prepTime": "PT30M", "cookTime": "PT20M", "recipeYield": "4-5 Quarts", "recipeIngredient": ["4 large Onions", "2 pounds Sausage", "6-8 large stalks Celery", "1/2 medium Potatoes", "Equal amount Dry Bread", "Sage", "Poultry Seasoning", "Salt", "Pepper"], "recipeInstructions": [{"@type": "HowToStep", "text": "Cook sausage, celery, and onion in a large skillet until browned and tender."}, {"@type": "HowToStep", "text": "Add potatoes and bread, then season with sage, poultry seasoning, salt, and pepper."}, {"@type": "HowToStep", "text": "Mix well and cool completely before use."}]}'
 ---
 
 # Turkey Dressing

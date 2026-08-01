@@ -1,11 +1,15 @@
 ---
-title: "Trudy's Sauce For Fruit Salad On Lettuce"
-category: "Sauces"
-collection: "LouiseCollection"
-source: "Trudy"
-tags: ["sauce", "fruitsalad", "123", "louisecollection", "sweet"]
-description: "A vintage, creamy fruit salad dressing featuring a delicate blend of marshmallow creme and citrus. This versatile sauce perfectly complements fresh fruit served over crisp lettuce."
-date: "2026-07-30"
+title: Trudy's Sauce For Fruit Salad On Lettuce
+category: Sauces
+collection: LouiseCollection
+source: Trudy
+tags:
+  - sauce
+  - fruitsalad
+  - louisecollection
+  - sweet
+description: A vintage, creamy fruit salad dressing featuring a delicate blend of marshmallow creme and citrus. This versatile sauce perfectly complements fresh fruit served over crisp lettuce.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Trudy's Sauce For Fruit Salad On Lettuce\", \"author\": {\"@type\": \"Person\", \"name\": \"Trudy\"}, \"description\": \"A vintage, creamy fruit salad dressing featuring a delicate blend of marshmallow creme and citrus.\", \"recipeCategory\": \"Sauces\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT10M\", \"recipeIngredient\": [\"Milk\", \"Cornstarch\", \"Fruit Juice\", \"Marshmallow Creme\", \"Orange Juice\", \"Honey\", \"Egg Yolk\"]}"
 ---

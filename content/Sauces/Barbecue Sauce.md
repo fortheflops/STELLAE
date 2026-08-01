@@ -1,13 +1,57 @@
 ---
-title: "Barbecue Sauce"
-category: "Sauces"
-collection: "UK3"
-source: "Gina Langle"
-tags: ["barbecuesauce", "sauce", "grilling", "homemade", "123"]
-description: "A rich and tangy homemade barbecue sauce packed with robust spices, Worcestershire, and a splash of beer. Perfect for slow-roasting or glazing your favorite meats until sticky and caramelized."
-date: "2026-07-30"
+title: Barbecue Sauce
+category: Sauces
+collection: UK3
+source: Gina Langle
+tags:
+  - barbecuesauce
+  - sauce
+  - grilling
+  - homemade
+description: A rich and tangy homemade barbecue sauce packed with robust spices, Worcestershire, and a splash of beer. Perfect for slow-roasting or glazing your favorite meats until sticky and caramelized.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Barbecue Sauce\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Gina Langle\"\n  },\n  \"description\": \"A rich and tangy homemade barbecue sauce packed with robust spices, Worcestershire, and a splash of beer.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT4H\",\n  \"recipeYield\": \"12 Servings\",\n  \"recipeCategory\": \"Sauces\",\n  \"recipeIngredient\": [\n    \"1 Ounce Tomato Paste\",\n    \"4 Tablespoons Worcestershire\",\n    \"1/4 Teaspoon Garlic Powder\",\n    \"1 Teaspoon Tabasco\",\n    \"3 Tablespoons Dry Mustard\",\n    \"1/2 Teaspoon Cayenne\",\n    \"1/2 Teaspoon Chili Powder\",\n    \"3 Tablespoons Brown Sugar\",\n    \"1 Medium Onion\",\n    \"2 Tablespoons Vinegar\",\n    \"1 Tablespoon Hickory Sauce\",\n    \"2 Chicken Bouillon Cubes\",\n    \"1/2 Cup Ketchup\",\n    \"Beer to fill Can\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine all ingredients in a bowl, fill the can with beer, and mix thoroughly.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake at 350 degrees Fahrenheit for 4-5 hours until thick and aromatic.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Barbecue Sauce",
+    "author": {
+      "@type": "Person",
+      "name": "Gina Langle"
+    },
+    "description": "A rich and tangy homemade barbecue sauce packed with robust spices, Worcestershire, and a splash of beer.",
+    "prepTime": "PT15M",
+    "cookTime": "PT4H",
+    "recipeYield": "12 Servings",
+    "recipeCategory": "Sauces",
+    "recipeIngredient": [
+      "1 Ounce Tomato Paste",
+      "4 Tablespoons Worcestershire",
+      "1/4 Teaspoon Garlic Powder",
+      "1 Teaspoon Tabasco",
+      "3 Tablespoons Dry Mustard",
+      "1/2 Teaspoon Cayenne",
+      "1/2 Teaspoon Chili Powder",
+      "3 Tablespoons Brown Sugar",
+      "1 Medium Onion",
+      "2 Tablespoons Vinegar",
+      "1 Tablespoon Hickory Sauce",
+      "2 Chicken Bouillon Cubes",
+      "1/2 Cup Ketchup",
+      "Beer to fill Can"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine all ingredients in a bowl, fill the can with beer, and mix thoroughly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake at 350 degrees Fahrenheit for 4-5 hours until thick and aromatic."
+      }
+    ]
+  }
 ---
 
 # Barbecue Sauce

@@ -1,13 +1,17 @@
 ---
-title: "Potatoes with Dill"
-category: "Sides"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["sidedish", "123", "potatoes", "dill", "gailcollection"]
-description: "Tender new potatoes saut\u00e9ed in butter with fresh dill weed, salt, and pepper. A classic, comforting side dish bursting with herbal flavor."
-date: "2026-07-30"
+title: Potatoes with Dill
+category: Sides
+collection: Gail Collection
+source: Unknown
+tags:
+  - sidedish
+  - potatoes
+  - dill
+  - gailcollection
+description: Tender new potatoes sautéed in butter with fresh dill weed, salt, and pepper. A classic, comforting side dish bursting with herbal flavor.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Potatoes with Dill\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-06-05\", \"description\": \"Tender new potatoes saut\u00e9ed in butter with fresh dill weed, salt, and pepper.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT20M\", \"recipeYield\": \"4 Servings\", \"recipeCategory\": \"Sides\", \"recipeCuisine\": \"General Archive\", \"ingredients\": [\"Small uniform sized new [[Potatoes]]\", \"Salted, boiling [[Water]]\", \"[[Butter]]\", \"[[Salt]]\", \"[[Pepper]]\", \"Chopped fresh [[Dill Weed]]\", \"[[Parsley]], Chopped\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Scrub the potatoes and boil in salted water for about 20 minutes until just tender.\"}, {\"@type\": \"HowToStep\", \"text\": \"Drain, dry, and peel the skins off the potatoes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Saut\u00e9 potatoes briefly in butter with salt, pepper, and lots of fresh dill weed until heated through and lightly coated.\"}, {\"@type\": \"HowToStep\", \"text\": \"Serve hot, garnished with chopped parsley.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Potatoes with Dill", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-06-05", "description": "Tender new potatoes sautéed in butter with fresh dill weed, salt, and pepper.", "prepTime": "PT10M", "cookTime": "PT20M", "recipeYield": "4 Servings", "recipeCategory": "Sides", "recipeCuisine": "General Archive", "ingredients": ["Small uniform sized new [[Potatoes]]", "Salted, boiling [[Water]]", "[[Butter]]", "[[Salt]]", "[[Pepper]]", "Chopped fresh [[Dill Weed]]", "[[Parsley]], Chopped"], "recipeInstructions": [{"@type": "HowToStep", "text": "Scrub the potatoes and boil in salted water for about 20 minutes until just tender."}, {"@type": "HowToStep", "text": "Drain, dry, and peel the skins off the potatoes."}, {"@type": "HowToStep", "text": "Sauté potatoes briefly in butter with salt, pepper, and lots of fresh dill weed until heated through and lightly coated."}, {"@type": "HowToStep", "text": "Serve hot, garnished with chopped parsley."}]}'
 ---
 
 # Potatoes with Dill

@@ -1,13 +1,17 @@
 ---
-title: "Lemon Sauce"
-category: "Sauces"
-collection: "UK3"
-source: "Unknown"
-tags: ["lemon", "sauce", "123", "desserttopping", "citrus"]
-description: "A bright and zesty lemon sauce perfect for drizzling over cakes, gingerbread, and fruit cobblers. This classic recipe uses simple pantry staples to create a smooth, thickened finish."
-date: "2026-07-30"
+title: Lemon Sauce
+category: Sauces
+collection: UK3
+source: Unknown
+tags:
+  - lemon
+  - sauce
+  - desserttopping
+  - citrus
+description: A bright and zesty lemon sauce perfect for drizzling over cakes, gingerbread, and fruit cobblers. This classic recipe uses simple pantry staples to create a smooth, thickened finish.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Lemon Sauce\", \"recipeIngredient\": [\"3 Tablespoons Cornstarch\", \"1 Cup Sugar\", \"2 Tablespoons Grated Lemon Rind\", \"1/4 Cup Lemon Juice\", \"1/4 Cup Margarine\", \"2 Cups Water\", \"1/4 Teaspoon Salt\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine dry ingredients in a saucepan, whisk in water, cook until thickened, then stir in lemon juice and margarine.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Lemon Sauce", "recipeIngredient": ["3 Tablespoons Cornstarch", "1 Cup Sugar", "2 Tablespoons Grated Lemon Rind", "1/4 Cup Lemon Juice", "1/4 Cup Margarine", "2 Cups Water", "1/4 Teaspoon Salt"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine dry ingredients in a saucepan, whisk in water, cook until thickened, then stir in lemon juice and margarine."}]}'
 ---
 
 # Lemon Sauce

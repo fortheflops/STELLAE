@@ -1,13 +1,18 @@
 ---
-title: "Gari's Rice Ortega Casserole"
-category: "Sides"
-collection: "UK5"
-source: "Gari"
-tags: ["casserole", "rice", "greenchiles", "cheesy", "sidedish", "123"]
-description: "A wonderfully creamy and cheesy rice casserole packed with green chiles, sour cream, and cottage cheese. This quick and easy side dish bakes to bubbling perfection in just twenty-five minutes."
-date: "2026-07-30"
+title: Gari's Rice Ortega Casserole
+category: Sides
+collection: UK5
+source: Gari
+tags:
+  - casserole
+  - rice
+  - greenchiles
+  - cheesy
+  - sidedish
+description: A wonderfully creamy and cheesy rice casserole packed with green chiles, sour cream, and cottage cheese. This quick and easy side dish bakes to bubbling perfection in just twenty-five minutes.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Gari's Rice Ortega Casserole\", \"author\": {\"@type\": \"Person\", \"name\": \"Gari\"}, \"datePublished\": \"2025-11-06\", \"description\": \"A wonderfully creamy and cheesy rice casserole from Gari, packed with green chiles, sour cream, and cottage cheese. A quick and easy side dish that bakes in just 25 minutes.\", \"image\": [\"https://cucinamezzaluna.com/Entrees/Casserole/Vegetable/Assets/Gari's%20Rice%20Ortega%20UK5-1753406124140.webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT25M\", \"totalTime\": \"PT40M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Side Dish\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"2/3 cup Minute Rice\", \"1/2 cup Chopped Onion\", \"1 tbsp Butter (for saut\u00e9ing)\", \"1 can (4 oz) Chopped Green Chiles\", \"1 3/4 cups Sour Cream\", \"1/2 pound (8 oz) Cottage Cheese\", \"1/2 pound (2 cups) Sharp Cheddar Cheese, shredded\", \"1 clove Garlic, minced (or to taste)\", \"Salt and Pepper, to taste\", \"1 Bay Leaf\", \"Grated Cheese (for topping)\"]}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Gari's Rice Ortega Casserole\", \"author\": {\"@type\": \"Person\", \"name\": \"Gari\"}, \"datePublished\": \"2025-11-06\", \"description\": \"A wonderfully creamy and cheesy rice casserole from Gari, packed with green chiles, sour cream, and cottage cheese. A quick and easy side dish that bakes in just 25 minutes.\", \"image\": [\"https://cucinamezzaluna.com/Entrees/Casserole/Vegetable/Assets/Gari's%20Rice%20Ortega%20UK5-1753406124140.webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT25M\", \"totalTime\": \"PT40M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Side Dish\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"2/3 cup Minute Rice\", \"1/2 cup Chopped Onion\", \"1 tbsp Butter (for sautéing)\", \"1 can (4 oz) Chopped Green Chiles\", \"1 3/4 cups Sour Cream\", \"1/2 pound (8 oz) Cottage Cheese\", \"1/2 pound (2 cups) Sharp Cheddar Cheese, shredded\", \"1 clove Garlic, minced (or to taste)\", \"Salt and Pepper, to taste\", \"1 Bay Leaf\", \"Grated Cheese (for topping)\"]}"
 ---
 
 # Gari's Rice Ortega Casserole

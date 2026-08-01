@@ -1,13 +1,51 @@
 ---
-title: "Wine Jelly"
-category: "Preserves"
-collection: "Gail Collection"
-source: "Joni"
-tags: ["preserves", "jelly", "wine", "123", "canning"]
-description: "A delightful homemade wine jelly crafted with fruit wine and liquid pectin, sealed with paraffin wax for long-lasting preservation. This vintage preserve recipe makes a charming addition to any pantry."
-date: "2026-07-30"
+title: Wine Jelly
+category: Preserves
+collection: Gail Collection
+source: Joni
+tags:
+  - preserves
+  - jelly
+  - wine
+  - canning
+description: A delightful homemade wine jelly crafted with fruit wine and liquid pectin, sealed with paraffin wax for long-lasting preservation. This vintage preserve recipe makes a charming addition to any pantry.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Wine Jelly\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Joni\"\n  },\n  \"description\": \"A delightful homemade wine jelly crafted with fruit wine and liquid pectin, sealed with paraffin wax for long-lasting preservation.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT10M\",\n  \"recipeCategory\": \"Preserves\",\n  \"recipeYield\": \"4 baby food jars\",\n  \"recipeIngredient\": [\n    \"2 Cups Fruit Wine\",\n    \"3 Cups Sugar\",\n    \"1/2 Bottle Certo (Liquid Pectin)\",\n    \"1/8 to 1/4 Inch Paraffin Wax\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a saucepan, dissolve 3 cups sugar in 2 cups fruit wine and heat near boiling for 5-10 minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add 1/2 of a bottle of Certo (liquid pectin), stir completely, and pour into sterilized jars.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Top with 1/8 to 1/4 inches of melted paraffin wax to seal, then let cool and set.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Wine Jelly",
+    "author": {
+      "@type": "Person",
+      "name": "Joni"
+    },
+    "description": "A delightful homemade wine jelly crafted with fruit wine and liquid pectin, sealed with paraffin wax for long-lasting preservation.",
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "recipeCategory": "Preserves",
+    "recipeYield": "4 baby food jars",
+    "recipeIngredient": [
+      "2 Cups Fruit Wine",
+      "3 Cups Sugar",
+      "1/2 Bottle Certo (Liquid Pectin)",
+      "1/8 to 1/4 Inch Paraffin Wax"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan, dissolve 3 cups sugar in 2 cups fruit wine and heat near boiling for 5-10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add 1/2 of a bottle of Certo (liquid pectin), stir completely, and pour into sterilized jars."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with 1/8 to 1/4 inches of melted paraffin wax to seal, then let cool and set."
+      }
+    ]
+  }
 ---
 
 # Wine Jelly

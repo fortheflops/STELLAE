@@ -1,13 +1,46 @@
 ---
-title: "Cream Gravy"
-category: "Sauces"
-collection: "UK3"
-source: "Susan"
-tags: ["sauce", "gravy", "comfortfood", "123", "quick"]
-description: "A classic, easy-to-make cream gravy made with pan drippings and milk. Perfect for serving over biscuits, potatoes, or meat dishes."
-date: "2026-07-30"
+title: Cream Gravy
+category: Sauces
+collection: UK3
+source: Susan
+tags:
+  - sauce
+  - gravy
+  - comfortfood
+  - quick
+description: A classic, easy-to-make cream gravy made with pan drippings and milk. Perfect for serving over biscuits, potatoes, or meat dishes.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Cream Gravy\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Susan\"\n  },\n  \"datePublished\": \"2025-03-26\",\n  \"description\": \"A classic, easy-to-make cream gravy made with pan drippings and milk.\",\n  \"prepTime\": \"PT2M\",\n  \"cookTime\": \"PT8M\",\n  \"totalTime\": \"PT10M\",\n  \"recipeCategory\": \"Sauces\",\n  \"recipeYield\": \"4 Servings\",\n  \"recipeIngredient\": [\n    \"2 tbsp. Fat\",\n    \"1 tbsp. Flour\",\n    \"1 cup Milk\",\n    \"Salt\",\n    \"Pepper\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Leave 2 tbsp. fat in skillet over medium-low heat, add 1 tbsp. flour, and cook until brown and bubbly. Add 1 cup milk along with salt and pepper to taste, stirring constantly until the gravy is thickened.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Cream Gravy",
+    "author": {
+      "@type": "Person",
+      "name": "Susan"
+    },
+    "datePublished": "2025-03-26",
+    "description": "A classic, easy-to-make cream gravy made with pan drippings and milk.",
+    "prepTime": "PT2M",
+    "cookTime": "PT8M",
+    "totalTime": "PT10M",
+    "recipeCategory": "Sauces",
+    "recipeYield": "4 Servings",
+    "recipeIngredient": [
+      "2 tbsp. Fat",
+      "1 tbsp. Flour",
+      "1 cup Milk",
+      "Salt",
+      "Pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Leave 2 tbsp. fat in skillet over medium-low heat, add 1 tbsp. flour, and cook until brown and bubbly. Add 1 cup milk along with salt and pepper to taste, stirring constantly until the gravy is thickened."
+      }
+    ]
+  }
 ---
 
 # Cream Gravy

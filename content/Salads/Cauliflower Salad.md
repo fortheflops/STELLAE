@@ -1,13 +1,17 @@
 ---
-title: "Cauliflower Salad"
-category: "Salads"
-collection: "UK2"
-source: "Unknown"
-tags: ["salads", "vegetable", "cauliflower", "marinated", "123"]
-description: "A crisp and tangy marinated vegetable salad featuring cauliflower, carrots, and olives steeped in a seasoned vinegar dressing. Chill for 24 hours before serving for optimal flavor absorption."
-date: "2026-07-30"
+title: Cauliflower Salad
+category: Salads
+collection: UK2
+source: Unknown
+tags:
+  - salads
+  - vegetable
+  - cauliflower
+  - marinated
+description: A crisp and tangy marinated vegetable salad featuring cauliflower, carrots, and olives steeped in a seasoned vinegar dressing. Chill for 24 hours before serving for optimal flavor absorption.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Cauliflower Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-02-19\", \"description\": \"A crisp and tangy marinated vegetable salad featuring cauliflower, carrots, and olives.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"6\\u20138 Servings\", \"recipeCategory\": \"Salads\", \"recipeIngredient\": [\"\u00be Cup Wine Vinegar\", \"\u00bd Cup Olive Oil\", \"2 Tablespoons Sugar\", \"1 Teaspoon Salt\", \"\u00bd Teaspoon Oregano\", \"\u00bc Teaspoon Pepper\", \"1 \u00bc Cups Water\", \"\u00bd Cauliflower\", \"2 Carrots\", \"2 Stalks Celery\", \"1 Green Pepper\", \"4 oz Jar Pimentos\", \"1 3oz Jar Green Olives\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Mix vinegar, olive oil, sugar, salt, oregano, and pepper.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add water, vegetables, and olives to the mixture and simmer for 5 minutes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Chill 24 hours and drain well before serving.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Cauliflower Salad", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-02-19", "description": "A crisp and tangy marinated vegetable salad featuring cauliflower, carrots, and olives.", "prepTime": "PT20M", "cookTime": "PT5M", "recipeYield": "6\u20138 Servings", "recipeCategory": "Salads", "recipeIngredient": ["¾ Cup Wine Vinegar", "½ Cup Olive Oil", "2 Tablespoons Sugar", "1 Teaspoon Salt", "½ Teaspoon Oregano", "¼ Teaspoon Pepper", "1 ¼ Cups Water", "½ Cauliflower", "2 Carrots", "2 Stalks Celery", "1 Green Pepper", "4 oz Jar Pimentos", "1 3oz Jar Green Olives"], "recipeInstructions": [{"@type": "HowToStep", "text": "Mix vinegar, olive oil, sugar, salt, oregano, and pepper."}, {"@type": "HowToStep", "text": "Add water, vegetables, and olives to the mixture and simmer for 5 minutes."}, {"@type": "HowToStep", "text": "Chill 24 hours and drain well before serving."}]}'
 ---
 
 # Cauliflower Salad

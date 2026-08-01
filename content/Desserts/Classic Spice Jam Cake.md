@@ -1,13 +1,17 @@
 ---
-title: "Classic Spice Jam Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "cake", "spicecake", "123", "jam"]
-description: "A classic, moist jam cake with a tender crumb from sour milk and a rich flavor from brown sugar and warm spices."
-date: "2026-07-30"
+title: Classic Spice Jam Cake
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - spicecake
+  - jam
+description: A classic, moist jam cake with a tender crumb from sour milk and a rich flavor from brown sugar and warm spices.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Spice Jam Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-05\", \"description\": \"A simple, old-fashioned spice cake made incredibly moist with the addition of a cup of jam directly into the batter.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Jam-Cake/Assets/Handwritten_2025-02-05_085453.webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT30M\", \"totalTime\": \"PT45M\", \"recipeYield\": \"1 loaf or 2 8-inch layers\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3/4 cup butter, softened\", \"1 cup packed brown sugar\", \"2 large eggs, well beaten\", \"1 1/2 cups all-purpose flour\", \"1 teaspoon baking soda\", \"1 teaspoon cinnamon\", \"1 teaspoon allspice\", \"1 teaspoon nutmeg\", \"1 cup jam (blackberry or raspberry)\", \"3 tablespoons sour milk (buttermilk)\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Spice Jam Cake", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-05", "description": "A simple, old-fashioned spice cake made incredibly moist with the addition of a cup of jam directly into the batter.", "image": ["https://cucinamezzaluna.com/Desserts/Cake/Jam-Cake/Assets/Handwritten_2025-02-05_085453.webp"], "prepTime": "PT15M", "cookTime": "PT30M", "totalTime": "PT45M", "recipeYield": "1 loaf or 2 8-inch layers", "recipeCategory": "Dessert", "recipeCuisine": "American", "recipeIngredient": ["3/4 cup butter, softened", "1 cup packed brown sugar", "2 large eggs, well beaten", "1 1/2 cups all-purpose flour", "1 teaspoon baking soda", "1 teaspoon cinnamon", "1 teaspoon allspice", "1 teaspoon nutmeg", "1 cup jam (blackberry or raspberry)", "3 tablespoons sour milk (buttermilk)"]}'
 ---
 
 # Classic Spice Jam Cake

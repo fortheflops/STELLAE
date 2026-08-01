@@ -1,13 +1,17 @@
 ---
-title: "Classic Chocolate Glaze"
-category: "Sauces"
-collection: "UK15"
-source: "Unknown"
-tags: ["glaze", "chocolate", "dessert", "topping", "123"]
-description: "A quick and easy chocolate glaze made with melted unsweetened chocolate, perfect for drizzling over Bundt cakes, donuts, or cookies. This versatile recipe provides a smooth, glossy finish that sets beautifully on any baked good."
-date: "2026-07-30"
+title: Classic Chocolate Glaze
+category: Sauces
+collection: UK15
+source: Unknown
+tags:
+  - glaze
+  - chocolate
+  - dessert
+  - topping
+description: A quick and easy chocolate glaze made with melted unsweetened chocolate, perfect for drizzling over Bundt cakes, donuts, or cookies. This versatile recipe provides a smooth, glossy finish that sets beautifully on any baked good.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Chocolate Glaze\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A quick and easy chocolate glaze made with melted unsweetened chocolate, perfect for drizzling over Bundt cakes, donuts, or cookies.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT5M\", \"totalTime\": \"PT15M\", \"recipeYield\": \"1 1/2 cups\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"1/3 cup margarine or butter\", \"2 cups powdered sugar\", \"1 1/2 teaspoons vanilla\", \"2 (1 ounce) squares unsweetened chocolate, melted & cooled\", \"2 to 4 tablespoons hot water\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Chocolate Glaze", "author": {"@type": "Person", "name": "Unknown"}, "description": "A quick and easy chocolate glaze made with melted unsweetened chocolate, perfect for drizzling over Bundt cakes, donuts, or cookies.", "prepTime": "PT10M", "cookTime": "PT5M", "totalTime": "PT15M", "recipeYield": "1 1/2 cups", "recipeCategory": "Sauces", "recipeIngredient": ["1/3 cup margarine or butter", "2 cups powdered sugar", "1 1/2 teaspoons vanilla", "2 (1 ounce) squares unsweetened chocolate, melted & cooled", "2 to 4 tablespoons hot water"]}'
 ---
 
 # Classic Chocolate Glaze

@@ -1,13 +1,18 @@
 ---
-title: "Oven-Fried Eggplant"
-category: "Snacks"
-collection: "Unknown Two"
-source: "Unknown"
-tags: ["eggplant", "snack", "side dish", "baked", "123", "vegetable"]
-description: "Crispy oven-fried eggplant slices coated in a savory mixture of crushed soda crackers and Parmesan cheese bound with mayonnaise. Baked at high heat until golden and tender for a quick, flavorful snack or side dish."
-date: "2026-07-30"
+title: Oven-Fried Eggplant
+category: Snacks
+collection: Unknown Two
+source: Unknown
+tags:
+  - eggplant
+  - snack
+  - side dish
+  - baked
+  - vegetable
+description: Crispy oven-fried eggplant slices coated in a savory mixture of crushed soda crackers and Parmesan cheese bound with mayonnaise. Baked at high heat until golden and tender for a quick, flavorful snack or side dish.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org\",\"@type\":\"Recipe\",\"name\":\"Oven-Fried Eggplant\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"description\":\"Crispy oven-fried eggplant slices coated in a savory mixture of crushed soda crackers and Parmesan cheese bound with mayonnaise.\",\"prepTime\":\"PT10M\",\"cookTime\":\"PT20M\",\"totalTime\":\"PT30M\",\"recipeYield\":\"4 Servings\",\"recipeCategory\":\"Snacks\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 Medium Eggplant, peeled and cut into \u00bd-inch thick slices\",\"3/4 Cup Crushed Soda Crackers\",\"1/4 Cup Mayonnaise\",\"1/3 Cup Parmesan Cheese, grated\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Trim and peel the eggplant, then cut into \u00bd-inch thick slices.\"},{\"@type\":\"HowToStep\",\"text\":\"Mix crushed soda crackers and Parmesan cheese in a shallow dish.\"},{\"@type\":\"HowToStep\",\"text\":\"Spread mayonnaise on both sides of each eggplant slice and dredge in the crumb mixture.\"},{\"@type\":\"HowToStep\",\"text\":\"Place on an ungreased cookie sheet and bake at 420\u00b0F for 15 minutes until tender and lightly browned.\"},{\"@type\":\"HowToStep\",\"text\":\"Turn slices and bake until the underside is golden brown.\"}]}"
+recipe: '{"@context":"https://schema.org","@type":"Recipe","name":"Oven-Fried Eggplant","author":{"@type":"Person","name":"Unknown"},"description":"Crispy oven-fried eggplant slices coated in a savory mixture of crushed soda crackers and Parmesan cheese bound with mayonnaise.","prepTime":"PT10M","cookTime":"PT20M","totalTime":"PT30M","recipeYield":"4 Servings","recipeCategory":"Snacks","recipeCuisine":"American","recipeIngredient":["1 Medium Eggplant, peeled and cut into ½-inch thick slices","3/4 Cup Crushed Soda Crackers","1/4 Cup Mayonnaise","1/3 Cup Parmesan Cheese, grated"],"recipeInstructions":[{"@type":"HowToStep","text":"Trim and peel the eggplant, then cut into ½-inch thick slices."},{"@type":"HowToStep","text":"Mix crushed soda crackers and Parmesan cheese in a shallow dish."},{"@type":"HowToStep","text":"Spread mayonnaise on both sides of each eggplant slice and dredge in the crumb mixture."},{"@type":"HowToStep","text":"Place on an ungreased cookie sheet and bake at 420°F for 15 minutes until tender and lightly browned."},{"@type":"HowToStep","text":"Turn slices and bake until the underside is golden brown."}]}'
 ---
 
 # Oven-Fried Eggplant

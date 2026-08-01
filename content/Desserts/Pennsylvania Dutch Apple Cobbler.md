@@ -1,13 +1,18 @@
 ---
-title: "Pennsylvania Dutch Apple Cobbler"
-category: "Desserts"
-collection: "UK5"
-source: "J. Town"
-tags: ["cobbler", "apple", "dessert", "pennsylvaniadutch", "comfortfood", "123"]
-description: "A traditional Pennsylvania Dutch apple cobbler featuring a tender baked apple base, a moist sour cream cake layer, and a crunchy cinnamon-sugar topping. This comforting dessert is best served warm, optionally paired with a rich cream cheese topping."
-date: "2026-07-30"
+title: Pennsylvania Dutch Apple Cobbler
+category: Desserts
+collection: UK5
+source: J. Town
+tags:
+  - cobbler
+  - apple
+  - dessert
+  - pennsylvaniadutch
+  - comfortfood
+description: A traditional Pennsylvania Dutch apple cobbler featuring a tender baked apple base, a moist sour cream cake layer, and a crunchy cinnamon-sugar topping. This comforting dessert is best served warm, optionally paired with a rich cream cheese topping.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Pennsylvania Dutch Apple Cobbler\", \"author\": {\"@type\": \"Person\", \"name\": \"J. Town\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT40M\", \"recipeYield\": \"8 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Pennsylvania Dutch Apple Cobbler", "author": {"@type": "Person", "name": "J. Town"}, "prepTime": "PT20M", "cookTime": "PT40M", "recipeYield": "8 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Pennsylvania Dutch Apple Cobbler

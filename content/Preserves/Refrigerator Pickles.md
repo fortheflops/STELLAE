@@ -1,13 +1,18 @@
 ---
-title: "Refrigerator Pickles"
-category: "Preserves"
-collection: "JC"
-source: "Sue Shoquist"
-tags: ["pickles", "cucumbers", "refrigerator", "sweetandtangy", "123", "appetizers"]
-description: "Enjoy crisp, sweet, and tangy refrigerator pickles made easily with fresh cucumbers, onions, and green peppers. This refreshing preserve requires no canning and develops vibrant flavor after resting in the fridge."
-date: "2026-07-30"
+title: Refrigerator Pickles
+category: Preserves
+collection: JC
+source: Sue Shoquist
+tags:
+  - pickles
+  - cucumbers
+  - refrigerator
+  - sweetandtangy
+  - appetizers
+description: Enjoy crisp, sweet, and tangy refrigerator pickles made easily with fresh cucumbers, onions, and green peppers. This refreshing preserve requires no canning and develops vibrant flavor after resting in the fridge.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Refrigerator Pickles\", \"author\": {\"@type\": \"Person\", \"name\": \"Sue Shoquist\"}, \"datePublished\": \"2025-08-10\", \"description\": \"Enjoy crisp, sweet, and tangy refrigerator pickles made easily with fresh cucumbers, onions, and green peppers.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"12 Servings\", \"recipeCategory\": \"Preserves\", \"recipeIngredient\": [\"9 cups Sliced Cucumbers\", \"1 cup Thinly sliced Onion\", \"1 cup Thinly sliced Green Pepper\", \"1 cup Vinegar\", \"2 cups Sugar\", \"2 tablespoons Salt\", \"1 tablespoon Mustard Seed\", \"1 tablespoon Celery Seed\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a large non-reactive bowl, combine the sliced cucumbers, onion, and green pepper.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a separate saucepan, combine the vinegar, sugar, salt, mustard seed, and celery seed.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bring the vinegar mixture to a boil over medium heat, stirring until the sugar is completely dissolved.\"}, {\"@type\": \"HowToStep\", \"text\": \"Carefully pour the hot brine over the vegetable mixture. Let it cool to room temperature.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cover the bowl or transfer the pickles to jars and refrigerate for at least 48 hours before serving.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Refrigerator Pickles", "author": {"@type": "Person", "name": "Sue Shoquist"}, "datePublished": "2025-08-10", "description": "Enjoy crisp, sweet, and tangy refrigerator pickles made easily with fresh cucumbers, onions, and green peppers.", "prepTime": "PT20M", "cookTime": "PT5M", "recipeYield": "12 Servings", "recipeCategory": "Preserves", "recipeIngredient": ["9 cups Sliced Cucumbers", "1 cup Thinly sliced Onion", "1 cup Thinly sliced Green Pepper", "1 cup Vinegar", "2 cups Sugar", "2 tablespoons Salt", "1 tablespoon Mustard Seed", "1 tablespoon Celery Seed"], "recipeInstructions": [{"@type": "HowToStep", "text": "In a large non-reactive bowl, combine the sliced cucumbers, onion, and green pepper."}, {"@type": "HowToStep", "text": "In a separate saucepan, combine the vinegar, sugar, salt, mustard seed, and celery seed."}, {"@type": "HowToStep", "text": "Bring the vinegar mixture to a boil over medium heat, stirring until the sugar is completely dissolved."}, {"@type": "HowToStep", "text": "Carefully pour the hot brine over the vegetable mixture. Let it cool to room temperature."}, {"@type": "HowToStep", "text": "Cover the bowl or transfer the pickles to jars and refrigerate for at least 48 hours before serving."}]}'
 ---
 
 # Refrigerator Pickles

@@ -1,13 +1,49 @@
 ---
-title: "Simple Buttered New Potatoes And Onions"
-category: "Sides"
-collection: "UK3"
-source: "Unknown"
-tags: ["potatoes", "side dish", "123", "simple", "vegetable"]
-description: "A classic vintage side dish featuring tender new potatoes cooked with onions and tossed in rich butter. Perfectly seasoned with salt and pepper for a comforting addition to any meal."
-date: "2026-07-30"
+title: Simple Buttered New Potatoes And Onions
+category: Sides
+collection: UK3
+source: Unknown
+tags:
+  - potatoes
+  - side dish
+  - simple
+  - vegetable
+description: A classic vintage side dish featuring tender new potatoes cooked with onions and tossed in rich butter. Perfectly seasoned with salt and pepper for a comforting addition to any meal.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Simple Buttered New Potatoes And Onions\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-04-23\",\n  \"description\": \"A classic vintage side dish featuring tender new potatoes cooked with onions and tossed in rich butter.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT20M\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeYield\": \"4 Servings\",\n  \"recipeIngredient\": [\n    \"5-6 New Potatoes\",\n    \"1 large Onion\",\n    \"Butter\",\n    \"Salt\",\n    \"Pepper\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook the new potatoes with skin on in boiling water until tender, adding the onion until clear.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drain and add butter, salt, and pepper to taste.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Simple Buttered New Potatoes And Onions",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-04-23",
+    "description": "A classic vintage side dish featuring tender new potatoes cooked with onions and tossed in rich butter.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "recipeCategory": "Sides",
+    "recipeYield": "4 Servings",
+    "recipeIngredient": [
+      "5-6 New Potatoes",
+      "1 large Onion",
+      "Butter",
+      "Salt",
+      "Pepper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cook the new potatoes with skin on in boiling water until tender, adding the onion until clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain and add butter, salt, and pepper to taste."
+      }
+    ]
+  }
 ---
 
 # Simple Buttered New Potatoes And Onions

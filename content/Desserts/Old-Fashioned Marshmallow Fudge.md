@@ -1,13 +1,17 @@
 ---
-title: "Old-Fashioned Marshmallow Fudge"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["fudge", "marshmallow", "123", "confection", "chocolate"]
-description: "A classic, cooked chocolate fudge recipe made with melted marshmallows for a wonderfully smooth and creamy texture. This traditional fudge is cooked to the soft-ball stage and beaten until it thickens."
-date: "2026-07-30"
+title: Old-Fashioned Marshmallow Fudge
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - fudge
+  - marshmallow
+  - confection
+  - chocolate
+description: A classic, cooked chocolate fudge recipe made with melted marshmallows for a wonderfully smooth and creamy texture. This traditional fudge is cooked to the soft-ball stage and beaten until it thickens.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Old-Fashioned Marshmallow Fudge\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, cooked chocolate fudge recipe made with melted marshmallows for a wonderfully smooth and creamy texture.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT20M\", \"recipeYield\": \"2 pounds\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"2 cups sugar\", \"1 cup milk\", \"2 oz bitter chocolate\", \"3 Tbsp butter\", \"1 tsp vanilla\", \"10 large marshmallows\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Old-Fashioned Marshmallow Fudge", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, cooked chocolate fudge recipe made with melted marshmallows for a wonderfully smooth and creamy texture.", "prepTime": "PT10M", "cookTime": "PT20M", "recipeYield": "2 pounds", "recipeCategory": "Desserts", "recipeIngredient": ["2 cups sugar", "1 cup milk", "2 oz bitter chocolate", "3 Tbsp butter", "1 tsp vanilla", "10 large marshmallows"]}'
 ---
 
 # Old-Fashioned Marshmallow Fudge

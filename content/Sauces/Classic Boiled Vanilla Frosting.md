@@ -1,13 +1,17 @@
 ---
-title: "Classic Boiled Vanilla Frosting"
-category: "Sauces"
-collection: "General Archive"
-source: "Unknown"
-tags: ["frosting", "123", "meringue", "desserttopping", "classic"]
-description: "A light, fluffy, and glossy meringue-style boiled icing perfect for layering cakes. This classic seven-minute frosting is achieved by whipping hot sugar syrup into stiff egg whites."
-date: "2026-07-30"
+title: Classic Boiled Vanilla Frosting
+category: Sauces
+collection: General Archive
+source: Unknown
+tags:
+  - frosting
+  - meringue
+  - desserttopping
+  - classic
+description: A light, fluffy, and glossy meringue-style boiled icing perfect for layering cakes. This classic seven-minute frosting is achieved by whipping hot sugar syrup into stiff egg whites.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Boiled Vanilla Frosting\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A light, fluffy, and glossy meringue-style boiled icing perfect for layering cakes.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"Frosts a 2-3 layer cake\", \"recipeCategory\": \"Sauces\", \"recipeIngredient\": [\"1 1/2 cups Sugar\", \"1/2 cup Water\", \"1/2 tsp Vinegar\", \"3 Egg Whites\", \"Few grains of Salt\", \"1 tsp Vanilla\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Boiled Vanilla Frosting", "author": {"@type": "Person", "name": "Unknown"}, "description": "A light, fluffy, and glossy meringue-style boiled icing perfect for layering cakes.", "prepTime": "PT5M", "cookTime": "PT10M", "recipeYield": "Frosts a 2-3 layer cake", "recipeCategory": "Sauces", "recipeIngredient": ["1 1/2 cups Sugar", "1/2 cup Water", "1/2 tsp Vinegar", "3 Egg Whites", "Few grains of Salt", "1 tsp Vanilla"]}'
 ---
 
 # Classic Boiled Vanilla Frosting

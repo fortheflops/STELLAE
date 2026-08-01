@@ -1,11 +1,15 @@
 ---
-title: "Jackie's Brownies"
-category: "Desserts"
-collection: "PatsyCollection"
-source: "Jackie"
-tags: ["brownies", "chocolate", "fudgy", "dessert", "123"]
-description: "A simple and wonderfully fudgy brownie recipe featuring Hershey's chocolate syrup for a rich, classic flavor. These brownies offer a perfectly chewy texture that is ideal for any occasion."
-date: "2026-07-30"
+title: Jackie's Brownies
+category: Desserts
+collection: PatsyCollection
+source: Jackie
+tags:
+  - brownies
+  - chocolate
+  - fudgy
+  - dessert
+description: A simple and wonderfully fudgy brownie recipe featuring Hershey's chocolate syrup for a rich, classic flavor. These brownies offer a perfectly chewy texture that is ideal for any occasion.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Jackie's Brownies\", \"author\": {\"@type\": \"Person\", \"name\": \"Jackie\"}, \"description\": \"A simple and wonderfully fudgy brownie recipe featuring Hershey's chocolate syrup.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"16-24 brownies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 cup (2 sticks) oleo\", \"1 cup sugar\", \"4 eggs\", \"1 cup + 1 Tbsp flour\", \"1 cup Hershey Chocolate Syrup\"]}"
 ---

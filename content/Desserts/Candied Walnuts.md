@@ -1,13 +1,18 @@
 ---
-title: "Candied Walnuts"
-category: "Desserts"
-collection: "Patsy Collection"
-source: "Unknown"
-tags: ["candied", "walnuts", "dessert", "snack", "123", "patsycollection"]
-description: "A quick stovetop method for making classic candied walnuts with a simple butter, brown sugar, and cinnamon glaze. These toasted nuts are perfect for snacking or as a crunchy topping for salads and desserts."
-date: "2026-07-30"
+title: Candied Walnuts
+category: Desserts
+collection: Patsy Collection
+source: Unknown
+tags:
+  - candied
+  - walnuts
+  - dessert
+  - snack
+  - patsycollection
+description: A quick stovetop method for making classic candied walnuts with a simple butter, brown sugar, and cinnamon glaze. These toasted nuts are perfect for snacking or as a crunchy topping for salads and desserts.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Candied Walnuts\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A quick stovetop method for making classic candied walnuts with a simple butter, brown sugar, and cinnamon glaze.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"2 cups\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"2 tablespoons butter\", \"1/2 cup packed brown sugar\", \"2 teaspoons cinnamon\", \"2 cups walnut halves\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Candied Walnuts", "author": {"@type": "Person", "name": "Unknown"}, "description": "A quick stovetop method for making classic candied walnuts with a simple butter, brown sugar, and cinnamon glaze.", "prepTime": "PT5M", "cookTime": "PT5M", "recipeYield": "2 cups", "recipeCategory": "Desserts", "recipeIngredient": ["2 tablespoons butter", "1/2 cup packed brown sugar", "2 teaspoons cinnamon", "2 cups walnut halves"]}'
 ---
 
 # Candied Walnuts

@@ -1,13 +1,17 @@
 ---
-title: "Potato Meat Pie"
-category: "Entrees"
-collection: "UK2"
-source: "Unknown"
-tags: ["pie", "meatpie", "potato", "123", "entree"]
-description: "A classic layered savory pie featuring thinly sliced potatoes, onions, and savory ham baked inside a flaky double pastry crust. Finished with a rich infusion of warm heavy cream poured right before serving."
-date: "2026-07-30"
+title: Potato Meat Pie
+category: Entrees
+collection: UK2
+source: Unknown
+tags:
+  - pie
+  - meatpie
+  - potato
+  - entree
+description: A classic layered savory pie featuring thinly sliced potatoes, onions, and savory ham baked inside a flaky double pastry crust. Finished with a rich infusion of warm heavy cream poured right before serving.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Potato Meat Pie\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-01-31\",\"description\":\"A classic layered savory pie featuring thinly sliced potatoes, onions, and savory ham baked inside a flaky double pastry crust.\","
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Potato Meat Pie","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-01-31","description":"A classic layered savory pie featuring thinly sliced potatoes, onions, and savory ham baked inside a flaky double pastry crust.",'
 ---
 
 # Potato Meat Pie

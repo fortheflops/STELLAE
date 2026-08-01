@@ -1,13 +1,18 @@
 ---
-title: "Chinese Ramen Slaw"
-category: "Salads"
-collection: "UK3 Collection"
-source: "Janine Porter - Cathie Purdy"
-tags: ["123", "ramen slaw", "chicken salad", "coleslaw", "make-ahead", "potluck"]
-description: "A crunchy, savory Chinese ramen slaw tossed with diced cooked chicken, toasted almonds, sesame seeds, and a tangy ramen-seasoned soy dressing. Perfect for quick weekday lunches or potlucks."
-date: "2026-07-30"
+title: Chinese Ramen Slaw
+category: Salads
+collection: UK3 Collection
+source: Janine Porter - Cathie Purdy
+tags:
+  - ramen slaw
+  - chicken salad
+  - coleslaw
+  - make-ahead
+  - potluck
+description: A crunchy, savory Chinese ramen slaw tossed with diced cooked chicken, toasted almonds, sesame seeds, and a tangy ramen-seasoned soy dressing. Perfect for quick weekday lunches or potlucks.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org\",\"@type\":\"Recipe\",\"name\":\"Chinese Ramen Slaw\",\"author\":{\"@type\":\"Person\",\"name\":\"Janine Porter - Cathie Purdy\"},\"description\":\"A crunchy, savory Chinese ramen slaw tossed with diced cooked chicken, toasted almonds, sesame seeds, and a tangy ramen-seasoned soy dressing.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT8M\",\"totalTime\":\"PT53M\",\"recipeYield\":\"4-6 Servings\",\"recipeCategory\":\"Salads\",\"keywords\":\"ramen slaw, chicken salad, coleslaw, potluck\",\"recipeIngredient\":[\"1 package Top Ramen (seasoning packet reserved)\",\"1 package (14-16 oz) Cole Slaw Mix with Carrots\",\"4 Chicken Breasts, cooked and diced\",\"1 Bunch Cilantro, chopped\",\"1/4 Cup Sesame Seeds\",\"1/4 to 1/2 Cup Slivered Almonds\",\"1/2 Cup Vegetable Oil\",\"1/4 Cup Rice Vinegar\",\"1 Seasoning Packet from Top Ramen\",\"3 Tbsp Soy Sauce\",\"1 Tbsp Sugar\",\"To taste Salt & Pepper Mix\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 350\u00b0F (175\u00b0C). Toast crumbled ramen noodles, sesame seeds, and slivered almonds on a baking sheet for 5-8 minutes until golden brown and fragrant. Let cool completely.\"},{\"@type\":\"HowToStep\",\"text\":\"Whisk oil, rice vinegar, reserved ramen seasoning packet, soy sauce, sugar, and salt & pepper together until sugar dissolves.\"},{\"@type\":\"HowToStep\",\"text\":\"Combine coleslaw mix, cooked diced chicken, chopped cilantro, dressing, and toasted noodle mixture in a large bowl. Toss to coat and chill for at least 30 minutes before serving.\"}]}"
+recipe: '{"@context":"https://schema.org","@type":"Recipe","name":"Chinese Ramen Slaw","author":{"@type":"Person","name":"Janine Porter - Cathie Purdy"},"description":"A crunchy, savory Chinese ramen slaw tossed with diced cooked chicken, toasted almonds, sesame seeds, and a tangy ramen-seasoned soy dressing.","prepTime":"PT15M","cookTime":"PT8M","totalTime":"PT53M","recipeYield":"4-6 Servings","recipeCategory":"Salads","keywords":"ramen slaw, chicken salad, coleslaw, potluck","recipeIngredient":["1 package Top Ramen (seasoning packet reserved)","1 package (14-16 oz) Cole Slaw Mix with Carrots","4 Chicken Breasts, cooked and diced","1 Bunch Cilantro, chopped","1/4 Cup Sesame Seeds","1/4 to 1/2 Cup Slivered Almonds","1/2 Cup Vegetable Oil","1/4 Cup Rice Vinegar","1 Seasoning Packet from Top Ramen","3 Tbsp Soy Sauce","1 Tbsp Sugar","To taste Salt & Pepper Mix"],"recipeInstructions":[{"@type":"HowToStep","text":"Preheat oven to 350°F (175°C). Toast crumbled ramen noodles, sesame seeds, and slivered almonds on a baking sheet for 5-8 minutes until golden brown and fragrant. Let cool completely."},{"@type":"HowToStep","text":"Whisk oil, rice vinegar, reserved ramen seasoning packet, soy sauce, sugar, and salt & pepper together until sugar dissolves."},{"@type":"HowToStep","text":"Combine coleslaw mix, cooked diced chicken, chopped cilantro, dressing, and toasted noodle mixture in a large bowl. Toss to coat and chill for at least 30 minutes before serving."}]}'
 ---
 
 # Chinese Ramen Slaw
