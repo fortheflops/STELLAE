@@ -3,7 +3,7 @@ title: "Soft Sugar Cookies (Large Batch)"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["cookies", "vintage", "largebatch", "sugarcookies", "holiday"]
+tags: ["cookies", "123", "largebatch", "sugarcookies", "holiday"]
 description: "A classic, large-batch recipe for soft, cake-like sugar cookies. This tender dough is enriched with buttermilk or sour cream and spiced with nutmeg for a perfect roll-and-cut treat."
 date: "2026-07-30"
 draft: false

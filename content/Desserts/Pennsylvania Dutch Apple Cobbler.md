@@ -3,7 +3,7 @@ title: "Pennsylvania Dutch Apple Cobbler"
 category: "Desserts"
 collection: "UK5"
 source: "J. Town"
-tags: ["cobbler", "apple", "dessert", "pennsylvaniadutch", "comfortfood", "vintage"]
+tags: ["cobbler", "apple", "dessert", "pennsylvaniadutch", "comfortfood", "123"]
 description: "A traditional Pennsylvania Dutch apple cobbler featuring a tender baked apple base, a moist sour cream cake layer, and a crunchy cinnamon-sugar topping. This comforting dessert is best served warm, optionally paired with a rich cream cheese topping."
 date: "2026-07-30"
 draft: false

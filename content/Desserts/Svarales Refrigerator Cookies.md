@@ -3,7 +3,7 @@ title: "Svarale's Refrigerator Cookies"
 category: "Desserts"
 collection: "UK3"
 source: "Svarale"
-tags: ["cookies", "refrigeratorcookies", "pecans", "vintage", "largebatch"]
+tags: ["cookies", "refrigeratorcookies", "pecans", "123", "largebatch"]
 description: "A classic, large-batch recipe for rich, buttery slice-and-bake refrigerator cookies. This simple shortbread-style dough is loaded with pecans and chilled overnight for perfect slicing."
 date: "2026-07-30"
 draft: false

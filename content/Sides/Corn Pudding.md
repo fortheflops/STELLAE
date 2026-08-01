@@ -8,7 +8,7 @@ tags:
   - vegetable
   - corn
   - sidedish
-  - vintage
+  - 123
 description: A classic comforting corn pudding baked to a tender, set perfection with a hint of nutmeg. This traditional vegetable casserole is a wonderful addition to any holiday table or family dinner.
 date: 2026-07-30
 draft: false

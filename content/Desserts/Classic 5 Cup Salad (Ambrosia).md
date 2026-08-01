@@ -3,7 +3,7 @@ title: "Classic 5 Cup Salad (Ambrosia)"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["ambrosia", "vintage", "potluck", "fruit", "no-bake"]
+tags: ["ambrosia", "123", "potluck", "fruit", "no-bake"]
 description: "A nostalgic and simple fruit salad featuring a perfect balance of five classic ingredients. This creamy, chilled dessert is a timeless potluck favorite that melds beautifully overnight."
 date: "2026-07-30"
 draft: false

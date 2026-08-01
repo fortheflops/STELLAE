@@ -3,7 +3,7 @@ title: "Classic Decorative Sugar Molding"
 category: "Desserts"
 collection: "Louise Collection"
 source: "Unknown"
-tags: ["sugarmolding", "confection", "vintage", "louisecollection", "decorations"]
+tags: ["sugarmolding", "confection", "123", "louisecollection", "decorations"]
 description: "A classic recipe and technique for creating beautiful, hollow molded sugar shapes. This method uses a simple sugar and egg white mixture, perfect for making panoramic Easter eggs or other delicate decorations."
 date: "2026-07-30"
 draft: false

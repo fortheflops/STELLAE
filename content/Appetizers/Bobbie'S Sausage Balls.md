@@ -4,7 +4,7 @@ category: Appetizers
 collection: Jill's Collection
 source: Bobbie
 tags:
-  - vintage
+  - 123
   - appetizer
   - sausage
   - cheese

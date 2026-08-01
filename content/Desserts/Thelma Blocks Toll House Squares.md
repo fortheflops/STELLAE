@@ -3,7 +3,7 @@ title: "Thelma Block's Toll House Squares"
 category: "Desserts"
 collection: "Jill Collection"
 source: "Thelma Block"
-tags: ["bars", "cookies", "chocolate", "vintage", "dessert"]
+tags: ["bars", "cookies", "chocolate", "123", "dessert"]
 description: "A moist, brownie-like bar cookie featuring a unique marbled chocolate top. These classic Toll House-inspired squares are perfect for freezing and sharing."
 date: "2026-07-30"
 draft: false

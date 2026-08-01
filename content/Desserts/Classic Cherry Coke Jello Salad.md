@@ -3,7 +3,7 @@ title: "Classic Cherry Coke Jello Salad"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["vintage", "jello", "salad", "coke", "nostalgic", "dessert"]
+tags: ["123", "jello", "salad", "coke", "nostalgic", "dessert"]
 description: "A fun and fizzy vintage Jello salad featuring the unique combination of cherry Jello, Coca-Cola, cream cheese, and maraschino cherries. This nostalgic treat offers a delightful texture and a classic flavor profile perfect for retro gatherings."
 date: "2026-07-30"
 draft: false

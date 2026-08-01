@@ -3,7 +3,7 @@ title: "Texas Sheet Cake"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "cake", "chocolate", "texas", "sheetcake", "vintage"]
+tags: ["dessert", "cake", "chocolate", "texas", "sheetcake", "123"]
 description: "A classic Texas-style sheet cake with a rich, boiled cocoa frosting that's poured over the cake while it's still hot."
 date: "2026-07-30"
 draft: false

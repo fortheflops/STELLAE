@@ -3,7 +3,7 @@ title: "Lois' Strawberry Angel Food Dessert"
 category: "Desserts"
 collection: "UK2"
 source: "Lois"
-tags: ["dessert", "nobake", "strawberry", "angelfood", "vintage", "trifle"]
+tags: ["dessert", "nobake", "strawberry", "angelfood", "123", "trifle"]
 description: "A light and fluffy no-bake dessert featuring layers of crumbled angel food cake and a creamy strawberry gelatin mixture. This classic treat is perfect for gatherings and sets beautifully in the refrigerator."
 date: "2026-07-30"
 draft: false

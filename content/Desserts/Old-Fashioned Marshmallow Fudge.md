@@ -3,7 +3,7 @@ title: "Old-Fashioned Marshmallow Fudge"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["fudge", "marshmallow", "vintage", "confection", "chocolate"]
+tags: ["fudge", "marshmallow", "123", "confection", "chocolate"]
 description: "A classic, cooked chocolate fudge recipe made with melted marshmallows for a wonderfully smooth and creamy texture. This traditional fudge is cooked to the soft-ball stage and beaten until it thickens."
 date: "2026-07-30"
 draft: false

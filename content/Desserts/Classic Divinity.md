@@ -3,7 +3,7 @@ title: "Classic Divinity"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["candy", "vintage", "confection", "holiday", "classic"]
+tags: ["candy", "123", "confection", "holiday", "classic"]
 description: "A classic, light, and fluffy confection made by pouring hot sugar syrup into stiffly beaten egg whites. This traditional candy is prized for its melt-in-your-mouth texture and firm, cloud-like shape."
 date: "2026-07-30"
 draft: false

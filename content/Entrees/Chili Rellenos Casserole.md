@@ -3,7 +3,7 @@ title: "Chili Rellenos Casserole"
 category: "Entrees"
 collection: "UK15"
 source: "Unknown"
-tags: ["casserole", "texmex", "beef", "cheese", "comfortfood", "vintage"]
+tags: ["casserole", "texmex", "beef", "cheese", "comfortfood", "123"]
 description: "A classic and hearty Chili Rellenos Casserole featuring layers of seasoned ground beef, green chiles, and cheddar cheese, all baked in a fluffy, savory egg custard. This comforting Tex-Mex dish captures traditional flavors in an easy-to-make layered casserole format."
 date: "2026-07-30"
 draft: false

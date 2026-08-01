@@ -3,7 +3,7 @@ title: "Mrs. Waggoner's Apple Crumb Pie"
 category: "Desserts"
 collection: "GC"
 source: "Mrs. Waggoner"
-tags: ["dessert", "pie", "apple", "vintage", "baking"]
+tags: ["dessert", "pie", "apple", "123", "baking"]
 description: "A classic apple crumb pie featuring a simple, sweet filling of spiced Gravenstein apples and a buttery, crumbly streusel topping. Perfect for autumn gatherings and comforting family dinners."
 date: "2026-07-30"
 draft: false

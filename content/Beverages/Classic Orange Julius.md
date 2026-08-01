@@ -3,7 +3,7 @@ title: "Classic Orange Julius"
 category: "Beverages"
 collection: "UK2"
 source: "Unknown"
-tags: ["beverage", "smoothie", "vintage", "refreshing", "drink"]
+tags: ["beverage", "smoothie", "123", "refreshing", "drink"]
 description: "A nostalgic and frothy blended drink combining frozen orange juice concentrate, milk, and vanilla for a creamy treat."
 date: "2026-07-30"
 draft: false

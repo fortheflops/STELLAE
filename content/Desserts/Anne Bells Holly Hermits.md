@@ -3,7 +3,7 @@ title: "Anne Bell's Holly Hermits"
 category: "Desserts"
 collection: "UK2"
 source: "Anne Bell"
-tags: ["cookies", "vintage", "spicecookies", "holiday", "hermits"]
+tags: ["cookies", "123", "spicecookies", "holiday", "hermits"]
 description: "A classic, soft, and chewy spice cookie packed with candied fruit, raisins, and nuts. This old-fashioned drop cookie features a warm blend of cinnamon, nutmeg, and cloves."
 date: "2026-07-30"
 draft: false

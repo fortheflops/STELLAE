@@ -3,7 +3,7 @@ title: "Classic Coffee Nut Tortoni"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "frozen", "coffee", "almond", "coconut", "nobake", "vintage"]
+tags: ["dessert", "frozen", "coffee", "almond", "coconut", "nobake", "123"]
 description: "An elegant, no-bake frozen dessert featuring a light, airy mousse made from coffee-infused whipped cream and sweet meringue. This classic treat is studded with toasted almonds and coconut for a delightful crunch."
 date: "2026-07-30"
 draft: false

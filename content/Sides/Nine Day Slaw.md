@@ -4,7 +4,6 @@ category: Sides
 collection: Unknown Three Collection
 source: Unknown
 tags:
-  - vintage
   - coleslaw
   - cabbage
   - make-ahead

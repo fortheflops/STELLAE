@@ -3,7 +3,7 @@ title: "Perfect Flaky Cobbler Crust"
 category: "Desserts"
 collection: "UK5"
 source: "Unknown"
-tags: ["cobbler", "crust", "baking", "vintage", "pastry"]
+tags: ["cobbler", "crust", "baking", "123", "pastry"]
 description: "A versatile and flaky cobbler crust recipe featuring a blend of butter and lard for superior texture, with a bright hint of lemon zest. This classic pastry is the perfect topping for any fruit cobbler."
 date: "2026-07-30"
 draft: false

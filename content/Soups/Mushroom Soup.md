@@ -1,13 +1,17 @@
 ---
-title: "Mushroom Soup"
-category: "Soups"
-collection: "Patsy Collection"
-source: "Pat Keene"
-tags: ["soup", "mushrooms", "vintage", "patsycollection", "vegetable"]
-description: "A rich and velvety vintage mushroom soup from the Patsy Collection, featuring finely chopped mushrooms simmered in a savory broth with fresh parsley and a touch of lemon."
-date: "2026-07-30"
+title: Mushroom Soup
+category: Soups
+collection: Patsy Collection
+source: Pat Keene
+tags:
+  - soup
+  - mushrooms
+  - patsycollection
+  - vegetable
+description: A rich and velvety vintage mushroom soup from the Patsy Collection, featuring finely chopped mushrooms simmered in a savory broth with fresh parsley and a touch of lemon.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Mushroom Soup\", \"author\": {\"@type\": \"Person\", \"name\": \"Pat Keene\"}, \"description\": \"A rich and velvety vintage mushroom soup from the Patsy Collection, featuring finely chopped mushrooms simmered in a savory broth with fresh parsley and a touch of lemon.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"4 servings\", \"recipeCategory\": \"Soup\", \"recipeIngredient\": [\"6 Tbsp Butter\", \"3 Rounded Tbsp Flour\", \"2 1/2 C Chicken Stock\", \"1/4 C Milk\", \"16 Mushrooms, chopped fine\", \"3 Tbsp Parsley, chopped\", \"2-3 Tbsp Lemon juice\", \"1/3 Cup Heavy Cream & Milk\", \"Salt to taste\", \"Black Pepper to taste\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Melt butter, add flour & cook for 3-4 min.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add broth; blend well & bring to a boil, stirring all the time.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add milk, mushrooms, parsley, & lemon juice.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook 5 minutes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in cream & season to taste with salt & pepper. Serve hot or cold.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Mushroom Soup", "author": {"@type": "Person", "name": "Pat Keene"}, "description": "A rich and velvety vintage mushroom soup from the Patsy Collection, featuring finely chopped mushrooms simmered in a savory broth with fresh parsley and a touch of lemon.", "prepTime": "PT15M", "cookTime": "PT15M", "recipeYield": "4 servings", "recipeCategory": "Soup", "recipeIngredient": ["6 Tbsp Butter", "3 Rounded Tbsp Flour", "2 1/2 C Chicken Stock", "1/4 C Milk", "16 Mushrooms, chopped fine", "3 Tbsp Parsley, chopped", "2-3 Tbsp Lemon juice", "1/3 Cup Heavy Cream & Milk", "Salt to taste", "Black Pepper to taste"], "recipeInstructions": [{"@type": "HowToStep", "text": "Melt butter, add flour & cook for 3-4 min."}, {"@type": "HowToStep", "text": "Add broth; blend well & bring to a boil, stirring all the time."}, {"@type": "HowToStep", "text": "Add milk, mushrooms, parsley, & lemon juice."}, {"@type": "HowToStep", "text": "Cook 5 minutes."}, {"@type": "HowToStep", "text": "Stir in cream & season to taste with salt & pepper. Serve hot or cold."}]}'
 ---
 
 # Mushroom Soup

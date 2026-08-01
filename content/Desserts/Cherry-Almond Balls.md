@@ -3,7 +3,7 @@ title: "Cherry-Almond Balls"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["cookies", "holiday", "almond", "cherry", "shortbread", "vintage"]
+tags: ["cookies", "holiday", "almond", "cherry", "shortbread", "123"]
 description: "A classic holiday cookie featuring a whole candied cherry wrapped inside a tender, buttery almond shortbread dough. These delightful little bites are baked and then rolled in powdered sugar while still warm."
 date: "2026-07-30"
 draft: false

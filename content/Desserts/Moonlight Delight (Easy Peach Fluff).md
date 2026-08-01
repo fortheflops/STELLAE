@@ -3,7 +3,7 @@ title: "Moonlight Delight (Easy Peach Fluff)"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["dessert", "fluff", "peach", "nobake", "vintage", "easy"]
+tags: ["dessert", "fluff", "peach", "nobake", "123", "easy"]
 description: "A light and airy no-bake dessert salad featuring smashed peaches and crunchy pecans folded into a creamy whipped topping. This simple 'Moonlight Delight' is the perfect quick treat for any gathering."
 date: "2026-07-30"
 draft: false

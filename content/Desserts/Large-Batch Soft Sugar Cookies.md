@@ -3,7 +3,7 @@ title: "Large-Batch Soft Sugar Cookies"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["cookies", "sugar", "largebatch", "vintage", "dessert", "baking"]
+tags: ["cookies", "sugar", "largebatch", "123", "dessert", "baking"]
 description: "A classic, large-batch recipe for soft, cake-like sugar cookies. This simple dough is perfect for rolling out and cutting into shapes for any occasion, yielding a generous amount for parties or freezing."
 date: "2026-07-30"
 draft: false

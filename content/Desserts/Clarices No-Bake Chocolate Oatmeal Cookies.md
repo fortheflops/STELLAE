@@ -3,7 +3,7 @@ title: "Clarice's No-Bake Chocolate Oatmeal Cookies"
 category: "Desserts"
 collection: "UK2"
 source: "Clarice"
-tags: ["cookies", "nobake", "chocolate", "oatmeal", "vintage", "quick"]
+tags: ["cookies", "nobake", "chocolate", "oatmeal", "123", "quick"]
 description: "A classic, quick no-bake cookie recipe featuring a rich boiled cocoa-sugar syrup folded with oats and nuts. These chewy, fudgy treats set perfectly at room temperature for an effortless dessert."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Meat Pie"
 category: "Entrees"
 collection: "LOC"
 source: "F. Woodland"
-tags: ["louisecollection", "entree", "meatpie", "comfortfood", "vintage"]
+tags: ["louisecollection", "entree", "meatpie", "comfortfood", "123"]
 description: "A classic vintage meat pie featuring seasoned ground beef, a layer of melted cheese, and a fluffy swirled mashed potato topping. Baked to bubbling perfection and browned under the broiler."
 date: "2026-07-30"
 draft: false

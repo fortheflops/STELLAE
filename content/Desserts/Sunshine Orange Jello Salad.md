@@ -3,7 +3,7 @@ title: "Sunshine Orange Jello Salad"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["jello", "salad", "orange", "vintage", "dessert", "fruit"]
+tags: ["jello", "salad", "orange", "123", "dessert", "fruit"]
 description: "A bright and intensely flavorful Jello salad packed with triple the orange taste from orange Jello, mandarin oranges, and a boost of frozen orange juice concentrate."
 date: "2026-07-30"
 draft: false

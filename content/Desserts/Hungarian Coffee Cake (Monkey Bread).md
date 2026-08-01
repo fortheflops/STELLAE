@@ -3,7 +3,7 @@ title: "Hungarian Coffee Cake (Monkey Bread)"
 category: "Desserts"
 collection: "LOC"
 source: "Unknown"
-tags: ["dessert", "coffeecake", "monkeybread", "hungarian", "baked", "vintage"]
+tags: ["dessert", "coffeecake", "monkeybread", "hungarian", "baked", "123"]
 description: "A classic, pull-apart Hungarian coffee cake made from a rich, yeasted sweet dough. Balls of dough are dipped in melted butter and a cinnamon-sugar-nut mixture, then layered in a tube pan and baked into a gooey, delightful treat."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Juanita's Pecan Pie"
 category: "Desserts"
 collection: "General Archive"
 source: "Juanita"
-tags: ["dessert", "pie", "pecan", "baking", "holiday", "vintage"]
+tags: ["dessert", "pie", "pecan", "baking", "holiday", "123"]
 description: "A classic pecan pie from Juanita, featuring a rich, sweet filling made with Karo syrup and a touch of flour for a slightly thicker, more set texture."
 date: "2026-07-30"
 draft: false

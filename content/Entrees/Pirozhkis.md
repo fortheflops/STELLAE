@@ -3,7 +3,7 @@ title: "Pirozhkis"
 category: "Entrees"
 collection: "UK2"
 source: "Unknown"
-tags: ["handpies", "pie", "pastry", "baked", "vintage"]
+tags: ["handpies", "pie", "pastry", "baked", "123"]
 description: "Delightful handheld Russian pastries with a flaky sour cream crust, adaptable with savory meat and onion or sweet fruit fillings. Baked to golden perfection at high heat for a crisp texture."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Apple Torte"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "cake", "torte", "apple", "vintage", "fruit"]
+tags: ["dessert", "cake", "torte", "apple", "123", "fruit"]
 description: "A wonderfully simple and rustic apple torte featuring a dense, moist, fruit-and-nut-packed interior with a crisp, sugary crust. This vintage recipe uses minimal flour for a unique and delicious texture."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Classic Brandied Pears"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Ann Seranne"
-tags: ["dessert", "preserving", "pears", "brandy", "vintage", "fruit"]
+tags: ["dessert", "preserving", "pears", "brandy", "123", "fruit"]
 description: "A timeless home-preserving recipe for tender, sweet pears soaked in a rich, flavorful brandy syrup. This classic preparation is perfect for elegant desserts or thoughtful homemade gifts."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Fudgy Graham Cracker Frosting"
 category: "Sauces"
 collection: "Gail's Collection"
 source: "Unknown"
-tags: ["frosting", "fudgy", "grahamcracker", "walnuts", "desserttopping", "vintage"]
+tags: ["frosting", "fudgy", "grahamcracker", "walnuts", "desserttopping", "123"]
 description: "A rich and textured frosting featuring a delightful crunch from graham crackers and walnuts. This unique recipe spreads perfectly over warm cakes for a decadent finish."
 date: "2026-07-30"
 draft: false

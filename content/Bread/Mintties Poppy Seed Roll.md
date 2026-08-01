@@ -3,7 +3,7 @@ title: "Minttie's Poppy Seed Roll"
 category: "Bread"
 collection: "GC"
 source: "Minttie"
-tags: ["bread", "poppyseed", "baking", "vintage", "gailcollection", "roll"]
+tags: ["bread", "poppyseed", "baking", "123", "gailcollection", "roll"]
 description: "A simple and clever recipe from Minttie for making a classic poppy seed roll using the convenience of a hot roll mix. A sweet, rich poppy seed filling is spread over the dough, which is then rolled, shaped, and baked."
 date: "2026-07-30"
 draft: false

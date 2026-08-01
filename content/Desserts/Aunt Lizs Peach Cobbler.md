@@ -3,7 +3,7 @@ title: "Aunt Liz's Peach Cobbler"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Aunt Liz"
-tags: ["cobbler", "peaches", "vintage", "dessert", "fruit"]
+tags: ["cobbler", "peaches", "123", "dessert", "fruit"]
 description: "A classic and easy peach cobbler featuring a simple batter poured over fruit that bakes into a soft, cake-like topping. This vintage recipe is perfect for using fresh or canned peaches."
 date: "2026-07-30"
 draft: false

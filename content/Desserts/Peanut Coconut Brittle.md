@@ -3,7 +3,7 @@ title: "Peanut Coconut Brittle"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["brittle", "candy", "peanuts", "coconut", "vintage", "holiday"]
+tags: ["brittle", "candy", "peanuts", "coconut", "123", "holiday"]
 description: "A classic stovetop peanut brittle with a delightful twist of shredded coconut for extra texture. This crunchy, sweet, and salty candy is perfect for holiday gifting or special treats."
 date: "2026-07-30"
 draft: false

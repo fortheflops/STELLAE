@@ -3,7 +3,7 @@ title: "Chocolate Rum Cake"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "cake", "chocolate", "rum", "bundt", "vintage"]
+tags: ["dessert", "cake", "chocolate", "rum", "bundt", "123"]
 description: "A decadent and incredibly moist chocolate rum cake made with a Devil's Food cake mix base. The cake is soaked in a simple, buttery rum glaze for the ultimate rich dessert."
 date: "2026-07-30"
 draft: false

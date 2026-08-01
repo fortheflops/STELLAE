@@ -3,7 +3,7 @@ title: "Mamie's Turtle Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Mamie"
-tags: ["dessert", "cake", "chocolate", "caramel", "turtle", "baking", "vintage"]
+tags: ["dessert", "cake", "chocolate", "caramel", "turtle", "baking", "123"]
 description: "A rich, layered bar-style cake featuring a gooey caramel, chocolate chip, and nut filling sandwiched between a simple German Chocolate cake mix batter. This decadent treat brings all the classic flavors of turtle candy into an easy-to-bake pan dessert."
 date: "2026-07-30"
 draft: false

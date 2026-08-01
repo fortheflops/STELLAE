@@ -3,7 +3,7 @@ title: "Sweet & Sour Sauce"
 category: "Sauces"
 collection: "LOC"
 source: "Linda Brown"
-tags: ["louisecollection", "sauce", "sweetandsour", "vintage", "condiment"]
+tags: ["louisecollection", "sauce", "sweetandsour", "123", "condiment"]
 description: "A classic homemade sweet and sour sauce featuring a flavorful blend of pineapple, green peppers, and savory spices. Perfectly balanced to elevate your favorite stir-fry or Asian-inspired dishes."
 date: "2026-07-30"
 draft: false

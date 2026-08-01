@@ -3,7 +3,7 @@ title: "Lorraine's Chocolate Fudge"
 category: "Desserts"
 collection: "UK2"
 source: "Lorraine"
-tags: ["fudge", "chocolate", "vintage", "candy", "largebatch"]
+tags: ["fudge", "chocolate", "123", "candy", "largebatch"]
 description: "A classic, no-fail large-batch chocolate fudge recipe using marshmallow creme for a smooth, creamy texture. This rich confection is perfect for holidays and gifting."
 date: "2026-07-30"
 draft: false

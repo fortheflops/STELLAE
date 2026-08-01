@@ -3,7 +3,7 @@ title: "Bread and Butter Pickles"
 category: "Preserves"
 collection: "UK2"
 source: "Unknown"
-tags: ["pickles", "preserves", "canning", "vintage", "homemade"]
+tags: ["pickles", "preserves", "canning", "123", "homemade"]
 description: "Crisp and tangy homemade bread and butter pickles featuring a sweet spiced brine. Perfect for preserving your summer garden harvest."
 date: "2026-07-30"
 draft: false

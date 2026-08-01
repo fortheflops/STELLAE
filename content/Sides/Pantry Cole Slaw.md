@@ -7,7 +7,7 @@ tags:
   - coleslaw
   - cabbage
   - pantry
-  - vintage
+  - 123
   - sidedish
 description: A classic, creamy pantry-style coleslaw featuring finely shredded cabbage tossed in a sweet and tangy seasoned dressing. Perfect as a make-ahead chilled side dish for barbecues and family meals.
 date: 2026-07-30

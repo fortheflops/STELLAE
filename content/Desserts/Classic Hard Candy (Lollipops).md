@@ -3,7 +3,7 @@ title: "Classic Hard Candy (Lollipops)"
 category: "Desserts"
 collection: "LOC"
 source: "Unknown"
-tags: ["candy", "lollipops", "confections", "vintage", "sugar"]
+tags: ["candy", "lollipops", "confections", "123", "sugar"]
 description: "A foundational recipe for homemade hard candies cooked to the precise hard-crack stage. This versatile base allows for endless customization with your favorite flavorings and colors."
 date: "2026-07-30"
 draft: false

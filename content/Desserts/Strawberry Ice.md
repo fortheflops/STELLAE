@@ -3,7 +3,7 @@ title: "Strawberry Ice"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["sorbet", "strawberry", "frozen", "dessert", "vintage"]
+tags: ["sorbet", "strawberry", "frozen", "dessert", "123"]
 description: "A classic homemade strawberry sorbet stabilized with gelatin for an incredibly smooth, refreshing texture. This vintage recipe yields a quart of vibrant, fruit-forward frozen dessert."
 date: "2026-07-30"
 draft: false

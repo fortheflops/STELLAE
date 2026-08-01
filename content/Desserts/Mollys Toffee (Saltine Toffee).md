@@ -3,7 +3,7 @@ title: "Molly's Toffee (Saltine Toffee)"
 category: "Desserts"
 collection: "Patsy Collection"
 source: "Molly"
-tags: ["dessert", "candy", "toffee", "christmascrack", "vintage", "patsycollection"]
+tags: ["dessert", "candy", "toffee", "christmascrack", "123", "patsycollection"]
 description: "An easy and addictive vintage toffee candy made with a base of saltine crackers, boiled butter-sugar toffee, melted chocolate, and chopped pecans. Often called 'Christmas Crack,' this sweet and salty treat is perfect for holiday gifting and quick preparation."
 date: "2026-07-30"
 draft: false

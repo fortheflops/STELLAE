@@ -3,7 +3,7 @@ title: "Cooked Whole Fish"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["fish", "seafood", "baked", "wholefish", "vintage"]
+tags: ["fish", "seafood", "baked", "wholefish", "123"]
 description: "A classic vintage recipe for a whole baked fish stuffed with onions and margarine, then basted in a savory lemon and tomato juice sauce until flaky and tender."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Classic Seven-Minute Frosting"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["frosting", "vintage", "meringue", "boiledicing", "desserttopping"]
+tags: ["frosting", "123", "meringue", "boiledicing", "desserttopping"]
 description: "A classic, light, and glossy boiled icing that creates a stable, marshmallow-like meringue topping. This recipe is perfect for finishing two-layer cakes with a professional, fluffy finish."
 date: "2026-07-30"
 draft: false

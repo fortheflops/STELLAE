@@ -3,7 +3,7 @@ title: "Molded Cranberry, Orange, and Nut Salad"
 category: "Sides"
 collection: "UK2"
 source: "Unknown"
-tags: ["cranberry", "holiday", "vintage", "salad", "molded", "gelatin"]
+tags: ["cranberry", "holiday", "123", "salad", "molded", "gelatin"]
 description: "A classic holiday side dish featuring ground fresh cranberries and a whole orange, with a delightful crunch from celery and nuts. This refreshing molded salad is set with gelatin for a perfect festive presentation."
 date: "2026-07-30"
 draft: false

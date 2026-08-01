@@ -3,7 +3,7 @@ title: "Italian-Style Beef and Rice Casserole"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["casserole", "italian", "beef", "rice", "meatballs", "baked", "comfortfood", "vintage"]
+tags: ["casserole", "italian", "beef", "rice", "meatballs", "baked", "comfortfood", "123"]
 description: "A rich, hearty, and layered casserole featuring a slow-cooked beef and tomato ragu baked with rice, meatballs, hard-boiled eggs, and Swiss cheese. This true company casserole brings together classic Italian-American comfort flavors."
 date: "2026-07-30"
 draft: false

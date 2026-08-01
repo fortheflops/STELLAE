@@ -3,7 +3,7 @@ title: "Luby's Cole Slaw"
 category: "Sides"
 collection: "Unknown Two"
 source: "Luby"
-tags: ["sides", "coleslaw", "salad", "vintage"]
+tags: ["sides", "coleslaw", "salad", "123"]
 description: "A classic, creamy coleslaw recipe featuring chopped cabbage and finely chopped spinach tossed in a sweet and tangy mayonnaise dressing. Perfect as a refreshing side dish for barbecues, picnics, and family gatherings."
 date: "2026-07-30"
 draft: false

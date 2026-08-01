@@ -3,7 +3,7 @@ title: "Chinese Ramen Slaw"
 category: "Salads"
 collection: "UK3 Collection"
 source: "Janine Porter - Cathie Purdy"
-tags: ["vintage", "ramen slaw", "chicken salad", "coleslaw", "make-ahead", "potluck"]
+tags: ["123", "ramen slaw", "chicken salad", "coleslaw", "make-ahead", "potluck"]
 description: "A crunchy, savory Chinese ramen slaw tossed with diced cooked chicken, toasted almonds, sesame seeds, and a tangy ramen-seasoned soy dressing. Perfect for quick weekday lunches or potlucks."
 date: "2026-07-30"
 draft: false

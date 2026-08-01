@@ -1,11 +1,15 @@
 ---
-title: "Kay's Chicken Soup"
-category: "Soups"
-collection: "Gail Collection"
-source: "Kay"
-tags: ["soup", "chicken", "comfortfood", "vintage", "broth"]
-description: "A classic homemade chicken soup featuring a rich, clear broth made from chicken backs and necks, finished with tender wings and peas."
-date: "2026-07-30"
+title: Kay's Chicken Soup
+category: Soups
+collection: Gail Collection
+source: Kay
+tags:
+  - soup
+  - chicken
+  - comfortfood
+  - broth
+description: A classic homemade chicken soup featuring a rich, clear broth made from chicken backs and necks, finished with tender wings and peas.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Kay's Chicken Soup\", \"author\": {\"@type\": \"Person\", \"name\": \"Kay\"}, \"description\": \"A classic homemade chicken soup featuring a rich, clear broth made from chicken backs and necks, finished with tender wings and peas.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT150M\", \"recipeYield\": \"4\\u20136 Servings\", \"recipeCategory\": \"Soups\", \"recipeIngredient\": [\"1 [[Chicken Back]]\", \"1 [[Chicken Neck]]\", \"As Needed [[Water]]\", \"As Needed [[Onions]]\", \"To Taste [[Salt]]\", \"As Needed [[Chicken Wings]]\", \"Optional [[Peas]]\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Place the 1 chicken back and 1 chicken neck in a large pot and cover with as needed water.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bring to a simmer and cook for 1.5 to 2 hours.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add as needed onions and to taste salt to the pot.\"}, {\"@type\": \"HowToStep\", \"text\": \"Strain the entire contents of the pot through a cheesecloth to create a clear broth, then return the clear broth to the pot.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add as needed chicken wings and optional peas to the broth.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook for another 30 minutes or more, until the wings are tender and flavorful.\"}]}"
 ---

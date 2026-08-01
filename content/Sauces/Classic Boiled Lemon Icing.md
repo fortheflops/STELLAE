@@ -3,7 +3,7 @@ title: "Classic Boiled Lemon Icing"
 category: "Sauces"
 collection: "General Archive"
 source: "Unknown"
-tags: ["icing", "lemon", "vintage", "boiledicing", "desserttopping"]
+tags: ["icing", "lemon", "123", "boiledicing", "desserttopping"]
 description: "A classic boiled icing featuring a bright lemon flavor, cooked on the stovetop and beaten until thick, glossy, and perfectly spreadable. This vintage recipe creates a smooth, non-gritty frosting ideal for finishing lemon cakes."
 date: "2026-07-30"
 draft: false

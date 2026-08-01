@@ -3,7 +3,7 @@ title: "Margaret Farley's Kahlua Brownies"
 category: "Desserts"
 collection: "UK15"
 source: "Margaret Farley"
-tags: ["brownies", "kahlua", "chocolate", "vintage", "dessert"]
+tags: ["brownies", "kahlua", "chocolate", "123", "dessert"]
 description: "A sophisticated and fudgy brownie recipe featuring Kahlua-soaked raisins and a sweet coffee-infused glaze. These rich treats offer a perfect balance of deep chocolate and aromatic coffee notes."
 date: "2026-07-30"
 draft: false

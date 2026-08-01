@@ -3,7 +3,7 @@ title: "Niva's Red Salad (Cherry Fluff)"
 category: "Desserts"
 collection: "UK15"
 source: "Niva"
-tags: ["dessert", "fluff", "potluck", "vintage", "nobake", "cherry"]
+tags: ["dessert", "fluff", "potluck", "123", "nobake", "cherry"]
 description: "A classic no-bake dessert salad featuring a creamy blend of cherry pie filling, pineapple, and coconut. This vintage potluck favorite is best prepared a day in advance for optimal flavor melding."
 date: "2026-07-30"
 draft: false

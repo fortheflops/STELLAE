@@ -3,7 +3,7 @@ title: "Fantasy Fudge"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["fudge", "chocolate", "vintage", "confection", "holiday"]
+tags: ["fudge", "chocolate", "123", "confection", "holiday"]
 description: "A classic, no-fail chocolate fudge recipe featuring a rich blend of marshmallow fluff and evaporated milk. This foolproof method creates a smooth, glossy texture perfect for gifting or holiday gatherings."
 date: "2026-07-30"
 draft: false

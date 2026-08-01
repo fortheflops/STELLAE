@@ -3,7 +3,7 @@ title: "Susan Shadoff's Broccoli-Corn Casserole"
 category: "Sides"
 collection: "JillCollection"
 source: "Susan Shadoff"
-tags: ["casserole", "broccoli", "corn", "sidedish", "comfortfood", "vintage"]
+tags: ["casserole", "broccoli", "corn", "sidedish", "comfortfood", "123"]
 description: "A classic and comforting side dish from Susan Shadoff featuring cream-style corn and chopped broccoli baked in a savory custard with a buttery cracker crumb topping."
 date: "2026-07-30"
 draft: false

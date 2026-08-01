@@ -3,7 +3,7 @@ title: "Butterscotch No-Bake Cookies"
 category: "Desserts"
 collection: "The Loraine Collection"
 source: "Unknown"
-tags: ["nobake", "cookies", "butterscotch", "peanutbutter", "vintage", "dessert"]
+tags: ["nobake", "cookies", "butterscotch", "peanutbutter", "123", "dessert"]
 description: "A wonderfully simple and quick no-bake cookie featuring a sweet and salty blend of butterscotch and peanut butter. These crunchy treats are easily prepared with Frosted Flakes and require minimal effort."
 date: "2026-07-30"
 draft: false

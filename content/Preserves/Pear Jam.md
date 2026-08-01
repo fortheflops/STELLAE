@@ -3,7 +3,7 @@ title: "Pear Jam"
 category: "Preserves"
 collection: "Gail Collection"
 source: "Ann Seranne"
-tags: ["preserves", "jam", "pear", "canning", "vintage"]
+tags: ["preserves", "jam", "pear", "canning", "123"]
 description: "A classic homemade pear jam recipe adapted from The Complete Book of Home Preserving. This fruit preserve features fresh pears simmered with citrus and sugar until reaching the ideal jellying point."
 date: "2026-07-30"
 draft: false

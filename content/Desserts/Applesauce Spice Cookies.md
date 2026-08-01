@@ -3,7 +3,7 @@ title: "Applesauce Spice Cookies"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["cookies", "vintage", "applesauce", "fruit", "holiday", "comfortfood"]
+tags: ["cookies", "123", "applesauce", "fruit", "holiday", "comfortfood"]
 description: "A classic recipe for soft, cake-like applesauce cookies. These old-fashioned drop cookies are packed with warm spices, raisins, and nuts for a hearty and delicious treat."
 date: "2026-07-30"
 draft: false

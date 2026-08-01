@@ -3,7 +3,7 @@ title: "Simple Frosting for Spice Cake"
 category: "Sauces"
 collection: "Gail's Collection"
 source: "Unknown"
-tags: ["frosting", "spicecake", "vintage", "quick", "desserttopping"]
+tags: ["frosting", "spicecake", "123", "quick", "desserttopping"]
 description: "A quick and easy classic frosting or glaze perfect for drizzling over a spice cake. This simple four-ingredient recipe comes together in minutes for a smooth, sweet finish."
 date: "2026-07-30"
 draft: false

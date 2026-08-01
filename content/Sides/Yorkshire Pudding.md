@@ -4,7 +4,6 @@ category: Sides
 collection: UK Collection
 source: Unknown
 tags:
-  - vintage
   - british
   - yorkshirepudding
   - beefdrippings

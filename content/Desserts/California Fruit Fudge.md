@@ -3,7 +3,7 @@ title: "California Fruit Fudge"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["fudge", "vintage", "confection", "holiday", "chocolate"]
+tags: ["fudge", "123", "confection", "holiday", "chocolate"]
 description: "A rich chocolate fudge loaded with candied fruits. This vintage recipe features chopped cherries, pineapple, figs, raisins, and coconut folded into a smooth chocolate base."
 date: "2026-07-30"
 draft: false

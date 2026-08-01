@@ -3,7 +3,7 @@ title: "M. Everett's Creamy Spinach Casserole"
 category: "Sides"
 collection: "Gail Collection"
 source: "M. Everett"
-tags: ["casserole", "spinach", "sidedish", "vintage", "gailcollection", "comfortfood"]
+tags: ["casserole", "spinach", "sidedish", "123", "gailcollection", "comfortfood"]
 description: "A classic and incredibly easy spinach casserole from M. Everett's collection. This simple side dish features a creamy, savory base of spinach, sour cream, and onion soup mix, all topped with crunchy French-fried onions."
 date: "2026-07-30"
 draft: false

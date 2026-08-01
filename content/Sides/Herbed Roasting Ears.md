@@ -3,7 +3,7 @@ title: "Herbed Roasting Ears"
 category: "Sides"
 collection: "General Archive"
 source: "Unknown"
-tags: ["sides", "corn", "vegetable", "roasted", "vintage"]
+tags: ["sides", "corn", "vegetable", "roasted", "123"]
 description: "A simple and elegant way to prepare corn on the cob, wrapped in romaine leaves with a savory herb butter, and roasted in the oven."
 date: "2026-07-30"
 draft: false

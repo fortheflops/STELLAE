@@ -3,7 +3,7 @@ title: "Oatmeal Drops"
 category: "Desserts"
 collection: "John B. Collection"
 source: "Unattributed"
-tags: ["cookies", "oatmeal", "raisins", "vintage", "drop cookies"]
+tags: ["cookies", "oatmeal", "raisins", "123", "drop cookies"]
 description: "A delightful vintage recipe for chewy oatmeal drop cookies packed with raisins and nuts. Perfect for an afternoon treat with a glass of milk."
 date: "2026-07-30"
 draft: false

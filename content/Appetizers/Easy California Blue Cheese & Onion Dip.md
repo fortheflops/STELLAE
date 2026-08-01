@@ -3,7 +3,7 @@ title: Easy California Blue Cheese & Onion Dip
 category: Appetizers
 collection: General Archive
 source: Unknown
-tags: [vintage, dip, blue-cheese, no-cook, make-ahead]
+tags: [123, dip, blue-cheese, no-cook, make-ahead]
 description: A quick and savory no-cook dip that elevates classic onion soup mix with rich sour cream, tangy blue cheese, and a splash of brandy. Perfect for effortless entertaining and vintage-inspired gatherings.
 date: 2026-07-24
 draft: false

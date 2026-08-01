@@ -3,7 +3,7 @@ title: "Clarice's Tea Cakes"
 category: "Desserts"
 collection: "UK2"
 source: "Clarice"
-tags: ["teacakes", "dessert", "cookies", "southern", "vintage"]
+tags: ["teacakes", "dessert", "cookies", "southern", "123"]
 description: "A classic Southern-style tea cake featuring a soft, rolled cookie with a rich butter dough and cake-like texture. These traditional sweets are finished with a hint of vanilla and baked until just golden."
 date: "2026-07-30"
 draft: false

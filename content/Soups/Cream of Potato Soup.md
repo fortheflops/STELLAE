@@ -3,7 +3,7 @@ title: "Cream of Potato Soup"
 category: "Soups"
 collection: "UK3"
 source: "Unknown"
-tags: ["soup", "potato", "comfortfood", "vintage"]
+tags: ["soup", "potato", "comfortfood", "123"]
 description: "A comforting vintage Cream of Potato Soup featuring tender diced potatoes, celery, and a touch of savory Lee & Perrin sauce. Perfect for a cozy meal."
 date: "2026-07-30"
 draft: false

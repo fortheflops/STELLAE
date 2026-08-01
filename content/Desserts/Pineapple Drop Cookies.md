@@ -3,7 +3,7 @@ title: "Pineapple Drop Cookies"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "pineapple", "vintage", "dessert", "fruit"]
+tags: ["cookies", "pineapple", "123", "dessert", "fruit"]
 description: "A classic recipe for soft, cake-like pineapple drop cookies. This old-fashioned treat features brown sugar and well-drained crushed pineapple for a moist, chewy texture."
 date: "2026-07-30"
 draft: false

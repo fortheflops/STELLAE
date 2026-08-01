@@ -6,7 +6,7 @@ source: Lillian
 tags:
   - salads
   - potatosalad
-  - vintage
+  - 123
   - sides
   - potatoes
   - "#LoraineCollection"

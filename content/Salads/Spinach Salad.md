@@ -3,7 +3,7 @@ title: "Spinach Salad"
 category: "Salads"
 collection: "Gail Collection"
 source: "Joy"
-tags: ["salad", "spinach", "gailcollection", "vintage", "vegetarian"]
+tags: ["salad", "spinach", "gailcollection", "123", "vegetarian"]
 description: "A vibrant layered spinach salad featuring fresh bell peppers, hard-boiled eggs, and a warm garlic-sesame dressing. This vintage recipe from the Gail Collection delivers a delightful contrast of textures and flavors."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Jennie's Filled Date Cookies"
 category: "Desserts"
 collection: "JohnBCollection"
 source: "Jennie Schmidt"
-tags: ["cookies", "vintage", "dates", "stuffedcookies", "dessert"]
+tags: ["cookies", "123", "dates", "stuffedcookies", "dessert"]
 description: "A classic vintage recipe featuring soft brown sugar cookies filled with a rich, cooked date and nut mixture. These delightful stuffed cookies are perfect for tea time or holiday gatherings."
 date: "2026-07-30"
 draft: false

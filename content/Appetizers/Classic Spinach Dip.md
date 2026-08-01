@@ -3,7 +3,7 @@ title: "Classic Spinach Dip"
 category: "Appetizers"
 collection: "UK3"
 source: "Unknown"
-tags: ["spinach", "dip", "appetizer", "vintage", "colddip"]
+tags: ["spinach", "dip", "appetizer", "123", "colddip"]
 description: "A simple and creamy classic spinach dip perfect for parties and gatherings. This vintage recipe combines fresh herbs and frozen spinach for a quick, crowd-pleasing appetizer."
 date: "2026-07-30"
 draft: false

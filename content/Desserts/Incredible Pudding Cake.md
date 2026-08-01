@@ -3,7 +3,7 @@ title: "Incredible Pudding Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Moonlite"
-tags: ["dessert", "cake", "chocolate", "puddingcake", "selfsaucing", "vintage"]
+tags: ["dessert", "cake", "chocolate", "puddingcake", "selfsaucing", "123"]
 description: "Indulge in a magical self-saucing chocolate pudding cake featuring a tender top layer and a rich, hot fudge sauce underneath. This easy dessert transforms in the oven into a decadent treat perfect with ice cream."
 date: "2026-07-30"
 draft: false

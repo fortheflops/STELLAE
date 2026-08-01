@@ -3,7 +3,7 @@ title: "Chile Con Queso"
 category: "Sauces"
 collection: "UK2"
 source: "Unknown"
-tags: ["sauce", "chileconqueso", "appetizer", "dip", "vintage"]
+tags: ["sauce", "chileconqueso", "appetizer", "dip", "123"]
 description: "A classic, creamy Chile Con Queso dip featuring a savory blend of onions, garlic, chiles, and melted cheese. This vintage recipe is perfect for parties and gatherings."
 date: "2026-07-30"
 draft: false

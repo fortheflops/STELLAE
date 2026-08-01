@@ -3,7 +3,7 @@ title: "Classic Sherried Walnuts"
 category: "Desserts"
 collection: "Gail's Collection"
 source: "Unknown"
-tags: ["candiednuts", "walnuts", "vintage", "holiday", "sherry"]
+tags: ["candiednuts", "walnuts", "123", "holiday", "sherry"]
 description: "A classic candied nut recipe featuring whole walnuts in a rich, creamy, and spiced glaze made with sherry, honey, and brown sugar. These elegant treats offer a perfect balance of warmth and sweetness."
 date: "2026-07-30"
 draft: false

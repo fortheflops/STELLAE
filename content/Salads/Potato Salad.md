@@ -3,7 +3,7 @@ title: "Potato Salad"
 category: "Salads"
 collection: "UK3"
 source: "Unknown"
-tags: ["salad", "vintage", "potatoes", "side", "classic"]
+tags: ["salad", "123", "potatoes", "side", "classic"]
 description: "A classic, comforting potato salad featuring hard-boiled eggs, onions, and sour pickles bound with mayonnaise or mustard. Perfect for picnics, barbecues, and family gatherings."
 date: "2026-07-30"
 draft: false

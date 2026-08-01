@@ -3,7 +3,7 @@ title: "Pineapple Oatmeal Cookies"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "oatmeal", "pineapple", "vintage", "tropical", "dessert"]
+tags: ["cookies", "oatmeal", "pineapple", "123", "tropical", "dessert"]
 description: "A soft and chewy oatmeal drop cookie featuring a tropical twist of crushed pineapple and warm spices. These cookies are perfectly balanced with brown sugar and crunchy walnuts."
 date: "2026-07-30"
 draft: false

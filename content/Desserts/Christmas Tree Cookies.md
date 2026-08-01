@@ -3,7 +3,7 @@ title: "Christmas Tree Cookies"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["cookies", "vintage", "holiday", "almond", "cookiepress", "christmas"]
+tags: ["cookies", "123", "holiday", "almond", "cookiepress", "christmas"]
 description: "A classic, buttery almond-flavored cookie dough specifically formulated for use in a cookie press to create festive holiday shapes. These tender treats are a vintage staple perfect for decorating with sprinkles."
 date: "2026-07-30"
 draft: false

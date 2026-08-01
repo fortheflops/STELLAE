@@ -3,7 +3,7 @@ title: "Barnett's Cranberry Orange Bread"
 category: "Bread"
 collection: "UK2"
 source: "Barnett"
-tags: ["bread", "cranberry", "orange", "quickbread", "nut", "vintage"]
+tags: ["bread", "cranberry", "orange", "quickbread", "nut", "123"]
 description: "A festive and moist quick bread packed with fresh cranberries, bright orange zest and juice, and crunchy nuts. This classic recipe by Barnett delivers a delightful balance of tart and sweet flavors."
 date: "2026-07-30"
 draft: false

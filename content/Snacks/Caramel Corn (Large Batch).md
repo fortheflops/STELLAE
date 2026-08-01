@@ -3,7 +3,7 @@ title: "Caramel Corn (Large Batch)"
 category: "Snacks"
 collection: "UK3"
 source: "Unknown"
-tags: ["caramelcorn", "popcorn", "vintage", "largebatch", "snack"]
+tags: ["caramelcorn", "popcorn", "123", "largebatch", "snack"]
 description: "A classic, large-batch recipe for perfectly crisp and crunchy caramel corn. A simple, boiled brown sugar caramel is poured over a roaster full of popcorn and baked low and slow for an addictive, non-sticky finish."
 date: "2026-07-30"
 draft: false

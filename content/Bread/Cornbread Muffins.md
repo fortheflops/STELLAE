@@ -3,7 +3,7 @@ title: "Cornbread Muffins"
 category: "Bread"
 collection: "GailCollection"
 source: "Unknown"
-tags: ["bread", "muffins", "cornbread", "quickbread", "baking", "vintage", "gailcollection"]
+tags: ["bread", "muffins", "cornbread", "quickbread", "baking", "123", "gailcollection"]
 description: "Enjoy light and tender cornbread muffins with this quick and classic recipe, ideal for serving alongside chili, soups, or barbecue. These slightly sweet muffins come together effortlessly for any meal."
 date: "2026-07-30"
 draft: false

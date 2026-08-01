@@ -3,7 +3,7 @@ title: "Fluffy Hershey Bar Mousse Pie"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["dessert", "pie", "chocolate", "nobake", "vintage"]
+tags: ["dessert", "pie", "chocolate", "nobake", "123"]
 description: "A nostalgic and incredibly easy no-bake pie featuring a light and fluffy mousse filling made from melted Hershey bars and marshmallows, folded into whipped cream and set in a crumb crust. This wonderfully light dessert offers a rich chocolate flavor perfect for any gathering."
 date: "2026-07-30"
 draft: false

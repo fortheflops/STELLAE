@@ -3,7 +3,7 @@ title: "24-Hour Salad"
 category: "Salads"
 collection: "Gail Collection"
 source: "Gail"
-tags: ["salad", "layered", "vintage", "potluck", "vegetable"]
+tags: ["salad", "layered", "123", "potluck", "vegetable"]
 description: "A classic layered vegetable salad featuring crisp lettuce, water chestnuts, and a sealed mayonnaise-parmesan topping that sets overnight. Perfect for gatherings and easily prepared a day in advance."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Bistro Chicken & Feta"
 category: "Salads"
 collection: "UK5"
 source: "Lisa McFarland"
-tags: ["salads", "chicken", "feta", "pasta", "bistro", "vintage"]
+tags: ["salads", "chicken", "feta", "pasta", "bistro", "123"]
 description: "Discover a delightful Bistro Chicken & Feta salad featuring tender pasta, grilled chicken, and fresh tomatoes. This versatile dish can be served warm or chilled for maximum flavor blending."
 date: "2026-07-30"
 draft: false

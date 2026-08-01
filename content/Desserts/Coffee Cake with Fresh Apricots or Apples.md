@@ -3,7 +3,7 @@ title: "Coffee Cake with Fresh Apricots or Apples"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["coffeecake", "dessert", "baking", "vintage", "fruitcake"]
+tags: ["coffeecake", "dessert", "baking", "123", "fruitcake"]
 description: "A classic, tender coffee cake with a choice of fresh fruit topping or a simple cinnamon-sugar streusel. This delightful vintage recipe makes two small cakes, perfect for breakfast or an afternoon snack."
 date: "2026-07-30"
 draft: false

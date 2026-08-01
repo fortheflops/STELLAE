@@ -3,7 +3,7 @@ title: "Butterscotch Coconut-Pecan Filling"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["frosting", "butterscotch", "coconut", "pecan", "vintage", "desserttopping"]
+tags: ["frosting", "butterscotch", "coconut", "pecan", "123", "desserttopping"]
 description: "A rich, chewy, and gooey butterscotch filling or frosting, packed with coconut and nuts. This cooked topping is similar in style to the classic frosting for a German chocolate cake."
 date: "2026-07-30"
 draft: false

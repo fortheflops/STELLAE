@@ -3,7 +3,7 @@ title: "Yeasted Buttermilk Biscuits"
 category: "Bread"
 collection: "UK2"
 source: "Francis McDonald and Lois"
-tags: ["bread", "biscuits", "yeast", "sourdough", "buttermilk", "refrigerator", "vintage"]
+tags: ["bread", "biscuits", "yeast", "sourdough", "buttermilk", "refrigerator", "123"]
 description: "A unique refrigerator biscuit recipe utilizing yeast and a long chilling time to develop a delicious, tangy sourdough-style flavor. These tender biscuits bake up golden brown and fluffy after resting in the fridge."
 date: "2026-07-30"
 draft: false

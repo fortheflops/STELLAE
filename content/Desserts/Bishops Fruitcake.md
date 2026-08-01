@@ -3,7 +3,7 @@ title: "Bishop's Fruitcake"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["fruitcake", "holiday", "baking", "dessert", "vintage", "chocolate"]
+tags: ["fruitcake", "holiday", "baking", "dessert", "123", "chocolate"]
 description: "A classic, dense fruitcake-style loaf packed with walnuts, dates, candied cherries, pineapple, and chocolate chips."
 date: "2026-07-30"
 draft: false

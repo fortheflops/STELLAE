@@ -3,7 +3,7 @@ title: "Real Rice"
 category: "Sides"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["rice", "spanish rice", "scrambled eggs", "vintage", "gc"]
+tags: ["rice", "spanish rice", "scrambled eggs", "123", "gc"]
 description: "A traditional boiled and steamed rice recipe featuring options for Spanish rice and scrambled egg variations. This vintage method ensures fluffy, separate grains."
 date: "2026-07-30"
 draft: false

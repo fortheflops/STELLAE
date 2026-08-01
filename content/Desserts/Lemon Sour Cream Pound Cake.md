@@ -3,7 +3,7 @@ title: "Lemon Sour Cream Pound Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["cake", "dessert", "poundcake", "lemon", "sourcream", "baking", "vintage"]
+tags: ["cake", "dessert", "poundcake", "lemon", "sourcream", "baking", "123"]
 description: "A classic, rich, and incredibly moist pound cake featuring a tender crumb and bright citrus flavor. This vintage-inspired dessert combines butter, shortening, and sour cream for an unforgettable texture."
 date: "2026-07-30"
 draft: false

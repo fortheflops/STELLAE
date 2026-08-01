@@ -3,7 +3,7 @@ title: "Bert Ellen Camp's Coconut Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Bert Ellen Camp"
-tags: ["dessert", "cake", "coconut", "sourcream", "vintage"]
+tags: ["dessert", "cake", "coconut", "sourcream", "123"]
 description: "A classic recipe from Bert Ellen Camp for an incredibly moist coconut cake with a sour cream and coconut filling. Refrigerated for four days, the filling soaks into the layers to create an unforgettable texture and flavor."
 date: "2026-07-30"
 draft: false

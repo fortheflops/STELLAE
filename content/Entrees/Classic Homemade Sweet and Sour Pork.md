@@ -3,7 +3,7 @@ title: "Classic Homemade Sweet and Sour Pork"
 category: "Entrees"
 collection: "General Archive"
 source: "Unknown"
-tags: ["pork", "sweetandsour", "chineseamerican", "entree", "vintage"]
+tags: ["pork", "sweetandsour", "chineseamerican", "entree", "123"]
 description: "A timeless sweet and sour pork recipe featuring tender braised pork strips in a tangy homemade sauce of pineapple, brown sugar, and soy, tossed with crisp green peppers and onions."
 date: "2026-07-30"
 draft: false

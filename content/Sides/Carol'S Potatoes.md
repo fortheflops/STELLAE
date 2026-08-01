@@ -9,7 +9,7 @@ tags:
   - casserole
   - cheese
   - sidedish
-  - vintage
+  - 123
 description: A comforting, vintage potato casserole featuring a rich blend of sour cream, cream of chicken soup, and sharp cheddar cheese. Baked to bubbly perfection, this makes an effortless and crowd-pleasing side dish.
 date: 2026-07-30
 draft: false

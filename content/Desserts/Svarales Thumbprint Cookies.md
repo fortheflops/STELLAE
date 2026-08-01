@@ -3,7 +3,7 @@ title: "Svarale's Thumbprint Cookies"
 category: "Desserts"
 collection: "UK3"
 source: "Svarale"
-tags: ["cookies", "thumbprint", "vintage", "dessert", "holiday"]
+tags: ["cookies", "thumbprint", "123", "dessert", "holiday"]
 description: "A classic recipe featuring a rich, buttery brown sugar dough rolled in crunchy nuts. These thumbprint cookies are finished with a generous dollop of creamy, vanilla-scented cream cheese icing."
 date: "2026-07-30"
 draft: false

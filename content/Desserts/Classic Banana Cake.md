@@ -3,7 +3,7 @@ title: "Classic Banana Cake"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["cake", "banana", "vintage", "dessert", "baking"]
+tags: ["cake", "banana", "123", "dessert", "baking"]
 description: "A wonderfully moist and tender banana layer cake featuring a rich flavor profile from buttermilk and shortening. This versatile recipe is easily customized with your favorite chopped nuts and warm spices."
 date: "2026-07-30"
 draft: false

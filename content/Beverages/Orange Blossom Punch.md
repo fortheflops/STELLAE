@@ -3,7 +3,7 @@ title: "Orange Blossom Punch"
 category: "Beverages"
 collection: "UK4"
 source: "Unknown"
-tags: ["beverage", "punch", "party", "vintage", "unknownfour"]
+tags: ["beverage", "punch", "party", "123", "unknownfour"]
 description: "A bright and fruity party punch featuring a refreshing blend of citrus juices and ginger ale, topped with creamy sherbet. Perfect for celebrations and large gatherings."
 date: "2026-07-30"
 draft: false

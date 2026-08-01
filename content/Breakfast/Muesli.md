@@ -3,7 +3,7 @@ title: "Muesli"
 category: "Breakfast"
 collection: "Gail Collection"
 source: "New Age Health Foods + Granery"
-tags: ["breakfast", "cereal", "grains", "nuts", "healthy", "vintage", "gailcollection"]
+tags: ["breakfast", "cereal", "grains", "nuts", "healthy", "123", "gailcollection"]
 description: "A wholesome, fiber-rich traditional muesli blend featuring an assortment of rolled grains, crunchy nuts, and sweet dried fruits. Perfect for serving with cold milk or creamy yogurt for a hearty breakfast."
 date: "2026-07-30"
 draft: false

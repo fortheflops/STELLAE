@@ -3,7 +3,7 @@ title: "Barbecued Short Ribs"
 category: "Entrees"
 collection: "General Archive"
 source: "Unknown"
-tags: ["beef", "shortribs", "barbecue", "braised", "comfortfood", "vintage"]
+tags: ["beef", "shortribs", "barbecue", "braised", "comfortfood", "123"]
 description: "Tender, fall-off-the-bone short ribs braised in a tangy and savory barbecue-style sauce with onions, curry, and paprika. This classic comfort dish delivers rich, aromatic flavors after a slow bake in the oven."
 date: "2026-07-30"
 draft: false

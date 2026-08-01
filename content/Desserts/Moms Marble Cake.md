@@ -3,7 +3,7 @@ title: "Mom's Marble Cake"
 category: "Desserts"
 collection: "JillCollection"
 source: "Unknown"
-tags: ["dessert", "cake", "marblecake", "chocolate", "vanilla", "vintage", "baking"]
+tags: ["dessert", "cake", "marblecake", "chocolate", "vanilla", "123", "baking"]
 description: "A classic, tender marble cake made with Swansdown cake flour, featuring a vanilla-scented white batter swirled with a rich chocolate mixture. Light and fluffy, it is finished with folded egg whites for the perfect crumb."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Margaret Freed's Broiled Cheese Rolls"
 category: "Appetizers"
 collection: "Gail Collection"
 source: "Margaret Freed"
-tags: ["appetizer", "snack", "cheese", "bacon", "vintage", "gailcollection"]
+tags: ["appetizer", "snack", "cheese", "bacon", "123", "gailcollection"]
 description: "A savory appetizer or snack made by broiling a mixture of sharp cheddar cheese, diced raw bacon, and green onions on English muffin halves until bubbly and golden."
 date: "2026-07-30"
 draft: false

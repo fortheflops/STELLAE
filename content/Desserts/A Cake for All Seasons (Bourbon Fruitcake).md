@@ -3,7 +3,7 @@ title: "A Cake for All Seasons (Bourbon Fruitcake)"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "cake", "fruitcake", "bourbon", "vintage", "holiday", "baking"]
+tags: ["dessert", "cake", "fruitcake", "bourbon", "123", "holiday", "baking"]
 description: "A rich, classic fruitcake featuring walnuts, cherries, and raisins soaked in bourbon, baked into a dense, buttery cake, and aged in a bourbon-soaked cheesecloth."
 date: "2026-07-30"
 draft: false

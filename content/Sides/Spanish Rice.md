@@ -3,7 +3,7 @@ title: "Spanish Rice"
 category: "Sides"
 collection: "UK3"
 source: "Unknown"
-tags: ["spanish rice", "rice", "hamburger meat", "casserole", "vintage"]
+tags: ["spanish rice", "rice", "hamburger meat", "casserole", "123"]
 description: "A comforting vintage casserole featuring savory [[Hamburger Meat]], [[Rice]], and melted [[Grated Cheese]]. Baked to perfection in a slow oven for an easy family side dish."
 date: "2026-07-30"
 draft: false

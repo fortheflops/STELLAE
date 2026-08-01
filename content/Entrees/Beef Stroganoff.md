@@ -3,7 +3,7 @@ title: "Beef Stroganoff"
 category: "Entrees"
 collection: "UK2"
 source: "Unknown"
-tags: ["entree", "pasta", "stroganoff", "beef", "comfortfood", "vintage"]
+tags: ["entree", "pasta", "stroganoff", "beef", "comfortfood", "123"]
 description: "A classic savory beef stroganoff featuring tender round steak browned in butter, simmered with onions, garlic, and beef broth, and finished with a rich sour cream sauce. Perfect for serving over your favorite pasta or noodles for a comforting family dinner."
 date: "2026-07-30"
 draft: false

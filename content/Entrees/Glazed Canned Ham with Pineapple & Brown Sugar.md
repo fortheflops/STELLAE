@@ -3,7 +3,7 @@ title: "Glazed Canned Ham with Pineapple & Brown Sugar"
 category: "Entrees"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["jillcollection", "ham", "pork", "vintage", "entree", "holiday"]
+tags: ["jillcollection", "ham", "pork", "123", "entree", "holiday"]
 description: "A classic, easy method for dressing up a pre-cooked canned ham from the Jill Collection. The ham is trimmed, packed with brown sugar, and baked with pineapple slices and juice for a sweet, savory glaze."
 date: "2026-07-30"
 draft: false

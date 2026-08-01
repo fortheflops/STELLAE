@@ -3,7 +3,7 @@ title: "Orange Spice"
 category: "Preserves"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["gailcollection", "vintage", "spice", "orange", "sachet", "tea"]
+tags: ["gailcollection", "123", "spice", "orange", "sachet", "tea"]
 description: "Discover a traditional vintage method for crafting fragrant orange spice charms using thick citrus peels and whole cloves. Perfect for flavoring tea or freshening small spaces naturally."
 date: "2026-07-30"
 draft: false

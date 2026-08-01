@@ -3,7 +3,7 @@ title: "Pineapple Squirt Punch"
 category: "Beverages"
 collection: "UK3"
 source: "Unknown"
-tags: ["beverage", "punch", "party", "refreshing", "vintage"]
+tags: ["beverage", "punch", "party", "refreshing", "123"]
 description: "An incredibly simple and refreshing two-ingredient party punch. This recipe combines the sweet taste of pineapple juice with the fizzy, citrus flavor of Squirt soda."
 date: "2026-07-30"
 draft: false

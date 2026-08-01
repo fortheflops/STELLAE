@@ -3,7 +3,7 @@ title: "Chocolate Sheet Cake (Sheath Cake)"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "cake", "chocolate", "texassheetcake", "sheathcake", "vintage"]
+tags: ["dessert", "cake", "chocolate", "texassheetcake", "sheathcake", "123"]
 description: "A classic Texas-style Chocolate Sheet Cake topped with a warm, fudgy pecan frosting poured over the cake right out of the oven."
 date: "2026-07-30"
 draft: false

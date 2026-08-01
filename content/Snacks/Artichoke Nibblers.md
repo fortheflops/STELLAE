@@ -3,7 +3,7 @@ title: "Artichoke Nibblers"
 category: "Snacks"
 collection: "Patsy's Collection"
 source: "Unknown"
-tags: ["artichoke", "cheddar cheese", "appetizer", "microwave", "patsy collection", "vintage", "make-ahead"]
+tags: ["artichoke", "cheddar cheese", "appetizer", "microwave", "patsy collection", "123", "make-ahead"]
 description: "A savory microwave-baked appetizer packed with marinated artichoke hearts, sharp cheddar cheese, and aromatic spices. Cut into bite-sized squares, these easy nibblers are perfect for parties or quick entertaining."
 date: "2026-07-30"
 draft: false

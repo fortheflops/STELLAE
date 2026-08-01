@@ -3,7 +3,7 @@ title: "Meaty Crescent Roll Turnovers (3 Variations)"
 category: "Entrees"
 collection: "JohnBCollection"
 source: "Unknown"
-tags: ["entree", "turnovers", "crescentrolls", "vintage", "quickmeals"]
+tags: ["entree", "turnovers", "crescentrolls", "123", "quickmeals"]
 description: "Discover quick and easy savory turnovers made with refrigerated crescent rolls and three delicious vintage filling options: Ham, Chicken Pimento, and Tuna Melt. Perfect for a comforting weeknight meal or party appetizer."
 date: "2026-07-30"
 draft: false

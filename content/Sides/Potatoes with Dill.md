@@ -3,7 +3,7 @@ title: "Potatoes with Dill"
 category: "Sides"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["sidedish", "vintage", "potatoes", "dill", "gailcollection"]
+tags: ["sidedish", "123", "potatoes", "dill", "gailcollection"]
 description: "Tender new potatoes saut\u00e9ed in butter with fresh dill weed, salt, and pepper. A classic, comforting side dish bursting with herbal flavor."
 date: "2026-07-30"
 draft: false

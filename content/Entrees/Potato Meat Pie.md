@@ -3,7 +3,7 @@ title: "Potato Meat Pie"
 category: "Entrees"
 collection: "UK2"
 source: "Unknown"
-tags: ["pie", "meatpie", "potato", "vintage", "entree"]
+tags: ["pie", "meatpie", "potato", "123", "entree"]
 description: "A classic layered savory pie featuring thinly sliced potatoes, onions, and savory ham baked inside a flaky double pastry crust. Finished with a rich infusion of warm heavy cream poured right before serving."
 date: "2026-07-30"
 draft: false

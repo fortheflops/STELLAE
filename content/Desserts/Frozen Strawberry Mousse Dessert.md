@@ -3,7 +3,7 @@ title: "Frozen Strawberry Mousse Dessert"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "frozen", "strawberry", "mousse", "nobake", "vintage"]
+tags: ["dessert", "frozen", "strawberry", "mousse", "nobake", "123"]
 description: "A light and airy no-bake frozen dessert featuring a fluffy strawberry mousse made with whipped egg whites, set atop and below a crunchy brown sugar and pecan crust."
 date: "2026-07-30"
 draft: false

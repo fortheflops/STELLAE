@@ -3,7 +3,7 @@ title: "Quee's Sour Cream Lemon Pound Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Quee"
-tags: ["dessert", "cake", "poundcake", "lemon", "sourcream", "baking", "vintage"]
+tags: ["dessert", "cake", "poundcake", "lemon", "sourcream", "baking", "123"]
 description: "A rich and wonderfully moist sour cream pound cake featuring a bright, fresh flavor from real lemon juice and zest. This classic archival dessert yields a perfectly tender crumb and golden crust."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Crab Cheese Dip"
 category: "Appetizers"
 collection: "The Loraine Collection"
 source: "Unknown"
-tags: ["dip", "crab", "seafood", "appetizer", "vintage"]
+tags: ["dip", "crab", "seafood", "appetizer", "123"]
 description: "A creamy and savory crab dip featuring a blend of cream cheese and zesty seasonings. Perfect for serving with crackers or fresh vegetables at your next gathering."
 date: "2026-07-30"
 draft: false

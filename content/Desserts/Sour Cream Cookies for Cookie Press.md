@@ -3,7 +3,7 @@ title: "Sour Cream Cookies for Cookie Press"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["cookies", "cookiepress", "spritz", "vintage", "holiday"]
+tags: ["cookies", "cookiepress", "spritz", "123", "holiday"]
 description: "A classic, large-batch recipe for tender and tangy cookie press spritz cookies. This dough is enriched with sour cream and warmly spiced with nutmeg, creating dozens of festive treats."
 date: "2026-07-30"
 draft: false

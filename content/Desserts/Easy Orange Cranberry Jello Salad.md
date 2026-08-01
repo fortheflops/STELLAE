@@ -3,7 +3,7 @@ title: "Easy Orange Cranberry Jello Salad"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["jello", "salad", "holiday", "cranberry", "orange", "vintage"]
+tags: ["jello", "salad", "holiday", "cranberry", "orange", "123"]
 description: "An incredibly simple and festive Jello salad, perfect for the holidays. This recipe combines orange Jello with a whole jar of cranberry relish and orange juice for a sweet and tangy dessert."
 date: "2026-07-30"
 draft: false

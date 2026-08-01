@@ -3,7 +3,7 @@ title: "German Plum Cake (Pflaumenkuchen)"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "cake", "plum", "german", "baking", "vintage"]
+tags: ["dessert", "cake", "plum", "german", "baking", "123"]
 description: "A classic German sheet cake featuring a rich, buttery, and dense crumb lightly spiced with cardamom. It is traditionally topped with fresh plum halves and baked to golden perfection."
 date: "2026-07-30"
 draft: false

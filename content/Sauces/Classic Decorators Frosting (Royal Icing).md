@@ -3,7 +3,7 @@ title: "Classic Decorator's Frosting (Royal Icing)"
 category: "Sauces"
 collection: "Jill's Collection"
 source: "Unknown"
-tags: ["frosting", "royalicing", "baking", "decorating", "vintage"]
+tags: ["frosting", "royalicing", "baking", "decorating", "123"]
 description: "A stiff, classic decorator's frosting that dries to a hard finish, perfect for intricate piping work. This recipe creates a glossy, stable icing ideal for detailed cookie and cake decorations."
 date: "2026-07-30"
 draft: false

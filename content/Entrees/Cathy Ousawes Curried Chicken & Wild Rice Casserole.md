@@ -3,7 +3,7 @@ title: "Cathy Ousawe's Curried Chicken & Wild Rice Casserole"
 category: "Entrees"
 collection: "General Archive"
 source: "Cathy Ousawe"
-tags: ["casserole", "chicken", "wildrice", "curry", "vintage"]
+tags: ["casserole", "chicken", "wildrice", "curry", "123"]
 description: "A rich, savory, and comforting casserole from Cathy Ousawe. Tender chicken is poached in a sherry-curry broth, then baked with wild rice, saut\u00e9ed mushrooms, and a creamy sour cream sauce."
 date: "2026-07-30"
 draft: false

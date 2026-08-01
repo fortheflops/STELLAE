@@ -3,7 +3,7 @@ title: "Sugared Mint Leaves"
 category: "Basics"
 collection: "GC"
 source: "Unknown"
-tags: ["garnish", "mint", "sugared", "vintage", "desserttoppings"]
+tags: ["garnish", "mint", "sugared", "123", "desserttoppings"]
 description: "Learn how to make delicate sugared mint leaves, perfect as a sweet edible candy or a charming garnish for your favorite hot and cold beverages. This classic technique uses fresh herbs, egg white, and fine sugar for a sparkling, crisp finish."
 date: "2026-07-30"
 draft: false

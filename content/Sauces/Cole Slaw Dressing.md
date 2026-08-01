@@ -3,7 +3,7 @@ title: "Cole Slaw Dressing"
 category: "Sauces"
 collection: "UK2"
 source: "Unknown"
-tags: ["dressing", "coleslaw", "condiment", "vintage"]
+tags: ["dressing", "coleslaw", "condiment", "123"]
 description: "A simple and classic creamy dressing perfect for fresh coleslaw. This versatile recipe balances tangy vinegar with a touch of sweetness for a perfect crunch."
 date: "2026-07-30"
 draft: false

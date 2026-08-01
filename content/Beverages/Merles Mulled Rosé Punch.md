@@ -3,7 +3,7 @@ title: "Merle's Mulled Ros\u00e9 Punch"
 category: "Beverages"
 collection: "LouiseCollection"
 source: "Merle"
-tags: ["beverage", "punch", "wine", "holiday", "vintage", "party"]
+tags: ["beverage", "punch", "wine", "holiday", "123", "party"]
 description: "A unique and festive warm punch from a recipe by Merle, combining ros\u00e9 wine with a spiced tea base and fruit concentrates. This sweet, fruity, and aromatic beverage is perfect for holiday gatherings and parties."
 date: "2026-07-30"
 draft: false

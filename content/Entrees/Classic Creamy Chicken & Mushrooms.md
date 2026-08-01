@@ -3,7 +3,7 @@ title: "Classic Creamy Chicken & Mushrooms"
 category: "Entrees"
 collection: "General Archive"
 source: "Unknown"
-tags: ["comfortfood", "chicken", "skillet", "quick", "vintage"]
+tags: ["comfortfood", "chicken", "skillet", "quick", "123"]
 description: "A quick and classic comfort food featuring diced cooked chicken and saut\u00e9ed mushrooms in a rich homemade cream sauce. Served piping hot over crunchy chow mein noodles."
 date: "2026-07-30"
 draft: false

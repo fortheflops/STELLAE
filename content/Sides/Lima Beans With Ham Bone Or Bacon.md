@@ -7,7 +7,7 @@ tags:
   - limabeans
   - hambone
   - bacon
-  - vintage
+  - 123
   - comfortfood
   - southern
 description: A traditional, comforting recipe for slow-cooked lima beans infused with savory ham bone or smoky bacon. Perfect as a hearty side dish for family gatherings.

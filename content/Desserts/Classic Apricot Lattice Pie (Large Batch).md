@@ -3,7 +3,7 @@ title: "Classic Apricot Lattice Pie (Large Batch)"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "pie", "apricot", "baking", "vintage", "largebatch"]
+tags: ["dessert", "pie", "apricot", "baking", "123", "largebatch"]
 description: "A classic, large-batch recipe yielding four beautiful apricot lattice pies with a sweet and warmly spiced filling. Perfect for gatherings and celebrations, featuring a homemade crust and golden finish."
 date: "2026-07-30"
 draft: false

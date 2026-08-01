@@ -3,7 +3,7 @@ title: "Marilyn's Veal Casserole"
 category: "Entrees"
 collection: "JillCollection"
 source: "Marilyn B. Oppenheim"
-tags: ["entree", "casserole", "veal", "comfortfood", "vintage"]
+tags: ["entree", "casserole", "veal", "comfortfood", "123"]
 description: "A hearty Veal Casserole from the kitchen of Marilyn B. Oppenheim featuring tender cubed veal simmered with vegetables and herbs in a white wine and chicken broth sauce."
 date: "2026-07-30"
 draft: false

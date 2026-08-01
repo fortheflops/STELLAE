@@ -3,7 +3,7 @@ title: "Banana Bread (Large Unit)"
 category: "Bread"
 collection: "UK15"
 source: "Unknown"
-tags: ["banana bread", "baking", "large batch", "quick bread", "vintage"]
+tags: ["banana bread", "baking", "large batch", "quick bread", "123"]
 description: "A moist, large-batch banana bread recipe that is incredibly versatile and can be made with chocolate chips, nuts, or butterscotch chips. Perfect for baking in loaf pans, mini pans, or a Bundt pan."
 date: "2026-07-30"
 draft: false

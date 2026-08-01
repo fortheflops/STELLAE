@@ -3,7 +3,7 @@ title: "Easy Peach and Pineapple Dump Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Joy Phillips"
-tags: ["dessert", "cobbler", "dumpcake", "fruit", "easy", "vintage"]
+tags: ["dessert", "cobbler", "dumpcake", "fruit", "easy", "123"]
 description: "A super simple cobbler, also known as a dump cake, made by layering pineapple, peaches, and dry cake mix, then topping with pecans and butter before baking. This quintessential dessert is perfect for quick preparation and crowd-pleasing results."
 date: "2026-07-30"
 draft: false

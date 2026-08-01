@@ -3,7 +3,7 @@ title: "Classic Cream Puffs"
 category: "Desserts"
 collection: "LOC"
 source: "Unknown"
-tags: ["creampuffs", "pastries", "french", "dessert", "louisecollection", "vintage"]
+tags: ["creampuffs", "pastries", "french", "dessert", "louisecollection", "123"]
 description: "A classic recipe for light and airy cream puffs made with a traditional p\u00e2te \u00e0 choux dough. These hollow pastries are perfect for filling with whipped cream, custard, or ice cream."
 date: "2026-07-30"
 draft: false

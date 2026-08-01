@@ -3,7 +3,7 @@ title: "Creamy Crab"
 category: "Entrees"
 collection: "UK2"
 source: "Unknown"
-tags: ["entree", "seafood", "crab", "vintage", "creamy"]
+tags: ["entree", "seafood", "crab", "123", "creamy"]
 description: "Indulge in this vintage Creamy Crab recipe featuring tender crab meat simmered in a rich sherry and cream sauce. Perfect for serving over toasted points or fragrant saffron rice."
 date: "2026-07-30"
 draft: false

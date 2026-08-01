@@ -3,7 +3,7 @@ title: "Wilma's Chili Relleno Casserole"
 category: "Entrees"
 collection: "PatsyCollection"
 source: "Wilma Lachmann"
-tags: ["casserole", "tex-mex", "cheesy", "vintage", "vegetarian"]
+tags: ["casserole", "tex-mex", "cheesy", "123", "vegetarian"]
 description: "A classic, hearty Chili Relleno Casserole featuring layers of whole green chiles and two kinds of cheese, all baked in a light, fluffy egg souffl\u00e9 topping and finished with tomato sauce. This comforting Tex-Mex dish bakes up golden brown and bubbly."
 date: "2026-07-30"
 draft: false

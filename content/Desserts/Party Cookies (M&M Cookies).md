@@ -3,7 +3,7 @@ title: "Party Cookies (M&M Cookies)"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["cookies", "dessert", "chocolate", "party", "vintage", "sweets"]
+tags: ["cookies", "dessert", "chocolate", "party", "123", "sweets"]
 description: "A classic, crowd-pleasing recipe for soft and chewy M&M cookies. This simple drop cookie is packed with colorful candy-coated chocolates, making it a perfect treat for any party."
 date: "2026-07-30"
 draft: false

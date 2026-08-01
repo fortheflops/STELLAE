@@ -3,7 +3,7 @@ title: "Simple Crispy-Skin Baked Chicken"
 category: "Entrees"
 collection: "GailCollection"
 source: "Unknown"
-tags: ["chicken", "entree", "baked", "crispy", "vintage", "gailcollection"]
+tags: ["chicken", "entree", "baked", "crispy", "123", "gailcollection"]
 description: "A simple and effective method for crispy-skin chicken. Pieces are heavily seasoned, drizzled with butter, and broiled on both sides until crisp, then finished by baking at 325\u00b0F until tender."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Classic Cherries Jubilee"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "flambe", "cherries", "vintage", "classic"]
+tags: ["dessert", "flambe", "cherries", "123", "classic"]
 description: "A dramatic and elegant dessert featuring pitted Bing cherries simmered in a rich currant jelly sauce, flamb\u00e9ed with brandy, and served over cold vanilla ice cream. This classic recipe offers a sophisticated finish to any meal with its signature tableside flame."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Classic Apple Crumble with Oat Topping"
 category: "Desserts"
 collection: "Patsy Collection"
 source: "Unknown"
-tags: ["dessert", "apple", "crumble", "oats", "comfortfood", "vintage"]
+tags: ["dessert", "apple", "crumble", "oats", "comfortfood", "123"]
 description: "A classic apple crumble featuring tender, cinnamon-spiced apples baked under a delicious, buttery rolled oat topping. This comforting dessert is perfect for serving warm with a scoop of vanilla ice cream."
 date: "2026-07-30"
 draft: false

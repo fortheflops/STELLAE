@@ -3,7 +3,7 @@ title: "Christmas Fruit & Nut Candy Loaf"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["nobake", "christmas", "candy", "holiday", "fruitcake", "vintage"]
+tags: ["nobake", "christmas", "candy", "holiday", "fruitcake", "123"]
 description: "A classic no-bake holiday confection, this candy loaf is loaded with nuts and candied fruit in a creamy, fudge-like base. It offers a rich, sweet flavor profile with a delightful chewy and crunchy texture."
 date: "2026-07-30"
 draft: false

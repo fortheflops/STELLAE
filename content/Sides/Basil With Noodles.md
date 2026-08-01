@@ -3,7 +3,7 @@ title: "Basil With Noodles"
 category: "Sides"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["noodles", "basil", "pasta", "vegetarian", "vintage"]
+tags: ["noodles", "basil", "pasta", "vegetarian", "123"]
 description: "A classic vintage side dish featuring tender noodles tossed in a vibrant, herbaceous basil paste with melted margarine and oil. Ready in just 15 minutes for a quick and flavorful accompaniment."
 date: "2026-07-30"
 draft: false

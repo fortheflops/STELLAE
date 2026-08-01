@@ -3,7 +3,7 @@ title: "Beef & Vegetable Casserole with Sour Cream Sauce"
 category: "Entrees"
 collection: "General Archive"
 source: "Unknown"
-tags: ["casserole", "beef", "comfortfood", "vintage", "entree"]
+tags: ["casserole", "beef", "comfortfood", "123", "entree"]
 description: "A hearty, old-fashioned casserole featuring tender cubes of round steak layered with onions, mushrooms, peas, and carrots, all baked in a rich and tangy sour cream sauce."
 date: "2026-07-30"
 draft: false

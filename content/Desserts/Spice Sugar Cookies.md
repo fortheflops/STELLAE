@@ -3,7 +3,7 @@ title: "Spice Sugar Cookies"
 category: "Desserts"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["cookies", "vintage", "sugar", "spiced", "oilbased"]
+tags: ["cookies", "123", "sugar", "spiced", "oilbased"]
 description: "A simple, oil-based sugar cookie with a soft, chewy texture, spiced with cinnamon or nutmeg and rolled in sugar. These vintage-style cookies are quick to prepare and perfect for any occasion."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Easy Chocolate Wheaties Clusters (Geng-a-lings)"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["nobake", "cookies", "chocolate", "vintage", "cereal", "easy"]
+tags: ["nobake", "cookies", "chocolate", "123", "cereal", "easy"]
 description: "A simple and crunchy no-bake treat featuring chocolate-coated cereal clusters. These classic Geng-a-lings are the perfect quick dessert for any occasion."
 date: "2026-07-30"
 draft: false

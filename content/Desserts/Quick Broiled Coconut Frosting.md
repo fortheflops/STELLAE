@@ -3,7 +3,7 @@ title: "Quick Broiled Coconut Frosting"
 category: "Desserts"
 collection: "Gail's Collection"
 source: "Unknown"
-tags: ["frosting", "coconut", "vintage", "quick", "desserttopping"]
+tags: ["frosting", "coconut", "123", "quick", "desserttopping"]
 description: "A classic, quick-to-prepare broiled frosting that creates a gooey, caramelized coconut and brown sugar topping. Perfect for finishing hot cakes with a bubbly, glazed texture."
 date: "2026-07-30"
 draft: false

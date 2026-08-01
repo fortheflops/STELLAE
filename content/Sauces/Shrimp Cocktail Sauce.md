@@ -3,7 +3,7 @@ title: "Shrimp Cocktail Sauce"
 category: "Sauces"
 collection: "UK2"
 source: "Unknown"
-tags: ["sauces", "cocktailsauce", "seafood", "vintage", "appetizer"]
+tags: ["sauces", "cocktailsauce", "seafood", "123", "appetizer"]
 description: "A classic, zesty shrimp cocktail sauce featuring catsup, chili sauce, horseradish, and a splash of cooking sherry. Perfect for pairing with chilled seafood appetizers."
 date: "2026-07-30"
 draft: false

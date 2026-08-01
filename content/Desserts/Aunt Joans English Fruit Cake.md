@@ -3,7 +3,7 @@ title: "Aunt Joan's English Fruit Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Aunt Joan"
-tags: ["dessert", "cake", "fruitcake", "british", "vintage", "holiday", "baking"]
+tags: ["dessert", "cake", "fruitcake", "british", "123", "holiday", "baking"]
 description: "A traditional English fruitcake from Aunt Joan, flavored with Amontillado sherry. This rich, spiced cake is packed with raisins, candied fruit, and walnuts that are steeped in sherry overnight for incredible flavor."
 date: "2026-07-30"
 draft: false

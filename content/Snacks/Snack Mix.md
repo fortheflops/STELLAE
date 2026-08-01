@@ -3,7 +3,7 @@ title: "Snack Mix"
 category: "Snacks"
 collection: "Louise Collection"
 source: "Unknown"
-tags: ["vintage", "snacks", "chex mix", "party mix", "louise collection"]
+tags: ["123", "snacks", "chex mix", "party mix", "louise collection"]
 description: "A classic savory party mix featuring crisp Chex cereal, nuts, and pretzels tossed in a seasoned butter glaze. Slow-baked to crunchy, golden perfection with hints of Worcestershire and spice."
 date: "2026-07-30"
 draft: false

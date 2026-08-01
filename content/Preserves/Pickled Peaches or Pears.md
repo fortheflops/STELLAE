@@ -3,7 +3,7 @@ title: "Pickled Peaches or Pears"
 category: "Preserves"
 collection: "GC"
 source: "Ann Seranne"
-tags: ["preserves", "pickled", "fruit", "canning", "vintage"]
+tags: ["preserves", "pickled", "fruit", "canning", "123"]
 description: "A classic home-preserving recipe for spiced pickled peaches or pears infused with cinnamon, cloves, and allspice. Perfect for adding a sweet and tangy touch to your pantry collection."
 date: "2026-07-30"
 draft: false

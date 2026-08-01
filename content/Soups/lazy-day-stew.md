@@ -1,13 +1,17 @@
 ---
-title: "Lazy Day Stew"
-category: "Soups"
-collection: "John B. Collection"
-source: "Unattributed"
-tags: ["stew", "comfortfood", "vintage", "slowcooked", "dinner"]
-description: "A comforting and hearty vintage stew featuring tender stew meat and garden vegetables. This effortless one-pot meal simmers slowly to rich, tender perfection."
-date: "2026-07-30"
+title: Lazy Day Stew
+category: Soups
+collection: John B. Collection
+source: Unattributed
+tags:
+  - stew
+  - comfortfood
+  - slowcooked
+  - dinner
+description: A comforting and hearty vintage stew featuring tender stew meat and garden vegetables. This effortless one-pot meal simmers slowly to rich, tender perfection.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Lazy Day Stew\", \"author\": {\"@type\": \"Person\", \"name\": \"Unattributed\"}, \"datePublished\": \"2023\", \"description\": \"A comforting and hearty vintage stew featuring tender stew meat and garden vegetables.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT5H\", \"totalTime\": \"PT5H15M\", \"recipeCategory\": \"Soups\", \"recipeCuisine\": \"American\", \"recipeYield\": \"6 servings\", \"recipeIngredient\": [\"2 lbs. Stew Meat\", \"3 stalks Celery\", \"3 Carrots\", \"2 Potatoes\", \"1 Onion\", \"1 Green Pepper\", \"8 oz. Tomato Sauce\", \"1 can Water\", \"2 tsp. Tapioca\", \"Salt and Pepper\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Arrange stew meat in a roast pan. Place the celery, carrots, potatoes, onion, and green pepper on top.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour tomato sauce and water over all. Season with salt and pepper to taste. Sprinkle tapioca over the top. Do not stir.\"}, {\"@type\": \"HowToStep\", \"text\": \"Seal with heavy foil and cook in oven at 325 degrees for 4 or 5 hours.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Lazy Day Stew", "author": {"@type": "Person", "name": "Unattributed"}, "datePublished": "2023", "description": "A comforting and hearty vintage stew featuring tender stew meat and garden vegetables.", "prepTime": "PT15M", "cookTime": "PT5H", "totalTime": "PT5H15M", "recipeCategory": "Soups", "recipeCuisine": "American", "recipeYield": "6 servings", "recipeIngredient": ["2 lbs. Stew Meat", "3 stalks Celery", "3 Carrots", "2 Potatoes", "1 Onion", "1 Green Pepper", "8 oz. Tomato Sauce", "1 can Water", "2 tsp. Tapioca", "Salt and Pepper"], "recipeInstructions": [{"@type": "HowToStep", "text": "Arrange stew meat in a roast pan. Place the celery, carrots, potatoes, onion, and green pepper on top."}, {"@type": "HowToStep", "text": "Pour tomato sauce and water over all. Season with salt and pepper to taste. Sprinkle tapioca over the top. Do not stir."}, {"@type": "HowToStep", "text": "Seal with heavy foil and cook in oven at 325 degrees for 4 or 5 hours."}]}'
 ---
 
 # Lazy Day Stew

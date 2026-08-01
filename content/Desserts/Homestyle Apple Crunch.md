@@ -3,7 +3,7 @@ title: "Homestyle Apple Crunch"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "apple", "crisp", "comfortfood", "vintage", "oatmeal"]
+tags: ["dessert", "apple", "crisp", "comfortfood", "123", "oatmeal"]
 description: "A classic homestyle apple crisp featuring tender Jonathan apples topped with a buttery, golden oatmeal streusel. This comforting dessert is perfect for cool evenings and pairs beautifully with vanilla ice cream."
 date: "2026-07-30"
 draft: false

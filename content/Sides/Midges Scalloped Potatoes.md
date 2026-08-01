@@ -3,7 +3,7 @@ title: "Midge's Scalloped Potatoes"
 category: "Sides"
 collection: "UK5"
 source: "Midge Robertson"
-tags: ["sidedish", "vintage", "potatoes", "comfortfood", "casserole"]
+tags: ["sidedish", "123", "potatoes", "comfortfood", "casserole"]
 description: "A classic, comforting vintage recipe for scalloped potatoes layered with butter, flour, and milk until tender and golden brown. Perfect as a rich and creamy side dish for any hearty family meal."
 date: "2026-07-30"
 draft: false

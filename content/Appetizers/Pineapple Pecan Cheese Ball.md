@@ -3,7 +3,7 @@ title: "Pineapple Pecan Cheese Ball"
 category: "Appetizers"
 collection: "UK2 Collection"
 source: "Unknown"
-tags: ["appetizer", "cheese ball", "cream cheese", "pineapple", "pecans", "party food", "make-ahead", "vintage"]
+tags: ["appetizer", "cheese ball", "cream cheese", "pineapple", "pecans", "party food", "make-ahead", "123"]
 description: "A classic retro party appetizer combining rich cream cheese, tropical sweet crushed pineapple, and savory Lawry's seasoned salt, all rolled in crunchy pecans. Perfect for easy prep and make-ahead holiday entertaining."
 date: "2026-07-30"
 draft: false

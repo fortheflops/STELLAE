@@ -3,7 +3,7 @@ title: "Old-Fashioned Gingerbread"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["gingerbread", "vintage", "comfortfood", "cake", "molasses"]
+tags: ["gingerbread", "123", "comfortfood", "cake", "molasses"]
 description: "A classic, dark, and moist gingerbread cake rich with molasses and a warm blend of aromatic spices. This traditional recipe yields a perfect, comforting dessert that pairs beautifully with whipped cream."
 date: "2026-07-30"
 draft: false

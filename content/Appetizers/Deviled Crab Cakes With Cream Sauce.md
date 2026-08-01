@@ -3,7 +3,7 @@ title: Deviled Crab Cakes With Cream Sauce
 category: Appetizers
 collection: General Archive
 source: Unknown
-tags: [vintage, crab, seafood, appetizer, fried]
+tags: [123, crab, seafood, appetizer, fried]
 description: Hearty, flavorful deviled crab cakes bound with a rich, thick cream sauce and seasoned with thyme and sautéed vegetables. Chilled, coated, and fried to a perfect golden brown.
 date: 2026-07-24
 draft: false

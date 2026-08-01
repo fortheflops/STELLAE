@@ -3,7 +3,7 @@ title: "Lisa's AP Pumpkin Bread"
 category: "Bread"
 collection: "UK5"
 source: "Lisa"
-tags: ["bread", "pumpkin", "baking", "vintage", "fall"]
+tags: ["bread", "pumpkin", "baking", "123", "fall"]
 description: "A classic, moist pumpkin bread loaded with warm spices, nuts, and raisins. This large-batch recipe yields two aromatic loaves perfect for sharing."
 date: "2026-07-30"
 draft: false

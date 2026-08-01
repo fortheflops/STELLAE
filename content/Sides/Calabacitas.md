@@ -3,7 +3,7 @@ title: "Calabacitas"
 category: "Sides"
 collection: "UK4 Collection"
 source: "Ana"
-tags: ["sides", "squash", "zucchini", "calabacitas", "mexican", "vintage"]
+tags: ["sides", "squash", "zucchini", "calabacitas", "mexican", "123"]
 description: "A classic southwestern vegetable side dish featuring saut\u00e9ed yellow squash, zucchini, sweet corn, and mild green chiles. Melted cheese and a splash of cream bind the tender summer vegetables together before serving in warm flour tortillas."
 date: "2026-07-30"
 draft: false

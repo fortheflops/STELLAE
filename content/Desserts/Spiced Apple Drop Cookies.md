@@ -3,7 +3,7 @@ title: "Spiced Apple Drop Cookies"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "vintage", "apple", "spiced", "comfortfood"]
+tags: ["cookies", "123", "apple", "spiced", "comfortfood"]
 description: "A classic recipe for soft, cake-like apple drop cookies. This old-fashioned treat is loaded with warm spices and packed with chopped apples, raisins, and nuts."
 date: "2026-07-30"
 draft: false

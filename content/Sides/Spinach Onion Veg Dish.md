@@ -3,7 +3,7 @@ title: "Spinach Onion Veg Dish"
 category: "Sides"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["gailcollection", "spinach", "onion", "casserole", "side dish", "frozen vegetables", "vintage"]
+tags: ["gailcollection", "spinach", "onion", "casserole", "side dish", "frozen vegetables", "123"]
 description: "A comforting vintage side dish featuring frozen spinach bound with creamy sour cream and savory Lipton onion soup mix, topped with crispy onion rings. This easy-to-make casserole is wonderfully rich and tastes even better when made ahead."
 date: "2026-07-30"
 draft: false

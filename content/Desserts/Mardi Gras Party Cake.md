@@ -3,7 +3,7 @@ title: "Mardi Gras Party Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cake", "butterscotch", "dessert", "vintage", "mardigras"]
+tags: ["cake", "butterscotch", "dessert", "123", "mardigras"]
 description: "A festive and flavorful butterscotch layer cake made with melted butterscotch morsels mixed directly into the batter for a rich, candy-like flavor. This vintage dessert yields two tender 8-inch cakes."
 date: "2026-07-30"
 draft: false

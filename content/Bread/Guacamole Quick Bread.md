@@ -3,7 +3,7 @@ title: "Guacamole Quick Bread"
 category: "Bread"
 collection: "UK15"
 source: "Unknown"
-tags: ["quickbread", "savorybread", "guacamole", "avocado", "vintage"]
+tags: ["quickbread", "savorybread", "guacamole", "avocado", "123"]
 description: "A unique and delicious savory-sweet quick bread featuring the classic flavors of guacamole, including mashed avocado, onion, and green chile. Baked to golden perfection, it offers a tender and flavorful crumb."
 date: "2026-07-30"
 draft: false

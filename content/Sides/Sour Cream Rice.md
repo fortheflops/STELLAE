@@ -3,7 +3,7 @@ title: "Sour Cream Rice"
 category: "Sides"
 collection: "Patsy's Collection"
 source: "Emma Lou"
-tags: ["rice", "sour cream", "casserole", "side dish", "vintage"]
+tags: ["rice", "sour cream", "casserole", "side dish", "123"]
 description: "A creamy, comforting baked side dish made with converted rice, green chiles, jalape\u00f1o, and plenty of melted cheddar cheese. This vintage recipe from the Patsy Collection delivers a mild kick and rich texture."
 date: "2026-07-30"
 draft: false

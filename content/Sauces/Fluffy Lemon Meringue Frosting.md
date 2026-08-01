@@ -3,7 +3,7 @@ title: "Fluffy Lemon Meringue Frosting"
 category: "Sauces"
 collection: "General Archive"
 source: "Unknown"
-tags: ["frosting", "meringue", "lemon", "vintage", "desserttopping"]
+tags: ["frosting", "meringue", "lemon", "123", "desserttopping"]
 description: "A light and airy cooked meringue frosting featuring a delicate lemon flavor. This classic recipe uses a hot sugar syrup to stabilize whipped egg whites for a glossy, professional finish."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Souffl\u00e9-Style Cheesecake"
 category: "Desserts"
 collection: "GailCollection"
 source: "Unknown"
-tags: ["dessert", "cheesecake", "souffle", "vintage", "baking"]
+tags: ["dessert", "cheesecake", "souffle", "123", "baking"]
 description: "A light and airy souffl\u00e9-style cheesecake that achieves its incredible lift and delicate texture from folding stiffly beaten egg whites into a rich cream cheese base. This vintage recipe yields a smooth, cloud-like dessert with a delightful wobble in the center."
 date: "2026-07-30"
 draft: false

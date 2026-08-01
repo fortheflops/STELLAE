@@ -3,7 +3,7 @@ title: "Classic Chocolate Crinkles"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "chocolate", "vintage", "holiday", "fudgy"]
+tags: ["cookies", "chocolate", "123", "holiday", "fudgy"]
 description: "A classic holiday cookie, these rich, fudgy chocolate crinkles are rolled in powdered sugar for their signature cracked appearance. This simple, oil-based dough is chilled to perfection before baking."
 date: "2026-07-30"
 draft: false

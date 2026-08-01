@@ -3,7 +3,7 @@ title: "Carol Koenig's Poppy Seed Bread"
 category: "Bread"
 collection: "Jill Collection"
 source: "Carol Koenig"
-tags: ["quickbread", "bread", "poppyseed", "baking", "vintage"]
+tags: ["quickbread", "bread", "poppyseed", "baking", "123"]
 description: "A simple and delicious quick bread featuring a tender crumb speckled with poppy seeds and enriched with evaporated milk. Perfect for breakfast or an afternoon treat."
 date: "2026-07-30"
 draft: false

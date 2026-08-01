@@ -3,7 +3,7 @@ title: "Pickled Okra"
 category: "Preserves"
 collection: "UK3"
 source: "Svarale"
-tags: ["preserves", "pickled", "okra", "canning", "vintage"]
+tags: ["preserves", "pickled", "okra", "canning", "123"]
 description: "Discover a traditional vintage recipe for crisp pickled okra featuring garlic, hot pepper, and dill seed. Preserved to perfection after six weeks of curing."
 date: "2026-07-30"
 draft: false

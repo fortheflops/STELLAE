@@ -3,7 +3,7 @@ title: "Easy Rocky Road Fudge"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["fudge", "rockyroad", "nobake", "candy", "chocolate", "vintage"]
+tags: ["fudge", "rockyroad", "nobake", "candy", "chocolate", "123"]
 description: "A quick and foolproof no-bake recipe for classic Rocky Road fudge. This decadent treat combines melted chocolate, sweetened condensed milk, fluffy marshmallows, and crunchy nuts."
 date: "2026-07-30"
 draft: false

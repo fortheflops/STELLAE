@@ -3,7 +3,7 @@ title: "Frozen Strawberry Jello Salad"
 category: "Desserts"
 collection: "UK3"
 source: "Cheryl Spears"
-tags: ["frozen", "dessert", "salad", "strawberry", "vintage", "jello"]
+tags: ["frozen", "dessert", "salad", "strawberry", "123", "jello"]
 description: "A classic frozen dessert salad featuring a fluffy base of strawberry gelatin, whipped cream, bananas, and crunchy pecans. This versatile treat can be frozen in pans or individual muffin cups for easy serving."
 date: "2026-07-30"
 draft: false

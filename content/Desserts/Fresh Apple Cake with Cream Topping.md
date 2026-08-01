@@ -3,7 +3,7 @@ title: "Fresh Apple Cake with Cream Topping"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["apple", "cake", "vintage", "dessert", "nuts", "comfortfood"]
+tags: ["apple", "cake", "123", "dessert", "nuts", "comfortfood"]
 description: "An incredibly moist and dense fresh apple cake, made with oil for a tender crumb and packed with grated apple and chopped nuts. The warm cake is served with a simple, rich cream and sugar sauce."
 date: "2026-07-30"
 draft: false

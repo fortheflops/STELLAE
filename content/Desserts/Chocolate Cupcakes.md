@@ -3,7 +3,7 @@ title: "Chocolate Cupcakes"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "cupcakes", "chocolate", "baking", "vintage"]
+tags: ["dessert", "cupcakes", "chocolate", "baking", "123"]
 description: "A classic vintage recipe for rich chocolate cupcakes baked to fluffy perfection. These delightful treats are easily prepared and topped off with a simple boiling water finish for an exceptionally moist crumb."
 date: "2026-07-30"
 draft: false

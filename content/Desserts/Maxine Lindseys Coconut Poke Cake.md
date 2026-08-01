@@ -3,7 +3,7 @@ title: "Maxine Lindsey's Coconut Poke Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Maxine Lindsey"
-tags: ["dessert", "cake", "coconut", "pokecake", "tropical", "vintage"]
+tags: ["dessert", "cake", "coconut", "pokecake", "tropical", "123"]
 description: "A wonderfully moist and tropical cake from Maxine Lindsey featuring a simple cake mix base with mandarin oranges, saturated with creamy coconut, and topped with a fluffy coconut Cool Whip frosting."
 date: "2026-07-30"
 draft: false

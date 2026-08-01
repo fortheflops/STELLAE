@@ -3,7 +3,7 @@ title: "Four-Cheese Party Log"
 category: "Appetizers"
 collection: "UK3 Collection"
 source: "Unknown"
-tags: ["appetizers", "cheese log", "pecans", "party food", "make-ahead", "vintage"]
+tags: ["appetizers", "cheese log", "pecans", "party food", "make-ahead", "123"]
 description: "This savory Four-Cheese Party Log blends cream cheese, cheddar, Velveeta, and sharp cheddar with grated onion and Worcestershire sauce. Coated in crunchy pecans and chilled until firm, it makes a rich and satisfying classic appetizer for any gathering."
 date: "2026-07-30"
 draft: false

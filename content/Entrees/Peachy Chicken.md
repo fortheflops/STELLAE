@@ -3,7 +3,7 @@ title: "Peachy Chicken"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["chicken", "peaches", "dinner", "vintage", "entree"]
+tags: ["chicken", "peaches", "dinner", "123", "entree"]
 description: "A comforting vintage casserole featuring savory chicken baked atop seasoned rice and sweet sliced peaches. The chicken drippings create a savory balance against the sweet peach syrup infused in the rice."
 date: "2026-07-30"
 draft: false

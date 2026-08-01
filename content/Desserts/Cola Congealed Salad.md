@@ -3,7 +3,7 @@ title: "Cola Congealed Salad"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["vintage", "jello", "salad", "potluck", "retro", "congealed"]
+tags: ["123", "jello", "salad", "potluck", "retro", "congealed"]
 description: "A classic, vintage-style congealed salad featuring cherries, pineapple, and pecans in a creamy, fizzy base of cherry and strawberry gelatin and cola. This retro dessert is a perfect, crowd-pleasing addition to any potluck table."
 date: "2026-07-30"
 draft: false

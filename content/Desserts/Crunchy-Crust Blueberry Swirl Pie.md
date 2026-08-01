@@ -3,7 +3,7 @@ title: "Crunchy-Crust Blueberry Swirl Pie"
 category: "Desserts"
 collection: "UnknownFifteen"
 source: "Unknown"
-tags: ["dessert", "pie", "blueberry", "nobake", "vintage"]
+tags: ["dessert", "pie", "blueberry", "nobake", "123"]
 description: "A unique no-bake pie featuring a crunchy baked oatmeal-nut crust and a cool blueberry-lemon gelatin filling finished with a tangy sour cream swirl. Chill until firm for a refreshing, sweet-tart dessert."
 date: "2026-07-30"
 draft: false

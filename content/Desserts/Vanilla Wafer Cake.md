@@ -3,7 +3,7 @@ title: "Vanilla Wafer Cake"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "cake", "vanillawafer", "coconut", "nuts", "baking", "vintage"]
+tags: ["dessert", "cake", "vanillawafer", "coconut", "nuts", "baking", "123"]
 description: "A rich, dense, and wonderfully unique cake that uses an entire box of crushed vanilla wafers instead of flour. This buttery cake is loaded with coconut and nuts, and bakes low and slow for an incredibly moist texture."
 date: "2026-07-30"
 draft: false

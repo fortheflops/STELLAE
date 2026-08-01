@@ -3,7 +3,7 @@ title: "Cheddar Chowder Casserole"
 category: "Entrees"
 collection: "General Archive"
 source: "Unknown"
-tags: ["casserole", "beef", "chowmein", "dinner", "vintage"]
+tags: ["casserole", "beef", "chowmein", "dinner", "123"]
 description: "A hearty and savory ground beef casserole featuring rice or noodles in a creamy double-soup base with corn and vegetables, all baked under a crunchy chow mein noodle topping. Despite the name, this recipe does not contain cheddar cheese."
 date: "2026-07-30"
 draft: false

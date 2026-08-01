@@ -1,13 +1,17 @@
 ---
-title: "Pedernales River Chili"
-category: "Soups"
-collection: "UK2"
-source: "Unknown"
-tags: ["stew", "chili", "beef", "comfortfood", "vintage"]
-description: "A classic rustic chili featuring tender chopped beef, aromatic onions, and bold spices simmered to perfection. This hearty Texan-style recipe delivers rich, comforting flavors ideal for warming up on chilly evenings."
-date: "2026-07-30"
+title: Pedernales River Chili
+category: Soups
+collection: UK2
+source: Unknown
+tags:
+  - stew
+  - chili
+  - beef
+  - comfortfood
+description: A classic rustic chili featuring tender chopped beef, aromatic onions, and bold spices simmered to perfection. This hearty Texan-style recipe delivers rich, comforting flavors ideal for warming up on chilly evenings.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Pedernales River Chili\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-02-20\", \"description\": \"A classic rustic chili featuring tender chopped beef, aromatic onions, and bold spices simmered to perfection.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT2H\", \"recipeCategory\": \"Soups\", \"recipeCuisine\": \"American\", \"recipeYield\": \"6\u20138 Servings\", \"keyword\": \"stew, chili, beef, comfortfood, vintage\", \"recipeIngredient\": [\"4 Cups Chopped Beef\", \"3 Cups Chopped Onion\", \"1 Tablespoon Garlic\", \"1 Teaspoon Oregano\", \"1 Teaspoon Ground Cumin\", \"2 Tablespoons Chili Powder\", \"4 Cups Canned Tomatoes\", \"To Taste Salt\", \"2 Cups Beef Broth\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine the chopped beef, chopped onion, and garlic in a heavy skillet over medium heat.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook until meat is no longer red (but not browned) and onions are soft.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add spices, tomatoes, and broth.\"}, {\"@type\": \"HowToStep\", \"text\": \"Simmer about 2 hours - or longer until rich and tender.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Pedernales River Chili", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-02-20", "description": "A classic rustic chili featuring tender chopped beef, aromatic onions, and bold spices simmered to perfection.", "prepTime": "PT15M", "cookTime": "PT2H", "recipeCategory": "Soups", "recipeCuisine": "American", "recipeYield": "6–8 Servings", "keyword": "stew, chili, beef, comfortfood, vintage", "recipeIngredient": ["4 Cups Chopped Beef", "3 Cups Chopped Onion", "1 Tablespoon Garlic", "1 Teaspoon Oregano", "1 Teaspoon Ground Cumin", "2 Tablespoons Chili Powder", "4 Cups Canned Tomatoes", "To Taste Salt", "2 Cups Beef Broth"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine the chopped beef, chopped onion, and garlic in a heavy skillet over medium heat."}, {"@type": "HowToStep", "text": "Cook until meat is no longer red (but not browned) and onions are soft."}, {"@type": "HowToStep", "text": "Add spices, tomatoes, and broth."}, {"@type": "HowToStep", "text": "Simmer about 2 hours - or longer until rich and tender."}]}'
 ---
 
 # Pedernales River Chili

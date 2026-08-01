@@ -3,7 +3,7 @@ title: "Cranberry Orange Apple Sauce"
 category: "Sauces"
 collection: "Louise Collection"
 source: "Unknown"
-tags: ["sauce", "cranberry", "apple", "vintage", "louisecollection"]
+tags: ["sauce", "cranberry", "apple", "123", "louisecollection"]
 description: "A delightful vintage fruit sauce combining tart cranberries, sweet apples, and a hint of citrus orange zest. Perfect as a holiday side dish or a sweet topping, this recipe comes from the Louise Collection archive."
 date: "2026-07-30"
 draft: false

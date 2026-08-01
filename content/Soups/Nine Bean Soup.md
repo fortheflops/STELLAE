@@ -1,13 +1,41 @@
 ---
-title: "Nine Bean Soup"
-category: "Soups"
-collection: "Unknown Five"
-source: "Sharon Bean"
-tags: ["soup", "beans", "ham", "comfortfood", "vintage"]
-description: "A hearty, comforting classic Nine Bean Soup loaded with savory ham, onions, garlic, and tomatoes. Perfect for cold weather, this vintage recipe is slow-simmered to rich, flavorful perfection."
-date: "2026-07-30"
+title: Nine Bean Soup
+category: Soups
+collection: Unknown Five
+source: Sharon Bean
+tags:
+  - soup
+  - beans
+  - ham
+  - comfortfood
+description: A hearty, comforting classic Nine Bean Soup loaded with savory ham, onions, garlic, and tomatoes. Perfect for cold weather, this vintage recipe is slow-simmered to rich, flavorful perfection.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Nine Bean Soup\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sharon Bean\"\n  },\n  \"description\": \"A hearty, comforting classic Nine Bean Soup loaded with savory ham, onions, garlic, and tomatoes.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT2H\",\n  \"recipeYield\": \"6-8 servings\",\n  \"recipeCategory\": \"Soup\",\n  \"recipeIngredient\": [\n    \"2 cups Nine Bean Soup Mix\",\n    \"2 quarts Water\",\n    \"1 pound Ham, diced\",\n    \"1 large Onion, chopped\",\n    \"1 clove Garlic, minced\",\n    \"1/2 to 3/4 teaspoon Salt\",\n    \"1 (16-ounce) can Chopped Tomatoes, undrained\",\n    \"1 (10 ounce) can Tomatoes and Green Chiles, undrained\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Nine Bean Soup",
+    "author": {
+      "@type": "Person",
+      "name": "Sharon Bean"
+    },
+    "description": "A hearty, comforting classic Nine Bean Soup loaded with savory ham, onions, garlic, and tomatoes.",
+    "prepTime": "PT15M",
+    "cookTime": "PT2H",
+    "recipeYield": "6-8 servings",
+    "recipeCategory": "Soup",
+    "recipeIngredient": [
+      "2 cups Nine Bean Soup Mix",
+      "2 quarts Water",
+      "1 pound Ham, diced",
+      "1 large Onion, chopped",
+      "1 clove Garlic, minced",
+      "1/2 to 3/4 teaspoon Salt",
+      "1 (16-ounce) can Chopped Tomatoes, undrained",
+      "1 (10 ounce) can Tomatoes and Green Chiles, undrained"
+    ]
+  }
 ---
 
 # Nine Bean Soup

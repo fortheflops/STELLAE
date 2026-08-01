@@ -3,7 +3,7 @@ title: "Cook Lamb Shanks"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["entree", "lamb", "comfortfood", "vintage", "stew"]
+tags: ["entree", "lamb", "comfortfood", "123", "stew"]
 description: "Tender lamb shanks simmered to perfection in a rich and savory blend of cream of celery and mushroom soups. A classic vintage comfort food that yields a delicious gravy for potatoes or rice."
 date: "2026-07-30"
 draft: false

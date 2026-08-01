@@ -8,7 +8,7 @@ tags:
   - casserole
   - sidedish
   - comfortfood
-  - vintage
+  - 123
 description: Rich homemade creamed corn baked with a savory parmesan cheese crust until golden brown and bubbly. A comforting classic side dish from Susan LaFreniere's kitchen.
 date: 2026-07-30
 draft: false

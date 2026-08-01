@@ -3,7 +3,7 @@ title: "Plain Butter and Cream Cheese Cookies"
 category: "Desserts"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["cookies", "butter", "creamcheese", "orange", "vintage", "dessert"]
+tags: ["cookies", "butter", "creamcheese", "orange", "123", "dessert"]
 description: "These tender, tangy drop cookies feature a delicate balance of butter and cream cheese infused with bright orange zest. They are a perfect, soft-textured treat that can be customized with optional chocolate chips."
 date: "2026-07-30"
 draft: false

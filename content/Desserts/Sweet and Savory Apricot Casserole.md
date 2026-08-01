@@ -3,7 +3,7 @@ title: "Sweet and Savory Apricot Casserole"
 category: "Desserts"
 collection: "Patsy Collection"
 source: "Unknown"
-tags: ["patsycollection", "apricot", "casserole", "vintage", "sweetandsavory"]
+tags: ["patsycollection", "apricot", "casserole", "123", "sweetandsavory"]
 description: "A unique baked dish featuring sweet apricot halves macerated in lemon and sugar, topped with a crunchy, savory cheese cracker crumble. This versatile recipe serves perfectly as a decadent side dish or a simple, comforting dessert."
 date: "2026-07-30"
 draft: false

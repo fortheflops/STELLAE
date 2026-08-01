@@ -3,7 +3,7 @@ title: "Traditional Biscochitos"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["biscochitos", "cookies", "newmexico", "vintage", "holiday", "shortbread"]
+tags: ["biscochitos", "cookies", "newmexico", "123", "holiday", "shortbread"]
 description: "A classic New Mexican holiday cookie, these crisp, tender shortbreads are made with lard and flavored with anise and whiskey. They are finished with a signature dusting of cinnamon-sugar for a traditional treat."
 date: "2026-07-30"
 draft: false

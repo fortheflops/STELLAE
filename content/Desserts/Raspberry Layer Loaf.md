@@ -3,7 +3,7 @@ title: "Raspberry Layer Loaf"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "cake", "raspberry", "nobake", "vintage"]
+tags: ["dessert", "cake", "raspberry", "nobake", "123"]
 description: "A simple yet elegant no-bake dessert featuring layers of store-bought pound cake and a light raspberry cream cheese frosting. Served chilled with a homemade raspberry sauce for an impressive treat."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Classic Peanut Butter Cookies"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["cookies", "peanutbutter", "vintage", "dessert", "classic"]
+tags: ["cookies", "peanutbutter", "123", "dessert", "classic"]
 description: "A classic, foolproof recipe for soft and chewy peanut butter cookies, featuring the iconic fork-tine criss-cross pattern. This recipe balances brown and white sugars for the perfect texture and flavor profile."
 date: "2026-07-30"
 draft: false

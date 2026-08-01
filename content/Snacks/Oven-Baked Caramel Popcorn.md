@@ -3,7 +3,7 @@ title: "Oven-Baked Caramel Popcorn"
 category: "Snacks"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["snack", "caramel", "popcorn", "vintage", "confection"]
+tags: ["snack", "caramel", "popcorn", "123", "confection"]
 description: "A classic recipe for perfectly crisp and crunchy caramel popcorn. Popcorn is coated in a simple, boiled brown sugar caramel sauce and then baked low and slow in the oven for an irresistible, non-sticky finish."
 date: "2026-07-30"
 draft: false

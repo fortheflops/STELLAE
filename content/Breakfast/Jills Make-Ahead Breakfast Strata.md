@@ -3,7 +3,7 @@ title: "Jill's Make-Ahead Breakfast Strata"
 category: "Breakfast"
 collection: "JillCollection"
 source: "Unknown"
-tags: ["breakfast", "brunch", "casserole", "cheese", "makeahead", "vintage"]
+tags: ["breakfast", "brunch", "casserole", "cheese", "makeahead", "123"]
 description: "A classic make-ahead breakfast or brunch casserole featuring cubed white bread and cheddar cheese soaked in an egg custard, then baked until puffed and golden. Perfect for effortless morning entertaining."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Classic Cocoa Brownies"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["brownies", "chocolate", "dessert", "cocoa", "fudgy", "vintage"]
+tags: ["brownies", "chocolate", "dessert", "cocoa", "fudgy", "123"]
 description: "A rich and fudgy one-bowl brownie recipe featuring a simple cocoa powder base. These timeless treats are perfect for quick baking and deliver a deep chocolate flavor."
 date: "2026-07-30"
 draft: false

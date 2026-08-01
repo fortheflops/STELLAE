@@ -3,7 +3,7 @@ title: "Old Fashioned Rice Pudding"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["dessert", "pudding", "ricepudding", "vintage", "comfortfood", "baked"]
+tags: ["dessert", "pudding", "ricepudding", "123", "comfortfood", "baked"]
 description: "A classic baked rice pudding featuring cooked rice in a sweet egg custard flavored with lemon and raisins, topped with buttery bread crumbs. Perfect for a comforting homemade dessert."
 date: "2026-07-30"
 draft: false

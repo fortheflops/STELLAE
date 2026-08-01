@@ -3,7 +3,7 @@ title: "Joyce's Russian Tea Mix"
 category: "Beverages"
 collection: "GC"
 source: "Joyce"
-tags: ["beverage", "tea", "instantmix", "spiced", "vintage", "gailcollection"]
+tags: ["beverage", "tea", "instantmix", "spiced", "123", "gailcollection"]
 description: "A classic, comforting instant 'Russian Tea' mix recipe featuring a tangy and spiced blend of Tang, lemonade, instant tea, and warm spices."
 date: "2026-07-30"
 draft: false

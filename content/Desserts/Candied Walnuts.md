@@ -3,7 +3,7 @@ title: "Candied Walnuts"
 category: "Desserts"
 collection: "Patsy Collection"
 source: "Unknown"
-tags: ["candied", "walnuts", "dessert", "snack", "vintage", "patsycollection"]
+tags: ["candied", "walnuts", "dessert", "snack", "123", "patsycollection"]
 description: "A quick stovetop method for making classic candied walnuts with a simple butter, brown sugar, and cinnamon glaze. These toasted nuts are perfect for snacking or as a crunchy topping for salads and desserts."
 date: "2026-07-30"
 draft: false

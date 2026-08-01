@@ -3,7 +3,7 @@ title: "Ursell's Glazed Carrot Cookies"
 category: "Desserts"
 collection: "JohnBCollection"
 source: "Ursell"
-tags: ["cookies", "vintage", "carrot", "dessert", "glazed"]
+tags: ["cookies", "123", "carrot", "dessert", "glazed"]
 description: "A delightful vintage cookie recipe featuring soft, cooked carrots and a bright, zesty orange icing. These tender treats are perfect for those seeking a unique, nostalgic dessert experience."
 date: "2026-07-30"
 draft: false

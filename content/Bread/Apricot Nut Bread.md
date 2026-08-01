@@ -3,7 +3,7 @@ title: "Apricot Nut Bread"
 category: "Bread"
 collection: "GC"
 source: "Unknown"
-tags: ["quick bread", "apricots", "nuts", "orange", "vintage", "baking"]
+tags: ["quick bread", "apricots", "nuts", "orange", "123", "baking"]
 description: "A classic quick bread featuring soaked dried apricots and chopped nuts in a tender, orange-kissed crumb. Enjoy this moist loaf warm or cold with a spread of butter."
 date: "2026-07-30"
 draft: false

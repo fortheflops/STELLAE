@@ -3,7 +3,7 @@ title: "Mrs. Hayes' Spiced Prune Cake"
 category: "Desserts"
 collection: "PatsyCollection"
 source: "Mrs. Hayes"
-tags: ["cake", "vintage", "spiced", "dessert", "fruitcake", "prune"]
+tags: ["cake", "123", "spiced", "dessert", "fruitcake", "prune"]
 description: "A wonderfully rich and moist spiced cake packed with cooked prunes, flavored with hot coffee, mace, and cinnamon, and lightened with beaten egg whites."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: Ranch Cheese Ball
 category: Appetizers
 collection: Louise's Collection
 source: Unknown
-tags: [appetizers, cheese-ball, ranch, walnuts, make-ahead, vintage]
+tags: [appetizers, cheese-ball, ranch, walnuts, make-ahead, 123]
 description: An easy and flavorful cheese ball featuring the classic taste of ranch dressing blended with cream cheese and chives. Coated in crunchy walnuts or fresh parsley, it's a simple yet delicious appetizer for any occasion.
 date: 2026-07-28
 draft: false

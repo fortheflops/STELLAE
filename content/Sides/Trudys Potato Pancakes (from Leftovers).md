@@ -3,7 +3,7 @@ title: "Trudy's Potato Pancakes (from Leftovers)"
 category: "Sides"
 collection: "LOC"
 source: "Trudy"
-tags: ["louisecollection", "potatoes", "pancakes", "leftovers", "vintage", "breakfast", "sidedish"]
+tags: ["louisecollection", "potatoes", "pancakes", "leftovers", "123", "breakfast", "sidedish"]
 description: "A clever and delicious recipe from Trudy for turning leftover mashed potatoes into savory pancakes. Enriched with an egg yolk and a hint of nutmeg, they're fried in butter until golden and crisp."
 date: "2026-07-30"
 draft: false

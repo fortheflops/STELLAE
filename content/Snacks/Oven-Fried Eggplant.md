@@ -3,7 +3,7 @@ title: "Oven-Fried Eggplant"
 category: "Snacks"
 collection: "Unknown Two"
 source: "Unknown"
-tags: ["eggplant", "snack", "side dish", "baked", "vintage", "vegetable"]
+tags: ["eggplant", "snack", "side dish", "baked", "123", "vegetable"]
 description: "Crispy oven-fried eggplant slices coated in a savory mixture of crushed soda crackers and Parmesan cheese bound with mayonnaise. Baked at high heat until golden and tender for a quick, flavorful snack or side dish."
 date: "2026-07-30"
 draft: false

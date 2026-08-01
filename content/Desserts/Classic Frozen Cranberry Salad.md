@@ -3,7 +3,7 @@ title: "Classic Frozen Cranberry Salad"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "frozen", "cranberry", "holiday", "vintage", "fruit"]
+tags: ["dessert", "frozen", "cranberry", "holiday", "123", "fruit"]
 description: "A nostalgic and festive frozen cranberry salad, combining whole berry cranberry sauce, pineapple, marshmallows, bananas, and pecans with whipped cream. This classic fruit salad is perfect for holiday gatherings and offers a delightful balance of tart and sweet flavors."
 date: "2026-07-30"
 draft: false

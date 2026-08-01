@@ -3,7 +3,7 @@ title: "Surprise 7 Minute Pudding"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["pudding", "steamed", "vintage", "british", "holiday", "dessert"]
+tags: ["pudding", "steamed", "123", "british", "holiday", "dessert"]
 description: "A traditional, rich steamed pudding featuring a surprise blend of grated carrots, candied fruits, and pecans. Despite the quick assembly time, this classic dessert is steamed for four hours to achieve a moist, flavorful texture."
 date: "2026-07-30"
 draft: false

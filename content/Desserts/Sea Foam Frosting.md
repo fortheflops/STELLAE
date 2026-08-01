@@ -3,7 +3,7 @@ title: "Sea Foam Frosting"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["frosting", "vintage", "meringue", "brownsugar", "boiledicing"]
+tags: ["frosting", "123", "meringue", "brownsugar", "boiledicing"]
 description: "A classic boiled icing featuring a delicate caramel flavor derived from brown sugar. This light, fluffy meringue frosting is created by whipping a hot sugar syrup into stiffly beaten egg whites."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Simple Buttered New Potatoes And Onions"
 category: "Sides"
 collection: "UK3"
 source: "Unknown"
-tags: ["potatoes", "side dish", "vintage", "simple", "vegetable"]
+tags: ["potatoes", "side dish", "123", "simple", "vegetable"]
 description: "A classic vintage side dish featuring tender new potatoes cooked with onions and tossed in rich butter. Perfectly seasoned with salt and pepper for a comforting addition to any meal."
 date: "2026-07-30"
 draft: false

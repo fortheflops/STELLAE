@@ -3,7 +3,7 @@ title: "Classic Chocolate Rum Pots de Cr\u00e8me"
 category: "Desserts"
 collection: "LOC"
 source: "Unknown"
-tags: ["chocolate", "custard", "french", "rum", "dessert", "vintage"]
+tags: ["chocolate", "custard", "french", "rum", "dessert", "123"]
 description: "A rich and elegant baked chocolate custard infused with a hint of rum. This sophisticated dessert is baked in a water bath for a perfectly smooth and decadent texture."
 date: "2026-07-30"
 draft: false

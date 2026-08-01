@@ -3,7 +3,7 @@ title: "Classic Butter Cookies"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "butter", "vintage", "baking", "dessert"]
+tags: ["cookies", "butter", "123", "baking", "dessert"]
 description: "A classic butter cookie recipe using cake flour for an extra tender, melt-in-your-mouth texture. This versatile dough is perfect for a cookie press or as a roll-out cookie."
 date: "2026-07-30"
 draft: false

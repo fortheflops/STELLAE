@@ -3,7 +3,7 @@ title: "Misty Chili with Sweet Potatoes"
 category: "Sides"
 collection: "UK15"
 source: "Moonlite"
-tags: ["sweetpotatoes", "casserole", "vintage", "marshmallows", "side", "comfortfood"]
+tags: ["sweetpotatoes", "casserole", "123", "marshmallows", "side", "comfortfood"]
 description: "A comforting vintage casserole featuring tender sweet potatoes baked in a sweet vanilla butter glaze and topped with toasted marshmallows. This classic side dish offers a delightful balance of rich and sweet flavors."
 date: "2026-07-30"
 draft: false

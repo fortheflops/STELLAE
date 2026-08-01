@@ -3,7 +3,7 @@ title: 7-Layer Dip
 category: Appetizers
 collection: Gail Collection
 source: Unknown
-tags: [vintage, dip, tex-mex, party-food, make-ahead, no-cook]
+tags: [123, dip, tex-mex, party-food, make-ahead, no-cook]
 description: A classic and crowd-pleasing party appetizer featuring seven distinct layers of flavor and texture, from creamy refried beans and guacamole to zesty salsa and cheese. Perfect for any gathering and served chilled with tortilla chips.
 date: 2026-07-24
 draft: false

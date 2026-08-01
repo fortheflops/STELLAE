@@ -3,7 +3,7 @@ title: "Classic Italian Cream Cake"
 category: "Desserts"
 collection: "UK5"
 source: "Unknown"
-tags: ["cake", "dessert", "coconut", "walnuts", "southern", "vintage"]
+tags: ["cake", "dessert", "coconut", "walnuts", "southern", "123"]
 description: "A classic Southern-style layer cake with a buttermilk batter full of coconut and walnuts, finished with a rich cream cheese frosting."
 date: "2026-07-30"
 draft: false

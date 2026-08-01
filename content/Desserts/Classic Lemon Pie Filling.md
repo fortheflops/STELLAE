@@ -3,7 +3,7 @@ title: "Classic Lemon Pie Filling"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["dessert", "lemon", "filling", "pie", "stovetop", "vintage"]
+tags: ["dessert", "lemon", "filling", "pie", "stovetop", "123"]
 description: "A bright and tangy from-scratch lemon filling perfect for pies, tarts, or cake layers. This smooth, cooked curd offers a classic citrus flavor profile."
 date: "2026-07-30"
 draft: false

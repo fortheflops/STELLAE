@@ -3,7 +3,7 @@ title: "Watermelon Rind Pickles"
 category: "Preserves"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["preserves", "pickles", "watermelon", "vintage", "canning"]
+tags: ["preserves", "pickles", "watermelon", "123", "canning"]
 description: "Traditional Southern-style pickled watermelon rinds spiced with cloves and cinnamon. These sweet and tangy preserves are a delightful way to reduce kitchen waste."
 date: "2026-07-30"
 draft: false

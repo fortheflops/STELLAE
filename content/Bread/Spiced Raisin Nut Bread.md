@@ -3,7 +3,7 @@ title: "Spiced Raisin Nut Bread"
 category: "Bread"
 collection: "UK15"
 source: "Unknown"
-tags: ["bread", "quickbread", "raisin", "nuts", "spice", "vintage"]
+tags: ["bread", "quickbread", "raisin", "nuts", "spice", "123"]
 description: "A wonderfully moist quick bread made with both brown and white sugar for a rich flavor, loaded with stewed raisins and chopped nuts. Although written on a recipe card titled 'Zucchini Bread', this delightful loaf focuses purely on sweet spices and fruit."
 date: "2026-07-30"
 draft: false

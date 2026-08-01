@@ -3,7 +3,7 @@ title: "Classic Savory Molded Chicken Salad"
 category: "Salads"
 collection: "General Archive"
 source: "Unknown"
-tags: ["salads", "vintage", "chicken", "luncheon", "molded"]
+tags: ["salads", "123", "chicken", "luncheon", "molded"]
 description: "A classic molded salad recipe perfect for a luncheon, featuring diced cooked chicken, celery, olives, and water chestnuts suspended in a savory gelatin and mayonnaise base."
 date: "2026-07-30"
 draft: false

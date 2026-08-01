@@ -3,7 +3,7 @@ title: "Layered Strawberry, Pineapple, and Banana Jello Salad"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "jello", "salad", "vintage", "strawberry", "banana", "pineapple"]
+tags: ["dessert", "jello", "salad", "123", "strawberry", "banana", "pineapple"]
 description: "A classic layered Jello salad featuring a tangy sour cream center sandwiched between layers of strawberry Jello packed with strawberries, pineapple, and bananas."
 date: "2026-07-30"
 draft: false

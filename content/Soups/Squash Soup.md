@@ -1,13 +1,17 @@
 ---
-title: "Squash Soup"
-category: "Soups"
-collection: "Jill Collection"
-source: "Chef Yves Morrissette"
-tags: ["soups", "squash", "jillcollection", "vintage", "comfortfood"]
-description: "A velvety, spiced squash soup from Chef Yves Morrissette of Vermont's Inn on the Common. This comforting autumn classic features acorn squash, potato, fresh ginger, and a warm touch of curry and cinnamon."
-date: "2026-07-30"
+title: Squash Soup
+category: Soups
+collection: Jill Collection
+source: Chef Yves Morrissette
+tags:
+  - soups
+  - squash
+  - jillcollection
+  - comfortfood
+description: A velvety, spiced squash soup from Chef Yves Morrissette of Vermont's Inn on the Common. This comforting autumn classic features acorn squash, potato, fresh ginger, and a warm touch of curry and cinnamon.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org\", \"@type\": \"Recipe\", \"name\": \"Squash Soup\", \"author\": {\"@type\": \"Person\", \"name\": \"Chef Yves Morrissette\"}, \"description\": \"A velvety, spiced squash soup from Chef Yves Morrissette of Vermont's Inn on the Common. This comforting autumn classic features acorn squash, potato, fresh ginger, and a warm touch of curry and cinnamon.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT40M\", \"recipeCategory\": \"Soup\", \"recipeYield\": \"6-8 servings\", \"recipeIngredient\": [\"2 tablespoons Butter\", \"1 medium Onion, chopped\", \"1 tablespoon Fresh Ginger, minced or grated\", \"1 large Potato, peeled and quartered\", \"2 pounds Acorn Squash, peeled and chopped\", \"1 teaspoon Curry Powder\", \"1 teaspoon Cinnamon\", \"10 cups Chicken Broth\", \"Salt and Pepper to taste\", \"Oil or Butter for saut\u00e9ing\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a large pot or Dutch oven, heat the oil or butter over medium heat.\"}, {\"@type\": \"HowToStep\", \"text\": \"Saut\u00e9 the chopped onion and fresh ginger until the onion is soft, about 10 minutes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the potato, curry powder, cinnamon, acorn squash, and chicken broth to the pot.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bring the mixture to a boil. Reduce the heat to low, cover, and simmer for about 30 minutes, or until all the vegetables are very tender.\"}, {\"@type\": \"HowToStep\", \"text\": \"Carefully puree the soup in a blender in batches, or use an immersion blender directly in the pot until smooth.\"}, {\"@type\": \"HowToStep\", \"text\": \"Taste and adjust seasonings with salt and pepper as needed.\"}]}"
+recipe: "{\"@context\": \"https://schema.org\", \"@type\": \"Recipe\", \"name\": \"Squash Soup\", \"author\": {\"@type\": \"Person\", \"name\": \"Chef Yves Morrissette\"}, \"description\": \"A velvety, spiced squash soup from Chef Yves Morrissette of Vermont's Inn on the Common. This comforting autumn classic features acorn squash, potato, fresh ginger, and a warm touch of curry and cinnamon.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT40M\", \"recipeCategory\": \"Soup\", \"recipeYield\": \"6-8 servings\", \"recipeIngredient\": [\"2 tablespoons Butter\", \"1 medium Onion, chopped\", \"1 tablespoon Fresh Ginger, minced or grated\", \"1 large Potato, peeled and quartered\", \"2 pounds Acorn Squash, peeled and chopped\", \"1 teaspoon Curry Powder\", \"1 teaspoon Cinnamon\", \"10 cups Chicken Broth\", \"Salt and Pepper to taste\", \"Oil or Butter for sautéing\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a large pot or Dutch oven, heat the oil or butter over medium heat.\"}, {\"@type\": \"HowToStep\", \"text\": \"Sauté the chopped onion and fresh ginger until the onion is soft, about 10 minutes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the potato, curry powder, cinnamon, acorn squash, and chicken broth to the pot.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bring the mixture to a boil. Reduce the heat to low, cover, and simmer for about 30 minutes, or until all the vegetables are very tender.\"}, {\"@type\": \"HowToStep\", \"text\": \"Carefully puree the soup in a blender in batches, or use an immersion blender directly in the pot until smooth.\"}, {\"@type\": \"HowToStep\", \"text\": \"Taste and adjust seasonings with salt and pepper as needed.\"}]}"
 ---
 
 # Squash Soup

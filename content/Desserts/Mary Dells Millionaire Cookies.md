@@ -3,7 +3,7 @@ title: "Mary Dell's Millionaire Cookies"
 category: "Desserts"
 collection: "UK2"
 source: "Mary Dell"
-tags: ["cookies", "vintage", "fruitcake", "holiday", "largebatch"]
+tags: ["cookies", "123", "fruitcake", "holiday", "largebatch"]
 description: "A classic, large-batch recipe for rich, dense, fruitcake-style drop cookies loaded with pecans, cherries, raisins, and a hint of whiskey. These spiced cookies are perfect for holiday gifting and large gatherings."
 date: "2026-07-30"
 draft: false

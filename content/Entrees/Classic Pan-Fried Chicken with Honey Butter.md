@@ -3,7 +3,7 @@ title: "Classic Pan-Fried Chicken with Honey Butter"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["gailcollection", "chicken", "friedchicken", "comfortfood", "dinner", "vintage"]
+tags: ["gailcollection", "chicken", "friedchicken", "comfortfood", "dinner", "123"]
 description: "A classic, crispy, pan-fried chicken recipe from the Gail Collection served with a delicious homemade honey-butter sauce."
 date: "2026-07-30"
 draft: false

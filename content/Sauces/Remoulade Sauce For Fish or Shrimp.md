@@ -3,7 +3,7 @@ title: "Remoulade Sauce For Fish or Shrimp"
 category: "Sauces"
 collection: "The Loraine Collection"
 source: "Unknown"
-tags: ["remoulade", "sauce", "seafood", "condiment", "vintage"]
+tags: ["remoulade", "sauce", "seafood", "condiment", "123"]
 description: "A classic, zesty remoulade sauce featuring a blend of horseradish, tarragon vinegar, and fresh aromatics. Perfect for elevating fried fish or chilled shrimp dishes."
 date: "2026-07-30"
 draft: false

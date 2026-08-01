@@ -3,7 +3,7 @@ title: "Old-Fashioned Molasses Toffee"
 category: "Desserts"
 collection: "John B Collection"
 source: "Unknown"
-tags: ["desserts", "candy", "toffee", "molasses", "vintage", "johnbcollection"]
+tags: ["desserts", "candy", "toffee", "molasses", "123", "johnbcollection"]
 description: "A classic, hard-crack toffee made with powdered sugar, butter, and molasses. Baking soda is added at the end for a light, brittle texture, and it's finished with chopped nuts."
 date: "2026-07-30"
 draft: false

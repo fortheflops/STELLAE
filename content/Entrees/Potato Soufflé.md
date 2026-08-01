@@ -3,7 +3,7 @@ title: "Potato Souffl\u00e9"
 category: "Entrees"
 collection: "Jill Collection"
 source: "Delores Foley"
-tags: ["souffle", "potatoes", "comfortfood", "baked", "vintage"]
+tags: ["souffle", "potatoes", "comfortfood", "baked", "123"]
 description: "A creamy and fluffy mashed potato souffl\u00e9 enriched with cream cheese and eggs, then baked with a crispy fried onion topping until heated through."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Jeanie's Crispy Bisquick-Baked Chicken"
 category: "Entrees"
 collection: "GailCollection"
 source: "Jeanie"
-tags: ["chicken", "entree", "ovenfried", "bisquick", "comfortfood", "vintage"]
+tags: ["chicken", "entree", "ovenfried", "bisquick", "comfortfood", "123"]
 description: "A classic oven-fried chicken recipe from Jeanie featuring cut-up chicken seasoned with herbs, coated in Bisquick, and baked in a rich margarine and oil mixture until crispy and golden brown."
 date: "2026-07-30"
 draft: false

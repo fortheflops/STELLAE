@@ -3,7 +3,7 @@ title: "Miriam Fox's Broccoli Casserole"
 category: "Sides"
 collection: "GailCollection"
 source: "Miriam Fox"
-tags: ["sidedish", "casserole", "comfortfood", "vegetable", "vintage"]
+tags: ["sidedish", "casserole", "comfortfood", "vegetable", "123"]
 description: "A classic and comforting broccoli casserole featuring a rich, homemade Cheez Whiz sauce and a crunchy cracker crumb topping. The beaten eggs give it a light, souffl\u00e9-like texture."
 date: "2026-07-30"
 draft: false

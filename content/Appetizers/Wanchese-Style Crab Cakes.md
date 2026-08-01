@@ -3,7 +3,7 @@ title: Wanchese-Style Crab Cakes
 category: Appetizers
 collection: General Archive
 source: Unknown
-tags: [vintage, crab, seafood, appetizers, fried]
+tags: [123, crab, seafood, appetizers, fried]
 description: Classic pan-fried crab cakes with a cracker crumb binder and a zesty seasoning blend of mustard, Worcestershire, and hot sauce. Fried to a perfect golden brown and crispy texture.
 date: 2026-07-24
 draft: false

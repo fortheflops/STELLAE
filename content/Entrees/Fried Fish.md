@@ -3,7 +3,7 @@ title: "Fried Fish"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["entree", "fish", "fried", "seafood", "vintage"]
+tags: ["entree", "fish", "fried", "seafood", "123"]
 description: "Enjoy a classic, crispy fried fish fillet coated in seasoned flour and pan-fried to golden perfection. This quick and simple recipe delivers a delightful crunch and tender, flaky seafood in minutes."
 date: "2026-07-30"
 draft: false

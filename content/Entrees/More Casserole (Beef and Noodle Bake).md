@@ -3,7 +3,7 @@ title: "More Casserole (Beef and Noodle Bake)"
 category: "Entrees"
 collection: "UK15"
 source: "Unknown"
-tags: ["casserole", "beef", "noodles", "comfortfood", "vintage", "baked"]
+tags: ["casserole", "beef", "noodles", "comfortfood", "123", "baked"]
 description: "A hearty, all-in-one casserole packed with ground beef, noodles, peas, and corn in a zesty, chili-powder-seasoned tomato sauce, topped with melted cheddar cheese."
 date: "2026-07-30"
 draft: false

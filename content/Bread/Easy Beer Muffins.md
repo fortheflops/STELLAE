@@ -3,7 +3,7 @@ title: "Easy Beer Muffins"
 category: "Bread"
 collection: "UK2"
 source: "Unknown"
-tags: ["bread", "muffins", "savory", "quick", "3-ingredient", "vintage"]
+tags: ["bread", "muffins", "savory", "quick", "3-ingredient", "123"]
 description: "A remarkably simple and savory three-ingredient muffin recipe featuring Bisquick and beer. These quick and easy muffins bake up golden brown with a delightful texture."
 date: "2026-07-30"
 draft: false

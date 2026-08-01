@@ -3,7 +3,7 @@ title: "Foolproof Southern-Style Spoon Bread"
 category: "Bread"
 collection: "General Archive"
 source: "Unknown"
-tags: ["bread", "cornbread", "spoonbread", "southern", "vintage", "quick"]
+tags: ["bread", "cornbread", "spoonbread", "southern", "123", "quick"]
 description: "A foolproof and quick recipe for a classic, moist, and savory cornmeal spoon bread. Cooked first on the stovetop to thicken and then baked to golden perfection."
 date: "2026-07-30"
 draft: false

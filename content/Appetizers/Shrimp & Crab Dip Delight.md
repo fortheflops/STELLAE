@@ -3,7 +3,7 @@ title: "Shrimp & Crab Dip Delight"
 category: "Appetizers"
 collection: "UK15"
 source: "Unknown"
-tags: ["appetizer", "seafood", "dip", "partyfood", "vintage"]
+tags: ["appetizer", "seafood", "dip", "partyfood", "123"]
 description: "A classic, creamy seafood dip featuring a savory blend of shrimp, crab, and onion soup mix. Perfect for gatherings and easily prepared ahead of time."
 date: "2026-07-30"
 draft: false

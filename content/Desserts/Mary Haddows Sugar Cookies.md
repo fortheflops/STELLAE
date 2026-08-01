@@ -3,7 +3,7 @@ title: "Mary Haddow's Sugar Cookies"
 category: "Desserts"
 collection: "UK15"
 source: "Mary Haddow"
-tags: ["cookies", "vintage", "sugarcookies", "largebatch", "cinnamon"]
+tags: ["cookies", "123", "sugarcookies", "largebatch", "cinnamon"]
 description: "A classic, large-batch sugar cookie recipe featuring a unique blend of butter and oil for a soft, tender crumb. These cookies are finished with a signature cinnamon-sugar press for a delightful crunch."
 date: "2026-07-30"
 draft: false

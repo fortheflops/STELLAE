@@ -3,7 +3,7 @@ title: "Mexican Wedding Cakes"
 category: "Desserts"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["cookies", "shortbread", "mexican", "vintage", "nutty", "holiday"]
+tags: ["cookies", "shortbread", "mexican", "123", "nutty", "holiday"]
 description: "A classic, buttery, and nutty shortbread cookie, rolled twice in powdered sugar for a melt-in-your-mouth finish. Also known as Russian Tea Cakes or Snowballs."
 date: "2026-07-30"
 draft: false

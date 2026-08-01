@@ -3,7 +3,7 @@ title: "Mary Agnes's Savory Cheese & Bread Bake"
 category: "Entrees"
 collection: "General Archive"
 source: "Mary Agnes"
-tags: ["casserole", "strata", "brunch", "cheese", "bread", "baked", "vintage"]
+tags: ["casserole", "strata", "brunch", "cheese", "bread", "baked", "123"]
 description: "A classic savory bread and cheese casserole, also known as a strata, featuring layers of buttered bread and grated cheese baked in a rich seasoned custard. This comforting dish makes a wonderful centerpiece for brunch or a hearty side."
 date: "2026-07-30"
 draft: false

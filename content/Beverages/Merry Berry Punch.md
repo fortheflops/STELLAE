@@ -3,7 +3,7 @@ title: "Merry Berry Punch"
 category: "Beverages"
 collection: "UK3"
 source: "Unknown"
-tags: ["beverage", "punch", "party", "cranberry", "lemonade", "refreshing", "vintage"]
+tags: ["beverage", "punch", "party", "cranberry", "lemonade", "refreshing", "123"]
 description: "A festive and fizzy party punch combining cranberry juice, lemonade, and a splash of grenadine, brought to life with bubbly raspberry soda."
 date: "2026-07-30"
 draft: false

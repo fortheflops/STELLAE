@@ -3,7 +3,7 @@ title: "Sara'S Date Nut Loaf"
 category: "Bread"
 collection: "UK15"
 source: "Sara"
-tags: ["bread", "quick bread", "dates", "nuts", "vintage", "baked"]
+tags: ["bread", "quick bread", "dates", "nuts", "123", "baked"]
 description: "A classic, incredibly moist date nut quick bread made by soaking dates in boiling water and baking soda. Perfect for serving sliced with butter or cream cheese."
 date: "2026-07-30"
 draft: false

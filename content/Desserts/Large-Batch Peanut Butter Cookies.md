@@ -3,7 +3,7 @@ title: "Large-Batch Peanut Butter Cookies"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["cookies", "peanutbutter", "vintage", "largebatch", "dessert"]
+tags: ["cookies", "peanutbutter", "123", "largebatch", "dessert"]
 description: "A classic, large-batch recipe for soft and chewy peanut butter cookies. This simple, old-fashioned dough is easy to make and creates dozens of cookies perfect for any occasion."
 date: "2026-07-30"
 draft: false

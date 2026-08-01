@@ -5,7 +5,7 @@ collection: JC
 source: Aunt Jean
 tags:
   - jillcollection
-  - vintage
+  - 123
   - kugel
   - noodlepudding
   - comfortfood

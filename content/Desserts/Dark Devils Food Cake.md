@@ -3,7 +3,7 @@ title: "Dark Devil's Food Cake"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "cake", "chocolate", "devilsfood", "baking", "vintage", "gailcollection"]
+tags: ["dessert", "cake", "chocolate", "devilsfood", "baking", "123", "gailcollection"]
 description: "A classic, rich Devil's Food Cake made with cocoa and shortening, using a two-stage mixing method for a fine, moist crumb."
 date: "2026-07-30"
 draft: false

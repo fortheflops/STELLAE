@@ -3,7 +3,7 @@ title: "Quick Quiche with Ham and Swiss"
 category: "Entrees"
 collection: "General Archive"
 source: "Unknown"
-tags: ["quiche", "brunch", "entree", "cheese", "ham", "french", "vintage"]
+tags: ["quiche", "brunch", "entree", "cheese", "ham", "french", "123"]
 description: "A classic and quick quiche featuring diced ham and Swiss cheese in a rich, simple custard of heavy cream and eggs. Perfect for a cozy brunch or light dinner."
 date: "2026-07-30"
 draft: false

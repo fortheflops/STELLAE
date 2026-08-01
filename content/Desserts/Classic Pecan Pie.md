@@ -3,7 +3,7 @@ title: "Classic Pecan Pie"
 category: "Desserts"
 collection: "GailCollection"
 source: "Unknown"
-tags: ["pecanpie", "dessert", "holiday", "baking", "sweet", "vintage"]
+tags: ["pecanpie", "dessert", "holiday", "baking", "sweet", "123"]
 description: "A timeless, classic pecan pie featuring a sweet and gooey corn syrup custard loaded with pecans, all baked in a flaky pie crust. This quintessential holiday favorite sets into a rich and indulgent dessert."
 date: "2026-07-30"
 draft: false

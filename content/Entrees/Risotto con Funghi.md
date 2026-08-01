@@ -3,7 +3,7 @@ title: "Risotto con Funghi"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Rick & Joy Gay"
-tags: ["risotto", "mushrooms", "italian", "entree", "vintage", "dinner"]
+tags: ["risotto", "mushrooms", "italian", "entree", "123", "dinner"]
 description: "A classic Italian comfort dish featuring creamy Arborio rice simmered with earthy mushrooms and savory beef stock. Finished with rich margarine and generous amounts of grated Parmesan cheese."
 date: "2026-07-30"
 draft: false

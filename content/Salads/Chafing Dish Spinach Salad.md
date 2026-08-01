@@ -3,7 +3,7 @@ title: "Chafing Dish Spinach Salad"
 category: "Salads"
 collection: "UK2"
 source: "Unknown"
-tags: ["salad", "spinach", "vintage", "appetizer"]
+tags: ["salad", "spinach", "123", "appetizer"]
 description: "A warm and vibrant chafing dish spinach salad tossed with crispy bacon, green onions, and a tangy dressing. Perfectly wilted to tender perfection right at the table."
 date: "2026-07-30"
 draft: false

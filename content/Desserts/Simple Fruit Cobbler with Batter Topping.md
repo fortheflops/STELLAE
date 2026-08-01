@@ -3,7 +3,7 @@ title: "Simple Fruit Cobbler with Batter Topping"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["cobbler", "fruit", "dessert", "vintage", "easy"]
+tags: ["cobbler", "fruit", "dessert", "123", "easy"]
 description: "A classic batter-style cobbler featuring a warm, syrupy fruit base topped with a soft, golden-brown crust. This simple recipe uses pantry staples for a quick and comforting homemade dessert."
 date: "2026-07-30"
 draft: false

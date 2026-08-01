@@ -3,7 +3,7 @@ title: "Classic Boiled Vanilla Frosting"
 category: "Sauces"
 collection: "General Archive"
 source: "Unknown"
-tags: ["frosting", "vintage", "meringue", "desserttopping", "classic"]
+tags: ["frosting", "123", "meringue", "desserttopping", "classic"]
 description: "A light, fluffy, and glossy meringue-style boiled icing perfect for layering cakes. This classic seven-minute frosting is achieved by whipping hot sugar syrup into stiff egg whites."
 date: "2026-07-30"
 draft: false

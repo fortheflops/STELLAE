@@ -1,13 +1,17 @@
 ---
-title: "Jailhouse Chili"
-category: "Soups"
-collection: "UK15"
-source: "Unknown"
-tags: ["chili", "beef", "vintage", "soup", "spicy"]
-description: "A hearty and flavorful vintage chili recipe featuring tender diced beef and a rich blend of spices. Simmered to perfection and thickened with a classic cornmeal paste."
-date: "2026-07-30"
+title: Jailhouse Chili
+category: Soups
+collection: UK15
+source: Unknown
+tags:
+  - chili
+  - beef
+  - soup
+  - spicy
+description: A hearty and flavorful vintage chili recipe featuring tender diced beef and a rich blend of spices. Simmered to perfection and thickened with a classic cornmeal paste.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Jailhouse Chili\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025\",\"description\":\"A hearty and flavorful vintage chili recipe featuring tender diced beef and a rich blend of spices. Simmered to perfection and thickened with a classic cornmeal paste.\",\"prepTime\":\"PT20M\",\"cookTime\":\"PT2H\",\"keywords\":\"chili, beef, vintage, soup, spicy\",\"recipeCategory\":\"Soups\",\"recipeCuisine\":\"American\",\"recipeYield\":\"6\u20138 Servings\",\"recipeIngredient\":[\"3 pounds Diced Lean Beef\",\"1/4 cup Wesson Oil\",\"1 quart Water\",\"8 Chili Pods or 6 tbsp Chili Powder\",\"3 teaspoons Salt\",\"5 cloves Garlic, finely chopped\",\"1 teaspoon Ground Cumin\",\"1 teaspoon Marjoram\",\"1 teaspoon Red Pepper\",\"1 tablespoon White Sugar\",\"3 tablespoons Paprika\",\"3 tablespoons Flour\",\"6 tablespoons White Corn Meal\",\"1 cup Water\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In a large pot, heat the 1/4 cup Wesson Oil over high heat.\"},{\"@type\":\"HowToStep\",\"text\":\"Add the 3 pounds diced lean Beef and sear, stirring constantly, until the meat is gray but not yet browned.\"},{\"@type\":\"HowToStep\",\"text\":\"Add 1 quart water, cover the pot, and cook over low heat for 1.5 to 2 hours until the meat is tender and flavorful.\"},{\"@type\":\"HowToStep\",\"text\":\"Add all the remaining seasoning ingredients including 8 chili pods (or 6 tbsp chili powder), 3 teaspoons salt, 5 cloves garlic, 1 teaspoon ground cumin, 1 teaspoon marjoram, 1 teaspoon red pepper, 1 tablespoon white sugar, and 3 tablespoons paprika.\"},{\"@type\":\"HowToStep\",\"text\":\"If the meat is particularly fatty, skim the excess fat from the chili before proceeding.\"},{\"@type\":\"HowToStep\",\"text\":\"In a separate bowl, prepare the thickener by whisking the 3 tablespoons flour, 6 tablespoons white corn meal, and 1 cup water together until completely smooth.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir the thickening mixture into the chili.\"},{\"@type\":\"HowToStep\",\"text\":\"Cook for 5 more minutes, stirring as needed to prevent sticking until slightly thickened and bubbling.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Jailhouse Chili","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025","description":"A hearty and flavorful vintage chili recipe featuring tender diced beef and a rich blend of spices. Simmered to perfection and thickened with a classic cornmeal paste.","prepTime":"PT20M","cookTime":"PT2H","keywords":"chili, beef, vintage, soup, spicy","recipeCategory":"Soups","recipeCuisine":"American","recipeYield":"6–8 Servings","recipeIngredient":["3 pounds Diced Lean Beef","1/4 cup Wesson Oil","1 quart Water","8 Chili Pods or 6 tbsp Chili Powder","3 teaspoons Salt","5 cloves Garlic, finely chopped","1 teaspoon Ground Cumin","1 teaspoon Marjoram","1 teaspoon Red Pepper","1 tablespoon White Sugar","3 tablespoons Paprika","3 tablespoons Flour","6 tablespoons White Corn Meal","1 cup Water"],"recipeInstructions":[{"@type":"HowToStep","text":"In a large pot, heat the 1/4 cup Wesson Oil over high heat."},{"@type":"HowToStep","text":"Add the 3 pounds diced lean Beef and sear, stirring constantly, until the meat is gray but not yet browned."},{"@type":"HowToStep","text":"Add 1 quart water, cover the pot, and cook over low heat for 1.5 to 2 hours until the meat is tender and flavorful."},{"@type":"HowToStep","text":"Add all the remaining seasoning ingredients including 8 chili pods (or 6 tbsp chili powder), 3 teaspoons salt, 5 cloves garlic, 1 teaspoon ground cumin, 1 teaspoon marjoram, 1 teaspoon red pepper, 1 tablespoon white sugar, and 3 tablespoons paprika."},{"@type":"HowToStep","text":"If the meat is particularly fatty, skim the excess fat from the chili before proceeding."},{"@type":"HowToStep","text":"In a separate bowl, prepare the thickener by whisking the 3 tablespoons flour, 6 tablespoons white corn meal, and 1 cup water together until completely smooth."},{"@type":"HowToStep","text":"Stir the thickening mixture into the chili."},{"@type":"HowToStep","text":"Cook for 5 more minutes, stirring as needed to prevent sticking until slightly thickened and bubbling."}]}'
 ---
 
 # Jailhouse Chili

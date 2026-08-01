@@ -3,7 +3,7 @@ title: "Flaky Vinegar and Egg Pie Crust"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["pie", "crust", "pastry", "baking", "vintage", "dessert"]
+tags: ["pie", "crust", "pastry", "baking", "123", "dessert"]
 description: "Discover a classic, large-batch recipe for a tender and flaky pie crust enhanced with vinegar and egg. This all-shortening dough rolls out easily and freezes beautifully for your favorite baked treats."
 date: "2026-07-30"
 draft: false

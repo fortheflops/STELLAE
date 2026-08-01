@@ -3,7 +3,7 @@ title: "Lobster Cantonese"
 category: "Entrees"
 collection: "GC"
 source: "May Belle"
-tags: ["seafood", "lobster", "cantonese", "stirfry", "vintage", "gailcollection"]
+tags: ["seafood", "lobster", "cantonese", "stirfry", "123", "gailcollection"]
 description: "A classic, savory recipe for Lobster Cantonese featuring tender lobster pieces stir-fried with pork, garlic, and a rich egg-thickened gravy. Perfect for a special seafood dinner at home."
 date: "2026-07-30"
 draft: false

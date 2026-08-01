@@ -3,7 +3,7 @@ title: "Baked Veal"
 category: "Entrees"
 collection: "UK2"
 source: "Unknown"
-tags: ["veal", "baked", "entree", "vintage", "maindish"]
+tags: ["veal", "baked", "entree", "123", "maindish"]
 description: "Discover a vintage recipe for Baked Veal marinated in wine vinegar, roasted with thick-sliced onions and tomatoes, and simmered to tenderness. This classic dish offers a deeply savory flavor profile perfect for a comforting family dinner."
 date: "2026-07-30"
 draft: false

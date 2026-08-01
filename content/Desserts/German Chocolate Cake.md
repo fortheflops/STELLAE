@@ -3,7 +3,7 @@ title: "German Chocolate Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["cake", "chocolate", "dessert", "baking", "vintage"]
+tags: ["cake", "chocolate", "dessert", "baking", "123"]
 description: "A classic layered German Chocolate Cake featuring a tender buttermilk-chocolate crumb and a rich, cooked coconut-pecan filling. This vintage masterpiece is a guaranteed crowd-pleaser for any special occasion."
 date: "2026-07-30"
 draft: false

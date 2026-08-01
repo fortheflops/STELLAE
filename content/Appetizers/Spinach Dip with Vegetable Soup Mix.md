@@ -3,7 +3,7 @@ title: "Spinach Dip with Vegetable Soup Mix"
 category: "Appetizers"
 collection: "UK3"
 source: "Susan"
-tags: ["spinach", "dip", "partyfood", "vintage", "appetizer"]
+tags: ["spinach", "dip", "partyfood", "123", "appetizer"]
 description: "A classic, creamy spinach dip featuring a savory vegetable soup mix base served in a hollowed-out bread bowl. This crowd-pleasing appetizer is perfect for gatherings and easy to prepare ahead of time."
 date: "2026-07-30"
 draft: false

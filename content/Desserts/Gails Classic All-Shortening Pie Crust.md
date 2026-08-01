@@ -3,7 +3,7 @@ title: "Gail's Classic All-Shortening Pie Crust"
 category: "Desserts"
 collection: "GC"
 source: "Gail"
-tags: ["gailcollection", "piecrust", "dessert", "baking", "vintage", "pastry"]
+tags: ["gailcollection", "piecrust", "dessert", "baking", "123", "pastry"]
 description: "Discover Gail's classic all-shortening pie crust recipe, designed for achieving an exceptionally flaky texture in any sweet or savory pie. This simple preparation uses chilled ingredients for optimal pastry results."
 date: "2026-07-30"
 draft: false

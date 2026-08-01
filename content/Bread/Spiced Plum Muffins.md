@@ -3,7 +3,7 @@ title: "Spiced Plum Muffins"
 category: "Bread"
 collection: "UK15"
 source: "Unknown"
-tags: ["muffins", "breakfast", "baking", "plum", "spiced", "vintage"]
+tags: ["muffins", "breakfast", "baking", "plum", "spiced", "123"]
 description: "Moist and fragrant spiced muffins packed with warm spices, sweet purple plums, and crunchy pecans. Perfect for a cozy morning breakfast or afternoon treat."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Fruit Compote"
 category: "Sauces"
 collection: "UK3"
 source: "Unknown"
-tags: ["compote", "fruit", "vintage", "dessert", "sauce"]
+tags: ["compote", "fruit", "123", "dessert", "sauce"]
 description: "A rich and elegant fruit compote featuring a blend of dried fruits and cherries. This versatile dish is perfect served warm over ice cream or as a sophisticated dessert topping."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Pistachio Pineapple Delight"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "salad", "pistachio", "pineapple", "nobake", "potluck", "vintage"]
+tags: ["dessert", "salad", "pistachio", "pineapple", "nobake", "potluck", "123"]
 description: "A classic, super-easy recipe for a fluffy dessert salad. This no-bake potluck staple combines pistachio pudding, pineapple, marshmallows, and nuts in a creamy Cool Whip base."
 date: "2026-07-30"
 draft: false

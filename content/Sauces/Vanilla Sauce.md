@@ -3,7 +3,7 @@ title: "Vanilla Sauce"
 category: "Sauces"
 collection: "UK2"
 source: "Unknown"
-tags: ["sauce", "vanilla", "dessert", "vintage", "sweet"]
+tags: ["sauce", "vanilla", "dessert", "123", "sweet"]
 description: "A classic, silky vanilla sauce perfect for drizzling over warm puddings and desserts. This simple stovetop recipe uses cornstarch for a smooth, thickened consistency."
 date: "2026-07-30"
 draft: false

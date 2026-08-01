@@ -3,7 +3,7 @@ title: "Dumplings"
 category: "Sides"
 collection: "UK2"
 source: "Jr. League"
-tags: ["dumplings", "vintage", "comfortfood", "side"]
+tags: ["dumplings", "123", "comfortfood", "side"]
 description: "Discover how to make tender homemade dumplings from scratch with this vintage Jr. League recipe, perfect for pairing with savory chicken broth. These delicate strips are rolled thin and simmered to golden perfection for a comforting homestyle side."
 date: "2026-07-30"
 draft: false

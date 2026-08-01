@@ -3,7 +3,7 @@ title: "Lill's Dressing"
 category: "Sauces"
 collection: "JillCollection"
 source: "Lill"
-tags: ["vinaigrette", "salad", "sweet", "tangy", "vintage"]
+tags: ["vinaigrette", "salad", "sweet", "tangy", "123"]
 description: "A classic, sweet and tangy vinaigrette featuring a unique catsup base. This versatile dressing pairs perfectly with delicate greens like French endive or marinated artichoke hearts."
 date: "2026-07-30"
 draft: false

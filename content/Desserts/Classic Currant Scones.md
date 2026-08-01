@@ -3,7 +3,7 @@ title: "Classic Currant Scones"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["scones", "pastry", "baking", "teatime", "currants", "vintage"]
+tags: ["scones", "pastry", "baking", "teatime", "currants", "123"]
 description: "A classic recipe for tender, buttery scones studded with plump currants. Perfect for serving warm with whipped cream, butter, and jam for a traditional tea time treat."
 date: "2026-07-30"
 draft: false

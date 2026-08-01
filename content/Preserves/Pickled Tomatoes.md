@@ -3,7 +3,7 @@ title: "Pickled Tomatoes"
 category: "Preserves"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["preserves", "pickles", "tomatoes", "canning", "vintage"]
+tags: ["preserves", "pickles", "tomatoes", "canning", "123"]
 description: "Tangy and spiced pickled small green tomatoes cured in a flavorful brine for three weeks. A classic vintage preservation recipe from the Gail Collection."
 date: "2026-07-30"
 draft: false

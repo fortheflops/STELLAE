@@ -3,7 +3,7 @@ title: "Chicken Spaghetti"
 category: "Entrees"
 collection: "UK3"
 source: "Beree Meyers"
-tags: ["chickenspaghetti", "casserole", "comfortfood", "vintage", "pasta"]
+tags: ["chickenspaghetti", "casserole", "comfortfood", "123", "pasta"]
 description: "A classic comforting baked chicken spaghetti casserole featuring tender hen thighs, mushrooms, pimentos, and a rich cheese topping. Prepared by baking from a cold oven until golden brown and bubbling."
 date: "2026-07-30"
 draft: false

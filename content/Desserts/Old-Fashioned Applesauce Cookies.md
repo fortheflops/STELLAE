@@ -3,7 +3,7 @@ title: "Old-Fashioned Applesauce Cookies"
 category: "Desserts"
 collection: "Patsy Collection"
 source: "Unknown"
-tags: ["cookies", "vintage", "applesauce", "spiced", "comfortfood"]
+tags: ["cookies", "123", "applesauce", "spiced", "comfortfood"]
 description: "A classic recipe for soft, cake-like drop cookies made with applesauce, brown sugar, and warm spices. These old-fashioned treats are packed with raisins and nuts for a hearty, nostalgic flavor."
 date: "2026-07-30"
 draft: false

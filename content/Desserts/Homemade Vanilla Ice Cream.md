@@ -3,7 +3,7 @@ title: "Homemade Vanilla Ice Cream"
 category: "Desserts"
 collection: "LOC"
 source: "Unknown"
-tags: ["dessert", "icecream", "frozen", "vanilla", "vintage", "nocook"]
+tags: ["dessert", "icecream", "frozen", "vanilla", "123", "nocook"]
 description: "A rich, no-cook homemade vanilla ice cream featuring whipping cream and evaporated milk with a hint of lemon for brightness. This classic recipe yields approximately one gallon of creamy, churned perfection."
 date: "2026-07-30"
 draft: false

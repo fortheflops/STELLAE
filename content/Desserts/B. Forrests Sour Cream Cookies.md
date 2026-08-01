@@ -3,7 +3,7 @@ title: "B. Forrest's Sour Cream Cookies"
 category: "Desserts"
 collection: "Jill Collection"
 source: "B. Forrest"
-tags: ["cookies", "vintage", "sourcream", "dessert", "baking"]
+tags: ["cookies", "123", "sourcream", "dessert", "baking"]
 description: "A classic recipe for soft, cake-like sour cream cookies featuring a delicate balance of vanilla and lemon extracts. These tender, roll-and-cut cookies are perfect for any occasion and offer a nostalgic, homemade flavor."
 date: "2026-07-30"
 draft: false

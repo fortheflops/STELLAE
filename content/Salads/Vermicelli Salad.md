@@ -3,7 +3,7 @@ title: "Vermicelli Salad"
 category: "Salads"
 collection: "UK3"
 source: "Unknown"
-tags: ["salad", "vermicelli", "pasta", "cold", "vintage"]
+tags: ["salad", "vermicelli", "pasta", "cold", "123"]
 description: "A delightful chilled pasta salad combining broken vermicelli, crisp vegetables, and a creamy mayonnaise dressing. Perfect for potlucks, this make-ahead dish absorbs vibrant flavors overnight."
 date: "2026-07-30"
 draft: false

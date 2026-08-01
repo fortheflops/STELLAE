@@ -3,7 +3,7 @@ title: "Orie's Wesson Oil Chocolate Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Orie"
-tags: ["chocolate", "cake", "dessert", "baking", "vintage"]
+tags: ["chocolate", "cake", "dessert", "baking", "123"]
 description: "A wonderfully simple and incredibly moist chocolate cake from Orie, made with oil and buttermilk. This classic recipe comes together easily for a crowd-pleasing dessert."
 date: "2026-07-30"
 draft: false

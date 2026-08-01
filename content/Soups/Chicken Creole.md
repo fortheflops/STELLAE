@@ -3,7 +3,7 @@ title: "Chicken Creole"
 category: "Soups"
 collection: "UK3"
 source: "Unknown"
-tags: ["chicken", "creole", "entree", "comfortfood", "vintage"]
+tags: ["chicken", "creole", "entree", "comfortfood", "123"]
 description: "A classic Southern-style chicken creole featuring tender fried chicken baked in a savory spiced tomato and Worcestershire sauce. Perfectly comforting when served warm over steamed rice."
 date: "2026-07-30"
 draft: false

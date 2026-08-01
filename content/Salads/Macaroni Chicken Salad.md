@@ -3,7 +3,7 @@ title: "Macaroni Chicken Salad"
 category: "Salads"
 collection: "UK15"
 source: "Unknown"
-tags: ["salad", "chicken", "pasta", "vintage", "cold"]
+tags: ["salad", "chicken", "pasta", "123", "cold"]
 description: "A delightful vintage pasta salad combining prepared macaroni and cheese dinner with tender chicken, hard-cooked eggs, and crisp vegetables. Tossed in a creamy dressing and chilled thoroughly, it makes for a refreshing and hearty side or main dish."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Margaret Farley's Pistachio Nut Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Margaret Farley"
-tags: ["dessert", "cake", "pistachio", "chocolate", "bundt", "vintage"]
+tags: ["dessert", "cake", "pistachio", "chocolate", "bundt", "123"]
 description: "A wonderfully moist and flavorful doctored cake mix recipe featuring pistachio pudding and a rich chocolate swirl. This vintage Bundt-style cake delivers a delightful marble effect and nutty sweetness in every slice."
 date: "2026-07-30"
 draft: false

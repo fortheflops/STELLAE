@@ -3,7 +3,7 @@ title: "Celery Seed Dressing"
 category: "Sauces"
 collection: "UK3"
 source: "Unknown"
-tags: ["dressing", "vintage", "celeryseed", "condiment"]
+tags: ["dressing", "123", "celeryseed", "condiment"]
 description: "A classic, tangy celery seed dressing perfect for brightening up fresh spinach and citrus salads. This versatile vintage recipe balances sweetness and acidity for a refreshing finish."
 date: "2026-07-30"
 draft: false

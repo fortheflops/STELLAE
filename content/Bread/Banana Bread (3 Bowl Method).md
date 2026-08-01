@@ -3,7 +3,7 @@ title: "Banana Bread (3 Bowl Method)"
 category: "Bread"
 collection: "UK15"
 source: "Unknown"
-tags: ["bread", "banana bread", "large-batch", "walnuts", "raisins", "vintage"]
+tags: ["bread", "banana bread", "large-batch", "walnuts", "raisins", "123"]
 description: "A large-batch recipe for incredibly moist banana nut bread loaded with walnuts and raisins, utilizing a unique three-bowl method. Designed to be baked into a large Bundt cake or multiple loaves."
 date: "2026-07-30"
 draft: false

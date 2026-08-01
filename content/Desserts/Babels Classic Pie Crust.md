@@ -3,7 +3,7 @@ title: "Babel's Classic Pie Crust"
 category: "Desserts"
 collection: "LOC"
 source: "Babel"
-tags: ["piecrust", "desserts", "pastries", "baking", "vintage", "louisecollection"]
+tags: ["piecrust", "desserts", "pastries", "baking", "123", "louisecollection"]
 description: "A simple and reliable recipe for a classic, flaky pie crust made with shortening. Includes a clever tip for using tapioca to prevent a soggy bottom in fruit pies."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Butterfield Jam Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "cake", "jamcake", "vintage", "southern", "baking"]
+tags: ["dessert", "cake", "jamcake", "123", "southern", "baking"]
 description: "A classic, rich, and spicy Butterfield Jam Cake featuring a dense, moist crumb from jam and buttermilk, paired with a luscious cooked raisin and nut filling."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Superb French Dressing"
 category: "Sauces"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dressing", "frenchdressing", "vintage", "condiment", "gailcollection"]
+tags: ["dressing", "frenchdressing", "123", "condiment", "gailcollection"]
 description: "A classic, tangy French dressing featuring a rich tomato base and aromatic herbs. This versatile vintage recipe is perfect for elevating fresh garden salads."
 date: "2026-07-30"
 draft: false

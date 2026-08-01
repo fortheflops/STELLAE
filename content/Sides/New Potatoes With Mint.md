@@ -3,7 +3,7 @@ title: "New Potatoes With Mint"
 category: "Sides"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["sides", "potatoes", "mint", "vegetable", "vintage"]
+tags: ["sides", "potatoes", "mint", "vegetable", "123"]
 description: "Delicate new potatoes boiled with fresh mint and tossed in butter, featuring an optional creamy variation with fresh peas."
 date: "2026-07-30"
 draft: false

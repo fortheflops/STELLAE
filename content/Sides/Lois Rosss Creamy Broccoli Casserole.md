@@ -3,7 +3,7 @@ title: "Lois Ross's Creamy Broccoli Casserole"
 category: "Sides"
 collection: "General Archive"
 source: "Lois Ross"
-tags: ["casserole", "broccoli", "cheesy", "comfortfood", "sidedish", "vintage"]
+tags: ["casserole", "broccoli", "cheesy", "comfortfood", "sidedish", "123"]
 description: "A classic and comforting broccoli casserole from Lois Ross, featuring tender broccoli, crunchy water chestnuts, and a rich, cheesy custard made with soup and mayonnaise."
 date: "2026-07-30"
 draft: false

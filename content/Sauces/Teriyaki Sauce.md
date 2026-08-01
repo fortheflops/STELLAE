@@ -3,7 +3,7 @@ title: "Teriyaki Sauce"
 category: "Sauces"
 collection: "Gail Collection"
 source: "Rick & Joy Gay"
-tags: ["sauce", "teriyaki", "marinade", "vintage", "gailcollection"]
+tags: ["sauce", "teriyaki", "marinade", "123", "gailcollection"]
 description: "A classic, versatile homemade teriyaki sauce perfect for marinating meats. This simple blend of brown sugar, soy sauce, and aromatics delivers a deep, savory-sweet flavor profile."
 date: "2026-07-30"
 draft: false

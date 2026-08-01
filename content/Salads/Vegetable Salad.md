@@ -3,7 +3,7 @@ title: "Vegetable Salad"
 category: "Salads"
 collection: "UK3"
 source: "Unknown"
-tags: ["salad", "vegetable", "cold", "side", "vintage", "unknownthree"]
+tags: ["salad", "vegetable", "cold", "side", "123", "unknownthree"]
 description: "A refreshing vintage vegetable salad featuring a medley of frozen mixed vegetables, green onions, and olives tossed in a zesty wine vinegar dressing. Marinated for an hour, this vibrant dish yields 16 servings and makes a perfect chilled side for gatherings."
 date: "2026-07-30"
 draft: false

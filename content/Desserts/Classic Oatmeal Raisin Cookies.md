@@ -3,7 +3,7 @@ title: "Classic Oatmeal Raisin Cookies"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "oatmeal", "raisin", "vintage", "dessert", "baking"]
+tags: ["cookies", "oatmeal", "raisin", "123", "dessert", "baking"]
 description: "A classic recipe for soft and chewy oatmeal raisin cookies featuring a warm blend of cinnamon and nutmeg. These hearty drop cookies are perfect for any occasion."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Italian Ham Spaghetti Sauce"
 category: "Sauces"
 collection: "UK2"
 source: "Unknown"
-tags: ["sauce", "pasta", "tomato", "ham", "italian", "vintage"]
+tags: ["sauce", "pasta", "tomato", "ham", "italian", "123"]
 description: "A savory and comforting Italian ham spaghetti sauce infused with fresh basil, garlic, and crushed red pepper flakes. Perfect for serving over your favorite pasta twists."
 date: "2026-07-30"
 draft: false

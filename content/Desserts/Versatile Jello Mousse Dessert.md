@@ -3,7 +3,7 @@ title: "Versatile Jello Mousse Dessert"
 category: "Desserts"
 collection: "JC"
 source: "Unknown"
-tags: ["dessert", "nobake", "vintage", "jello", "mousse", "pie"]
+tags: ["dessert", "nobake", "123", "jello", "mousse", "pie"]
 description: "A classic, no-bake dessert featuring a light and fluffy Jello mousse made with whipped evaporated milk and fruit. This versatile recipe can be served as a molded dessert or as a pie in a graham cracker crust."
 date: "2026-07-30"
 draft: false

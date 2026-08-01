@@ -3,7 +3,7 @@ title: "Molded Strained Cranberry Sauce"
 category: "Sauces"
 collection: "JillCollection"
 source: "Unknown"
-tags: ["sauce", "cranberry", "holiday", "vintage", "jellied", "jillcollection"]
+tags: ["sauce", "cranberry", "holiday", "123", "jellied", "jillcollection"]
 description: "A classic recipe for a smooth, homemade jellied cranberry sauce made from fresh cranberries, perfect for holiday meals."
 date: "2026-07-30"
 draft: false

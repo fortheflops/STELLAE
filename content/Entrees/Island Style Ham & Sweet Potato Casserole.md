@@ -3,7 +3,7 @@ title: "Island Style Ham & Sweet Potato Casserole"
 category: "Entrees"
 collection: "John B Collection"
 source: "Unknown"
-tags: ["casserole", "pork", "ham", "sweetpotatoes", "pineapple", "vintage"]
+tags: ["casserole", "pork", "ham", "sweetpotatoes", "pineapple", "123"]
 description: "Discover a delightful sweet and savory casserole featuring golden saut\u00e9ed ham, pineapple, and green peppers in a tangy glaze, topped with creamy mashed sweet potatoes and baked until bubbly."
 date: "2026-07-30"
 draft: false

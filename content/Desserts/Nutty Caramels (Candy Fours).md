@@ -3,7 +3,7 @@ title: "Nutty Caramels (Candy Fours)"
 category: "Desserts"
 collection: "Patsy Collection"
 source: "Unknown"
-tags: ["candy", "caramel", "nuts", "vintage", "confection"]
+tags: ["candy", "caramel", "nuts", "123", "confection"]
 description: "A classic recipe for rich, chewy, homemade caramels, loaded with chopped nuts. This traditional candy is made by cooking sugar, corn syrup, butter, and cream to the perfect firm-ball stage."
 date: "2026-07-30"
 draft: false

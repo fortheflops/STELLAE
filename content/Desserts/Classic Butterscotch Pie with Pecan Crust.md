@@ -3,7 +3,7 @@ title: "Classic Butterscotch Pie with Pecan Crust"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["pie", "dessert", "butterscotch", "pecan", "vintage", "homemade"]
+tags: ["pie", "dessert", "butterscotch", "pecan", "123", "homemade"]
 description: "A rich and creamy homemade butterscotch pie with a simple, press-in pecan and brown sugar crust, topped with a generous layer of whipped cream."
 date: "2026-07-30"
 draft: false

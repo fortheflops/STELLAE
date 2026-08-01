@@ -1,13 +1,18 @@
 ---
-title: "Red Chili"
-category: "Soups"
-collection: "UK5"
-source: "Unknown"
-tags: ["chili", "soup", "vintage", "beef", "pork", "comfortfood"]
-description: "A classic rustic red chili featuring tender meat, a rich gravy thickened with flour, and aromatic spices cooked low and slow. This traditional recipe captures deep, savory flavors reminiscent of vintage home-style cooking."
-date: "2026-07-30"
+title: Red Chili
+category: Soups
+collection: UK5
+source: Unknown
+tags:
+  - chili
+  - soup
+  - beef
+  - pork
+  - comfortfood
+description: A classic rustic red chili featuring tender meat, a rich gravy thickened with flour, and aromatic spices cooked low and slow. This traditional recipe captures deep, savory flavors reminiscent of vintage home-style cooking.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Red Chili\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2023-01-01\",\"description\":\"A classic rustic red chili featuring tender meat, a rich gravy thickened with flour, and aromatic spices cooked low and slow.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT2H\",\"recipeYield\":\"6\u20138 Servings\",\"recipeCategory\":\"Soups\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"As Needed Hamburger, lean Pork, or Round Steak\",\"As Needed Crisco\",\"1 tablespoon Flour\",\"To Taste Red Chili Powder\",\"As Needed Water\",\"To Taste Garlic\",\"To Taste Salt and Pepper\",\"To Taste Oregano\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Brown the hamburger, lean pork, or round steak in a heavy pot. Add Crisco if needed to make a generous 2 tablespoons of grease in the pan until the meat is fully cooked.\"},{\"@type\":\"HowToStep\",\"text\":\"Add flour to thicken at a ratio of 1 tbsp flour to 1 tbsp grease, stirring constantly on very low heat without burning.\"},{\"@type\":\"HowToStep\",\"text\":\"Add red chili powder to taste, stir in water to create a gravy, and season with garlic, salt, pepper, and oregano before simmering for a long time until rich and tender.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Red Chili","author":{"@type":"Person","name":"Unknown"},"datePublished":"2023-01-01","description":"A classic rustic red chili featuring tender meat, a rich gravy thickened with flour, and aromatic spices cooked low and slow.","prepTime":"PT15M","cookTime":"PT2H","recipeYield":"6–8 Servings","recipeCategory":"Soups","recipeCuisine":"American","recipeIngredient":["As Needed Hamburger, lean Pork, or Round Steak","As Needed Crisco","1 tablespoon Flour","To Taste Red Chili Powder","As Needed Water","To Taste Garlic","To Taste Salt and Pepper","To Taste Oregano"],"recipeInstructions":[{"@type":"HowToStep","text":"Brown the hamburger, lean pork, or round steak in a heavy pot. Add Crisco if needed to make a generous 2 tablespoons of grease in the pan until the meat is fully cooked."},{"@type":"HowToStep","text":"Add flour to thicken at a ratio of 1 tbsp flour to 1 tbsp grease, stirring constantly on very low heat without burning."},{"@type":"HowToStep","text":"Add red chili powder to taste, stir in water to create a gravy, and season with garlic, salt, pepper, and oregano before simmering for a long time until rich and tender."}]}'
 ---
 
 # Red Chili

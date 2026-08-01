@@ -3,7 +3,7 @@ title: "Easy Cherry Pie Salad"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "fruit", "salad", "nobake", "vintage", "potluck"]
+tags: ["dessert", "fruit", "salad", "nobake", "123", "potluck"]
 description: "A delightful no-bake fruit salad featuring a marinated base of cherry pie filling and pineapple, finished with fresh bananas and crunchy pecans. This vintage-inspired treat is perfect for gatherings and offers a unique blend of textures."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Baked Spaghetti"
 category: "Entrees"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["bakedspaghetti", "casserole", "pasta", "comfortfood", "vintage"]
+tags: ["bakedspaghetti", "casserole", "pasta", "comfortfood", "123"]
 description: "A simple, old-fashioned baked spaghetti casserole featuring a comforting creamy tomato and cheese sauce. This classic family favorite bakes up warm, bubbly, and golden on top."
 date: "2026-07-30"
 draft: false

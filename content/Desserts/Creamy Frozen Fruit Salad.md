@@ -3,7 +3,7 @@ title: "Creamy Frozen Fruit Salad"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["vintage", "frozen", "fruit", "custard", "retro", "dessert"]
+tags: ["123", "frozen", "fruit", "custard", "retro", "dessert"]
 description: "A classic frozen fruit salad featuring a rich, smooth custard base that is cooked on the stovetop before being folded with fruit cocktail and frozen. This versatile, nostalgic treat can be served as a sweet dessert or a savory-style side salad."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Classic Watergate Dessert (Pistachio Fluff)"
 category: "Desserts"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["dessert", "nobake", "pistachio", "vintage", "potluck"]
+tags: ["dessert", "nobake", "pistachio", "123", "potluck"]
 description: "A classic no-bake dessert, also known as Pistachio Fluff, featuring a creamy blend of pistachio pudding, pineapple, and pecans. This simple, retro treat is a perfect crowd-pleasing potluck staple."
 date: "2026-07-30"
 draft: false

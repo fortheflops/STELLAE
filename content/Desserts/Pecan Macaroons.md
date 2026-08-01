@@ -3,7 +3,7 @@ title: "Pecan Macaroons"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "pecans", "glutenfree", "vintage", "meringue"]
+tags: ["cookies", "pecans", "glutenfree", "123", "meringue"]
 description: "A simple, classic recipe for chewy, flourless Pecan Macaroons. These delightful cookies rely on a stiff meringue base packed with rich brown sugar and toasted pecans."
 date: "2026-07-30"
 draft: false

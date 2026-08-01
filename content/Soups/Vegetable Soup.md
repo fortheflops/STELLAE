@@ -1,13 +1,17 @@
 ---
-title: "Vegetable Soup"
-category: "Soups"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["soup", "vintage", "gailcollection", "beefbroth", "comfortfood"]
-description: "A classic, rustic vegetable soup built on a rich, slow-simmered beef bone broth. This vintage recipe from the Gail Collection is highly customizable and perfect for utilizing fresh garden vegetables."
-date: "2026-07-30"
+title: Vegetable Soup
+category: Soups
+collection: Gail Collection
+source: Unknown
+tags:
+  - soup
+  - gailcollection
+  - beefbroth
+  - comfortfood
+description: A classic, rustic vegetable soup built on a rich, slow-simmered beef bone broth. This vintage recipe from the Gail Collection is highly customizable and perfect for utilizing fresh garden vegetables.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Vegetable Soup\", \"image\": [\"Handwritten_2025-06-23_170710.webp\"], \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-06-23\", \"description\": \"A classic, rustic vegetable soup built on a rich, slow-simmered beef bone broth. This vintage recipe from the Gail Collection is highly customizable and perfect for utilizing fresh garden vegetables.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT3H\", \"totalTime\": \"PT4H20M\", \"recipeCategory\": \"Soup\", \"recipeCuisine\": \"American\", \"recipeYield\": \"6-8 servings\", \"recipeIngredient\": [\"1 Knuckle Bone\", \"1 Soup Bone with meat, or cheap Beef Ribs\", \"Onion, as needed\", \"Garlic, as needed\", \"1 large can Solid pack Tomatoes\", \"Celery, chopped small, as needed\", \"Cabbage, chopped small, as needed\", \"Carrots, chopped small, as needed\", \"Salt, to taste\", \"A few Noodles or Macaroni\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a pressure cooker or large stockpot, combine the knuckle bone, soup bone with meat, onion, and garlic.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cover with water and cook until a rich broth has formed.\"}, {\"@type\": \"HowToStep\", \"text\": \"Remove the bones from the pot and let the broth cool completely.\"}, {\"@type\": \"HowToStep\", \"text\": \"Skim the fat from the surface of the cooled broth.\"}, {\"@type\": \"HowToStep\", \"text\": \"Return the skimmed broth to the pot and bring back to a simmer.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the large can of tomatoes, chopped celery, cabbage, and carrots. Season with salt to taste.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add a small amount of noodles or macaroni for flavoring.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook until all the vegetables are tender.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Vegetable Soup", "image": ["Handwritten_2025-06-23_170710.webp"], "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-06-23", "description": "A classic, rustic vegetable soup built on a rich, slow-simmered beef bone broth. This vintage recipe from the Gail Collection is highly customizable and perfect for utilizing fresh garden vegetables.", "prepTime": "PT20M", "cookTime": "PT3H", "totalTime": "PT4H20M", "recipeCategory": "Soup", "recipeCuisine": "American", "recipeYield": "6-8 servings", "recipeIngredient": ["1 Knuckle Bone", "1 Soup Bone with meat, or cheap Beef Ribs", "Onion, as needed", "Garlic, as needed", "1 large can Solid pack Tomatoes", "Celery, chopped small, as needed", "Cabbage, chopped small, as needed", "Carrots, chopped small, as needed", "Salt, to taste", "A few Noodles or Macaroni"], "recipeInstructions": [{"@type": "HowToStep", "text": "In a pressure cooker or large stockpot, combine the knuckle bone, soup bone with meat, onion, and garlic."}, {"@type": "HowToStep", "text": "Cover with water and cook until a rich broth has formed."}, {"@type": "HowToStep", "text": "Remove the bones from the pot and let the broth cool completely."}, {"@type": "HowToStep", "text": "Skim the fat from the surface of the cooled broth."}, {"@type": "HowToStep", "text": "Return the skimmed broth to the pot and bring back to a simmer."}, {"@type": "HowToStep", "text": "Add the large can of tomatoes, chopped celery, cabbage, and carrots. Season with salt to taste."}, {"@type": "HowToStep", "text": "Add a small amount of noodles or macaroni for flavoring."}, {"@type": "HowToStep", "text": "Cook until all the vegetables are tender."}]}'
 ---
 
 # Vegetable Soup

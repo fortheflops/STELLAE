@@ -3,7 +3,7 @@ title: "Jackie's Brownies"
 category: "Desserts"
 collection: "PatsyCollection"
 source: "Jackie"
-tags: ["brownies", "chocolate", "fudgy", "dessert", "vintage"]
+tags: ["brownies", "chocolate", "fudgy", "dessert", "123"]
 description: "A simple and wonderfully fudgy brownie recipe featuring Hershey's chocolate syrup for a rich, classic flavor. These brownies offer a perfectly chewy texture that is ideal for any occasion."
 date: "2026-07-30"
 draft: false

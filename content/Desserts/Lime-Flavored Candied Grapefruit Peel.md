@@ -3,7 +3,7 @@ title: "Lime-Flavored Candied Grapefruit Peel"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "candied", "grapefruit", "citrus", "vintage", "holiday"]
+tags: ["dessert", "candied", "grapefruit", "citrus", "123", "holiday"]
 description: "A unique and festive recipe for candied grapefruit peel that gets a vibrant green color and a zesty flavor from the addition of lime-flavored gelatin. This citrus treat is perfect for holiday gifting or as a bright, sweet snack."
 date: "2026-07-30"
 draft: false

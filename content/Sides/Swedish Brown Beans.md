@@ -3,7 +3,7 @@ title: "Swedish Brown Beans"
 category: "Sides"
 collection: "Gail Collection"
 source: "Miriam B. Fox"
-tags: ["sidedish", "beans", "vintage", "comfortfood", "scandinavian"]
+tags: ["sidedish", "beans", "123", "comfortfood", "scandinavian"]
 description: "A traditional, comforting Scandinavian side dish featuring tender beans simmered in a sweet and spiced vinegar sauce with bacon. Perfectly balanced and deeply flavorful, it complements any hearty meal."
 date: "2026-07-30"
 draft: false

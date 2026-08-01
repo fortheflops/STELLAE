@@ -3,7 +3,7 @@ title: "Margaret Burnham's Butter Pecan Fruitcake"
 category: "Desserts"
 collection: "UK15"
 source: "Margaret Burnham"
-tags: ["dessert", "fruitcake", "vintage", "pecans", "holiday", "baking"]
+tags: ["dessert", "fruitcake", "123", "pecans", "holiday", "baking"]
 description: "A wonderfully dense and rich fruitcake from a 1971 recipe by Margaret Burnham. This cake is famously packed with a pound each of pecans, red cherries, green cherries, and pineapple, all held together by a rich butter-egg batter."
 date: "2026-07-30"
 draft: false

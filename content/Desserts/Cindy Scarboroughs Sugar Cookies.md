@@ -3,7 +3,7 @@ title: "Cindy Scarborough's Sugar Cookies"
 category: "Desserts"
 collection: "UK3"
 source: "Cindy Scarborough"
-tags: ["cookies", "sugarcookies", "vintage", "baking", "holiday"]
+tags: ["cookies", "sugarcookies", "123", "baking", "holiday"]
 description: "A classic, reliable recipe for soft but sturdy roll-and-cut sugar cookies, perfect for decorating. This simple dough is ideal for festive shapes and finishes beautifully with a powdered sugar glaze."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Tender Oven-Braised Swiss Steak"
 category: "Entrees"
 collection: "UK5"
 source: "Midge Robertson"
-tags: ["comfortfood", "beef", "steak", "braised", "vintage"]
+tags: ["comfortfood", "beef", "steak", "braised", "123"]
 description: "A classic comfort food recipe featuring tender round steak slow-braised in the oven with stewed tomatoes, vegetables, and melted cheese. Perfect for a cozy weeknight dinner."
 date: "2026-07-30"
 draft: false

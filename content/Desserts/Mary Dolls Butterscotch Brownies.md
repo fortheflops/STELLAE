@@ -3,7 +3,7 @@ title: "Mary Doll's Butterscotch Brownies"
 category: "Desserts"
 collection: "UK2"
 source: "Mary Doll"
-tags: ["blondies", "butterscotch", "brownies", "vintage", "dessert", "walnuts"]
+tags: ["blondies", "butterscotch", "brownies", "123", "dessert", "walnuts"]
 description: "A classic recipe for rich and chewy butterscotch blondies packed with butterscotch chips and black walnuts. This simple, one-pan dessert is a timeless treat perfect for any occasion."
 date: "2026-07-30"
 draft: false

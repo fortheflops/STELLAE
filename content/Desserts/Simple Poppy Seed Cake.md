@@ -3,7 +3,7 @@ title: "Simple Poppy Seed Cake"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "cake", "lemon", "poppyseed", "baking", "vintage"]
+tags: ["dessert", "cake", "lemon", "poppyseed", "baking", "123"]
 description: "A simple and delicious lemon poppy seed cake made with the convenience of a lemon cake mix. This moist cake is baked in an angel food cake pan for a beautiful presentation."
 date: "2026-07-30"
 draft: false

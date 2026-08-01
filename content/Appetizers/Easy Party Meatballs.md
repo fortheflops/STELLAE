@@ -4,11 +4,11 @@ category: Appetizers
 collection: Jill Collection
 source: Unknown
 tags:
-  - vintage
+  - 123
   - meatballs
   - appetizer
   - slow-cooker
-  - JillCollection
+  - jillcollection
 description: Classic party meatballs simmered in a sweet and tangy sauce of chili sauce, grape jelly, and lemon juice. A perfect, crowd-pleasing slow-cooker appetizer.
 date: 2026-07-24
 draft: false

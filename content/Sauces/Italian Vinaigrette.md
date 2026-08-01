@@ -3,7 +3,7 @@ title: "Italian Vinaigrette"
 category: "Sauces"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["vinaigrette", "dressing", "italian", "gailcollection", "vintage"]
+tags: ["vinaigrette", "dressing", "italian", "gailcollection", "123"]
 description: "A simple, customizable Italian vinaigrette base enhanced with dried herbs and seasonings. This archival recipe offers a quick way to elevate a standard vinegar and oil dressing."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Zucchini Pineapple Muffins"
 category: "Bread"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["bread", "muffins", "zucchini", "pineapple", "baking", "breakfast", "snack", "vintage"]
+tags: ["bread", "muffins", "zucchini", "pineapple", "baking", "breakfast", "snack", "123"]
 description: "An incredibly moist and flavorful muffin recipe packed with grated zucchini, crushed pineapple, nuts, and warm spices. This large-batch recipe yields approximately 40 muffins and freezes wonderfully."
 date: "2026-07-30"
 draft: false

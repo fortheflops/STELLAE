@@ -3,7 +3,7 @@ title: "Pots de Creme"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Michelle Ala"
-tags: ["chocolate", "custard", "nobake", "french", "dessert", "vintage"]
+tags: ["chocolate", "custard", "nobake", "french", "dessert", "123"]
 description: "An incredibly simple and elegant no-bake chocolate pots de cr\u00e8me, made quickly in a blender for a rich, smooth, and decadent dessert. This classic French-inspired treat is perfect for effortless entertaining."
 date: "2026-07-30"
 draft: false

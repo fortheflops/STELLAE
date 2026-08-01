@@ -3,7 +3,7 @@ title: "Nona Shankers' Persimmon Cake"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Nona Shankers"
-tags: ["dessert", "cake", "persimmon", "vintage", "fruitcake", "gailcollection"]
+tags: ["dessert", "cake", "persimmon", "123", "fruitcake", "gailcollection"]
 description: "A wonderfully moist, pudding-like cake packed with two cups of sweet persimmon pulp, warm spices, raisins, and nuts. This simple one-bowl vintage recipe yields a rich tube cake that tastes even better the next day."
 date: "2026-07-30"
 draft: false

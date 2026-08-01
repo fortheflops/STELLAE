@@ -3,7 +3,7 @@ title: "Mom's Mini Cheesecakes"
 category: "Desserts"
 collection: "UK3"
 source: "Mom"
-tags: ["dessert", "cheesecake", "mini", "baking", "vintage"]
+tags: ["dessert", "cheesecake", "mini", "baking", "123"]
 description: "A cherished recipe from Mom for individual, crustless cheesecakes baked in a muffin tin. These delightful treats feature a tangy, sweet sour cream topping baked right on top."
 date: "2026-07-30"
 draft: false

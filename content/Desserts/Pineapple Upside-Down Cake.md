@@ -3,7 +3,7 @@ title: "Pineapple Upside-Down Cake"
 category: "Desserts"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["dessert", "cake", "pineapple", "vintage", "baking"]
+tags: ["dessert", "cake", "pineapple", "123", "baking"]
 description: "A classic Pineapple Upside-Down Cake featuring a buttery brown sugar topping, pineapple rings, and pecans, baked in a cast-iron skillet with a light, fluffy batter."
 date: "2026-07-30"
 draft: false

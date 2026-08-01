@@ -1,13 +1,54 @@
 ---
-title: "Tomato Bisque"
-category: "Soups"
-collection: "Patsy Collection"
-source: "Unknown"
-tags: ["soup", "bisque", "tomato", "vintage", "comfortfood"]
-description: "A classic, comforting vintage tomato bisque featuring rich tomatoes, milk, and butter. This archive-preserved recipe offers traditional preparation options for a creamy, flavorful homemade soup."
-date: "2026-07-30"
+title: Tomato Bisque
+category: Soups
+collection: Patsy Collection
+source: Unknown
+tags:
+  - soup
+  - bisque
+  - tomato
+  - comfortfood
+description: A classic, comforting vintage tomato bisque featuring rich tomatoes, milk, and butter. This archive-preserved recipe offers traditional preparation options for a creamy, flavorful homemade soup.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Tomato Bisque\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A classic, comforting vintage tomato bisque featuring rich tomatoes, milk, and butter.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT25M\",\n  \"recipeYield\": \"4-6 Servings\",\n  \"recipeCategory\": \"Soups\",\n  \"recipeIngredient\": [\n    \"1 Onion\",\n    \"1 Clove Garlic\",\n    \"2 Cans Diced Tomatoes\",\n    \"3 Cups Milk\",\n    \"\u00bc - \u2153 Cup Flour\",\n    \"2 Tsp Sugar\",\n    \"1 Tsp Salt\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook 1 Onion until translucent, then puree with one can of Diced Tomatoes in a blender.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Heat Butter in a pan, add Flour and a little Milk, then add more Milk until soup thickens.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add Sugar and Salt to taste.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Tomato Bisque",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A classic, comforting vintage tomato bisque featuring rich tomatoes, milk, and butter.",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "recipeYield": "4-6 Servings",
+    "recipeCategory": "Soups",
+    "recipeIngredient": [
+      "1 Onion",
+      "1 Clove Garlic",
+      "2 Cans Diced Tomatoes",
+      "3 Cups Milk",
+      "¼ - ⅓ Cup Flour",
+      "2 Tsp Sugar",
+      "1 Tsp Salt"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cook 1 Onion until translucent, then puree with one can of Diced Tomatoes in a blender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat Butter in a pan, add Flour and a little Milk, then add more Milk until soup thickens."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add Sugar and Salt to taste."
+      }
+    ]
+  }
 ---
 
 # Tomato Bisque

@@ -3,7 +3,7 @@ title: "Paulette's E-Z Casserole"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Paulette"
-tags: ["casserole", "beef", "comfortfood", "vintage", "easy"]
+tags: ["casserole", "beef", "comfortfood", "123", "easy"]
 description: "A wonderfully simple and hearty casserole from Paulette. This 'E-Z' recipe layers raw ground beef, seasonings, and frozen French fries, then bakes it all in a creamy mushroom soup sauce."
 date: "2026-07-30"
 draft: false

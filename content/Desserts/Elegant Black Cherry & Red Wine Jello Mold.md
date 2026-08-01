@@ -3,7 +3,7 @@ title: "Elegant Black Cherry & Red Wine Jello Mold"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["dessert", "vintage", "jello", "cherries", "wine", "mold"]
+tags: ["dessert", "123", "jello", "cherries", "wine", "mold"]
 description: "A sophisticated congealed dessert featuring dark sweet cherries suspended in a rich, red wine-infused cherry gelatin. This elegant mold is best served chilled with a dollop of creamy dressing."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Classic Vanilla Pizzelle"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "italian", "pizzelle", "vintage", "dessert"]
+tags: ["cookies", "italian", "pizzelle", "123", "dessert"]
 description: "A classic recipe for light, thin, and crispy Italian pizzelle cookies. This simple batter, flavored with a generous amount of vanilla, is baked in a special iron to create beautiful, decorative wafers."
 date: "2026-07-30"
 draft: false

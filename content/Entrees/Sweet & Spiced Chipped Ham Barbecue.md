@@ -3,7 +3,7 @@ title: "Sweet & Spiced 'Chipped' Ham Barbecue"
 category: "Entrees"
 collection: "LouiseCollection"
 source: "Unknown"
-tags: ["vintage", "pork", "ham", "barbecue", "sandwich", "comfortfood", "louisecollection"]
+tags: ["123", "pork", "ham", "barbecue", "sandwich", "comfortfood", "louisecollection"]
 description: "A vintage recipe for chipped ham in a sweet and spiced tomato-based barbecue sauce. The ham is simmered and then slow-baked to allow the flavors to meld."
 date: "2026-07-30"
 draft: false

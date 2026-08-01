@@ -3,7 +3,7 @@ title: "Gl\u00f6gg (Swedish Mulled Wine)"
 category: "Beverages"
 collection: "GailCollection"
 source: "Unknown"
-tags: ["beverage", "swedish", "mulledwine", "holiday", "winter", "vintage"]
+tags: ["beverage", "swedish", "mulledwine", "holiday", "winter", "123"]
 description: "A traditional Scandinavian mulled red wine infused overnight with warming spices, citrus, and ginger. Served warm with raisins and almonds for a festive treat."
 date: "2026-07-30"
 draft: false

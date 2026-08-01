@@ -3,7 +3,7 @@ title: "Lamb Riblets Eldorado"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["lamb", "eldrado", "vintage", "casserole", "entree"]
+tags: ["lamb", "eldrado", "123", "casserole", "entree"]
 description: "A savory vintage dish featuring tender lamb breast simmered with red kidney beans, tomato soup, and aromatic peppers. Slow-cooked to perfection until the meat is fork-tender."
 date: "2026-07-30"
 draft: false

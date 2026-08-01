@@ -3,7 +3,7 @@ title: "Adelina's Millionaire Pie"
 category: "Desserts"
 collection: "General Archive"
 source: "Adelina"
-tags: ["dessert", "pie", "nobake", "tropical", "vintage"]
+tags: ["dessert", "pie", "nobake", "tropical", "123"]
 description: "A classic no-bake Millionaire Pie featuring a light and fluffy filling of pineapple, pecans, and sweetened condensed milk in a creamy Cool Whip base. This easy recipe makes two delicious pies!"
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Berry Sauce"
 category: "Sauces"
 collection: "UK2"
 source: "Unknown"
-tags: ["sauces", "berry", "desserttoppings", "vintage"]
+tags: ["sauces", "berry", "desserttoppings", "123"]
 description: "A smooth and tangy berry sauce thickened with cornstarch and folded into rich sour cream. Perfect for drizzling over desserts or breakfast treats."
 date: "2026-07-30"
 draft: false

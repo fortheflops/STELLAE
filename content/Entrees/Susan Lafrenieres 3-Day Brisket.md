@@ -3,7 +3,7 @@ title: "Susan Lafreniere's 3-Day Brisket"
 category: "Entrees"
 collection: "General Archive"
 source: "Susan Lafreniere"
-tags: ["brisket", "beef", "entree", "slowcook", "barbecue", "vintage"]
+tags: ["brisket", "beef", "entree", "slowcook", "barbecue", "123"]
 description: "A classic, multi-day recipe from Susan Lafreniere featuring a slow-roasted beef brisket that is chilled, sliced, and reheated in homemade BBQ sauce."
 date: "2026-07-30"
 draft: false

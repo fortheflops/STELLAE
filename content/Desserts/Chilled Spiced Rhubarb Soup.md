@@ -3,7 +3,7 @@ title: "Chilled Spiced Rhubarb Soup"
 category: "Desserts"
 collection: "Patsy's Collection"
 source: "Unknown"
-tags: ["dessertsoup", "rhubarb", "chilled", "vintage", "patsycollection"]
+tags: ["dessertsoup", "rhubarb", "chilled", "123", "patsycollection"]
 description: "A unique and refreshing chilled dessert soup from Patsy's collection, featuring tender rhubarb simmered with warm spices like cinnamon and cloves, and finished with a splash of white wine."
 date: "2026-07-30"
 draft: false

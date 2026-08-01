@@ -3,7 +3,7 @@ title: "Banana Split Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Clarice"
-tags: ["dessert", "layered", "nobake", "bananas", "vintage", "lush"]
+tags: ["dessert", "layered", "nobake", "bananas", "123", "lush"]
 description: "A classic layered dessert inspired by a banana split, featuring a buttery pecan crust, a sweet cream cheese filling, and layers of bananas and pineapple, all topped with whipped cream. This nostalgic treat is perfect for gatherings and can be prepared ahead for easy serving."
 date: "2026-07-30"
 draft: false

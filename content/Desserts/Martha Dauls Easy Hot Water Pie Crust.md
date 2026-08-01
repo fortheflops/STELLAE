@@ -3,7 +3,7 @@ title: "Martha Daul's Easy Hot Water Pie Crust"
 category: "Desserts"
 collection: "UK3"
 source: "Martha Daul"
-tags: ["pie", "crust", "dessert", "baking", "vintage", "pastry"]
+tags: ["pie", "crust", "dessert", "baking", "123", "pastry"]
 description: "Discover Martha Daul's unique hot water pie crust recipe that whips boiling water into shortening for an incredibly tender, easy-to-roll dough."
 date: "2026-07-30"
 draft: false

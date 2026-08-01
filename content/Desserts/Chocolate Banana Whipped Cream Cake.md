@@ -3,7 +3,7 @@ title: "Chocolate Banana Whipped Cream Cake"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["chocolate", "banana", "cake", "dessert", "vintage", "whippedcream"]
+tags: ["chocolate", "banana", "cake", "dessert", "123", "whippedcream"]
 description: "A decadent three-layer chocolate cake filled with whole bananas and a generous amount of real whipped cream, then frosted with more whipped cream and a sprinkle of shaved chocolate."
 date: "2026-07-30"
 draft: false

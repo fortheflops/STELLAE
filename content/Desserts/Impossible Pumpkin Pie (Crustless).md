@@ -3,7 +3,7 @@ title: "Impossible Pumpkin Pie (Crustless)"
 category: "Desserts"
 collection: "Patsy Collection"
 source: "Unknown"
-tags: ["dessert", "pie", "pumpkin", "crustless", "holiday", "vintage"]
+tags: ["dessert", "pie", "pumpkin", "crustless", "holiday", "123"]
 description: "A magical crustless pie from Patsy's collection that creates its own layers as it bakes! This Impossible Pie features a smooth, spiced pumpkin custard with a built-in graham cracker base."
 date: "2026-07-30"
 draft: false

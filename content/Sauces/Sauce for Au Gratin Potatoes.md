@@ -3,7 +3,7 @@ title: "Sauce for Au Gratin Potatoes"
 category: "Sauces"
 collection: "UK3"
 source: "Unknown"
-tags: ["sauce", "augratin", "potatoes", "cheese", "vintage"]
+tags: ["sauce", "augratin", "potatoes", "cheese", "123"]
 description: "A rich and creamy homemade cheese sauce perfect for topping au gratin potatoes or roasted vegetables. This versatile recipe uses a classic roux base for a smooth, velvety consistency."
 date: "2026-07-30"
 draft: false

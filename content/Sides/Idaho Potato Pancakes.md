@@ -3,7 +3,7 @@ title: "Idaho Potato Pancakes"
 category: "Sides"
 collection: "UK15"
 source: "Unknown"
-tags: ["potatedishes", "pancakes", "savory", "vintage", "breakfast", "sidedish"]
+tags: ["potatedishes", "pancakes", "savory", "123", "breakfast", "sidedish"]
 description: "A classic recipe for savory Idaho potato pancakes. Freshly grated potatoes are mixed into a thin batter and fried in bacon fat until brown and crisp for a perfect side dish or breakfast."
 date: "2026-07-30"
 draft: false

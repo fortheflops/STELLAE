@@ -3,7 +3,7 @@ title: "Classic Sweet-and-Sour Cabbage Rolls"
 category: "Entrees"
 collection: "JillCollection"
 source: "Unknown"
-tags: ["cabbagerolls", "comfortfood", "beef", "entree", "vintage"]
+tags: ["cabbagerolls", "comfortfood", "beef", "entree", "123"]
 description: "A classic comfort food featuring tender cabbage leaves stuffed with seasoned ground chuck and slow-cooked in a tangy-sweet tomato and brown sugar sauce."
 date: "2026-07-30"
 draft: false

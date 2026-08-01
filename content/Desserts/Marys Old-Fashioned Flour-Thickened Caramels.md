@@ -3,7 +3,7 @@ title: "Mary's Old-Fashioned Flour-Thickened Caramels"
 category: "Desserts"
 collection: "JohnBCollection"
 source: "Mary"
-tags: ["vintage", "caramels", "confections", "candy", "flourthickened"]
+tags: ["123", "caramels", "confections", "candy", "flourthickened"]
 description: "A unique vintage caramel recipe featuring a distinct technique where flour is kneaded into butter to create a chewy, rich texture. These old-fashioned confections are finished with a hint of vanilla for a classic flavor profile."
 date: "2026-07-30"
 draft: false

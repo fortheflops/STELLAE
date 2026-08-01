@@ -3,7 +3,7 @@ title: "Homemade Candied Citrus Peel"
 category: "Desserts"
 collection: "Patsy Collection"
 source: "Unknown"
-tags: ["candied", "citrus", "dessert", "vintage", "patsycollection"]
+tags: ["candied", "citrus", "dessert", "123", "patsycollection"]
 description: "A classic recipe for transforming fresh orange and lemon peels into sweet, translucent candied strips. These sugary treats are perfect for snacking or as a flavorful addition to holiday baked goods."
 date: "2026-07-30"
 draft: false

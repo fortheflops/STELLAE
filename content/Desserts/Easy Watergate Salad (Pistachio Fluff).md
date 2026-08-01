@@ -3,7 +3,7 @@ title: "Easy Watergate Salad (Pistachio Fluff)"
 category: "Desserts"
 collection: "UK15"
 source: "Mae White"
-tags: ["dessert", "vintage", "potluck", "pistachio", "nobake", "salad"]
+tags: ["dessert", "123", "potluck", "pistachio", "nobake", "salad"]
 description: "A classic, creamy no-bake dessert featuring pistachio pudding, pineapple, and marshmallows. This nostalgic potluck favorite is also known as Pistachio Fluff or Green Stuff."
 date: "2026-07-30"
 draft: false

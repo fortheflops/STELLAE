@@ -3,7 +3,7 @@ title: "Margaret Farley's Heavenly Pie"
 category: "Desserts"
 collection: "UK15"
 source: "Margaret Farley"
-tags: ["dessert", "pie", "nobake", "pineapple", "coconut", "pecans", "vintage"]
+tags: ["dessert", "pie", "nobake", "pineapple", "coconut", "pecans", "123"]
 description: "A classic no-bake dessert featuring a light and fluffy filling of cream cheese, pineapple, coconut, and pecans in a creamy, tangy base. This delightful vintage recipe makes two pies."
 date: "2026-07-30"
 draft: false

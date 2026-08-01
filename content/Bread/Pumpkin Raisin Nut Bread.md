@@ -3,7 +3,7 @@ title: "Pumpkin Raisin Nut Bread"
 category: "Bread"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["bread", "pumpkin", "raisin", "nuts", "baking", "vintage"]
+tags: ["bread", "pumpkin", "raisin", "nuts", "baking", "123"]
 description: "A classic, moist pumpkin bread packed with warm spices, sweet raisins, and crunchy nuts. This recipe rests for 20 minutes before baking to create a wonderfully tender loaf."
 date: "2026-07-30"
 draft: false

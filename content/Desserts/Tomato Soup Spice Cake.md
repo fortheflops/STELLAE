@@ -3,7 +3,7 @@ title: "Tomato Soup Spice Cake"
 category: "Desserts"
 collection: "Patsy Collection"
 source: "Unknown"
-tags: ["dessert", "cake", "spicecake", "vintage", "patsycollection"]
+tags: ["dessert", "cake", "spicecake", "123", "patsycollection"]
 description: "A surprisingly delicious and incredibly moist old-fashioned spice cake featuring condensed tomato soup for a tender crumb and rich flavor. Filled with warm spices and plump raisins, this vintage dessert is wonderfully paired with cream cheese frosting."
 date: "2026-07-30"
 draft: false

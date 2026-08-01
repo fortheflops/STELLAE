@@ -3,7 +3,7 @@ title: "Black Bean Salad"
 category: "Salads"
 collection: "Patsy Collection"
 source: "Unknown"
-tags: ["salad", "beans", "vegetarian", "appetizer", "vintage"]
+tags: ["salad", "beans", "vegetarian", "appetizer", "123"]
 description: "A vibrant and refreshing black bean salad packed with crisp bell peppers, sweet corn, and a zesty cilantro-lemon dressing. Perfect for potlucks and warm-weather gatherings."
 date: "2026-07-30"
 draft: false

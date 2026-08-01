@@ -3,7 +3,7 @@ title: "Classic Coconut Boiled White Icing"
 category: "Sauces"
 collection: "General Archive"
 source: "Unknown"
-tags: ["icing", "coconut", "dessert", "vintage", "frosting"]
+tags: ["icing", "coconut", "dessert", "123", "frosting"]
 description: "A light, fluffy, and glossy boiled icing, perfect for a classic coconut cake. This stable meringue-style frosting is made by whipping a hot sugar syrup into beaten egg whites."
 date: "2026-07-30"
 draft: false

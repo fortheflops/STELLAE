@@ -3,7 +3,7 @@ title: "No-Bake Date Nut Loaf"
 category: "Desserts"
 collection: "Unknown Two"
 source: "Unknown"
-tags: ["dessert", "candy", "vintage", "nobake", "dates", "nuts", "confection"]
+tags: ["dessert", "candy", "123", "nobake", "dates", "nuts", "confection"]
 description: "An old-fashioned, no-bake confection featuring a rich milk and sugar syrup cooked to the soft-ball stage. Loaded with chopped dates and nuts, this classic candy roll is chilled and sliced into sweet, bite-sized rounds."
 date: "2026-07-30"
 draft: false

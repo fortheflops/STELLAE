@@ -3,7 +3,7 @@ title: "Gena Morris's Pina Colada Poke Cake"
 category: "Desserts"
 collection: "UK3"
 source: "Gena Morris"
-tags: ["pokecake", "tropical", "coconut", "dessert", "vintage", "genamorris"]
+tags: ["pokecake", "tropical", "coconut", "dessert", "123", "genamorris"]
 description: "An incredibly moist and tropical poke cake from Gena Morris, saturated with cream of coconut and sweetened condensed milk. Topped with a fluffy Cool Whip and shredded coconut frosting for the ultimate island-inspired treat."
 date: "2026-07-30"
 draft: false

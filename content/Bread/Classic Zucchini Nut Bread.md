@@ -3,7 +3,7 @@ title: "Classic Zucchini Nut Bread"
 category: "Bread"
 collection: "UK2"
 source: "Unknown"
-tags: ["bread", "zucchini", "baking", "breakfast", "snack", "vintage"]
+tags: ["bread", "zucchini", "baking", "breakfast", "snack", "123"]
 description: "A classic, moist zucchini bread loaded with warm cinnamon, crunchy nuts, and sweet raisins. This recipe makes two delicious loaves, perfect for sharing or freezing."
 date: "2026-07-30"
 draft: false

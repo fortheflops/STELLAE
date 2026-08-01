@@ -3,7 +3,7 @@ title: "Butterscotch Nut Pie (Meringue Pie)"
 category: "Desserts"
 collection: "General Archive"
 source: "Svarale"
-tags: ["pie", "dessert", "meringue", "pecan", "butterscotch", "vintage"]
+tags: ["pie", "dessert", "meringue", "pecan", "butterscotch", "123"]
 description: "A unique and chewy crustless pie featuring a sweet meringue base baked with graham cracker crumbs and pecans, then topped with whipped cream and chilled for hours to set."
 date: "2026-07-30"
 draft: false

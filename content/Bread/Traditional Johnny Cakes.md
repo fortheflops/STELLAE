@@ -3,7 +3,7 @@ title: "Traditional Johnny Cakes"
 category: "Bread"
 collection: "UK2"
 source: "Unknown"
-tags: ["bread", "breakfast", "cornmeal", "vintage", "pancakes"]
+tags: ["bread", "breakfast", "cornmeal", "123", "pancakes"]
 description: "A classic recipe for traditional Johnny Cakes, a type of cornmeal flatbread scalded with boiling water for a tender texture. Cooked on a skillet until golden brown, these delicious cakes make a wonderful breakfast treat."
 date: "2026-07-30"
 draft: false

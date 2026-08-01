@@ -3,7 +3,7 @@ title: "Refrigerator Pickles"
 category: "Preserves"
 collection: "JC"
 source: "Sue Shoquist"
-tags: ["pickles", "cucumbers", "refrigerator", "sweetandtangy", "vintage", "appetizers"]
+tags: ["pickles", "cucumbers", "refrigerator", "sweetandtangy", "123", "appetizers"]
 description: "Enjoy crisp, sweet, and tangy refrigerator pickles made easily with fresh cucumbers, onions, and green peppers. This refreshing preserve requires no canning and develops vibrant flavor after resting in the fridge."
 date: "2026-07-30"
 draft: false

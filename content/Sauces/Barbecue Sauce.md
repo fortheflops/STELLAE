@@ -3,7 +3,7 @@ title: "Barbecue Sauce"
 category: "Sauces"
 collection: "UK3"
 source: "Gina Langle"
-tags: ["barbecuesauce", "sauce", "grilling", "homemade", "vintage"]
+tags: ["barbecuesauce", "sauce", "grilling", "homemade", "123"]
 description: "A rich and tangy homemade barbecue sauce packed with robust spices, Worcestershire, and a splash of beer. Perfect for slow-roasting or glazing your favorite meats until sticky and caramelized."
 date: "2026-07-30"
 draft: false

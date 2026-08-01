@@ -3,7 +3,7 @@ title: "Trudy Templin's Blitz Torte"
 category: "Desserts"
 collection: "UK2"
 source: "Trudy Templin"
-tags: ["dessert", "cake", "torte", "german", "meringue", "pineapple", "vintage"]
+tags: ["dessert", "cake", "torte", "german", "meringue", "pineapple", "123"]
 description: "A classic German Blitz Torte featuring a tender cake base and a crisp meringue top baked together, then filled with sweet pineapple."
 date: "2026-07-30"
 draft: false

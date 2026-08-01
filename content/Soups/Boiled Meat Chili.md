@@ -3,7 +3,7 @@ title: "Boiled Meat Chili"
 category: "Soups"
 collection: "UK5"
 source: "Unknown"
-tags: ["chili", "meat", "soup", "vintage"]
+tags: ["chili", "meat", "soup", "123"]
 description: "A traditional, slow-simmered boiled meat chili featuring tender shredded pork or beef in a richly spiced broth. This rustic recipe relies on reduction for thickness rather than flour."
 date: "2026-07-30"
 draft: false

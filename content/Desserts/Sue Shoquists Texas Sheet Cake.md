@@ -3,7 +3,7 @@ title: "Sue Shoquist's Texas Sheet Cake"
 category: "Desserts"
 collection: "JillCollection"
 source: "Sue Shoquist"
-tags: ["sheetcake", "chocolate", "dessert", "vintage", "baking", "jillcollection"]
+tags: ["sheetcake", "chocolate", "dessert", "123", "baking", "jillcollection"]
 description: "Indulge in a classic Texas Sheet Cake featuring a rich, boiled cocoa frosting poured over the warm cake. This crowd-pleasing dessert is perfect for gatherings and delivers deep chocolate flavor."
 date: "2026-07-30"
 draft: false

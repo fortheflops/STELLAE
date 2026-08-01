@@ -3,7 +3,7 @@ title: "Creamy Pineapple Lime Jello Salad"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["jello", "vintage", "salad", "dessert", "creamy", "retro"]
+tags: ["jello", "123", "salad", "dessert", "creamy", "retro"]
 description: "A classic molded Jello salad featuring the tangy combination of lime Jello and cream cheese, packed with crushed pineapple, crunchy pecans, and diced celery. This vintage recipe offers a delightful contrast of textures and flavors perfect for festive gatherings."
 date: "2026-07-30"
 draft: false

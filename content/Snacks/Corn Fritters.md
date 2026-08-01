@@ -8,7 +8,6 @@ tags:
   - corn
   - fritters
   - deep-fried
-  - vintage
   - unknownthree
 description: Golden deep-fried corn fritters made with sweet canned corn and lightened with whipped egg whites. Crisp on the outside and fluffy inside, they make a wonderful vintage snack or side dish.
 date: 2026-07-30

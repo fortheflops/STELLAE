@@ -1,13 +1,60 @@
 ---
-title: "Italian Clam and Potato Soup"
-category: "Soups"
-collection: "UK2"
-source: "Unknown"
-tags: ["soup", "clam", "italian", "seafood", "potatoes", "vintage"]
-description: "Warm up with this rustic Italian Clam and Potato Soup featuring tender potatoes, savory chopped clams, and a vibrant swirl of pesto. Quick and comforting, this coastal-inspired soup comes together in just twenty minutes."
-date: "2026-07-30"
+title: Italian Clam and Potato Soup
+category: Soups
+collection: UK2
+source: Unknown
+tags:
+  - soup
+  - clam
+  - italian
+  - seafood
+  - potatoes
+description: Warm up with this rustic Italian Clam and Potato Soup featuring tender potatoes, savory chopped clams, and a vibrant swirl of pesto. Quick and comforting, this coastal-inspired soup comes together in just twenty minutes.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Italian Clam and Potato Soup\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"Warm up with this rustic Italian Clam and Potato Soup featuring tender potatoes, savory chopped clams, and a vibrant swirl of pesto.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT20M\",\n  \"recipeYield\": \"4 Servings\",\n  \"recipeCategory\": \"Soups\",\n  \"recipeCuisine\": \"Italian\",\n  \"recipeIngredient\": [\n    \"2 Cans (14 \u00bd oz) Italian Stewed Tomatoes\",\n    \"2 (6.5 oz) Cans Chopped Clams\",\n    \"3 Medium Potatoes\",\n    \"1 Medium Clove Garlic\",\n    \"\u215b tsp Hot Red Pepper Flakes\",\n    \"1 Small Zucchini\",\n    \"3 Tbsp Pesto Sauce\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drain the 2 cans (6.5 oz each) chopped clams and add their juice directly to the 2 cans (14 \u00bd oz) italian stewed tomatoes in a medium saucepan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in the 3 medium potatoes cut into 1\\\" cubes, 1 medium clove garlic minced, and \u215b tsp hot red pepper flakes. Bring to a simmer and cook for 15 minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in the 1 small zucchini cut into \u00bd\\\" cubes and simmer for an additional 5 minutes until tender.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the drained 2 cans (6.5 oz each) chopped clams and 3 tbsp pesto sauce, stirring gently until heated through.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Italian Clam and Potato Soup",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "Warm up with this rustic Italian Clam and Potato Soup featuring tender potatoes, savory chopped clams, and a vibrant swirl of pesto.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "recipeYield": "4 Servings",
+    "recipeCategory": "Soups",
+    "recipeCuisine": "Italian",
+    "recipeIngredient": [
+      "2 Cans (14 ½ oz) Italian Stewed Tomatoes",
+      "2 (6.5 oz) Cans Chopped Clams",
+      "3 Medium Potatoes",
+      "1 Medium Clove Garlic",
+      "⅛ tsp Hot Red Pepper Flakes",
+      "1 Small Zucchini",
+      "3 Tbsp Pesto Sauce"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Drain the 2 cans (6.5 oz each) chopped clams and add their juice directly to the 2 cans (14 ½ oz) italian stewed tomatoes in a medium saucepan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the 3 medium potatoes cut into 1\" cubes, 1 medium clove garlic minced, and ⅛ tsp hot red pepper flakes. Bring to a simmer and cook for 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the 1 small zucchini cut into ½\" cubes and simmer for an additional 5 minutes until tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the drained 2 cans (6.5 oz each) chopped clams and 3 tbsp pesto sauce, stirring gently until heated through."
+      }
+    ]
+  }
 ---
 
 # Italian Clam and Potato Soup

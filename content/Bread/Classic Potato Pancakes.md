@@ -3,7 +3,7 @@ title: "Classic Potato Pancakes"
 category: "Bread"
 collection: "UK2"
 source: "Unknown"
-tags: ["bread", "pancakes", "potatoes", "vintage", "savory"]
+tags: ["bread", "pancakes", "potatoes", "123", "savory"]
 description: "A simple and classic recipe for savory potato pancakes crafted with freshly grated potatoes and onion. Fried until perfectly crisp and traditionally served with a dollop of sour cream."
 date: "2026-07-30"
 draft: false

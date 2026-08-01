@@ -3,7 +3,7 @@ title: "Savory Zucchini Torta"
 category: "Bread"
 collection: "Unknown Two"
 source: "Unknown"
-tags: ["bread", "savory", "zucchini", "torta", "bisquick", "vintage"]
+tags: ["bread", "savory", "zucchini", "torta", "bisquick", "123"]
 description: "A simple and savory crustless pie made with grated zucchini, onion, and Parmesan cheese held together with a Bisquick batter. Perfect as a side dish, appetizer, or light lunch."
 date: "2026-07-30"
 draft: false

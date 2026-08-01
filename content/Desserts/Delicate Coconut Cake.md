@@ -3,7 +3,7 @@ title: "Delicate Coconut Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["dessert", "cake", "coconut", "vintage", "baking"]
+tags: ["dessert", "cake", "coconut", "123", "baking"]
 description: "A vintage 1918 recipe for a delicate coconut cake made with cornmeal for a unique texture and folded egg whites for lightness. Topped with toasted almonds and shredded coconut for a delightful finish."
 date: "2026-07-30"
 draft: false

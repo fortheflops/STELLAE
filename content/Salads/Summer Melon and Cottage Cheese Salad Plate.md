@@ -3,7 +3,7 @@ title: "Summer Melon and Cottage Cheese Salad Plate"
 category: "Salads"
 collection: "Louise Collection"
 source: "Unknown"
-tags: ["salad", "summer", "fruit", "light", "vintage"]
+tags: ["salad", "summer", "fruit", "light", "123"]
 description: "A refreshing and classic summer fruit plate featuring slices of cantaloupe and honeydew melon served on a bed of lettuce with a scoop of cottage cheese and fresh strawberries. This light dish is perfect for a quick lunch or a cooling side."
 date: "2026-07-30"
 draft: false

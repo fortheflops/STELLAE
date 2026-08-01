@@ -3,7 +3,7 @@ title: "Cherry Ginger Ale Salad"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["jello", "vintage", "salad", "cherry", "gingerale", "fruitcocktail"]
+tags: ["jello", "123", "salad", "cherry", "gingerale", "fruitcocktail"]
 description: "A classic and refreshing molded Jello salad featuring cherry gelatin, fruit cocktail, and the fizzy, subtle spice of ginger ale for a delightful twist. This vintage dessert is perfect for festive gatherings and light, sweet finishes."
 date: "2026-07-30"
 draft: false

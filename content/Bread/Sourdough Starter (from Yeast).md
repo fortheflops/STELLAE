@@ -3,7 +3,7 @@ title: "Sourdough Starter (from Yeast)"
 category: "Bread"
 collection: "UK2"
 source: "Unknown"
-tags: ["bread", "sourdough", "starter", "yeast", "baking", "vintage"]
+tags: ["bread", "sourdough", "starter", "yeast", "baking", "123"]
 description: "Create a quick, tangy sourdough-style starter using commercial yeast and a 24-hour room temperature fermentation. This traditional method yields a bubbly, flavorful base ready for your favorite rustic breads and baked goods."
 date: "2026-07-30"
 draft: false

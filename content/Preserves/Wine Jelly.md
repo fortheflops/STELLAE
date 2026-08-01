@@ -3,7 +3,7 @@ title: "Wine Jelly"
 category: "Preserves"
 collection: "Gail Collection"
 source: "Joni"
-tags: ["preserves", "jelly", "wine", "vintage", "canning"]
+tags: ["preserves", "jelly", "wine", "123", "canning"]
 description: "A delightful homemade wine jelly crafted with fruit wine and liquid pectin, sealed with paraffin wax for long-lasting preservation. This vintage preserve recipe makes a charming addition to any pantry."
 date: "2026-07-30"
 draft: false

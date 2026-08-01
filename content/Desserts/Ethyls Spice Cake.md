@@ -3,7 +3,7 @@ title: "Ethyl's Spice Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Ethyl"
-tags: ["cake", "dessert", "spicecake", "vintage", "baking"]
+tags: ["cake", "dessert", "spicecake", "123", "baking"]
 description: "A classic, old-fashioned spice cake from a recipe by Ethyl. This tender, buttery cake is flavored with a warm blend of nutmeg, ginger, and cinnamon, and studded with raisins and fresh lemon zest."
 date: "2026-07-30"
 draft: false

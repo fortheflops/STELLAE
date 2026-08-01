@@ -3,7 +3,7 @@ title: "Vintage Orange Peel Bread"
 category: "Bread"
 collection: "JohnBCollection"
 source: "Unknown"
-tags: ["quickbread", "vintage", "orange", "bread", "baking"]
+tags: ["quickbread", "123", "orange", "bread", "baking"]
 description: "A unique vintage quick bread recipe that utilizes candied orange peels. The rinds are boiled until tender, candied in a sugar syrup, and then incorporated into a simple milk and egg batter."
 date: "2026-07-30"
 draft: false

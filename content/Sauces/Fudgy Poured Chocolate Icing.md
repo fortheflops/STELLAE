@@ -3,7 +3,7 @@ title: "Fudgy Poured Chocolate Icing"
 category: "Sauces"
 collection: "General Archive"
 source: "Unknown"
-tags: ["icing", "chocolate", "vintage", "desserttopping", "fudgy"]
+tags: ["icing", "chocolate", "123", "desserttopping", "fudgy"]
 description: "A classic, rich cooked chocolate icing designed to be poured over hot cake for a glossy, fudge-like finish. This traditional recipe is the perfect companion for Texas Sheet Cake."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Bread Pudding"
 category: "Desserts"
 collection: "UK2"
 source: "Lois Shelton"
-tags: ["breadpudding", "vintage", "custard", "comfortfood", "dessert"]
+tags: ["breadpudding", "123", "custard", "comfortfood", "dessert"]
 description: "A traditional, large-batch bread pudding featuring a rich custard made from scalded milk and eggs, baked until golden brown and set. This classic recipe is perfect for serving a crowd with its simple, comforting flavors."
 date: "2026-07-30"
 draft: false

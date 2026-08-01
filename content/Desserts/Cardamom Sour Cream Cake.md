@@ -3,7 +3,7 @@ title: "Cardamom Sour Cream Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cake", "dessert", "cardamom", "sourcream", "baking", "vintage"]
+tags: ["cake", "dessert", "cardamom", "sourcream", "baking", "123"]
 description: "A rich and wonderfully moist sour cream cake with the warm, aromatic flavor of cardamom. This dense, buttery cake is simple to make and perfect for any occasion, finished with a light dusting of powdered sugar."
 date: "2026-07-30"
 draft: false

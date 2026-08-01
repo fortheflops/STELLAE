@@ -3,7 +3,7 @@ title: "Caramel Nut Strudel Bars"
 category: "Desserts"
 collection: "UK5"
 source: "Unknown"
-tags: ["bars", "dessert", "caramel", "streusel", "vintage", "nuts"]
+tags: ["bars", "dessert", "caramel", "streusel", "123", "nuts"]
 description: "A rich and decadent layered bar featuring a crunchy corn flake and nut streusel that serves as both the crust and the topping. The filling is a gooey, buttery caramel cooked on the stovetop."
 date: "2026-07-30"
 draft: false

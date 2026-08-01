@@ -3,7 +3,7 @@ title: "Fluffy Orange-Apricot Gelatin Mold"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "gelatin", "vintage", "mousse", "fruit"]
+tags: ["dessert", "gelatin", "123", "mousse", "fruit"]
 description: "An elegant and airy gelatin mold featuring the bright flavors of orange and apricot. Whipped egg whites are folded into the base to create a light, mousse-like texture, studded with fresh fruit."
 date: "2026-07-30"
 draft: false

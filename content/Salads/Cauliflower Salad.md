@@ -3,7 +3,7 @@ title: "Cauliflower Salad"
 category: "Salads"
 collection: "UK2"
 source: "Unknown"
-tags: ["salads", "vegetable", "cauliflower", "marinated", "vintage"]
+tags: ["salads", "vegetable", "cauliflower", "marinated", "123"]
 description: "A crisp and tangy marinated vegetable salad featuring cauliflower, carrots, and olives steeped in a seasoned vinegar dressing. Chill for 24 hours before serving for optimal flavor absorption."
 date: "2026-07-30"
 draft: false

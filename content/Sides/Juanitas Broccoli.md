@@ -3,7 +3,7 @@ title: "Juanita's Broccoli"
 category: "Sides"
 collection: "UK2"
 source: "Juanita"
-tags: ["broccoli", "sides", "casserole", "cheese", "vintage"]
+tags: ["broccoli", "sides", "casserole", "cheese", "123"]
 description: "Discover Juanita's Broccoli, a comforting vintage side dish featuring tender broccoli bathed in a rich garlic cheese and mushroom soup sauce. Topped with bread crumbs and baked to golden perfection, it is a timeless family favorite."
 date: "2026-07-30"
 draft: false

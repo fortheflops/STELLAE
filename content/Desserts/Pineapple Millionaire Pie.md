@@ -3,7 +3,7 @@ title: "Pineapple Millionaire Pie"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["dessert", "pie", "nobake", "southern", "pineapple", "vintage"]
+tags: ["dessert", "pie", "nobake", "southern", "pineapple", "123"]
 description: "A decadent, Southern-style no-bake pie featuring a rich, buttery base and a light pineapple-nut whipped cream topping. This vintage recipe yields two delicious pies."
 date: "2026-07-30"
 draft: false

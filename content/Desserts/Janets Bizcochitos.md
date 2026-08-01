@@ -3,7 +3,7 @@ title: "Janet's Bizcochitos"
 category: "Desserts"
 collection: "UK15"
 source: "Janet Preston"
-tags: ["cookies", "bizcochitos", "newmexican", "holiday", "vintage", "anise"]
+tags: ["cookies", "bizcochitos", "newmexican", "holiday", "123", "anise"]
 description: "A classic large-batch recipe for traditional New Mexican bizcochitos featuring crisp, tender shortbread flavored with anise and brandy. These cookies are finished with a signature dusting of cinnamon-sugar for a perfect holiday treat."
 date: "2026-07-30"
 draft: false

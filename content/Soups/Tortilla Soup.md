@@ -1,13 +1,70 @@
 ---
-title: "Tortilla Soup"
-category: "Soups"
-collection: "UK5"
-source: "Unknown"
-tags: ["soup", "mexican", "chicken", "tortilla", "comfortfood", "vintage"]
-description: "A vibrant and comforting Mexican-style soup featuring a rich roasted tomato and chili base, shredded chicken, and savory broth. Topped with crispy fried tortilla strips and cooling sour cream for a perfect bowl."
-date: "2026-07-30"
+title: Tortilla Soup
+category: Soups
+collection: UK5
+source: Unknown
+tags:
+  - soup
+  - mexican
+  - chicken
+  - tortilla
+  - comfortfood
+description: A vibrant and comforting Mexican-style soup featuring a rich roasted tomato and chili base, shredded chicken, and savory broth. Topped with crispy fried tortilla strips and cooling sour cream for a perfect bowl.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Tortilla Soup\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A vibrant and comforting Mexican-style soup featuring a rich roasted tomato and chili base, shredded chicken, and savory broth.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT30M\",\n  \"recipeCategory\": \"Soups\",\n  \"recipeCuisine\": \"Mexican\",\n  \"recipeYield\": \"4-6 Servings\",\n  \"recipeIngredient\": [\n    \"White Onions\",\n    \"Garlic\",\n    \"Canola Oil\",\n    \"Red Chili\",\n    \"Pureed Roasted Tomato\",\n    \"Olive Oil\",\n    \"Salt\",\n    \"Pepper\",\n    \"Cilantro\",\n    \"Parsley\",\n    \"Shredded Chicken\",\n    \"Chicken Broth\",\n    \"Fried Tortilla Strips\",\n    \"Sour Cream\",\n    \"Corn\",\n    \"Beans\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large pot, saut\u00e9 the white onions and garlic in canola oil until translucent and fragrant.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the red chili along with the pureed roasted tomato.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in a splash of olive oil, salt, pepper, cilantro, and parsley, cooking down to a concentrated base.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add shredded chicken and chicken broth, simmering until hot and serving with garnishes.\"\n    }\n  ],\n  \"image\": \"Tortilla Soup UK5-1753320993794.webp\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Tortilla Soup",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A vibrant and comforting Mexican-style soup featuring a rich roasted tomato and chili base, shredded chicken, and savory broth.",
+    "prepTime": "PT20M",
+    "cookTime": "PT30M",
+    "recipeCategory": "Soups",
+    "recipeCuisine": "Mexican",
+    "recipeYield": "4-6 Servings",
+    "recipeIngredient": [
+      "White Onions",
+      "Garlic",
+      "Canola Oil",
+      "Red Chili",
+      "Pureed Roasted Tomato",
+      "Olive Oil",
+      "Salt",
+      "Pepper",
+      "Cilantro",
+      "Parsley",
+      "Shredded Chicken",
+      "Chicken Broth",
+      "Fried Tortilla Strips",
+      "Sour Cream",
+      "Corn",
+      "Beans"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, sauté the white onions and garlic in canola oil until translucent and fragrant."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the red chili along with the pureed roasted tomato."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in a splash of olive oil, salt, pepper, cilantro, and parsley, cooking down to a concentrated base."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add shredded chicken and chicken broth, simmering until hot and serving with garnishes."
+      }
+    ],
+    "image": "Tortilla Soup UK5-1753320993794.webp"
+  }
 ---
 
 # Tortilla Soup

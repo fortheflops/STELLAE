@@ -3,7 +3,7 @@ title: "Jill's Perfect Pie Crust"
 category: "Desserts"
 collection: "JC"
 source: "Jill"
-tags: ["pie", "crust", "pastry", "baking", "jillcollection", "vintage"]
+tags: ["pie", "crust", "pastry", "baking", "jillcollection", "123"]
 description: "A simple, flaky pie crust recipe from Jill using shortening and ice water for a tender texture. This versatile recipe provides quantities for a single 9-inch crust, which can be easily doubled for a two-crust pie."
 date: "2026-07-30"
 draft: false

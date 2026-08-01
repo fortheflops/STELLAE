@@ -3,7 +3,7 @@ title: "Old-Fashioned Chocolate Milkshake"
 category: "Beverages"
 collection: "LOC"
 source: "Unknown"
-tags: ["beverage", "milkshake", "chocolate", "vintage", "quick"]
+tags: ["beverage", "milkshake", "chocolate", "123", "quick"]
 description: "A simple and classic recipe for an old-fashioned chocolate milkshake. This version uses a whole egg to create a rich, frothy texture without any ice cream."
 date: "2026-07-30"
 draft: false

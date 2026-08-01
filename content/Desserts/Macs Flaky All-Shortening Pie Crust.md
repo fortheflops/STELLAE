@@ -3,7 +3,7 @@ title: "Mac's Flaky All-Shortening Pie Crust"
 category: "Desserts"
 collection: "UK15"
 source: "Mac"
-tags: ["pie", "crust", "baking", "pastry", "dessert", "vintage"]
+tags: ["pie", "crust", "baking", "pastry", "dessert", "123"]
 description: "A classic, tender, and flaky pie crust from Mac, made with shortening and enriched with an egg and a touch of vinegar for an easy-to-handle dough that freezes beautifully."
 date: "2026-07-30"
 draft: false

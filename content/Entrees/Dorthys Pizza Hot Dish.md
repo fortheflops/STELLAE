@@ -3,7 +3,7 @@ title: "Dorthy's Pizza Hot Dish"
 category: "Entrees"
 collection: "UK15"
 source: "Dorthy"
-tags: ["casserole", "pizza", "beef", "comfortfood", "vintage"]
+tags: ["casserole", "pizza", "beef", "comfortfood", "123"]
 description: "A classic and easy 'hot dish' casserole from Dorthy, this recipe combines all the flavors of pizza with hamburger and noodles for a hearty family meal."
 date: "2026-07-30"
 draft: false

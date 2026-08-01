@@ -1,13 +1,17 @@
 ---
-title: "Noodle Soup"
-category: "Soups"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["soup", "noodles", "comfortfood", "vintage", "gailcollection"]
-description: "A comforting vintage noodle soup featuring a rich meat broth, hearty tomatoes, and tender vegetables. Perfect for a cozy family dinner."
-date: "2026-07-30"
+title: Noodle Soup
+category: Soups
+collection: Gail Collection
+source: Unknown
+tags:
+  - soup
+  - noodles
+  - comfortfood
+  - gailcollection
+description: A comforting vintage noodle soup featuring a rich meat broth, hearty tomatoes, and tender vegetables. Perfect for a cozy family dinner.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Noodle Soup\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-06-23\", \"description\": \"A comforting vintage noodle soup featuring a rich meat broth, hearty tomatoes, and tender vegetables.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H45M\", \"recipeCategory\": \"Soups\", \"recipeYield\": \"6 Servings\", \"recipeIngredient\": [\"1 soup bone with meat\", \"Salt\", \"Onion\", \"1 cube of garlic\", \"1 can solid pack Tomatoes\", \"1 can Tomato Sauce\", \"2 Carrots\", \"2 stalks Celery\", \"Noodles\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a large pot, combine the 1 soup bone with meat, salt, onion, and 1 cube of garlic. Cover with water and cook for 1.5 hours.\"}, {\"@type\": \"HowToStep\", \"text\": \"Remove the 1 soup bone from the pot.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add 1 can of solid pack tomatoes (breaking them up with a spoon) and 1 can of tomato sauce to the broth.\"}, {\"@type\": \"HowToStep\", \"text\": \"Finely chop the 2 carrots and 2 stalks of celery and add them to the soup. Cook until the vegetables are tender.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the noodles to the pot and cook for 10 minutes, or until tender according to package directions.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Noodle Soup", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-06-23", "description": "A comforting vintage noodle soup featuring a rich meat broth, hearty tomatoes, and tender vegetables.", "prepTime": "PT20M", "cookTime": "PT1H45M", "recipeCategory": "Soups", "recipeYield": "6 Servings", "recipeIngredient": ["1 soup bone with meat", "Salt", "Onion", "1 cube of garlic", "1 can solid pack Tomatoes", "1 can Tomato Sauce", "2 Carrots", "2 stalks Celery", "Noodles"], "recipeInstructions": [{"@type": "HowToStep", "text": "In a large pot, combine the 1 soup bone with meat, salt, onion, and 1 cube of garlic. Cover with water and cook for 1.5 hours."}, {"@type": "HowToStep", "text": "Remove the 1 soup bone from the pot."}, {"@type": "HowToStep", "text": "Add 1 can of solid pack tomatoes (breaking them up with a spoon) and 1 can of tomato sauce to the broth."}, {"@type": "HowToStep", "text": "Finely chop the 2 carrots and 2 stalks of celery and add them to the soup. Cook until the vegetables are tender."}, {"@type": "HowToStep", "text": "Add the noodles to the pot and cook for 10 minutes, or until tender according to package directions."}]}'
 ---
 
 # Noodle Soup

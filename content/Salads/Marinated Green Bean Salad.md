@@ -3,7 +3,7 @@ title: "Marinated Green Bean Salad"
 category: "Salads"
 collection: "UK3"
 source: "Celina Engle"
-tags: ["salad", "vegetable", "greenbean", "marinated", "vintage"]
+tags: ["salad", "vegetable", "greenbean", "marinated", "123"]
 description: "A crisp and tangy marinated green bean salad featuring sweet peas, pimentos, and celery. Prepared overnight for maximum flavor absorption and served chilled."
 date: "2026-07-30"
 draft: false

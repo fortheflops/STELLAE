@@ -3,7 +3,7 @@ title: "Lois' Cole Slaw"
 category: "Sides"
 collection: "UK2 Collection"
 source: "Lois"
-tags: ["coleslaw", "cabbage", "salad", "vintage", "uk2"]
+tags: ["coleslaw", "cabbage", "salad", "123", "uk2"]
 description: "A crisp, tangy vintage coleslaw featuring shredded cabbage, sliced onions, and green pepper tossed in a simple vinegar and oil dressing. A simple classic side dish preserved from Lois's kitchen collection."
 date: "2026-07-30"
 draft: false

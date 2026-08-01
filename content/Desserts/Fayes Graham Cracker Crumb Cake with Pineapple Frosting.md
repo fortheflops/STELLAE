@@ -3,7 +3,7 @@ title: "Faye's Graham Cracker Crumb Cake with Pineapple Frosting"
 category: "Desserts"
 collection: "General Archive"
 source: "Faye"
-tags: ["dessert", "cake", "grahamcracker", "coconut", "pineapple", "vintage"]
+tags: ["dessert", "cake", "grahamcracker", "coconut", "pineapple", "123"]
 description: "A rich, dense, and unique layer cake made with graham cracker crumbs and coconut instead of flour, topped with a sweet crushed pineapple frosting."
 date: "2026-07-30"
 draft: false

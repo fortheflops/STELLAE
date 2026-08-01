@@ -3,7 +3,7 @@ title: "Oatmeal-Fudge Bars"
 category: "Desserts"
 collection: "UK5"
 source: "Unknown"
-tags: ["dessert", "oatmeal", "fudge", "bars", "vintage", "walnuts"]
+tags: ["dessert", "oatmeal", "fudge", "bars", "123", "walnuts"]
 description: "A decadent layered bar cookie featuring a chewy oatmeal-walnut crust and topping, with a rich, gooey fudge filling made from chocolate chips and sweetened condensed milk."
 date: "2026-07-30"
 draft: false

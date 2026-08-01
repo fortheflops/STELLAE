@@ -3,7 +3,7 @@ title: "Tamale Pie"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["entree", "tamalepie", "casserole", "comfortfood", "vintage"]
+tags: ["entree", "tamalepie", "casserole", "comfortfood", "123"]
 description: "A classic vintage tamale pie featuring seasoned ground round, corn, and olives topped with a savory cornmeal crust. Baked to golden perfection, this hearty casserole serves a crowd."
 date: "2026-07-30"
 draft: false

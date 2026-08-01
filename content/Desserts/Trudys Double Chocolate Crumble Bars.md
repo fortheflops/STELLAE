@@ -3,7 +3,7 @@ title: "Trudy's Double Chocolate Crumble Bars"
 category: "Desserts"
 collection: "UK2"
 source: "Trudy"
-tags: ["bars", "chocolate", "marshmallow", "vintage", "dessert", "peanutbutter"]
+tags: ["bars", "chocolate", "marshmallow", "123", "dessert", "peanutbutter"]
 description: "A decadent multi-layered bar cookie featuring a rich brownie-like base, a gooey marshmallow center, and a crunchy chocolate-butterscotch topping. These indulgent treats are perfect for gatherings and store beautifully in the refrigerator."
 date: "2026-07-30"
 draft: false

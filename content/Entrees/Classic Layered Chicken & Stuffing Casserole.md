@@ -3,7 +3,7 @@ title: "Classic Layered Chicken & Stuffing Casserole"
 category: "Entrees"
 collection: "General Archive"
 source: "Unknown"
-tags: ["casserole", "chicken", "comfortfood", "vintage", "easy"]
+tags: ["casserole", "chicken", "comfortfood", "123", "easy"]
 description: "The ultimate comfort food. This classic casserole features layers of tender cooked chicken and creamy chicken soup, topped with a savory herb-seasoned stuffing and baked until golden brown and bubbly."
 date: "2026-07-30"
 draft: false

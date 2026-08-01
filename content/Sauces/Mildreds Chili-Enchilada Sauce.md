@@ -3,7 +3,7 @@ title: "Mildred's Chili-Enchilada Sauce"
 category: "Sauces"
 collection: "UK2"
 source: "Mildred (Neighbor on 12th St. - 1943)"
-tags: ["sauce", "chili", "enchilada", "vintage", "salsaroja"]
+tags: ["sauce", "chili", "enchilada", "123", "salsaroja"]
 description: "A rich and savory vintage chili-enchilada sauce from 1943, featuring ground beef, aromatic spices, and a robust chili powder base. Perfect for layering into authentic, crispy enchiladas."
 date: "2026-07-30"
 draft: false

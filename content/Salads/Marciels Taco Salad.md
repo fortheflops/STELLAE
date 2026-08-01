@@ -3,7 +3,7 @@ title: "Marciel's Taco Salad"
 category: "Salads"
 collection: "UK2"
 source: "Marciel"
-tags: ["salads", "tacosalad", "vintage", "texmex"]
+tags: ["salads", "tacosalad", "123", "texmex"]
 description: "A delightful and crunchy taco salad featuring seasoned hamburger, fresh vegetables, and tangy Thousand Island dressing. Perfectly tossed for a crowd-pleasing side or light entree."
 date: "2026-07-30"
 draft: false

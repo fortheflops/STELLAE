@@ -3,7 +3,7 @@ title: "Classic Cooked Chocolate Cream Pie"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["chocolate", "pie", "dessert", "vintage", "stovetop"]
+tags: ["chocolate", "pie", "dessert", "123", "stovetop"]
 description: "A traditional, from-scratch chocolate cream pie featuring a rich, stovetop-cooked pudding filling made with unsweetened chocolate and egg yolks. Chilled overnight, this vintage dessert delivers a decadent and smooth texture in a flaky crust."
 date: "2026-07-30"
 draft: false

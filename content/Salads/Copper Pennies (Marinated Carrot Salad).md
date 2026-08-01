@@ -3,7 +3,7 @@ title: "Copper Pennies (Marinated Carrot Salad)"
 category: "Salads"
 collection: "UK15"
 source: "Unknown"
-tags: ["salad", "carrots", "marinated", "vintage", "vegetable"]
+tags: ["salad", "carrots", "marinated", "123", "vegetable"]
 description: "A delightful vintage marinated carrot salad featuring tender-crisp carrots tossed with onions and green peppers in a tangy tomato-vinegar dressing. This make-ahead dish develops deeper flavors as it rests overnight in the refrigerator."
 date: "2026-07-30"
 draft: false

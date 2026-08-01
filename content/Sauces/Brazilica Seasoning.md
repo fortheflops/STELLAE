@@ -3,7 +3,7 @@ title: "Brazilica Seasoning"
 category: "Sauces"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["seasoning", "condiment", "cheese", "basil", "garlic", "vintage", "gailcollection"]
+tags: ["seasoning", "condiment", "cheese", "basil", "garlic", "123", "gailcollection"]
 description: "A flavorful and aromatic vintage seasoning blend made with grated cheese, fresh basil, and garlic, perfect for tossing with hot noodles."
 date: "2026-07-30"
 draft: false

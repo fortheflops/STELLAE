@@ -3,7 +3,7 @@ title: "Tidbits Trash"
 category: "Snacks"
 collection: "Unknown Three Collection"
 source: "Unknown"
-tags: ["snacks", "snack mix", "vintage", "party snack", "savory", "chex mix", "bacon fat"]
+tags: ["snacks", "snack mix", "123", "party snack", "savory", "chex mix", "bacon fat"]
 description: "A classic savory party snack mix packed with cereals, pretzels, pecans, and smoked bacon fat seasoning. Slow-roasted at low heat until crispy, crunchy, and deeply flavorful."
 date: "2026-07-30"
 draft: false

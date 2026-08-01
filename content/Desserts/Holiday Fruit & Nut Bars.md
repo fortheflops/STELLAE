@@ -3,7 +3,7 @@ title: "Holiday Fruit & Nut Bars"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["holiday", "bars", "fruitcake", "vintage", "largebatch", "cookies"]
+tags: ["holiday", "bars", "fruitcake", "123", "largebatch", "cookies"]
 description: "A festive, large-batch recipe for rich and chewy fruitcake-style bars. This batter is packed with dates, pineapple, cherries, chocolate chips, and nuts, making it perfect for holiday gift-giving."
 date: "2026-07-30"
 draft: false

@@ -1,13 +1,18 @@
 ---
-title: "Hamburger Soup"
-category: "Soups"
-collection: "UK15"
-source: "Unknown"
-tags: ["soup", "beef", "crockpot", "comfortfood", "vintage", "hearty"]
-description: "A comforting and hearty slow-cooked soup featuring lean ground beef, mixed vegetables, rice, and a rich tomato base. Perfect for effortless all-day simmering."
-date: "2026-07-30"
+title: Hamburger Soup
+category: Soups
+collection: UK15
+source: Unknown
+tags:
+  - soup
+  - beef
+  - crockpot
+  - comfortfood
+  - hearty
+description: A comforting and hearty slow-cooked soup featuring lean ground beef, mixed vegetables, rice, and a rich tomato base. Perfect for effortless all-day simmering.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Hamburger Soup\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2023-01-01\", \"description\": \"A comforting and hearty slow-cooked soup featuring lean ground beef, mixed vegetables, rice, and a rich tomato base.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT6H\", \"totalTime\": \"PT6H15M\", \"recipeYield\": \"6-8 Servings\", \"recipeCategory\": \"Soups\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 pound Lean Ground Beef\", \"1 medium to large Onion, chopped\", \"1 medium can Chopped Tomatoes with juice\", \"1 can Tomato Soup\", \"3 Beef Bouillon Cubes\", \"1 large can Veg-All Mixed Vegetables\", \"1 small can Drained Green Lima Beans\", \"4 to 5 tablespoons Long grain Rice\", \"Salt and Pepper to taste\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a skillet over medium-high heat, brown the ground beef and chopped onion until the meat is fully cooked.\"}, {\"@type\": \"HowToStep\", \"text\": \"Transfer the browned meat and onion to a crockpot.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add all the remaining ingredients including tomatoes, tomato soup, bouillon cubes, mixed vegetables, drained lima beans, and rice to the crockpot.\"}, {\"@type\": \"HowToStep\", \"text\": \"Season with salt and pepper to taste and cook on low all day or all night until tender and fragrant.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Hamburger Soup", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2023-01-01", "description": "A comforting and hearty slow-cooked soup featuring lean ground beef, mixed vegetables, rice, and a rich tomato base.", "prepTime": "PT15M", "cookTime": "PT6H", "totalTime": "PT6H15M", "recipeYield": "6-8 Servings", "recipeCategory": "Soups", "recipeCuisine": "American", "recipeIngredient": ["1 pound Lean Ground Beef", "1 medium to large Onion, chopped", "1 medium can Chopped Tomatoes with juice", "1 can Tomato Soup", "3 Beef Bouillon Cubes", "1 large can Veg-All Mixed Vegetables", "1 small can Drained Green Lima Beans", "4 to 5 tablespoons Long grain Rice", "Salt and Pepper to taste"], "recipeInstructions": [{"@type": "HowToStep", "text": "In a skillet over medium-high heat, brown the ground beef and chopped onion until the meat is fully cooked."}, {"@type": "HowToStep", "text": "Transfer the browned meat and onion to a crockpot."}, {"@type": "HowToStep", "text": "Add all the remaining ingredients including tomatoes, tomato soup, bouillon cubes, mixed vegetables, drained lima beans, and rice to the crockpot."}, {"@type": "HowToStep", "text": "Season with salt and pepper to taste and cook on low all day or all night until tender and fragrant."}]}'
 ---
 
 # Hamburger Soup

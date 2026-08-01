@@ -3,7 +3,7 @@ title: "Pickled Pears"
 category: "Preserves"
 collection: "Gail Collection"
 source: "Ann Seranne"
-tags: ["preserves", "pears", "pickled", "canning", "vintage"]
+tags: ["preserves", "pears", "pickled", "canning", "123"]
 description: "Delightful spiced pickled pears preserved in a sweet syrup, adapted from The Complete Book of Home Preserving. This vintage recipe yields tender, translucent fruit infused with warm spices."
 date: "2026-07-30"
 draft: false

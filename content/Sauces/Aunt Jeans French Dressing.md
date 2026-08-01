@@ -3,7 +3,7 @@ title: "Aunt Jean's French Dressing"
 category: "Sauces"
 collection: "Jill Collection"
 source: "Aunt Jean"
-tags: ["dressing", "vintage", "classic", "condiment", "jillcollection"]
+tags: ["dressing", "123", "classic", "condiment", "jillcollection"]
 description: "A classic, tangy French dressing featuring a rich tomato soup base emulsified with vegetable oil. This vintage recipe is perfectly balanced with mustard and Worcestershire for a timeless salad accompaniment."
 date: "2026-07-30"
 draft: false

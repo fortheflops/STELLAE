@@ -3,7 +3,7 @@ title: "Lemon Jello Poke Cake"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["cake", "lemon", "dessert", "vintage", "pokecake"]
+tags: ["cake", "lemon", "dessert", "123", "pokecake"]
 description: "A supremely moist and tangy lemon poke cake made easy with a yellow cake mix and lemon Jello. While still warm, the cake is poked and saturated with a sweet lemon juice glaze."
 date: "2026-07-30"
 draft: false

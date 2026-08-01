@@ -3,7 +3,7 @@ title: "Soda Cracker Torte"
 category: "Desserts"
 collection: "GC"
 source: "Unknown"
-tags: ["dessert", "torte", "vintage", "flourless", "baking"]
+tags: ["dessert", "torte", "123", "flourless", "baking"]
 description: "A classic, vintage torte with a unique, chewy texture and rich nutty flavor. This flourless dessert gets its structure from crushed soda crackers and beaten egg whites."
 date: "2026-07-30"
 draft: false

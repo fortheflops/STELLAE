@@ -3,7 +3,7 @@ title: "Linda Brown's Parmesan Melba Toast"
 category: "Bread"
 collection: "UK3"
 source: "Linda Brown"
-tags: ["appetizer", "snack", "bread", "parmesan", "toast", "vintage"]
+tags: ["appetizer", "snack", "bread", "parmesan", "toast", "123"]
 description: "A simple yet elegant recipe from Linda Brown for creating your own crispy Parmesan Melba Toast. Thinly sliced bread is basted with butter and baked low and slow until perfectly dry and golden."
 date: "2026-07-30"
 draft: false

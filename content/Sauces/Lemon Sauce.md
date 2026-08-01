@@ -3,7 +3,7 @@ title: "Lemon Sauce"
 category: "Sauces"
 collection: "UK3"
 source: "Unknown"
-tags: ["lemon", "sauce", "vintage", "desserttopping", "citrus"]
+tags: ["lemon", "sauce", "123", "desserttopping", "citrus"]
 description: "A bright and zesty lemon sauce perfect for drizzling over cakes, gingerbread, and fruit cobblers. This classic recipe uses simple pantry staples to create a smooth, thickened finish."
 date: "2026-07-30"
 draft: false

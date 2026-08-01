@@ -3,7 +3,7 @@ title: "Classic Buttermilk Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "cake", "buttermilk", "vintage", "baking"]
+tags: ["dessert", "cake", "buttermilk", "123", "baking"]
 description: "A classic, tender buttermilk layer cake made with separated eggs and a touch of vinegar for an extra fine crumb. This delightful vintage recipe yields a light and fluffy texture perfect for any celebration."
 date: "2026-07-30"
 draft: false

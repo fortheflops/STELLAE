@@ -3,7 +3,7 @@ title: "Brown Sugar Nut Tea Cakes"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["teacake", "dessert", "cookies", "baking", "vintage"]
+tags: ["teacake", "dessert", "cookies", "baking", "123"]
 description: "A unique and delicious tea cake with a rich, chewy, brownie-like texture. This simple recipe gets its lift entirely from beaten eggs and is loaded with brown sugar and nuts."
 date: "2026-07-30"
 draft: false

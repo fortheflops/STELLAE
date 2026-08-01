@@ -3,7 +3,7 @@ title: "Lemon Tea Cakes"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["teacake", "lemon", "dessert", "cookie", "vintage", "baking"]
+tags: ["teacake", "lemon", "dessert", "cookie", "123", "baking"]
 description: "A classic recipe for old-fashioned Lemon Tea Cakes. These soft, cake-like cookies feature bright lemon flavor and a tangy glaze brushed on while warm."
 date: "2026-07-30"
 draft: false

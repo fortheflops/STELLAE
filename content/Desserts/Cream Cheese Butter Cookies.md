@@ -3,7 +3,7 @@ title: "Cream Cheese Butter Cookies"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["cookies", "butter", "creamcheese", "baking", "vintage", "dessert"]
+tags: ["cookies", "butter", "creamcheese", "baking", "123", "dessert"]
 description: "A classic 4-ingredient butter cookie dough enriched with cream cheese for an incredibly tender, soft texture. This versatile base is perfect for roll-and-cut shapes, thumbprints, or traditional rugelach."
 date: "2026-07-30"
 draft: false

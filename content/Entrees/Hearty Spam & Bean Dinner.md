@@ -3,7 +3,7 @@ title: "Hearty Spam & Bean Dinner"
 category: "Entrees"
 collection: "UK15"
 source: "Unknown"
-tags: ["spam", "beans", "comfortfood", "vintage", "entree"]
+tags: ["spam", "beans", "comfortfood", "123", "entree"]
 description: "A comforting, vintage skillet dinner featuring savory pork and beans, canned chili, and diced spam. Topped with crispy fried onion rings, this hearty meal comes together in just twenty minutes."
 date: "2026-07-30"
 draft: false

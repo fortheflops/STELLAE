@@ -3,7 +3,7 @@ title: "Savory Tuna Fish Mousse (Luncheon Salad)"
 category: "Salads"
 collection: "General Archive"
 source: "Unknown"
-tags: ["salad", "vintage", "tuna", "retro", "luncheon"]
+tags: ["salad", "123", "tuna", "retro", "luncheon"]
 description: "A perfect retro salad for a luncheon. This savory mousse features flaked white tuna, cottage cheese, and pimientos set in a lemon-gelatin base with chicken gumbo soup and mayonnaise."
 date: "2026-07-30"
 draft: false

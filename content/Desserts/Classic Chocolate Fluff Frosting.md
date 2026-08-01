@@ -3,7 +3,7 @@ title: "Classic Chocolate Fluff Frosting"
 category: "Desserts"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["frosting", "chocolate", "meringue", "vintage", "desserttopping"]
+tags: ["frosting", "chocolate", "meringue", "123", "desserttopping"]
 description: "A light and airy frosting featuring a sweet meringue folded into a rich, unsweetened chocolate base. This recipe provides a delicate, fluffy texture perfect for a two-layer cake."
 date: "2026-07-30"
 draft: false

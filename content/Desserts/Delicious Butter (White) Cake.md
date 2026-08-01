@@ -3,7 +3,7 @@ title: "Delicious Butter (White) Cake"
 category: "Desserts"
 collection: "JC"
 source: "Unknown"
-tags: ["cake", "dessert", "baking", "vintage", "whitecake"]
+tags: ["cake", "dessert", "baking", "123", "whitecake"]
 description: "A classic, tender white butter cake made with separated eggs for a lighter texture. Can be flavored with vanilla, orange, or lemon."
 date: "2026-07-30"
 draft: false

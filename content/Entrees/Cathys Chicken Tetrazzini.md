@@ -3,7 +3,7 @@ title: "Cathy's Chicken Tetrazzini"
 category: "Entrees"
 collection: "UK3"
 source: "Cathy Jote"
-tags: ["chicken", "tetrazzini", "pasta", "comfortfood", "casserole", "vintage"]
+tags: ["chicken", "tetrazzini", "pasta", "comfortfood", "casserole", "123"]
 description: "A comforting baked pasta casserole featuring tender chicken, mushrooms, and a rich creamy sauce topped with melted cheese. Perfect for feeding a hungry family with classic mid-century appeal."
 date: "2026-07-30"
 draft: false

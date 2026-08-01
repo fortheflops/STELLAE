@@ -3,7 +3,7 @@ title: "Three Bean Salad"
 category: "Salads"
 collection: "UK3"
 source: "Unknown"
-tags: ["salad", "beans", "vintage", "potluck", "sides"]
+tags: ["salad", "beans", "123", "potluck", "sides"]
 description: "A classic, tangy three bean salad combining green beans, yellow wax beans, and kidney beans in a sweet and sour marinade. Chill for several hours to let the flavors meld into a crisp and refreshing dish."
 date: "2026-07-30"
 draft: false

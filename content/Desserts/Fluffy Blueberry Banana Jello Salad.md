@@ -3,7 +3,7 @@ title: "Fluffy Blueberry Banana Jello Salad"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["jello", "salad", "vintage", "blueberry", "banana", "dessert", "retro"]
+tags: ["jello", "salad", "123", "blueberry", "banana", "dessert", "retro"]
 description: "A classic, large-batch Jello salad featuring a light and fluffy lemon Jello base folded with whipped cream, blueberries, and mashed bananas. This retro dessert is perfect for feeding a crowd."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Potato and Mushroom Charlotte"
 category: "Sides"
 collection: "Patsy Collection"
 source: "Unknown"
-tags: ["sidedish", "vintage", "mushrooms", "potatoes", "charlotte"]
+tags: ["sidedish", "123", "mushrooms", "potatoes", "charlotte"]
 description: "An elegant layered potato and wild mushroom charlette baked to golden perfection. This vintage side dish features a rich mushroom filling encased in thinly sliced russet potatoes and parmesan cheese."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Margaret Farley's Texas Ranger Crispies"
 category: "Desserts"
 collection: "UK15"
 source: "Margaret Farley"
-tags: ["cookies", "oatmeal", "vintage", "crispies", "dessert"]
+tags: ["cookies", "oatmeal", "123", "crispies", "dessert"]
 description: "A classic 'kitchen sink' oatmeal cookie packed with corn flakes, coconut, and nuts for a chewy, crispy texture. These hearty treats are a timeless favorite from the Margaret Farley collection."
 date: "2026-07-30"
 draft: false

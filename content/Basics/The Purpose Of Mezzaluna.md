@@ -3,7 +3,7 @@ title: "The Purpose Of Mezzaluna"
 category: "Basics"
 collection: "General Archive"
 source: "Founder"
-tags: ["philosophy", "food-history", "education", "vintage"]
+tags: ["philosophy", "food-history", "education", "123"]
 description: "An archival exploration of the philosophy behind Cucina Mezzaluna. Discover how food history serves as an educational resource reflecting human culture, economics, and shared stories."
 date: "2026-07-24"
 draft: false

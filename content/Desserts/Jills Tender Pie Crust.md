@@ -3,7 +3,7 @@ title: "Jill's Tender Pie Crust"
 category: "Desserts"
 collection: "JC"
 source: "Jill"
-tags: ["piecrust", "dessert", "baking", "pastry", "vintage"]
+tags: ["piecrust", "dessert", "baking", "pastry", "123"]
 description: "Discover a classic recipe for an exceptionally tender and flaky pie crust crafted with vegetable shortening, an egg, and a hint of lemon juice. This versatile dough yields enough for three single 9-inch crusts, ensuring golden, melt-in-your-mouth results."
 date: "2026-07-30"
 draft: false

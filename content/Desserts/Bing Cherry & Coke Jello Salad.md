@@ -3,7 +3,7 @@ title: "Bing Cherry & Coke Jello Salad"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["vintage", "jello", "salad", "cherry", "coke", "retro", "dessert"]
+tags: ["123", "jello", "salad", "cherry", "coke", "retro", "dessert"]
 description: "A classic, vintage-style molded Jello salad featuring Bing cherries, pineapple, and nuts in a cherry Jello base made with Coca-Cola for a unique, fizzy sweetness. This retro dessert is a perfect centerpiece for potlucks and holiday gatherings."
 date: "2026-07-30"
 draft: false

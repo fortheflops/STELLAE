@@ -3,7 +3,7 @@ title: "Russian Tea Fruit Mix"
 category: "Beverages"
 collection: "UK2"
 source: "Unknown"
-tags: ["beverage", "tea", "vintage", "mix", "citrus"]
+tags: ["beverage", "tea", "123", "mix", "citrus"]
 description: "A classic vintage recipe for a fragrant 'Russian Tea' flavoring mix combining candied fruits, whole cloves, and lemon juice. Stir a spoonful into hot tea for a delightfully spiced, citrusy brew."
 date: "2026-07-30"
 draft: false

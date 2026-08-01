@@ -3,7 +3,7 @@ title: "Layered Lime, Pear, and Cherry Jello Salad"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["jello", "vintage", "dessert", "mousse", "fruit"]
+tags: ["jello", "123", "dessert", "mousse", "fruit"]
 description: "A classic two-layer molded Jello salad featuring pear halves and cherries in a clear lime base, topped with a light and fluffy whipped lime and cream cheese mousse. This vintage recipe uses a unique whipping technique to create an airy, decadent texture."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Cheese Pasta Sauce"
 category: "Sauces"
 collection: "Patsy Collection"
 source: "Unknown"
-tags: ["sauce", "pasta", "cheese", "patsycollection", "vintage"]
+tags: ["sauce", "pasta", "cheese", "patsycollection", "123"]
 description: "A rich and creamy traditional cheese pasta sauce made with fresh egg yolk, butter, cream, and grated parmesan cheese. This velvety vintage sauce coats pasta perfectly for a comforting weeknight meal."
 date: "2026-07-30"
 draft: false

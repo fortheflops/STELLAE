@@ -3,7 +3,7 @@ title: "Chocolate Toffee Bars"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "cookies", "bars", "toffee", "chocolate", "vintage"]
+tags: ["dessert", "cookies", "bars", "toffee", "chocolate", "123"]
 description: "A classic and incredibly easy recipe for toffee bars featuring a rich, buttery brown sugar shortbread base topped with melted chocolate and crunchy nuts. These simple bar cookies are perfect for sharing and come together with minimal effort."
 date: "2026-07-30"
 draft: false

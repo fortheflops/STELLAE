@@ -3,7 +3,7 @@ title: "Spry Lemon Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["dessert", "cake", "lemon", "vintage", "baking"]
+tags: ["dessert", "cake", "lemon", "123", "baking"]
 description: "A classic, vintage quick-mix lemon cake made with Spry shortening for a wonderfully tender and moist crumb. This simple one-bowl method delivers bright citrus flavor and a golden finish."
 date: "2026-07-30"
 draft: false

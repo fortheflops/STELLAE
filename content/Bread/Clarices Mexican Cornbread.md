@@ -3,7 +3,7 @@ title: "Clarice's Mexican Cornbread"
 category: "Bread"
 collection: "UK2"
 source: "Clarice"
-tags: ["bread", "cornbread", "mexican", "savory", "cheesy", "vintage"]
+tags: ["bread", "cornbread", "mexican", "savory", "cheesy", "123"]
 description: "A savory, moist cornbread featuring a hidden layer of melted cheese, packed with creamed corn, jalape\u00f1os, and bell peppers."
 date: "2026-07-30"
 draft: false

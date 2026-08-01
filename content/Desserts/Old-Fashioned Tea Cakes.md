@@ -3,7 +3,7 @@ title: "Old-Fashioned Tea Cakes"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["teacakes", "cookies", "vintage", "dessert", "oldfashioned"]
+tags: ["teacakes", "cookies", "123", "dessert", "oldfashioned"]
 description: "A very, very old recipe for traditional tea cakes\u2014a crisp, simple, and delicious cookie that isn't overly rich. Dropped by the spoonful and baked until the edges are golden."
 date: "2026-07-30"
 draft: false

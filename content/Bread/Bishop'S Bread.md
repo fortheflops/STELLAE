@@ -3,7 +3,7 @@ title: "Bishop'S Bread"
 category: "Bread"
 collection: "GailCollection"
 source: "Unknown"
-tags: ["bread", "fruit bread", "holidays", "walnuts", "dates", "cherries", "chocolate chips", "vintage", "gailcollection"]
+tags: ["bread", "fruit bread", "holidays", "walnuts", "dates", "cherries", "chocolate chips", "123", "gailcollection"]
 description: "A rich, dense, and festive fruitcake-style loaf, packed with walnuts, dates, glac\u00e9ed cherries, and chocolate chips. Perfect for holidays and special occasions."
 date: "2026-07-30"
 draft: false

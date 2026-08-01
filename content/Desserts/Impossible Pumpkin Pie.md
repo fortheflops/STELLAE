@@ -3,7 +3,7 @@ title: "Impossible Pumpkin Pie"
 category: "Desserts"
 collection: "PatsyCollection"
 source: "Unknown"
-tags: ["patsycollection", "dessert", "pie", "pumpkin", "baking", "vintage"]
+tags: ["patsycollection", "dessert", "pie", "pumpkin", "baking", "123"]
 description: "A magical crustless pie from Patsy's collection that creates its own golden crust as it bakes! This clever 'Impossible Pie' uses Bisquick to form a seamless base for a smooth, richly spiced pumpkin custard."
 date: "2026-07-30"
 draft: false

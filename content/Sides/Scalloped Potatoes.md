@@ -3,7 +3,7 @@ title: "Scalloped Potatoes"
 category: "Sides"
 collection: "UK3"
 source: "Unknown"
-tags: ["potatoes", "cheese", "side dish", "vintage", "casserole"]
+tags: ["potatoes", "cheese", "side dish", "123", "casserole"]
 description: "A classic, comforting vintage recipe featuring layered potatoes baked in milk with savory cheese and onion. Perfectly tender with a rich, golden cheese topping."
 date: "2026-07-30"
 draft: false

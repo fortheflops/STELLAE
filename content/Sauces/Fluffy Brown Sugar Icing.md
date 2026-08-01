@@ -3,7 +3,7 @@ title: "Fluffy Brown Sugar Icing"
 category: "Sauces"
 collection: "General Archive"
 source: "Unknown"
-tags: ["icing", "dessert", "vintage", "brownsugar", "meringue"]
+tags: ["icing", "dessert", "123", "brownsugar", "meringue"]
 description: "A classic boiled icing that gets a delicate caramel color and flavor from brown sugar. This light, fluffy meringue-style frosting is made by beating egg whites and sugar over a double boiler until stiff and glossy."
 date: "2026-07-30"
 draft: false

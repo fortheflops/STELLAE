@@ -3,7 +3,7 @@ title: "Sweet & Savory Hawaiian Baked Chicken"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["gailcollection", "chicken", "bakedchicken", "hawaiian", "polynesian", "vintage"]
+tags: ["gailcollection", "chicken", "bakedchicken", "hawaiian", "polynesian", "123"]
 description: "A classic baked chicken dish featuring cornstarch-coated fried chicken baked with pineapple, peppers, and onions. Smothered in a sweet and tangy sauce made from pan drippings, pineapple juice, and soy sauce."
 date: "2026-07-30"
 draft: false

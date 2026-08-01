@@ -3,7 +3,7 @@ title: "Ruth's Fresh Cranberry & Orange Relish"
 category: "Other"
 collection: "UK2"
 source: "Ruth"
-tags: ["relish", "condiment", "cranberry", "orange", "vintage"]
+tags: ["relish", "condiment", "cranberry", "orange", "123"]
 description: "A vibrant and tangy uncooked relish made with fresh cranberries, whole oranges, and sugar, chilled to perfection. This make-ahead condiment adds a bright pop of flavor to poultry, pork, and holiday tables."
 date: "2026-07-30"
 draft: false

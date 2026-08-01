@@ -3,7 +3,7 @@ title: "Grandma's Pumpkin Pie"
 category: "Desserts"
 collection: "GailCollection"
 source: "Grandma & Gail"
-tags: ["pumpkin", "pie", "dessert", "vintage", "holiday", "gailcollection"]
+tags: ["pumpkin", "pie", "dessert", "123", "holiday", "gailcollection"]
 description: "A classic, from-scratch pumpkin pie recipe featuring a smooth, spiced custard filling that sets up beautifully. Perfect for holiday gatherings with instructions for both single and double batches."
 date: "2026-07-30"
 draft: false

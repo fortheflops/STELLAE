@@ -3,7 +3,7 @@ title: "No-Bake Cream Cheese Pie with Nut Crust"
 category: "Desserts"
 collection: "UK5"
 source: "Carole Gunckel"
-tags: ["pie", "nobake", "dessert", "creamcheese", "vintage"]
+tags: ["pie", "nobake", "dessert", "creamcheese", "123"]
 description: "A light and fluffy no-bake cream cheese pie featuring a simple press-in brown sugar and nut crust. Perfect for serving chilled with fresh berries or fruit toppings."
 date: "2026-07-30"
 draft: false

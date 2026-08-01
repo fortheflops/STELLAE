@@ -3,7 +3,7 @@ title: "Easy Stovetop 'Cisco Chicken' Casserole"
 category: "Entrees"
 collection: "Unknown Fifteen"
 source: "Unknown"
-tags: ["casserole", "chicken", "onepot", "vintage", "comfortfood"]
+tags: ["casserole", "chicken", "onepot", "123", "comfortfood"]
 description: "An extremely simple, one-pot stovetop chicken casserole. Cut-up chicken, small onions, cream of mushroom, and cheddar cheese soup are simmered together until tender and served over hot rice."
 date: "2026-07-30"
 draft: false

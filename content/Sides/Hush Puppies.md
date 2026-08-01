@@ -3,7 +3,7 @@ title: "Hush Puppies"
 category: "Sides"
 collection: "UK2"
 source: "Unknown"
-tags: ["fried", "cornmeal", "southern", "vintage"]
+tags: ["fried", "cornmeal", "southern", "123"]
 description: "Crispy golden-brown southern hush puppies made with cornmeal, onion, and red pepper. Perfectly fried for a delicious savory side dish."
 date: "2026-07-30"
 draft: false

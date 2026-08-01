@@ -3,7 +3,7 @@ title: Zesty Sausage Squares
 category: Appetizers
 collection: UnknownTwo
 source: Ruth Nowalk
-tags: [vintage, sausage, appetizer, make-ahead, unknowntwo]
+tags: [123, sausage, appetizer, make-ahead, unknowntwo]
 description: A savory and satisfying layered appetizer featuring a Bisquick crust, a hearty sausage and onion filling, and a zesty cheese and green chili topping. Perfect for parties and potlucks.
 date: 2026-07-28
 draft: false

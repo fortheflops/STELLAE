@@ -3,7 +3,7 @@ title: "Refrigerator Cheesecake"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["dessert", "cheesecake", "nobake", "lemon", "vintage"]
+tags: ["dessert", "cheesecake", "nobake", "lemon", "123"]
 description: "A classic no-bake refrigerator cheesecake featuring a light and fluffy filling made with whipped evaporated milk, lemon gelatin, and cream cheese on a graham cracker crust. This vintage dessert sets up entirely in the refrigerator for a refreshing and firm texture."
 date: "2026-07-30"
 draft: false

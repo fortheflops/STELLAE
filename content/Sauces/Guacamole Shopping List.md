@@ -3,7 +3,7 @@ title: "Guacamole Shopping List"
 category: "Sauces"
 collection: "UK15"
 source: "Unknown"
-tags: ["guacamole", "dip", "appetizer", "vintage", "mexicaninspired"]
+tags: ["guacamole", "dip", "appetizer", "123", "mexicaninspired"]
 description: "A creamy and zesty guacamole recipe featuring a unique blend of picante sauce and green chiles. This simple dip is perfect for parties and pairs excellently with tortilla chips."
 date: "2026-07-30"
 draft: false

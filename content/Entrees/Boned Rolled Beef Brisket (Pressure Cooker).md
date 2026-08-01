@@ -3,7 +3,7 @@ title: "Boned Rolled Beef Brisket (Pressure Cooker)"
 category: "Entrees"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["beef", "brisket", "pressurecooker", "meat", "maincourse", "vintage"]
+tags: ["beef", "brisket", "pressurecooker", "meat", "maincourse", "123"]
 description: "A simple, classic recipe from Jill's collection for a tender, boned and rolled beef brisket, cooked quickly and easily in a pressure cooker with onions."
 date: "2026-07-30"
 draft: false

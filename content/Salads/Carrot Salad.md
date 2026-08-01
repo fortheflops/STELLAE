@@ -3,7 +3,7 @@ title: "Carrot Salad"
 category: "Salads"
 collection: "The Loraine Collection"
 source: "Hazel"
-tags: ["salad", "carrots", "marinated", "vintage", "cold"]
+tags: ["salad", "carrots", "marinated", "123", "cold"]
 description: "A classic marinated carrot salad featuring a savory-sweet hot tomato soup dressing, crisp onions, and bell peppers. This vintage recipe chills overnight to absorb robust flavors before serving."
 date: "2026-07-30"
 draft: false

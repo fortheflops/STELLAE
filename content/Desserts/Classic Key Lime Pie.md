@@ -3,7 +3,7 @@ title: "Classic Key Lime Pie"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["dessert", "pie", "keylime", "baking", "vintage"]
+tags: ["dessert", "pie", "keylime", "baking", "123"]
 description: "A classic and straightforward recipe for a tangy and creamy baked Key Lime Pie, featuring a simple filling of egg yolks, sweetened condensed milk, and fresh lime juice in a ready-made graham cracker crust."
 date: "2026-07-30"
 draft: false

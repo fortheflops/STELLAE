@@ -3,7 +3,7 @@ title: "Lois's Cabbage Salad"
 category: "Salads"
 collection: "UK2"
 source: "Lois"
-tags: ["salads", "cabbage", "vintage", "salad"]
+tags: ["salads", "cabbage", "123", "salad"]
 description: "A crisp and tangy vintage cabbage salad layered with fresh onions and green peppers, marinated in a simple oil and vinegar dressing. This refreshing side dish can be easily adjusted for the perfect balance of flavor."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Linda Carruth's Chocolate Dessert"
 category: "Desserts"
 collection: "UK15"
 source: "Linda Carruth"
-tags: ["dessert", "chocolate", "layered", "pecan", "vintage", "pudding"]
+tags: ["dessert", "chocolate", "layered", "pecan", "123", "pudding"]
 description: "A decadent layered dessert featuring a buttery pecan crust, a sweet cream cheese layer, rich chocolate pudding, and a light whipped topping. This classic treat is perfect for gatherings and sets beautifully in the refrigerator."
 date: "2026-07-30"
 draft: false

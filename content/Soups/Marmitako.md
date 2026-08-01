@@ -1,13 +1,70 @@
 ---
-title: "Marmitako"
-category: "Soups"
-collection: "UK2 Collection"
-source: "Unknown"
-tags: ["stew", "tuna", "basque", "seafood", "vintage"]
-description: "A traditional Basque tuna and potato stew, Marmitako is a comforting, hearty dish rich with garlic, peppers, and saffron. This classic recipe offers a warm, savory taste of coastal Spain, perfect for family gatherings."
-date: "2026-07-30"
+title: Marmitako
+category: Soups
+collection: UK2 Collection
+source: Unknown
+tags:
+  - stew
+  - tuna
+  - basque
+  - seafood
+description: A traditional Basque tuna and potato stew, Marmitako is a comforting, hearty dish rich with garlic, peppers, and saffron. This classic recipe offers a warm, savory taste of coastal Spain, perfect for family gatherings.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Marmitako\",\n  \"image\": \"Handwritten_2025-01-29_102601.webp\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A traditional Basque tuna and potato stew, Marmitako is a comforting, hearty dish rich with garlic, peppers, and saffron.\",\n  \"recipeCategory\": \"Soups\",\n  \"recipeCuisine\": \"Basque\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT30M\",\n  \"totalTime\": \"PT50M\",\n  \"recipeYield\": \"6 servings\",\n  \"recipeIngredient\": [\n    \"1 lb Fresh Tuna\",\n    \"6 Cloves Garlic, minced\",\n    \"1 Onion, finely chopped\",\n    \"6 Tbsp Olive Oil\",\n    \"6 Tomatoes, peeled & chopped\",\n    \"1 Red Pepper, cut into strips\",\n    \"3 Green Peppers, cut into strips\",\n    \"6 Potatoes, cubed\",\n    \"Pinch Saffron\",\n    \"Salt to taste\",\n    \"Pepper to taste\",\n    \"Water as needed\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large pot, heat olive oil and saut\u00e9 onion and garlic until golden brown.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add tuna, red and green peppers, saffron, tomatoes, and potatoes to the pot.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add enough water to make six servings.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Season with salt and pepper.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Simmer until vegetables are cooked but not mushy.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Marmitako",
+    "image": "Handwritten_2025-01-29_102601.webp",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A traditional Basque tuna and potato stew, Marmitako is a comforting, hearty dish rich with garlic, peppers, and saffron.",
+    "recipeCategory": "Soups",
+    "recipeCuisine": "Basque",
+    "prepTime": "PT20M",
+    "cookTime": "PT30M",
+    "totalTime": "PT50M",
+    "recipeYield": "6 servings",
+    "recipeIngredient": [
+      "1 lb Fresh Tuna",
+      "6 Cloves Garlic, minced",
+      "1 Onion, finely chopped",
+      "6 Tbsp Olive Oil",
+      "6 Tomatoes, peeled & chopped",
+      "1 Red Pepper, cut into strips",
+      "3 Green Peppers, cut into strips",
+      "6 Potatoes, cubed",
+      "Pinch Saffron",
+      "Salt to taste",
+      "Pepper to taste",
+      "Water as needed"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, heat olive oil and sauté onion and garlic until golden brown."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add tuna, red and green peppers, saffron, tomatoes, and potatoes to the pot."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add enough water to make six servings."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with salt and pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Simmer until vegetables are cooked but not mushy."
+      }
+    ]
+  }
 ---
 
 # Marmitako

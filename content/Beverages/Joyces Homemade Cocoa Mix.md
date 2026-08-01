@@ -3,7 +3,7 @@ title: "Joyce's Homemade Cocoa Mix"
 category: "Beverages"
 collection: "GC"
 source: "Joyce"
-tags: ["beverage", "cocoa", "chocolate", "hotchocolate", "vintage", "quick", "gifts"]
+tags: ["beverage", "cocoa", "chocolate", "hotchocolate", "123", "quick", "gifts"]
 description: "A simple, large-batch recipe for a rich and creamy instant hot cocoa mix. This mix from Joyce is perfect for keeping on hand for a quick treat or giving as a gift."
 date: "2026-07-30"
 draft: false

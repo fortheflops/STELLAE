@@ -3,7 +3,7 @@ title: "Lemon Sugar Cookies"
 category: "Desserts"
 collection: "LOC"
 source: "Unknown"
-tags: ["cookies", "lemon", "vintage", "dessert", "louisecollection"]
+tags: ["cookies", "lemon", "123", "dessert", "louisecollection"]
 description: "A classic recipe for soft, cake-like lemon sugar cookies. This simple drop cookie is flavored with fresh lemon rind and finished with a sprinkle of nutmeg for a warm, aromatic touch."
 date: "2026-07-30"
 draft: false

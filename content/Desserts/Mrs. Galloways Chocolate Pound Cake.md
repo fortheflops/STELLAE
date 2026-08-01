@@ -3,7 +3,7 @@ title: "Mrs. Galloway's Chocolate Pound Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Mrs. Galloway"
-tags: ["chocolate", "poundcake", "cake", "dessert", "vintage", "baking"]
+tags: ["chocolate", "poundcake", "cake", "dessert", "123", "baking"]
 description: "A rich, classic chocolate pound cake from a recipe by Mrs. Galloway of Rockwood, Tenn. This dense, moist cake is topped with an old-fashioned, homemade cooked chocolate frosting with nuts."
 date: "2026-07-30"
 draft: false

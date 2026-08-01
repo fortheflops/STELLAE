@@ -3,7 +3,7 @@ title: "Date-Nut Rocks"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["cookies", "vintage", "dates", "nuts", "holiday", "fruit"]
+tags: ["cookies", "123", "dates", "nuts", "holiday", "fruit"]
 description: "A classic, old-fashioned drop cookie packed with an incredible amount of dates, raisins, and nuts. These dense, chewy treats are full of warm spice flavor and perfect for holiday gifting."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Toppings for Chiffon Cakes"
 category: "Desserts"
 collection: "John B. Collection"
 source: "Unattributed"
-tags: ["topping", "chiffoncake", "chocolate", "orange", "vintage", "dessert"]
+tags: ["topping", "chiffoncake", "chocolate", "orange", "123", "dessert"]
 description: "A delightful duo of vintage toppings perfect for chiffon cakes, featuring a rich Chocolate Fluff and a bright, citrusy Orange Fluff. These classic recipes add a light, airy finish to any homemade cake."
 date: "2026-07-30"
 draft: false

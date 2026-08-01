@@ -3,7 +3,7 @@ title: "Hyden Salad"
 category: "Salads"
 collection: "UK2"
 source: "Ruth Miller"
-tags: ["salad", "cabbagesalad", "vintage", "cabbage", "tomatoes"]
+tags: ["salad", "cabbagesalad", "123", "cabbage", "tomatoes"]
 description: "A traditional, large-batch spiced cabbage and tomato salad recipe handed down by Ruth Miller. This vintage preserve-style salad features warm spices and a tangy vinegar base."
 date: "2026-07-30"
 draft: false

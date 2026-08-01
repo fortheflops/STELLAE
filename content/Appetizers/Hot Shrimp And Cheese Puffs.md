@@ -4,11 +4,11 @@ category: Appetizers
 collection: Gail Collection
 source: Unknown
 tags:
-  - vintage
+  - 123
   - shrimp
   - appetizer
   - seafood
-  - GailCollection
+  - gailcollection
   - quick-and-easy
 description: A quick and easy vintage appetizer featuring a savory mixture of shrimp, mayonnaise, and cheddar cheese spread on crackers. Baked or broiled until hot, bubbly, and golden brown.
 date: 2026-07-24

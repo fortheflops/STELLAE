@@ -3,7 +3,7 @@ title: "German Apple Pancakes"
 category: "Breakfast"
 collection: "UK2"
 source: "Unknown"
-tags: ["breakfast", "pancakes", "german", "apple", "vintage", "cinnamonsugar"]
+tags: ["breakfast", "pancakes", "german", "apple", "123", "cinnamonsugar"]
 description: "Tender, crepe-style pancakes filled with shredded apple and topped with a sweet cinnamon-sugar mixture."
 date: "2026-07-30"
 draft: false

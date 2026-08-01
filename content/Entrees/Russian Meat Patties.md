@@ -3,7 +3,7 @@ title: "Russian Meat Patties"
 category: "Entrees"
 collection: "UK2"
 source: "Unknown"
-tags: ["entree", "meat", "patties", "russian", "comfortfood", "vintage"]
+tags: ["entree", "meat", "patties", "russian", "comfortfood", "123"]
 description: "Savory pan-fried Russian meat patties made with a rich blend of beef, veal, and pork, finished in a warm sour cream sauce. Perfectly paired with fresh new potatoes for a comforting traditional meal."
 date: "2026-07-30"
 draft: false

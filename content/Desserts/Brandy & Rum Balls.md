@@ -3,7 +3,7 @@ title: "Brandy & Rum Balls"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["dessert", "nobake", "holiday", "truffles", "vintage"]
+tags: ["dessert", "nobake", "holiday", "truffles", "123"]
 description: "A classic no-bake holiday treat. These potent and delicious balls are made with finely crushed vanilla wafers, nuts, honey, and a generous amount of both brandy and rum."
 date: "2026-07-30"
 draft: false

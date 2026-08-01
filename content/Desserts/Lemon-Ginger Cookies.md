@@ -3,7 +3,7 @@ title: "Lemon-Ginger Cookies"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "ginger", "lemon", "dessert", "vintage", "bakedgoods"]
+tags: ["cookies", "ginger", "lemon", "dessert", "123", "bakedgoods"]
 description: "A classic drop cookie featuring a delightful combination of warm, spicy ginger and bright, fresh lemon. These simple treats are studded with bits of candied ginger for an extra flavor kick."
 date: "2026-07-30"
 draft: false

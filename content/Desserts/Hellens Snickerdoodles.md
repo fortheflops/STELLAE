@@ -3,7 +3,7 @@ title: "Hellen's Snickerdoodles"
 category: "Desserts"
 collection: "The Loraine Collection"
 source: "Hellen"
-tags: ["cookies", "vintage", "snickerdoodles", "cinnamon", "comfortfood"]
+tags: ["cookies", "123", "snickerdoodles", "cinnamon", "comfortfood"]
 description: "A classic recipe for soft and chewy snickerdoodles featuring a signature tangy flavor from cream of tartar. These timeless cookies are finished with a generous, sweet cinnamon-sugar coating."
 date: "2026-07-30"
 draft: false

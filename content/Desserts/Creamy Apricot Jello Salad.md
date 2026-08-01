@@ -3,7 +3,7 @@ title: "Creamy Apricot Jello Salad"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["jello", "vintage", "apricot", "pecans", "creamy", "molded"]
+tags: ["jello", "123", "apricot", "pecans", "creamy", "molded"]
 description: "A classic molded Jello salad featuring pureed apricots and crunchy pecans blended into a creamy lemon Jello and cream cheese base. This retro dessert offers a delightful balance of tangy fruit and rich, velvety texture."
 date: "2026-07-30"
 draft: false

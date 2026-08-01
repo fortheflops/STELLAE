@@ -3,7 +3,7 @@ title: "Retro Apricot Jello Salad with Cheddar Topping"
 category: "Salads"
 collection: "General Archive"
 source: "Unknown"
-tags: ["vintage", "jello", "salad", "retro", "partyfood", "cheddar"]
+tags: ["123", "jello", "salad", "retro", "partyfood", "cheddar"]
 description: "A classic mid-century congealed salad featuring an orange gelatin base filled with apricots, pineapple, and marshmallows. It is finished with a creamy pineapple topping and a savory sprinkle of sharp cheddar cheese."
 date: "2026-07-30"
 draft: false

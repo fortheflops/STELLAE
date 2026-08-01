@@ -3,7 +3,7 @@ title: "Wanda's Layered Green Chile Chicken Casserole"
 category: "Entrees"
 collection: "Unknown Five"
 source: "Wanda"
-tags: ["casserole", "chicken", "greenchile", "vintage", "comfortfood"]
+tags: ["casserole", "chicken", "greenchile", "123", "comfortfood"]
 description: "A hearty, vintage layered casserole featuring tender chicken, green chiles, and corn tortillas baked in a rich, creamy soup-based sauce. Perfect for a comforting family dinner that comes together with minimal effort."
 date: "2026-07-30"
 draft: false

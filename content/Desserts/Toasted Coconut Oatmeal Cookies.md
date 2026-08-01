@@ -3,7 +3,7 @@ title: "Toasted Coconut Oatmeal Cookies"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "oatmeal", "coconut", "vintage", "dessert", "chewy"]
+tags: ["cookies", "oatmeal", "coconut", "123", "dessert", "chewy"]
 description: "A rich and chewy oatmeal drop cookie featuring a deep, nutty flavor profile achieved by toasting the oats and coconut. These classic cookies are finished with a signature sugar-dipped glass press for a perfect texture."
 date: "2026-07-30"
 draft: false

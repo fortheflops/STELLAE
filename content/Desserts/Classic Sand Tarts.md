@@ -3,7 +3,7 @@ title: "Classic Sand Tarts"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["cookies", "shortbread", "pecans", "vintage", "dessert"]
+tags: ["cookies", "shortbread", "pecans", "123", "dessert"]
 description: "A classic recipe for buttery, melt-in-your-mouth shortbread cookies filled with chopped pecans and rolled in powdered sugar. These delicate treats are also known as Mexican Wedding Cookies or Russian Tea Cakes."
 date: "2026-07-30"
 draft: false

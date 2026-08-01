@@ -3,7 +3,7 @@ title: "Uncle Fred's Fruit Salad with Pudding Dressing"
 category: "Desserts"
 collection: "UK15"
 source: "Uncle Fred"
-tags: ["fruit", "salad", "pudding", "vintage", "potluck", "dessert"]
+tags: ["fruit", "salad", "pudding", "123", "potluck", "dessert"]
 description: "A classic potluck fruit salad featuring a clever twist where instant banana pudding is prepared with reserved fruit juice. This creates a thick, flavorful dressing that perfectly coats the medley of canned and fresh fruits."
 date: "2026-07-30"
 draft: false

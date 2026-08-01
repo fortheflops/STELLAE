@@ -3,7 +3,7 @@ title: "Green Chile & Egg Souffl\u00e9 Casserole"
 category: "Entrees"
 collection: "UK15"
 source: "Unknown"
-tags: ["casserole", "vegetarian", "southwestern", "brunch", "egg", "cheese", "vintage"]
+tags: ["casserole", "vegetarian", "southwestern", "brunch", "egg", "cheese", "123"]
 description: "A classic, simple, light, and fluffy green chile and egg casserole. This dish puffs up like a souffl\u00e9 as it bakes, featuring layers of green chiles and Monterey Jack cheese in a rich sour cream and egg custard."
 date: "2026-07-30"
 draft: false

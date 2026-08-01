@@ -3,7 +3,7 @@ title: "Simple Oatmeal Raisin Cookies"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["cookies", "oatmeal", "raisins", "vintage", "comfortfood"]
+tags: ["cookies", "oatmeal", "raisins", "123", "comfortfood"]
 description: "A classic, soft, and chewy oatmeal raisin cookie recipe lightly spiced with cinnamon. These straightforward drop cookies are perfect for a quick, comforting treat."
 date: "2026-07-30"
 draft: false

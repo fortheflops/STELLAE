@@ -3,7 +3,7 @@ title: "Rosie's Better Than Anything Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Rosie"
-tags: ["bundt", "cake", "dessert", "chocolate", "pecans", "vintage"]
+tags: ["bundt", "cake", "dessert", "chocolate", "pecans", "123"]
 description: "A rich, decadent Bundt cake made with a doctored yellow cake mix and loaded with butterscotch chips, chocolate chips, German chocolate, and pecans. This super moist and flavorful dessert is sure to please any crowd."
 date: "2026-07-30"
 draft: false

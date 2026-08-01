@@ -3,7 +3,7 @@ title: "Susan Ely'S Cheese Ball"
 category: "Appetizers"
 collection: "Patsy's Collection"
 source: "Susan Ely"
-tags: ["appetizers", "cheese ball", "cream cheese", "blue cheese", "patsy collection", "vintage", "make-ahead"]
+tags: ["appetizers", "cheese ball", "cream cheese", "blue cheese", "patsy collection", "123", "make-ahead"]
 description: "A zesty party appetizer combining cream cheese, tangy blue cheese, and spicy cheddar spread seasoned with garlic and cayenne pepper. Perfect for holiday gatherings, this classic cheese ball can be prepared ahead of time and customized with your favorite coatings."
 date: "2026-07-30"
 draft: false

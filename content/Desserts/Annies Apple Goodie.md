@@ -3,7 +3,7 @@ title: "Annie's Apple Goodie"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "apple", "crisp", "vintage", "comfortfood"]
+tags: ["dessert", "apple", "crisp", "123", "comfortfood"]
 description: "A classic and comforting apple crisp featuring a tender, cinnamon-spiced apple filling topped with a buttery, crumbly nut mixture. This timeless dessert is perfect for serving warm with a scoop of vanilla ice cream."
 date: "2026-07-30"
 draft: false

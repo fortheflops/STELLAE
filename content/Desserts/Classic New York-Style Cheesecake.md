@@ -3,7 +3,7 @@ title: "Classic New York-Style Cheesecake"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cheesecake", "dessert", "crustless", "baking", "vintage"]
+tags: ["cheesecake", "dessert", "crustless", "baking", "123"]
 description: "A rich, dense, and creamy crustless cheesecake that uses a slow oven cooldown method to help prevent cracks. Chill overnight for the smoothest texture."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Cinnamon Sugar Candied Pecans"
 category: "Snacks"
 collection: "General Archive"
 source: "Unknown"
-tags: ["pecans", "candied", "snack", "holiday", "spiced", "vintage"]
+tags: ["pecans", "candied", "snack", "holiday", "spiced", "123"]
 description: "A classic and addictive recipe for crunchy, sweet, and spiced candied pecans. These are perfect for snacking, gifting, or adding a delightful crunch to salads."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Celina Engle's Spiced Tea Mix"
 category: "Beverages"
 collection: "UK3"
 source: "Celina Engle"
-tags: ["beverage", "tea", "instant", "spiced", "vintage", "hotdrink"]
+tags: ["beverage", "tea", "instant", "spiced", "123", "hotdrink"]
 description: "A classic instant spiced tea mix from Celina Engle. This recipe combines the zesty citrus flavors of Tang and lemonade with instant tea and warm spices for a quick and comforting hot beverage."
 date: "2026-07-30"
 draft: false

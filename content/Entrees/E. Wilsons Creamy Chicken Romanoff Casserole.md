@@ -3,7 +3,7 @@ title: "E. Wilson's Creamy Chicken Romanoff Casserole"
 category: "Entrees"
 collection: "LouiseCollection"
 source: "E. Wilson"
-tags: ["louisecollection", "casserole", "chicken", "comfortfood", "vintage"]
+tags: ["louisecollection", "casserole", "chicken", "comfortfood", "123"]
 description: "A comforting vintage casserole featuring baked chicken, broccoli, and Noodle-Roni Romanoff baked in a creamy mushroom soup sauce. Perfect for a cozy family dinner."
 date: "2026-07-30"
 draft: false

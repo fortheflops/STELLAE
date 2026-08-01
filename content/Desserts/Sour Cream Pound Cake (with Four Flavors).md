@@ -3,7 +3,7 @@ title: "Sour Cream Pound Cake (with Four Flavors)"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["poundcake", "cake", "dessert", "baking", "vintage"]
+tags: ["poundcake", "cake", "dessert", "baking", "123"]
 description: "A classic, dense pound cake featuring a complex flavor blend of vanilla, lemon, rum, and coconut extracts, finished with a simple almond glaze. This rich heritage recipe uses both butter and shortening for the ultimate crumb texture."
 date: "2026-07-30"
 draft: false

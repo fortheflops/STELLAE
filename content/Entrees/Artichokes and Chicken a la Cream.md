@@ -3,7 +3,7 @@ title: "Artichokes and Chicken a la Cream"
 category: "Entrees"
 collection: "GailCollection"
 source: "Gail Babineau"
-tags: ["chicken", "artichokes", "cream", "french", "dinner", "vintage", "entree"]
+tags: ["chicken", "artichokes", "cream", "french", "dinner", "123", "entree"]
 description: "A rich and elegant vintage entree featuring tender chicken breasts and fresh artichokes simmered in a creamy white wine sauce seasoned with curry and lemon. Perfect for serving over rice with a crisp Riesling."
 date: "2026-07-30"
 draft: false

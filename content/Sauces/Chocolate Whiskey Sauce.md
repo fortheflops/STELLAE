@@ -3,7 +3,7 @@ title: "Chocolate Whiskey Sauce"
 category: "Sauces"
 collection: "UK15"
 source: "Leonardo's Restaurant in Santa Fe"
-tags: ["sauce", "chocolate", "whiskey", "dessert", "vintage"]
+tags: ["sauce", "chocolate", "whiskey", "dessert", "123"]
 description: "A rich and decadent chocolate whiskey sauce from Leonardo's Restaurant in Santa Fe, featuring Irish whiskey and dual chocolates. Perfect for drizzling over your favorite desserts and easily made ahead."
 date: "2026-07-30"
 draft: false

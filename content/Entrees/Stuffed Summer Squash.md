@@ -3,7 +3,7 @@ title: "Stuffed Summer Squash"
 category: "Entrees"
 collection: "UK2 Collection"
 source: "Unknown"
-tags: ["entree", "vintage", "squash", "stuffed", "comfortfood"]
+tags: ["entree", "123", "squash", "stuffed", "comfortfood"]
 description: "A classic vintage recipe featuring tender summer squash hollowed out and stuffed with a savory mixture of seasoned ground beef and rice. Baked to perfection and finished with a rich topping of sour cream and tomato pulp."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Apricot Conserve"
 category: "Preserves"
 collection: "John B. Collection"
 source: "Unattributed"
-tags: ["preserves", "jam", "apricot", "vintage", "canning"]
+tags: ["preserves", "jam", "apricot", "123", "canning"]
 description: "A delightful vintage preserve combining fresh apricots, oranges, lemons, raisins, and blanched almonds. This thick and fruity conserve yields multiple glasses of homemade goodness."
 date: "2026-07-30"
 draft: false

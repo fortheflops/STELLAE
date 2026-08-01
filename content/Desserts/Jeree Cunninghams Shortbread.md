@@ -3,7 +3,7 @@ title: "Jeree Cunningham's Shortbread"
 category: "Desserts"
 collection: "UK3"
 source: "Jeree Cunningham"
-tags: ["shortbread", "cookies", "scottish", "vintage", "buttery"]
+tags: ["shortbread", "cookies", "scottish", "123", "buttery"]
 description: "A classic, rich, and buttery shortbread recipe featuring instructions for both pressed cookies and traditional Scottish rounds. This archival recipe emphasizes the use of high-quality real butter for the best texture."
 date: "2026-07-30"
 draft: false

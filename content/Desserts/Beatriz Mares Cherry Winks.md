@@ -3,7 +3,7 @@ title: "Beatriz Mares' Cherry Winks"
 category: "Desserts"
 collection: "UK2"
 source: "Beatriz Mares"
-tags: ["cookies", "vintage", "fruit", "holiday", "chewy"]
+tags: ["cookies", "123", "fruit", "holiday", "chewy"]
 description: "A classic mid-century drop cookie featuring a chewy center of dates and pecans, finished with a signature crunchy corn flake coating and a bright maraschino cherry. These nostalgic treats are perfect for holiday baking and cookie exchanges."
 date: "2026-07-30"
 draft: false

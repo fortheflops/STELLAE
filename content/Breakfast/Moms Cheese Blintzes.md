@@ -3,7 +3,7 @@ title: "Mom's Cheese Blintzes"
 category: "Breakfast"
 collection: "JC"
 source: "Unknown"
-tags: ["blintzes", "breakfast", "crepes", "cheeserecipe", "vintage"]
+tags: ["blintzes", "breakfast", "crepes", "cheeserecipe", "123"]
 description: "A classic recipe for homemade cheese blintzes, featuring delicate crepes filled with a simple dry cottage cheese mixture. Fry them in butter until golden brown and serve immediately."
 date: "2026-07-30"
 draft: false

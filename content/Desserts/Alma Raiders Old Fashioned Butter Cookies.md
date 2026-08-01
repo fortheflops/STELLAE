@@ -3,7 +3,7 @@ title: "Alma Raider's Old Fashioned Butter Cookies"
 category: "Desserts"
 collection: "PatsyCollection"
 source: "Alma Raider"
-tags: ["cookies", "buttercookies", "vintage", "baking", "holiday"]
+tags: ["cookies", "buttercookies", "123", "baking", "holiday"]
 description: "A classic, versatile roll-and-cut butter cookie recipe perfect for festive shapes. This rich, tender dough yields a delicate, buttery treat ideal for any occasion."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Rich, Tender Italian Wine-Braised Beef"
 category: "Entrees"
 collection: "GailCollection"
 source: "Unknown"
-tags: ["beef", "braised", "italian", "entree", "vintage"]
+tags: ["beef", "braised", "italian", "entree", "123"]
 description: "Discover a unique traditional method for tenderizing tough cuts of meat through brining and freezing, followed by a slow red wine braise. This savory Italian-American classic yields melt-in-your-mouth tender results."
 date: "2026-07-30"
 draft: false

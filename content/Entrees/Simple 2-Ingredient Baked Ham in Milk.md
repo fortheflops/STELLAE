@@ -7,7 +7,7 @@ tags:
   - entree
   - pork
   - ham
-  - vintage
+  - 123
   - comfortfood
   - johnbcollection
 description: A surprisingly simple, old-fashioned method for creating a tender, moist baked ham. A thick-cut ham steak is simmered in milk in a covered casserole for 2 hours.

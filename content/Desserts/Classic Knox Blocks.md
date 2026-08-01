@@ -3,7 +3,7 @@ title: "Classic Knox Blocks"
 category: "Desserts"
 collection: "JC"
 source: "Deb Hansen"
-tags: ["dessert", "jello", "vintage", "snack", "gelatin"]
+tags: ["dessert", "jello", "123", "snack", "gelatin"]
 description: "A classic and simple recipe for firm, sliceable gelatin squares (Knox Blocks), also known as Jigglers, made with both flavored and unflavored gelatin for an extra-firm texture."
 date: "2026-07-30"
 draft: false

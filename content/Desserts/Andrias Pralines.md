@@ -3,7 +3,7 @@ title: "Andria's Pralines"
 category: "Desserts"
 collection: "UK2"
 source: "Andria"
-tags: ["pralines", "candy", "southern", "pecans", "vintage"]
+tags: ["pralines", "candy", "southern", "pecans", "123"]
 description: "A classic Southern-style confection featuring a creamy brown sugar and pecan base cooked to the soft-ball stage. These melt-in-your-mouth pralines are beaten until thick and dropped into perfect individual patties."
 date: "2026-07-30"
 draft: false

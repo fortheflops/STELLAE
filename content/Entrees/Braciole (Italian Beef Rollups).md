@@ -3,7 +3,7 @@ title: "Braciole (Italian Beef Rollups)"
 category: "Entrees"
 collection: "Louise Collection"
 source: "Unknown"
-tags: ["louisecollection", "beef", "italian", "entree", "comfortfood", "vintage"]
+tags: ["louisecollection", "beef", "italian", "entree", "comfortfood", "123"]
 description: "A classic Italian-American dish featuring tender beef rollups browned to perfection and simmered in rich tomato sauce until melt-in-your-mouth tender. Serve over pasta or rice for a comforting and hearty meal."
 date: "2026-07-30"
 draft: false

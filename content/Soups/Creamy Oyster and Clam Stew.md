@@ -3,7 +3,7 @@ title: "Creamy Oyster and Clam Stew"
 category: "Soups"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["soup", "stew", "seafood", "vintage", "gailcollection"]
+tags: ["soup", "stew", "seafood", "123", "gailcollection"]
 description: "A rich and comforting vintage seafood stew featuring oysters and clams in a creamy, seasoned broth. Perfect served hot over toasted bread."
 date: "2026-07-30"
 draft: false

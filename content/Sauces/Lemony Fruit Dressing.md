@@ -3,7 +3,7 @@ title: "Lemony Fruit Dressing"
 category: "Sauces"
 collection: "UK2"
 source: "Unknown"
-tags: ["dressing", "fruit", "vintage", "lemon", "sauce"]
+tags: ["dressing", "fruit", "123", "lemon", "sauce"]
 description: "A classic, creamy vintage dressing featuring a sweet and tangy lemon base perfect for fruit salads. This versatile sauce combines citrus notes with a marshmallow-thickened texture for a unique flavor profile."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Nancy's Cold Oven Pound Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Nancy"
-tags: ["cake", "dessert", "poundcake", "baking", "vintage"]
+tags: ["cake", "dessert", "poundcake", "baking", "123"]
 description: "A classic pound cake featuring a unique 'cold oven' baking method for an incredibly tender and fine crumb. Flavored with both vanilla and almond."
 date: "2026-07-30"
 draft: false

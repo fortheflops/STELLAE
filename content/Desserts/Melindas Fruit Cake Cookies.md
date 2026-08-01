@@ -3,7 +3,7 @@ title: "Melinda's Fruit Cake Cookies"
 category: "Desserts"
 collection: "Unknown Three"
 source: "Melinda"
-tags: ["dessert", "cookies", "fruitcake", "holiday", "vintage"]
+tags: ["dessert", "cookies", "fruitcake", "holiday", "123"]
 description: "A classic, large-batch recipe for fruitcake-style drop cookies from Melinda. This buttery, spiced dough is packed with dates and candied fruit, making it perfect for holiday baking and gift-giving."
 date: "2026-07-30"
 draft: false

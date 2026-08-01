@@ -3,7 +3,7 @@ title: "Bacardi Rum Cake"
 category: "Desserts"
 collection: "PatsyCollection"
 source: "Billiepaul"
-tags: ["cake", "dessert", "rum", "bundt", "baking", "vintage"]
+tags: ["cake", "dessert", "rum", "bundt", "baking", "123"]
 description: "A classic and incredibly moist Bundt cake from Billiepaul, made easy with a cake mix base. It's infused with a generous amount of rum and soaked in a buttery rum glaze."
 date: "2026-07-30"
 draft: false

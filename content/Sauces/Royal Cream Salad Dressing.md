@@ -3,7 +3,7 @@ title: "Royal Cream Salad Dressing"
 category: "Sauces"
 collection: "UK2"
 source: "Unknown"
-tags: ["dressing", "vintage", "creamy", "condiment"]
+tags: ["dressing", "123", "creamy", "condiment"]
 description: "A classic, simple-to-prepare Royal Cream Salad Dressing featuring a balanced blend of light cream and tarragon vinegar. This vintage recipe is perfect for elevating fresh garden greens with its tangy and smooth profile."
 date: "2026-07-30"
 draft: false

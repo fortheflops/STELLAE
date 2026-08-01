@@ -3,7 +3,7 @@ title: "Simple Spanish Rice"
 category: "Sides"
 collection: "LOC"
 source: "Unknown"
-tags: ["louisecollection", "rice", "spanish rice", "vintage", "side dish"]
+tags: ["louisecollection", "rice", "spanish rice", "123", "side dish"]
 description: "A classic vintage side dish featuring rice fried in bacon fat with aromatic vegetables and rich tomato sauce. This comforting Spanish rice brings traditional flavor and simplicity to any meal."
 date: "2026-07-30"
 draft: false

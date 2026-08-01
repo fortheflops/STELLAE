@@ -3,7 +3,7 @@ title: "Classic 1-Gallon Churned Peach Ice Cream"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["icecream", "peach", "churned", "vintage", "summer", "dessert"]
+tags: ["icecream", "peach", "churned", "123", "summer", "dessert"]
 description: "A rich, classic 1-gallon churned peach ice cream featuring a traditional uncooked egg base, evaporated milk, and fresh peach nectar. This vintage recipe provides a creamy, authentic texture perfect for summer gatherings."
 date: "2026-07-30"
 draft: false

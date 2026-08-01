@@ -3,7 +3,7 @@ title: "Silky No-Bake Chocolate Pie"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["dessert", "pie", "chocolate", "nobake", "vintage"]
+tags: ["dessert", "pie", "chocolate", "nobake", "123"]
 description: "A wonderfully simple and rich no-bake chocolate pie with a unique cooking method that creates a silky, decadent filling from just three ingredients: dark chocolate, sweetened condensed milk, and water."
 date: "2026-07-30"
 draft: false

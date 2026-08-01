@@ -3,7 +3,7 @@ title: "Judy & Margaret's Crunchy Nut Ring"
 category: "Desserts"
 collection: "General Archive"
 source: "Judy & Margaret"
-tags: ["pullapart", "bread", "dessert", "breakfast", "nuts", "caramel", "vintage"]
+tags: ["pullapart", "bread", "dessert", "breakfast", "nuts", "caramel", "123"]
 description: "A wonderfully easy pull-apart bread from Judy & Margaret, made with canned biscuits arranged in a fluted pan and baked in a simple, buttery caramel-nut glaze."
 date: "2026-07-30"
 draft: false

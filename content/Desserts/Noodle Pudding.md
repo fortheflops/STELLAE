@@ -3,7 +3,7 @@ title: "Noodle Pudding"
 category: "Desserts"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["dessert", "kugel", "pudding", "sweet", "comfortfood", "vintage"]
+tags: ["dessert", "kugel", "pudding", "sweet", "comfortfood", "123"]
 description: "A classic sweet noodle pudding (kugel) featuring a rich custard base of sour cream and cottage cheese, brightened with citrus and raisins, and finished with a golden cinnamon-sugar butter topping."
 date: "2026-07-30"
 draft: false

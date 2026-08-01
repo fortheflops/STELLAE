@@ -3,7 +3,7 @@ title: "M. Field's Apple Torte"
 category: "Desserts"
 collection: "Gail Collection"
 source: "M. Field"
-tags: ["dessert", "torte", "apple", "cake", "vintage", "gailcollection"]
+tags: ["dessert", "torte", "apple", "cake", "123", "gailcollection"]
 description: "A wonderfully simple and rustic apple torte from a recipe by M. Field, featuring a dense, moist, fruit-and-nut-packed interior with a crisp, sugary crust."
 date: "2026-07-30"
 draft: false

@@ -4,12 +4,12 @@ category: Appetizers
 collection: Gail Collection
 source: Unknown
 tags:
-  - vintage
+  - 123
   - shrimp
   - seafood
   - appetizer
   - make-ahead
-  - GailCollection
+  - gailcollection
 description: A vintage-style shrimp cocktail salad featuring cooked shrimp, celery hearts, and sweet pickle relish mixed into a ketchup-based dressing. A simple, chilled appetizer perfect for retro-themed gatherings.
 date: 2026-07-24
 draft: false

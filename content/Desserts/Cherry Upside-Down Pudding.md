@@ -3,7 +3,7 @@ title: "Cherry Upside-Down Pudding"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["dessert", "pudding", "cherry", "vintage", "baked", "selfsaucing"]
+tags: ["dessert", "pudding", "cherry", "123", "baked", "selfsaucing"]
 description: "A delightful self-saucing vintage dessert featuring a tender vanilla cake baked over a sweet cherry base. Perfect for a cozy family treat served warm."
 date: "2026-07-30"
 draft: false

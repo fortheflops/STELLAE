@@ -3,7 +3,7 @@ title: "Caramel Custard"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["custard", "dessert", "vintage", "caramel", "baking"]
+tags: ["custard", "dessert", "123", "caramel", "baking"]
 description: "A classic baked caramel custard featuring a smooth, creamy texture achieved through a gentle water bath. This elegant dessert balances rich caramelized sugar with scalded milk for a timeless finish."
 date: "2026-07-30"
 draft: false

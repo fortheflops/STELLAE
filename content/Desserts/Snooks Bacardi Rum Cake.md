@@ -3,7 +3,7 @@ title: "Snooks' Bacardi Rum Cake"
 category: "Desserts"
 collection: "GC"
 source: "Snooks"
-tags: ["cake", "dessert", "rum", "bundt", "vintage", "baking"]
+tags: ["cake", "dessert", "rum", "bundt", "123", "baking"]
 description: "A classic, award-winning Bacardi rum cake recipe featuring a moist yellow cake and pudding mix base soaked in a rich buttery dark rum glaze."
 date: "2026-07-30"
 draft: false

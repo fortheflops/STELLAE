@@ -3,7 +3,7 @@ title: "Shrimp Dip"
 category: "Appetizers"
 collection: "UK3"
 source: "Unknown"
-tags: ["shrimp", "dip", "appetizer", "vintage", "seafood"]
+tags: ["shrimp", "dip", "appetizer", "123", "seafood"]
 description: "A classic, creamy shrimp dip featuring a savory blend of cream cheese, sour cream, and aromatic seasonings. Perfect for parties and gatherings, this vintage recipe is best served chilled with your favorite crackers."
 date: "2026-07-30"
 draft: false

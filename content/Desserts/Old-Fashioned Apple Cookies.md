@@ -3,7 +3,7 @@ title: "Old-Fashioned Apple Cookies"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "vintage", "apples", "fruit", "baking", "comfortfood"]
+tags: ["cookies", "123", "apples", "fruit", "baking", "comfortfood"]
 description: "A classic recipe for soft, cake-like drop cookies, packed with fresh chopped apples, raisins, and nuts. These hearty cookies have a wonderful spiced flavor from the brown sugar."
 date: "2026-07-30"
 draft: false

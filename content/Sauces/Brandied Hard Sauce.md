@@ -3,7 +3,7 @@ title: "Brandied Hard Sauce"
 category: "Sauces"
 collection: "UK2"
 source: "Unknown"
-tags: ["hardsauce", "vintage", "holiday", "desserttopping"]
+tags: ["hardsauce", "123", "holiday", "desserttopping"]
 description: "A classic, rich, and creamy brandy-infused sauce perfect for drizzling over holiday puddings and cakes. This vintage recipe yields a velvety texture that elevates any traditional dessert."
 date: "2026-07-30"
 draft: false

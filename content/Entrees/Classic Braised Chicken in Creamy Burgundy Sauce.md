@@ -3,7 +3,7 @@ title: "Classic Braised Chicken in Creamy Burgundy Sauce"
 category: "Entrees"
 collection: "General Archive"
 source: "Unknown"
-tags: ["french", "chicken", "braised", "burgundy", "entree", "vintage"]
+tags: ["french", "chicken", "braised", "burgundy", "entree", "123"]
 description: "Experience a classic French Coq in Burgundy featuring a roasting chicken braised with ham, mushrooms, and onions. Finished with a rich cream gravy and crispy croutons, this dish offers deep, savory flavors."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Cake And Frosting Ideas"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["cake", "frosting", "glaze", "vintage", "dessert"]
+tags: ["cake", "frosting", "glaze", "123", "dessert"]
 description: "A fascinating collection of vintage recipe ideas, including variations for pound cake with anise and macaroon, alongside several rich, buttery glazes and frostings."
 date: "2026-07-30"
 draft: false

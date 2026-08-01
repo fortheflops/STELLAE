@@ -3,7 +3,7 @@ title: "Nantucket Style Cranberry Pie"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["pie", "dessert", "cranberry", "apple", "baking", "vintage"]
+tags: ["pie", "dessert", "cranberry", "apple", "baking", "123"]
 description: "A classic crustless pie featuring a tart layer of fresh cranberries and apples, topped with a sweet, buttery batter that bakes into a tender, cake-like crust."
 date: "2026-07-30"
 draft: false

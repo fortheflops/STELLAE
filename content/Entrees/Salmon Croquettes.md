@@ -3,7 +3,7 @@ title: "Salmon Croquettes"
 category: "Entrees"
 collection: "UK2"
 source: "Unknown"
-tags: ["croquettes", "seafood", "salmon", "vintage", "fried"]
+tags: ["croquettes", "seafood", "salmon", "123", "fried"]
 description: "Crispy golden salmon croquettes made with flaked red salmon, buttermilk, and a seasoned cracker crumb coating. Perfectly pan-fried until deliciously crunchy on the outside and tender within."
 date: "2026-07-30"
 draft: false

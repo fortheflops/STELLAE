@@ -3,7 +3,7 @@ title: "Hearty Bacon And Wiener-Stuffed Beef Rolls"
 category: "Entrees"
 collection: "General Archive"
 source: "Linda Brown"
-tags: ["beef", "entree", "swedish", "comfortfood", "vintage"]
+tags: ["beef", "entree", "swedish", "comfortfood", "123"]
 description: "A unique and savory dish featuring thin round steak stuffed with bacon and wieners, simmered until tender in a rich cream gravy. Perfect for a hearty family dinner."
 date: "2026-07-30"
 draft: false

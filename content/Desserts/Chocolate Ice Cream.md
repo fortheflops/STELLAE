@@ -3,7 +3,7 @@ title: "Chocolate Ice Cream"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["chocolate", "icecream", "nodessert", "frozen", "easy", "vintage"]
+tags: ["chocolate", "icecream", "nodessert", "frozen", "easy", "123"]
 description: "A simple, three-ingredient no-cook chocolate ice cream that delivers a rich, creamy texture. This classic recipe is perfect for quick preparation using a standard ice cream maker."
 date: "2026-07-30"
 draft: false

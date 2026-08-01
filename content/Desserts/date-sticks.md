@@ -3,7 +3,7 @@ title: "Date Sticks"
 category: "Desserts"
 collection: "John B. Collection"
 source: "Unattributed"
-tags: ["desserts", "dates", "cookies", "vintage", "nuts"]
+tags: ["desserts", "dates", "cookies", "123", "nuts"]
 description: "Discover a vintage family recipe for Date Sticks, featuring a rich combination of sweet dates, crunchy nuts, and aromatic vanilla. These delightful treats bake up into chewy bars that are perfect for afternoon tea or a sweet snack."
 date: "2026-07-30"
 draft: false

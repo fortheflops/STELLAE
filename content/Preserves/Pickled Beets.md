@@ -3,7 +3,7 @@ title: "Pickled Beets"
 category: "Preserves"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["pickles", "beets", "quickpickle", "vintage", "appetizer"]
+tags: ["pickles", "beets", "quickpickle", "123", "appetizer"]
 description: "Discover an extremely simple and quick method for making sweet pickled beets using convenient canned sliced beets. These refrigerator pickles marinate overnight for a tangy, crisp bite that elevates any meal."
 date: "2026-07-30"
 draft: false

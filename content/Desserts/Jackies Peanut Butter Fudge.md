@@ -3,7 +3,7 @@ title: "Jackie's Peanut Butter Fudge"
 category: "Desserts"
 collection: "UK15"
 source: "Jackie"
-tags: ["fudge", "peanutbutter", "candy", "vintage", "no-fail"]
+tags: ["fudge", "peanutbutter", "candy", "123", "no-fail"]
 description: "A classic, foolproof recipe for creamy peanut butter fudge featuring a smooth marshmallow creme base and crunchy salted peanuts. This no-fail method creates a rich, decadent confection perfect for gifting or holiday gatherings."
 date: "2026-07-30"
 draft: false

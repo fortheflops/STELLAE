@@ -3,7 +3,7 @@ title: "Margarite's Quick Pineapple Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Margarite"
-tags: ["dessert", "cake", "pineapple", "baking", "vintage"]
+tags: ["dessert", "cake", "pineapple", "baking", "123"]
 description: "A decadent and super-moist pineapple sheet cake featuring a baked-on brown sugar and pecan topping, saturated with a hot, buttery buttermilk glaze."
 date: "2026-07-30"
 draft: false

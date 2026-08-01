@@ -3,7 +3,7 @@ title: "Nutty Brandy & Rum Balls"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["dessert", "confection", "nobake", "holiday", "rumballs", "vintage"]
+tags: ["dessert", "confection", "nobake", "holiday", "rumballs", "123"]
 description: "A potent and delicious no-bake holiday confection, packed with a full pound of ground nuts. This classic recipe uses both brandy and rum, along with honey and vanilla wafer crumbs, for a rich and flavorful treat that keeps for weeks."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Sour Cream Pound Cake (Low-Fat)"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown (from Cooking Light Desserts)"
-tags: ["dessert", "cake", "poundcake", "lowfat", "baking", "vintage"]
+tags: ["dessert", "cake", "poundcake", "lowfat", "baking", "123"]
 description: "A lighter version of a classic sour cream pound cake, made with egg substitute and low-fat margarine for a lighter but still moist and tender crumb."
 date: "2026-07-30"
 draft: false

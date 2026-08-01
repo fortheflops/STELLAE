@@ -3,7 +3,7 @@ title: "Classic Party Cheese Ball With Pecans"
 category: "Appetizers"
 collection: "Unknown 3 Collection"
 source: "Unknown"
-tags: ["appetizer", "cheese ball", "pecans", "cream cheese", "cheddar", "party food", "vintage", "make-ahead"]
+tags: ["appetizer", "cheese ball", "pecans", "cream cheese", "cheddar", "party food", "123", "make-ahead"]
 description: "A classic party appetizer featuring a rich blend of cream cheese, processed cheddar spread, and sharp cheddar seasoned with Worcestershire and onion. Coated in ground pecans and fresh parsley for a retro crowd-pleaser."
 date: "2026-07-30"
 draft: false

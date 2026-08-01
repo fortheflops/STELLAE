@@ -3,7 +3,7 @@ title: Simple Guacamole Dip
 category: Appetizers
 collection: Unknown Fifteen
 source: Unknown
-tags: [vintage, avocado, dip, mexican, appetizers, easy]
+tags: [123, avocado, dip, mexican, appetizers, easy]
 description: A quick and easy guacamole recipe made with fresh avocados, lime juice, green chiles, and picante sauce. A perfect, classic dip for any occasion.
 date: 2026-07-24
 draft: false

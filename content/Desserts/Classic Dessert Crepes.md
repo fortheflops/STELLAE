@@ -3,7 +3,7 @@ title: "Classic Dessert Crepes"
 category: "Desserts"
 collection: "GailCollection"
 source: "Unknown"
-tags: ["dessert", "crepes", "french", "breakfast", "sweet", "vintage"]
+tags: ["dessert", "crepes", "french", "breakfast", "sweet", "123"]
 description: "A simple and versatile recipe for thin, delicate dessert crepes that can be filled with fruit or cream. This classic batter rests and cooks into golden, lacy treats perfect for any sweet occasion."
 date: "2026-07-30"
 draft: false

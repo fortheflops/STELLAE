@@ -3,7 +3,7 @@ title: "Classic Chocolate Glaze"
 category: "Sauces"
 collection: "UK15"
 source: "Unknown"
-tags: ["glaze", "chocolate", "dessert", "topping", "vintage"]
+tags: ["glaze", "chocolate", "dessert", "topping", "123"]
 description: "A quick and easy chocolate glaze made with melted unsweetened chocolate, perfect for drizzling over Bundt cakes, donuts, or cookies. This versatile recipe provides a smooth, glossy finish that sets beautifully on any baked good."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Cottage Cheese Mix"
 category: "Snacks"
 collection: "Louise Collection"
 source: "Unknown"
-tags: ["snack", "cottage cheese", "parsley", "onion", "vintage", "louise collection"]
+tags: ["snack", "cottage cheese", "parsley", "onion", "123", "louise collection"]
 description: "A simple vintage savory cottage cheese spread flecked with fresh parsley and finely diced onion. Perfect as a protein-rich dip or a light snack paired with crisp crackers."
 date: "2026-07-30"
 draft: false

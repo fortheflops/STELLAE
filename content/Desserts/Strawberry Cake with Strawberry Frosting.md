@@ -3,7 +3,7 @@ title: "Strawberry Cake with Strawberry Frosting"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "cake", "strawberry", "frosting", "vintage", "layercake"]
+tags: ["dessert", "cake", "strawberry", "frosting", "123", "layercake"]
 description: "A wonderfully moist and flavorful strawberry layer cake made easy with a white cake mix and strawberry Jello. The simple but delicious frosting is made using the reserved juice from the thawed strawberries."
 date: "2026-07-30"
 draft: false

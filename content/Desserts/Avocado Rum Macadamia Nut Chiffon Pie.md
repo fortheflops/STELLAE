@@ -3,7 +3,7 @@ title: "Avocado Rum Macadamia Nut Chiffon Pie"
 category: "Desserts"
 collection: "PatsyCollection"
 source: "Hotel Hana-Maui"
-tags: ["pie", "chiffon", "avocado", "rum", "macadamia", "hawaiian", "dessert", "vintage"]
+tags: ["pie", "chiffon", "avocado", "rum", "macadamia", "hawaiian", "dessert", "123"]
 description: "A unique and elegant chiffon pie featuring a light and airy filling of creamy avocado, a hint of rum, and a crunchy macadamia nut topping. Originating from the historic Hotel Hana-Maui, this dessert offers a delightful tropical twist."
 date: "2026-07-30"
 draft: false

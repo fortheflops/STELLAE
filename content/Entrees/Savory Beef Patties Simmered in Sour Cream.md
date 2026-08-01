@@ -3,7 +3,7 @@ title: "Savory Beef Patties Simmered in Sour Cream"
 category: "Entrees"
 collection: "General Archive"
 source: "Unknown"
-tags: ["comfortfood", "beef", "oldworld", "entree", "vintage"]
+tags: ["comfortfood", "beef", "oldworld", "entree", "123"]
 description: "A comforting, old-world recipe featuring ground beef patties browned in bacon drippings and slow-simmered in a rich, tangy sour cream gravy. Perfect for a hearty family dinner."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Grandma Hill's Sugar Cookies"
 category: "Desserts"
 collection: "UK5"
 source: "Patti Hill"
-tags: ["cookies", "vintage", "sugar", "almond", "largebatch", "comfortfood"]
+tags: ["cookies", "123", "sugar", "almond", "largebatch", "comfortfood"]
 description: "A cherished family recipe for soft, chewy sugar cookies featuring a delightful hint of almond. This large-batch dough uses a blend of butter and oil for a perfectly tender texture."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Devil's Food Drop Cookies"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "chocolate", "vintage", "dessert", "walnuts"]
+tags: ["cookies", "chocolate", "123", "dessert", "walnuts"]
 description: "A classic recipe for soft, cake-like chocolate cookies. These Devil's Food drop cookies get their rich flavor from melted chocolate and a tender, moist crumb from sour cream."
 date: "2026-07-30"
 draft: false

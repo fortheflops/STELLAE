@@ -3,7 +3,7 @@ title: "Classic Homemade Chicken & Dumplings"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["chicken", "dumplings", "comfortfood", "vintage", "soup", "entree"]
+tags: ["chicken", "dumplings", "comfortfood", "123", "soup", "entree"]
 description: "A classic, from-scratch recipe featuring a whole chicken simmered into a rich broth, chilled to collect the fat, and used to create a simple, dense 'slick' dumpling dough."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Traditional Corn Tortillas"
 category: "Bread"
 collection: "UK2"
 source: "Unknown"
-tags: ["bread", "tortillas", "mexican", "fromscratch", "vintage", "nixtamalization"]
+tags: ["bread", "tortillas", "mexican", "fromscratch", "123", "nixtamalization"]
 description: "An authentic, from-scratch recipe for corn tortillas using the traditional process of nixtamalization, where dry kernel corn is soaked with lime before being ground into masa."
 date: "2026-07-30"
 draft: false

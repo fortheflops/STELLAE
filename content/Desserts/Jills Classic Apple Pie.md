@@ -3,7 +3,7 @@ title: "Jill's Classic Apple Pie"
 category: "Desserts"
 collection: "JillCollection"
 source: "Jill"
-tags: ["dessert", "pie", "apple", "baking", "classic", "vintage"]
+tags: ["dessert", "pie", "apple", "baking", "classic", "123"]
 description: "A classic apple pie recipe from Jill, offering the choice between a traditional double crust or a sweet and simple crumb topping. Perfect for autumn gatherings and comforting family desserts."
 date: "2026-07-30"
 draft: false

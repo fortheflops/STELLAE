@@ -3,7 +3,7 @@ title: "Rich & Fluffy Chocolate Ice Cream"
 category: "Desserts"
 collection: "UK3"
 source: "Melinda Ewing"
-tags: ["dessert", "icecream", "chocolate", "frozen", "vintage"]
+tags: ["dessert", "icecream", "chocolate", "frozen", "123"]
 description: "A classic homemade chocolate ice cream with a uniquely light and fluffy texture, achieved by whipping the eggs for 10 minutes. This rich, velvety treat is perfect for summer gatherings and can be easily customized with your favorite mix-ins."
 date: "2026-07-30"
 draft: false

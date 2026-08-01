@@ -3,7 +3,7 @@ title: "Parsnip Souffl\u00e9"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["souffle", "parsnips", "vintage", "vegetable", "baking"]
+tags: ["souffle", "parsnips", "123", "vegetable", "baking"]
 description: "An elegant vintage parsnip souffl\u00e9 baked in a water bath until golden and set. This delicate side dish pairs wonderfully with roast beef."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Geschnetzeltes \u00e0 Trudy"
 category: "Sauces"
 collection: "LOC"
 source: "Unknown"
-tags: ["louisecollection", "geschnetzeltes", "beef", "comfortfood", "vintage"]
+tags: ["louisecollection", "geschnetzeltes", "beef", "comfortfood", "123"]
 description: "A savory and comforting Swiss-inspired beef dish featuring tender cubed beef simmered in a rich brown gravy with onions and a touch of sour cream. Perfect for serving over a warm bed of noodles."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Miriam B. Fox's Prune Nut Cupcakes"
 category: "Desserts"
 collection: "GC"
 source: "Miriam B. Fox"
-tags: ["dessert", "cupcakes", "vintage", "baking", "spiced", "gailcollection"]
+tags: ["dessert", "cupcakes", "123", "baking", "spiced", "gailcollection"]
 description: "Discover a wonderfully moist and spiced old-fashioned cupcake recipe packed with cooked prunes, raisins, and walnuts. These tender treats are finished with a rich buttermilk batter."
 date: "2026-07-30"
 draft: false

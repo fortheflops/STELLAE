@@ -3,7 +3,7 @@ title: "Lemon Supreme Special Cake"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "cake", "lemon", "fruit", "baking", "vintage"]
+tags: ["dessert", "cake", "lemon", "fruit", "baking", "123"]
 description: "A wonderfully moist and easy-to-make lemon cake using a doctored cake mix. Enriched with apricot nectar and soaked in a simple lemon glaze, this cake is baked in a tube pan for a beautiful presentation."
 date: "2026-07-30"
 draft: false

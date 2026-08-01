@@ -3,7 +3,7 @@ title: "Simple Baked Tuna Noodle Casserole"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["gailcollection", "tunacasserole", "casserole", "vintage", "comfortfood"]
+tags: ["gailcollection", "tunacasserole", "casserole", "123", "comfortfood"]
 description: "A classic, simple tuna casserole from the Gail Collection. This version features a homemade custard of milk and eggs poured over noodles and tuna, topped with crunchy crushed potato chips."
 date: "2026-07-30"
 draft: false

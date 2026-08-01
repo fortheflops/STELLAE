@@ -3,7 +3,7 @@ title: "Chicken Romanoff"
 category: "Entrees"
 collection: "John B. Collection"
 source: "Unattributed"
-tags: ["entree", "chicken", "casserole", "vintage", "comfortfood"]
+tags: ["entree", "chicken", "casserole", "123", "comfortfood"]
 description: "A comforting vintage casserole featuring tender chicken baked with Romanoff noodles and a rich, creamy soup sauce. Perfect for feeding a crowd, this classic recipe yields enough to fill both a 9x13 pan and an 8x8 pan."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Classic Pumpkin Nut Bread"
 category: "Bread"
 collection: "UK15"
 source: "Unknown"
-tags: ["bread", "pumpkin", "nuts", "fall", "baking", "vintage"]
+tags: ["bread", "pumpkin", "nuts", "fall", "baking", "123"]
 description: "A wonderfully moist and simple pumpkin nut bread made using the classic well mixing method for autumn baking. This large-batch recipe yields two aromatic loaves."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Cheesy Green Chile Corn Casserole"
 category: "Sides"
 collection: "UK15"
 source: "Unknown"
-tags: ["casserole", "corn", "side", "cheese", "vegetarian", "vintage"]
+tags: ["casserole", "corn", "side", "cheese", "vegetarian", "123"]
 description: "A classic, savory corn casserole with a spoonbread-like texture, packed with creamed corn, cheddar cheese, and a mild kick from green chiles. This comforting side dish bakes up golden and set in the center."
 date: "2026-07-30"
 draft: false

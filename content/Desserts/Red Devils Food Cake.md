@@ -3,7 +3,7 @@ title: "Red Devil's Food Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cake", "chocolate", "dessert", "vintage", "baking"]
+tags: ["cake", "chocolate", "dessert", "123", "baking"]
 description: "A classic Red Devil's Food Cake featuring a rich, moist crumb and deep chocolate flavor. This vintage recipe utilizes buttermilk and boiling water for a uniquely tender texture."
 date: "2026-07-30"
 draft: false

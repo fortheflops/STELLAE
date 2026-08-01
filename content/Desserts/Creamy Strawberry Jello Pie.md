@@ -3,7 +3,7 @@ title: "Creamy Strawberry Jello Pie"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "pie", "strawberry", "nobake", "vintage", "gailcollection"]
+tags: ["dessert", "pie", "strawberry", "nobake", "123", "gailcollection"]
 description: "A fantastically simple no-bake pie featuring a creamy, fluffy filling made from strawberry Jello, melted vanilla ice cream, and fresh strawberries. Chill until firm for a retro dessert that always delights."
 date: "2026-07-30"
 draft: false

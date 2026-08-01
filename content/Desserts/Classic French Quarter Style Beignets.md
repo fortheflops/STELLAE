@@ -3,7 +3,7 @@ title: "Classic French Quarter Style Beignets"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "pastries", "doughnuts", "cajun", "vintage", "fried"]
+tags: ["dessert", "pastries", "doughnuts", "cajun", "123", "fried"]
 description: "A classic recipe for light, airy, and pillowy beignets made with a simple choux pastry. These deep-fried doughnuts are generously dusted with powdered sugar and best served warm."
 date: "2026-07-30"
 draft: false

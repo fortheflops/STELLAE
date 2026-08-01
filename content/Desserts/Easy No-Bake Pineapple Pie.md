@@ -3,7 +3,7 @@ title: "Easy No-Bake Pineapple Pie"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["dessert", "pie", "nobake", "pineapple", "vintage"]
+tags: ["dessert", "pie", "nobake", "pineapple", "123"]
 description: "A wonderfully simple no-bake pie with a magic filling. The dry Dream Whip powder acts as a stabilizer, creating a firm, creamy, and sweet pineapple cream cheese filling as it chills."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Cheese Bread Spread"
 category: "Appetizers"
 collection: "UK3"
 source: "Unknown"
-tags: ["spread", "cheese", "appetizer", "vintage", "quick"]
+tags: ["spread", "cheese", "appetizer", "123", "quick"]
 description: "A deliciously simple vintage cheese and margarine spread that melts to perfection on toasted bread. Quick to prepare for unexpected guests or a cozy snack."
 date: "2026-07-30"
 draft: false

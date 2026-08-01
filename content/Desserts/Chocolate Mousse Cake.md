@@ -3,7 +3,7 @@ title: "Chocolate Mousse Cake"
 category: "Desserts"
 collection: "UK"
 source: "Unknown"
-tags: ["dessert", "chocolate", "mousse", "cake", "nobake", "vintage", "french"]
+tags: ["dessert", "chocolate", "mousse", "cake", "nobake", "123", "french"]
 description: "A decadent no-bake dessert featuring a rich chocolate mousse flavored with Grand Marnier, nestled in a crust made from slices of pound cake."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Yankee Layer Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cake", "dessert", "spicecake", "vintage", "baking"]
+tags: ["cake", "dessert", "spicecake", "123", "baking"]
 description: "A spectacularly rich and hearty three-layer spice cake packed with fruits and nuts, held together with a cooked candy-like filling."
 date: "2026-07-30"
 draft: false

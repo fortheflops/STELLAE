@@ -3,7 +3,7 @@ title: "Glazed Pineapple Drop Cookies"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "pineapple", "tropical", "dessert", "vintage", "glazed"]
+tags: ["cookies", "pineapple", "tropical", "dessert", "123", "glazed"]
 description: "A soft, cake-like drop cookie bursting with tropical flavor. This recipe features crushed pineapple in the batter and is finished with a sweet, buttery pineapple glaze and a sprinkle of nuts."
 date: "2026-07-30"
 draft: false

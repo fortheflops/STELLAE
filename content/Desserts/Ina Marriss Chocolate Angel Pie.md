@@ -3,7 +3,7 @@ title: "Ina Marris's Chocolate Angel Pie"
 category: "Desserts"
 collection: "UK3"
 source: "Ina Marris"
-tags: ["dessert", "pie", "chocolate", "meringue", "vintage"]
+tags: ["dessert", "pie", "chocolate", "meringue", "123"]
 description: "A heavenly dessert featuring a crisp, sweet meringue shell layered with a rich coating of melted chocolate and filled with light, fluffy whipped cream. This recipe makes two stunning pies."
 date: "2026-07-30"
 draft: false

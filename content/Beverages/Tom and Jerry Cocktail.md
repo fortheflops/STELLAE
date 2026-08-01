@@ -3,7 +3,7 @@ title: "Tom and Jerry Cocktail"
 category: "Beverages"
 collection: "GC"
 source: "Joy"
-tags: ["beverage", "cocktail", "winter", "holiday", "vintage"]
+tags: ["beverage", "cocktail", "winter", "holiday", "123"]
 description: "A classic warm winter cocktail featuring a rich, sweet, spiced egg batter mixed with hot milk and brandy for a festive treat."
 date: "2026-07-30"
 draft: false

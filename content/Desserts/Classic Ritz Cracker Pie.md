@@ -3,7 +3,7 @@ title: "Classic Ritz Cracker Pie"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["dessert", "pie", "vintage", "crackerpie", "pecans"]
+tags: ["dessert", "pie", "123", "crackerpie", "pecans"]
 description: "A unique and delicious vintage dessert featuring a chewy, meringue-like base made from crushed Ritz crackers, pecans, and sweet whipped cream."
 date: "2026-07-30"
 draft: false

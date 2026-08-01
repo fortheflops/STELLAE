@@ -3,7 +3,7 @@ title: "Mickey Martin's Microwave Peanut Brittle"
 category: "Desserts"
 collection: "UK3"
 source: "Mickey Martin"
-tags: ["brittle", "microwave", "peanuts", "candy", "vintage", "quick"]
+tags: ["brittle", "microwave", "peanuts", "candy", "123", "quick"]
 description: "A quick and easy recipe for classic peanut brittle made entirely in the microwave. This simple method creates a perfectly crunchy, sweet, and salty candy in just a few minutes."
 date: "2026-07-30"
 draft: false

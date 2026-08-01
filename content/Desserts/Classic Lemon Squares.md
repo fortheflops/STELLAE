@@ -3,7 +3,7 @@ title: "Classic Lemon Squares"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "lemon", "bars", "vintage", "shortbread", "citrus"]
+tags: ["dessert", "lemon", "bars", "123", "shortbread", "citrus"]
 description: "A classic recipe for sweet and tangy lemon squares featuring a buttery shortbread crust and a rich, gooey lemon custard filling. These bars are baked to perfection for a delightful treat."
 date: "2026-07-30"
 draft: false

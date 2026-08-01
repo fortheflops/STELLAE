@@ -3,7 +3,7 @@ title: "Pineapple Cake with Cooked Coconut-Nut Frosting"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "cake", "pineapple", "coconut", "vintage"]
+tags: ["dessert", "cake", "pineapple", "coconut", "123"]
 description: "An incredibly moist and simple pineapple cake topped with a rich, warm, cooked coconut and nut frosting poured right over the hot cake."
 date: "2026-07-30"
 draft: false

@@ -1,13 +1,60 @@
 ---
-title: "Gazpacho"
-category: "Soups"
-collection: "UK3"
-source: "Linda Brown"
-tags: ["soup", "cold", "appetizer", "vegetarian", "vintage"]
-description: "A refreshing and classic chilled soup featuring fresh tomatoes, cucumbers, and peppers blended with olive oil and wine vinegar. Perfect for warm days and enhanced when prepared a day in advance."
-date: "2026-07-30"
+title: Gazpacho
+category: Soups
+collection: UK3
+source: Linda Brown
+tags:
+  - soup
+  - cold
+  - appetizer
+  - vegetarian
+description: A refreshing and classic chilled soup featuring fresh tomatoes, cucumbers, and peppers blended with olive oil and wine vinegar. Perfect for warm days and enhanced when prepared a day in advance.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Gazpacho\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Linda Brown\"\n  },\n  \"description\": \"A refreshing and classic chilled soup featuring fresh tomatoes, cucumbers, and peppers blended with olive oil and wine vinegar.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT0M\",\n  \"recipeYield\": \"12 Servings\",\n  \"recipeCategory\": \"Soups\",\n  \"recipeIngredient\": [\n    \"3 Whole Fresh Tomatoes (Chopped)\",\n    \"1 Chopped Green Pepper\",\n    \"1 Med. Chopped Cucumber\",\n    \"1 Piece Bread (Broken in Pieces)\",\n    \"3 T. Wine Vinegar\",\n    \"3 T. Olive Oil\",\n    \"1 can Beef Consomme\",\n    \"1 Garlic Clove (Chopped)\",\n    \"1 Med. Chopped Onion\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Puree garlic and onion in olive oil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add first 5 ingredients to blender - liquefy.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Half this mixture before blending in beef consomm\u00e9 with onion and garlic mixture.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour all mixtures into a large container with a lid. For better flavor, make the day before.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Gazpacho",
+    "author": {
+      "@type": "Person",
+      "name": "Linda Brown"
+    },
+    "description": "A refreshing and classic chilled soup featuring fresh tomatoes, cucumbers, and peppers blended with olive oil and wine vinegar.",
+    "prepTime": "PT20M",
+    "cookTime": "PT0M",
+    "recipeYield": "12 Servings",
+    "recipeCategory": "Soups",
+    "recipeIngredient": [
+      "3 Whole Fresh Tomatoes (Chopped)",
+      "1 Chopped Green Pepper",
+      "1 Med. Chopped Cucumber",
+      "1 Piece Bread (Broken in Pieces)",
+      "3 T. Wine Vinegar",
+      "3 T. Olive Oil",
+      "1 can Beef Consomme",
+      "1 Garlic Clove (Chopped)",
+      "1 Med. Chopped Onion"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Puree garlic and onion in olive oil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add first 5 ingredients to blender - liquefy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Half this mixture before blending in beef consommé with onion and garlic mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour all mixtures into a large container with a lid. For better flavor, make the day before."
+      }
+    ]
+  }
 ---
 
 # Gazpacho

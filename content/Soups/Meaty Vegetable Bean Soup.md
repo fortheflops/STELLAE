@@ -1,13 +1,17 @@
 ---
-title: "Meaty Vegetable Bean Soup"
-category: "Soups"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["soup", "beans", "beef", "comfortfood", "vintage"]
-description: "A hearty, traditional soup featuring meaty beef bones, navy beans, and barley simmered to perfection. This rustic recipe offers a deeply savory flavor profile that warms the soul."
-date: "2026-07-30"
+title: Meaty Vegetable Bean Soup
+category: Soups
+collection: Gail Collection
+source: Unknown
+tags:
+  - soup
+  - beans
+  - beef
+  - comfortfood
+description: A hearty, traditional soup featuring meaty beef bones, navy beans, and barley simmered to perfection. This rustic recipe offers a deeply savory flavor profile that warms the soul.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Meaty Vegetable Bean Soup\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-06-19\", \"description\": \"A hearty, traditional soup featuring meaty beef bones, navy beans, and barley.\", \"prepTime\": \"PT30M\", \"cookTime\": \"PT2H30M\", \"recipeCategory\": \"Soups\", \"recipeCuisine\": \"Traditional\", \"recipeYield\": \"6-8 Servings\", \"recipeIngredient\": [\"3 Pounds meaty Beef Bones\", \"5 Cups Water\", \"1 1/2 Teaspoons Salt\", \"3/4 Cup Navy Beans\", \"3 Cups Water\", \"2 Tablespoons Pearled Barley\", \"1 Teaspoon Salt\", \"1/2 Cup Sliced Onion\", \"1/2 Cup Sliced Carrot\", \"1/2 Cup Sliced Leeks\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Soak the navy beans in warm water for at least 3 hours.\"}, {\"@type\": \"HowToStep\", \"text\": \"Combine ingredients in a large pot, bring to a boil, then reduce heat and simmer for 2 hours until tender.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Meaty Vegetable Bean Soup", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-06-19", "description": "A hearty, traditional soup featuring meaty beef bones, navy beans, and barley.", "prepTime": "PT30M", "cookTime": "PT2H30M", "recipeCategory": "Soups", "recipeCuisine": "Traditional", "recipeYield": "6-8 Servings", "recipeIngredient": ["3 Pounds meaty Beef Bones", "5 Cups Water", "1 1/2 Teaspoons Salt", "3/4 Cup Navy Beans", "3 Cups Water", "2 Tablespoons Pearled Barley", "1 Teaspoon Salt", "1/2 Cup Sliced Onion", "1/2 Cup Sliced Carrot", "1/2 Cup Sliced Leeks"], "recipeInstructions": [{"@type": "HowToStep", "text": "Soak the navy beans in warm water for at least 3 hours."}, {"@type": "HowToStep", "text": "Combine ingredients in a large pot, bring to a boil, then reduce heat and simmer for 2 hours until tender."}]}'
 ---
 
 # Meaty Vegetable Bean Soup

@@ -8,7 +8,7 @@ tags:
   - sweetpotatoes
   - yams
   - sidedish
-  - vintage
+  - 123
 description: A quick and classic vintage side dish featuring canned sweet potatoes simmered in a rich buttery sugar glaze. Perfect for pairing with holiday ham and baked to tender perfection.
 date: 2026-07-30
 draft: false

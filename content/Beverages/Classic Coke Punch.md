@@ -3,7 +3,7 @@ title: "Classic Coke Punch"
 category: "Beverages"
 collection: "UK3"
 source: "Unknown"
-tags: ["beverage", "punch", "party", "vintage", "cola", "unknownthree"]
+tags: ["beverage", "punch", "party", "123", "cola", "unknownthree"]
 description: "A simple, old-fashioned party punch recipe featuring the classic taste of Coca-Cola mixed with the bright, fruity flavors of pineapple and fresh lemon juice."
 date: "2026-07-30"
 draft: false

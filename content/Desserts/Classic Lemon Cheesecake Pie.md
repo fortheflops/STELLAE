@@ -3,7 +3,7 @@ title: "Classic Lemon Cheesecake Pie"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["pie", "cheesecake", "lemon", "dessert", "baked", "vintage"]
+tags: ["pie", "cheesecake", "lemon", "dessert", "baked", "123"]
 description: "A classic baked lemon cheesecake pie featuring a rich and creamy filling with a bright, tangy flavor from fresh lemon juice and peel, all set in a simple graham cracker crust."
 date: "2026-07-30"
 draft: false

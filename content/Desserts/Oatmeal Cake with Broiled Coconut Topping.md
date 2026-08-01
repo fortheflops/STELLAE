@@ -3,7 +3,7 @@ title: "Oatmeal Cake with Broiled Coconut Topping"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "cake", "oatmeal", "vintage", "coconut", "baking"]
+tags: ["dessert", "cake", "oatmeal", "123", "coconut", "baking"]
 description: "A wonderfully moist, old-fashioned oatmeal cake featuring a rich flavor from brown sugar and spices. The single-layer spice cake is finished with a gooey, caramelized topping of coconut, nuts, and brown sugar."
 date: "2026-07-30"
 draft: false

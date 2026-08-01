@@ -3,7 +3,7 @@ title: "Four Bean Salad"
 category: "Salads"
 collection: "LOC"
 source: "Unknown"
-tags: ["salad", "beans", "vintage", "louisecollection", "sidedish", "cold"]
+tags: ["salad", "beans", "123", "louisecollection", "sidedish", "cold"]
 description: "A classic marinated four bean salad featuring green, wax, kidney, and garbanzo beans tossed in a tangy vinaigrette. Chill overnight for the best flavor development before serving."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "No-Bake Peanut Butter Fruit Squares"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["nobake", "peanutbutter", "fruit", "dessert", "vintage", "squares"]
+tags: ["nobake", "peanutbutter", "fruit", "dessert", "123", "squares"]
 description: "A simple, no-bake confection featuring a chewy blend of ground dates, raisins, and currants bound with creamy peanut butter. These wholesome fruit squares are chilled until firm and finished with a delicate dusting of confectioners' sugar."
 date: "2026-07-30"
 draft: false

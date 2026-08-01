@@ -3,7 +3,7 @@ title: "Coconut Cream Cheese Pound Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["dessert", "cake", "poundcake", "coconut", "creamcheese", "vintage", "baking"]
+tags: ["dessert", "cake", "poundcake", "coconut", "creamcheese", "123", "baking"]
 description: "An incredibly rich and moist pound cake, made tender with cream cheese and packed with tropical coconut flavor. This dense, buttery dessert is a true classic."
 date: "2026-07-30"
 draft: false

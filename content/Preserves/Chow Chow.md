@@ -3,7 +3,7 @@ title: "Chow Chow"
 category: "Preserves"
 collection: "UK2"
 source: "Unknown"
-tags: ["condiment", "relish", "canning", "vintage", "chowchow"]
+tags: ["condiment", "relish", "canning", "123", "chowchow"]
 description: "A traditional southern-style chow chow relish featuring a crisp medley of green tomatoes, cabbage, and peppers. This heritage preserve offers the perfect balance of tangy and sweet flavors."
 date: "2026-07-30"
 draft: false

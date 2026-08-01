@@ -3,7 +3,7 @@ title: "Ida's Sugar Crescents"
 category: "Desserts"
 collection: "JohnBCollection"
 source: "Ida"
-tags: ["cookies", "shortbread", "vintage", "nuts", "crescents"]
+tags: ["cookies", "shortbread", "123", "nuts", "crescents"]
 description: "Delicate, melt-in-your-mouth crescent cookies featuring a buttery base and chopped nuts. These classic treats are baked until set and finished with a generous coating of powdered sugar while still warm."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Chewy Date and Nut Torte"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "torte", "dates", "nuts", "baked", "vintage"]
+tags: ["dessert", "torte", "dates", "nuts", "baked", "123"]
 description: "A wonderfully simple and chewy baked dessert, almost like a torte, packed with dates and nuts and held together by a light egg and sugar batter. The minimal flour content gives it a wonderful torte-like texture."
 date: "2026-07-30"
 draft: false

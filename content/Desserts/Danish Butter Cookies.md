@@ -3,7 +3,7 @@ title: "Danish Butter Cookies"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["cookies", "danish", "buttercookies", "vintage", "largebatch"]
+tags: ["cookies", "danish", "buttercookies", "123", "largebatch"]
 description: "A classic, large-batch recipe for Danish Butter Cookies featuring a unique method of folding stiffly beaten egg whites into a rich butter dough. These cookies offer a wonderfully light and crisp texture perfect for any occasion."
 date: "2026-07-30"
 draft: false

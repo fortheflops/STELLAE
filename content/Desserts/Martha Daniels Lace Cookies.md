@@ -3,7 +3,7 @@ title: "Martha Daniel's Lace Cookies"
 category: "Desserts"
 collection: "UK3"
 source: "Martha Daniel"
-tags: ["cookies", "lacecookies", "oats", "vintage", "crispy"]
+tags: ["cookies", "lacecookies", "oats", "123", "crispy"]
 description: "A classic recipe for thin, crispy, and buttery oatmeal lace cookies. This simple batter is chilled overnight and baked on foil for a delicate, see-through texture."
 date: "2026-07-30"
 draft: false

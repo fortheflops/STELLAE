@@ -1,13 +1,64 @@
 ---
-title: "Fried Meat Chili"
-category: "Soups"
-collection: "UK5"
-source: "Unknown"
-tags: ["chili", "soup", "vintage", "comfortfood", "beef"]
-description: "Discover a vintage chili recipe featuring pan-fried meat cooked with a savory flour-and-fat roux base. Richly spiced and simmered to perfection, it is a hearty classic."
-date: "2026-07-30"
+title: Fried Meat Chili
+category: Soups
+collection: UK5
+source: Unknown
+tags:
+  - chili
+  - soup
+  - comfortfood
+  - beef
+description: Discover a vintage chili recipe featuring pan-fried meat cooked with a savory flour-and-fat roux base. Richly spiced and simmered to perfection, it is a hearty classic.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Fried Meat Chili\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"Discover a vintage chili recipe featuring pan-fried meat cooked with a savory flour-and-fat roux base.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT30M\",\n  \"recipeYield\": \"4\u20136 Servings\",\n  \"recipeCategory\": \"Soups\",\n  \"recipeIngredient\": [\n    \"Meat\",\n    \"Lard\",\n    \"Flour\",\n    \"Chili Powder\",\n    \"Water\",\n    \"Garlic\",\n    \"Salt\",\n    \"Oregano\",\n    \"Bouillon\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Fry the meat in lard or bacon grease in a heavy pot until browned.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in flour as if making a gravy, and cook until it bubbles.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Remove the pot from the heat and add chili powder to taste.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add water to the flour mixture, then stir in the garlic, salt, and oregano.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"You can add bouillon if desired and simmer until cohesive.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Fried Meat Chili",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "Discover a vintage chili recipe featuring pan-fried meat cooked with a savory flour-and-fat roux base.",
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "recipeYield": "4–6 Servings",
+    "recipeCategory": "Soups",
+    "recipeIngredient": [
+      "Meat",
+      "Lard",
+      "Flour",
+      "Chili Powder",
+      "Water",
+      "Garlic",
+      "Salt",
+      "Oregano",
+      "Bouillon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Fry the meat in lard or bacon grease in a heavy pot until browned."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in flour as if making a gravy, and cook until it bubbles."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the pot from the heat and add chili powder to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add water to the flour mixture, then stir in the garlic, salt, and oregano."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "You can add bouillon if desired and simmer until cohesive."
+      }
+    ]
+  }
 ---
 
 # Fried Meat Chili

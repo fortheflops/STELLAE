@@ -3,7 +3,7 @@ title: "Neiman-Marcus Bars"
 category: "Desserts"
 collection: "UK5"
 source: "Unknown"
-tags: ["dessert", "bars", "gooeybutter", "chocolate", "vintage"]
+tags: ["dessert", "bars", "gooeybutter", "chocolate", "123"]
 description: "A famously rich and decadent bar cookie featuring a chewy chocolate cake mix base topped with a sweet, gooey cream cheese layer. These classic treats are perfect for gatherings and bake to a delightful, fudgy consistency."
 date: "2026-07-30"
 draft: false

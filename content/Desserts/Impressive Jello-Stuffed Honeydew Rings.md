@@ -3,7 +3,7 @@ title: "Impressive Jello-Stuffed Honeydew Rings"
 category: "Desserts"
 collection: "The Complete Book of Salads"
 source: "Unknown"
-tags: ["jello", "honeydew", "vintage", "buffet", "fruit"]
+tags: ["jello", "honeydew", "123", "buffet", "fruit"]
 description: "A show-stopping vintage buffet centerpiece featuring a whole honeydew melon stuffed with raspberry gelatin and fresh fruit. The melon is coated in cream cheese and pecans, then sliced into elegant, firm rings."
 date: "2026-07-30"
 draft: false

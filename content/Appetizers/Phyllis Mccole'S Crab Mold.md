@@ -4,13 +4,13 @@ category: Appetizers
 collection: Gail Collection
 source: Phyllis McCole
 tags:
-  - vintage
+  - 123
   - crab
   - appetizer
   - retro
   - make-ahead
   - seafood
-  - GailCollection
+  - gailcollection
 description: A classic, savory molded crab dip from a 1986 recipe. This elegant appetizer combines tender crab meat, rich cream cheese, and crisp vegetables in a smooth gelatin base, perfect for holiday gatherings.
 date: 2026-07-24
 draft: false

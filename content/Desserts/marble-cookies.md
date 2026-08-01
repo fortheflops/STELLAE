@@ -3,7 +3,7 @@ title: "Marble Cookies"
 category: "Desserts"
 collection: "John B. Collection"
 source: "Unattributed"
-tags: ["cookies", "marble", "chocolate", "vintage", "dessert"]
+tags: ["cookies", "marble", "chocolate", "123", "dessert"]
 description: "Delightful vintage marble cookies featuring swirled layers of vanilla and chocolate dough. Perfect for slicing and baking into crisp, eye-catching treats."
 date: "2026-07-30"
 draft: false

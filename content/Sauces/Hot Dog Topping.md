@@ -3,7 +3,7 @@ title: "Hot Dog Topping"
 category: "Sauces"
 collection: "LouiseCollection"
 source: "Unknown"
-tags: ["topping", "hotdog", "condiment", "louisecollection", "vintage"]
+tags: ["topping", "hotdog", "condiment", "louisecollection", "123"]
 description: "A unique vintage condiment featuring a tangy blend of sauerkraut, green onions, and apples. Perfect for elevating classic hot dogs with a crisp and savory crunch."
 date: "2026-07-30"
 draft: false

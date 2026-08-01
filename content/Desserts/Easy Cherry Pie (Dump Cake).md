@@ -3,7 +3,7 @@ title: "Easy Cherry Pie (Dump Cake)"
 category: "Desserts"
 collection: "GailCollection"
 source: "Unknown"
-tags: ["dessert", "dumpcake", "cherry", "easy", "baking", "vintage"]
+tags: ["dessert", "dumpcake", "cherry", "easy", "baking", "123"]
 description: "An incredibly simple 4-ingredient dessert featuring a sweet cherry pie filling base and a buttery, crunchy cake mix and walnut topping."
 date: "2026-07-30"
 draft: false

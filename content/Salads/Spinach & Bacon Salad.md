@@ -3,7 +3,7 @@ title: "Spinach & Bacon Salad"
 category: "Salads"
 collection: "LOC"
 source: "Unknown"
-tags: ["salad", "spinach", "bacon", "vintage", "louisecollection"]
+tags: ["salad", "spinach", "bacon", "123", "louisecollection"]
 description: "A classic vintage salad featuring fresh spinach, crisp bacon, and a tangy homemade dressing. Tossed together right before serving for optimal texture and flavor."
 date: "2026-07-30"
 draft: false

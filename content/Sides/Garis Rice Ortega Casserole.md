@@ -3,7 +3,7 @@ title: "Gari's Rice Ortega Casserole"
 category: "Sides"
 collection: "UK5"
 source: "Gari"
-tags: ["casserole", "rice", "greenchiles", "cheesy", "sidedish", "vintage"]
+tags: ["casserole", "rice", "greenchiles", "cheesy", "sidedish", "123"]
 description: "A wonderfully creamy and cheesy rice casserole packed with green chiles, sour cream, and cottage cheese. This quick and easy side dish bakes to bubbling perfection in just twenty-five minutes."
 date: "2026-07-30"
 draft: false

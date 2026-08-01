@@ -8,7 +8,7 @@ tags:
   - kugel
   - sides
   - casserole
-  - vintage
+  - 123
   - comfortfood
 description: A rich and comforting traditional noodle kugel featuring a decadent blend of farmer cheese, cottage cheese, and cream cheese. Baked until the center is set and the top turns a delightful golden brown.
 date: 2026-07-30

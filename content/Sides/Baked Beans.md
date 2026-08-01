@@ -8,7 +8,7 @@ tags:
   - beans
   - luncheonmeat
   - peaches
-  - vintage
+  - 123
   - louisecollection
 description: A delightful vintage side dish featuring baked beans combined with cubed luncheon meat, onions, and a surprising touch of canned peach slices. Quick to prepare on the stovetop, it offers a sweet and savory flavor profile.
 date: 2026-07-30

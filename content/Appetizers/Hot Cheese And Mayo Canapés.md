@@ -4,12 +4,12 @@ category: Appetizers
 collection: Gail Collection
 source: Unknown
 tags:
-  - vintage
+  - 123
   - cheese
   - mayonnaise
   - canapes
   - appetizer
-  - GailCollection
+  - gailcollection
 description: Simple, savory, and quick-to-make hot canapés. Small bites of bread are topped with meat or shrimp, covered in a cheesy mayonnaise mixture, and broiled until golden and bubbly.
 date: 2026-07-28
 draft: false

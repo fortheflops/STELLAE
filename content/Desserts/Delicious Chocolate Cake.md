@@ -3,7 +3,7 @@ title: "Delicious Chocolate Cake"
 category: "Desserts"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["dessert", "cake", "chocolate", "baking", "vintage"]
+tags: ["dessert", "cake", "chocolate", "baking", "123"]
 description: "A rich, classic chocolate layer cake featuring a tender crumb and deep flavor from melted unsweetened chocolate. Made with buttermilk and finished with a light, fluffy texture."
 date: "2026-07-30"
 draft: false

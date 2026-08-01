@@ -3,7 +3,7 @@ title: "Rich Cheesy Grits"
 category: "Sides"
 collection: "UK3"
 source: "Unknown"
-tags: ["grits", "cheese", "comfort food", "baked", "vintage"]
+tags: ["grits", "cheese", "comfort food", "baked", "123"]
 description: "A rich and savory baked grits casserole loaded with garlic cheese, jalape\u00f1o cheese, and Velveeta. Perfect as a comforting side dish for any hearty meal."
 date: "2026-07-30"
 draft: false

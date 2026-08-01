@@ -3,7 +3,7 @@ title: "Classic 7-Up Jello Salad"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["vintage", "jello", "salad", "retro", "dessert", "pecans"]
+tags: ["123", "jello", "salad", "retro", "dessert", "pecans"]
 description: "A nostalgic and fizzy molded Jello salad featuring the classic combination of lime Jello, 7-Up soda, cream cheese, crushed pineapple, and pecans. This retro dessert offers a creamy texture with a delightful crunch."
 date: "2026-07-30"
 draft: false

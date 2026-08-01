@@ -3,7 +3,7 @@ title: "Frozen Passion"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "frozen", "soda", "vintage", "easy"]
+tags: ["dessert", "frozen", "soda", "123", "easy"]
 description: "An incredibly simple, 2-ingredient frozen dessert made by combining any flavor of carbonated beverage with sweetened condensed milk. This refreshing treat is easily churned in an ice cream freezer for a quick, customizable dessert."
 date: "2026-07-30"
 draft: false

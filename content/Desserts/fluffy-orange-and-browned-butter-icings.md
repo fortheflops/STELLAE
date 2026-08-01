@@ -3,7 +3,7 @@ title: "Fluffy Orange and Browned Butter Icings"
 category: "Desserts"
 collection: "John B. Collection"
 source: "Unattributed"
-tags: ["icing", "frosting", "vintage", "dessert", "orange", "brownedbutter"]
+tags: ["icing", "frosting", "123", "dessert", "orange", "brownedbutter"]
 description: "A vintage duo of classic cake toppings featuring a bright, citrusy Fluffy Orange Icing and a rich, nutty Browned Butter Icing. Perfect for pairing with chiffon cakes, cupcakes, or traditional yellow cakes."
 date: "2026-07-30"
 draft: false

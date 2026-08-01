@@ -3,7 +3,7 @@ title: "Apple Dump Dish"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "apple", "dumpcake", "easy", "vintage", "comfortfood"]
+tags: ["dessert", "apple", "dumpcake", "easy", "123", "comfortfood"]
 description: "A classic, effortless dessert featuring layers of spiced apple pie filling, cake mix, and buttery pecans. This warm, gooey cobbler-style treat bakes into a golden, bubbly delight perfect for any occasion."
 date: "2026-07-30"
 draft: false

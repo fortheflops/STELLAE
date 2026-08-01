@@ -3,7 +3,7 @@ title: "Wacky Cake"
 category: "Desserts"
 collection: "Patsy Collection"
 source: "Unknown"
-tags: ["eggless", "vintage", "chocolate", "depressioncake", "onepan"]
+tags: ["eggless", "123", "chocolate", "depressioncake", "onepan"]
 description: "A classic Depression-era chocolate cake that is magically moist and rich without the use of eggs, butter, or milk. This simple, one-pan recipe is mixed directly in the baking dish for effortless preparation."
 date: "2026-07-30"
 draft: false

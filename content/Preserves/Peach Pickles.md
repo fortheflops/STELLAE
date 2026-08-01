@@ -3,7 +3,7 @@ title: "Peach Pickles"
 category: "Preserves"
 collection: "UK2"
 source: "Unknown"
-tags: ["pickles", "peaches", "preserves", "canning", "vintage"]
+tags: ["pickles", "peaches", "preserves", "canning", "123"]
 description: "Traditional spiced peach pickles made with firm cling peaches simmered in a sweet cinnamon and clove-infused cider syrup. A wonderfully spiced vintage preserve that pairs exceptionally well with roasted meats."
 date: "2026-07-30"
 draft: false

@@ -6,7 +6,6 @@ source: Unknown
 tags:
   - kidneybeans
   - groundmeat
-  - vintage
   - make-ahead
   - comfortfood
 description: A hearty vintage side dish featuring slow-simmered kidney beans, ground meat, and robust tomatoes. This savory classic tastes even better when prepared a day in advance.
@@ -22,9 +21,10 @@ recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Kidney Beans
 
 ---
 
-| Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
-| :--- | :--- | :--- | :--- |
-| 15 mins | 40 mins | Overnight (Recommended) | 6–8 Servings |
+| Prep Time | Cook Time | Inactive / Chill Time   | Yield / Servings |
+| :-------- | :-------- | :---------------------- | :--------------- |
+| 15 mins   | 40 mins   | Overnight (Recommended) | 6–8 Servings     |
+|           |           |                         |                  |
 
 ---
 

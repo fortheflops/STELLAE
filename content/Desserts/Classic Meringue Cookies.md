@@ -3,7 +3,7 @@ title: "Classic Meringue Cookies"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "meringue", "cookies", "vintage", "glutenfree"]
+tags: ["dessert", "meringue", "cookies", "123", "glutenfree"]
 description: "A classic recipe for light, crisp, and airy meringue cookies. This versatile formula is perfect for simple meringues, a chocolate version, or with add-ins like nuts, chocolate chips, and coconut."
 date: "2026-07-30"
 draft: false

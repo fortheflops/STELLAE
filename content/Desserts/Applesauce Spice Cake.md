@@ -3,7 +3,7 @@ title: "Applesauce Spice Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cake", "applesauce", "spicecake", "vintage", "loafcake", "dessert"]
+tags: ["cake", "applesauce", "spicecake", "123", "loafcake", "dessert"]
 description: "A wonderfully moist and fragrant spice cake made with applesauce, brown sugar, raisins, and nuts. This simple loaf cake is packed with the warm flavors of cinnamon, nutmeg, and cloves."
 date: "2026-07-30"
 draft: false

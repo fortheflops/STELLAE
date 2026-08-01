@@ -3,7 +3,7 @@ title: "Spare Ribs"
 category: "Entrees"
 collection: "JillCollection"
 source: "Unknown"
-tags: ["spareribs", "pork", "entree", "vintage", "roasted"]
+tags: ["spareribs", "pork", "entree", "123", "roasted"]
 description: "A classic vintage recipe for slow-roasted spare ribs, seasoned simply and baked until tender and golden brown. Perfect for a hearty family dinner with homemade gravy from the savory drippings."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Cucumber Salad"
 category: "Salads"
 collection: "LOC"
 source: "Unknown"
-tags: ["salad", "vegetable", "louisecollection", "vintage", "sidedish"]
+tags: ["salad", "vegetable", "louisecollection", "123", "sidedish"]
 description: "A crisp and creamy vintage cucumber salad tossed with sour cream, fresh lemon juice, dill, and seasoned salt. Perfect as a refreshing side dish for any meal."
 date: "2026-07-30"
 draft: false

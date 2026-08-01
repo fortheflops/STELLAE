@@ -3,7 +3,7 @@ title: "Date Nut Bars"
 category: "Desserts"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["dessert", "bars", "dates", "nuts", "vintage", "baked"]
+tags: ["dessert", "bars", "dates", "nuts", "123", "baked"]
 description: "These chewy, moist date and nut bars offer a rich, brownie-like texture perfect for any occasion. A simple, classic recipe that highlights the natural sweetness of dates paired with crunchy nuts."
 date: "2026-07-30"
 draft: false

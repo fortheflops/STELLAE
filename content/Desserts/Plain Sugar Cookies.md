@@ -3,7 +3,7 @@ title: "Plain Sugar Cookies"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["cookies", "sugarcookies", "vintage", "baking", "dessert"]
+tags: ["cookies", "sugarcookies", "123", "baking", "dessert"]
 description: "A classic, sturdy roll-and-cut sugar cookie recipe featuring a unique technique of rolling the dough in sugar for a crisp, sweet crust. These cookies are perfect for holiday shapes and maintain their form beautifully during baking."
 date: "2026-07-30"
 draft: false

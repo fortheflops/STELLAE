@@ -3,7 +3,7 @@ title: "Pastry-Style Strawberry Shortcake"
 category: "Desserts"
 collection: "PatsyCollection"
 source: "Unknown"
-tags: ["shortcake", "dessert", "pastry", "vintage", "strawberry"]
+tags: ["shortcake", "dessert", "pastry", "123", "strawberry"]
 description: "A unique, old-fashioned strawberry shortcake with a rich, tender, almost cookie-like texture. This pastry-style base is made with butter and powdered sugar, perfect for individual servings."
 date: "2026-07-30"
 draft: false

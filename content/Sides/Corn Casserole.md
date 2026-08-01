@@ -3,7 +3,7 @@ title: "Corn Casserole"
 category: "Sides"
 collection: "Patsy's Collection"
 source: "Opal"
-tags: ["casserole", "vegetable", "corn", "patsycollection", "vintage"]
+tags: ["casserole", "vegetable", "corn", "patsycollection", "123"]
 description: "A comforting and creamy corn casserole featuring sweet corn and green chiles melted together with rich cream cheese. Perfect as a quick and easy side dish for any weeknight meal or gathering."
 date: "2026-07-30"
 draft: false

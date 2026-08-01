@@ -3,7 +3,7 @@ title: "Chocolate Rum Balls"
 category: "Desserts"
 collection: "Louise Collection"
 source: "Unknown"
-tags: ["dessert", "nobake", "vintage", "rumballs", "confection"]
+tags: ["dessert", "nobake", "123", "rumballs", "confection"]
 description: "A classic, no-bake recipe for rich and potent chocolate rum balls. This simple mixture combines vanilla wafer crumbs, cocoa, nuts, and your choice of spirits, and gets even better as it ages."
 date: "2026-07-30"
 draft: false

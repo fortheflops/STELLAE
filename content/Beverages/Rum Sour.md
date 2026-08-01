@@ -3,7 +3,7 @@ title: "Rum Sour"
 category: "Beverages"
 collection: "GC"
 source: "Phil"
-tags: ["beverage", "cocktail", "rum", "sour", "vintage"]
+tags: ["beverage", "cocktail", "rum", "sour", "123"]
 description: "A quick and easy 2-ingredient cocktail featuring rum and sweet & sour mix, which can be served over ice or blended into a daiquiri."
 date: "2026-07-30"
 draft: false

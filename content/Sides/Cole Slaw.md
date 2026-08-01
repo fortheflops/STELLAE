@@ -10,7 +10,7 @@ tags:
   - carrot
   - sidedish
   - no-cook
-  - vintage
+  - 123
 description: A crisp, refreshing vintage cole slaw elevated with sweet diced apples, grated carrots, and shredded cabbage. Tossed with a quick creamy dressing of sour cream, mayonnaise, and a pinch of sugar.
 date: 2026-07-30
 draft: false

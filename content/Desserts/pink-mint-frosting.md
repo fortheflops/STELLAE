@@ -5,12 +5,12 @@ collection: John B. Collection
 source: Unattributed
 tags:
   - frosting
-  - vintage
+  - 123
   - mint
   - pink
   - caketopping
   - 7minutefrosting
-  - JohnBCollection
+  - johnbcollection
 description: A classic vintage seven-minute style pink mint frosting, whipped over a double boiler to fluffy, glossy peaks. Perfect for filling and decorating cakes with beautiful, two-tone pink swirls.
 date: 2026-07-30
 draft: false

@@ -3,7 +3,7 @@ title: "Easy Broiled Meringue Topping"
 category: "Desserts"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["meringue", "topping", "dessert", "pie", "vintage"]
+tags: ["meringue", "topping", "dessert", "pie", "123"]
 description: "A quick and simple recipe for a classic meringue pie topping that's toasted to golden-brown perfection in minutes under the broiler. This airy, glossy topping is the perfect finish for any fruit or cream pie."
 date: "2026-07-30"
 draft: false

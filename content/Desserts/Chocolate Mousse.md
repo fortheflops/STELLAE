@@ -3,7 +3,7 @@ title: "Chocolate Mousse"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "chocolate", "mousse", "french", "vintage"]
+tags: ["dessert", "chocolate", "mousse", "french", "123"]
 description: "A classic and rich chocolate mousse with a light, airy texture, created by folding stiffly beaten egg whites into a smooth chocolate, butter, and egg yolk base. This elegant dessert is perfect for chilled serving and can be customized with whipped cream or ice cream."
 date: "2026-07-30"
 draft: false

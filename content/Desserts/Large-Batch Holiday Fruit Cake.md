@@ -3,7 +3,7 @@ title: "Large-Batch Holiday Fruit Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "cake", "fruitcake", "holiday", "baking", "vintage", "largebatch"]
+tags: ["dessert", "cake", "fruitcake", "holiday", "baking", "123", "largebatch"]
 description: "A traditional, large-batch fruit cake that makes 11 pounds of rich, moist, and spicy cake. The fruit is cooked with spices in apricot nectar and soaked overnight for incredible depth of flavor."
 date: "2026-07-30"
 draft: false

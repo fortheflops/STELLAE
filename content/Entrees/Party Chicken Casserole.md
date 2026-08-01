@@ -3,7 +3,7 @@ title: "Party Chicken Casserole"
 category: "Entrees"
 collection: "Patsy Collection"
 source: "Unknown"
-tags: ["patsycollection", "casserole", "chicken", "comfortfood", "vintage"]
+tags: ["patsycollection", "casserole", "chicken", "comfortfood", "123"]
 description: "A classic and savory casserole featuring bacon-wrapped chicken breasts baked low and slow on a bed of dried beef. Smothered in a rich, creamy mushroom and sour cream sauce, it is an effortless crowd-pleaser."
 date: "2026-07-30"
 draft: false

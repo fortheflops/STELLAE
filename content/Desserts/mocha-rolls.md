@@ -3,7 +3,7 @@ title: "Mocha Rolls"
 category: "Desserts"
 collection: "John B. Collection"
 source: "Unattributed"
-tags: ["mocha", "rolls", "cookies", "dessert", "no-bake", "vintage", "coffee", "pecans"]
+tags: ["mocha", "rolls", "cookies", "dessert", "no-bake", "123", "coffee", "pecans"]
 description: "Delightful vintage no-bake mocha rolls combining vanilla wafer crumbs, pecans, and soluble coffee. Coated in powdered sugar, they make a wonderfully sweet and aromatic treat."
 date: "2026-07-30"
 draft: false

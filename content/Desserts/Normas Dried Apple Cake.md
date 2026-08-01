@@ -3,7 +3,7 @@ title: "Norma's Dried Apple Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Norma"
-tags: ["cake", "vintage", "fruitcake", "apples", "spicecake", "holiday"]
+tags: ["cake", "123", "fruitcake", "apples", "spicecake", "holiday"]
 description: "A rich and dense old-fashioned spice cake packed with cooked dried apples, raisins, and black walnuts. This fruitcake-style loaf is a perfect, moist treat for autumn and winter gatherings."
 date: "2026-07-30"
 draft: false

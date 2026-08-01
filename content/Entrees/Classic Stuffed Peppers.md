@@ -3,7 +3,7 @@ title: "Classic Stuffed Peppers"
 category: "Entrees"
 collection: "JillCollection"
 source: "Unknown"
-tags: ["entree", "stuffedpeppers", "beef", "comfortfood", "vintage"]
+tags: ["entree", "stuffedpeppers", "beef", "comfortfood", "123"]
 description: "A clever variation on classic cabbage rolls featuring tender bell peppers stuffed with savory ground beef. Slow-cooked in a sweet-and-sour tomato sauce, this dish is even better when served the next day."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Old-Fashioned Buttermilk Marbled Pound Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Denny White"
-tags: ["cake", "poundcake", "dessert", "chocolate", "buttermilk", "vintage", "baking"]
+tags: ["cake", "poundcake", "dessert", "chocolate", "buttermilk", "123", "baking"]
 description: "A classic, tender buttermilk pound cake with a rich chocolate marble swirl, flavored with vanilla and almond extracts. This traditional recipe yields a dense, flavorful cake with a beautiful crumb."
 date: "2026-07-30"
 draft: false

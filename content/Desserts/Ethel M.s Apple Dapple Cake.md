@@ -3,7 +3,7 @@ title: "Ethel M.'s Apple Dapple Cake"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Ethel M."
-tags: ["cake", "apple", "southern", "vintage", "dessert", "nut"]
+tags: ["cake", "apple", "southern", "123", "dessert", "nut"]
 description: "A classic Southern-style moist apple cake packed with diced fruit and nuts. This dense dessert is finished by soaking it in a rich, hot brown sugar sauce while still in the pan."
 date: "2026-07-30"
 draft: false

@@ -9,7 +9,7 @@ tags:
   - springrolls
   - groundbeef
   - porksausage
-  - vintage
+  - 123
   - partyfood
 description: A classic recipe for crispy Filipino lumpia, featuring a savory, customizable filling of ground beef, pork sausage, and finely chopped vegetables. Perfect as a crowd-pleasing appetizer served with sweet chili dipping sauce.
 date: 2026-07-28

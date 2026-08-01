@@ -3,7 +3,7 @@ title: "Squash Cakes"
 category: "Sides"
 collection: "UK2"
 source: "Neva"
-tags: ["unknowntwo", "fried", "squash", "vintage", "sides"]
+tags: ["unknowntwo", "fried", "squash", "123", "sides"]
 description: "A traditional vintage side dish of savory fried squash cakes made with fresh squash, onion, and a simple batter. Crispy golden-brown on both sides, this comforting recipe is pan-fried to perfection."
 date: "2026-07-30"
 draft: false

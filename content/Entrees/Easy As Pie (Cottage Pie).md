@@ -3,7 +3,7 @@ title: "Easy As Pie (Cottage Pie)"
 category: "Entrees"
 collection: "Louise Collection"
 source: "Unknown"
-tags: ["louisecollection", "cottagepie", "groundbeef", "casserole", "comfortfood", "vintage"]
+tags: ["louisecollection", "cottagepie", "groundbeef", "casserole", "comfortfood", "123"]
 description: "A classic and simple Cottage Pie featuring a savory seasoned ground beef base baked in a pie pan and topped with fluffy mashed potatoes. This comforting dish brings together familiar flavors for an easy family-friendly dinner."
 date: "2026-07-30"
 draft: false

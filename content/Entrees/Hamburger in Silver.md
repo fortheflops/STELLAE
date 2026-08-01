@@ -3,7 +3,7 @@ title: "Hamburger in Silver"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["gailcollection", "hamburger", "beef", "entree", "foilpacket", "vintage"]
+tags: ["gailcollection", "hamburger", "beef", "entree", "foilpacket", "123"]
 description: "A simple and savory 'Hamburger in Silver' recipe featuring two hamburger patties stuffed with cheese and mushrooms, seasoned, and baked in a foil packet."
 date: "2026-07-30"
 draft: false

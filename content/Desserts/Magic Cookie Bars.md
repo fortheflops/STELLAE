@@ -3,7 +3,7 @@ title: "Magic Cookie Bars"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "bars", "cookies", "vintage", "chocolate", "coconut"]
+tags: ["dessert", "bars", "cookies", "123", "chocolate", "coconut"]
 description: "A classic, easy-to-make layered bar cookie featuring a buttery graham cracker crust topped with coconut, chocolate, and nuts. These bars are drenched in sweetened condensed milk and baked until golden and gooey."
 date: "2026-07-30"
 draft: false

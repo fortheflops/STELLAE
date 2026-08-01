@@ -3,7 +3,7 @@ title: "Orange Slice Fruit Cake"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["dessert", "cake", "fruitcake", "vintage", "holiday", "baking"]
+tags: ["dessert", "cake", "fruitcake", "123", "holiday", "baking"]
 description: "A wonderfully rich and moist old-fashioned fruitcake packed with chewy orange slice candies, dates, coconut, and pecans. Baked low and slow in a tube pan, it is finished with a sweet fresh orange juice glaze."
 date: "2026-07-30"
 draft: false

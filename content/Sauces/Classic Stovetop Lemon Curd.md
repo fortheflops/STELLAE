@@ -3,7 +3,7 @@ title: "Classic Stovetop Lemon Curd"
 category: "Sauces"
 collection: "General Archive"
 source: "Unknown"
-tags: ["dessert", "sauce", "lemon", "curd", "vintage"]
+tags: ["dessert", "sauce", "lemon", "curd", "123"]
 description: "A classic recipe for a rich and tangy lemon curd made directly on the stovetop. A simple but decadent filling for tarts or a spread for scones."
 date: "2026-07-30"
 draft: false

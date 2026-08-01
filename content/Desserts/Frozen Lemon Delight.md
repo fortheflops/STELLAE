@@ -3,7 +3,7 @@ title: "Frozen Lemon Delight"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["dessert", "frozen", "lemon", "nobake", "vintage", "citrus"]
+tags: ["dessert", "frozen", "lemon", "nobake", "123", "citrus"]
 description: "A light and tangy no-bake frozen dessert featuring a fluffy, mousse-like lemon filling layered between crunchy cookie crumbs. This refreshing treat is perfect for warm days and can be easily adapted for a refrigerated mousse texture."
 date: "2026-07-30"
 draft: false

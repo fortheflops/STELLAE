@@ -3,7 +3,7 @@ title: "Classic Refrigerator Cookies"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["cookies", "vintage", "sliceandbake", "refrigeratorcookies", "dessert"]
+tags: ["cookies", "123", "sliceandbake", "refrigeratorcookies", "dessert"]
 description: "A classic, versatile recipe for slice-and-bake refrigerator cookies. This rich, buttery dough with brown sugar and nuts is chilled in a log, then sliced and baked for perfect, uniform cookies every time."
 date: "2026-07-30"
 draft: false

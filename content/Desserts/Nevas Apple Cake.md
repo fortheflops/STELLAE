@@ -3,7 +3,7 @@ title: "Neva's Apple Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Neva"
-tags: ["applecake", "vintage", "dessert", "fruitcake", "baking"]
+tags: ["applecake", "123", "dessert", "fruitcake", "baking"]
 description: "A wonderfully moist and dense apple cake featuring grated Winesap apples and crunchy nuts. This classic dump-style recipe creates a rich, flavorful dessert perfect for any occasion."
 date: "2026-07-30"
 draft: false

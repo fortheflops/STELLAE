@@ -3,7 +3,7 @@ title: "Pimento Cheese Crock"
 category: "Sauces"
 collection: "UK3"
 source: "Karlene Jensen"
-tags: ["pimento", "cheese", "dip", "vintage", "spread"]
+tags: ["pimento", "cheese", "dip", "123", "spread"]
 description: "A classic, creamy pimento cheese dip made with melted Velveeta and tangy vinegar. This vintage recipe is perfect for parties and easily stored for later enjoyment."
 date: "2026-07-30"
 draft: false

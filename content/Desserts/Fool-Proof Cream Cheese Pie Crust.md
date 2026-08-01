@@ -3,7 +3,7 @@ title: "Fool-Proof Cream Cheese Pie Crust"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["piecrust", "dessert", "baking", "creamcheese", "vintage"]
+tags: ["piecrust", "dessert", "baking", "creamcheese", "123"]
 description: "Discover a wonderfully simple and tender pie crust made with cream cheese and margarine instead of water. This creates an incredibly rich, flaky, and easy-to-handle dough."
 date: "2026-07-30"
 draft: false

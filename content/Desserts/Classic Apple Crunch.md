@@ -3,7 +3,7 @@ title: "Classic Apple Crunch"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "apple", "crunch", "vintage", "fruit"]
+tags: ["dessert", "apple", "crunch", "123", "fruit"]
 description: "A simple and delicious apple crunch featuring tender, sweetened apples and a buttery brown sugar and cinnamon crumble topping. This classic dessert is perfect for any occasion."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Alma Roeder's Mushroom Quiche"
 category: "Entrees"
 collection: "Patsy Collection"
 source: "Alma Roeder"
-tags: ["entree", "quiche", "mushrooms", "brunch", "vintage", "patsycollection"]
+tags: ["entree", "quiche", "mushrooms", "brunch", "123", "patsycollection"]
 description: "A classic and savory mushroom quiche from Alma Roeder, featuring saut\u00e9ed mushrooms, green onions, and Gruy\u00e8re cheese baked in a rich, tarragon-spiced egg custard. Perfect for brunch or a light dinner, this vintage recipe is both elegant and comforting."
 date: "2026-07-30"
 draft: false

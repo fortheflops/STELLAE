@@ -3,7 +3,7 @@ title: "Easy Chicken & Cheese Crescent Roll Casserole"
 category: "Entrees"
 collection: "General Archive"
 source: "Mrs. Mulligan"
-tags: ["casserole", "chicken", "comfortfood", "vintage", "easy"]
+tags: ["casserole", "chicken", "comfortfood", "123", "easy"]
 description: "A comforting and easy vintage recipe from Mrs. Mulligan featuring tender chicken and cheddar cheese rolled in crescent dough. Baked in a creamy chicken soup sauce, it's a quick family favorite."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Date-Apple Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cake", "vintage", "apples", "dates", "nuts", "dumpcake"]
+tags: ["cake", "123", "apples", "dates", "nuts", "dumpcake"]
 description: "A dense, moist, and wonderfully simple cake packed with fresh diced apples, sweet dates, and crunchy nuts. This classic one-bowl recipe creates a chunky, fruit-forward dessert."
 date: "2026-07-30"
 draft: false

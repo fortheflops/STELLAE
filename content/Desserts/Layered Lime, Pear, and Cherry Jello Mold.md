@@ -3,7 +3,7 @@ title: "Layered Lime, Pear, and Cherry Jello Mold"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "vintage", "jello", "fruit", "holiday", "retro"]
+tags: ["dessert", "123", "jello", "fruit", "holiday", "retro"]
 description: "A beautiful two-layer vintage Jello mold featuring a decorative base of pears and cherries in clear lime Jello, topped with a smooth, tangy lime and cream cheese mousse."
 date: "2026-07-30"
 draft: false

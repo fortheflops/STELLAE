@@ -3,7 +3,7 @@ title: "Pink Party Punch"
 category: "Beverages"
 collection: "UK3"
 source: "Unknown"
-tags: ["beverage", "punch", "party", "largecrowd", "vintage", "koolaid", "jello"]
+tags: ["beverage", "punch", "party", "largecrowd", "123", "koolaid", "jello"]
 description: "A fun, fruity, and vibrant pink punch perfect for a large crowd. This recipe uses a Jello and Kool-Aid base, combined with pineapple and lemonade, and finished with fizzy ginger ale."
 date: "2026-07-30"
 draft: false

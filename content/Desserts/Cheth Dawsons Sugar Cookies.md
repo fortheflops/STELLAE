@@ -3,7 +3,7 @@ title: "Cheth Dawson's Sugar Cookies"
 category: "Desserts"
 collection: "UK3"
 source: "Cheth Dawson"
-tags: ["cookies", "vintage", "sourcream", "holiday", "baking"]
+tags: ["cookies", "123", "sourcream", "holiday", "baking"]
 description: "A classic soft, roll-and-cut sugar cookie made with sour cream for a tender, cake-like texture. This versatile dough is perfect for cutting into shapes and decorating for any occasion."
 date: "2026-07-30"
 draft: false

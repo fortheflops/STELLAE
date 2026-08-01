@@ -8,7 +8,6 @@ tags:
   - lima beans
   - spanish
   - baked
-  - vintage
   - unknowntwo
 description: A traditional slow-baked Spanish bean dish featuring savory lima beans infused with aromatic vegetables, white wine, and paprika. Comforting and rich, this vintage side pairs wonderfully with roasted meats.
 date: 2026-07-30

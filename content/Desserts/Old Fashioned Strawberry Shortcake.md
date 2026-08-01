@@ -3,7 +3,7 @@ title: "Old Fashioned Strawberry Shortcake"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["shortcake", "dessert", "baking", "strawberries", "vintage"]
+tags: ["shortcake", "dessert", "baking", "strawberries", "123"]
 description: "A classic, old-fashioned recipe for a single, large biscuit-style shortcake baked in a round pan. This rich cake is designed to be split and filled with fresh sweetened strawberries and whipped cream."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Creamy Tuna & Crispy Noodle Casserole"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["gailcollection", "casserole", "tuna", "comfortfood", "vintage"]
+tags: ["gailcollection", "casserole", "tuna", "comfortfood", "123"]
 description: "A comforting vintage casserole from the Gail Collection featuring layers of tuna, mixed vegetables, and crispy Chinese noodles. Baked in a seasoned cream of celery soup sauce and topped with chopped boiled eggs, it is a quick and hearty family meal."
 date: "2026-07-30"
 draft: false

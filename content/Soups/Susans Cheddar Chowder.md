@@ -1,11 +1,15 @@
 ---
-title: "Susan's Cheddar Chowder"
-category: "Soups"
-collection: "UK3"
-source: "Susan"
-tags: ["chowder", "soup", "cheddar", "comfortfood", "vintage"]
-description: "A comforting, hearty cheddar chowder packed with tender vegetables and savory ham. This creamy vintage soup is rich, flavorful, and easy to make."
-date: "2026-07-30"
+title: Susan's Cheddar Chowder
+category: Soups
+collection: UK3
+source: Susan
+tags:
+  - chowder
+  - soup
+  - cheddar
+  - comfortfood
+description: A comforting, hearty cheddar chowder packed with tender vegetables and savory ham. This creamy vintage soup is rich, flavorful, and easy to make.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Susan's Cheddar Chowder\", \"author\": {\"@type\": \"Person\", \"name\": \"Susan\"}, \"description\": \"A comforting, hearty cheddar chowder packed with tender vegetables and savory ham.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT25M\", \"recipeYield\": \"4-6 Servings\", \"recipeCategory\": \"Soups\", \"recipeIngredient\": [\"2 cups Peeled Potatoes - Chopped\", \"1/2 cup Sliced Carrots\", \"1/2 cup Sliced Celery\", \"1/4 cup Chopped Onion\", \"2 cups Boiling Water\", \"1/4 cup Margarine\", \"1/4 cup Flour\", \"1/2 teaspoon Salt\", \"1/4 teaspoon Pepper\", \"2 cups Milk\", \"2 cups Grated Cheddar Cheese\", \"1 cup Ham - Chopped\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Mix veggies with boiling water in saucepan.\"}, {\"@type\": \"HowToStep\", \"text\": \"Simmer covered for 15 minutes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Set aside.\"}, {\"@type\": \"HowToStep\", \"text\": \"Melt margarine in large saucepan.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in flour, salt, and pepper.\"}, {\"@type\": \"HowToStep\", \"text\": \"Whisk in milk.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook until thickened, stirring constantly.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in cheese until melted.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add veggies with their cooking liquid.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add ham.\"}, {\"@type\": \"HowToStep\", \"text\": \"Heat just to serving temperature, stirring occasionally. Do not boil.\"}]}"
 ---

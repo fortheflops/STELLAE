@@ -3,7 +3,7 @@ title: "Jumble Oatmeal Cookies"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["oatmeal", "cookies", "vintage", "jumble", "buttermilk"]
+tags: ["oatmeal", "cookies", "123", "jumble", "buttermilk"]
 description: "A hearty and chewy oatmeal drop cookie loaded with raisins, nuts, and spices, with a tender crumb from buttermilk. These classic cookies are packed with a delicious jumble of textures and warm flavors."
 date: "2026-07-30"
 draft: false

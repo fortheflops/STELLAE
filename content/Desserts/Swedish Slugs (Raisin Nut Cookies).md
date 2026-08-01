@@ -3,7 +3,7 @@ title: "Swedish Slugs (Raisin Nut Cookies)"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "vintage", "raisins", "walnuts", "sweets"]
+tags: ["cookies", "123", "raisins", "walnuts", "sweets"]
 description: "A classic recipe for a hearty and chewy drop cookie, amusingly named 'Swedish Slugs'. This simple batter is loaded with walnuts and raisins for a timeless, delicious treat."
 date: "2026-07-30"
 draft: false

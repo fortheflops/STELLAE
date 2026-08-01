@@ -3,7 +3,7 @@ title: "Noodle Pudding A La Martha"
 category: "Sides"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["jillcollection", "noodles", "pudding", "vintage", "casserole"]
+tags: ["jillcollection", "noodles", "pudding", "123", "casserole"]
 description: "A classic baked noodle pudding featuring creamy cottage cheese, whipped egg whites, and a hint of lemon, baked until golden and bubbling."
 date: "2026-07-30"
 draft: false

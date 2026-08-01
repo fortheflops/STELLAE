@@ -3,7 +3,7 @@ title: "Christmas Cane Cookies"
 category: "Desserts"
 collection: "LouiseCollection"
 source: "Unknown"
-tags: ["cookies", "holiday", "christmas", "peppermint", "buttercookies", "vintage"]
+tags: ["cookies", "holiday", "christmas", "peppermint", "buttercookies", "123"]
 description: "These festive almond-vanilla butter cookies are twisted into charming candy cane shapes and finished with a crunchy peppermint sugar topping. Perfect for holiday gifting, this classic recipe yields a beautiful, professional-looking treat."
 date: "2026-07-30"
 draft: false

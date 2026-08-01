@@ -3,7 +3,7 @@ title: "Classic Spice Jam Cake"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "cake", "spicecake", "vintage", "jam"]
+tags: ["dessert", "cake", "spicecake", "123", "jam"]
 description: "A classic, moist jam cake with a tender crumb from sour milk and a rich flavor from brown sugar and warm spices."
 date: "2026-07-30"
 draft: false

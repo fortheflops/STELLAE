@@ -3,7 +3,7 @@ title: "Classic Leftover Roast Beef Hash"
 category: "Entrees"
 collection: "Jill Collection"
 source: "Unknown"
-tags: ["jillcollection", "vintage", "hash", "beef", "comfortfood", "leftovers", "skillet"]
+tags: ["jillcollection", "123", "hash", "beef", "comfortfood", "leftovers", "skillet"]
 description: "Transform yesterday's dinner into a savory breakfast favorite with this resourceful classic skillet hash. Chopped roast beef, tender potatoes, and onions are fried to crisp, golden perfection with savory gravy."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Turkey Dressing"
 category: "Sides"
 collection: "Gail Collection"
 source: "Rick & Joy Gay"
-tags: ["dressing", "thanksgiving", "sausage", "vintage", "savory"]
+tags: ["dressing", "thanksgiving", "sausage", "123", "savory"]
 description: "A hearty, traditional turkey dressing featuring savory sausage, aromatic vegetables, and a unique potato-bread base. This classic recipe is perfect for stuffing poultry or serving as a rich side dish for pork."
 date: "2026-07-30"
 draft: false

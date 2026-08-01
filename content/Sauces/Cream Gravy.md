@@ -3,7 +3,7 @@ title: "Cream Gravy"
 category: "Sauces"
 collection: "UK3"
 source: "Susan"
-tags: ["sauce", "gravy", "comfortfood", "vintage", "quick"]
+tags: ["sauce", "gravy", "comfortfood", "123", "quick"]
 description: "A classic, easy-to-make cream gravy made with pan drippings and milk. Perfect for serving over biscuits, potatoes, or meat dishes."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "No-Weep Meringue Topping"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["meringue", "dessert", "topping", "baking", "vintage"]
+tags: ["meringue", "dessert", "topping", "baking", "123"]
 description: "A classic, foolproof recipe for a meringue topping that won't weep or shrink. The secret is a simple cooked cornstarch base that stabilizes the egg whites for a perfect, stable meringue every time."
 date: "2026-07-30"
 draft: false

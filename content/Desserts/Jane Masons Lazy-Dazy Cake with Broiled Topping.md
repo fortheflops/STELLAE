@@ -3,7 +3,7 @@ title: "Jane Mason's Lazy-Dazy Cake with Broiled Topping"
 category: "Desserts"
 collection: "UK15"
 source: "Jane Mason"
-tags: ["cake", "dessert", "vintage", "baking", "coffeeecake"]
+tags: ["cake", "dessert", "123", "baking", "coffeeecake"]
 description: "A classic hot milk cake topped with a rich, buttery mixture of brown sugar, coconut, and pecans that is broiled until bubbly and caramelized."
 date: "2026-07-30"
 draft: false

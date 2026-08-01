@@ -3,7 +3,7 @@ title: "Classic Frozen Fruit Salad"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "frozen", "fruit", "vintage", "nostalgic"]
+tags: ["dessert", "frozen", "fruit", "123", "nostalgic"]
 description: "A nostalgic and easy-to-make frozen fruit salad featuring a medley of pineapple, fruit cocktail, bananas, and marshmallows in a light and creamy Dream Whip base. This refreshing treat is perfect for gatherings and can be prepared well in advance."
 date: "2026-07-30"
 draft: false

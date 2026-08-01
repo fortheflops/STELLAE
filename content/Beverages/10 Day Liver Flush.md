@@ -3,7 +3,7 @@ title: "10 Day Liver Flush"
 category: "Beverages"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["beverage", "detox", "lemon", "flush", "vintage"]
+tags: ["beverage", "detox", "lemon", "flush", "123"]
 description: "A classic cleansing elixir featuring fresh lemon juice, maple syrup, and a kick of cayenne pepper. Designed to be enjoyed as a refreshing and revitalizing tonic."
 date: "2026-07-30"
 draft: false

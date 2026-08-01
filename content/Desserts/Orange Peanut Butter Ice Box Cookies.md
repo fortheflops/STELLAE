@@ -3,7 +3,7 @@ title: "Orange Peanut Butter Ice Box Cookies"
 category: "Desserts"
 collection: "John B Collection"
 source: "Unknown"
-tags: ["vintage", "cookies", "icebox", "peanutbutter", "orange", "pecans"]
+tags: ["123", "cookies", "icebox", "peanutbutter", "orange", "pecans"]
 description: "A classic vintage ice box cookie recipe that pairs creamy peanut butter with bright orange zest. These slice-and-bake cookies are perfect for preparing ahead and keeping on hand for quick treats."
 date: "2026-07-30"
 draft: false

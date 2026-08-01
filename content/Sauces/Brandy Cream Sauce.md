@@ -3,7 +3,7 @@ title: "Brandy Cream Sauce"
 category: "Sauces"
 collection: "Gail Collection"
 source: "Ann"
-tags: ["sauce", "brandy", "vintage", "dessert", "gailcollection"]
+tags: ["sauce", "brandy", "123", "dessert", "gailcollection"]
 description: "A rich and velvety brandy-infused cream sauce perfect for drizzling over desserts. This vintage recipe offers a decadent finish with a delicate hint of nutmeg."
 date: "2026-07-30"
 draft: false

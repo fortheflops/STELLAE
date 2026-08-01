@@ -3,7 +3,7 @@ title: "Six-in-One Refrigerator Cookies"
 category: "Desserts"
 collection: "UK2 Collection"
 source: "Unknown"
-tags: ["dessert", "cookies", "vintage", "refrigeratorcookies", "sliceandbake"]
+tags: ["dessert", "cookies", "123", "refrigeratorcookies", "sliceandbake"]
 description: "A versatile master recipe for classic slice-and-bake refrigerator cookies. This rich, buttery dough can be divided and customized with various additions like coconut, nuts, spices, or melted chocolate to create six different types of cookies from one batch."
 date: "2026-07-30"
 draft: false

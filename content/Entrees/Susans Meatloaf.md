@@ -3,7 +3,7 @@ title: "Susan's Meatloaf"
 category: "Entrees"
 collection: "UK3"
 source: "Susan"
-tags: ["meatloaf", "beef", "comfortfood", "vintage", "entree"]
+tags: ["meatloaf", "beef", "comfortfood", "123", "entree"]
 description: "A classic vintage meatloaf recipe featuring a savory blend of ground beef, green peppers, onions, and a rich tomato-bacon topping. Perfectly seasoned and baked until tender and juicy."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Nut Squares"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["dessert", "bars", "cookies", "vintage", "nuts", "shortbread"]
+tags: ["dessert", "bars", "cookies", "123", "nuts", "shortbread"]
 description: "A classic layered bar cookie featuring a tender, buttery shortbread crust topped with a chewy, cinnamon-spiced nut meringue. These delightful treats are perfect for pairing with coffee or tea."
 date: "2026-07-30"
 draft: false

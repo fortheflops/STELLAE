@@ -3,7 +3,7 @@ title: "Classic Gin or Vodka Fizz"
 category: "Beverages"
 collection: "GailCollection"
 source: "Unknown"
-tags: ["beverage", "cocktail", "fizz", "gin", "vodka", "blender", "vintage"]
+tags: ["beverage", "cocktail", "fizz", "gin", "vodka", "blender", "123"]
 description: "A creamy and frothy classic fizz cocktail made in a blender. This recipe combines gin or vodka with milk, half-and-half, and a whole egg for a rich, smooth texture."
 date: "2026-07-30"
 draft: false

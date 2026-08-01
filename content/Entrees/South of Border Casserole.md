@@ -3,7 +3,7 @@ title: "South of Border Casserole"
 category: "Entrees"
 collection: "UK15"
 source: "Unknown"
-tags: ["casserole", "texmex", "beef", "weeknight", "comfortfood", "vintage"]
+tags: ["casserole", "texmex", "beef", "weeknight", "comfortfood", "123"]
 description: "A classic and hearty South of the Border casserole featuring seasoned ground beef, corn, and tortillas in a rich tomato-chili sauce. Topped with melted cheddar cheese, it makes for a satisfying and easy family dinner."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Classic Individual Shortcakes"
 category: "Desserts"
 collection: "UK"
 source: "Unknown"
-tags: ["dessert", "shortcake", "baking", "pastry", "vintage"]
+tags: ["dessert", "shortcake", "baking", "pastry", "123"]
 description: "Discover how to bake tender, biscuit-style individual shortcakes from scratch, ideal for layering with fresh fruit and whipped cream. These lightly sweetened pastries bake up golden and flaky in just 15 minutes."
 date: "2026-07-30"
 draft: false

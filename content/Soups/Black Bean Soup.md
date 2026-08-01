@@ -3,7 +3,7 @@ title: "Black Bean Soup"
 category: "Soups"
 collection: "UK15"
 source: "Unknown"
-tags: ["soup", "blackbeans", "savory", "vintage"]
+tags: ["soup", "blackbeans", "savory", "123"]
 description: "A comforting and deeply flavorful classic black bean soup seasoned with garlic, cilantro, and warm spices. Perfect as a hearty standalone meal or paired with fresh crusty bread."
 date: "2026-07-30"
 draft: false

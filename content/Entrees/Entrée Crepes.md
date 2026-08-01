@@ -3,7 +3,7 @@ title: "Entr\u00e9e Crepes"
 category: "Entrees"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["crepes", "french", "entree", "vintage", "brunch"]
+tags: ["crepes", "french", "entree", "123", "brunch"]
 description: "Delicate and thin French-style cr\u00eapes ideal for savory fillings like creamed seafood or spinach. This classic recipe yields a light batter that requires a brief resting period before swirling into a hot pan."
 date: "2026-07-30"
 draft: false

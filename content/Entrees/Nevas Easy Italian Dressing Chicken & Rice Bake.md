@@ -3,7 +3,7 @@ title: "Neva's Easy Italian Dressing Chicken & Rice Bake"
 category: "Entrees"
 collection: "General Archive"
 source: "Neva"
-tags: ["casserole", "chicken", "easy", "vintage", "comfortfood"]
+tags: ["casserole", "chicken", "easy", "123", "comfortfood"]
 description: "A simple and savory 'no-peek' casserole from Neva. A whole fryer chicken, salted and dipped in Italian dressing, is baked over raw rice with a rich sauce made from onion soup and cream of celery soup."
 date: "2026-07-30"
 draft: false

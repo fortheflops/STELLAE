@@ -3,7 +3,7 @@ title: "Classic Nutty Thumbprint Cookies"
 category: "Desserts"
 collection: "UK2"
 source: "Unknown"
-tags: ["cookies", "shortbread", "nutty", "thumbprint", "vintage", "dessert"]
+tags: ["cookies", "shortbread", "nutty", "thumbprint", "123", "dessert"]
 description: "A rich and buttery shortbread cookie packed with finely chopped nuts for a dense, melt-in-your-mouth texture. These simple thumbprints are finished with a sweet jelly or candied cherry center."
 date: "2026-07-30"
 draft: false

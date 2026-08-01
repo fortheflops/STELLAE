@@ -3,7 +3,7 @@ title: "Classic Layered Lime Jello Salad"
 category: "Salads"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["vintage", "jello", "salad", "dessert", "retro"]
+tags: ["123", "jello", "salad", "dessert", "retro"]
 description: "A nostalgic two-layer molded Jello salad featuring a fruity lime Jello base with pears and cherries, topped with a creamy lime and cream cheese layer. Perfect for vintage potlucks and family gatherings."
 date: "2026-07-30"
 draft: false

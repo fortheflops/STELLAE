@@ -3,7 +3,7 @@ title: "Sweet Potato-Applesauce Pudding"
 category: "Desserts"
 collection: "Jill Collection"
 source: "Evelyn Sue Zlotkin"
-tags: ["casserole", "vintage", "sweetpotato", "holiday", "kosher"]
+tags: ["casserole", "123", "sweetpotato", "holiday", "kosher"]
 description: "A classic layered casserole featuring tender sweet potato rounds and spiced applesauce, finished with a honey and fat glaze. This traditional dish is perfect for holiday gatherings and pairs beautifully with savory meals."
 date: "2026-07-30"
 draft: false

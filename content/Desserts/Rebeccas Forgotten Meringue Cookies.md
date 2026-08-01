@@ -3,7 +3,7 @@ title: "Rebecca's Forgotten Meringue Cookies"
 category: "Desserts"
 collection: "UK3"
 source: "Rebecca"
-tags: ["meringue", "cookies", "vintage", "forgotten", "chocolate", "nuts"]
+tags: ["meringue", "cookies", "123", "forgotten", "chocolate", "nuts"]
 description: "A classic 'forgotten' meringue cookie loaded with chocolate chips and nuts, baked overnight in a cooling oven for a light, crisp texture. These airy treats are simple to prepare and rely on residual heat to achieve their signature delicate crunch."
 date: "2026-07-30"
 draft: false

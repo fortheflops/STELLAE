@@ -3,7 +3,7 @@ title: "Crab Voltaire"
 category: "Entrees"
 collection: "UK2"
 source: "Unknown"
-tags: ["crab", "seafood", "vintage", "entree"]
+tags: ["crab", "seafood", "123", "entree"]
 description: "An elegant vintage seafood dish featuring cooked crab meat saut\u00e9ed with mushrooms and shallots, then simmered in a rich brandy, sherry, and heavy cream sauce. Finished with egg yolks for a velvety, luxurious texture."
 date: "2026-07-30"
 draft: false

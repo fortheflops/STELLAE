@@ -4,12 +4,12 @@ category: Appetizers
 collection: Gail Collection
 source: Sarah Hensley
 tags:
-  - vintage
+  - 123
   - crab
   - dip
   - appetizer
   - make-ahead
-  - GailCollection
+  - gailcollection
 description: A classic retro-style party appetizer, this molded crab dip is a savory blend of crab, cream cheese, and crisp vegetables, set with gelatin into a beautiful shape. Perfect for serving with crackers at any gathering.
 date: 2026-07-24
 draft: false

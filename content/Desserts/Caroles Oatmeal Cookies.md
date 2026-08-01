@@ -3,7 +3,7 @@ title: "Carole's Oatmeal Cookies"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Carole"
-tags: ["cookies", "oatmeal", "vintage", "dessert", "wholesome"]
+tags: ["cookies", "oatmeal", "123", "dessert", "wholesome"]
 description: "A hearty and customizable oatmeal cookie recipe featuring a wholesome base of whole wheat flour, wheat germ, and oats. These cookies are easily adapted with your favorite mix-ins like raisins, coconut, and sunflower seeds."
 date: "2026-07-30"
 draft: false

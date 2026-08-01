@@ -3,7 +3,7 @@ title: "Emily Pineda's Green Chile Chicken Enchilada Casserole"
 category: "Entrees"
 collection: "General Archive"
 source: "Emily Pineda"
-tags: ["casserole", "chicken", "enchilada", "mexicanamerican", "comfortfood", "vintage"]
+tags: ["casserole", "chicken", "enchilada", "mexicanamerican", "comfortfood", "123"]
 description: "A comforting, layered chicken enchilada casserole featuring tender chicken, cheese, and onions in a creamy green chile and mushroom soup sauce. Layered with lightly fried tortilla quarters and baked to bubbly perfection."
 date: "2026-07-30"
 draft: false

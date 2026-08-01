@@ -3,7 +3,7 @@ title: "Tex's Hearty Argentinean Beef & Hominy Skillet"
 category: "Entrees"
 collection: "LouiseCollection"
 source: "Tex"
-tags: ["beef", "skillet", "argentinean", "hominy", "comfortfood", "vintage"]
+tags: ["beef", "skillet", "argentinean", "hominy", "comfortfood", "123"]
 description: "A flavorful one-skillet meal featuring ground beef, kidney beans, and hominy saut\u00e9ed with onions, peppers, and savory herbs."
 date: "2026-07-30"
 draft: false

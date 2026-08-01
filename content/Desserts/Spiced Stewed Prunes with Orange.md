@@ -3,7 +3,7 @@ title: "Spiced Stewed Prunes with Orange"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "vintage", "prunes", "fruit", "comfortfood"]
+tags: ["dessert", "123", "prunes", "fruit", "comfortfood"]
 description: "A simple and comforting recipe for stewed prunes, gently simmered with a cinnamon stick and fresh orange for a warm, fragrant, and classic dessert. This elegant fruit dish offers a perfect balance of spiced sweetness and citrus brightness."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Juanita's Orange Jello Salad"
 category: "Desserts"
 collection: "UK2"
 source: "Juanita"
-tags: ["jello", "vintage", "fruit", "salad", "dessert", "marshmallow"]
+tags: ["jello", "123", "fruit", "salad", "dessert", "marshmallow"]
 description: "A classic fruit-filled Jello salad featuring mandarin oranges, pineapple, and pecans in an orange Jello base with a fun marshmallow layer. This nostalgic dessert is perfect for potlucks and family gatherings."
 date: "2026-07-30"
 draft: false

@@ -3,7 +3,7 @@ title: "Barbequed Pork Chops"
 category: "Entrees"
 collection: "TheLoraineCollection"
 source: "Hellen"
-tags: ["porkchop", "pork", "barbeque", "vintage", "entree"]
+tags: ["porkchop", "pork", "barbeque", "123", "entree"]
 description: "Savory baked pork chops topped with zesty onion and lemon slices, then simmered in a tangy homemade barbecue sauce until tender and caramelized. A comforting vintage classic featuring bold Worcestershire and chili powder flavors."
 date: "2026-07-30"
 draft: false

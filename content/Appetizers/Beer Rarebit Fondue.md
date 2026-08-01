@@ -4,7 +4,7 @@ category: Appetizers
 collection: Gail Collection
 source: The Green Pen
 tags:
-  - vintage
+  - 123
   - cheddar
   - fondue
   - appetizer

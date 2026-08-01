@@ -3,7 +3,7 @@ title: "Eggplant Relish"
 category: "Preserves"
 collection: "Gail Collection"
 source: "Joe Everett & Gail"
-tags: ["relish", "appetizer", "eggplant", "vintage", "canned"]
+tags: ["relish", "appetizer", "eggplant", "123", "canned"]
 description: "A traditional marinated eggplant relish layered with garlic, parsley, peppers, and olive oil. Perfect for serving as a savory hors d'oeuvre after maturing in the refrigerator."
 date: "2026-07-30"
 draft: false

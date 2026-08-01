@@ -3,7 +3,7 @@ title: "Butter Divinity"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["candy", "vintage", "confection", "holiday", "divinity"]
+tags: ["candy", "123", "confection", "holiday", "divinity"]
 description: "A classic, light-as-air confection made by folding hot sugar syrup into stiffly beaten egg whites. This traditional candy offers a rich, melt-in-your-mouth texture perfect for holiday gifting."
 date: "2026-07-30"
 draft: false

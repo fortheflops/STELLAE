@@ -3,7 +3,7 @@ title: "Chocolate Pecan Squares"
 category: "Desserts"
 collection: "John B Collection"
 source: "Unknown"
-tags: ["brownies", "cookies", "pecans", "chocolate", "vintage", "dessert"]
+tags: ["brownies", "cookies", "pecans", "chocolate", "123", "dessert"]
 description: "A rich, brownie-like bar cookie loaded with finely chopped pecans. These decadent treats are baked in a square pan and cut into small, bite-sized squares while still warm."
 date: "2026-07-30"
 draft: false

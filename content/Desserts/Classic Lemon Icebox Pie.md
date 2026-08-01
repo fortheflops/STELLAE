@@ -3,7 +3,7 @@ title: "Classic Lemon Icebox Pie"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["dessert", "pie", "lemon", "nobake", "vintage", "icebox"]
+tags: ["dessert", "pie", "lemon", "nobake", "123", "icebox"]
 description: "A wonderfully simple no-bake pie, this classic Lemon Icebox Pie features a tangy, creamy filling made from just three main ingredients set in a crisp crust."
 date: "2026-07-30"
 draft: false

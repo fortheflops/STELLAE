@@ -3,7 +3,7 @@ title: "Chicken Tetrazzini"
 category: "Entrees"
 collection: "UK3"
 source: "Unknown"
-tags: ["entree", "chicken", "pasta", "casserole", "comfortfood", "vintage"]
+tags: ["entree", "chicken", "pasta", "casserole", "comfortfood", "123"]
 description: "A classic baked pasta casserole featuring tender chicken, mushrooms, and olives in a rich creamy parmesan sauce. This vintage comfort food favorite is easy to assemble and bakes until bubbly and golden."
 date: "2026-07-30"
 draft: false

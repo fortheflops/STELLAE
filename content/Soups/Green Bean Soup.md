@@ -1,13 +1,17 @@
 ---
-title: "Green Bean Soup"
-category: "Soups"
-collection: "Patsy Collection"
-source: "Unknown"
-tags: ["soup", "greenbeans", "vintage", "patsycollection", "casserole"]
-description: "A unique vintage baked green bean soup casserole from the Patsy Collection. Tender green beans, mushrooms, and cheddar cheese are baked in a smooth, savory milk-and-bacon base."
-date: "2026-07-30"
+title: Green Bean Soup
+category: Soups
+collection: Patsy Collection
+source: Unknown
+tags:
+  - soup
+  - greenbeans
+  - patsycollection
+  - casserole
+description: A unique vintage baked green bean soup casserole from the Patsy Collection. Tender green beans, mushrooms, and cheddar cheese are baked in a smooth, savory milk-and-bacon base.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org\", \"@type\": \"Recipe\", \"name\": \"Green Bean Soup\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"recipeCategory\": \"Soups\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT1H5M\", \"recipeYield\": \"4-6 servings\", \"recipeIngredient\": [\"~8 oz Fresh Green Beans, cut lengthwise into strips\", \"1 Can (4 oz) Mushrooms, stems & pieces, drained\", \"1/2 Cup Onion, chopped\", \"2 Cloves Garlic, crushed\", \"1 Cup Cheddar Cheese, shredded\", \"1 1/2 Cups Milk\", \"1/4 Cup Bacon Bits\", \"3 Tbsp Flour\", \"1/4 tsp Salt\", \"1/4 tsp Pepper\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 400F and grease a 10x1.5-inch pan.\"}, {\"@type\": \"HowToStep\", \"text\": \"Boil green beans in 1 inch of salted water for 5 minutes uncovered, then cover and cook until tender (about 30 minutes).\"}, {\"@type\": \"HowToStep\", \"text\": \"Mix beans, mushrooms, onion, garlic, and cheese in the baking dish.\"}, {\"@type\": \"HowToStep\", \"text\": \"Blend milk, bacon bits, flour, salt, and pepper in a blender for 15 seconds until smooth, then pour over the vegetables.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake for 30-35 minutes, then cool for 5 minutes before serving.\"}]}"
+recipe: '{"@context": "https://schema.org", "@type": "Recipe", "name": "Green Bean Soup", "author": {"@type": "Person", "name": "Unknown"}, "recipeCategory": "Soups", "prepTime": "PT15M", "cookTime": "PT1H5M", "recipeYield": "4-6 servings", "recipeIngredient": ["~8 oz Fresh Green Beans, cut lengthwise into strips", "1 Can (4 oz) Mushrooms, stems & pieces, drained", "1/2 Cup Onion, chopped", "2 Cloves Garlic, crushed", "1 Cup Cheddar Cheese, shredded", "1 1/2 Cups Milk", "1/4 Cup Bacon Bits", "3 Tbsp Flour", "1/4 tsp Salt", "1/4 tsp Pepper"], "recipeInstructions": [{"@type": "HowToStep", "text": "Preheat oven to 400F and grease a 10x1.5-inch pan."}, {"@type": "HowToStep", "text": "Boil green beans in 1 inch of salted water for 5 minutes uncovered, then cover and cook until tender (about 30 minutes)."}, {"@type": "HowToStep", "text": "Mix beans, mushrooms, onion, garlic, and cheese in the baking dish."}, {"@type": "HowToStep", "text": "Blend milk, bacon bits, flour, salt, and pepper in a blender for 15 seconds until smooth, then pour over the vegetables."}, {"@type": "HowToStep", "text": "Bake for 30-35 minutes, then cool for 5 minutes before serving."}]}'
 ---
 
 # Green Bean Soup

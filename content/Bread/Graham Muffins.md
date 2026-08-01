@@ -3,7 +3,7 @@ title: "Graham Muffins"
 category: "Bread"
 collection: "GC"
 source: "Ruth Marshel"
-tags: ["muffins", "bran", "breakfast", "baking", "refrigeratormuffins", "largebatch", "vintage"]
+tags: ["muffins", "bran", "breakfast", "baking", "refrigeratormuffins", "largebatch", "123"]
 description: "A classic large-batch refrigerator bran muffin recipe from Ruth Marshel that yields delicious, fresh-baked muffins on demand. The versatile batter can be stored safely in the refrigerator for up to two weeks."
 date: "2026-07-30"
 draft: false

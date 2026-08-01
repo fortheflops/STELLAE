@@ -3,7 +3,7 @@ title: "Creamy Raspberry Cranberry Jello Salad"
 category: "Desserts"
 collection: "UK15"
 source: "Unknown"
-tags: ["jello", "holiday", "vintage", "salad", "dessert"]
+tags: ["jello", "holiday", "123", "salad", "dessert"]
 description: "A festive and creamy holiday salad featuring a tangy sour cream base, tart cranberry sauce, and sweet raspberry gelatin. This classic chilled dessert is packed with pineapple, mandarin oranges, and crunchy pecans for a perfect texture."
 date: "2026-07-30"
 draft: false

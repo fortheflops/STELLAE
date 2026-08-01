@@ -3,7 +3,7 @@ title: "Layered Chocolate Pudding Delight"
 category: "Desserts"
 collection: "UK3"
 source: "Unknown"
-tags: ["dessert", "lush", "chocolate", "pecan", "vintage", "potluck"]
+tags: ["dessert", "lush", "chocolate", "pecan", "123", "potluck"]
 description: "A decadent layered dessert featuring a buttery pecan crust, a sweet cream cheese layer, and a rich chocolate-vanilla pudding topping. This classic lush is a perfect make-ahead treat for any gathering."
 date: "2026-07-30"
 draft: false

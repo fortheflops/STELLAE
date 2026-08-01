@@ -3,7 +3,7 @@ title: "No-Bake Minted Chocolate Cream Torte"
 category: "Desserts"
 collection: "General Archive"
 source: "Unknown"
-tags: ["dessert", "nobake", "chocolate", "mint", "torte", "vintage", "party"]
+tags: ["dessert", "nobake", "chocolate", "mint", "torte", "123", "party"]
 description: "A show-stopping, 6-layer no-bake freezer torte utilizing two refrigerator cream pie kits. Features repeating layers of chocolate crust, chocolate cream, and mint-peppermint cream, finished with freshly whipped cream."
 date: "2026-07-30"
 draft: false

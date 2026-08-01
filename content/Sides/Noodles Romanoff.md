@@ -8,7 +8,7 @@ tags:
   - pasta
   - sidedish
   - patsycollection
-  - vintage
+  - 123
 description: A comforting side dish featuring wide egg noodles tossed in a rich, creamy blend of sour cream, ranch dressing, and Parmesan cheese. This quick and easy recipe is a crowd-pleasing classic for any family dinner.
 date: 2026-07-30
 draft: false

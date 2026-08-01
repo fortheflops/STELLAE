@@ -7,9 +7,9 @@ tags:
   - appetizers
   - cheese
   - quick
-  - vintage
+  - 123
   - baked
-  - GailCollection
+  - gailcollection
 description: An incredibly simple and fast recipe for warm, savory baked appetizers. A rich mixture of mayonnaise and cheese is spread onto crackers or bread and baked until hot and bubbly.
 date: 2026-07-28
 draft: false

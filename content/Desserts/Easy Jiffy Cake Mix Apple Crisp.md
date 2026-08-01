@@ -3,7 +3,7 @@ title: "Easy Jiffy Cake Mix Apple Crisp"
 category: "Desserts"
 collection: "Gail Collection"
 source: "Unknown"
-tags: ["dessert", "applecrisp", "shortcut", "jiffy", "easy", "vintage"]
+tags: ["dessert", "applecrisp", "shortcut", "jiffy", "easy", "123"]
 description: "A simple and delicious shortcut apple crisp featuring a buttery Jiffy yellow cake mix topping. This foolproof dessert is perfect for quick cravings and uses minimal ingredients."
 date: "2026-07-30"
 draft: false

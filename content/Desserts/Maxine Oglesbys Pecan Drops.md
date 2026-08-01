@@ -3,7 +3,7 @@ title: "Maxine Oglesby's Pecan Drops"
 category: "Desserts"
 collection: "UK2"
 source: "Maxine Oglesby"
-tags: ["cookies", "pecans", "shortbread", "vintage", "holiday"]
+tags: ["cookies", "pecans", "shortbread", "123", "holiday"]
 description: "A classic, buttery shortbread cookie loaded with pecans and rolled in powdered sugar for a melt-in-your-mouth finish. These traditional treats, often known as Russian Tea Cakes, rely on their sugar coating for a delicate sweetness."
 date: "2026-07-30"
 draft: false
