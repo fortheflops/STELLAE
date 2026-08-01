@@ -1,13 +1,19 @@
 ---
-title: "Corn Fritters"
-category: "Snacks"
-collection: "Unknown Three"
-source: "Unknown"
-tags: ["snack", "corn", "fritters", "deep-fried", "vintage", "unknown-three"]
-description: "Golden deep-fried corn fritters made with sweet canned corn and lightened with whipped egg whites. Crisp on the outside and fluffy inside, they make a wonderful vintage snack or side dish."
-date: "2026-07-30"
+title: Corn Fritters
+category: Snacks
+collection: Unknown Three
+source: Unknown
+tags:
+  - snack
+  - corn
+  - fritters
+  - deep-fried
+  - vintage
+  - unknownthree
+description: Golden deep-fried corn fritters made with sweet canned corn and lightened with whipped egg whites. Crisp on the outside and fluffy inside, they make a wonderful vintage snack or side dish.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Corn Fritters\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"description\":\"Golden deep-fried corn fritters made with sweet canned corn and lightened with whipped egg whites.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT10M\",\"recipeCategory\":\"Snacks\",\"recipeYield\":\"4 Servings\",\"recipeIngredient\":[\"1 Cup Canned Corn, chopped and drained\",\"5/8 Cup Flour, sifted\",\"1/2 Teaspoon Baking Powder\",\"1/2 Teaspoon Salt\",\"Few Grains Paprika\",\"1 Egg, separated\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Chop corn, drain, and stir in sifted flour, baking powder, salt, and paprika.\"},{\"@type\":\"HowToStep\",\"text\":\"Add thick-beaten egg yolk, then fold in stiffly whipped egg white.\"},{\"@type\":\"HowToStep\",\"text\":\"Drop by spoonfuls into deep fat at 390\u00b0F and fry until golden brown.\"},{\"@type\":\"HowToStep\",\"text\":\"Drain on paper towels.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Corn Fritters","author":{"@type":"Person","name":"Unknown"},"description":"Golden deep-fried corn fritters made with sweet canned corn and lightened with whipped egg whites.","prepTime":"PT15M","cookTime":"PT10M","recipeCategory":"Snacks","recipeYield":"4 Servings","recipeIngredient":["1 Cup Canned Corn, chopped and drained","5/8 Cup Flour, sifted","1/2 Teaspoon Baking Powder","1/2 Teaspoon Salt","Few Grains Paprika","1 Egg, separated"],"recipeInstructions":[{"@type":"HowToStep","text":"Chop corn, drain, and stir in sifted flour, baking powder, salt, and paprika."},{"@type":"HowToStep","text":"Add thick-beaten egg yolk, then fold in stiffly whipped egg white."},{"@type":"HowToStep","text":"Drop by spoonfuls into deep fat at 390°F and fry until golden brown."},{"@type":"HowToStep","text":"Drain on paper towels."}]}'
 ---
 
 # Corn Fritters

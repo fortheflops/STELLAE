@@ -12,7 +12,7 @@ recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n
 
 # Barbequed Pork Chops
 
-> 📜 **Collection:** TheLoraineCollection | ✍️ **Attribution:** Hellen | 📂 **Category:** Entrees
+> 📜 **Collection:** LoraineCollection | ✍️ **Attribution:** Hellen | 📂 **Category:** Entrees
 > *Savory baked pork chops topped with zesty onion and lemon slices, then simmered in a tangy homemade barbecue sauce until tender and caramelized. A comforting vintage classic featuring bold Worcestershire and chili powder flavors.*
 
 ---

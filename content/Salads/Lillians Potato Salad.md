@@ -1,13 +1,64 @@
 ---
-title: "Lillian's Potato Salad"
-category: "Salads"
-collection: "The Loraine Collection"
-source: "Lillian"
-tags: ["salads", "potatosalad", "vintage", "sides", "potatoes", "thelorainecollection"]
-description: "Discover a classic vintage potato salad recipe featuring hard-boiled eggs, crisp celery, and a tangy relish dressing from The Loraine Collection archives. This nostalgic side dish delivers authentic homemade flavor perfect for family gatherings."
-date: "2026-07-30"
+title: Lillian's Potato Salad
+category: Salads
+collection: The Loraine Collection
+source: Lillian
+tags:
+  - salads
+  - potatosalad
+  - vintage
+  - sides
+  - potatoes
+  - "#LoraineCollection"
+description: Discover a classic vintage potato salad recipe featuring hard-boiled eggs, crisp celery, and a tangy relish dressing from The Loraine Collection archives. This nostalgic side dish delivers authentic homemade flavor perfect for family gatherings.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Lillian's Potato Salad\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Lillian\"\n  },\n  \"description\": \"Discover a classic vintage potato salad recipe featuring hard-boiled eggs, crisp celery, and a tangy relish dressing from The Loraine Collection archives.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT20M\",\n  \"recipeYield\": \"6-8 Servings\",\n  \"recipeCategory\": \"Salads\",\n  \"recipeIngredient\": [\n    \"4-5 Medium Potatoes\",\n    \"1 Onion\",\n    \"1 tsp Pickle Relish\",\n    \"1 cap Vinegar\",\n    \"3 Celery Stalks\",\n    \"1/2 tsp Mustard\",\n    \"5 Hard Boiled Eggs\",\n    \"Salt\",\n    \"Pepper\",\n    \"Mayonnaise\",\n    \"Paprika\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Mix together the 1 onion, 1 tsp pickle relish, 1 cap vinegar, salt, and pepper in a small bowl and set aside.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Boil and cool the 4-5 medium potatoes and 5 hard boiled eggs. Cut the potatoes and place them in a large mixing bowl.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the onion and relish mixture from step one to the potatoes. Mix in additional mayonnaise to reach your desired consistency.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Slice the 5 hard boiled eggs. Set half of the egg slices aside, and gently fold the remaining half into the potato mixture. Place the rest of the egg slices on top of the salad and sprinkle with paprika.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Lillian's Potato Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Lillian"
+    },
+    "description": "Discover a classic vintage potato salad recipe featuring hard-boiled eggs, crisp celery, and a tangy relish dressing from The Loraine Collection archives.",
+    "prepTime": "PT20M",
+    "cookTime": "PT20M",
+    "recipeYield": "6-8 Servings",
+    "recipeCategory": "Salads",
+    "recipeIngredient": [
+      "4-5 Medium Potatoes",
+      "1 Onion",
+      "1 tsp Pickle Relish",
+      "1 cap Vinegar",
+      "3 Celery Stalks",
+      "1/2 tsp Mustard",
+      "5 Hard Boiled Eggs",
+      "Salt",
+      "Pepper",
+      "Mayonnaise",
+      "Paprika"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix together the 1 onion, 1 tsp pickle relish, 1 cap vinegar, salt, and pepper in a small bowl and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Boil and cool the 4-5 medium potatoes and 5 hard boiled eggs. Cut the potatoes and place them in a large mixing bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the onion and relish mixture from step one to the potatoes. Mix in additional mayonnaise to reach your desired consistency."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the 5 hard boiled eggs. Set half of the egg slices aside, and gently fold the remaining half into the potato mixture. Place the rest of the egg slices on top of the salad and sprinkle with paprika."
+      }
+    ]
+  }
 ---
 
 # Lillian's Potato Salad

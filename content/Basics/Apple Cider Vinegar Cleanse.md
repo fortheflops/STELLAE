@@ -1,13 +1,16 @@
 ---
-title: "Coquilles"
-category: "Basics"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["gailcollection", "vintage", "cleanse", "archive"]
-description: "An archival health and cleansing remedy featuring water and apple cider vinegar. Preserved faithfully from the original Gail Collection manuscript."
-date: "2026-07-30"
+title: Apple Cider Vinegar Cleanse
+category: Basics
+collection: Gail Collection
+source: Unknown
+tags:
+  - gailcollection
+  - cleanse
+  - archive
+description: An archival health and cleansing remedy featuring water and apple cider vinegar. Preserved faithfully from the original Gail Collection manuscript.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Coquilles\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-06-24\", \"description\": \"An archival health and cleansing remedy featuring water and apple cider vinegar.\", \"prepTime\": \"PT5M\", \"recipeCategory\": \"Basics\", \"recipeYield\": \"1 Serving\", \"recipeIngredient\": [\"Water\", \"Apple Cider Vinegar\", \\\"BS Cysts treatment\\\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine as needed water and as needed apple cider vinegar together.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Coquilles", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-06-24", "description": "An archival health and cleansing remedy featuring water and apple cider vinegar.", "prepTime": "PT5M", "recipeCategory": "Basics", "recipeYield": "1 Serving", "recipeIngredient": ["Water", "Apple Cider Vinegar", \"BS Cysts treatment\"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine as needed water and as needed apple cider vinegar together."}]}'
 ---
 
 # Coquilles

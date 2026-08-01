@@ -4,7 +4,7 @@ title: Real Recipes, Real People
 ---
 MEZZALUNA is a website for people who love food and its history. We find old recipes and share them in a way that's easy to understand. We want everyone to feel like they can cook these amazing dishes, no matter their skill level.
 ___
-   <a href="/Appetizers">Appetizers</a> <a href="/Beverages">Beverages</a> <a href="/Bread">Bread</a> <a href="/Desserts">Desserts</a> <a href="/Entrees">Entrees</a> <a href="/Salads">Salads</a> <a href="/Sauces">Sauces</a> <a href="/Sides">Sides</a> <a href="/Snacks">Snacks</a> <a href="/Soups">Soups</a> <a href="/Other">Other</a>
+   <a href="/Appetizers">Appetizers</a> <a href="/Basics">Basics</a> <a href="/Beverages">Beverages</a> <a href="/Bread">Bread</a> <a href="/Desserts">Desserts</a> <a href="/Entrees">Entrees</a> <a href="/Preserves">Preserves</a> <a href="/Salads">Salads</a> <a href="/Sauces">Sauces</a> <a href="/Sides">Sides</a> <a href="/Snacks">Snacks</a> <a href="/Soups">Soups</a> <a href="/Other">Other</a>
 ___
 ## Why You'll Love MEZZALUNA
 

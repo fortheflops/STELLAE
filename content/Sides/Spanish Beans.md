@@ -1,13 +1,68 @@
 ---
-title: "Spanish Beans"
-category: "Sides"
-collection: "UK2"
-source: "Unknown"
-tags: ["beans", "lima beans", "spanish", "baked", "vintage", "unknown_two"]
-description: "A traditional slow-baked Spanish bean dish featuring savory lima beans infused with aromatic vegetables, white wine, and paprika. Comforting and rich, this vintage side pairs wonderfully with roasted meats."
-date: "2026-07-30"
+title: Spanish Beans
+category: Sides
+collection: UK2
+source: Unknown
+tags:
+  - beans
+  - lima beans
+  - spanish
+  - baked
+  - vintage
+  - unknowntwo
+description: A traditional slow-baked Spanish bean dish featuring savory lima beans infused with aromatic vegetables, white wine, and paprika. Comforting and rich, this vintage side pairs wonderfully with roasted meats.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Spanish Beans\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A traditional slow-baked Spanish bean dish featuring savory lima beans infused with aromatic vegetables, white wine, and paprika.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT2H30M\",\n  \"totalTime\": \"PT3H0M\",\n  \"recipeYield\": \"6-8 servings\",\n  \"recipeCategory\": \"Sides\",\n  \"recipeIngredient\": [\n    \"2 Cups Dry Lima Beans\",\n    \"2 Tbsp Salad Oil\",\n    \"1 Onion\",\n    \"1 Clove Garlic\",\n    \"1 Carrot\",\n    \"2 Stalks Celery\",\n    \"2 Skinned Tomatoes\",\n    \"Salt\",\n    \"Pepper\",\n    \"Basil or Thyme\",\n    \"2 Tbsp Butter\",\n    \"1 Tsp Dry Mustard\",\n    \"1 Tsp Paprika\",\n    \"1/4 Cup White Wine\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Soak the 2 cups dry lima beans overnight in water. Drain, then add to a saucepan with the carrot, celery, and 3 cups water. Season with salt and pepper, cover, and cook slowly starting in an oven set at 225\u00b0F.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Strain off the stock and save 2 cups. Pour beans into a 3-quart casserole dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add butter, salad oil, chopped onion, garlic, tomatoes, basil, mustard, paprika, salt, and pepper. Pour in bean stock and white wine.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cover and bake for 2 hours until tender and flavorful.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Spanish Beans",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A traditional slow-baked Spanish bean dish featuring savory lima beans infused with aromatic vegetables, white wine, and paprika.",
+    "prepTime": "PT30M",
+    "cookTime": "PT2H30M",
+    "totalTime": "PT3H0M",
+    "recipeYield": "6-8 servings",
+    "recipeCategory": "Sides",
+    "recipeIngredient": [
+      "2 Cups Dry Lima Beans",
+      "2 Tbsp Salad Oil",
+      "1 Onion",
+      "1 Clove Garlic",
+      "1 Carrot",
+      "2 Stalks Celery",
+      "2 Skinned Tomatoes",
+      "Salt",
+      "Pepper",
+      "Basil or Thyme",
+      "2 Tbsp Butter",
+      "1 Tsp Dry Mustard",
+      "1 Tsp Paprika",
+      "1/4 Cup White Wine"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Soak the 2 cups dry lima beans overnight in water. Drain, then add to a saucepan with the carrot, celery, and 3 cups water. Season with salt and pepper, cover, and cook slowly starting in an oven set at 225°F."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Strain off the stock and save 2 cups. Pour beans into a 3-quart casserole dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add butter, salad oil, chopped onion, garlic, tomatoes, basil, mustard, paprika, salt, and pepper. Pour in bean stock and white wine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover and bake for 2 hours until tender and flavorful."
+      }
+    ]
+  }
 ---
 
 # Spanish Beans
