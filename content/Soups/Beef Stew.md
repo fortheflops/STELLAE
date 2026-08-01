@@ -1,82 +1,70 @@
 ---
 title: "Beef Stew"
 category: "Soups"
-collection: "Gail Collection"
+collection: "LOC"
 source: "Unknown"
-tags: ["beefstew", "soup", "comfortfood", "vintage", "maincourse"]
-description: "A hearty, traditional beef stew featuring tender stew meat, root vegetables, and a rich homemade gravy. Perfect for a cozy family dinner."
+tags: ["soup", "stew", "beef", "comfortfood", "vintage"]
+description: "A classic vintage beef stew featuring tender top round steak, fresh vegetables, and a rich V-8 and tomato juice broth. Slow-simmered to perfection for a hearty and comforting meal."
 date: "2026-07-30"
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Beef Stew\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A hearty, traditional beef stew featuring tender stew meat, root vegetables, and a rich homemade gravy.\",\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT2H\",\n  \"recipeCategory\": \"Soups\",\n  \"recipeYield\": \"6 Servings\",\n  \"recipeIngredient\": [\n    \"2 pounds Stew Meat\",\n    \"4 Carrots\",\n    \"4 small Potatoes\",\n    \"1 large Onion\",\n    \"1 cube Garlic\",\n    \"1 small stalk Celery\",\n    \"Salt\",\n    \"White Pepper\",\n    \"Oil\",\n    \"Water\",\n    \"Flour\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large pot or Dutch oven, brown the stew meat in hot oil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add chopped onion and garlic, then cover with water and simmer until tender.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add prepared potatoes, carrots, and celery, cooking until soft.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Remove solid ingredients, create a flour slurry with the liquid to thicken into gravy, and serve over the meat and vegetables.\"\n    }\n  ]\n}"
+recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Beef Stew\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A classic vintage beef stew featuring tender top round steak, fresh vegetables, and a rich V-8 and tomato juice broth.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT2H\",\n  \"recipeCategory\": \"Soups\",\n  \"recipeYield\": \"6\u20138 Servings\",\n  \"recipeIngredient\": [\n    \"Top Round Steak\",\n    \"Carrots\",\n    \"Rice\",\n    \"Celery\",\n    \"Onions\",\n    \"V-8 Juice\",\n    \"Tomato Juice\",\n    \"Potatoes\",\n    \"Mushrooms\",\n    \"Tamari\",\n    \"Arrowroot Powder\",\n    \"Red Wine\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a heavy Dutch oven, thoroughly brown the top round steak until nicely seared on all sides.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the carrots, celery, onions, potatoes, and mushrooms to the Dutch oven with the beef, then pour in the juices, red wine, and tamari.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Simmer until vegetables are tender and thicken with arrowroot powder if desired.\"\n    }\n  ]\n}"
 ---
 
 # Beef Stew
 
-> 📜 **Collection:** Gail Collection | ✍️ **Attribution:** Unknown | 📂 **Category:** Soups
-> *A hearty, traditional beef stew featuring tender stew meat, root vegetables, and a rich homemade gravy. Perfect for a cozy family dinner.*
+> 📜 **Collection:** LOC | ✍️ **Attribution:** Unknown | 📂 **Category:** Soups
+> *A classic vintage beef stew featuring tender top round steak, fresh vegetables, and a rich V-8 and tomato juice broth. Slow-simmered to perfection for a hearty and comforting meal.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 25 mins | 2 hours | None | 6 Servings |
+| 20 mins | 2 hours | None | 6–8 Servings |
 
 ---
 
 ### 🔪 Key Equipment
-* Large pot or Dutch oven
-* Separate bowl
-* Wire whisk
-* Knife
-* Cutting board
+* Heavy-bottomed Dutch oven
+* Wooden spoon
+* Chef's knife
 
 ---
 ## Ingredients
 
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 2 pounds | [[Stew Meat]] | cut into pieces |
-| 4 | [[Carrots]] | halved or quartered |
-| 4 small | [[Potatoes]] | peeled and halved |
-| 1 large | [[Onion]] | chopped |
-| 1 cube | [[Garlic]] | minced or crushed |
-| 1 small stalk | [[Celery]] | chopped |
-| To Taste | [[Salt]] | optional, add if necessary |
-| To Taste | [[White Pepper]] | seasoning |
-| As Needed | [[Oil]] | for browning |
-| As Needed | [[Water]] | for cooking and gravy |
-| As Needed | [[Flour]] | for gravy |
+| As needed | [[Top Round Steak]] | Browned first |
+| As needed | [[Carrots]] | Sliced |
+| As needed | [[Rice]] | Cooked or uncooked |
+| At least 2 sticks | [[Celery]] | Chopped |
+| As needed | [[Onions]] | Diced |
+| 1 (12 oz) can | [[V-8 Juice]] | Unopened |
+| 1 (13.5 oz) can | [[Tomato Juice]] | Unopened |
+| As needed | [[Potatoes]] | Peeled and cubed |
+| As needed | [[Mushrooms]] | Sliced |
+| As needed | [[Tamari]] | To taste |
+| As needed | [[Arrowroot Powder]] | For thickening |
+| As needed | [[Red Wine]] | To taste |
 
 ---
 
 ## Instructions
 
-### Step 1: Brown the Meat and Aromatics
-1. In a large pot or Dutch oven, heat **as needed oil** and brown the **2 pounds stew meat** until deeply seared.
-2. Once the meat is browned, add the **1 large onion** and **1 cube garlic**, heating through until fragrant.
+### Step 1: Brown the Beef
+1. In a heavy Dutch oven, thoroughly brown the **top round steak** until nicely seared on all sides.
 
-### Step 2: Simmer the Beef
-3. Add **as needed water** to the pot to cover the meat.
-4. Cover the pot with a lid and cook until the **2 pounds stew meat** is quite tender and fork-pierced.
+### Step 2: Combine and Simmer
+2. Add the **carrots**, **celery**, **onions**, **potatoes**, and **mushrooms** to the Dutch oven with the beef.
+3. Pour in the **1 (12 oz) can V-8 juice**, **1 (13.5 oz) can tomato juice**, **red wine**, and **tamari**.
+4. Stir in the **rice**, cover, and simmer over low heat until the vegetables are fork-tender and the broth is rich and fragrant.
 
-### Step 3: Prepare the Vegetables
-5. Peel the **4 small potatoes** and cut them in half if small. Halve or quarter the **4 carrots** and chop the **1 small stalk celery**.
-
-### Step 4: Cook the Vegetables
-6. Add the **4 small potatoes**, **4 carrots**, and **1 small stalk celery** to the pot.
-7. Continue to cook until the potatoes and carrots are soft and tender, adding enough **as needed water** to ensure ample liquid for gravy.
-
-### Step 5: Make the Gravy and Serve
-8. Once the vegetables are tender, remove the **4 small potatoes**, **2 pounds stew meat**, and **4 carrots** from the pot, leaving the hot liquid behind.
-9. To make the gravy, mix a small amount of **as needed flour** with some water in a separate bowl until it forms a smooth slurry paste.
-10. Slowly whisk the flour slurry into the hot cooking liquid in the pot.
-11. Continue to stir until the gravy is smooth and has thickened to your desired consistency.
-12. Pour the rich gravy over the meat, potatoes, and carrots to serve, adding **to taste salt** only if necessary.
+### Step 3: Thicken and Serve
+5. If a thicker consistency is desired, whisk a small amount of **arrowroot powder** with cold water to create a slurry, then stir it into the simmering stew until thickened to your liking.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Store leftover beef stew in an airtight container in the refrigerator for up to 3 to 4 days.
+> 💡 **Make-Ahead & Storage:** This stew tastes even better the next day; store sealed in the refrigerator for up to 4 days.
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](Handwritten_2025-06-23_165130.webp)
+![Original Handwritten Card](Handwritten_2025-04-29_132246.webp)
