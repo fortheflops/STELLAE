@@ -5,10 +5,12 @@ export default ((userOpts?: Options) => {
     return (
       <div class={classNames(displayClass, "navmenu")}>
         <p> <a href="/Appetizers">Appetizers</a></p>
+        <p> <a href="/Basics">Basics</a></p>
         <p> <a href="/Beverages">Beverages</a></p>
         <p> <a href="/Bread">Bread</a></p>
         <p> <a href="/Desserts">Desserts</a></p>
         <p> <a href="/Entrees">Entrees</a></p>
+        <p> <a href="/Preserves">Preserves</a></p>
         <p> <a href="/Salads">Salads</a></p>
         <p> <a href="/Sauces">Sauces</a></p>
 	<p> <a href="/Sides">Sides</a></p>
