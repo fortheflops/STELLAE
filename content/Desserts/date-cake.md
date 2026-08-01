@@ -1,25 +1,25 @@
 ---
 title: "Date Cake"
 category: "Desserts"
-collection: "John B. Collection"
-source: "Mrs Holland"
-tags: ["cake", "dessert", "dates", "walnuts", "baking", "johnbcollection"]
-description: "A classic heirloom date and walnut cake recipe featuring whipped eggs and a rich batter. Perfect for serving as a traditional teatime treat."
+collection: "Unknown Twenty Five"
+source: "Florin Young"
+tags: ["cake", "dessert", "datecake", "baking", "sweet", "unknowntwentyfive"]
+description: "A delightful old-fashioned date cake featuring a crunchy brown sugar, nut, and chocolate chip topping. Baked to golden perfection with a moist, flavorful crumb."
 date: "2026-07-30"
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Date Cake\",\"author\":{\"@type\":\"Person\",\"name\":\"Mrs Holland\"},\"description\":\"A classic heirloom date and walnut cake recipe featuring whipped eggs and a rich batter.\",\"prepTime\":\"PT20M\",\"cookTime\":\"PT40M\",\"recipeYield\":\"8 servings\",\"recipeCategory\":\"Desserts\",\"recipeIngredient\":[\"1 lb Walnuts\",\"1 lb Dates\",\"3 Eggs\",\"1 cup Sugar\",\"1 cup Flour\",\"1 tsp Baking Powder\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Cream the 3 egg yolks with 1 cup sugar until light and fluffy.\"},{\"@type\":\"HowToStep\",\"text\":\"Mix in the 1 lb walnuts, 1 lb dates, 1 cup flour, and 1 tsp baking powder.\"},{\"@type\":\"HowToStep\",\"text\":\"Gently fold in the whipped 3 egg whites until fully incorporated.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake for 40 minutes until golden brown and a toothpick inserted in the center comes out clean.\"}]}"
+recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Date Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Florin Young\"\n  },\n  \"description\": \"A delightful old-fashioned date cake featuring a crunchy brown sugar, nut, and chocolate chip topping. Baked to golden perfection with a moist, flavorful crumb.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT35M\",\n  \"recipeYield\": \"8 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeIngredient\": [\n    \"1 cup dates\",\n    \"1 1/2 cups boiling water\",\n    \"1 tsp baking soda\",\n    \"1 cup sugar\",\n    \"1/2 cup shortening\",\n    \"2 eggs\",\n    \"2 cups flour\",\n    \"1/2 tsp baking soda\",\n    \"1/4 tsp salt\",\n    \"1/2 cup brown sugar\",\n    \"1/2 cup nuts\",\n    \"1 (6 oz) pkg chocolate chips\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Mix 1 cup dates, 1 1/2 cups boiling water, and 1 tsp soda together in a bowl.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cream together 1 cup sugar, 1/2 cup shortening, and 2 eggs, then add to the date mixture.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add 2 cups flour, 1/2 tsp soda, and 1/4 tsp salt to the batter and mix well until combined.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Prepare the topping by combining 1/2 cup brown sugar, 1/2 cup nuts, and 1 (6 oz) pkg chocolate chips, then put on the cake before baking.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake at 350\u00b0F for 30-35 min until golden brown and a toothpick inserted in the center comes out clean.\"\n    }\n  ]\n}"
 ---
 
 # Date Cake
 
-> 📜 **Collection:** John B. Collection | ✍️ **Attribution:** Mrs Holland | 📂 **Category:** Desserts
-> *A classic heirloom date and walnut cake recipe featuring whipped eggs and a rich batter. Perfect for serving as a traditional teatime treat.*
+> 📜 **Collection:** Unknown Twenty Five | ✍️ **Attribution:** Florin Young | 📂 **Category:** Desserts
+> *A delightful old-fashioned date cake featuring a crunchy brown sugar, nut, and chocolate chip topping. Baked to golden perfection with a moist, flavorful crumb.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 20 mins | 40 mins | None | 8 servings |
+| 15 mins | 35 mins | None | 8 servings |
 
 ---
 
@@ -30,32 +30,46 @@ recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"D
 ---
 ## Ingredients
 
+### Cake Batter
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 1 lb | [[Walnuts]] | Chopped |
-| 1 lb | [[Dates]] | Pitted and chopped |
-| 3 | [[Eggs]] | Separated into yolks and whites |
+| 1 cup | [[Dates]] | Chopped |
+| 1 1/2 cups | [[Boiling Water]] | Hot |
+| 1 tsp | [[Baking Soda]] | None |
 | 1 cup | [[Sugar]] | Granulated |
-| 1 cup | [[Flour]] | All-purpose |
-| 1 tsp | [[Baking Powder]] | Powder |
+| 1/2 cup | [[Shortening]] | Or alternative fat |
+| 2 | [[Eggs]] | Beaten |
+| 2 cups | [[Flour]] | All-purpose |
+| 1/2 tsp | [[Baking Soda]] | Additional |
+| 1/4 tsp | [[Salt]] | None |
+
+### Topping
+| Measurements | Ingredients | Prep / Notes |
+| :--- | :--- | :--- |
+| 1/2 cup | [[Brown Sugar]] | Packed |
+| 1/2 cup | [[Nuts]] | Chopped |
+| 1 (6 oz) pkg | [[Chocolate Chips]] | None |
 
 ---
 
 ## Instructions
 
-### Step 1: Preparation and Mixing
-1. Cream the **3 egg yolks** with **1 cup sugar** until light and fluffy.
-2. Mix in the **1 lb walnuts**, **1 lb dates**, **1 cup flour**, and **1 tsp baking powder**.
+### Step 1: Preparing the Date Mixture
+1. Mix **1 cup dates**, **1 1/2 cups boiling water**, and **1 tsp soda** together in a bowl.
 
-### Step 2: Baking
-3. Gently fold in the whipped **3 egg whites** until fully incorporated.
-4. Bake for **40 minutes** until golden brown and a toothpick inserted in the center comes out clean.
+### Step 2: Mixing the Batter
+2. Cream together **1 cup sugar**, **1/2 cup shortening**, and **2 eggs**, then add to the date mixture.
+3. Add **2 cups flour**, **1/2 tsp soda**, and **1/4 tsp salt** to the batter and mix well until combined.
+
+### Step 3: Topping and Baking
+4. Prepare the topping by combining **1/2 cup brown sugar**, **1/2 cup nuts**, and **1 (6 oz) pkg chocolate chips**, then put on the cake before baking.
+5. Bake at 350°F for **30-35 min** until golden brown and a toothpick inserted in the center comes out clean.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Store in an airtight container at room temperature for up to 3 days or wrap tightly and freeze for longer storage.
+> 💡 **Make-Ahead & Storage:** Store covered at room temperature for up to 3 days or refrigerate to extend freshness.
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](/assets/scans/date-cake-Scanned_20260729-1838-17.jpg.webp)
+![Original Handwritten Card](/assets/scans/date-cake-Scanned_20260801-1239-11.jpg.webp)
 
