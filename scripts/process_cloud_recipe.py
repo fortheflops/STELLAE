@@ -189,7 +189,7 @@ def save_and_archive(json_text, source_files, archive_name, collection_name, img
     if category not in valid_cats:
         category = "Other"
 
-    # FIXED: Strips spaces/punctuation from tags, removes "vintage", and adds folder name as a tag!
+    # Strips spaces/punctuation from tags, removes "vintage", and adds folder name as a tag
     raw_tags = data.get('tags', [])
     clean_tags = [t.lower().strip().replace(" ", "").replace("-", "") for t in raw_tags if t and t.lower().strip() != "vintage"]
     
@@ -197,8 +197,10 @@ def save_and_archive(json_text, source_files, archive_name, collection_name, img
     if collection_tag and collection_tag not in clean_tags:
         clean_tags.append(collection_tag)
 
+    # UNIQUE FILENAME: Appends collection name so duplicate titles never overwrite each other
     safe_base = safe_title.lower().replace(" ", "-").replace("'", "")
-    safe_filename = safe_base + ".md"
+    collection_slug = collection_name.lower().replace(" ", "-").replace("'", "").replace(".", "")
+    safe_filename = f"{safe_base}-{collection_slug}.md"
     
     webp_embeds = ""
     if img_objects:
