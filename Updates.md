@@ -3,18 +3,19 @@ title: Updates
 ---
 ### Completed
 
-| Tag                | Name                   |
-| :----------------- | :--------------------- |
-| #unknowntwentyfive | Unknown Twenty Five    |
+| Tag                | Name                |
+| :----------------- | :------------------ |
+| #unknowntwentyfive | Unknown Twenty Five |
+| #unknowntwentyone  | Unknown Twenty One  |
 
 ### In Progress 
 
-| Tag                | Name                |
-| :----------------- | :------------------ |
-| #johnbcollection   | John B. Collection  |
-| #unknowntwentyone | Unknown Twenty One |
-| #unknowntwentysix | Unknown Twenty Six |
-| #unknowneighteen   | Unknown Eighteen       |
+| Tag                 | Name                 |
+| :------------------ | :------------------- |
+| #johnbcollection    | John B. Collection   |
+| #unknowntwentysix   | Unknown Twenty Six   |
+| #unknowneighteen    | Unknown Eighteen     |
+| #unknowntwentyseven | Unknown Twenty Seven |
 
 ### To Do
 | Tag               | Name               |

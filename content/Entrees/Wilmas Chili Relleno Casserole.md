@@ -127,4 +127,4 @@ recipe: |-
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](https://cucinamezzaluna.com/Entrees/Casserole/Vegetable/Assets/Handwritten_2025-01-11_110903.webp)
+![Original Handwritten Card|201x24](https://cucinamezzaluna.com/Entrees/Casserole/Vegetable/Assets/Handwritten_2025-01-11_110903.webp)
