@@ -30,7 +30,7 @@ jobs:
       - name: Run Recipe Extractor
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python your_script_name.py
+        run: python process_cloud_recipe.py
 
       - name: Commit and Push New Recipes
         run: |
