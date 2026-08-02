@@ -8,6 +8,7 @@ tags:
   - stew
   - beef
   - comfortfood
+  - "#lorainecollection"
 description: A classic vintage beef stew featuring tender top round steak, fresh vegetables, and a rich V-8 and tomato juice broth. Slow-simmered to perfection for a hearty and comforting meal.
 date: 2026-07-30
 draft: false
