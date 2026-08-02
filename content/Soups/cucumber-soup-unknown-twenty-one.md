@@ -2,24 +2,24 @@
 title: "Cucumber Soup"
 category: "Soups"
 collection: "Unknown Twenty One"
-source: "Charlotte Parish"
-tags: ["soup", "cucumber", "cold", "refreshing", "easy", "unknowntwentyone"]
-description: "A refreshing and cool cucumber soup blended with creamy sour cream and buttermilk. Chill ahead of time for the best flavor experience."
+source: "Unattributed"
+tags: ["soup", "cucumber", "appetizer", "cold", "refreshing", "unknowntwentyone"]
+description: "A refreshingly simple and quick cucumber soup blended with plain yogurt. Perfect to serve immediately or chill for a hot day."
 date: "2026-07-30"
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Cucumber Soup\", \"author\": {\"@type\": \"Person\", \"name\": \"Charlotte Parish\"}, \"description\": \"A refreshing and cool cucumber soup blended with creamy sour cream and buttermilk.\", \"prepTime\": \"PT15M\", \"recipeCategory\": \"Soups\", \"recipeYield\": \"4 servings\", \"recipeIngredient\": [\"Cucumber\", \"Sour Cream\", \"Buttermilk\", \"Lemon Juice\", \"Garlic Powder\", \"Salt And Pepper\", \"Onion\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine ingredients in a blender and blend until smooth.\"}]}"
+recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Cucumber Soup\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"description\": \"A refreshingly simple and quick cucumber soup blended with plain yogurt. Perfect to serve immediately or chill for a hot day.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT0M\",\n  \"recipeYield\": \"2 servings\",\n  \"recipeCategory\": \"Soups\",\n  \"recipeCuisine\": \"Modern\",\n  \"keywords\": \"soup, cucumber, appetizer, cold, refreshing\",\n  \"recipeIngredient\": [\n    \"1 cucumber, seeded\",\n    \"1 cup yogurt, plain\",\n    \"Salt and Pepper to taste\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine the 1 cucumber, 1 cup yogurt, and to taste salt and pepper in a blender.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Blend until completely smooth and creamy.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Serve immediately or chill in the refrigerator until thoroughly cold.\"\n    }\n  ]\n}"
 ---
 
 # Cucumber Soup
 
-> 📜 **Collection:** Unknown Twenty One | ✍️ **Attribution:** Charlotte Parish | 📂 **Category:** Soups
-> *A refreshing and cool cucumber soup blended with creamy sour cream and buttermilk. Chill ahead of time for the best flavor experience.*
+> 📜 **Collection:** Unknown Twenty One | ✍️ **Attribution:** Unattributed | 📂 **Category:** Soups
+> *A refreshingly simple and quick cucumber soup blended with plain yogurt. Perfect to serve immediately or chill for a hot day.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 15 mins | None | 2 hours | 4 servings |
+| 10 mins | None | 30 mins | 2 servings |
 
 ---
 
@@ -29,31 +29,26 @@ recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\"
 ---
 ## Ingredients
 
-### Soup Ingredients
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| As needed | [[Cucumber]] | Small early ones taste better |
-| As needed | [[Sour Cream]] | None |
-| As needed | [[Buttermilk]] | None |
-| As needed | [[Lemon Juice]] | None |
-| Optional | [[Garlic Powder]] | Optional |
-| To taste | [[Salt And Pepper]] | S&P to taste |
-| As needed | [[Onion]] | Grated |
+| 1 | [[Cucumber]] | Seeded |
+| 1 cup | [[Yogurt]] | Plain |
+| To taste | [[Salt and Pepper]] | S&P |
 
 ---
 
 ## Instructions
 
-### Step 1: Blending and Chilling
-1. Combine the **cucumber**, **sour cream**, **buttermilk**, **lemon juice**, **garlic powder**, **salt and pepper**, and **grated onion** in a **blender**.
-2. Blend until smooth and fully combined.
-3. Chill ahead of time in the refrigerator until thoroughly cold, as it tastes better when properly chilled.
+### Step 1: Blending
+1. Combine the **1 cucumber**, **1 cup yogurt**, and **to taste salt and pepper** in a **blender**.
+2. Blend until completely smooth and creamy.
+3. Serve immediately or chill in the refrigerator until thoroughly cold.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Chill in the refrigerator for at least a few hours or overnight before serving to allow the flavors to meld.
+> 💡 **Make-Ahead & Storage:** Can be stored in an airtight container in the refrigerator for up to 24 hours.
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](/assets/scans/cucumber-soup-Scanned_20260801-1746-05.jpg.webp)
+![Original Handwritten Card](/assets/scans/cucumber-soup-Scanned_20260801-1746-04.jpg.webp)
 
