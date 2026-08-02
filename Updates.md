@@ -7,13 +7,12 @@ title: Updates
 | :----------------- | :------------------ |
 | #unknowntwentyfive | Unknown Twenty Five |
 | #unknowntwentyone  | Unknown Twenty One  |
-
+| #johnbcollection    | John B. Collection   |
+| #unknowntwentysix   | Unknown Twenty Six   |
 ### In Progress 
 
 | Tag                 | Name                 |
 | :------------------ | :------------------- |
-| #johnbcollection    | John B. Collection   |
-| #unknowntwentysix   | Unknown Twenty Six   |
 | #unknowneighteen    | Unknown Eighteen     |
 | #unknowntwentyseven | Unknown Twenty Seven |
 
