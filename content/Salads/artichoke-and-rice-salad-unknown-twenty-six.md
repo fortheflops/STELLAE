@@ -3,31 +3,30 @@ title: "Artichoke and Rice Salad"
 category: "Salads"
 collection: "Unknown Twenty Six"
 source: "Unattributed"
-tags: ["salad", "artichoke", "rice", "potluck", "cold", "unknowntwentysix"]
-description: "A delightful and flavorful cold salad featuring chicken, rice, and marinated artichoke hearts tossed in a curry-infused dressing. Perfect for serving large gatherings, this crowd-pleasing dish serves twenty."
+tags: ["salad", "rice", "artichoke", "sidedish", "potluck", "unknowntwentysix"]
+description: "A delightful and savory cold rice salad featuring marinated artichokes, green onions, and black olives tossed in a curry-infused mayonnaise dressing. Originating from the N. Lake Cook Book, it pairs wonderfully with ham sandwiches at any gathering."
 date: "2026-07-30"
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Artichoke and Rice Salad\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"datePublished\": \"2024-03-30\",\n  \"description\": \"A delightful and flavorful cold salad featuring chicken, rice, and marinated artichoke hearts tossed in a curry-infused dressing.\",\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT20M\",\n  \"totalTime\": \"PT4H45M\",\n  \"recipeCategory\": \"Salads\",\n  \"recipeYield\": \"20 servings\",\n  \"recipeIngredient\": [\n    \"1 pkg. Uncle Ben's chicken flavored rice\",\n    \"4 green onions, thinly sliced\",\n    \"2 stalks celery, sliced\",\n    \"1/2 green pepper, chopped fine\",\n    \"12 pimento olives, sliced\",\n    \"1 sm. can mushrooms, sliced, drained\",\n    \"2 oz. marinated artichoke hearts\",\n    \"1 lg. chicken, cubed and cooked\",\n    \"3/4 tsp. curry powder\",\n    \"1/2 c. mayonnaise\",\n    \"Lettuce leaf\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook the rice without butter, cool in a bowl, and add onions, pepper, olives, and mushrooms.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drain artichoke hearts, saving marinade, cut hearts in halves, and add to the bowl.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add curry powder and reserved marinade to the mayonnaise dressing, then combine the chicken and rice mixture.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Mix in the dressing, chill for several hours, and serve on a lettuce leaf.\"\n    }\n  ]\n}"
+recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Artichoke and Rice Salad\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"datePublished\": \"2023-10-01\",\n  \"description\": \"A savory rice salad with marinated artichokes and a curry mayonnaise dressing.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT20M\",\n  \"recipeCategory\": \"Salads\",\n  \"recipeCuisine\": \"American\",\n  \"recipeYield\": \"6 servings\",\n  \"recipeIngredient\": [\n    \"1 pkg. Uncle Bens long grain and wild rice\",\n    \"10 oz or (12 oz) jar marinated artichokes\",\n    \"1/2 cup green onions, sliced thin\",\n    \"1/2 cup celery, sliced diagonally\",\n    \"1/2 cup black olives, sliced\",\n    \"1/2 cup mayonnaise\",\n    \"1 tsp curry powder\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook rice according to package instructions, omit butter. Cool and drain.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drain artichokes and reserve half of marinade. Cut artichokes in half and add to the cooled rice along with green onions, celery, and black olives.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Mix reserved marinade, mayonnaise, and curry powder to make the dressing, then add to the salad.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Serve salad at room temperature.\"\n    }\n  ]\n}"
 ---
 
 # Artichoke and Rice Salad
 
 > 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Unattributed | 📂 **Category:** Salads
-> *A delightful and flavorful cold salad featuring chicken, rice, and marinated artichoke hearts tossed in a curry-infused dressing. Perfect for serving large gatherings, this crowd-pleasing dish serves twenty.*
+> *A delightful and savory cold rice salad featuring marinated artichokes, green onions, and black olives tossed in a curry-infused mayonnaise dressing. Originating from the N. Lake Cook Book, it pairs wonderfully with ham sandwiches at any gathering.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 25 mins | 20 mins | 4 hours | 20 servings |
+| 20 mins | 20 mins | 30 mins | 6 servings |
 
 ---
 
 ### 🔪 Key Equipment
-* Mixing bowl
 * Saucepan
-* Knife
-* Cutting board
+* Mixing bowl
+* Colander
 
 ---
 ## Ingredients
@@ -35,49 +34,36 @@ recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n
 ### Salad Ingredients
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 1 pkg. | [[Rice]] | Uncle Ben's chicken flavored, cooked without butter |
-| 4 | [[Green Onions]] | Thinly sliced |
-| 2 stalks | [[Celery]] | Sliced |
-| 1/2 | [[Green Pepper]] | Chopped fine |
-| 12 | [[Pimento Olives]] | Sliced |
-| 1 sm. can | [[Mushrooms]] | Sliced, drained |
-| 2 oz. | [[Artichoke Hearts]] | Marinated, drained with marinade reserved and hearts cut in halves |
-| 1 lg. | [[Chicken]] | Cubed and cooked |
-
-### Dressing
-| Measurements | Ingredients | Prep / Notes |
-| :--- | :--- | :--- |
-| 3/4 tsp. | [[Curry Powder]] | Added to dressing |
-| 1/2 c. | [[Mayonnaise]] | Combined with reserved artichoke marinade |
-
-### Garnish
-| Measurements | Ingredients | Prep / Notes |
-| :--- | :--- | :--- |
-| As needed | [[Lettuce Leaf]] | For serving |
+| 1 pkg. | [[Long Grain and Wild Rice]] | Uncle Ben's |
+| 10 oz or (12 oz) | [[Marinated Artichokes]] | Jar, drained, reserve half of marinade |
+| 1/2 cup | [[Green Onions]] | Sliced thin |
+| 1/2 cup | [[Celery]] | Sliced diagonally |
+| 1/2 cup | [[Black Olives]] | Sliced |
+| 1/2 cup | [[Mayonnaise]] | None |
+| 1 tsp | [[Curry Powder]] | None |
 
 ---
 
 ## Instructions
 
-### Step 1: Prep and Mix
-1. Cook the **1 pkg. rice** according to package directions without using butter, then cool in a mixing bowl.
-2. Add the **4 green onions**, **2 stalks celery**, **1/2 green pepper**, **12 pimento olives**, and **1 sm. can mushrooms** to the cooled rice.
-3. Drain the **2 oz. artichoke hearts**, saving the marinade, and cut the hearts in halves before adding them to the bowl.
-4. In a separate small container, combine the **1/2 c. mayonnaise**, **3/4 tsp. curry powder**, and the reserved artichoke marinade to create the dressing.
+### Step 1: Cook Rice and Prep
+1. Cook the **1 pkg. long grain and wild rice** according to package instructions, but omit the butter. Cool and drain.
 
-### Step 2: Combine and Chill
-5. Add the **1 lg. chicken** (cubed and cooked) to the rice and vegetable mixture.
-6. Mix everything thoroughly with the prepared dressing until well incorporated.
-7. Chill in the refrigerator for several hours before serving until well-chilled and flavors are fully melded.
-8. Serve on top of a fresh **lettuce leaf**.
+### Step 2: Combine and Dress
+2. Drain the **10 oz or (12 oz) marinated artichokes**, reserving half of the marinade. Cut the artichokes in half and add to the cooled rice along with **1/2 cup green onions**, **1/2 cup celery**, and **1/2 cup black olives**.
+3. Make the dressing by mixing the reserved marinade with **1/2 cup mayonnaise** and **1 tsp curry powder**.
+4. Add the dressing to the salad and toss until well combined.
+
+### Step 3: Serve
+5. Allow the salad to come to room temp before serving. Serve alongside party ham sandwiches.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Prepare the salad a day in advance and keep covered in the refrigerator until ready to serve, allowing the flavors to deepen.
+> 💡 **Make-Ahead & Storage:** Store in an airtight container in the refrigerator for up to 24 hours; bring to room temperature before serving.
 
 ---
 ## Original Recipe Scan
-![Page 1](/assets/scans/artichoke-and-rice-salad-Scanned_20260801-1956-(1)-p1.webp)
+![Page 1](/assets/scans/artichoke-and-rice-salad-Scanned_20260802-0937-(1)-p1.webp)
 
-![Page 2](/assets/scans/artichoke-and-rice-salad-Scanned_20260801-1956-(1)-p2.webp)
+![Page 2](/assets/scans/artichoke-and-rice-salad-Scanned_20260802-0937-(1)-p2.webp)
 

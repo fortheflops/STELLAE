@@ -3,70 +3,70 @@ title: "Fiesta Chicken Kiev"
 category: "Entrees"
 collection: "Unknown Twenty Six"
 source: "Unattributed"
-tags: ["chicken", "entree", "mexican", "fried", "cheese", "dinner", "unknowntwentysix"]
-description: "A prize-winning, Tex-Mex twist on classic Chicken Kiev, stuffed with cheese and green chilis, then coated in crushed crackers. Enjoy this crispy, savory main dish that brings a burst of flavor to the dinner table."
+tags: ["chicken", "texmex", "entree", "dinner", "unknowntwentysix"]
+description: "A delightful southwestern twist on traditional Chicken Kiev featuring green chilies, sharp cheese, and a crunchy cracker crust. Perfect for serving over shredded lettuce with fresh tomatoes and ripe olives."
 date: "2026-07-30"
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Fiesta Chicken Kiev\",\"description\":\"A prize-winning, Tex-Mex twist on classic Chicken Kiev, stuffed with cheese and green chilis, then coated in crushed crackers.\",&quot;prepTime&quot;:&quot;PT30M&quot;,&quot;cookTime&quot;:&quot;PT20M&quot;,&quot;recipeYield&quot;:&quot;4 servings&quot;,&quot;recipeCategory&quot;:&quot;Entrees&quot;,&quot;recipeIngredient&quot;:[&quot;4 whole chicken breasts, halved, boned and skinned&quot;,&quot;3 T. butter&quot;,&quot;2 T. chopped green chiles&quot;,&quot;3 T. Old English style sharp cheese spread&quot;,&quot;1/4 C. melted butter&quot;,&quot;2 t. instant minced onion&quot;,&quot;1 C. crushed cheese crackers&quot;,&quot;1 t. salt&quot;,&quot;1 1/2 T. taco seasoning mix&quot;,&quot;1 t. Accent or MSG&quot;]}"
+recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Fiesta Chicken Kiev\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"description\": \"A delightful southwestern twist on traditional Chicken Kiev featuring green chilies, sharp cheese, and a crunchy cracker crust. Perfect for serving over shredded lettuce with fresh tomatoes and ripe olives.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT15M\",\n  \"recipeYield\": \"8 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeIngredient\": [\n    \"4 whole chicken breasts, halved, boneless, and skinless\",\n    \"3 tbsp butter, softened\",\n    \"3 tbsp Old English sharp cheese, jar\",\n    \"2 tsp instant minced onion\",\n    \"1 tsp salt\",\n    \"1 tsp accent\",\n    \"2 tbsp chopped green chilies, drained\",\n    \"1/4 cup butter, melted\",\n    \"1 cup crushed cheddar cheese crackers\",\n    \"1 1/2 tbsp taco seasoning mix\",\n    \"Shredded lettuce\",\n    \"Tomatoes, sliced\",\n    \"Ripe olives, chopped\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pound the 4 whole chicken breasts flat. Beat together 3 tbsp butter, 3 tbsp Old English sharp cheese, 2 tsp instant minced onion, 1 tsp salt, 1 tsp accent, and 2 tbsp chopped green chilies. Divide the cheese mixture among the 8 chicken breast halves at one end, roll up securely, and fasten with toothpicks.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Dip the rolled chicken into 1/4 cup melted butter, then coat thoroughly with a mixture of 1 cup crushed cheddar cheese crackers and 1 1/2 tbsp taco seasoning mix. Place in a 12x8x2-inch baking dish, cover with waxed paper, and microwave for 10-12 mins until cooked through and tender. Serve on a bed of shredded lettuce, garnished with sliced tomatoes and chopped ripe olives.\"\n    }\n  ]\n}"
 ---
 
 # Fiesta Chicken Kiev
 
 > 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Unattributed | 📂 **Category:** Entrees
-> *A prize-winning, Tex-Mex twist on classic Chicken Kiev, stuffed with cheese and green chilis, then coated in crushed crackers. Enjoy this crispy, savory main dish that brings a burst of flavor to the dinner table.*
+> *A delightful southwestern twist on traditional Chicken Kiev featuring green chilies, sharp cheese, and a crunchy cracker crust. Perfect for serving over shredded lettuce with fresh tomatoes and ripe olives.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 30 mins | 20 mins | None | 4 servings |
+| 30 mins | 15 mins | None | 8 servings |
 
 ---
 
 ### 🔪 Key Equipment
-* Baking dish
+* Meat mallet
+* Toothpicks
 * Mixing bowls
+* 12x8x2-inch baking dish
 
 ---
 ## Ingredients
 
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 4 | [[Chicken Breast]] | whole, halved, boned and skinned |
-| 3 T. | [[Butter]] | softened |
-| 2 T. | [[Green Chiles]] | chopped |
-| 3 T. | [[Sharp Cheddar Cheese Spread]] | Old English style |
-| 1/4 C. | [[Butter]] | melted |
-| 2 t. | [[Minced Onion]] | instant |
-| 1 C. | [[Cheese Crackers]] | crushed |
-| 1 t. | [[Salt]] | None |
-| 1 1/2 T. | [[Taco Seasoning Mix]] | None |
-| 1 t. | [[MSG]] | Accent or MSG |
-| As needed | [[Lettuce]] | shredded |
-| As needed | [[Tomatoes]] | diced |
-| As needed | [[Ripe Olives]] | chopped |
+| 4 whole | [[Chicken Breasts]] | Halved, boneless, and skinless |
+| 3 tbsp | [[Butter]] | Softened |
+| 3 tbsp | [[Old English Sharp Cheese]] | Jar |
+| 2 tsp | [[Instant Minced Onion]] | Reconstituted or dry |
+| 1 tsp | [[Salt]] | None |
+| 1 tsp | [[Accent]] | MSG |
+| 2 tbsp | [[Chopped Green Chilies]] | Drained |
+| 1/4 cup | [[Butter]] | Melted |
+| 1 cup | [[Cheddar Cheese Crackers]] | Crushed |
+| 1 1/2 tbsp | [[Taco Seasoning Mix]] | Dry |
+| As needed | [[Shredded Lettuce]] | For serving |
+| As needed | [[Tomatoes]] | Sliced |
+| As needed | [[Ripe Olives]] | Chopped |
 
 ---
 
 ## Instructions
 
-### Step 1: Preparation and Stuffing
-1. Mix the **3 T. butter**, **2 T. chopped green chiles**, and **3 T. Old English style sharp cheese spread** together to create the filling.
-2. Stuff the mixture inside the **4 whole chicken breasts, halved, boned and skinned**.
+### Step 1: Preparation and Rolling
+1. Pound the **4 whole chicken breasts** flat.
+2. Beat together **3 tbsp butter**, **3 tbsp Old English sharp cheese**, **2 tsp instant minced onion**, **1 tsp salt**, **1 tsp accent**, and **2 tbsp chopped green chilies**.
+3. Divide the cheese mixture among the **8 chicken breast halves** at one end, roll up securely, and fasten with toothpicks.
 
-### Step 2: Coating and Baking
-3. Dip the stuffed chicken in **1/4 C. melted butter**.
-4. Roll the chicken in a mixture of **1 C. crushed cheese crackers**, **1 t. salt**, **1 1/2 T. taco seasoning mix**, **2 t. instant minced onion**, and **1 t. Accent or MSG** until fully coated.
-5. Bake until the chicken is golden brown and cooked through until juices run clear.
-
-### Step 3: Garnishing
-6. Serve garnished with **shredded lettuce**, **diced tomatoes**, and **chopped ripe olives**.
+### Step 2: Coating and Cooking
+4. Dip the rolled chicken into **1/4 cup melted butter**, then coat thoroughly with a mixture of **1 cup crushed cheddar cheese crackers** and **1 1/2 tbsp taco seasoning mix**.
+5. Place in a **12x8x2-inch baking dish**, cover with waxed paper, and microwave for **10-12 mins** until cooked through and tender.
+6. Serve on a bed of **shredded lettuce**, garnished with **sliced tomatoes** and **chopped ripe olives**.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Assemble the stuffed and coated chicken ahead of time, cover, and refrigerate for up to 4 hours before baking.
+> 💡 **Make-Ahead & Storage:** Assemble and coat the chicken rolls up to a few hours in advance, cover, and refrigerate until ready to microwave.
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](/assets/scans/fiesta-chicken-kiev-Scanned_20260802-1017-15.jpg.webp)
+![Original Handwritten Card](/assets/scans/fiesta-chicken-kiev-Scanned_20260802-1000-02.jpg.webp)
 
