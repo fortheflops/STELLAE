@@ -24,8 +24,8 @@ ARCHIVE_DIR = "archive/scans"
 OUTPUT_DIR = "content"
 ASSET_DIR = "content/assets/scans"
 
-# BATCH LIMIT: Safely stops after 50 files per run!
-MAX_FILES_PER_RUN = 50
+# BATCH LIMIT
+MAX_FILES_PER_RUN = 10
 
 # SAFETY LIMIT: If 3 files fail in a row, stop to protect API quotas.
 MAX_CONSECUTIVE_FAILURES = 3
