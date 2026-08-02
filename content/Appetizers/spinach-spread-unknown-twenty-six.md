@@ -3,29 +3,30 @@ title: "Spinach Spread"
 category: "Appetizers"
 collection: "Unknown Twenty Six"
 source: "Unattributed"
-tags: ["appetizer", "spread", "party", "dip", "unknowntwentysix"]
-description: "A classic creamy spinach spread mixed with water chestnuts and vegetable soup seasoning, traditionally served inside a hollowed pumpernickel loaf. Perfect for gatherings and chilled to perfection."
+tags: ["appetizer", "spread", "partyfood", "dip", "spinach", "unknowntwentysix"]
+description: "A creamy and flavorful chilled spinach spread made with mayonnaise, sour cream, and water chestnuts. Perfect for serving with bread or crackers at any gathering."
 date: "2026-07-30"
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Spinach Spread\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"description\": \"A classic creamy spinach spread mixed with water chestnuts and vegetable soup seasoning, traditionally served inside a hollowed pumpernickel loaf.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT0M\",\n  \"recipeYield\": \"8 servings\",\n  \"recipeCategory\": \"Appetizers\",\n  \"recipeIngredient\": [\n    \"1 cup Mayonnaise\",\n    \"1 cup Sour cream\",\n    \"1 pkg Knorr vegetable soup mix\",\n    \"1 can Water chestnuts\",\n    \"1 pkg Frozen chopped spinach\",\n    \"1 loaf Pumpernickel bread\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Hallow out the center of the pumpernickel bread. Drain and squeeze the frozen chopped spinach dry. Blend together mayonnaise, sour cream, Knorr vegetable soup mix, water chestnuts, and spinach. Chill several hours before serving.\"\n    }\n  ]\n}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Spinach Spread\", \"author\": {\"@type\": \"Person\", \"name\": \"Unattributed\"}, \"datePublished\": \"2023-01-01\", \"description\": \"A creamy and flavorful chilled spinach spread made with mayonnaise, sour cream, and water chestnuts.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT0M\", \"recipeCategory\": \"Appetizers\", \"recipeCuisine\": \"American\", \"recipeYield\": \"8 servings\", \"recipeIngredient\": [\"1 cup Mayonnaise\", \"1 cup Sour Cream\", \"1 pkg. Knorr Veg Soup\", \"1 can Water Chestnuts\", \"1 pkg. Spinach\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Drain and squeeze the spinach thoroughly to remove excess moisture.\"}, {\"@type\": \"HowToStep\", \"text\": \"Combine mayonnaise, sour cream, soup mix, water chestnuts, and spinach in a bowl.\"}, {\"@type\": \"HowToStep\", \"text\": \"Chill before serving.\"}]}"
 ---
 
 # Spinach Spread
 
 > 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Unattributed | 📂 **Category:** Appetizers
-> *A classic creamy spinach spread mixed with water chestnuts and vegetable soup seasoning, traditionally served inside a hollowed pumpernickel loaf. Perfect for gatherings and chilled to perfection.*
+> *A creamy and flavorful chilled spinach spread made with mayonnaise, sour cream, and water chestnuts. Perfect for serving with bread or crackers at any gathering.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 15 mins | None | 3 hours | 8 servings |
+| 15 mins | None | 2 hours | 8 servings |
 
 ---
 
 ### 🔪 Key Equipment
 * Mixing bowl
-* Knife
+* Measuring cups
+* Strainer
 
 ---
 ## Ingredients
@@ -33,28 +34,29 @@ recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n
 ### Spread Ingredients
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 1 cup | [[Mayonnaise]] | None |
-| 1 cup | [[Sour cream]] | None |
-| 1 pkg | [[Knorr vegetable soup mix]] | None |
-| 1 can | [[Water chestnuts]] | Chopped |
-| 1 pkg | [[Frozen chopped spinach]] | Thawed |
-| 1 loaf | [[Pumpernickel bread]] | Center hollowed out |
+| 1 cup | [[Mayonnaise]] | Standard |
+| 1 cup | [[Sour Cream]] | Standard |
+| 1 pkg. | [[Knorr Veg Soup]] | Vegetable soup mix |
+| 1 can | [[Water Chestnuts]] | Chopped |
+| 1 pkg. | [[Spinach]] | Chopped, frozen |
 
 ---
 
 ## Instructions
 
 ### Step 1: Preparation
-1. Hallow out the center of the **1 loaf pumpernickel bread**.
-2. Drain and squeeze the **1 pkg frozen chopped spinach** dry to remove excess moisture.
-3. In a mixing bowl, blend together the **1 cup mayonnaise**, **1 cup sour cream**, **1 pkg Knorr vegetable soup mix**, **1 can water chestnuts**, and the prepared **1 pkg frozen chopped spinach** until well combined.
-4. Chill the mixture for several hours before serving inside the hollowed bread until set and cold.
+1. Drain and squeeze the **1 pkg. spinach** thoroughly to remove excess moisture.
+2. In a large mixing bowl, combine the **1 cup mayonnaise**, **1 cup sour cream**, **1 pkg. Knorr veg soup**, **1 can water chestnuts**, and the squeezed spinach.
+3. Mix well until thoroughly incorporated.
+
+### Step 2: Chilling
+4. Cover the bowl and chill in the refrigerator before serving until well-set and cold to the touch.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Prepare the spread a day in advance and store covered in the refrigerator until ready to assemble and serve.
+> 💡 **Make-Ahead & Storage:** Prepare up to a day in advance and store covered in the refrigerator until ready to serve.
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](/assets/scans/spinach-spread-Scanned_20260802-1017-02.jpg.webp)
+![Original Handwritten Card](/assets/scans/spinach-spread-Scanned_20260802-1030-01.jpg.webp)
 
