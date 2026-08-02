@@ -52,6 +52,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.RecentNotes({
       title: "Recently Added Recipes",
       limit: 5,
+      showTags: false,
       filter: (f) => {
         // 1. Exclude the tag directory
         if (f.slug?.startsWith("tags/")) return false
@@ -91,6 +92,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.RecentNotes({
       title: "Recently Added Recipes",
       limit: 5,
+      showTags: false,
       filter: (f) => {
         // 1. Exclude the tag directory
         if (f.slug?.startsWith("tags/")) return false
