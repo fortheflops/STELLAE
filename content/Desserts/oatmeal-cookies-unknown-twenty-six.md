@@ -2,30 +2,30 @@
 title: "Oatmeal Cookies"
 category: "Desserts"
 collection: "Unknown Twenty Six"
-source: "Unattributed"
-tags: ["cookies", "dessert", "oatmeal", "baking", "unknowntwentysix"]
-description: "A classic handwritten recipe for chewy oatmeal cookies packed with raisins and warm cinnamon. Perfect for a cozy afternoon treat or family gathering."
-date: "2026-07-30"
+source: "Mrs. Darkus"
+tags: ["cookies", "oatmeal", "dessert", "baking", "raisins", "unknowntwentysix"]
+description: "A delightful old-fashioned recipe for chewy oatmeal cookies packed with raisins and warm spices. Shared by Mrs. Darkus, these sweet treats are sure to bring comfort."
+date: "2026-08-02"
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Oatmeal Cookies\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"description\": \"A classic handwritten recipe for chewy oatmeal cookies packed with raisins and warm cinnamon.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT14M\",\n  \"recipeYield\": \"24 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeIngredient\": [\n    \"1 cup Shortening\",\n    \"1 cup Sugar\",\n    \"1/3 cup Sweet Milk\",\n    \"2 cups Oatmeal\",\n    \"2 cups Flour\",\n    \"1/2 t. salt\",\n    \"1 or 2 eggs\",\n    \"1/2 t. soda\",\n    \"1 t. cinnamon\",\n    \"1 cup raisins\",\n    \"1/2 cup nuts\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cream together the 1 cup shortening and 1 cup sugar, then beat in the 1 or 2 eggs and 1/3 cup sweet-milk.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in the 2 cups oatmeal, 2 cups flour, 1/2 t. salt, 1/2 t. soda, 1 t. cinnamon, 1 cup raisins, and optional nuts until combined.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drop by teaspoon on a cookie sheet.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake at 350\u00b0 for 12-14 mins until golden brown.\"\n    }\n  ]\n}"
+recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Oatmeal Cookies\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Mrs. Darkus\"\n  },\n  \"description\": \"A delightful old-fashioned recipe for chewy oatmeal cookies packed with raisins and warm spices.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT12M\",\n  \"recipeYield\": \"36 cookies\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeIngredient\": [\n    \"2 cups brown sugar\",\n    \"3/4 cup lard\",\n    \"3 eggs\",\n    \"6 tablespoons sweet milk\",\n    \"1 1/2 cups raisins\",\n    \"3 1/2 cups flour\",\n    \"2 1/2 cups oatmeal\",\n    \"1 pinch salt\",\n    \"2 teaspoons soda\",\n    \"1 teaspoon nutmeg\",\n    \"1 teaspoon cinnamon\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cream together the brown sugar and lard, beat in the eggs, sweet milk, and dissolved soda, then mix in the remaining ingredients to form the dough and bake until set.\"\n    }\n  ]\n}"
 ---
 
 # Oatmeal Cookies
 
-> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Unattributed | 📂 **Category:** Desserts
-> *A classic handwritten recipe for chewy oatmeal cookies packed with raisins and warm cinnamon. Perfect for a cozy afternoon treat or family gathering.*
+> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Mrs. Darkus | 📂 **Category:** Desserts
+> *A delightful old-fashioned recipe for chewy oatmeal cookies packed with raisins and warm spices. Shared by Mrs. Darkus, these sweet treats are sure to bring comfort.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 15 mins | 14 mins | None | 24 servings |
+| 20 mins | 12 mins | None | 36 cookies |
 
 ---
 
 ### 🔪 Key Equipment
 * Mixing bowl
-* Cookie sheet
+* Baking sheet
 * Measuring cups
 * Measuring spoons
 
@@ -35,33 +35,34 @@ recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n
 ### Cookie Ingredients
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 1 cup | [[Shortening]] | Softened |
-| 1 cup | [[Sugar]] | Granulated |
-| 1/3 cup | [[Sweet Milk]] | Whole milk |
-| 2 cups | [[Oatmeal]] | Rolled oats |
-| 2 cups | [[Flour]] | All-purpose |
-| 1/2 tsp | [[Salt]] | None |
-| 1 or 2 | [[Eggs]] | Whole |
-| 1/2 tsp | [[Soda]] | Baking soda |
-| 1 tsp | [[Cinnamon]] | Ground |
-| 1 cup | [[Raisins]] | None |
-| 1/2 cup | [[Nuts]] | Optional, chopped |
+| 2 cups | [[brown sugar]] | Packed |
+| 3/4 cup | [[lard]] | Softened |
+| 3 | [[eggs]] | Whole |
+| 6 tablespoons | [[sweet milk]] | Liquid |
+| 1 1/2 cups | [[raisins]] | Whole |
+| 3 1/2 cups | [[flour]] | All-purpose |
+| 2 1/2 cups | [[oatmeal]] | Rolled oats |
+| 1 pinch | [[salt]] | Fine |
+| 2 teaspoons | [[soda]] | Dissolved in hot water |
+| 1 teaspoon | [[nutmeg]] | Ground |
+| 1 teaspoon | [[cinnamon]] | Ground |
 
 ---
 
 ## Instructions
 
-### Mixing and Baking
-1. Cream together the **1 cup shortening** and **1 cup sugar** until smooth, then beat in the **1 or 2 eggs** and **1/3 cup sweet-milk**.
-2. Stir in the **2 cups oatmeal**, **2 cups flour**, **1/2 t. salt**, **1/2 t. soda**, **1 t. cinnamon**, **1 cup raisins**, and optional nuts until well combined.
-3. Drop by teaspoon onto a greased cookie sheet.
-4. Bake at 350° for **12-14 mins** until golden brown around the edges and set in the center.
+### Step 1: Mixing and Baking
+1. Cream together the **2 cups brown sugar** and **3/4 cup lard** until smooth.
+2. Beat in the **3 eggs** and add the **6 tablespoons sweet milk**, stirring well.
+3. Dissolve the **2 teaspoons soda** in a small amount of hot water and mix into the batter.
+4. Stir in the **1 1/2 cups raisins**, **3 1/2 cups flour**, **2 1/2 cups oatmeal**, **1 pinch salt**, **1 teaspoon nutmeg**, and **1 teaspoon cinnamon** until a dough forms.
+5. Drop spoonfuls onto a greased baking sheet and bake until golden brown and set in the center.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Store baked cookies in an airtight container at room temperature for up to 5 days, or freeze the unbaked dough drops for future baking.
+> 💡 **Make-Ahead & Storage:** Store baked cookies in an airtight container at room temperature for up to 5 days, or freeze the unbaked dough drops for later baking.
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](/assets/scans/oatmeal-cookies-Scanned_20260802-0857-02.jpg.webp)
+![Original Handwritten Card](/assets/scans/oatmeal-cookies-Scanned_20260802-0857-03.jpg.webp)
 

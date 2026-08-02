@@ -2,31 +2,32 @@
 title: "White Fruit Cake"
 category: "Desserts"
 collection: "Unknown Twenty Six"
-source: "Mary Ellington"
+source: "Mary Bullington"
 tags: ["fruitcake", "dessert", "holiday", "baking", "unknowntwentysix"]
-description: "A classic handwritten holiday dessert recipe featuring candied fruits and nuts. This traditional white fruit cake bakes slowly at a low temperature for optimal texture."
-date: "2026-07-30"
+description: "A traditional holiday white fruit cake recipe featuring glazed cherries, pecans, and a rich buttery batter baked from a cold oven. Perfect for festive gatherings and seasonal celebrations."
+date: "2026-08-02"
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"White Fruit Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Mary Ellington\"\n  },\n  \"description\": \"A classic handwritten holiday dessert recipe featuring candied fruits and nuts. This traditional white fruit cake bakes slowly at a low temperature for optimal texture.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT3H\",\n  \"recipeYield\": \"12 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeIngredient\": [\n    \"5 large Eggs\",\n    \"1/2 cup Butter\",\n    \"1 cup Sugar\",\n    \"1 3/4 cup Flour\",\n    \"1/2 tsp Baking Powder\",\n    \"3/4 lb Glazed Cherries\",\n    \"1 lb Glazed Pineapple\",\n    \"4 cups Pecans\",\n    \"1/2 oz Vanilla Extract\",\n    \"1/2 oz Lemon Extract\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cream 1/2 cup butter and 1 cup sugar together until light and fluffy. Add 5 large eggs (one at a time) and beat well. Mix a small portion of the 1 3/4 cup flour with the fruit so it won't stick, then fold the rest of the 1 3/4 cup flour into the batter. Add 1/2 oz vanilla extract and 1/2 oz lemon extract, then mix well. Fold in the 3/4 lb glazed cherries, 1 lb glazed pineapple, and 4 cups pecans.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place the cake into a cold oven, set the temperature to 250 degrees, and bake for 3 hours until firm and golden.\"\n    }\n  ]\n}"
+recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"White Fruit Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Mary Bullington\"\n  },\n  \"description\": \"A traditional holiday white fruit cake recipe featuring glazed cherries, pecans, and a rich buttery batter baked from a cold oven.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT3H\",\n  \"recipeYield\": \"16 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeIngredient\": [\n    \"1/2 cup butter\",\n    \"1 cup sugar\",\n    \"5 eggs\",\n    \"1 3/4 cups flour\",\n    \"1/2 tsp baking powder\",\n    \"3/4 lb glazed cherries\",\n    \"1 lb raisins\",\n    \"4 cups pecans\",\n    \"1/2 oz vanilla extract\",\n    \"1/2 oz lemon extract\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cream the butter and sugar together, add well-beaten eggs, mix part of the flour with fruit so it won't stick, fold in the rest of the flour, add flavoring, mix well, and fold in fruit and flavoring before baking in a cold oven at 250 degrees for 3 hours.\"\n    }\n  ]\n}"
 ---
 
 # White Fruit Cake
 
-> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Mary Ellington | 📂 **Category:** Desserts
-> *A classic handwritten holiday dessert recipe featuring candied fruits and nuts. This traditional white fruit cake bakes slowly at a low temperature for optimal texture.*
+> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Mary Bullington | 📂 **Category:** Desserts
+> *A traditional holiday white fruit cake recipe featuring glazed cherries, pecans, and a rich buttery batter baked from a cold oven. Perfect for festive gatherings and seasonal celebrations.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 30 mins | 3 hours | None | 12 servings |
+| 30 mins | 3 hours | None | 16 servings |
 
 ---
 
 ### 🔪 Key Equipment
 * Mixing bowl
+* Measuring cups
+* Measuring spoons
 * Cake pan
-* Sifter
 
 ---
 ## Ingredients
@@ -34,36 +35,34 @@ recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n
 ### Cake Ingredients
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 5 large | [[Eggs]] | separated |
-| 1/2 cup | [[Butter]] | softened |
-| 1 cup | [[Sugar]] | None |
-| 1 3/4 cup | [[Flour]] | sifted |
-| 1/2 tsp | [[Baking Powder]] | sifted with flour |
-| 3/4 lb | [[Glazed Cherries]] | None |
-| 1 lb | [[Glazed Pineapple]] | penn |
-| 4 cups | [[Pecans]] | None |
-| 1/2 oz | [[Vanilla Extract]] | None |
-| 1/2 oz | [[Lemon Extract]] | None |
+| 1/2 cup | [[Butter]] | Softened |
+| 1 cup | [[Sugar]] | Granulated |
+| 5 | [[Eggs]] | Large, well beaten |
+| 1 3/4 cups | [[Flour]] | Sifted |
+| 1/2 tsp | [[Baking Powder]] | Sifted with flour |
+| 3/4 lb | [[Glazed Cherries]] | Glazed |
+| 1 lb | [[Raisins]] | Pecn/Raisins |
+| 4 cups | [[Pecans]] | Whole or chopped |
+| 1/2 oz | [[Vanilla Extract]] | Liquid |
+| 1/2 oz | [[Lemon Extract]] | Liquid |
 
 ---
 
 ## Instructions
 
-### Step 1: Preparation and Mixing
-1. Cream **1/2 cup butter** and **1 cup sugar** together until light and fluffy.
-2. Add **5 large eggs** (one at a time) and beat well.
-3. Mix a small portion of the **1 3/4 cup flour** with the fruit so it won't stick, then fold the rest of the **1 3/4 cup flour** into the batter.
-4. Add **1/2 oz vanilla extract** and **1/2 oz lemon extract**, then mix well.
-5. Fold in the **3/4 lb glazed cherries**, **1 lb glazed pineapple**, and **4 cups pecans**.
-
-### Step 2: Baking
-6. Place the cake into a **cold oven**, set the temperature to **250 degrees**, and bake for **3 hours** until firm and golden.
+### Mixing and Baking
+1. Cream the **1/2 cup butter** and **1 cup sugar** together until light and fluffy.
+2. Add the **5 eggs** (well beaten) to the mixture.
+3. Mix a part of the **1 3/4 cups flour** with the fruit (**3/4 lb glazed cherries**, **1 lb raisins**, and **4 cups pecans**) so it won't stick.
+4. Fold the rest of the **1 3/4 cups flour** into the batter, then add the **1/2 oz vanilla extract** and **1/2 oz lemon extract**.
+5. Mix well and fold in the fruit and flavoring.
+6. Place in a cold oven, start the oven at 250 degrees, and bake for **3 hours** until golden and a rich aroma develops.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Wrap tightly in plastic wrap and store in a cool, dark place or refrigerate; feeds develop richer flavors over time.
+> 💡 **Make-Ahead & Storage:** Wrap tightly in plastic wrap and store in a cool, dark place. Can be aged for several weeks.
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](/assets/scans/white-fruit-cake-Scanned_20260802-1037-03.jpg.webp)
+![Original Handwritten Card](/assets/scans/white-fruit-cake-Scanned_20260802-1017-09.jpg.webp)
 

@@ -2,50 +2,49 @@
 title: "Apple Macaroon"
 category: "Desserts"
 collection: "Unknown Twenty Six"
-source: "Unattributed"
-tags: ["dessert", "apple", "macaroon", "baking", "sweet", "unknowntwentysix"]
-description: "A delightful old-fashioned Apple Macaroon featuring fresh apples, crunchy pecans, and a rich buttery batter baked to perfection. This classic recipe delivers comforting spiced fruit flavors paired with a tender, golden crust."
-date: "2026-07-30"
+source: "Sonya T."
+tags: ["dessert", "apple", "macaroon", "baking", "fruittreat", "unknowntwentysix"]
+description: "Delight in this comforting apple macaroon featuring tender sliced apples, crunchy pecans, and a sweet, spiced batter. Baked to golden perfection, it makes for a heartwarming homemade dessert."
+date: "2026-08-02"
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Apple Macaroon\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"description\": \"A delightful old-fashioned Apple Macaroon featuring fresh apples, crunchy pecans, and a rich buttery batter baked to perfection.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H\",\n  \"recipeYield\": \"6 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeIngredient\": [\n    \"6 apples\",\n    \"3/4 cup sugar\",\n    \"2 1/2 tsp cinnamon\",\n    \"3/4 cup pecans\",\n    \"salt\",\n    \"2 eggs\",\n    \"1 cup flour\",\n    \"1 cup sugar\",\n    \"1/2 cup shortening\",\n    \"1/2 cup butter\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Slice the 6 apples and place them in an 11x7 baking dish. Sprinkle the 3/4 cup pecans over the apples. Combine the 3/4 cup sugar, 2 1/2 tsp cinnamon, and salt, then sprinkle this mixture evenly over the apples. In a separate bowl, beat the 2 eggs. Sift together the 1 cup flour and 1 cup sugar, then add them to the eggs along with the 1/2 cup melted shortening and 1/2 cup melted butter. Pour the batter evenly over the apple mixture. Bake at 325\u00b0F for 1 hour until golden brown and bubbling.\"\n    }\n  ]\n}"
+recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Apple Macaroon\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sonya T.\"\n  },\n  \"description\": \"Delight in this comforting apple macaroon featuring tender sliced apples, crunchy pecans, and a sweet, spiced batter.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H\",\n  \"recipeYield\": \"8 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeIngredient\": [\n    \"6 Apples\",\n    \"3/4 cup Sugar\",\n    \"2 tsp Cinnamon\",\n    \"3/4 cup Pecans\",\n    \"Salt\",\n    \"2 Eggs\",\n    \"1 cup Flour\",\n    \"1 cup Sugar\",\n    \"1/2 cup Shortening\",\n    \"1/2 cup Butter\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Slice the 6 apples directly in an 11x7 baking dish and sprinkle with 3/4 cup pecans.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine 3/4 cup sugar, 2 tsp cinnamon, and salt; sprinkle over apples.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Beat 2 eggs, add 1 cup flour, 1 cup sugar, melted 1/2 cup shortening, and melted 1/2 cup butter. Pour over apples.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake 1 hour at 325\u00b0.\"\n    }\n  ]\n}"
 ---
 
 # Apple Macaroon
 
-> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Unattributed | 📂 **Category:** Desserts
-> *A delightful old-fashioned Apple Macaroon featuring fresh apples, crunchy pecans, and a rich buttery batter baked to perfection. This classic recipe delivers comforting spiced fruit flavors paired with a tender, golden crust.*
+> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Sonya T. | 📂 **Category:** Desserts
+> *Delight in this comforting apple macaroon featuring tender sliced apples, crunchy pecans, and a sweet, spiced batter. Baked to golden perfection, it makes for a heartwarming homemade dessert.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 20 mins | 1 hr | None | 6 servings |
+| 20 mins | 1 hour | None | 8 servings |
 
 ---
 
 ### 🔪 Key Equipment
-* Baking dish
+* 11x7 baking dish
 * Mixing bowl
-* Sifter
 
 ---
 ## Ingredients
 
-### Fruit and Spice Layer
+### Filling and Topping
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
 | 6 | [[Apples]] | Sliced |
-| 3/4 cup | [[Sugar]] | Granulated |
-| 2 1/2 tsp | [[Cinnamon]] | Ground |
+| 3/4 cup | [[Sugar]] | Divided use |
+| 2 tsp | [[Cinnamon]] | Plus extra to taste |
 | 3/4 cup | [[Pecans]] | Chopped |
-| 1 pinch | [[Salt]] | To taste |
+| 1 pinch | [[Salt]] | None |
 
-### Batter Layer
+### Batter
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
 | 2 | [[Eggs]] | Beaten |
-| 1 cup | [[Flour]] | Sifted |
-| 1 cup | [[Sugar]] | Granulated |
+| 1 cup | [[Flour]] | None |
+| 1 cup | [[Sugar]] | None |
 | 1/2 cup | [[Shortening]] | Melted |
 | 1/2 cup | [[Butter]] | Melted |
 
@@ -53,20 +52,21 @@ recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n
 
 ## Instructions
 
-### Step 1: Assembly and Baking
-1. Slice the **6 apples** and place them in an **11x7 baking dish**.
-2. Sprinkle the **3/4 cup pecans** over the apples.
-3. Combine the **3/4 cup sugar**, **2 1/2 tsp cinnamon**, and **salt**, then sprinkle this mixture evenly over the apples.
-4. In a separate bowl, beat the **2 eggs**.
-5. Sift together the **1 cup flour** and **1 cup sugar**, then add them to the eggs along with the **1/2 cup melted shortening** and **1/2 cup melted butter**.
-6. Pour the batter evenly over the apple mixture.
-7. Bake at **325°F** for **1 hour** until golden brown and bubbling.
+### Step 1: Prep and Layering
+1. Slice the **6 apples** directly in an **11x7 baking dish**.
+2. Sprinkle the **3/4 cup pecans** evenly over the apples.
+3. Combine **3/4 cup sugar**, **2 tsp cinnamon**, and a pinch of **salt**, then sprinkle this mixture evenly over the apples.
+
+### Step 2: Batter and Baking
+4. In a mixing bowl, beat the **2 eggs**, then add **1 cup flour**, **1 cup sugar**, **1/2 cup melted shortening**, and **1/2 cup melted butter**.
+5. Pour the batter mixture evenly over the apples.
+6. Bake for **1 hour** at **325°** until golden brown and the apples are tender.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Assemble the fruit and batter layers in the baking dish a few hours ahead, but pour the batter just before baking for the best texture.
+> 💡 **Make-Ahead & Storage:** Assemble the apple layer ahead of time, but add the batter just before baking to maintain optimal texture.
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](/assets/scans/apple-macaroon-Scanned_20260802-1037-02.jpg.webp)
+![Original Handwritten Card](/assets/scans/apple-macaroon-Scanned_20260802-1030-34.jpg.webp)
 

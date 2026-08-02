@@ -3,69 +3,66 @@ title: "Pineapple Sour Cream Pie"
 category: "Desserts"
 collection: "Unknown Twenty Six"
 source: "Unattributed"
-tags: ["dessert", "pie", "pineapple", "sourcream", "sweet", "unknowntwentysix"]
-description: "A creamy, delightful pineapple sour cream pie featuring a rich pudding filling, whipped cream topping, and toasted coconut. This chilled dessert offers a perfect balance of tangy and sweet flavors."
-date: "2026-07-30"
+tags: ["dessert", "pie", "pineapple", "sweet", "easy", "unknowntwentysix"]
+description: "A delightful and creamy no-bake dessert featuring tangy sour cream and crushed pineapple in a crisp pie shell. Topped with whipped cream and toasted almonds for a perfect textural finish."
+date: "2026-08-02"
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Pineapple Sour Cream Pie\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"datePublished\": \"2023-10-01\",\n  \"description\": \"A creamy, delightful pineapple sour cream pie featuring a rich pudding filling, whipped cream topping, and toasted coconut.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT0M\",\n  \"performTime\": \"PT3H\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\",\n  \"recipeYield\": \"8 servings\",\n  \"recipeIngredient\": [\n    \"1 pkg. Vanilla Instant Pudding\",\n    \"1 (12 oz) can Crushed Pineapple\",\n    \"2 cups Sour Cream\",\n    \"1 tbsp Sugar\",\n    \"1 Baked 9-inch Pie Shell\",\n    \"Whipped Cream\",\n    \"Coconut\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine 1 pkg. vanilla instant pudding, 1 (12 oz) can crushed pineapple with juice, 2 cups sour cream, and 1 tbsp sugar in a deep bowl. Beat slowly at low speed for 1 minute until thoroughly blended and smooth.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the mixture into the 1 baked 9-inch pie shell. Chill in the refrigerator for 3 hours until set. Frost the pie with as needed whipped cream and garnish with as needed toasted coconut on top if desired.\"\n    }\n  ],\n  \"suitableForDiet\": \"https://schema.org/VegetarianDiet\"\n}"
+recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Pineapple Sour Cream Pie\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"datePublished\": \"2023-10-25\",\n  \"description\": \"A delightful and creamy no-bake dessert featuring tangy sour cream and crushed pineapple in a crisp pie shell.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT0M\",\n  \"recipeYield\": \"8 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeIngredient\": [\n    \"1 pkg Vanilla Instant Pudding\",\n    \"1 (15 oz) Crushed Pineapple\",\n    \"2 cups Sour Cream\",\n    \"1 T Sugar\",\n    \"1 9\\\" Pie Shell\",\n    \"Whip Cream\",\n    \"Almonds\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine pudding mix with crushed pineapple and juice, sour cream, and sugar in a deep bowl. Beat slowly for 1 minute. Pour into shell and chill 3 hours.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Frost with whip cream and toasted almonds.\"\n    }\n  ]\n}"
 ---
 
 # Pineapple Sour Cream Pie
 
 > 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Unattributed | 📂 **Category:** Desserts
-> *A creamy, delightful pineapple sour cream pie featuring a rich pudding filling, whipped cream topping, and toasted coconut. This chilled dessert offers a perfect balance of tangy and sweet flavors.*
+> *A delightful and creamy no-bake dessert featuring tangy sour cream and crushed pineapple in a crisp pie shell. Topped with whipped cream and toasted almonds for a perfect textural finish.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 15 mins | 0 mins | 3 hrs | 8 servings |
+| 15 mins | None | 3 hours | 8 servings |
 
 ---
 
 ### 🔪 Key Equipment
 * Deep bowl
 * Electric mixer
-* 9-inch pie shell
+* Pie pan
 
 ---
 ## Ingredients
 
-### Filling and Crust
+### Pie Ingredients
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 1 pkg. | [[Vanilla Instant Pudding]] | Dry mix |
-| 1 (12 oz) can | [[Crushed Pineapple]] | With juice |
-| 2 cups | [[Sour Cream]] | Standard |
-| 1 tbsp | [[Sugar]] | Granulated |
-| 1 | [[Baked 9-inch Pie Shell]] | Baked and cooled |
+| 1 pkg | [[Vanilla Instant Pudding]] | Dry mix |
+| 1 (15 oz) | [[Crushed Pineapple]] | With juice |
+| 2 cups | [[Sour Cream]] | 16 oz |
+| 1 T | [[Sugar]] | Plus a little more to taste |
+| 1 | [[9" Pie Shell]] | Baked or crumb shell |
 
-### Topping
+### Garnish
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| As needed | [[Whipped Cream]] | For frosting |
-| As needed | [[Coconut]] | Toasted, optional |
+| As needed | [[Whip Cream]] | For frosting |
+| As needed | [[Almonds]] | Toasted |
 
 ---
 
 ## Instructions
 
-### Step 1: Mixing the Filling
-1. Combine **1 pkg. vanilla instant pudding**, **1 (12 oz) can crushed pineapple** with juice, **2 cups sour cream**, and **1 tbsp sugar** in a deep bowl.
-2. Beat slowly at low speed for **1 minute** until thoroughly blended and smooth.
+### Step 1: Mixing and Chilling
+1. Combine **1 pkg vanilla instant pudding** with **1 (15 oz) crushed pineapple** and juice, **2 cups sour cream**, and **1 T sugar** in a deep bowl.
+2. Beat slowly for **1 min** until smooth and well combined.
+3. Pour the filling into the **1 9" shell** and chill in the refrigerator for **3 hours** until set.
 
-### Step 2: Chilling and Topping
-3. Pour the mixture into the **1 baked 9-inch pie shell**.
-4. Chill in the refrigerator for **3 hours** until set.
-5. Frost the pie with **as needed whipped cream** and garnish with **as needed toasted coconut** on top if desired.
+### Step 2: Garnishing
+4. Frost the chilled pie with **whip cream** and top with **toasted almonds** before serving.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Keep refrigerated for up to 2 days before serving for best texture.
+> 💡 **Make-Ahead & Storage:** Keep refrigerated until ready to serve; best enjoyed within 24 hours of assembly.
 
 ---
 ## Original Recipe Scan
-![Page 1](/assets/scans/pineapple-sour-cream-pie-Scanned_20260802-0941-p1.webp)
-
-![Page 2](/assets/scans/pineapple-sour-cream-pie-Scanned_20260802-0941-p2.webp)
+![Original Handwritten Card](/assets/scans/pineapple-sour-cream-pie-Scanned_20260802-1025-20.jpg.webp)
 

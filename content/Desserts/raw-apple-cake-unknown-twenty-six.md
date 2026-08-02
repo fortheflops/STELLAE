@@ -3,29 +3,29 @@ title: "Raw Apple Cake"
 category: "Desserts"
 collection: "Unknown Twenty Six"
 source: "Unattributed"
-tags: ["dessert", "applecake", "cake", "baking", "unknowntwentysix"]
-description: "A delightful old-fashioned raw apple cake featuring fresh apples, aromatic cinnamon, and a crunchy brown sugar and nut topping. Best served warm with a scoop of ice cream or whipped cream."
-date: "2026-07-30"
+tags: ["dessert", "cake", "apple", "baking", "coffee", "unknowntwentysix"]
+description: "A delightful traditional cake featuring finely chopped raw apples, a hint of coffee, and a crunchy brown sugar and nut topping. Baked to golden perfection, it makes a comforting treat for any afternoon gathering."
+date: "2026-08-02"
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Raw Apple Cake\",\"author\":{\"@type\":\"Person\",\"name\":\"Unattributed\"},\"description\":\"A delightful old-fashioned raw apple cake featuring fresh apples, aromatic cinnamon, and a crunchy brown sugar and nut topping.\",\"prepTime\":\"PT20M\",\"cookTime\":\"PT55M\",\"recipeYield\":\"12-15 servings\",\"recipeCategory\":\"Desserts\",\"recipeIngredient\":[\"1 cup Oleo\",\"2 cups Sugar\",\"4 cups Apples\",\"3 cups Flour\",\"2 tsp Soda\",\"1 cup Coffee\",\"2 Eggs\",\"2 tsp Cinnamon\",\"1/4 tsp Salt\",\"1 cup Brown Sugar\",\"1 cup Nuts\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Beat 2 eggs, 2 cups sugar, and 1 cup oleo together until light and fluffy.\"},{\"@type\":\"HowToStep\",\"text\":\"Add sifted dry ingredients (3 cups flour, 2 tsp soda, 2 tsp cinnamon, and 1/4 tsp salt) alternating with 1 cup cold coffee.\"},{\"@type\":\"HowToStep\",\"text\":\"Fold in 4 cups chopped apples.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour the batter into a greased and floured 10x13 pan.\"},{\"@type\":\"HowToStep\",\"text\":\"Sprinkle with 1 cup brown sugar and 1 cup chopped nuts.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake at 350\u00b0 for 50-60 minutes until done.\"}]}"
+recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Raw Apple Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"description\": \"A delightful traditional cake featuring finely chopped raw apples, a hint of coffee, and a crunchy brown sugar and nut topping.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT40M\",\n  \"recipeYield\": \"8 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeIngredient\": [\n    \"1 cup Sugar\",\n    \"1/2 cup Shortening\",\n    \"1 Egg\",\n    \"1 1/2 cups Flour\",\n    \"1 tsp Baking Soda\",\n    \"1/2 tsp Salt\",\n    \"1/2 cup Coffee\",\n    \"2 cups Apples\",\n    \"1/3 cup Brown Sugar\",\n    \"1 tsp Cinnamon\",\n    \"1/2 cup Nuts\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cream together 1 cup sugar and 1/2 cup shortening. Add 1 egg and mix well. Sift together 1 1/2 cups flour, 1 tsp soda, and 1/2 tsp salt. Add the dry ingredients to the creamed mixture alternately with 1/2 cup strong coffee. Combine all the above ingredients thoroughly, then fold in 2 cups raw apples (chopped fine).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the batter into a greased baking pan. Sprinkle 1/3 cup brown sugar, 1 tsp cinnamon, and 1/2 cup nuts evenly over the top of the cake before baking. Bake at 350\u00b0 oven for 40 mins, or until golden brown.\"\n    }\n  ]\n}"
 ---
 
 # Raw Apple Cake
 
 > 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Unattributed | 📂 **Category:** Desserts
-> *A delightful old-fashioned raw apple cake featuring fresh apples, aromatic cinnamon, and a crunchy brown sugar and nut topping. Best served warm with a scoop of ice cream or whipped cream.*
+> *A delightful traditional cake featuring finely chopped raw apples, a hint of coffee, and a crunchy brown sugar and nut topping. Baked to golden perfection, it makes a comforting treat for any afternoon gathering.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 20 mins | 55 mins | None | 12-15 servings |
+| 20 mins | 40 mins | None | 8 servings |
 
 ---
 
 ### 🔪 Key Equipment
 * Mixing bowl
-* 10x13 pan
+* Baking pan
 
 ---
 ## Ingredients
@@ -33,43 +33,45 @@ recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"R
 ### Cake Batter
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 1 cup | [[Oleo]] | Softened |
-| 2 cups | [[Sugar]] |  |
-| 4 cups | [[Apples]] | 1.5 lbs, chopped |
-| 3 cups | [[Flour]] | Sifted |
-| 2 tsp | [[Soda]] |  |
-| 1 cup | [[Coffee]] | Cold |
-| 2 | [[Eggs]] |  |
-| 2 tsp | [[Cinnamon]] |  |
-| 1/4 tsp | [[Salt]] |  |
+| 1 cup | [[Sugar]] | Creamed |
+| 1/2 cup | [[Shortening]] | Creamed |
+| 1 | [[Egg]] | Beaten |
+| 1 1/2 cups | [[Flour]] | Sifted |
+| 1 tsp | [[Baking Soda]] | Sifted |
+| 1/2 tsp | [[Salt]] | Sifted |
+| 1/2 cup | [[Coffee]] | Strong |
+| 2 cups | [[Apples]] | Raw, chopped fine |
 
 ### Topping
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 1 cup | [[Brown Sugar]] |  |
-| 1 cup | [[Nuts]] | Chopped |
+| 1/3 cup | [[Brown Sugar]] | Sprinkled on top |
+| 1 tsp | [[Cinnamon]] | Sprinkled on top |
+| 1/2 cup | [[Nuts]] | Chopped, sprinkled on top |
 
 ---
 
 ## Instructions
 
 ### Step 1: Making the Batter
-1. Beat **2 eggs**, **2 cups sugar**, and **1 cup oleo** together until light and fluffy.
-2. Add sifted dry ingredients (**3 cups flour**, **2 tsp soda**, **2 tsp cinnamon**, and **1/4 tsp salt**) alternating with **1 cup cold coffee**.
-3. Fold in **4 cups chopped apples**.
+1. Cream together **1 cup sugar** and **1/2 cup shortening**.
+2. Add **1 egg** and mix well.
+3. Sift together **1 1/2 cups flour**, **1 tsp soda**, and **1/2 tsp salt**.
+4. Add the dry ingredients to the creamed mixture alternately with **1/2 cup strong coffee**.
+5. Combine all the above ingredients thoroughly, then fold in **2 cups raw apples** (chopped fine).
 
-### Step 2: Baking
-4. Pour the batter into a greased and floured **10x13 pan**.
-5. Sprinkle with **1 cup brown sugar** and **1 cup chopped nuts**.
-6. Bake at **350°** for **50-60 minutes** until golden brown and a toothpick inserted in the center comes out clean.
+### Step 2: Topping and Baking
+6. Pour the batter into a greased baking pan.
+7. Sprinkle **1/3 cup brown sugar**, **1 tsp cinnamon**, and **1/2 cup nuts** evenly over the top of the cake before baking.
+8. Bake at **350° oven** for **40 mins**, or until golden brown and a toothpick inserted into the center comes out clean.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Store covered at room temperature for up to 2 days, or wrap tightly and freeze for up to 3 months.
+> 💡 **Make-Ahead & Storage:** Store in an airtight container at room temperature for up to 2 days, or wrap tightly and freeze for longer storage.
 
 ---
 ## Original Recipe Scan
-![Page 1](/assets/scans/raw-apple-cake-Scanned_20260802-1008-p1.webp)
+![Page 1](/assets/scans/raw-apple-cake-Scanned_20260802-1009-(2)-p1.webp)
 
-![Page 2](/assets/scans/raw-apple-cake-Scanned_20260802-1008-p2.webp)
+![Page 2](/assets/scans/raw-apple-cake-Scanned_20260802-1009-(2)-p2.webp)
 

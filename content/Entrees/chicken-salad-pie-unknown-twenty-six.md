@@ -2,71 +2,71 @@
 title: "Chicken Salad Pie"
 category: "Entrees"
 collection: "Unknown Twenty Six"
-source: "Mozelle & Sue"
-tags: ["chickensalad", "pie", "coldentree", "summerrecipe", "unknowntwentysix"]
-description: "A delightful and refreshing chilled chicken salad pie featuring a rich mixture of chicken, cheese, celery, and pineapple topped with whipped cream. Perfect for warm weather gatherings and easily made ahead."
-date: "2026-07-30"
+source: "Unattributed"
+tags: ["chickensalad", "pie", "coldentree", "savorypie", "summerrecipe", "unknowntwentysix"]
+description: "A delightful and refreshing savory chicken salad pie featuring a creamy filling, crunchy pecans, and a hint of curry. Chilled to perfection, this unique dish is an ideal centerpiece for warm weather lunches and gatherings."
+date: "2026-08-02"
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Chicken Salad Pie\",\"author\":{\"@type\":\"Person\",\"name\":\"Mozelle & Sue\"},\"description\":\"A delightful and refreshing chilled chicken salad pie featuring a rich mixture of chicken, cheese, celery, and pineapple topped with whipped cream.\",\"prepTime\":\"PT30M\",\"cookTime\":\"PT0M\",\"performTime\":\"PT3H\",\"recipeCategory\":\"Entrees\",\"recipeYield\":\"6 servings\",\"recipeIngredient\":[\"1 9\\\" pie shell, baked & cooled\",\"2 cups cooked chicken, chopped\",\"3/4 cup American Cheese, grated\",\"1/2 cup celery, diced\",\"1/2 cup crushed pineapple, drained\",\"1/2 cup pecans, chopped\",\"1/2 tsp paprika\",\"1/2 tsp salt\",\"3/4 cup mayonnaise\",\"1/2 cup whipping cream\",\"Grated carrots\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Combine chicken, cheese, celery, pineapple, pecans, paprika, salt, and 1/2 cup of the mayonnaise in a large mixing bowl. Put mixture into pie shell.\"},{\"@type\":\"HowToStep\",\"text\":\"Whip cream until peaks begin to form, then fold in remaining 1/4 cup of mayonnaise. Spread cream mixture on pie and garnish with grated carrots.\"},{\"@type\":\"HowToStep\",\"text\":\"Chill for 3 hours or overnight.\"}]}"
+recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Chicken Salad Pie\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"description\": \"A delightful and refreshing savory chicken salad pie featuring a creamy filling, crunchy pecans, and a hint of curry.\",\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT0M\",\n  \"recipeYield\": \"6 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeIngredient\": [\n    \"1 9\\\" pie shell, baked & cooled\",\n    \"2 cups cooked chicken, chopped\",\n    \"3/4 cup American Cheese, grated\",\n    \"1/2 cup celery, diced\",\n    \"1/2 cup crushed pineapple, drained\",\n    \"1/2 cup pecans, chopped\",\n    \"1/2 t. paprika\",\n    \"1/2 t. salt\",\n    \"1/4 t. curry powder\",\n    \"3/4 cup mayonnaise\",\n    \"1/2 cup whipping cream\",\n    \"Grated Carrots\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine cooked chicken, cheese, celery, pineapple, pecans, paprika, salt, curry powder, and 1/2 cup of the mayonnaise in a lg. mixing bowl. Turn mixture into pie shell.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Whip whipping cream until peaks begin to form & fold in remaining 1/4 cup of mayonnaise. Spread cream mixture on pie & garnish with grated carrots. Chill for 3 hrs or overnight.\"\n    }\n  ]\n}"
 ---
 
 # Chicken Salad Pie
 
-> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Mozelle & Sue | 📂 **Category:** Entrees
-> *A delightful and refreshing chilled chicken salad pie featuring a rich mixture of chicken, cheese, celery, and pineapple topped with whipped cream. Perfect for warm weather gatherings and easily made ahead.*
+> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Unattributed | 📂 **Category:** Entrees
+> *A delightful and refreshing savory chicken salad pie featuring a creamy filling, crunchy pecans, and a hint of curry. Chilled to perfection, this unique dish is an ideal centerpiece for warm weather lunches and gatherings.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 30 mins | 0 mins | 3 hours | 6 servings |
+| 25 mins | 0 mins | 3 hours | 6 servings |
 
 ---
 
 ### 🔪 Key Equipment
 * 9-inch pie shell
-* Mixing bowl
+* Large mixing bowl
 * Electric mixer
 
 ---
 ## Ingredients
 
-### Pie Ingredients
+### Filling Ingredients
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 1 | [[9" pie shell]] | Baked & cooled |
-| 2 cups | [[Cooked chicken]] | Chopped |
-| 3/4 cup | [[American Cheese]] | Grated |
-| 1/2 cup | [[Celery]] | Diced |
-| 1/2 cup | [[Crushed pineapple]] | Drained |
-| 1/2 cup | [[Pecans]] | Chopped |
-| 1/2 tsp | [[Paprika]] |  |
-| 1/2 tsp | [[Salt]] |  |
-| 3/4 cup | [[Mayonnaise]] | Divided (1/2 cup and 1/4 cup) |
-| 1/2 cup | [[Whipping cream]] | Chilled |
-| Optional | [[Curry]] | Very little, to taste |
-| As needed | [[Grated carrots]] | For garnish |
+| 1 | [[9" pie shell]] | Baked and cooled |
+| 2 cups | [[cooked chicken]] | Chopped |
+| 3/4 cup | [[American cheese]] | Grated |
+| 1/2 cup | [[celery]] | Diced |
+| 1/2 cup | [[crushed pineapple]] | Drained |
+| 1/2 cup | [[pecans]] | Chopped |
+| 1/2 tsp | [[paprika]] | None |
+| 1/2 tsp | [[salt]] | None |
+| 1/4 tsp | [[curry powder]] | None |
+| 3/4 cup | [[mayonnaise]] | Divided (1/2 cup for mixture, 1/4 cup for whipped cream) |
+| 1/2 cup | [[whipping cream]] | None |
+| As needed | [[grated carrots]] | For garnish |
 
 ---
 
 ## Instructions
 
-### Step 1: Filling
-1. Combine **2 cups cooked chicken**, **3/4 cup American Cheese**, **1/2 cup celery**, **1/2 cup crushed pineapple**, **1/2 cup pecans**, **1/2 tsp paprika**, **1/2 tsp salt**, and **1/2 cup of the mayonnaise** in a large mixing bowl. Add a very little optional curry if desired.
-2. Put the mixture into the baked and cooled **1 9" pie shell**.
+### Step 1: Mixing the Filling
+1. Combine **2 cups cooked chicken**, **3/4 cup American cheese**, **1/2 cup celery**, **1/2 cup crushed pineapple**, **1/2 cup pecans**, **1/2 tsp paprika**, **1/2 tsp salt**, **1/4 tsp curry powder**, and **1/2 cup of the mayonnaise** in a lg. mixing bowl.
+2. Turn mixture into the **1 9" pie shell**.
 
-### Step 2: Topping & Chilling
-3. Whip **1/2 cup whipping cream** until peaks begin to form, then fold in the remaining **1/4 cup mayonnaise**.
-4. Spread the cream mixture on top of the pie and garnish with **grated carrots**.
-5. Chill in the refrigerator for 3 hours or overnight until set.
+### Step 2: Topping and Chilling
+3. Whip **1/2 cup whipping cream** until peaks begin to form, then fold in remaining **1/4 cup of mayonnaise**.
+4. Spread cream mixture on pie and garnish with **grated carrots**.
+5. Chill for 3 hrs or overnight until set.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Cover and chill in the refrigerator for 3 hours or overnight before serving.
+> 💡 **Make-Ahead & Storage:** Assemble and chill the pie up to 24 hours in advance before serving.
 
 ---
 ## Original Recipe Scan
-![Page 1](/assets/scans/chicken-salad-pie-Scanned_20260802-0945-p1.webp)
+![Page 1](/assets/scans/chicken-salad-pie-Scanned_20260802-0946-(1)-p1.webp)
 
-![Page 2](/assets/scans/chicken-salad-pie-Scanned_20260802-0945-p2.webp)
+![Page 2](/assets/scans/chicken-salad-pie-Scanned_20260802-0946-(1)-p2.webp)
 

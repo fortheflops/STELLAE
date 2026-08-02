@@ -2,52 +2,51 @@
 title: "Choir Brunch Salad"
 category: "Salads"
 collection: "Unknown Twenty Six"
-source: "Martha R."
-tags: ["salad", "brunch", "vegetable", "makeahead", "side", "unknowntwentysix"]
-description: "A refreshing and tangy marinated vegetable salad featuring peas, corn, green beans, and pimientos. Perfect for large gatherings and best when allowed to marinate overnight."
-date: "2026-07-30"
+source: "Martha B."
+tags: ["salad", "brunch", "vegetable", "potluck", "makeahead", "unknowntwentysix"]
+description: "A refreshing marinated vegetable salad featuring corn, peas, and beans tossed in a tangy sweet-and-sour dressing. This classic make-ahead side dish tastes even better when left to marinate for 24 hours."
+date: "2026-08-02"
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Choir Brunch Salad\",\"author\":{\"@type\":\"Person\",\"name\":\"Martha R.\"},\"description\":\"A refreshing and tangy marinated vegetable salad featuring peas, corn, green beans, and pimientos. Perfect for large gatherings and best when allowed to marinate overnight.\",\"prepTime\":\"PT20M\",\"cookTime\":\"PT5M\",\"recipeYield\":\"10-12 servings\",\"recipeCategory\":\"Salads\",\"recipeIngredient\":[\"1 cup Sugar\",\"1/2 cup Oil\",\"3/4 cup Vinegar\",\"1 tsp Salt\",\"1 tsp Celery salt\",\"16 oz Small peas\",\"16 oz French style green beans\",\"16 oz Shoe peg corn\",\"4 oz Pimiento\",\"1 cup Green pepper\",\"1 cup Onion\",\"1 cup Celery\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Bring the first 5 ingredients to a boil in a saucepan.\"},\":{\"@type\":\"HowToStep\",\"text\":\"Set aside to cool completely.\"},\":{\"@type\":\"HowToStep\",\"text\":\"Drain the peas, green beans, corn, and pimiento.\"},\":{\"@type\":\"HowToStep\",\"text\":\"Add the onion, green pepper, and celery to the vegetables.\"},\":{\"@type\":\"HowToStep\",\"text\":\"Pour the cooled brine mixture over the vegetables and toss to mix well.\"},\":{\"@type\":\"HowToStep\",\"text\":\"Let sit for at least 24 hours in the refrigerator.\"}]}"
+recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Choir Brunch Salad\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Martha B.\"\n  },\n  \"description\": \"A refreshing marinated vegetable salad featuring corn, peas, and beans tossed in a tangy sweet-and-sour dressing.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT5M\",\n  \"totalTime\": \"PT24H25M\",\n  \"recipeYield\": \"8 servings\",\n  \"recipeCategory\": \"Salads\",\n  \"recipeIngredient\": [\n    \"1 cup sugar\",\n    \"1/2 cup oil\",\n    \"3/4 cup vinegar\",\n    \"1 tsp salt\",\n    \"1 tsp celery salt\",\n    \"16 oz small peas\",\n    \"16 oz shoepeg corn\",\n    \"16 oz french style green beans\",\n    \"4 oz pimientos\",\n    \"1 cup green pepper\",\n    \"1 cup onion\",\n    \"1 cup celery\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bring the 1 cup sugar, 1/2 cup oil, 3/4 cup vinegar, 1 tsp salt, and 1 tsp celery salt to a boil in a saucepan. Set aside to cool.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drain the 16 oz small peas, 16 oz shoepeg corn, 16 oz french style green beans, and 4 oz pimientos. Add the chopped 1 cup green pepper, 1 cup onion, and 1 cup celery to the mixture. Mix vegetables with brine mixture.\"\n    }\n  ]\n}"
 ---
 
 # Choir Brunch Salad
 
-> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Martha R. | 📂 **Category:** Salads
-> *A refreshing and tangy marinated vegetable salad featuring peas, corn, green beans, and pimientos. Perfect for large gatherings and best when allowed to marinate overnight.*
+> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Martha B. | 📂 **Category:** Salads
+> *A refreshing marinated vegetable salad featuring corn, peas, and beans tossed in a tangy sweet-and-sour dressing. This classic make-ahead side dish tastes even better when left to marinate for 24 hours.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 20 mins | 5 mins | 24 hours | 10-12 servings |
+| 20 mins | 5 mins | 24 hours | 8 servings |
 
 ---
 
 ### 🔪 Key Equipment
 * Saucepan
 * Large mixing bowl
-* Can opener
 * Colander
 
 ---
 ## Ingredients
 
-### Brine Mixture
+### Dressing
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
 | 1 cup | [[Sugar]] | Granulated |
 | 1/2 cup | [[Oil]] | Vegetable oil |
-| 3/4 cup | [[Vinegar]] | Standard |
-| 1 tsp | [[Salt]] | None |
-| 1 tsp | [[Celery salt]] | Not celery seed |
+| 3/4 cup | [[Vinegar]] | Cool |
+| 1 tsp | [[Salt]] | Standard |
+| 1 tsp | [[Celery salt]] | Not seed |
 
-### Vegetables
+### Salad Vegetables
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 16 oz | [[Small peas]] | Can, drained |
-| 16 oz | [[French style green beans]] | Can, drained |
-| 16 oz | [[Shoe peg corn]] | Can, drained |
-| 4 oz | [[Pimiento]] | Jar, drained |
+| 16 oz | [[Small peas]] | Canned, drained |
+| 16 oz | [[Shoepeg corn]] | Canned, drained |
+| 16 oz | [[French style green beans]] | Canned, drained |
+| 4 oz | [[Pimientos]] | Jar, drained |
 | 1 cup | [[Green pepper]] | Chopped |
 | 1 cup | [[Onion]] | Chopped |
 | 1 cup | [[Celery]] | Chopped |
@@ -56,23 +55,22 @@ recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"C
 
 ## Instructions
 
-### Step 1: Make the Brine
-1. Bring the first 5 ingredients (**1 cup sugar**, **1/2 cup oil**, **3/4 cup vinegar**, **1 tsp salt**, and **1 tsp celery salt**) to a boil in a saucepan.
-2. Set aside to cool completely.
+### Step 1: Make Dressing
+1. Bring the **1 cup sugar**, **1/2 cup oil**, **3/4 cup vinegar**, **1 tsp salt**, and **1 tsp celery salt** to a boil in a saucepan.
+2. Remove from heat and set aside to cool completely.
 
-### Step 2: Combine and Marinate
-3. Drain the **16 oz small peas**, **16 oz French style green beans**, **16 oz shoe peg corn**, and **4 oz pimiento**.
-4. Add the **1 cup chopped onion**, **1 cup chopped green pepper**, and **1 cup chopped celery** to the drained vegetables.
-5. Pour the cooled brine mixture over the vegetables and toss to mix well.
-6. Let sit for at least 24 hours in the refrigerator (longer is better for flavor development).
+### Step 2: Assemble Salad
+3. Drain the **16 oz small peas**, **16 oz shoepeg corn**, **16 oz french style green beans**, and **4 oz pimientos** thoroughly.
+4. Add the chopped **1 cup green pepper**, **1 cup onion**, and **1 cup celery** to the drained vegetables.
+5. Pour the cooled brine mixture over the vegetables and mix well until thoroughly combined.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** This salad tastes significantly better when made 24 to 48 hours in advance, allowing the vegetables to fully absorb the tangy brine.
+> 💡 **Make-Ahead & Storage:** Let set in the refrigerator for 24 hours before serving; longer is better as the flavors meld.
 
 ---
 ## Original Recipe Scan
-![Page 1](/assets/scans/choir-brunch-salad-Scanned_20260802-0935-p1.webp)
+![Page 1](/assets/scans/choir-brunch-salad-Scanned_20260802-1001-p1.webp)
 
-![Page 2](/assets/scans/choir-brunch-salad-Scanned_20260802-0935-p2.webp)
+![Page 2](/assets/scans/choir-brunch-salad-Scanned_20260802-1001-p2.webp)
 

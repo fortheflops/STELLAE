@@ -2,64 +2,57 @@
 title: "Cranberry Salad"
 category: "Salads"
 collection: "Unknown Twenty Six"
-source: "Unattributed"
-tags: ["salad", "cranberry", "holiday", "side", "unknowntwentysix"]
-description: "A vibrant and refreshing holiday cranberry salad combining freshly ground cranberries, citrus, and crunchy nuts. This classic side dish balances tart fruits with sweet sugar and gelatin for a firm, chilled treat."
-date: "2026-07-30"
+source: "N. Lake"
+tags: ["salad", "cranberry", "jello", "holiday", "potluck", "unknowntwentysix"]
+description: "A delightful and refreshing gelatin-based salad featuring sweet cherry jello, tart cranberry sauce, and crushed pineapple. Perfect for holiday dinners or festive gatherings."
+date: "2026-08-02"
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Cranberry Salad\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"datePublished\": \"2024-01-01\",\n  \"description\": \"A vibrant and refreshing holiday cranberry salad combining freshly ground cranberries, citrus, and crunchy nuts.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT0M\",\n  \"recipeYield\": \"8 servings\",\n  \"recipeCategory\": \"Salads\",\n  \"recipeIngredient\": [\n    \"1 qt Cranberries\",\n    \"2 cups Sugar\",\n    \"1 Orange\",\n    \"2 cups Apple\",\n    \"1 box Lemon Jell-O\",\n    \"1 cup Celery\",\n    \"1/2 cup Nuts\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Grind the 1 qt cranberries and combine them with 2 cups sugar in a mixing bowl, then let stand overnight.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Prepare the 1 box lemon Jell-O, mix in 1 orange, 2 cups apple, 1 cup celery, 1/2 cup nuts, and the cranberry mixture, then chill until set.\"\n    }\n  ]\n}"
+recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Cranberry Salad\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"N. Lake\"\n  },\n  \"datePublished\": \"2023\",\n  \"description\": \"A delightful and refreshing gelatin-based salad featuring sweet cherry jello, tart cranberry sauce, and crushed pineapple.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT5M\",\n  \"recipeYield\": \"8 servings\",\n  \"recipeCategory\": \"Salads\",\n  \"recipeIngredient\": [\n    \"2 packages Cherry Jell-O\",\n    \"2 cups boiling water\",\n    \"1 can cranberry jellied sauce\",\n    \"1 (No. 2) can crushed pineapple\",\n    \"chopped celery\",\n    \"chopped nuts\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Dissolve the cherry Jell-O in boiling water, stirring until completely dissolved.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the rest of the ingredients including the cranberry jellied sauce, crushed pineapple, chopped celery, and chopped nuts.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir well to combine and chill until set.\"\n    }\n  ]\n}"
 ---
 
 # Cranberry Salad
 
-> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Unattributed | 📂 **Category:** Salads
-> *A vibrant and refreshing holiday cranberry salad combining freshly ground cranberries, citrus, and crunchy nuts. This classic side dish balances tart fruits with sweet sugar and gelatin for a firm, chilled treat.*
+> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** N. Lake | 📂 **Category:** Salads
+> *A delightful and refreshing gelatin-based salad featuring sweet cherry jello, tart cranberry sauce, and crushed pineapple. Perfect for holiday dinners or festive gatherings.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 30 mins | 0 mins | Overnight | 8 servings |
+| 15 mins | 5 mins | 4 hours | 8 servings |
 
 ---
 
 ### 🔪 Key Equipment
-* Grinder or food processor
 * Mixing bowl
-* Molded dish or pan
+* Mold or 9x13 pan
 
 ---
 ## Ingredients
 
-### Primary Ingredients
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 1 qt | [[Cranberries]] | Grind |
-| 2 cups | [[Sugar]] |  |
-| 1 | [[Orange]] |  |
-| 2 cups | [[Apple]] | Diced |
-| 1 box | [[Lemon Jell-O]] |  |
-| 1 cup | [[Celery]] | Chopped |
-| 1/2 cup | [[Nuts]] | Chopped |
+| 2 packages | [[Cherry Jell-O]] | or gelatin dessert |
+| 2 cups | [[Boiling Water]] | hot |
+| 1 can | [[Cranberry Jellied Sauce]] | jelly |
+| 1 (No. 2) can | [[Crushed Pineapple]] | not drained |
+| to taste | [[Chopped Celery]] | freshly chopped |
+| to taste | [[Chopped Nuts]] | walnuts or pecans |
 
 ---
 
 ## Instructions
 
-### Step 1: Overnight Maceration
-1. Grind the **1 qt cranberries** and combine them with **2 cups sugar** in a mixing bowl.
-2. Let the **1 qt cranberries** and **2 cups sugar** mixture stand overnight to release juices and dissolve the sweetness.
-
-### Step 2: Assembly and Setting
-3. Prepare the **1 box lemon jell-O** according to package instructions.
-4. Stir in the prepared **1 orange**, **2 cups apple**, **1 cup celery**, and **1/2 cup nuts** into the gelatin mixture along with the cranberry mixture.
-5. Transfer to a mold or dish and chill until set firmly.
+### Step 1: Mixing and Chilling
+1. Dissolve the **2 packages cherry Jell-O** in the **2 cups boiling water**, stirring until completely dissolved.
+2. Add the rest of the ingredients including the **1 can cranberry jellied sauce**, **1 can crushed pineapple**, **chopped celery**, and **chopped nuts**.
+3. Stir well to combine and chill until set.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** This salad must be prepared a day in advance to allow the cranberries to stand overnight and the gelatin to set completely.
+> 💡 **Make-Ahead & Storage:** Can be prepared up to 2 days in advance and kept refrigerated until ready to serve.
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](/assets/scans/cranberry-salad-Scanned_20260802-1025-22.jpg.webp)
+![Original Handwritten Card](/assets/scans/cranberry-salad-Scanned_20260802-1017-31.jpg.webp)
 
