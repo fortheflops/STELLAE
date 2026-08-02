@@ -3,6 +3,7 @@ import glob
 import json
 import shutil
 import time
+from datetime import datetime
 from io import BytesIO
 from google import genai
 from google.genai import types
@@ -182,6 +183,9 @@ def process_intake():
 def save_and_archive(json_text, source_files, archive_name, collection_name, img_objects=None):
     data = json.loads(json_text)
     
+    # Generate today's date dynamically
+    current_date = datetime.now().strftime("%Y-%m-%d")
+    
     safe_title = data.get('title', 'Untitled Dish').strip()
     
     category = data.get('category', 'Other').strip().title()
@@ -248,7 +252,7 @@ collection: {json.dumps(collection_name)}
 source: {json.dumps(data.get('author', 'Unattributed'))}
 tags: {json.dumps(clean_tags)}
 description: {json.dumps(data.get('description', ''))}
-date: "2026-07-30"
+date: "{current_date}"
 draft: false
 recipe: {json.dumps(data.get('json_ld_schema', dict()))}
 ---
