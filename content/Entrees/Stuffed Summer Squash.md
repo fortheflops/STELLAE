@@ -1,13 +1,17 @@
 ---
-title: "Stuffed Summer Squash"
-category: "Entrees"
-collection: "UK2 Collection"
-source: "Unknown"
-tags: ["entree", "123", "squash", "stuffed", "comfortfood"]
-description: "A classic vintage recipe featuring tender summer squash hollowed out and stuffed with a savory mixture of seasoned ground beef and rice. Baked to perfection and finished with a rich topping of sour cream and tomato pulp."
-date: "2026-07-30"
+title: Stuffed Summer Squash
+category: Entrees
+collection: UK2 Collection
+source: Unknown
+tags:
+  - entree
+  - squash
+  - stuffed
+  - comfortfood
+description: A classic vintage recipe featuring tender summer squash hollowed out and stuffed with a savory mixture of seasoned ground beef and rice. Baked to perfection and finished with a rich topping of sour cream and tomato pulp.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org\", \"@type\": \"Recipe\", \"name\": \"Stuffed Summer Squash\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"recipeCategory\": \"Entrees\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT45M\", \"recipeYield\": \"6 servings\", \"recipeIngredient\": [\"2 Cups Cooked Rice\", \"1/2 Pound Hamburger\", \"6 Small Squash\", \"1 Cup Sour Cream\", \"1 Cup Water\", \"1 Cup Tomato Pulp\", \"Salt to taste\", \"Pepper to taste\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine rice, meat, salt, and pepper.\"}, {\"@type\": \"HowToStep\", \"text\": \"Peel squash unless very young and remove seeds from top.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stuff with rice and meat mixture.\"}, {\"@type\": \"HowToStep\", \"text\": \"Place in pan with water and bake until tender, basting frequently.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cover with cream and tomato pulp, then brown in the oven.\"}]}"
+recipe: '{"@context": "https://schema.org", "@type": "Recipe", "name": "Stuffed Summer Squash", "author": {"@type": "Person", "name": "Unknown"}, "recipeCategory": "Entrees", "prepTime": "PT20M", "cookTime": "PT45M", "recipeYield": "6 servings", "recipeIngredient": ["2 Cups Cooked Rice", "1/2 Pound Hamburger", "6 Small Squash", "1 Cup Sour Cream", "1 Cup Water", "1 Cup Tomato Pulp", "Salt to taste", "Pepper to taste"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine rice, meat, salt, and pepper."}, {"@type": "HowToStep", "text": "Peel squash unless very young and remove seeds from top."}, {"@type": "HowToStep", "text": "Stuff with rice and meat mixture."}, {"@type": "HowToStep", "text": "Place in pan with water and bake until tender, basting frequently."}, {"@type": "HowToStep", "text": "Cover with cream and tomato pulp, then brown in the oven."}]}'
 ---
 
 # Stuffed Summer Squash

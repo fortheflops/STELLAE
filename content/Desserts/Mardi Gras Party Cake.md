@@ -1,13 +1,68 @@
 ---
-title: "Mardi Gras Party Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cake", "butterscotch", "dessert", "123", "mardigras"]
-description: "A festive and flavorful butterscotch layer cake made with melted butterscotch morsels mixed directly into the batter for a rich, candy-like flavor. This vintage dessert yields two tender 8-inch cakes."
-date: "2026-07-30"
+title: Mardi Gras Party Cake
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cake
+  - butterscotch
+  - dessert
+  - mardigras
+description: A festive and flavorful butterscotch layer cake made with melted butterscotch morsels mixed directly into the batter for a rich, candy-like flavor. This vintage dessert yields two tender 8-inch cakes.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Mardi Gras Party Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A rich butterscotch-flavored layer cake made with melted butterscotch morsels mixed into the batter.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT30M\",\n  \"totalTime\": \"PT50M\",\n  \"recipeYield\": \"2 8-inch layers\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2/3 cup Nestle's Butterscotch Morsels\",\n    \"1/4 cup water\",\n    \"2 1/4 cups sifted all-purpose flour\",\n    \"1 teaspoon salt\",\n    \"1/2 teaspoon baking powder\",\n    \"1 teaspoon baking soda\",\n    \"1 1/4 cups sugar\",\n    \"1/2 cup shortening\",\n    \"3 large unbeaten eggs\",\n    \"1 cup milk\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 375\u00b0F. Grease and flour two 8-inch round cake pans. In a small saucepan, melt the butterscotch morsels with the 1/4 cup of water over low heat. Stir until smooth and set aside to cool.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, cream the shortening and sugar. Add the unbeaten eggs one at a time, beating well after each. Blend in the cooled, melted butterscotch mixture.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate bowl, sift together the flour, salt, baking powder, and baking soda.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the dry ingredients to the creamed mixture alternately with the milk, beginning and ending with the dry ingredients. Mix until just combined.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the batter evenly into the prepared pans and bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Mardi Gras Party Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A rich butterscotch-flavored layer cake made with melted butterscotch morsels mixed into the batter.",
+    "prepTime": "PT20M",
+    "cookTime": "PT30M",
+    "totalTime": "PT50M",
+    "recipeYield": "2 8-inch layers",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2/3 cup Nestle's Butterscotch Morsels",
+      "1/4 cup water",
+      "2 1/4 cups sifted all-purpose flour",
+      "1 teaspoon salt",
+      "1/2 teaspoon baking powder",
+      "1 teaspoon baking soda",
+      "1 1/4 cups sugar",
+      "1/2 cup shortening",
+      "3 large unbeaten eggs",
+      "1 cup milk"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375°F. Grease and flour two 8-inch round cake pans. In a small saucepan, melt the butterscotch morsels with the 1/4 cup of water over low heat. Stir until smooth and set aside to cool."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, cream the shortening and sugar. Add the unbeaten eggs one at a time, beating well after each. Blend in the cooled, melted butterscotch mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, sift together the flour, salt, baking powder, and baking soda."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the dry ingredients to the creamed mixture alternately with the milk, beginning and ending with the dry ingredients. Mix until just combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter evenly into the prepared pans and bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean."
+      }
+    ]
+  }
 ---
 
 # Mardi Gras Party Cake

@@ -1,13 +1,17 @@
 ---
-title: "Classic Divinity"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["candy", "123", "confection", "holiday", "classic"]
-description: "A classic, light, and fluffy confection made by pouring hot sugar syrup into stiffly beaten egg whites. This traditional candy is prized for its melt-in-your-mouth texture and firm, cloud-like shape."
-date: "2026-07-30"
+title: Classic Divinity
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - candy
+  - confection
+  - holiday
+  - classic
+description: A classic, light, and fluffy confection made by pouring hot sugar syrup into stiffly beaten egg whites. This traditional candy is prized for its melt-in-your-mouth texture and firm, cloud-like shape.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Divinity\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, light, and fluffy confection made by pouring hot sugar syrup into stiffly beaten egg whites.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT20M\", \"recipeYield\": \"3-4 dozen pieces\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"3 cups sugar\", \"1 cup Karo syrup\", \"1/2 cup water\", \"Dash of salt\", \"2 large egg whites\", \"1 teaspoon vanilla\", \"1 cup chopped nuts\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Divinity", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, light, and fluffy confection made by pouring hot sugar syrup into stiffly beaten egg whites.", "prepTime": "PT15M", "cookTime": "PT20M", "recipeYield": "3-4 dozen pieces", "recipeCategory": "Desserts", "recipeIngredient": ["3 cups sugar", "1 cup Karo syrup", "1/2 cup water", "Dash of salt", "2 large egg whites", "1 teaspoon vanilla", "1 cup chopped nuts"]}'
 ---
 
 # Classic Divinity

@@ -1,11 +1,16 @@
 ---
-title: "Impossible Pumpkin Pie (Crustless)"
-category: "Desserts"
-collection: "Patsy Collection"
-source: "Unknown"
-tags: ["dessert", "pie", "pumpkin", "crustless", "holiday", "123"]
-description: "A magical crustless pie from Patsy's collection that creates its own layers as it bakes! This Impossible Pie features a smooth, spiced pumpkin custard with a built-in graham cracker base."
-date: "2026-07-30"
+title: Impossible Pumpkin Pie (Crustless)
+category: Desserts
+collection: Patsy Collection
+source: Unknown
+tags:
+  - dessert
+  - pie
+  - pumpkin
+  - crustless
+  - holiday
+description: A magical crustless pie from Patsy's collection that creates its own layers as it bakes! This Impossible Pie features a smooth, spiced pumpkin custard with a built-in graham cracker base.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Impossible Pumpkin Pie (Crustless)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-14\", \"description\": \"A magical crustless pie from Patsy's collection that creates its own layers as it bakes! This 'Impossible Pie' features a smooth, spiced pumpkin custard with a built-in graham cracker base.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Pumpkin%20Pie/Assets/Handwritten_2025-01-30_124410.webp\", \"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Pumpkin%20Pie/Assets/Handwritten_2_2025-01-30_125151%20(2).webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT50M\", \"totalTime\": \"PT1H5M\", \"recipeYield\": \"One 9-inch pie\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 (16 oz) Can Solid Pack Pumpkin\", \"1 (12 oz) Can Evaporated Skim Milk\", \"2 Whole Eggs\", \"2 Egg Whites\", \"3/4 Cup Sugar\", \"1 tsp Ground Cinnamon\", \"1/4 tsp Ground Allspice\", \"1/4 tsp Ground Ginger\", \"1/8 tsp Salt\", \"1/2 Cup Graham-cracker Crumbs or Vanilla Wafer Crumbs\", \"Whipped Cream, for serving\"]}"
 ---

@@ -1,13 +1,18 @@
 ---
-title: "Tex's Hearty Argentinean Beef & Hominy Skillet"
-category: "Entrees"
-collection: "LouiseCollection"
-source: "Tex"
-tags: ["beef", "skillet", "argentinean", "hominy", "comfortfood", "123"]
-description: "A flavorful one-skillet meal featuring ground beef, kidney beans, and hominy saut\u00e9ed with onions, peppers, and savory herbs."
-date: "2026-07-30"
+title: Tex's Hearty Argentinean Beef & Hominy Skillet
+category: Entrees
+collection: LouiseCollection
+source: Tex
+tags:
+  - beef
+  - skillet
+  - argentinean
+  - hominy
+  - comfortfood
+description: A flavorful one-skillet meal featuring ground beef, kidney beans, and hominy sautéed with onions, peppers, and savory herbs.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Tex's Hearty Argentinean Beef & Hominy Skillet\",\"author\":{\"@type\":\"Person\",\"name\":\"Tex\"},\"datePublished\":\"2025-11-07\",\"description\":\"A flavorful one-skillet meal with ground beef, kidney beans, and hominy, all saut\u00e9ed with onions, peppers, and savory herbs.\",\"image\":[\"https://cucinamezzaluna.com/Entrees/Meat/Beef/Skillet/Assets/Handwritten_2025-05-13_102840.webp\",\"https://cucinamezzaluna.com/Entrees/Meat/Beef/Skillet/Assets/Handwritten_2025-05-13_102953 (2).webp\"],\"prepTime\":\"PT15M\",\"cookTime\":\"PT20M\",\"totalTime\":\"PT35M\",\"recipeYield\":\"4 servings\",\"recipeCategory\":\"Entree\",\"recipeCuisine\":\"Argentinean\",\"recipeIngredient\":[\"1 lb Lean Ground Beef\",\"3 med. Onions, Chopped coarse (1 1/2 C)\",\"1 large Green Pepper, diced coarse (1 C)\",\"1 t Salt\",\"1 t Basil (or 1/3 C Fresh Basil)\",\"1/2 t Ground Pepper\",\"1/4 t Sugar\",\"1/4 t Oregano\",\"1/8 t Crushed Red Pepper\",\"3 large cloves Garlic, crushed\",\"2 T Chopped Parsley\",\"1 sm. can (8 oz.) Red Kidney Beans, drained (reserve liquid)\",\"1 sm. can (8 oz.) Golden Hominy, drained\",\"Optional Garnish: Fresh Parsley sprigs or Basil sprigs\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In large heavy skillet over medium heat brown beef, stirring to break up.\"},{\"@type\":\"HowToStep\",\"text\":\"Add onions & green pepper. Saut\u00e9, stirring occasionally, just until vegetables are tender.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir in salt, basil, ground pepper, sugar, oregano, red pepper, garlic, chopped parsley, beans & hominy.\"},{\"@type\":\"HowToStep\",\"text\":\"Simmer uncovered, gradually adding about 1/2 C reserved bean liquid & stirring occasionally, 10 minutes or until flavors are blended. (If using fresh basil, stir in just before serving & heat through).\"},{\"@type\":\"HowToStep\",\"text\":\"Garnish with parsley sprigs.\"}]}"
+recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Tex's Hearty Argentinean Beef & Hominy Skillet\",\"author\":{\"@type\":\"Person\",\"name\":\"Tex\"},\"datePublished\":\"2025-11-07\",\"description\":\"A flavorful one-skillet meal with ground beef, kidney beans, and hominy, all sautéed with onions, peppers, and savory herbs.\",\"image\":[\"https://cucinamezzaluna.com/Entrees/Meat/Beef/Skillet/Assets/Handwritten_2025-05-13_102840.webp\",\"https://cucinamezzaluna.com/Entrees/Meat/Beef/Skillet/Assets/Handwritten_2025-05-13_102953 (2).webp\"],\"prepTime\":\"PT15M\",\"cookTime\":\"PT20M\",\"totalTime\":\"PT35M\",\"recipeYield\":\"4 servings\",\"recipeCategory\":\"Entree\",\"recipeCuisine\":\"Argentinean\",\"recipeIngredient\":[\"1 lb Lean Ground Beef\",\"3 med. Onions, Chopped coarse (1 1/2 C)\",\"1 large Green Pepper, diced coarse (1 C)\",\"1 t Salt\",\"1 t Basil (or 1/3 C Fresh Basil)\",\"1/2 t Ground Pepper\",\"1/4 t Sugar\",\"1/4 t Oregano\",\"1/8 t Crushed Red Pepper\",\"3 large cloves Garlic, crushed\",\"2 T Chopped Parsley\",\"1 sm. can (8 oz.) Red Kidney Beans, drained (reserve liquid)\",\"1 sm. can (8 oz.) Golden Hominy, drained\",\"Optional Garnish: Fresh Parsley sprigs or Basil sprigs\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In large heavy skillet over medium heat brown beef, stirring to break up.\"},{\"@type\":\"HowToStep\",\"text\":\"Add onions & green pepper. Sauté, stirring occasionally, just until vegetables are tender.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir in salt, basil, ground pepper, sugar, oregano, red pepper, garlic, chopped parsley, beans & hominy.\"},{\"@type\":\"HowToStep\",\"text\":\"Simmer uncovered, gradually adding about 1/2 C reserved bean liquid & stirring occasionally, 10 minutes or until flavors are blended. (If using fresh basil, stir in just before serving & heat through).\"},{\"@type\":\"HowToStep\",\"text\":\"Garnish with parsley sprigs.\"}]}"
 ---
 
 # Tex's Hearty Argentinean Beef & Hominy Skillet

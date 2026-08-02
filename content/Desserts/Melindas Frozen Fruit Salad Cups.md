@@ -1,11 +1,15 @@
 ---
-title: "Melinda's Frozen Fruit Salad Cups"
-category: "Desserts"
-collection: "UK15"
-source: "Melinda"
-tags: ["frozen", "fruit", "dessert", "123", "marshmallow"]
-description: "A delightful frozen fruit salad featuring a medley of strawberries, pineapple, apricots, and bananas held together by a sweet marshmallow syrup. These individual portions are perfect for easy serving and refreshing treats."
-date: "2026-07-30"
+title: Melinda's Frozen Fruit Salad Cups
+category: Desserts
+collection: UK15
+source: Melinda
+tags:
+  - frozen
+  - fruit
+  - dessert
+  - marshmallow
+description: A delightful frozen fruit salad featuring a medley of strawberries, pineapple, apricots, and bananas held together by a sweet marshmallow syrup. These individual portions are perfect for easy serving and refreshing treats.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Melinda's Frozen Fruit Salad Cups\", \"author\": {\"@type\": \"Person\", \"name\": \"Melinda\"}, \"description\": \"A delightful frozen fruit salad featuring a medley of strawberries, pineapple, apricots, and bananas held together by a sweet marshmallow syrup.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"24 individual servings\", \"recipeCategory\": \"Dessert\"}"
 ---

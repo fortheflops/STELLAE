@@ -1,11 +1,15 @@
 ---
-title: "Clarice's Tea Cakes"
-category: "Desserts"
-collection: "UK2"
-source: "Clarice"
-tags: ["teacakes", "dessert", "cookies", "southern", "123"]
-description: "A classic Southern-style tea cake featuring a soft, rolled cookie with a rich butter dough and cake-like texture. These traditional sweets are finished with a hint of vanilla and baked until just golden."
-date: "2026-07-30"
+title: Clarice's Tea Cakes
+category: Desserts
+collection: UK2
+source: Clarice
+tags:
+  - teacakes
+  - dessert
+  - cookies
+  - southern
+description: A classic Southern-style tea cake featuring a soft, rolled cookie with a rich butter dough and cake-like texture. These traditional sweets are finished with a hint of vanilla and baked until just golden.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Clarice's Tea Cakes\", \"author\": {\"@type\": \"Person\", \"name\": \"Clarice\"}, \"datePublished\": \"2025-10-06\", \"description\": \"A classic Southern-style tea cake, which is a soft, rolled cookie with a cake-like texture.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Tea-Cakes/Assets/Handwritten_2025-02-24_091406.webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT10M\", \"totalTime\": \"PT30M\", \"recipeYield\": \"3-4 dozen cookies\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American Southern\", \"recipeIngredient\": [\"1 cup butter or margarine, softened\", \"1 1/2 cups sugar\", \"2 large eggs\", \"3 cups all-purpose flour\", \"1 teaspoon baking soda\", \"1 pinch salt\", \"1 teaspoon vanilla\", \"2 tablespoons milk or buttermilk\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 375F. In a large bowl, cream the butter and sugar until creamy. Beat in the eggs one at a time.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a separate bowl, whisk together the flour, baking soda, and salt.\"}, {\"@type\": \"HowToStep\", \"text\": \"Gradually add the dry ingredients to the creamed mixture, along with the milk and vanilla, mixing until a stiff dough forms.\"}, {\"@type\": \"HowToStep\", \"text\": \"On a floured surface, knead the dough gently, then roll it out to about 1/4-inch thickness.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cut out rounds with a cookie cutter and place them on an ungreased cookie sheet.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake for 8-10 minutes, or until the edges are lightly golden. Do not overbake.\"}]}"
 ---

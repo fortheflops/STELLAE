@@ -1,13 +1,16 @@
 ---
-title: "The Purpose Of Mezzaluna"
-category: "Basics"
-collection: "General Archive"
-source: "Founder"
-tags: ["philosophy", "food-history", "education", "123"]
-description: "An archival exploration of the philosophy behind Cucina Mezzaluna. Discover how food history serves as an educational resource reflecting human culture, economics, and shared stories."
-date: "2026-07-24"
+title: The Purpose Of Mezzaluna
+category: Basics
+collection: General Archive
+source: Founder
+tags:
+  - philosophy
+  - food-history
+  - education
+description: An archival exploration of the philosophy behind Cucina Mezzaluna. Discover how food history serves as an educational resource reflecting human culture, economics, and shared stories.
+date: 2026-07-24
 draft: false
-recipe: "{\"@context\": \"https://schema.org\", \"@type\": \"Recipe\", \"name\": \"The Purpose of Mezzaluna\", \"author\": {\"@type\": \"Person\", \"name\": \"Founder\"}, \"description\": \"An archival exploration of the philosophy behind Cucina Mezzaluna.\", \"recipeCategory\": \"Basics\", \"recipeIngredient\": [\"1 Part Food History\", \"A Dash Economics\", \"Generous Portion Passion\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine 1 Part Food History with A Dash of Economics to uncover the stories of how people lived, worked, and shared meals.\"}, {\"@type\": \"HowToStep\", \"text\": \"Infuse with a Generous Portion of Passion to build an educational resource rich in historical context.\"}, {\"@type\": \"HowToStep\", \"text\": \"Serve this accessible history to everyone, fostering a connection between culture and the modern table.\"}]}"
+recipe: '{"@context": "https://schema.org", "@type": "Recipe", "name": "The Purpose of Mezzaluna", "author": {"@type": "Person", "name": "Founder"}, "description": "An archival exploration of the philosophy behind Cucina Mezzaluna.", "recipeCategory": "Basics", "recipeIngredient": ["1 Part Food History", "A Dash Economics", "Generous Portion Passion"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine 1 Part Food History with A Dash of Economics to uncover the stories of how people lived, worked, and shared meals."}, {"@type": "HowToStep", "text": "Infuse with a Generous Portion of Passion to build an educational resource rich in historical context."}, {"@type": "HowToStep", "text": "Serve this accessible history to everyone, fostering a connection between culture and the modern table."}]}'
 ---
 
 # The Purpose Of Mezzaluna

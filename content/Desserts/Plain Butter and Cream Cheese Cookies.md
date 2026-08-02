@@ -1,13 +1,18 @@
 ---
-title: "Plain Butter and Cream Cheese Cookies"
-category: "Desserts"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["cookies", "butter", "creamcheese", "orange", "123", "dessert"]
-description: "These tender, tangy drop cookies feature a delicate balance of butter and cream cheese infused with bright orange zest. They are a perfect, soft-textured treat that can be customized with optional chocolate chips."
-date: "2026-07-30"
+title: Plain Butter and Cream Cheese Cookies
+category: Desserts
+collection: Jill Collection
+source: Unknown
+tags:
+  - cookies
+  - butter
+  - creamcheese
+  - orange
+  - dessert
+description: These tender, tangy drop cookies feature a delicate balance of butter and cream cheese infused with bright orange zest. They are a perfect, soft-textured treat that can be customized with optional chocolate chips.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Plain Butter and Cream Cheese Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A simple drop cookie made with butter and cream cheese for a tender, tangy texture, flavored with orange rind and extract.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"2-3 dozen cookies\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Plain Butter and Cream Cheese Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A simple drop cookie made with butter and cream cheese for a tender, tangy texture, flavored with orange rind and extract.", "prepTime": "PT15M", "cookTime": "PT15M", "recipeYield": "2-3 dozen cookies", "recipeCategory": "Dessert"}'
 ---
 
 # Plain Butter and Cream Cheese Cookies

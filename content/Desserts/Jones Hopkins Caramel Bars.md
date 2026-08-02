@@ -1,11 +1,17 @@
 ---
-title: "Jones Hopkins' Caramel Bars"
-category: "Desserts"
-collection: "UK2"
-source: "Jones Hopkins"
-tags: ["carmelitas", "oatbars", "caramel", "chocolate", "walnuts", "123", "dessert"]
-description: "A classic recipe for rich and gooey caramel bars featuring a buttery oat crust layered with melted caramel, chocolate chips, and walnuts. These indulgent bars are a perfect treat for any occasion."
-date: "2026-07-30"
+title: Jones Hopkins' Caramel Bars
+category: Desserts
+collection: UK2
+source: Jones Hopkins
+tags:
+  - carmelitas
+  - oatbars
+  - caramel
+  - chocolate
+  - walnuts
+  - dessert
+description: A classic recipe for rich and gooey caramel bars featuring a buttery oat crust layered with melted caramel, chocolate chips, and walnuts. These indulgent bars are a perfect treat for any occasion.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Jones Hopkins' Caramel Bars\", \"author\": {\"@type\": \"Person\", \"name\": \"Jones Hopkins\"}, \"description\": \"A classic recipe for rich and gooey caramel bars featuring a buttery oat crust layered with melted caramel, chocolate chips, and walnuts.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT35M\", \"recipeYield\": \"54 bars\", \"recipeCategory\": \"Dessert\"}"
 ---

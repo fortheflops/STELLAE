@@ -1,13 +1,18 @@
 ---
-title: "Applesauce Spice Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cake", "applesauce", "spicecake", "123", "loafcake", "dessert"]
-description: "A wonderfully moist and fragrant spice cake made with applesauce, brown sugar, raisins, and nuts. This simple loaf cake is packed with the warm flavors of cinnamon, nutmeg, and cloves."
-date: "2026-07-30"
+title: Applesauce Spice Cake
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cake
+  - applesauce
+  - spicecake
+  - loafcake
+  - dessert
+description: A wonderfully moist and fragrant spice cake made with applesauce, brown sugar, raisins, and nuts. This simple loaf cake is packed with the warm flavors of cinnamon, nutmeg, and cloves.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Applesauce Spice Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A wonderfully moist and fragrant spice cake made with applesauce, brown sugar, raisins, and nuts.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT60M\", \"recipeYield\": \"1 loaf\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Applesauce Spice Cake", "author": {"@type": "Person", "name": "Unknown"}, "description": "A wonderfully moist and fragrant spice cake made with applesauce, brown sugar, raisins, and nuts.", "prepTime": "PT15M", "cookTime": "PT60M", "recipeYield": "1 loaf", "recipeCategory": "Dessert"}'
 ---
 
 # Applesauce Spice Cake

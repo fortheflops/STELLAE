@@ -1,11 +1,17 @@
 ---
-title: "Linda Brown's Millionaires (Turtles)"
-category: "Desserts"
-collection: "UK3 Collection"
-source: "Linda Brown"
-tags: ["dessert", "candy", "turtles", "chocolate", "caramel", "pecans", "123"]
-description: "A rich, classic candy featuring chewy caramel and pecan clusters dipped in smooth chocolate. This elegant homemade confection is a timeless holiday favorite."
-date: "2026-07-30"
+title: Linda Brown's Millionaires (Turtles)
+category: Desserts
+collection: UK3 Collection
+source: Linda Brown
+tags:
+  - dessert
+  - candy
+  - turtles
+  - chocolate
+  - caramel
+  - pecans
+description: A rich, classic candy featuring chewy caramel and pecan clusters dipped in smooth chocolate. This elegant homemade confection is a timeless holiday favorite.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Linda Brown's Millionaires (Turtles)\", \"author\": {\"@type\": \"Person\", \"name\": \"Linda Brown\"}, \"datePublished\": \"2025-10-07\", \"description\": \"A classic recipe for homemade 'Turtles' candy, featuring caramel-pecan clusters dipped in chocolate.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Confections/Candy/Turtles/Assets/Handwritten_2025-04-17_115722.webp\", \"https://cucinamezzaluna.com/Desserts/Confections/Candy/Turtles/Assets/Handwritten_2025-04-17_120041%20(2).webp\"], \"prepTime\": \"PT30M\", \"cookTime\": \"PT10M\", \"totalTime\": \"PT1H30M\", \"recipeYield\": \"Approx. 3 1/2 dozen\", \"recipeCategory\": \"Candy\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 (14-ounce) package caramels, unwrapped\", \"3 tablespoons evaporated milk\", \"2 cups pecan pieces\", \"1 (12-ounce) package plus 1/2 cup (18 ounces total) semi-sweet chocolate chips\", \"1-2 tablespoons shortening or coconut oil\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Line a cookie sheet with buttered waxed paper. In a double boiler, melt the caramels with the evaporated milk over low heat, stirring until smooth.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in the pecan pieces.\"}, {\"@type\": \"HowToStep\", \"text\": \"Drop the mixture by teaspoonfuls onto the prepared waxed paper and let cool for at least 30 minutes until firm.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a clean double boiler, melt the chocolate chips with the shortening or coconut oil until smooth.\"}, {\"@type\": \"HowToStep\", \"text\": \"Using a spoon and toothpick, dip each caramel-pecan cluster into the melted chocolate to coat. Tap off the excess chocolate.\"}, {\"@type\": \"HowToStep\", \"text\": \"Return the coated candies to the waxed paper and let them cool completely until the chocolate is hard.\"}]}"
 ---

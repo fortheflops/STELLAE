@@ -1,13 +1,17 @@
 ---
-title: "Classic Orange Julius"
-category: "Beverages"
-collection: "UK2"
-source: "Unknown"
-tags: ["beverage", "smoothie", "123", "refreshing", "drink"]
-description: "A nostalgic and frothy blended drink combining frozen orange juice concentrate, milk, and vanilla for a creamy treat."
-date: "2026-07-30"
+title: Classic Orange Julius
+category: Beverages
+collection: UK2
+source: Unknown
+tags:
+  - beverage
+  - smoothie
+  - refreshing
+  - drink
+description: A nostalgic and frothy blended drink combining frozen orange juice concentrate, milk, and vanilla for a creamy treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Orange Julius\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A quick and easy recipe for a creamy, frothy Orange Julius, made by blending frozen orange juice concentrate with milk, sugar, vanilla, and ice.\", \"prepTime\": \"PT2M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT2M\", \"recipeYield\": \"2 servings\", \"recipeCategory\": \"Beverages\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3 oz Frozen Orange Juice concentrate (half a 6-oz can)\", \"1/2 cup Milk\", \"1/2 cup Water\", \"1/4 cup Sugar\", \"1/2 tsp Vanilla\", \"5-6 Ice Cubes\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine the frozen orange juice concentrate, milk, water, sugar, vanilla, and ice cubes in a blender.\"}, {\"@type\": \"HowToStep\", \"text\": \"Blend on high speed for about 30 seconds, or until the mixture is smooth and frothy.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour into chilled glasses and serve immediately.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Orange Julius", "author": {"@type": "Person", "name": "Unknown"}, "description": "A quick and easy recipe for a creamy, frothy Orange Julius, made by blending frozen orange juice concentrate with milk, sugar, vanilla, and ice.", "prepTime": "PT2M", "cookTime": "PT0M", "totalTime": "PT2M", "recipeYield": "2 servings", "recipeCategory": "Beverages", "recipeCuisine": "American", "recipeIngredient": ["3 oz Frozen Orange Juice concentrate (half a 6-oz can)", "1/2 cup Milk", "1/2 cup Water", "1/4 cup Sugar", "1/2 tsp Vanilla", "5-6 Ice Cubes"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine the frozen orange juice concentrate, milk, water, sugar, vanilla, and ice cubes in a blender."}, {"@type": "HowToStep", "text": "Blend on high speed for about 30 seconds, or until the mixture is smooth and frothy."}, {"@type": "HowToStep", "text": "Pour into chilled glasses and serve immediately."}]}'
 ---
 
 # Classic Orange Julius

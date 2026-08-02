@@ -1,11 +1,16 @@
 ---
-title: "Impossible Pumpkin Pie"
-category: "Desserts"
-collection: "PatsyCollection"
-source: "Unknown"
-tags: ["patsycollection", "dessert", "pie", "pumpkin", "baking", "123"]
-description: "A magical crustless pie from Patsy's collection that creates its own golden crust as it bakes! This clever 'Impossible Pie' uses Bisquick to form a seamless base for a smooth, richly spiced pumpkin custard."
-date: "2026-07-30"
+title: Impossible Pumpkin Pie
+category: Desserts
+collection: PatsyCollection
+source: Unknown
+tags:
+  - patsycollection
+  - dessert
+  - pie
+  - pumpkin
+  - baking
+description: A magical crustless pie from Patsy's collection that creates its own golden crust as it bakes! This clever 'Impossible Pie' uses Bisquick to form a seamless base for a smooth, richly spiced pumpkin custard.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Impossible Pumpkin Pie\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-14\", \"description\": \"A magical crustless pie that creates its own crust as it bakes! This 'Impossible Pie' uses Bisquick to form a base for the smooth, spiced pumpkin custard.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Pumpkin%20Pie/Assets/Handwritten_2025-01-30_123845.webp\", \"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Pumpkin%20Pie/Assets/Handwritten_2025-01-30_123940%20(2).webp\"], \"prepTime\": \"PT10M\", \"cookTime\": \"PT55M\", \"totalTime\": \"PT1H5M\", \"recipeYield\": \"One 9 or 10-inch pie\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3/4 Cup Sugar\", \"1/2 Cup Bisquick baking mix\", \"2 Tbsp Oleo or butter, softened\", \"1 Can (13oz) Evaporated Milk\", \"2 Eggs\", \"1 Can (16oz) Pumpkin puree\", \"2 tsp Vanilla\", \"2 tsp Pumpkin Pie Spice OR a mix of 1/2 tsp Cinnamon, 1/2 tsp Nutmeg, and 1/8 tsp Cloves\"]}"
 ---

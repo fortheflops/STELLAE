@@ -1,13 +1,54 @@
 ---
-title: "A Cake for All Seasons (Bourbon Fruitcake)"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "cake", "fruitcake", "bourbon", "123", "holiday", "baking"]
-description: "A rich, classic fruitcake featuring walnuts, cherries, and raisins soaked in bourbon, baked into a dense, buttery cake, and aged in a bourbon-soaked cheesecloth."
-date: "2026-07-30"
+title: A Cake for All Seasons (Bourbon Fruitcake)
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - fruitcake
+  - bourbon
+  - holiday
+  - baking
+description: A rich, classic fruitcake featuring walnuts, cherries, and raisins soaked in bourbon, baked into a dense, buttery cake, and aged in a bourbon-soaked cheesecloth.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"A Cake for All Seasons (Bourbon Fruitcake)\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A traditional, dense fruitcake where the fruits and nuts are soaked overnight in bourbon. The finished cake is aged in a bourbon-soaked cheesecloth to mellow and develop flavor.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit-Cake/Assets/Handwritten_2025-02-27_110605.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit-Cake/Assets/Handwritten_2025-02-27_110713%20(2).webp\"\n  ],\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT1H20M\",\n  \"totalTime\": \"P1DT1H50M\",\n  \"recipeYield\": \"1 10-inch tube cake\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 cups chopped walnuts or pecans\",\n    \"1 (3.5-ounce) jar candied red cherries, quartered\",\n    \"2 cups light or dark raisins\",\n    \"1 cup bourbon, divided\",\n    \"3 1/2 cups sifted all-purpose flour\",\n    \"1 1/2 teaspoons baking powder\",\n    \"1/2 teaspoon salt\",\n    \"1 teaspoon nutmeg\",\n    \"1 1/2 cups (3 sticks) butter or margarine, softened\",\n    \"2 cups sugar\",\n    \"1 teaspoon vanilla\",\n    \"7 large eggs\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "A Cake for All Seasons (Bourbon Fruitcake)",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A traditional, dense fruitcake where the fruits and nuts are soaked overnight in bourbon. The finished cake is aged in a bourbon-soaked cheesecloth to mellow and develop flavor.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit-Cake/Assets/Handwritten_2025-02-27_110605.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit-Cake/Assets/Handwritten_2025-02-27_110713%20(2).webp"
+    ],
+    "prepTime": "PT30M",
+    "cookTime": "PT1H20M",
+    "totalTime": "P1DT1H50M",
+    "recipeYield": "1 10-inch tube cake",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 cups chopped walnuts or pecans",
+      "1 (3.5-ounce) jar candied red cherries, quartered",
+      "2 cups light or dark raisins",
+      "1 cup bourbon, divided",
+      "3 1/2 cups sifted all-purpose flour",
+      "1 1/2 teaspoons baking powder",
+      "1/2 teaspoon salt",
+      "1 teaspoon nutmeg",
+      "1 1/2 cups (3 sticks) butter or margarine, softened",
+      "2 cups sugar",
+      "1 teaspoon vanilla",
+      "7 large eggs"
+    ]
+  }
 ---
 
 # A Cake for All Seasons (Bourbon Fruitcake)

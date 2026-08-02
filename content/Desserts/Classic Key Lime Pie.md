@@ -1,13 +1,17 @@
 ---
-title: "Classic Key Lime Pie"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["dessert", "pie", "keylime", "baking", "123"]
-description: "A classic and straightforward recipe for a tangy and creamy baked Key Lime Pie, featuring a simple filling of egg yolks, sweetened condensed milk, and fresh lime juice in a ready-made graham cracker crust."
-date: "2026-07-30"
+title: Classic Key Lime Pie
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - dessert
+  - pie
+  - keylime
+  - baking
+description: A classic and straightforward recipe for a tangy and creamy baked Key Lime Pie, featuring a simple filling of egg yolks, sweetened condensed milk, and fresh lime juice in a ready-made graham cracker crust.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Key Lime Pie\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-13\", \"description\": \"A classic and straightforward recipe for a tangy and creamy baked Key Lime Pie, featuring a simple filling of egg yolks, sweetened condensed milk, and fresh lime juice in a ready-made graham cracker crust.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT35M\", \"totalTime\": \"PT45M\", \"recipeYield\": \"One 8-inch pie\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 (8-inch) ready-made Graham Cracker Crust\", \"4 large Egg Yolks\", \"1 (14 ounce) can Fat-free Sweetened Condensed Skim Milk\", \"1 teaspoon fresh grated Lime Peel\", \"1/2 cup + 1 tablespoon Lime Juice\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Key Lime Pie", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-13", "description": "A classic and straightforward recipe for a tangy and creamy baked Key Lime Pie, featuring a simple filling of egg yolks, sweetened condensed milk, and fresh lime juice in a ready-made graham cracker crust.", "prepTime": "PT10M", "cookTime": "PT35M", "totalTime": "PT45M", "recipeYield": "One 8-inch pie", "recipeCategory": "Dessert", "recipeCuisine": "American", "recipeIngredient": ["1 (8-inch) ready-made Graham Cracker Crust", "4 large Egg Yolks", "1 (14 ounce) can Fat-free Sweetened Condensed Skim Milk", "1 teaspoon fresh grated Lime Peel", "1/2 cup + 1 tablespoon Lime Juice"]}'
 ---
 
 # Classic Key Lime Pie

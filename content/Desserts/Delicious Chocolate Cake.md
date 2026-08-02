@@ -1,13 +1,48 @@
 ---
-title: "Delicious Chocolate Cake"
-category: "Desserts"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["dessert", "cake", "chocolate", "baking", "123"]
-description: "A rich, classic chocolate layer cake featuring a tender crumb and deep flavor from melted unsweetened chocolate. Made with buttermilk and finished with a light, fluffy texture."
-date: "2026-07-30"
+title: Delicious Chocolate Cake
+category: Desserts
+collection: Jill Collection
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - chocolate
+  - baking
+description: A rich, classic chocolate layer cake featuring a tender crumb and deep flavor from melted unsweetened chocolate. Made with buttermilk and finished with a light, fluffy texture.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Delicious Chocolate Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-08-08\",\n  \"description\": \"A rich, from-scratch chocolate layer cake with a tender crumb, made with melted unsweetened chocolate and buttermilk.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Chocolate-Cake/Layer-Cake/Assets/Delicious%20Chocolate%20Cake%20JC-1754694553454.webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT35M\",\n  \"totalTime\": \"PT55M\",\n  \"recipeYield\": \"1 2-layer 9-inch cake\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 1/2 cups all-purpose flour\",\n    \"1 teaspoon baking soda\",\n    \"1/2 teaspoon salt\",\n    \"1 cup butter, softened\",\n    \"2 cups sugar\",\n    \"5 large eggs, well beaten\",\n    \"3 ounces unsweetened chocolate, melted and cooled\",\n    \"1 cup sour milk or buttermilk\",\n    \"2 teaspoons vanilla extract\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Delicious Chocolate Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-08-08",
+    "description": "A rich, from-scratch chocolate layer cake with a tender crumb, made with melted unsweetened chocolate and buttermilk.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Chocolate-Cake/Layer-Cake/Assets/Delicious%20Chocolate%20Cake%20JC-1754694553454.webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT35M",
+    "totalTime": "PT55M",
+    "recipeYield": "1 2-layer 9-inch cake",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 1/2 cups all-purpose flour",
+      "1 teaspoon baking soda",
+      "1/2 teaspoon salt",
+      "1 cup butter, softened",
+      "2 cups sugar",
+      "5 large eggs, well beaten",
+      "3 ounces unsweetened chocolate, melted and cooled",
+      "1 cup sour milk or buttermilk",
+      "2 teaspoons vanilla extract"
+    ]
+  }
 ---
 
 # Delicious Chocolate Cake

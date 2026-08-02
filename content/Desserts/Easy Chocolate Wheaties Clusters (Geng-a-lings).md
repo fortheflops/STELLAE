@@ -1,13 +1,18 @@
 ---
-title: "Easy Chocolate Wheaties Clusters (Geng-a-lings)"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["nobake", "cookies", "chocolate", "123", "cereal", "easy"]
-description: "A simple and crunchy no-bake treat featuring chocolate-coated cereal clusters. These classic Geng-a-lings are the perfect quick dessert for any occasion."
-date: "2026-07-30"
+title: Easy Chocolate Wheaties Clusters (Geng-a-lings)
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - nobake
+  - cookies
+  - chocolate
+  - cereal
+  - easy
+description: A simple and crunchy no-bake treat featuring chocolate-coated cereal clusters. These classic Geng-a-lings are the perfect quick dessert for any occasion.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Easy Chocolate Wheaties Clusters (Geng-a-lings)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A simple and crunchy no-bake treat featuring chocolate-coated cereal clusters.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"2-3 dozen\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"4 Cups Wheaties\", \"1 (12 Ounce) Package Chocolate Chips\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Easy Chocolate Wheaties Clusters (Geng-a-lings)", "author": {"@type": "Person", "name": "Unknown"}, "description": "A simple and crunchy no-bake treat featuring chocolate-coated cereal clusters.", "prepTime": "PT10M", "cookTime": "PT5M", "recipeYield": "2-3 dozen", "recipeCategory": "Desserts", "recipeIngredient": ["4 Cups Wheaties", "1 (12 Ounce) Package Chocolate Chips"]}'
 ---
 
 # Easy Chocolate Wheaties Clusters (Geng-a-lings)

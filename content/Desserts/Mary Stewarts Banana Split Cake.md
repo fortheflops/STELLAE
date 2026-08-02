@@ -1,11 +1,15 @@
 ---
-title: "Mary Stewart's Banana Split Cake"
-category: "Desserts"
-collection: "UK5"
-source: "Mary Stewart"
-tags: ["cake", "bananasplit", "dessert", "layered", "123"]
-description: "A spectacular layered dessert featuring a yellow cake base topped with fresh fruit, creamy pudding, and whipped topping. This nostalgic treat captures all the classic flavors of a banana split in a crowd-pleasing cake."
-date: "2026-07-30"
+title: Mary Stewart's Banana Split Cake
+category: Desserts
+collection: UK5
+source: Mary Stewart
+tags:
+  - cake
+  - bananasplit
+  - dessert
+  - layered
+description: A spectacular layered dessert featuring a yellow cake base topped with fresh fruit, creamy pudding, and whipped topping. This nostalgic treat captures all the classic flavors of a banana split in a crowd-pleasing cake.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Mary Stewart's Banana Split Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Mary Stewart\"}, \"prepTime\": \"PT25M\", \"cookTime\": \"PT35M\", \"recipeYield\": \"15-20 servings\", \"recipeCategory\": \"Dessert\"}"
 ---

@@ -1,13 +1,18 @@
 ---
-title: "Strawberry Cake with Strawberry Frosting"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "cake", "strawberry", "frosting", "123", "layercake"]
-description: "A wonderfully moist and flavorful strawberry layer cake made easy with a white cake mix and strawberry Jello. The simple but delicious frosting is made using the reserved juice from the thawed strawberries."
-date: "2026-07-30"
+title: Strawberry Cake with Strawberry Frosting
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - strawberry
+  - frosting
+  - layercake
+description: A wonderfully moist and flavorful strawberry layer cake made easy with a white cake mix and strawberry Jello. The simple but delicious frosting is made using the reserved juice from the thawed strawberries.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Strawberry Cake with Strawberry Frosting\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-05\", \"description\": \"An easy and vibrant strawberry layer cake using a doctored cake mix and Jello, with a simple frosting made from reserved strawberry juice.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Strawberry/Assets/2025-04-21_095138.webp\", \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Strawberry/Assets/Handwritten_2025-04-21_100109.webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT40M\", \"totalTime\": \"PT1H\", \"recipeYield\": \"1 2-layer cake\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Strawberry Cake with Strawberry Frosting", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-05", "description": "An easy and vibrant strawberry layer cake using a doctored cake mix and Jello, with a simple frosting made from reserved strawberry juice.", "image": ["https://cucinamezzaluna.com/Desserts/Cake/Fruit/Strawberry/Assets/2025-04-21_095138.webp", "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Strawberry/Assets/Handwritten_2025-04-21_100109.webp"], "prepTime": "PT20M", "cookTime": "PT40M", "totalTime": "PT1H", "recipeYield": "1 2-layer cake", "recipeCategory": "Dessert", "recipeCuisine": "American"}'
 ---
 
 # Strawberry Cake with Strawberry Frosting

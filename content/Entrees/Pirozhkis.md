@@ -1,13 +1,17 @@
 ---
-title: "Pirozhkis"
-category: "Entrees"
-collection: "UK2"
-source: "Unknown"
-tags: ["handpies", "pie", "pastry", "baked", "123"]
-description: "Delightful handheld Russian pastries with a flaky sour cream crust, adaptable with savory meat and onion or sweet fruit fillings. Baked to golden perfection at high heat for a crisp texture."
-date: "2026-07-30"
+title: Pirozhkis
+category: Entrees
+collection: UK2
+source: Unknown
+tags:
+  - handpies
+  - pie
+  - pastry
+  - baked
+description: Delightful handheld Russian pastries with a flaky sour cream crust, adaptable with savory meat and onion or sweet fruit fillings. Baked to golden perfection at high heat for a crisp texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Pirozhkis\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-02-09\", \"description\": \"Delightful handheld Russian pastries with a flaky sour cream crust, adaptable with savory meat and onion or sweet fruit fillings.\", \"prepTime\": \"PT45M\", \"cookTime\": \"PT15M\", \"totalTime\": \"PT1H30M\", \"recipeYield\": \"12-16 servings\", \"recipeCategory\": \"Entrees\", \"recipeCuisine\": \"Eastern European\", \"recipeIngredient\": [\"1/2 Cup Butter\", \"1/2 Pint Sour Cream\", \"1 Egg\", \"Flour\", \"1 tsp Baking Powder\", \"Salt\", \"1 Egg, Beaten\", \"Meat\", \"Onions\", \"Apples\", \"Raisins\", \"Cinnamon\", \"Sugar\", \"Fruit Conserve\", \"Nuts\", \"Fruits\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine butter, sour cream, and whole egg.\"}, {\"@type\": \"HowToStep\", \"text\": \"Sift flour, baking powder, and salt.\"}, {\"@type\": \"HowToStep\", \"text\": \"Use enough flour to thicken the mixture so that it can be rolled very thin.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cut rings 2 1/2 inches in diameter.\"}, {\"@type\": \"HowToStep\", \"text\": \"Put teaspoon of filling on each - fold over & pinch edges together.\"}, {\"@type\": \"HowToStep\", \"text\": \"Paint with beaten egg & bake 425 degrees on well greased pan until golden brown.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Pirozhkis", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-02-09", "description": "Delightful handheld Russian pastries with a flaky sour cream crust, adaptable with savory meat and onion or sweet fruit fillings.", "prepTime": "PT45M", "cookTime": "PT15M", "totalTime": "PT1H30M", "recipeYield": "12-16 servings", "recipeCategory": "Entrees", "recipeCuisine": "Eastern European", "recipeIngredient": ["1/2 Cup Butter", "1/2 Pint Sour Cream", "1 Egg", "Flour", "1 tsp Baking Powder", "Salt", "1 Egg, Beaten", "Meat", "Onions", "Apples", "Raisins", "Cinnamon", "Sugar", "Fruit Conserve", "Nuts", "Fruits"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine butter, sour cream, and whole egg."}, {"@type": "HowToStep", "text": "Sift flour, baking powder, and salt."}, {"@type": "HowToStep", "text": "Use enough flour to thicken the mixture so that it can be rolled very thin."}, {"@type": "HowToStep", "text": "Cut rings 2 1/2 inches in diameter."}, {"@type": "HowToStep", "text": "Put teaspoon of filling on each - fold over & pinch edges together."}, {"@type": "HowToStep", "text": "Paint with beaten egg & bake 425 degrees on well greased pan until golden brown."}]}'
 ---
 
 # Pirozhkis

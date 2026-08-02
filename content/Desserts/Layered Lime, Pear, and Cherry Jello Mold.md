@@ -1,13 +1,18 @@
 ---
-title: "Layered Lime, Pear, and Cherry Jello Mold"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["dessert", "123", "jello", "fruit", "holiday", "retro"]
-description: "A beautiful two-layer vintage Jello mold featuring a decorative base of pears and cherries in clear lime Jello, topped with a smooth, tangy lime and cream cheese mousse."
-date: "2026-07-30"
+title: Layered Lime, Pear, and Cherry Jello Mold
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - dessert
+  - jello
+  - fruit
+  - holiday
+  - retro
+description: A beautiful two-layer vintage Jello mold featuring a decorative base of pears and cherries in clear lime Jello, topped with a smooth, tangy lime and cream cheese mousse.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Layered Lime, Pear, and Cherry Jello Mold\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-13\", \"description\": \"A beautiful two-layer Jello mold featuring a decorative base of pears and cherries in clear lime Jello, topped with a smooth, tangy lime and cream cheese mousse.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Fruit%20Based%20Desserts/Salad/Jello%20Salad/Lime/Assets/Handwritten_2025-05-21_131054.webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT5M\", \"totalTime\": \"PT25M\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 (6 ounce) package Lime Jello\", \"1 (8 ounce) package Philadelphia Cream Cheese, softened\", \"1 large can pears, halved (juice reserved)\", \"1 jar maraschino cherries\", \"1 teaspoon oil\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Layered Lime, Pear, and Cherry Jello Mold", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-13", "description": "A beautiful two-layer Jello mold featuring a decorative base of pears and cherries in clear lime Jello, topped with a smooth, tangy lime and cream cheese mousse.", "image": ["https://cucinamezzaluna.com/Desserts/Fruit%20Based%20Desserts/Salad/Jello%20Salad/Lime/Assets/Handwritten_2025-05-21_131054.webp"], "prepTime": "PT20M", "cookTime": "PT5M", "totalTime": "PT25M", "recipeYield": "8-10 servings", "recipeCategory": "Dessert", "recipeCuisine": "American", "recipeIngredient": ["1 (6 ounce) package Lime Jello", "1 (8 ounce) package Philadelphia Cream Cheese, softened", "1 large can pears, halved (juice reserved)", "1 jar maraschino cherries", "1 teaspoon oil"]}'
 ---
 
 # Layered Lime, Pear, and Cherry Jello Mold

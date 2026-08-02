@@ -1,11 +1,15 @@
 ---
-title: "Margaret's Banana Nut Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Margaret"
-tags: ["bananacake", "nutcake", "123", "largebatch", "comfortfood"]
-description: "A rich, moist, and large-batch banana nut cake featuring six ripe bananas and a tender buttermilk crumb. This dense, flavorful loaf is perfect for sharing and keeps exceptionally well."
-date: "2026-07-30"
+title: Margaret's Banana Nut Cake
+category: Desserts
+collection: UK2
+source: Margaret
+tags:
+  - bananacake
+  - nutcake
+  - largebatch
+  - comfortfood
+description: A rich, moist, and large-batch banana nut cake featuring six ripe bananas and a tender buttermilk crumb. This dense, flavorful loaf is perfect for sharing and keeps exceptionally well.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Margaret's Banana Nut Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Margaret\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H30M\", \"recipeYield\": \"1 large loaf or 2 standard loaves\", \"recipeCategory\": \"Dessert\"}"
 ---

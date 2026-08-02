@@ -1,13 +1,73 @@
 ---
-title: "Lemon Jello Cake"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["cake", "dessert", "lemon", "jello", "bundt", "123"]
-description: "An incredibly moist and flavorful lemon cake made easy with a white cake mix and a package of lemon Jello. This simple, one-bowl batter bakes up into a wonderfully dense and tender tube cake."
-date: "2026-07-30"
+title: Lemon Jello Cake
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - cake
+  - dessert
+  - lemon
+  - jello
+  - bundt
+description: An incredibly moist and flavorful lemon cake made easy with a white cake mix and a package of lemon Jello. This simple, one-bowl batter bakes up into a wonderfully dense and tender tube cake.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Lemon Jello Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"An incredibly moist and flavorful lemon cake made easy with a white cake mix and a package of lemon Jello. This simple, one-bowl batter bakes up into a wonderfully dense and tender tube cake.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT1H\",\n  \"totalTime\": \"PT1H10M\",\n  \"recipeYield\": \"1 tube cake (12-16 servings)\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 package white cake mix\",\n    \"1 (3-ounce) package lemon Jello\",\n    \"4 large eggs\",\n    \"2/3 cup water\",\n    \"2/3 cup Wesson or other vegetable oil\",\n    \"1 tablespoon lemon flavoring\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat your oven to 350\u00b0F. Grease and flour a tube or Bundt pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large mixing bowl, combine the water and Wesson oil. Sprinkle the dry lemon Jello powder on top and mix until it dissolves.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the dry cake mix and mix well.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the 4 eggs, one at a time, beating well after each addition.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in the lemon flavoring.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the batter into the prepared tube pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for 1 hour, or until a long wooden skewer inserted into the center comes out clean.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Lemon Jello Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-05",
+    "description": "An incredibly moist and flavorful lemon cake made easy with a white cake mix and a package of lemon Jello. This simple, one-bowl batter bakes up into a wonderfully dense and tender tube cake.",
+    "prepTime": "PT10M",
+    "cookTime": "PT1H",
+    "totalTime": "PT1H10M",
+    "recipeYield": "1 tube cake (12-16 servings)",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 package white cake mix",
+      "1 (3-ounce) package lemon Jello",
+      "4 large eggs",
+      "2/3 cup water",
+      "2/3 cup Wesson or other vegetable oil",
+      "1 tablespoon lemon flavoring"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 350°F. Grease and flour a tube or Bundt pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large mixing bowl, combine the water and Wesson oil. Sprinkle the dry lemon Jello powder on top and mix until it dissolves."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the dry cake mix and mix well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the 4 eggs, one at a time, beating well after each addition."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the lemon flavoring."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter into the prepared tube pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 1 hour, or until a long wooden skewer inserted into the center comes out clean."
+      }
+    ]
+  }
 ---
 
 # Lemon Jello Cake

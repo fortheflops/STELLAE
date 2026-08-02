@@ -1,13 +1,80 @@
 ---
-title: "Guacamole Quick Bread"
-category: "Bread"
-collection: "UK15"
-source: "Unknown"
-tags: ["quickbread", "savorybread", "guacamole", "avocado", "123"]
-description: "A unique and delicious savory-sweet quick bread featuring the classic flavors of guacamole, including mashed avocado, onion, and green chile. Baked to golden perfection, it offers a tender and flavorful crumb."
-date: "2026-07-30"
+title: Guacamole Quick Bread
+category: Bread
+collection: UK15
+source: Unknown
+tags:
+  - quickbread
+  - savorybread
+  - guacamole
+  - avocado
+description: A unique and delicious savory-sweet quick bread featuring the classic flavors of guacamole, including mashed avocado, onion, and green chile. Baked to golden perfection, it offers a tender and flavorful crumb.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Guacamole Quick Bread\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-09-22\",\n  \"description\": \"A savory-sweet quick bread featuring the classic flavors of guacamole like avocado, onion, and green chile, baked into a tender loaf.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Bread/Quick-Bread/Assets/Handwritten_2025-07-07_170823.webp\",\n    \"https://cucinamezzaluna.com/Bread/Quick-Bread/Assets/Handwritten_2025-07-07_170903%20(2).webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H10M\",\n  \"totalTime\": \"PT1H30M\",\n  \"recipeYield\": \"1 loaf\",\n  \"recipeCategory\": \"Bread\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 cups all-purpose flour\",\n    \"1 cup sugar\",\n    \"1 1/2 teaspoons baking powder\",\n    \"1/2 teaspoon salt\",\n    \"1/4 teaspoon ground cumin\",\n    \"1/2 cup margarine or butter, softened\",\n    \"2 large eggs, beaten\",\n    \"1/2 cup mashed ripe avocado\",\n    \"2 tablespoons chopped onion\",\n    \"1/4 cup roasted, peeled, and chopped green chile\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat the oven to 375\u00b0F. Grease a 9x5-inch loaf pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Saut\u00e9 the chopped onion in a small amount of margarine until soft, then set aside to cool slightly.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, cream together the softened margarine and sugar. Beat in the mashed avocado, beaten eggs, saut\u00e9ed onion, and chopped green chiles.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate bowl, sift together the flour, baking powder, salt, and cumin.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the dry ingredients to the wet avocado mixture and stir until just combined. Do not overmix.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the batter into the prepared loaf pan. Bake at 375\u00b0F for 15 minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Reduce the oven temperature to 350\u00b0F and continue to bake for another 55 minutes, or until a toothpick inserted into the center comes out clean.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Guacamole Quick Bread",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-09-22",
+    "description": "A savory-sweet quick bread featuring the classic flavors of guacamole like avocado, onion, and green chile, baked into a tender loaf.",
+    "image": [
+      "https://cucinamezzaluna.com/Bread/Quick-Bread/Assets/Handwritten_2025-07-07_170823.webp",
+      "https://cucinamezzaluna.com/Bread/Quick-Bread/Assets/Handwritten_2025-07-07_170903%20(2).webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT1H10M",
+    "totalTime": "PT1H30M",
+    "recipeYield": "1 loaf",
+    "recipeCategory": "Bread",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 cups all-purpose flour",
+      "1 cup sugar",
+      "1 1/2 teaspoons baking powder",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon ground cumin",
+      "1/2 cup margarine or butter, softened",
+      "2 large eggs, beaten",
+      "1/2 cup mashed ripe avocado",
+      "2 tablespoons chopped onion",
+      "1/4 cup roasted, peeled, and chopped green chile"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 375°F. Grease a 9x5-inch loaf pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sauté the chopped onion in a small amount of margarine until soft, then set aside to cool slightly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, cream together the softened margarine and sugar. Beat in the mashed avocado, beaten eggs, sautéed onion, and chopped green chiles."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, sift together the flour, baking powder, salt, and cumin."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the dry ingredients to the wet avocado mixture and stir until just combined. Do not overmix."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter into the prepared loaf pan. Bake at 375°F for 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Reduce the oven temperature to 350°F and continue to bake for another 55 minutes, or until a toothpick inserted into the center comes out clean."
+      }
+    ]
+  }
 ---
 
 # Guacamole Quick Bread

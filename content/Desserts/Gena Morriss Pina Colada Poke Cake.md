@@ -1,13 +1,18 @@
 ---
-title: "Gena Morris's Pina Colada Poke Cake"
-category: "Desserts"
-collection: "UK3"
-source: "Gena Morris"
-tags: ["pokecake", "tropical", "coconut", "dessert", "123", "genamorris"]
-description: "An incredibly moist and tropical poke cake from Gena Morris, saturated with cream of coconut and sweetened condensed milk. Topped with a fluffy Cool Whip and shredded coconut frosting for the ultimate island-inspired treat."
-date: "2026-07-30"
+title: Gena Morris's Pina Colada Poke Cake
+category: Desserts
+collection: UK3
+source: Gena Morris
+tags:
+  - pokecake
+  - tropical
+  - coconut
+  - dessert
+  - genamorris
+description: An incredibly moist and tropical poke cake from Gena Morris, saturated with cream of coconut and sweetened condensed milk. Topped with a fluffy Cool Whip and shredded coconut frosting for the ultimate island-inspired treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Gena Morris's Pina Colada Poke Cake\",\"author\":{\"@type\":\"Person\",\"name\":\"Gena Morris\"},\"datePublished\":\"2025-10-05\",\"description\":\"A super moist poke cake made with a yellow cake mix, soaked in a mixture of cream of coconut and sweetened condensed milk, and topped with a Cool Whip frosting.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Cake/Poke-Cake/Assets/Handwritten_2025-04-13_093612.webp\",\"https://cucinamezzaluna.com/Desserts/Cake/Poke-Cake/Assets/Handwritten_2025-04-13_093800%20(2).webp\"],\"prepTime\":\"PT15M\",\"cookTime\":\"PT35M\",\"totalTime\":\"PT2H\",\"recipeYield\":\"1 9x13 cake (12-16 servings)\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 package yellow cake mix, plus ingredients to prepare it\",\"1 (15-ounce) can cream of coconut (like Coco Lopez)\",\"1 (14-ounce) can sweetened condensed milk (like Eagle Brand)\",\"1 large (12-ounce) container Cool Whip, thawed\",\"1/2 bag (about 3-4 ounces) shredded coconut\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 350\u00b0F. Prepare and bake the yellow cake mix according to package directions in a 9x13 inch pan.\"},{\"@type\":\"HowToStep\",\"text\":\"As soon as the cake comes out of the oven, while it is still hot, poke holes all over the top with a meat fork or skewer.\"},{\"@type\":\"HowToStep\",\"text\":\"In a bowl, whisk together the cream of coconut and the sweetened condensed milk.\"},{\"@type\":\"HowToStep\",\"text\":\"Slowly and evenly pour the coconut mixture over the hot cake, allowing it to soak into the holes.\"},{\"@type\":\"HowToStep\",\"text\":\"Let the cake cool completely.\"},{\"@type\":\"HowToStep\",\"text\":\"Once cool, frost the top of the cake with the thawed Cool Whip and sprinkle generously with coconut.\"},{\"@type\":\"HowToStep\",\"text\":\"Refrigerate until ready to serve.\"}]}"
+recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Gena Morris's Pina Colada Poke Cake\",\"author\":{\"@type\":\"Person\",\"name\":\"Gena Morris\"},\"datePublished\":\"2025-10-05\",\"description\":\"A super moist poke cake made with a yellow cake mix, soaked in a mixture of cream of coconut and sweetened condensed milk, and topped with a Cool Whip frosting.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Cake/Poke-Cake/Assets/Handwritten_2025-04-13_093612.webp\",\"https://cucinamezzaluna.com/Desserts/Cake/Poke-Cake/Assets/Handwritten_2025-04-13_093800%20(2).webp\"],\"prepTime\":\"PT15M\",\"cookTime\":\"PT35M\",\"totalTime\":\"PT2H\",\"recipeYield\":\"1 9x13 cake (12-16 servings)\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 package yellow cake mix, plus ingredients to prepare it\",\"1 (15-ounce) can cream of coconut (like Coco Lopez)\",\"1 (14-ounce) can sweetened condensed milk (like Eagle Brand)\",\"1 large (12-ounce) container Cool Whip, thawed\",\"1/2 bag (about 3-4 ounces) shredded coconut\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 350°F. Prepare and bake the yellow cake mix according to package directions in a 9x13 inch pan.\"},{\"@type\":\"HowToStep\",\"text\":\"As soon as the cake comes out of the oven, while it is still hot, poke holes all over the top with a meat fork or skewer.\"},{\"@type\":\"HowToStep\",\"text\":\"In a bowl, whisk together the cream of coconut and the sweetened condensed milk.\"},{\"@type\":\"HowToStep\",\"text\":\"Slowly and evenly pour the coconut mixture over the hot cake, allowing it to soak into the holes.\"},{\"@type\":\"HowToStep\",\"text\":\"Let the cake cool completely.\"},{\"@type\":\"HowToStep\",\"text\":\"Once cool, frost the top of the cake with the thawed Cool Whip and sprinkle generously with coconut.\"},{\"@type\":\"HowToStep\",\"text\":\"Refrigerate until ready to serve.\"}]}"
 ---
 
 # Gena Morris's Pina Colada Poke Cake

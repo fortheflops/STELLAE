@@ -1,13 +1,17 @@
 ---
-title: "Old-Fashioned Gingerbread"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["gingerbread", "123", "comfortfood", "cake", "molasses"]
-description: "A classic, dark, and moist gingerbread cake rich with molasses and a warm blend of aromatic spices. This traditional recipe yields a perfect, comforting dessert that pairs beautifully with whipped cream."
-date: "2026-07-30"
+title: Old-Fashioned Gingerbread
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - gingerbread
+  - comfortfood
+  - cake
+  - molasses
+description: A classic, dark, and moist gingerbread cake rich with molasses and a warm blend of aromatic spices. This traditional recipe yields a perfect, comforting dessert that pairs beautifully with whipped cream.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Old-Fashioned Gingerbread\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT40M\", \"recipeYield\": \"1 9x13 inch cake\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Old-Fashioned Gingerbread", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT15M", "cookTime": "PT40M", "recipeYield": "1 9x13 inch cake", "recipeCategory": "Dessert"}'
 ---
 
 # Old-Fashioned Gingerbread

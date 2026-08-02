@@ -1,13 +1,17 @@
 ---
-title: "Classic Vanilla Pizzelle"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "italian", "pizzelle", "123", "dessert"]
-description: "A classic recipe for light, thin, and crispy Italian pizzelle cookies. This simple batter, flavored with a generous amount of vanilla, is baked in a special iron to create beautiful, decorative wafers."
-date: "2026-07-30"
+title: Classic Vanilla Pizzelle
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - italian
+  - pizzelle
+  - dessert
+description: A classic recipe for light, thin, and crispy Italian pizzelle cookies. This simple batter, flavored with a generous amount of vanilla, is baked in a special iron to create beautiful, decorative wafers.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Vanilla Pizzelle\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic recipe for thin, crisp, and buttery Italian pizzelle cookies with a strong vanilla flavor.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT20M\", \"recipeYield\": \"40 pizzelles\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"Italian\", \"recipeIngredient\": [\"6 extra-large eggs\", \"1 1/4 cups sugar\", \"1 cup butter or margarine, melted & cooled\", \"2 tablespoons vanilla extract\", \"3 1/2 cups all-purpose flour\", \"4 teaspoons baking powder\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Vanilla Pizzelle", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic recipe for thin, crisp, and buttery Italian pizzelle cookies with a strong vanilla flavor.", "prepTime": "PT15M", "cookTime": "PT20M", "recipeYield": "40 pizzelles", "recipeCategory": "Dessert", "recipeCuisine": "Italian", "recipeIngredient": ["6 extra-large eggs", "1 1/4 cups sugar", "1 cup butter or margarine, melted & cooled", "2 tablespoons vanilla extract", "3 1/2 cups all-purpose flour", "4 teaspoons baking powder"]}'
 ---
 
 # Classic Vanilla Pizzelle

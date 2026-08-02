@@ -1,11 +1,16 @@
 ---
-title: "Janet's Bizcochitos"
-category: "Desserts"
-collection: "UK15"
-source: "Janet Preston"
-tags: ["cookies", "bizcochitos", "newmexican", "holiday", "123", "anise"]
-description: "A classic large-batch recipe for traditional New Mexican bizcochitos featuring crisp, tender shortbread flavored with anise and brandy. These cookies are finished with a signature dusting of cinnamon-sugar for a perfect holiday treat."
-date: "2026-07-30"
+title: Janet's Bizcochitos
+category: Desserts
+collection: UK15
+source: Janet Preston
+tags:
+  - cookies
+  - bizcochitos
+  - newmexican
+  - holiday
+  - anise
+description: A classic large-batch recipe for traditional New Mexican bizcochitos featuring crisp, tender shortbread flavored with anise and brandy. These cookies are finished with a signature dusting of cinnamon-sugar for a perfect holiday treat.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Janet's Bizcochitos\", \"author\": {\"@type\": \"Person\", \"name\": \"Janet Preston\"}, \"description\": \"A classic large-batch recipe for traditional New Mexican bizcochitos featuring crisp, tender shortbread flavored with anise and brandy.\", \"prepTime\": \"PT25M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"15 Dozen\", \"recipeCategory\": \"Desserts\"}"
 ---

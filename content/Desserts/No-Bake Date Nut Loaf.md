@@ -1,13 +1,71 @@
 ---
-title: "No-Bake Date Nut Loaf"
-category: "Desserts"
-collection: "Unknown Two"
-source: "Unknown"
-tags: ["dessert", "candy", "123", "nobake", "dates", "nuts", "confection"]
-description: "An old-fashioned, no-bake confection featuring a rich milk and sugar syrup cooked to the soft-ball stage. Loaded with chopped dates and nuts, this classic candy roll is chilled and sliced into sweet, bite-sized rounds."
-date: "2026-07-30"
+title: No-Bake Date Nut Loaf
+category: Desserts
+collection: Unknown Two
+source: Unknown
+tags:
+  - dessert
+  - candy
+  - nobake
+  - dates
+  - nuts
+  - confection
+description: An old-fashioned, no-bake confection featuring a rich milk and sugar syrup cooked to the soft-ball stage. Loaded with chopped dates and nuts, this classic candy roll is chilled and sliced into sweet, bite-sized rounds.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"No-Bake Date Nut Loaf\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A classic, old-fashioned candy roll made by cooking a milk and sugar syrup to the soft-ball stage, then adding chopped dates and nuts. Chilled and sliced for serving.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT15M\",\n  \"totalTime\": \"PT3H\",\n  \"recipeYield\": \"2 rolls\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeIngredient\": [\n    \"2 cups sugar\",\n    \"1 cup milk\",\n    \"2 tablespoons butter\",\n    \"1 1/2 cups chopped dates\",\n    \"1 cup chopped nuts\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Prepare a damp, clean kitchen towel or a sheet of wax paper on your counter.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a heavy-bottomed saucepan, combine the sugar, milk, and butter. Cook over medium heat, stirring constantly, until the mixture boils.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Reduce heat and boil slowly, stirring occasionally, until the mixture reaches the semi-firm ball stage (240\u00b0F on a candy thermometer).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Remove the pan from the heat. Immediately add the dates and nuts and stir vigorously until the mixture begins to thicken.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the mixture onto a damp cloth or wax paper. As it cools slightly, form it into two rolls, about 1 1/2 inches in diameter.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Wrap the rolls tightly and chill in the refrigerator until completely firm, at least 2-3 hours.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Once firm, unwrap and slice the loaf to serve.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "No-Bake Date Nut Loaf",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A classic, old-fashioned candy roll made by cooking a milk and sugar syrup to the soft-ball stage, then adding chopped dates and nuts. Chilled and sliced for serving.",
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT3H",
+    "recipeYield": "2 rolls",
+    "recipeCategory": "Dessert",
+    "recipeIngredient": [
+      "2 cups sugar",
+      "1 cup milk",
+      "2 tablespoons butter",
+      "1 1/2 cups chopped dates",
+      "1 cup chopped nuts"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare a damp, clean kitchen towel or a sheet of wax paper on your counter."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a heavy-bottomed saucepan, combine the sugar, milk, and butter. Cook over medium heat, stirring constantly, until the mixture boils."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Reduce heat and boil slowly, stirring occasionally, until the mixture reaches the semi-firm ball stage (240°F on a candy thermometer)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the pan from the heat. Immediately add the dates and nuts and stir vigorously until the mixture begins to thicken."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the mixture onto a damp cloth or wax paper. As it cools slightly, form it into two rolls, about 1 1/2 inches in diameter."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wrap the rolls tightly and chill in the refrigerator until completely firm, at least 2-3 hours."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once firm, unwrap and slice the loaf to serve."
+      }
+    ]
+  }
 ---
 
 # No-Bake Date Nut Loaf

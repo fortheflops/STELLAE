@@ -1,13 +1,18 @@
 ---
-title: "Classic Brandied Pears"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Ann Seranne"
-tags: ["dessert", "preserving", "pears", "brandy", "123", "fruit"]
-description: "A timeless home-preserving recipe for tender, sweet pears soaked in a rich, flavorful brandy syrup. This classic preparation is perfect for elegant desserts or thoughtful homemade gifts."
-date: "2026-07-30"
+title: Classic Brandied Pears
+category: Desserts
+collection: Gail Collection
+source: Ann Seranne
+tags:
+  - dessert
+  - preserving
+  - pears
+  - brandy
+  - fruit
+description: A timeless home-preserving recipe for tender, sweet pears soaked in a rich, flavorful brandy syrup. This classic preparation is perfect for elegant desserts or thoughtful homemade gifts.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Brandied Pears\", \"author\": {\"@type\": \"Person\", \"name\": \"Ann Seranne\"}, \"description\": \"A timeless home-preserving recipe for tender, sweet pears soaked in a rich, flavorful brandy syrup.\", \"prepTime\": \"PT30M\", \"cookTime\": \"PT45M\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 pound Pears\", \"1 pound Sugar\", \"1 cup Water\", \"1 pint Brandy\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Brandied Pears", "author": {"@type": "Person", "name": "Ann Seranne"}, "description": "A timeless home-preserving recipe for tender, sweet pears soaked in a rich, flavorful brandy syrup.", "prepTime": "PT30M", "cookTime": "PT45M", "recipeCategory": "Dessert", "recipeIngredient": ["1 pound Pears", "1 pound Sugar", "1 cup Water", "1 pint Brandy"]}'
 ---
 
 # Classic Brandied Pears

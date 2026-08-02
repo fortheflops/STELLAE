@@ -1,13 +1,18 @@
 ---
-title: "Nutty Brandy & Rum Balls"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["dessert", "confection", "nobake", "holiday", "rumballs", "123"]
-description: "A potent and delicious no-bake holiday confection, packed with a full pound of ground nuts. This classic recipe uses both brandy and rum, along with honey and vanilla wafer crumbs, for a rich and flavorful treat that keeps for weeks."
-date: "2026-07-30"
+title: Nutty Brandy & Rum Balls
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - dessert
+  - confection
+  - nobake
+  - holiday
+  - rumballs
+description: A potent and delicious no-bake holiday confection, packed with a full pound of ground nuts. This classic recipe uses both brandy and rum, along with honey and vanilla wafer crumbs, for a rich and flavorful treat that keeps for weeks.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Nutty Brandy & Rum Balls\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic no-bake holiday treat, these potent brandy and rum balls are made with a pound of ground nuts and a vanilla wafer base.\", \"prepTime\": \"PT25M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT25M\", \"recipeYield\": \"Approx. 6-7 dozen\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 (12-ounce) package vanilla wafers, finely crushed\", \"1 pound ground pecans or walnuts\", \"1/2 cup honey\", \"1/2 cup rum\", \"1/2 cup brandy\", \"Powdered or granulated sugar, for rolling\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Finely crush the vanilla wafers and grind the nuts.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a large bowl, combine the crushed wafers, ground nuts, honey, rum, and brandy. Mix well until a sticky, firm dough forms.\"}, {\"@type\": \"HowToStep\", \"text\": \"Shape the mixture into 1-inch balls.\"}, {\"@type\": \"HowToStep\", \"text\": \"Roll each ball in powdered or granulated sugar to coat.\"}, {\"@type\": \"HowToStep\", \"text\": \"Store in an airtight container. The flavor improves significantly after a few days as they age.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Nutty Brandy & Rum Balls", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic no-bake holiday treat, these potent brandy and rum balls are made with a pound of ground nuts and a vanilla wafer base.", "prepTime": "PT25M", "cookTime": "PT0M", "totalTime": "PT25M", "recipeYield": "Approx. 6-7 dozen", "recipeCategory": "Dessert", "recipeIngredient": ["1 (12-ounce) package vanilla wafers, finely crushed", "1 pound ground pecans or walnuts", "1/2 cup honey", "1/2 cup rum", "1/2 cup brandy", "Powdered or granulated sugar, for rolling"], "recipeInstructions": [{"@type": "HowToStep", "text": "Finely crush the vanilla wafers and grind the nuts."}, {"@type": "HowToStep", "text": "In a large bowl, combine the crushed wafers, ground nuts, honey, rum, and brandy. Mix well until a sticky, firm dough forms."}, {"@type": "HowToStep", "text": "Shape the mixture into 1-inch balls."}, {"@type": "HowToStep", "text": "Roll each ball in powdered or granulated sugar to coat."}, {"@type": "HowToStep", "text": "Store in an airtight container. The flavor improves significantly after a few days as they age."}]}'
 ---
 
 # Nutty Brandy & Rum Balls

@@ -1,13 +1,17 @@
 ---
-title: "Baked Spaghetti"
-category: "Entrees"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["bakedspaghetti", "casserole", "pasta", "comfortfood", "123"]
-description: "A simple, old-fashioned baked spaghetti casserole featuring a comforting creamy tomato and cheese sauce. This classic family favorite bakes up warm, bubbly, and golden on top."
-date: "2026-07-30"
+title: Baked Spaghetti
+category: Entrees
+collection: Jill Collection
+source: Unknown
+tags:
+  - bakedspaghetti
+  - casserole
+  - pasta
+  - comfortfood
+description: A simple, old-fashioned baked spaghetti casserole featuring a comforting creamy tomato and cheese sauce. This classic family favorite bakes up warm, bubbly, and golden on top.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Baked Spaghetti\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-08-10\", \"description\": \"A simple, old-fashioned baked spaghetti casserole featuring a comforting creamy tomato and cheese sauce.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"6-8 Servings\", \"recipeCategory\": \"Entrees\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 package Spaghetti\", \"1 can Whole Tomatoes\", \"1 can Tomato Soup\", \"1 Onion, chopped\", \"1/2 cup Green Pepper, finely chopped\", \"Mushrooms (optional)\", \"A small chunk Melting Cheese (e.g., Velveeta or cheddar)\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 350F. Cook the spaghetti according to package directions and drain.\"}, {\"@type\": \"HowToStep\", \"text\": \"Fry the onions, green peppers, and mushrooms in a skillet until tender and browned.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the melting cheese to the skillet and stir until melted into the vegetables to create a sauce.\"}, {\"@type\": \"HowToStep\", \"text\": \"Combine the cooked spaghetti with the whole tomatoes and tomato soup.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour the cheese and vegetable mixture into the spaghetti and mix well.\"}, {\"@type\": \"HowToStep\", \"text\": \"Transfer to a casserole dish and bake until browned and bubbly on top.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Baked Spaghetti", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-08-10", "description": "A simple, old-fashioned baked spaghetti casserole featuring a comforting creamy tomato and cheese sauce.", "prepTime": "PT20M", "cookTime": "PT30M", "recipeYield": "6-8 Servings", "recipeCategory": "Entrees", "recipeCuisine": "American", "recipeIngredient": ["1 package Spaghetti", "1 can Whole Tomatoes", "1 can Tomato Soup", "1 Onion, chopped", "1/2 cup Green Pepper, finely chopped", "Mushrooms (optional)", "A small chunk Melting Cheese (e.g., Velveeta or cheddar)"], "recipeInstructions": [{"@type": "HowToStep", "text": "Preheat oven to 350F. Cook the spaghetti according to package directions and drain."}, {"@type": "HowToStep", "text": "Fry the onions, green peppers, and mushrooms in a skillet until tender and browned."}, {"@type": "HowToStep", "text": "Add the melting cheese to the skillet and stir until melted into the vegetables to create a sauce."}, {"@type": "HowToStep", "text": "Combine the cooked spaghetti with the whole tomatoes and tomato soup."}, {"@type": "HowToStep", "text": "Pour the cheese and vegetable mixture into the spaghetti and mix well."}, {"@type": "HowToStep", "text": "Transfer to a casserole dish and bake until browned and bubbly on top."}]}'
 ---
 
 # Baked Spaghetti

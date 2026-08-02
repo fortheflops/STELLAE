@@ -1,13 +1,79 @@
 ---
-title: "Sweet & Spiced 'Chipped' Ham Barbecue"
-category: "Entrees"
-collection: "LouiseCollection"
-source: "Unknown"
-tags: ["123", "pork", "ham", "barbecue", "sandwich", "comfortfood", "louisecollection"]
-description: "A vintage recipe for chipped ham in a sweet and spiced tomato-based barbecue sauce. The ham is simmered and then slow-baked to allow the flavors to meld."
-date: "2026-07-30"
+title: Sweet & Spiced 'Chipped' Ham Barbecue
+category: Entrees
+collection: LouiseCollection
+source: Unknown
+tags:
+  - pork
+  - ham
+  - barbecue
+  - sandwich
+  - comfortfood
+  - louisecollection
+description: A vintage recipe for chipped ham in a sweet and spiced tomato-based barbecue sauce. The ham is simmered and then slow-baked to allow the flavors to meld.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Sweet & Spiced 'Chipped' Ham Barbecue\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-11-14\",\n  \"description\": \"A vintage recipe for chipped ham in a sweet and spiced tomato-based barbecue sauce. The ham is simmered and then slow-baked to allow the flavors to meld.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Entrees/Meat/Pork/Ham/Assets/Handwritten_2025-05-15_142108.webp\"\n  ],\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT50M\",\n  \"totalTime\": \"PT1H\",\n  \"recipeYield\": \"6 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 Cup Ketchup\",\n    \"1/3 Cup Brown Sugar\",\n    \"1/2 Cup Water\",\n    \"2 Tablespoons Vinegar\",\n    \"1/2 Tablespoon Dry Mustard\",\n    \"1/2 Tablespoon Nutmeg\",\n    \"1 1/2 Pounds Chipped, Boiled Ham\",\n    \"Hamburger Buns (as needed)\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat the oven to 250\u00b0F (120\u00b0C).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large saucepan, whisk together the ketchup, brown sugar, water, vinegar, dry mustard, and nutmeg.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir the chipped ham into the sauce mixture.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bring the mixture to a boil on the stovetop.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the mixture into a deep baking dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake uncovered for 45 minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Serve warm on hamburger buns.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Sweet & Spiced 'Chipped' Ham Barbecue",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-11-14",
+    "description": "A vintage recipe for chipped ham in a sweet and spiced tomato-based barbecue sauce. The ham is simmered and then slow-baked to allow the flavors to meld.",
+    "image": [
+      "https://cucinamezzaluna.com/Entrees/Meat/Pork/Ham/Assets/Handwritten_2025-05-15_142108.webp"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT50M",
+    "totalTime": "PT1H",
+    "recipeYield": "6 servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 Cup Ketchup",
+      "1/3 Cup Brown Sugar",
+      "1/2 Cup Water",
+      "2 Tablespoons Vinegar",
+      "1/2 Tablespoon Dry Mustard",
+      "1/2 Tablespoon Nutmeg",
+      "1 1/2 Pounds Chipped, Boiled Ham",
+      "Hamburger Buns (as needed)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 250°F (120°C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large saucepan, whisk together the ketchup, brown sugar, water, vinegar, dry mustard, and nutmeg."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir the chipped ham into the sauce mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the mixture to a boil on the stovetop."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the mixture into a deep baking dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake uncovered for 45 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve warm on hamburger buns."
+      }
+    ]
+  }
 ---
 
 # Sweet & Spiced 'Chipped' Ham Barbecue

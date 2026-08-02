@@ -1,13 +1,18 @@
 ---
-title: "Nantucket Style Cranberry Pie"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["pie", "dessert", "cranberry", "apple", "baking", "123"]
-description: "A classic crustless pie featuring a tart layer of fresh cranberries and apples, topped with a sweet, buttery batter that bakes into a tender, cake-like crust."
-date: "2026-07-30"
+title: Nantucket Style Cranberry Pie
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - pie
+  - dessert
+  - cranberry
+  - apple
+  - baking
+description: A classic crustless pie featuring a tart layer of fresh cranberries and apples, topped with a sweet, buttery batter that bakes into a tender, cake-like crust.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Nantucket Style Cranberry Pie\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-13\", \"description\": \"A classic crustless pie featuring a tart layer of fresh cranberries and apples, topped with a sweet, buttery batter that bakes into a tender, cake-like crust.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT45M\", \"totalTime\": \"PT1H\", \"recipeYield\": \"One 9-inch pie\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Nantucket Style Cranberry Pie", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-13", "description": "A classic crustless pie featuring a tart layer of fresh cranberries and apples, topped with a sweet, buttery batter that bakes into a tender, cake-like crust.", "prepTime": "PT15M", "cookTime": "PT45M", "totalTime": "PT1H", "recipeYield": "One 9-inch pie", "recipeCategory": "Desserts", "recipeCuisine": "American"}'
 ---
 
 # Nantucket Style Cranberry Pie

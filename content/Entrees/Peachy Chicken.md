@@ -1,13 +1,52 @@
 ---
-title: "Peachy Chicken"
-category: "Entrees"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["chicken", "peaches", "dinner", "123", "entree"]
-description: "A comforting vintage casserole featuring savory chicken baked atop seasoned rice and sweet sliced peaches. The chicken drippings create a savory balance against the sweet peach syrup infused in the rice."
-date: "2026-07-30"
+title: Peachy Chicken
+category: Entrees
+collection: Gail Collection
+source: Unknown
+tags:
+  - chicken
+  - peaches
+  - dinner
+  - entree
+description: A comforting vintage casserole featuring savory chicken baked atop seasoned rice and sweet sliced peaches. The chicken drippings create a savory balance against the sweet peach syrup infused in the rice.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Peachy Chicken\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A comforting vintage casserole featuring savory chicken baked atop seasoned rice and sweet sliced peaches.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT45M\",\n  \"recipeYield\": \"4 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"Rice\",\n    \"Sliced Peaches\",\n    \"Salt\",\n    \"Pepper\",\n    \"Peach Syrup\",\n    \"Chicken\",\n    \"Butter\",\n    \"Seasonings\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook the rice until done and place in the bottom of a shallow baking pan. Mix in the drained peach slices, seasonings, and a little reserved peach syrup.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place the chicken pieces on top of the rice, season with salt, pepper, and butter, and bake at 350\u00b0F until the chicken is cooked through.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Peachy Chicken",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A comforting vintage casserole featuring savory chicken baked atop seasoned rice and sweet sliced peaches.",
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "Rice",
+      "Sliced Peaches",
+      "Salt",
+      "Pepper",
+      "Peach Syrup",
+      "Chicken",
+      "Butter",
+      "Seasonings"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cook the rice until done and place in the bottom of a shallow baking pan. Mix in the drained peach slices, seasonings, and a little reserved peach syrup."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chicken pieces on top of the rice, season with salt, pepper, and butter, and bake at 350°F until the chicken is cooked through."
+      }
+    ]
+  }
 ---
 
 # Peachy Chicken

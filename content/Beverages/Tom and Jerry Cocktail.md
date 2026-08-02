@@ -1,13 +1,81 @@
 ---
-title: "Tom and Jerry Cocktail"
-category: "Beverages"
-collection: "GC"
-source: "Joy"
-tags: ["beverage", "cocktail", "winter", "holiday", "123"]
-description: "A classic warm winter cocktail featuring a rich, sweet, spiced egg batter mixed with hot milk and brandy for a festive treat."
-date: "2026-07-30"
+title: Tom and Jerry Cocktail
+category: Beverages
+collection: GC
+source: Joy
+tags:
+  - beverage
+  - cocktail
+  - winter
+  - holiday
+description: A classic warm winter cocktail featuring a rich, sweet, spiced egg batter mixed with hot milk and brandy for a festive treat.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Tom and Jerry Cocktail\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Joy\"\n  },\n  \"datePublished\": \"2025-09-20\",\n  \"description\": \"A traditional holiday drink made from a rich, spiced egg batter that is mixed with hot milk and brandy or rum.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Beverages/Cocktails/Assets/Handwritten_2025-05-26_114056.webp\",\n    \"https://cucinamezzaluna.com/Beverages/Cocktails/Assets/2025-05-26_114152.webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT0M\",\n  \"totalTime\": \"PT20M\",\n  \"recipeYield\": \"12-16 servings\",\n  \"recipeCategory\": \"Beverages\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"6 large eggs, separated\",\n    \"2 1/2 cups powdered sugar\",\n    \"1 pinch cream of tartar\",\n    \"1/2 teaspoon cinnamon\",\n    \"1/2 teaspoon allspice\",\n    \"1/4 teaspoon ground cloves\",\n    \"Hot milk, for serving\",\n    \"Brandy or dark rum, for serving\",\n    \"Nutmeg, for garnish\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"name\": \"Make the Batter\",\n      \"text\": \"In a large bowl, beat egg whites until frothy. Add a pinch of cream of tartar and continue beating until soft peaks form. Gradually add the powdered sugar and beat until stiff, glossy peaks form.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"name\": \"Beat Yolks\",\n      \"text\": \"In a separate bowl, beat the egg yolks for 5-10 minutes, until they are thick and lemon-colored.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"name\": \"Fold and Combine\",\n      \"text\": \"Gently fold the beaten egg yolks and spices (cinnamon, allspice, cloves) into the egg white mixture until just combined.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"name\": \"Serve the Drink\",\n      \"text\": \"For each serving, place 2 heaping tablespoons of the batter into a mug. Add 1.5 ounces of brandy or rum.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"name\": \"Add Milk\",\n      \"text\": \"Fill the rest of the mug with hot milk, stirring constantly until the drink is smooth and frothy.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"name\": \"Garnish\",\n      \"text\": \"Garnish with a sprinkle of freshly grated nutmeg and serve immediately.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Tom and Jerry Cocktail",
+    "author": {
+      "@type": "Person",
+      "name": "Joy"
+    },
+    "datePublished": "2025-09-20",
+    "description": "A traditional holiday drink made from a rich, spiced egg batter that is mixed with hot milk and brandy or rum.",
+    "image": [
+      "https://cucinamezzaluna.com/Beverages/Cocktails/Assets/Handwritten_2025-05-26_114056.webp",
+      "https://cucinamezzaluna.com/Beverages/Cocktails/Assets/2025-05-26_114152.webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT0M",
+    "totalTime": "PT20M",
+    "recipeYield": "12-16 servings",
+    "recipeCategory": "Beverages",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "6 large eggs, separated",
+      "2 1/2 cups powdered sugar",
+      "1 pinch cream of tartar",
+      "1/2 teaspoon cinnamon",
+      "1/2 teaspoon allspice",
+      "1/4 teaspoon ground cloves",
+      "Hot milk, for serving",
+      "Brandy or dark rum, for serving",
+      "Nutmeg, for garnish"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "name": "Make the Batter",
+        "text": "In a large bowl, beat egg whites until frothy. Add a pinch of cream of tartar and continue beating until soft peaks form. Gradually add the powdered sugar and beat until stiff, glossy peaks form."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Beat Yolks",
+        "text": "In a separate bowl, beat the egg yolks for 5-10 minutes, until they are thick and lemon-colored."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Fold and Combine",
+        "text": "Gently fold the beaten egg yolks and spices (cinnamon, allspice, cloves) into the egg white mixture until just combined."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Serve the Drink",
+        "text": "For each serving, place 2 heaping tablespoons of the batter into a mug. Add 1.5 ounces of brandy or rum."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Add Milk",
+        "text": "Fill the rest of the mug with hot milk, stirring constantly until the drink is smooth and frothy."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Garnish",
+        "text": "Garnish with a sprinkle of freshly grated nutmeg and serve immediately."
+      }
+    ]
+  }
 ---
 
 # Tom and Jerry Cocktail

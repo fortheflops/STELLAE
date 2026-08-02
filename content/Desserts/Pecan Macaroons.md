@@ -1,13 +1,17 @@
 ---
-title: "Pecan Macaroons"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "pecans", "glutenfree", "123", "meringue"]
-description: "A simple, classic recipe for chewy, flourless Pecan Macaroons. These delightful cookies rely on a stiff meringue base packed with rich brown sugar and toasted pecans."
-date: "2026-07-30"
+title: Pecan Macaroons
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - pecans
+  - glutenfree
+  - meringue
+description: A simple, classic recipe for chewy, flourless Pecan Macaroons. These delightful cookies rely on a stiff meringue base packed with rich brown sugar and toasted pecans.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Pecan Macaroons\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A simple, classic recipe for chewy, flourless Pecan Macaroons.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"24 cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 large egg white\", \"1 cup packed brown sugar\", \"1 cup finely chopped pecan nuts\", \"1/4 teaspoon salt\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Pecan Macaroons", "author": {"@type": "Person", "name": "Unknown"}, "description": "A simple, classic recipe for chewy, flourless Pecan Macaroons.", "prepTime": "PT10M", "cookTime": "PT10M", "recipeYield": "24 cookies", "recipeCategory": "Dessert", "recipeIngredient": ["1 large egg white", "1 cup packed brown sugar", "1 cup finely chopped pecan nuts", "1/4 teaspoon salt"]}'
 ---
 
 # Pecan Macaroons

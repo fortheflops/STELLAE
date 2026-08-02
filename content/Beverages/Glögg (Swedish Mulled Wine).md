@@ -1,13 +1,18 @@
 ---
-title: "Gl\u00f6gg (Swedish Mulled Wine)"
-category: "Beverages"
-collection: "GailCollection"
-source: "Unknown"
-tags: ["beverage", "swedish", "mulledwine", "holiday", "winter", "123"]
-description: "A traditional Scandinavian mulled red wine infused overnight with warming spices, citrus, and ginger. Served warm with raisins and almonds for a festive treat."
-date: "2026-07-30"
+title: Glögg (Swedish Mulled Wine)
+category: Beverages
+collection: GailCollection
+source: Unknown
+tags:
+  - beverage
+  - swedish
+  - mulledwine
+  - holiday
+  - winter
+description: A traditional Scandinavian mulled red wine infused overnight with warming spices, citrus, and ginger. Served warm with raisins and almonds for a festive treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Gl\u00f6gg (Swedish Mulled Wine)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-09-20\", \"description\": \"A classic recipe for Swedish mulled wine (Gl\u00f6gg), infused overnight with orange, cloves, cinnamon, and ginger, then sweetened and served warm.\", \"image\": [\"https://cucinamezzaluna.com/Beverages/Alcoholic/Wine/Assets/Handwritten_2025-05-26_105704.webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT20M\", \"totalTime\": \"P1D\", \"recipeYield\": \"10-12 servings\", \"recipeCategory\": \"Beverages\", \"recipeCuisine\": \"Swedish\", \"recipeIngredient\": [\"1/2 gallon (approx. 2 litres or three 750ml bottles) dry red wine\", \"Zest of 1 orange, in wide strips\", \"6 whole cloves\", \"2-3 cinnamon sticks\", \"1 teaspoon cardamom seeds\", \"1 (1-inch) piece fresh ginger, sliced\", \"3/4 cup sugar, or to taste\", \"1/2 cup vodka or aquavit (optional)\", \"Raisins, for serving\", \"Blanched slivered almonds, for serving\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Glögg (Swedish Mulled Wine)", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-09-20", "description": "A classic recipe for Swedish mulled wine (Glögg), infused overnight with orange, cloves, cinnamon, and ginger, then sweetened and served warm.", "image": ["https://cucinamezzaluna.com/Beverages/Alcoholic/Wine/Assets/Handwritten_2025-05-26_105704.webp"], "prepTime": "PT15M", "cookTime": "PT20M", "totalTime": "P1D", "recipeYield": "10-12 servings", "recipeCategory": "Beverages", "recipeCuisine": "Swedish", "recipeIngredient": ["1/2 gallon (approx. 2 litres or three 750ml bottles) dry red wine", "Zest of 1 orange, in wide strips", "6 whole cloves", "2-3 cinnamon sticks", "1 teaspoon cardamom seeds", "1 (1-inch) piece fresh ginger, sliced", "3/4 cup sugar, or to taste", "1/2 cup vodka or aquavit (optional)", "Raisins, for serving", "Blanched slivered almonds, for serving"]}'
 ---
 
 # Glögg (Swedish Mulled Wine)

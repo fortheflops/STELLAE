@@ -1,13 +1,64 @@
 ---
-title: "Celina Engle's Spiced Tea Mix"
-category: "Beverages"
-collection: "UK3"
-source: "Celina Engle"
-tags: ["beverage", "tea", "instant", "spiced", "123", "hotdrink"]
-description: "A classic instant spiced tea mix from Celina Engle. This recipe combines the zesty citrus flavors of Tang and lemonade with instant tea and warm spices for a quick and comforting hot beverage."
-date: "2026-07-30"
+title: Celina Engle's Spiced Tea Mix
+category: Beverages
+collection: UK3
+source: Celina Engle
+tags:
+  - beverage
+  - tea
+  - instant
+  - spiced
+  - hotdrink
+description: A classic instant spiced tea mix from Celina Engle. This recipe combines the zesty citrus flavors of Tang and lemonade with instant tea and warm spices for a quick and comforting hot beverage.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Celina Engle's Spiced Tea Mix\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Celina Engle\"\n  },\n  \"datePublished\": \"2025-09-20\",\n  \"description\": \"A classic recipe for 'Russian' style instant tea mix, combining Tang, lemonade, instant tea, sugar, and spices.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Beverages/Tea/Assets/2025-03-15_133349.webp\"\n  ],\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT0M\",\n  \"totalTime\": \"PT10M\",\n  \"recipeYield\": \"Approx. 6 cups of mix (100+ servings)\",\n  \"recipeCategory\": \"Drink\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 cups Tang drink mix\",\n    \"2 cups sugar\",\n    \"3/4 to 1 cup unsweetened instant tea\",\n    \"1 (3-ounce) package sweetened lemonade mix powder\",\n    \"1 teaspoon ground cinnamon\",\n    \"1 teaspoon ground cloves\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a very large bowl, combine the Tang, sugar, lemonade mix, instant tea, cinnamon, and cloves.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Whisk or stir until all ingredients are thoroughly combined and the mixture is uniform in color.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Store the mix in a large, airtight container or jar.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"To serve, stir two rounded teaspoons of the mix into one cup of hot water until dissolved. Adjust to taste.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Celina Engle's Spiced Tea Mix",
+    "author": {
+      "@type": "Person",
+      "name": "Celina Engle"
+    },
+    "datePublished": "2025-09-20",
+    "description": "A classic recipe for 'Russian' style instant tea mix, combining Tang, lemonade, instant tea, sugar, and spices.",
+    "image": [
+      "https://cucinamezzaluna.com/Beverages/Tea/Assets/2025-03-15_133349.webp"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT0M",
+    "totalTime": "PT10M",
+    "recipeYield": "Approx. 6 cups of mix (100+ servings)",
+    "recipeCategory": "Drink",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 cups Tang drink mix",
+      "2 cups sugar",
+      "3/4 to 1 cup unsweetened instant tea",
+      "1 (3-ounce) package sweetened lemonade mix powder",
+      "1 teaspoon ground cinnamon",
+      "1 teaspoon ground cloves"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a very large bowl, combine the Tang, sugar, lemonade mix, instant tea, cinnamon, and cloves."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk or stir until all ingredients are thoroughly combined and the mixture is uniform in color."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Store the mix in a large, airtight container or jar."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To serve, stir two rounded teaspoons of the mix into one cup of hot water until dissolved. Adjust to taste."
+      }
+    ]
+  }
 ---
 
 # Celina Engle's Spiced Tea Mix

@@ -1,13 +1,49 @@
 ---
-title: "Entr\u00e9e Crepes"
-category: "Entrees"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["crepes", "french", "entree", "123", "brunch"]
-description: "Delicate and thin French-style cr\u00eapes ideal for savory fillings like creamed seafood or spinach. This classic recipe yields a light batter that requires a brief resting period before swirling into a hot pan."
-date: "2026-07-30"
+title: Entrée Crepes
+category: Entrees
+collection: Gail Collection
+source: Unknown
+tags:
+  - crepes
+  - french
+  - entree
+  - brunch
+description: Delicate and thin French-style crêpes ideal for savory fillings like creamed seafood or spinach. This classic recipe yields a light batter that requires a brief resting period before swirling into a hot pan.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Entr\u00e9e Crepes\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"Delicate and thin French-style cr\u00eapes ideal for savory fillings like creamed seafood or spinach.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT20M\",\n  \"recipeYield\": \"6\u20138 Servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"French\",\n  \"recipeIngredient\": [\n    \"1 cup sifted Flour\",\n    \"1/2 tsp Salt\",\n    \"2 Eggs\",\n    \"2 Egg Yolks\",\n    \"1 3/4 cups Milk\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Mix until smooth 1 cup sifted flour and 1/2 teaspoon salt. In a separate bowl, beat 2 eggs and 2 egg yolks. Gradually add 1 3/4 cups milk to the eggs. Combine the wet and dry ingredients and mix until smooth. Let the batter stand for 2 hours.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Heat a lightly buttered crepe pan or skillet over medium heat. Swirl about 2 tablespoons of batter to cover the pan. Cook for about 1 minute until sets, flip, and cook for 1 more minute until delicately brown.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Entrée Crepes",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "Delicate and thin French-style crêpes ideal for savory fillings like creamed seafood or spinach.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "recipeYield": "6–8 Servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "French",
+    "recipeIngredient": [
+      "1 cup sifted Flour",
+      "1/2 tsp Salt",
+      "2 Eggs",
+      "2 Egg Yolks",
+      "1 3/4 cups Milk"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix until smooth 1 cup sifted flour and 1/2 teaspoon salt. In a separate bowl, beat 2 eggs and 2 egg yolks. Gradually add 1 3/4 cups milk to the eggs. Combine the wet and dry ingredients and mix until smooth. Let the batter stand for 2 hours."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a lightly buttered crepe pan or skillet over medium heat. Swirl about 2 tablespoons of batter to cover the pan. Cook for about 1 minute until sets, flip, and cook for 1 more minute until delicately brown."
+      }
+    ]
+  }
 ---
 
 # Entrée Crepes

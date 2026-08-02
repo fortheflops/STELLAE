@@ -1,13 +1,19 @@
 ---
-title: "Classic Coffee Nut Tortoni"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "frozen", "coffee", "almond", "coconut", "nobake", "123"]
-description: "An elegant, no-bake frozen dessert featuring a light, airy mousse made from coffee-infused whipped cream and sweet meringue. This classic treat is studded with toasted almonds and coconut for a delightful crunch."
-date: "2026-07-30"
+title: Classic Coffee Nut Tortoni
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - frozen
+  - coffee
+  - almond
+  - coconut
+  - nobake
+description: An elegant, no-bake frozen dessert featuring a light, airy mousse made from coffee-infused whipped cream and sweet meringue. This classic treat is studded with toasted almonds and coconut for a delightful crunch.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Coffee Nut Tortoni\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"An elegant, no-bake frozen dessert featuring a light, airy mousse made from coffee-infused whipped cream and sweet meringue.\", \"prepTime\": \"PT25M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"8 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Coffee Nut Tortoni", "author": {"@type": "Person", "name": "Unknown"}, "description": "An elegant, no-bake frozen dessert featuring a light, airy mousse made from coffee-infused whipped cream and sweet meringue.", "prepTime": "PT25M", "cookTime": "PT0M", "recipeYield": "8 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Classic Coffee Nut Tortoni

@@ -1,13 +1,18 @@
 ---
-title: "Pots de Creme"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Michelle Ala"
-tags: ["chocolate", "custard", "nobake", "french", "dessert", "123"]
-description: "An incredibly simple and elegant no-bake chocolate pots de cr\u00e8me, made quickly in a blender for a rich, smooth, and decadent dessert. This classic French-inspired treat is perfect for effortless entertaining."
-date: "2026-07-30"
+title: Pots de Creme
+category: Desserts
+collection: Gail Collection
+source: Michelle Ala
+tags:
+  - chocolate
+  - custard
+  - nobake
+  - french
+  - dessert
+description: An incredibly simple and elegant no-bake chocolate pots de crème, made quickly in a blender for a rich, smooth, and decadent dessert. This classic French-inspired treat is perfect for effortless entertaining.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Pots de Creme\", \"author\": {\"@type\": \"Person\", \"name\": \"Michelle Ala\"}, \"description\": \"An incredibly simple and elegant no-bake chocolate pots de cr\u00e8me, made quickly in a blender for a rich, smooth, and decadent dessert.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"4-6 servings\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"French\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Pots de Creme", "author": {"@type": "Person", "name": "Michelle Ala"}, "description": "An incredibly simple and elegant no-bake chocolate pots de crème, made quickly in a blender for a rich, smooth, and decadent dessert.", "prepTime": "PT10M", "cookTime": "PT0M", "recipeYield": "4-6 servings", "recipeCategory": "Dessert", "recipeCuisine": "French"}'
 ---
 
 # Pots de Creme

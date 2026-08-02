@@ -1,13 +1,17 @@
 ---
-title: "Old Fashioned Strawberry Shortcake"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["shortcake", "dessert", "baking", "strawberries", "123"]
-description: "A classic, old-fashioned recipe for a single, large biscuit-style shortcake baked in a round pan. This rich cake is designed to be split and filled with fresh sweetened strawberries and whipped cream."
-date: "2026-07-30"
+title: Old Fashioned Strawberry Shortcake
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - shortcake
+  - dessert
+  - baking
+  - strawberries
+description: A classic, old-fashioned recipe for a single, large biscuit-style shortcake baked in a round pan. This rich cake is designed to be split and filled with fresh sweetened strawberries and whipped cream.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Old Fashioned Strawberry Shortcake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-05\", \"description\": \"A classic recipe for a single, large biscuit-style shortcake, baked in a round pan and designed to be split and filled with fruit.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT15M\", \"totalTime\": \"PT30M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"2 cups all-purpose flour\", \"6 tablespoons sugar\", \"1 tablespoon baking powder\", \"1/2 teaspoon salt\", \"1/3 cup cold butter, cubed\", \"1 large egg\", \"1/2 cup milk\", \"Melted butter, for brushing\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 450\\u00b0F. Grease an 8-inch round cake pan. Sift together the flour, baking powder, sugar, and salt. Cut in the cold butter until the mixture resembles coarse meal.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a measuring cup, beat the egg and add enough milk to make a total of 3/4 cup of liquid. Gradually stir this into the flour mixture to form a soft dough.\"}, {\"@type\": \"HowToStep\", \"text\": \"On a floured surface, knead the dough gently for about 20 seconds. Divide the dough in half.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pat half of the dough into the bottom of the prepared pan. Brush it with melted butter.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pat out the remaining half of the dough and place it on top.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake for 12 to 15 minutes, or until golden brown. Split the warm cake, and fill and top with sweetened strawberries and whipped cream.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Old Fashioned Strawberry Shortcake", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-05", "description": "A classic recipe for a single, large biscuit-style shortcake, baked in a round pan and designed to be split and filled with fruit.", "prepTime": "PT15M", "cookTime": "PT15M", "totalTime": "PT30M", "recipeYield": "6-8 servings", "recipeCategory": "Dessert", "recipeCuisine": "American", "recipeIngredient": ["2 cups all-purpose flour", "6 tablespoons sugar", "1 tablespoon baking powder", "1/2 teaspoon salt", "1/3 cup cold butter, cubed", "1 large egg", "1/2 cup milk", "Melted butter, for brushing"], "recipeInstructions": [{"@type": "HowToStep", "text": "Preheat oven to 450\u00b0F. Grease an 8-inch round cake pan. Sift together the flour, baking powder, sugar, and salt. Cut in the cold butter until the mixture resembles coarse meal."}, {"@type": "HowToStep", "text": "In a measuring cup, beat the egg and add enough milk to make a total of 3/4 cup of liquid. Gradually stir this into the flour mixture to form a soft dough."}, {"@type": "HowToStep", "text": "On a floured surface, knead the dough gently for about 20 seconds. Divide the dough in half."}, {"@type": "HowToStep", "text": "Pat half of the dough into the bottom of the prepared pan. Brush it with melted butter."}, {"@type": "HowToStep", "text": "Pat out the remaining half of the dough and place it on top."}, {"@type": "HowToStep", "text": "Bake for 12 to 15 minutes, or until golden brown. Split the warm cake, and fill and top with sweetened strawberries and whipped cream."}]}'
 ---
 
 # Old Fashioned Strawberry Shortcake

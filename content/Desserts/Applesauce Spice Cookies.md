@@ -1,13 +1,18 @@
 ---
-title: "Applesauce Spice Cookies"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["cookies", "123", "applesauce", "fruit", "holiday", "comfortfood"]
-description: "A classic recipe for soft, cake-like applesauce cookies. These old-fashioned drop cookies are packed with warm spices, raisins, and nuts for a hearty and delicious treat."
-date: "2026-07-30"
+title: Applesauce Spice Cookies
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - cookies
+  - applesauce
+  - fruit
+  - holiday
+  - comfortfood
+description: A classic recipe for soft, cake-like applesauce cookies. These old-fashioned drop cookies are packed with warm spices, raisins, and nuts for a hearty and delicious treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Applesauce Spice Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A soft, cake-like drop cookie made with applesauce, brown sugar, and spices, filled with raisins and nuts.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT12M\", \"recipeYield\": \"4 dozen cookies\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Applesauce Spice Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A soft, cake-like drop cookie made with applesauce, brown sugar, and spices, filled with raisins and nuts.", "prepTime": "PT15M", "cookTime": "PT12M", "recipeYield": "4 dozen cookies", "recipeCategory": "Dessert"}'
 ---
 
 # Applesauce Spice Cookies

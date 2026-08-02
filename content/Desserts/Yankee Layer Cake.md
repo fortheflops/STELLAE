@@ -1,13 +1,17 @@
 ---
-title: "Yankee Layer Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cake", "dessert", "spicecake", "123", "baking"]
-description: "A spectacularly rich and hearty three-layer spice cake packed with fruits and nuts, held together with a cooked candy-like filling."
-date: "2026-07-30"
+title: Yankee Layer Cake
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cake
+  - dessert
+  - spicecake
+  - baking
+description: A spectacularly rich and hearty three-layer spice cake packed with fruits and nuts, held together with a cooked candy-like filling.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Yankee Layer Cake\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-10-05\",\"description\":\"A spectacularly rich and hearty three-layer spice cake packed with fruits and nuts, held together with a cooked candy-like filling.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Cake/Layer-Cake/Assets/Handwritten_2025-01-28_173743.webp\",\"https://cucinamezzaluna.com/Desserts/Cake/Layer-Cake/Assets/Handwritten_2025-01-28_173824%20(2).webp\"],\"prepTime\":\"PT30M\",\"cookTime\":\"PT35M\",\"totalTime\":\"PT1H5M\",\"recipeYield\":\"1 3-layer cake\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1/2 cup butter, softened\",\"1 cup sugar\",\"4 egg yolks\",\"1/2 cup ribbon cane syrup\",\"2 cups all-purpose flour\",\"1/2 teaspoon baking soda\",\"1 teaspoon cinnamon\",\"2 teaspoons nutmeg\",\"1 teaspoon cloves\",\"1 teaspoon allspice\",\"2/3 cup buttermilk\",\"1 cup raisins\",\"1 cup chopped nuts\",\"1 large apple, chopped\",\"1 cup coconut\",\"1/2 cup drained crushed pineapple\",\"2 cups sugar\",\"1 cup milk\",\"2 tablespoons butter\",\"1 cup chopped nuts\",\"1 cup chopped dates\",\"1 cup coconut\",\"1/2 cup drained crushed pineapple\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 350\u00b0F. Grease and flour three 9-inch round cake pans.\"},{\"@type\":\"HowToStep\",\"text\":\"Make the cake: Cream the butter and sugar. Beat in the egg yolks and syrup. In a separate bowl, whisk the flour, soda, and spices. Add this to the creamed mixture alternately with the buttermilk. Fold in the raisins, nuts, apples, coconut, and pineapple.\"},{\"@type\":\"HowToStep\",\"text\":\"Divide the batter among the prepared pans and bake for 30-35 minutes. Let cool completely.\"},{\"@type\":\"HowToStep\",\"text\":\"Make the filling: In a saucepan, combine all filling ingredients. Cook over medium heat, stirring constantly, until the mixture thickens to a spreadable consistency. Let it cool slightly.\"},{\"@type\":\"HowToStep\",\"text\":\"Assemble the cake by spreading the warm filling between the completely cooled cake layers and on top of the cake.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Yankee Layer Cake","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-10-05","description":"A spectacularly rich and hearty three-layer spice cake packed with fruits and nuts, held together with a cooked candy-like filling.","image":["https://cucinamezzaluna.com/Desserts/Cake/Layer-Cake/Assets/Handwritten_2025-01-28_173743.webp","https://cucinamezzaluna.com/Desserts/Cake/Layer-Cake/Assets/Handwritten_2025-01-28_173824%20(2).webp"],"prepTime":"PT30M","cookTime":"PT35M","totalTime":"PT1H5M","recipeYield":"1 3-layer cake","recipeCategory":"Dessert","recipeCuisine":"American","recipeIngredient":["1/2 cup butter, softened","1 cup sugar","4 egg yolks","1/2 cup ribbon cane syrup","2 cups all-purpose flour","1/2 teaspoon baking soda","1 teaspoon cinnamon","2 teaspoons nutmeg","1 teaspoon cloves","1 teaspoon allspice","2/3 cup buttermilk","1 cup raisins","1 cup chopped nuts","1 large apple, chopped","1 cup coconut","1/2 cup drained crushed pineapple","2 cups sugar","1 cup milk","2 tablespoons butter","1 cup chopped nuts","1 cup chopped dates","1 cup coconut","1/2 cup drained crushed pineapple"],"recipeInstructions":[{"@type":"HowToStep","text":"Preheat oven to 350°F. Grease and flour three 9-inch round cake pans."},{"@type":"HowToStep","text":"Make the cake: Cream the butter and sugar. Beat in the egg yolks and syrup. In a separate bowl, whisk the flour, soda, and spices. Add this to the creamed mixture alternately with the buttermilk. Fold in the raisins, nuts, apples, coconut, and pineapple."},{"@type":"HowToStep","text":"Divide the batter among the prepared pans and bake for 30-35 minutes. Let cool completely."},{"@type":"HowToStep","text":"Make the filling: In a saucepan, combine all filling ingredients. Cook over medium heat, stirring constantly, until the mixture thickens to a spreadable consistency. Let it cool slightly."},{"@type":"HowToStep","text":"Assemble the cake by spreading the warm filling between the completely cooled cake layers and on top of the cake."}]}'
 ---
 
 # Yankee Layer Cake

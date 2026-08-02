@@ -1,13 +1,17 @@
 ---
-title: "Shrimp Dip"
-category: "Appetizers"
-collection: "UK3"
-source: "Unknown"
-tags: ["shrimp", "dip", "appetizer", "123", "seafood"]
-description: "A classic, creamy shrimp dip featuring a savory blend of cream cheese, sour cream, and aromatic seasonings. Perfect for parties and gatherings, this vintage recipe is best served chilled with your favorite crackers."
-date: "2026-07-30"
+title: Shrimp Dip
+category: Appetizers
+collection: UK3
+source: Unknown
+tags:
+  - shrimp
+  - dip
+  - appetizer
+  - seafood
+description: A classic, creamy shrimp dip featuring a savory blend of cream cheese, sour cream, and aromatic seasonings. Perfect for parties and gatherings, this vintage recipe is best served chilled with your favorite crackers.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Shrimp Dip\", \"recipeIngredient\": [\"8 Ounces Cream Cheese\", \"1/2 Pint Sour Cream\", \"1 Can Shrimp\", \"3-4 Green Onions\", \"1 Tablespoon Worcestershire Sauce\", \"1 1/2 Teaspoons Garlic Salt\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine all ingredients in a bowl and mix thoroughly.\"}, {\"@type\": \"HowToStep\", \"text\": \"Chill for 30 minutes before serving.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Shrimp Dip", "recipeIngredient": ["8 Ounces Cream Cheese", "1/2 Pint Sour Cream", "1 Can Shrimp", "3-4 Green Onions", "1 Tablespoon Worcestershire Sauce", "1 1/2 Teaspoons Garlic Salt"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine all ingredients in a bowl and mix thoroughly."}, {"@type": "HowToStep", "text": "Chill for 30 minutes before serving."}]}'
 ---
 
 # Shrimp Dip

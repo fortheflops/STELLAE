@@ -1,13 +1,18 @@
 ---
-title: "Easy Rocky Road Fudge"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["fudge", "rockyroad", "nobake", "candy", "chocolate", "123"]
-description: "A quick and foolproof no-bake recipe for classic Rocky Road fudge. This decadent treat combines melted chocolate, sweetened condensed milk, fluffy marshmallows, and crunchy nuts."
-date: "2026-07-30"
+title: Easy Rocky Road Fudge
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - fudge
+  - rockyroad
+  - nobake
+  - candy
+  - chocolate
+description: A quick and foolproof no-bake recipe for classic Rocky Road fudge. This decadent treat combines melted chocolate, sweetened condensed milk, fluffy marshmallows, and crunchy nuts.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Easy Rocky Road Fudge\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A quick and foolproof no-bake recipe for classic Rocky Road fudge.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"24 squares\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"2 pkgs (12 oz each) Chocolate Chips\", \"1 can (14 oz) Sweetened Condensed Milk\", \"1 tsp Vanilla\", \"1 pkg (10 oz) Marshmallows\", \"1 cup Nuts\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Easy Rocky Road Fudge", "author": {"@type": "Person", "name": "Unknown"}, "description": "A quick and foolproof no-bake recipe for classic Rocky Road fudge.", "prepTime": "PT15M", "cookTime": "PT5M", "recipeYield": "24 squares", "recipeCategory": "Desserts", "recipeIngredient": ["2 pkgs (12 oz each) Chocolate Chips", "1 can (14 oz) Sweetened Condensed Milk", "1 tsp Vanilla", "1 pkg (10 oz) Marshmallows", "1 cup Nuts"]}'
 ---
 
 # Easy Rocky Road Fudge

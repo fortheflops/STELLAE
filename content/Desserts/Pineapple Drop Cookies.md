@@ -1,13 +1,17 @@
 ---
-title: "Pineapple Drop Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "pineapple", "123", "dessert", "fruit"]
-description: "A classic recipe for soft, cake-like pineapple drop cookies. This old-fashioned treat features brown sugar and well-drained crushed pineapple for a moist, chewy texture."
-date: "2026-07-30"
+title: Pineapple Drop Cookies
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - pineapple
+  - dessert
+  - fruit
+description: A classic recipe for soft, cake-like pineapple drop cookies. This old-fashioned treat features brown sugar and well-drained crushed pineapple for a moist, chewy texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Pineapple Drop Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic recipe for soft, cake-like pineapple drop cookies.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"4 dozen\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"2 cups flour\", \"1 1/2 tsp baking powder\", \"1/4 tsp baking soda\", \"1 tsp salt\", \"2/3 cup shortening\", \"1 1/4 cups brown sugar\", \"2 eggs\", \"3/4 cup pineapple\", \"1 tsp vanilla\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Pineapple Drop Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic recipe for soft, cake-like pineapple drop cookies.", "prepTime": "PT15M", "cookTime": "PT10M", "recipeYield": "4 dozen", "recipeCategory": "Desserts", "recipeIngredient": ["2 cups flour", "1 1/2 tsp baking powder", "1/4 tsp baking soda", "1 tsp salt", "2/3 cup shortening", "1 1/4 cups brown sugar", "2 eggs", "3/4 cup pineapple", "1 tsp vanilla"]}'
 ---
 
 # Pineapple Drop Cookies

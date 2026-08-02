@@ -1,13 +1,17 @@
 ---
-title: "Classic Apple Crunch"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["dessert", "apple", "crunch", "123", "fruit"]
-description: "A simple and delicious apple crunch featuring tender, sweetened apples and a buttery brown sugar and cinnamon crumble topping. This classic dessert is perfect for any occasion."
-date: "2026-07-30"
+title: Classic Apple Crunch
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - dessert
+  - apple
+  - crunch
+  - fruit
+description: A simple and delicious apple crunch featuring tender, sweetened apples and a buttery brown sugar and cinnamon crumble topping. This classic dessert is perfect for any occasion.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Apple Crunch\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A simple and delicious apple crunch featuring tender, sweetened apples and a buttery brown sugar and cinnamon crumble topping.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT45M\", \"recipeYield\": \"6 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Apple Crunch", "author": {"@type": "Person", "name": "Unknown"}, "description": "A simple and delicious apple crunch featuring tender, sweetened apples and a buttery brown sugar and cinnamon crumble topping.", "prepTime": "PT10M", "cookTime": "PT45M", "recipeYield": "6 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Classic Apple Crunch

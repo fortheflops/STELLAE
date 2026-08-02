@@ -1,11 +1,16 @@
 ---
-title: "Christmas Cane Cookies"
-category: "Desserts"
-collection: "LouiseCollection"
-source: "Unknown"
-tags: ["cookies", "holiday", "christmas", "peppermint", "buttercookies", "123"]
-description: "These festive almond-vanilla butter cookies are twisted into charming candy cane shapes and finished with a crunchy peppermint sugar topping. Perfect for holiday gifting, this classic recipe yields a beautiful, professional-looking treat."
-date: "2026-07-30"
+title: Christmas Cane Cookies
+category: Desserts
+collection: LouiseCollection
+source: Unknown
+tags:
+  - cookies
+  - holiday
+  - christmas
+  - peppermint
+  - buttercookies
+description: These festive almond-vanilla butter cookies are twisted into charming candy cane shapes and finished with a crunchy peppermint sugar topping. Perfect for holiday gifting, this classic recipe yields a beautiful, professional-looking treat.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Christmas Cane Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"Festive almond-vanilla butter cookies twisted into candy cane shapes.\", \"prepTime\": \"PT30M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"48 cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 cup butter\", \"1 cup confectioners' sugar\", \"1 egg\", \"1 1/2 tsp vanilla extract\", \"1/2 tsp almond extract\", \"2 1/2 cups flour\", \"1/2 tsp salt\", \"1/2 tsp red food coloring\", \"1/4 cup crushed peppermint candy\", \"1/4 cup granulated sugar\"]}"
 ---

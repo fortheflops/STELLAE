@@ -1,11 +1,15 @@
 ---
-title: "Martha Daniel's Lace Cookies"
-category: "Desserts"
-collection: "UK3"
-source: "Martha Daniel"
-tags: ["cookies", "lacecookies", "oats", "123", "crispy"]
-description: "A classic recipe for thin, crispy, and buttery oatmeal lace cookies. This simple batter is chilled overnight and baked on foil for a delicate, see-through texture."
-date: "2026-07-30"
+title: Martha Daniel's Lace Cookies
+category: Desserts
+collection: UK3
+source: Martha Daniel
+tags:
+  - cookies
+  - lacecookies
+  - oats
+  - crispy
+description: A classic recipe for thin, crispy, and buttery oatmeal lace cookies. This simple batter is chilled overnight and baked on foil for a delicate, see-through texture.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Martha Daniel's Lace Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Martha Daniel\"}, \"description\": \"A classic recipe for thin, crispy, and buttery oatmeal lace cookies.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"5-6 dozen\", \"recipeCategory\": \"Dessert\"}"
 ---

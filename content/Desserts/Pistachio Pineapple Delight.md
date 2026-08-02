@@ -1,13 +1,19 @@
 ---
-title: "Pistachio Pineapple Delight"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "salad", "pistachio", "pineapple", "nobake", "potluck", "123"]
-description: "A classic, super-easy recipe for a fluffy dessert salad. This no-bake potluck staple combines pistachio pudding, pineapple, marshmallows, and nuts in a creamy Cool Whip base."
-date: "2026-07-30"
+title: Pistachio Pineapple Delight
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - salad
+  - pistachio
+  - pineapple
+  - nobake
+  - potluck
+description: A classic, super-easy recipe for a fluffy dessert salad. This no-bake potluck staple combines pistachio pudding, pineapple, marshmallows, and nuts in a creamy Cool Whip base.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Pistachio Pineapple Delight\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, super-easy recipe for a fluffy dessert salad. This no-bake potluck staple combines pistachio pudding, pineapple, marshmallows, and nuts in a creamy Cool Whip base.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"8 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"8 oz Cool Whip, thawed\", \"1 pkg (3.4 oz) Pistachio Instant Pudding mix (dry)\", \"2 Cups crushed pineapple, undrained\", \"1 Cup mini marshmallows\", \"1/2 Cup chopped nuts\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Pistachio Pineapple Delight", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, super-easy recipe for a fluffy dessert salad. This no-bake potluck staple combines pistachio pudding, pineapple, marshmallows, and nuts in a creamy Cool Whip base.", "prepTime": "PT10M", "cookTime": "PT0M", "recipeYield": "8 servings", "recipeCategory": "Dessert", "recipeIngredient": ["8 oz Cool Whip, thawed", "1 pkg (3.4 oz) Pistachio Instant Pudding mix (dry)", "2 Cups crushed pineapple, undrained", "1 Cup mini marshmallows", "1/2 Cup chopped nuts"]}'
 ---
 
 # Pistachio Pineapple Delight

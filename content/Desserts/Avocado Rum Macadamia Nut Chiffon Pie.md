@@ -1,13 +1,20 @@
 ---
-title: "Avocado Rum Macadamia Nut Chiffon Pie"
-category: "Desserts"
-collection: "PatsyCollection"
-source: "Hotel Hana-Maui"
-tags: ["pie", "chiffon", "avocado", "rum", "macadamia", "hawaiian", "dessert", "123"]
-description: "A unique and elegant chiffon pie featuring a light and airy filling of creamy avocado, a hint of rum, and a crunchy macadamia nut topping. Originating from the historic Hotel Hana-Maui, this dessert offers a delightful tropical twist."
-date: "2026-07-30"
+title: Avocado Rum Macadamia Nut Chiffon Pie
+category: Desserts
+collection: PatsyCollection
+source: Hotel Hana-Maui
+tags:
+  - pie
+  - chiffon
+  - avocado
+  - rum
+  - macadamia
+  - hawaiian
+  - dessert
+description: A unique and elegant chiffon pie featuring a light and airy filling of creamy avocado, a hint of rum, and a crunchy macadamia nut topping. Originating from the historic Hotel Hana-Maui, this dessert offers a delightful tropical twist.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Avocado Rum Macadamia Nut Chiffon Pie\", \"author\": {\"@type\": \"Person\", \"name\": \"Hotel Hana-Maui\"}, \"datePublished\": \"2025-10-14\", \"description\": \"A unique and elegant chiffon pie from the Hotel Hana-Maui, featuring a light and airy filling of creamy avocado, a hint of rum, and a crunchy macadamia nut topping.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT10M\", \"totalTime\": \"PT30M\", \"recipeYield\": \"One 9-inch pie\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"Hawaiian\", \"recipeIngredient\": [\"1 baked 9-inch Pie Crust, cooled\", \"1 Cup strained ripe avocado\", \"4 Egg Yolks\", \"1/4 Cup Butter\", \"Dash of Cinnamon\", \"Dash of Nutmeg\", \"2 Tbsp Sugar\", \"Juice of 1/2 Lemon\", \"1 Tbsp Gelatin\", \"1/4 Cup Rum\", \"4 Egg Whites\", \"1/2 Cup Sugar\", \"1/4 Cup Macadamia Nuts, chopped\", \"Whipped cream, for garnish\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Avocado Rum Macadamia Nut Chiffon Pie", "author": {"@type": "Person", "name": "Hotel Hana-Maui"}, "datePublished": "2025-10-14", "description": "A unique and elegant chiffon pie from the Hotel Hana-Maui, featuring a light and airy filling of creamy avocado, a hint of rum, and a crunchy macadamia nut topping.", "prepTime": "PT20M", "cookTime": "PT10M", "totalTime": "PT30M", "recipeYield": "One 9-inch pie", "recipeCategory": "Dessert", "recipeCuisine": "Hawaiian", "recipeIngredient": ["1 baked 9-inch Pie Crust, cooled", "1 Cup strained ripe avocado", "4 Egg Yolks", "1/4 Cup Butter", "Dash of Cinnamon", "Dash of Nutmeg", "2 Tbsp Sugar", "Juice of 1/2 Lemon", "1 Tbsp Gelatin", "1/4 Cup Rum", "4 Egg Whites", "1/2 Cup Sugar", "1/4 Cup Macadamia Nuts, chopped", "Whipped cream, for garnish"]}'
 ---
 
 # Avocado Rum Macadamia Nut Chiffon Pie

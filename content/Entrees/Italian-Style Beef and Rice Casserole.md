@@ -1,13 +1,20 @@
 ---
-title: "Italian-Style Beef and Rice Casserole"
-category: "Entrees"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["casserole", "italian", "beef", "rice", "meatballs", "baked", "comfortfood", "123"]
-description: "A rich, hearty, and layered casserole featuring a slow-cooked beef and tomato ragu baked with rice, meatballs, hard-boiled eggs, and Swiss cheese. This true company casserole brings together classic Italian-American comfort flavors."
-date: "2026-07-30"
+title: Italian-Style Beef and Rice Casserole
+category: Entrees
+collection: Gail Collection
+source: Unknown
+tags:
+  - casserole
+  - italian
+  - beef
+  - rice
+  - meatballs
+  - baked
+  - comfortfood
+description: A rich, hearty, and layered casserole featuring a slow-cooked beef and tomato ragu baked with rice, meatballs, hard-boiled eggs, and Swiss cheese. This true company casserole brings together classic Italian-American comfort flavors.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Italian-Style Beef and Rice Casserole\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-16\", \"description\": \"A rich, hearty, and layered casserole featuring a slow-cooked beef and tomato sauce (ragu) baked with rice, meatballs, hard-boiled eggs, and Swiss cheese.\", \"image\": [\"https://cucinamezzaluna.com/Entrees/Casserole/Meat/Beef/Assets/Handwritten_2025-06-23_165003%20(2).webp\", \"https://cucinamezzaluna.com/Entrees/Casserole/Meat/Beef/Assets/Handwritten_2025-06-23_162806.webp\"], \"prepTime\": \"PT45M\", \"cookTime\": \"PT3H30M\", \"totalTime\": \"PT4H15M\", \"recipeYield\": \"10-12 servings\", \"recipeCategory\": \"Entrees\", \"recipeCuisine\": \"Italian-American\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Italian-Style Beef and Rice Casserole", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-16", "description": "A rich, hearty, and layered casserole featuring a slow-cooked beef and tomato sauce (ragu) baked with rice, meatballs, hard-boiled eggs, and Swiss cheese.", "image": ["https://cucinamezzaluna.com/Entrees/Casserole/Meat/Beef/Assets/Handwritten_2025-06-23_165003%20(2).webp", "https://cucinamezzaluna.com/Entrees/Casserole/Meat/Beef/Assets/Handwritten_2025-06-23_162806.webp"], "prepTime": "PT45M", "cookTime": "PT3H30M", "totalTime": "PT4H15M", "recipeYield": "10-12 servings", "recipeCategory": "Entrees", "recipeCuisine": "Italian-American"}'
 ---
 
 # Italian-Style Beef and Rice Casserole

@@ -1,13 +1,17 @@
 ---
-title: "Chocolate Mousse"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["dessert", "chocolate", "mousse", "french", "123"]
-description: "A classic and rich chocolate mousse with a light, airy texture, created by folding stiffly beaten egg whites into a smooth chocolate, butter, and egg yolk base. This elegant dessert is perfect for chilled serving and can be customized with whipped cream or ice cream."
-date: "2026-07-30"
+title: Chocolate Mousse
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - dessert
+  - chocolate
+  - mousse
+  - french
+description: A classic and rich chocolate mousse with a light, airy texture, created by folding stiffly beaten egg whites into a smooth chocolate, butter, and egg yolk base. This elegant dessert is perfect for chilled serving and can be customized with whipped cream or ice cream.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Chocolate Mousse\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic and rich chocolate mousse with a light, airy texture, created by folding stiffly beaten egg whites into a smooth chocolate, butter, and egg yolk base.\", \"prepTime\": \"PT25M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"4-6 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 package (6-12 oz) semi-sweet chocolate, chopped\", \"2 tablespoons water\", \"3 large egg yolks\", \"3 large egg whites\", \"1/2 cup (1 stick) butter, cut into small pieces\", \"Melted vanilla ice cream or whipped cream, for serving\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Chocolate Mousse", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic and rich chocolate mousse with a light, airy texture, created by folding stiffly beaten egg whites into a smooth chocolate, butter, and egg yolk base.", "prepTime": "PT25M", "cookTime": "PT5M", "recipeYield": "4-6 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 package (6-12 oz) semi-sweet chocolate, chopped", "2 tablespoons water", "3 large egg yolks", "3 large egg whites", "1/2 cup (1 stick) butter, cut into small pieces", "Melted vanilla ice cream or whipped cream, for serving"]}'
 ---
 
 # Chocolate Mousse

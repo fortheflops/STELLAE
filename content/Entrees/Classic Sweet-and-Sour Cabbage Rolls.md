@@ -1,13 +1,17 @@
 ---
-title: "Classic Sweet-and-Sour Cabbage Rolls"
-category: "Entrees"
-collection: "JillCollection"
-source: "Unknown"
-tags: ["cabbagerolls", "comfortfood", "beef", "entree", "123"]
-description: "A classic comfort food featuring tender cabbage leaves stuffed with seasoned ground chuck and slow-cooked in a tangy-sweet tomato and brown sugar sauce."
-date: "2026-07-30"
+title: Classic Sweet-and-Sour Cabbage Rolls
+category: Entrees
+collection: JillCollection
+source: Unknown
+tags:
+  - cabbagerolls
+  - comfortfood
+  - beef
+  - entree
+description: A classic comfort food featuring tender cabbage leaves stuffed with seasoned ground chuck and slow-cooked in a tangy-sweet tomato and brown sugar sauce.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Sweet-and-Sour Cabbage Rolls\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-08-05\", \"description\": \"Tender cabbage leaves stuffed with seasoned ground chuck, slow-cooked in a tangy-sweet tomato and brown sugar sauce.\", \"image\": [\"https://cucinamezzaluna.com/Entrees/Meat/Beef/Cabbage Rolls/Assets/Cabbage Rolls JC-1754440295918.webp\"], \"prepTime\": \"PT30M\", \"cookTime\": \"PT2H30M\", \"totalTime\": \"PT3H\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Entree\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 large head Cabbage\", \"2 pounds Ground Chuck\", \"1 large (48 oz) can Tomato Juice or V-8 Juice\", \"1/3 cup Brown Sugar (or to taste)\", \"1 Lemon, juiced\", \"Salt and Pepper, to taste\", \"Salsa (Optional)\", \"Toothpicks (As Needed)\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Sweet-and-Sour Cabbage Rolls", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-08-05", "description": "Tender cabbage leaves stuffed with seasoned ground chuck, slow-cooked in a tangy-sweet tomato and brown sugar sauce.", "image": ["https://cucinamezzaluna.com/Entrees/Meat/Beef/Cabbage Rolls/Assets/Cabbage Rolls JC-1754440295918.webp"], "prepTime": "PT30M", "cookTime": "PT2H30M", "totalTime": "PT3H", "recipeYield": "6-8 servings", "recipeCategory": "Entree", "recipeCuisine": "American", "recipeIngredient": ["1 large head Cabbage", "2 pounds Ground Chuck", "1 large (48 oz) can Tomato Juice or V-8 Juice", "1/3 cup Brown Sugar (or to taste)", "1 Lemon, juiced", "Salt and Pepper, to taste", "Salsa (Optional)", "Toothpicks (As Needed)"]}'
 ---
 
 # Classic Sweet-and-Sour Cabbage Rolls

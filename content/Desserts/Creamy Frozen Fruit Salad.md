@@ -1,11 +1,16 @@
 ---
-title: "Creamy Frozen Fruit Salad"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["123", "frozen", "fruit", "custard", "retro", "dessert"]
-description: "A classic frozen fruit salad featuring a rich, smooth custard base that is cooked on the stovetop before being folded with fruit cocktail and frozen. This versatile, nostalgic treat can be served as a sweet dessert or a savory-style side salad."
-date: "2026-07-30"
+title: Creamy Frozen Fruit Salad
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - frozen
+  - fruit
+  - custard
+  - retro
+  - dessert
+description: A classic frozen fruit salad featuring a rich, smooth custard base that is cooked on the stovetop before being folded with fruit cocktail and frozen. This versatile, nostalgic treat can be served as a sweet dessert or a savory-style side salad.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Creamy Frozen Fruit Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic frozen fruit salad featuring a rich, smooth custard base that's cooked on the stovetop before being folded with fruit cocktail and frozen.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Dessert\"}"
 ---

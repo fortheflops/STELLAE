@@ -1,13 +1,17 @@
 ---
-title: "Orange-Spice Cookies"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["cookies", "123", "orange", "spice", "molasses"]
-description: "A soft, cake-like drop cookie featuring the warm, nostalgic flavors of molasses, ginger, cloves, and fresh orange peel. These old-fashioned treats are perfect for holiday baking or a cozy afternoon snack."
-date: "2026-07-30"
+title: Orange-Spice Cookies
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - cookies
+  - orange
+  - spice
+  - molasses
+description: A soft, cake-like drop cookie featuring the warm, nostalgic flavors of molasses, ginger, cloves, and fresh orange peel. These old-fashioned treats are perfect for holiday baking or a cozy afternoon snack.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Orange-Spice Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A soft, cake-like drop cookie with the warm flavors of molasses, orange, ginger, and cloves.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT12M\", \"recipeYield\": \"42 cookies\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Orange-Spice Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A soft, cake-like drop cookie with the warm flavors of molasses, orange, ginger, and cloves.", "prepTime": "PT15M", "cookTime": "PT12M", "recipeYield": "42 cookies", "recipeCategory": "Dessert"}'
 ---
 
 # Orange-Spice Cookies

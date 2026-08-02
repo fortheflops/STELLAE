@@ -1,13 +1,67 @@
 ---
-title: "Incredible Pudding Cake"
-category: "Desserts"
-collection: "UK15"
-source: "Moonlite"
-tags: ["dessert", "cake", "chocolate", "puddingcake", "selfsaucing", "123"]
-description: "Indulge in a magical self-saucing chocolate pudding cake featuring a tender top layer and a rich, hot fudge sauce underneath. This easy dessert transforms in the oven into a decadent treat perfect with ice cream."
-date: "2026-07-30"
+title: Incredible Pudding Cake
+category: Desserts
+collection: UK15
+source: Moonlite
+tags:
+  - dessert
+  - cake
+  - chocolate
+  - puddingcake
+  - selfsaucing
+description: Indulge in a magical self-saucing chocolate pudding cake featuring a tender top layer and a rich, hot fudge sauce underneath. This easy dessert transforms in the oven into a decadent treat perfect with ice cream.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Incredible Pudding Cake (Self-Saucing)\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Moonlite\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"An easy, self-saucing chocolate pudding cake made with a cake mix. The cake bakes on top of a rich chocolate sauce that forms underneath.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Pudding-Cake/Assets/Incredible%20Cake%20(Pudding%20Cake)%20UK15-1752281211263.webp\"\n  ],\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT45M\",\n  \"totalTime\": \"PT1H\",\n  \"recipeYield\": \"12 servings\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 box Betty Crocker Devil's Food or Yellow Cake Mix, plus ingredients to prepare it\",\n    \"1 cup brown sugar\",\n    \"1/2 cup cocoa powder\",\n    \"2 cups hot water\",\n    \"Serving suggestion: Cream or ice cream\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F. Prepare the cake mix batter according to the directions on the box.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a 9x13 inch baking pan, whisk together the brown sugar, cocoa powder, and hot water until the sugar and cocoa are dissolved. This will be your sauce layer.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Gently pour or spoon the prepared cake batter over the liquid sauce mixture in the pan. Do not stir or mix the layers together.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Carefully place the pan in the oven and bake for about 45 minutes, or until the cake top is set and springs back when lightly touched.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Let cool for about 15 minutes before serving. Serve warm by spooning the cake and the sauce from the bottom of the pan into bowls. Top with cream or ice cream.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Incredible Pudding Cake (Self-Saucing)",
+    "author": {
+      "@type": "Person",
+      "name": "Moonlite"
+    },
+    "datePublished": "2025-10-05",
+    "description": "An easy, self-saucing chocolate pudding cake made with a cake mix. The cake bakes on top of a rich chocolate sauce that forms underneath.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Pudding-Cake/Assets/Incredible%20Cake%20(Pudding%20Cake)%20UK15-1752281211263.webp"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "totalTime": "PT1H",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 box Betty Crocker Devil's Food or Yellow Cake Mix, plus ingredients to prepare it",
+      "1 cup brown sugar",
+      "1/2 cup cocoa powder",
+      "2 cups hot water",
+      "Serving suggestion: Cream or ice cream"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F. Prepare the cake mix batter according to the directions on the box."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a 9x13 inch baking pan, whisk together the brown sugar, cocoa powder, and hot water until the sugar and cocoa are dissolved. This will be your sauce layer."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently pour or spoon the prepared cake batter over the liquid sauce mixture in the pan. Do not stir or mix the layers together."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Carefully place the pan in the oven and bake for about 45 minutes, or until the cake top is set and springs back when lightly touched."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let cool for about 15 minutes before serving. Serve warm by spooning the cake and the sauce from the bottom of the pan into bowls. Top with cream or ice cream."
+      }
+    ]
+  }
 ---
 
 # Incredible Pudding Cake

@@ -1,13 +1,74 @@
 ---
-title: "Mamie's Turtle Cake"
-category: "Desserts"
-collection: "UK15"
-source: "Mamie"
-tags: ["dessert", "cake", "chocolate", "caramel", "turtle", "baking", "123"]
-description: "A rich, layered bar-style cake featuring a gooey caramel, chocolate chip, and nut filling sandwiched between a simple German Chocolate cake mix batter. This decadent treat brings all the classic flavors of turtle candy into an easy-to-bake pan dessert."
-date: "2026-07-30"
+title: Mamie's Turtle Cake
+category: Desserts
+collection: UK15
+source: Mamie
+tags:
+  - dessert
+  - cake
+  - chocolate
+  - caramel
+  - turtle
+  - baking
+description: A rich, layered bar-style cake featuring a gooey caramel, chocolate chip, and nut filling sandwiched between a simple German Chocolate cake mix batter. This decadent treat brings all the classic flavors of turtle candy into an easy-to-bake pan dessert.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Mamie's Turtle Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Mamie\"\n  },\n  \"datePublished\": \"2025-09-22\",\n  \"description\": \"A rich, layered bar-style cake with a gooey caramel, chocolate chip, and nut filling, made with a simple German Chocolate cake mix batter for the top and bottom crusts.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Chocolate-Cake/German-Chocolate/Assets/Turtle%20Cake%20UK15-1752705766078.webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT35M\",\n  \"totalTime\": \"PT55M\",\n  \"recipeYield\": \"24 servings\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 box Pillsbury German Chocolate Cake Mix\",\n    \"3/4 cup (1 1/2 sticks) butter, melted\",\n    \"2/3 cup evaporated milk (for batter)\",\n    \"1 (14-ounce) bag Kraft caramels, unwrapped\",\n    \"1/3 cup evaporated milk (for caramel layer)\",\n    \"1 cup chocolate chips\",\n    \"1 cup nuts, chopped\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F. Grease a 9x13 inch pan. In a bowl, mix the dry German chocolate cake mix, 2/3 cup of evaporated milk, and the melted butter to form a thick batter.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Spread half of this batter into the prepared pan and bake for 15 minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"While the first layer bakes, melt the caramels with 1/3 cup of evaporated milk in a saucepan over low heat, stirring until smooth.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the melted caramel mixture over the baked cake layer. Sprinkle the chocolate chips and nuts over the caramel.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Carefully drop spoonfuls of the remaining batter over the top and gently spread to cover the filling.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Return to the oven and bake for another 20 minutes, or until the top layer is set. Cool completely before cutting.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Mamie's Turtle Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Mamie"
+    },
+    "datePublished": "2025-09-22",
+    "description": "A rich, layered bar-style cake with a gooey caramel, chocolate chip, and nut filling, made with a simple German Chocolate cake mix batter for the top and bottom crusts.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Chocolate-Cake/German-Chocolate/Assets/Turtle%20Cake%20UK15-1752705766078.webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT35M",
+    "totalTime": "PT55M",
+    "recipeYield": "24 servings",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 box Pillsbury German Chocolate Cake Mix",
+      "3/4 cup (1 1/2 sticks) butter, melted",
+      "2/3 cup evaporated milk (for batter)",
+      "1 (14-ounce) bag Kraft caramels, unwrapped",
+      "1/3 cup evaporated milk (for caramel layer)",
+      "1 cup chocolate chips",
+      "1 cup nuts, chopped"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F. Grease a 9x13 inch pan. In a bowl, mix the dry German chocolate cake mix, 2/3 cup of evaporated milk, and the melted butter to form a thick batter."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread half of this batter into the prepared pan and bake for 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the first layer bakes, melt the caramels with 1/3 cup of evaporated milk in a saucepan over low heat, stirring until smooth."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the melted caramel mixture over the baked cake layer. Sprinkle the chocolate chips and nuts over the caramel."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Carefully drop spoonfuls of the remaining batter over the top and gently spread to cover the filling."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return to the oven and bake for another 20 minutes, or until the top layer is set. Cool completely before cutting."
+      }
+    ]
+  }
 ---
 
 # Mamie's Turtle Cake

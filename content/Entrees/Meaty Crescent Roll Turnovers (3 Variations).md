@@ -1,13 +1,17 @@
 ---
-title: "Meaty Crescent Roll Turnovers (3 Variations)"
-category: "Entrees"
-collection: "JohnBCollection"
-source: "Unknown"
-tags: ["entree", "turnovers", "crescentrolls", "123", "quickmeals"]
+title: Meaty Crescent Roll Turnovers (3 Variations)
+category: Entrees
+collection: JohnBCollection
+source: Unknown
+tags:
+  - entree
+  - turnovers
+  - crescentrolls
+  - quickmeals
 description: "Discover quick and easy savory turnovers made with refrigerated crescent rolls and three delicious vintage filling options: Ham, Chicken Pimento, and Tuna Melt. Perfect for a comforting weeknight meal or party appetizer."
-date: "2026-07-30"
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Meaty Crescent Roll Turnovers\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"Savory turnovers using crescent rolls with options for ham, chicken, or tuna fillings.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT25M\", \"totalTime\": \"PT45M\", \"recipeYield\": \"4 servings\", \"recipeCategory\": \"Entrees\", \"recipeCuisine\": \"American\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Meaty Crescent Roll Turnovers", "author": {"@type": "Person", "name": "Unknown"}, "description": "Savory turnovers using crescent rolls with options for ham, chicken, or tuna fillings.", "prepTime": "PT20M", "cookTime": "PT25M", "totalTime": "PT45M", "recipeYield": "4 servings", "recipeCategory": "Entrees", "recipeCuisine": "American"}'
 ---
 
 # Meaty Crescent Roll Turnovers (3 Variations)

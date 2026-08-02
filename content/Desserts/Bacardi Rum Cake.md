@@ -1,13 +1,18 @@
 ---
-title: "Bacardi Rum Cake"
-category: "Desserts"
-collection: "PatsyCollection"
-source: "Billiepaul"
-tags: ["cake", "dessert", "rum", "bundt", "baking", "123"]
-description: "A classic and incredibly moist Bundt cake from Billiepaul, made easy with a cake mix base. It's infused with a generous amount of rum and soaked in a buttery rum glaze."
-date: "2026-07-30"
+title: Bacardi Rum Cake
+category: Desserts
+collection: PatsyCollection
+source: Billiepaul
+tags:
+  - cake
+  - dessert
+  - rum
+  - bundt
+  - baking
+description: A classic and incredibly moist Bundt cake from Billiepaul, made easy with a cake mix base. It's infused with a generous amount of rum and soaked in a buttery rum glaze.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Bacardi Rum Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Billiepaul\"}, \"datePublished\": \"2025-09-22\", \"description\": \"A classic Bundt cake using a yellow cake mix, infused with rum and soaked in a buttery rum glaze. With special notes for high-altitude baking.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Alcohol/Assets/Document_2025-01-11_110157.webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT50M\", \"totalTime\": \"PT1H5M\", \"recipeYield\": \"1 Bundt cake (12-16 servings)\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Bacardi Rum Cake", "author": {"@type": "Person", "name": "Billiepaul"}, "datePublished": "2025-09-22", "description": "A classic Bundt cake using a yellow cake mix, infused with rum and soaked in a buttery rum glaze. With special notes for high-altitude baking.", "image": ["https://cucinamezzaluna.com/Desserts/Cake/Alcohol/Assets/Document_2025-01-11_110157.webp"], "prepTime": "PT15M", "cookTime": "PT50M", "totalTime": "PT1H5M", "recipeYield": "1 Bundt cake (12-16 servings)", "recipeCategory": "Dessert", "recipeCuisine": "American"}'
 ---
 
 # Bacardi Rum Cake

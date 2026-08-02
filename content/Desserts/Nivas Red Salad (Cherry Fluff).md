@@ -1,11 +1,16 @@
 ---
-title: "Niva's Red Salad (Cherry Fluff)"
-category: "Desserts"
-collection: "UK15"
-source: "Niva"
-tags: ["dessert", "fluff", "potluck", "123", "nobake", "cherry"]
-description: "A classic no-bake dessert salad featuring a creamy blend of cherry pie filling, pineapple, and coconut. This vintage potluck favorite is best prepared a day in advance for optimal flavor melding."
-date: "2026-07-30"
+title: Niva's Red Salad (Cherry Fluff)
+category: Desserts
+collection: UK15
+source: Niva
+tags:
+  - dessert
+  - fluff
+  - potluck
+  - nobake
+  - cherry
+description: A classic no-bake dessert salad featuring a creamy blend of cherry pie filling, pineapple, and coconut. This vintage potluck favorite is best prepared a day in advance for optimal flavor melding.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Niva's Red Salad (Cherry Fluff)\", \"author\": {\"@type\": \"Person\", \"name\": \"Niva\"}, \"description\": \"A classic no-bake dessert salad featuring a creamy blend of cherry pie filling, pineapple, and coconut.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"10-12 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 cup coconut\", \"1 can Eagle Brand Sweetened Condensed Milk\", \"1 can cherry pie filling\", \"1 large container Cool Whip\", \"1 (15 ounce) can pineapple chunks\"]}"
 ---

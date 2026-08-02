@@ -1,11 +1,16 @@
 ---
-title: "Juanita's Orange Jello Salad"
-category: "Desserts"
-collection: "UK2"
-source: "Juanita"
-tags: ["jello", "123", "fruit", "salad", "dessert", "marshmallow"]
-description: "A classic fruit-filled Jello salad featuring mandarin oranges, pineapple, and pecans in an orange Jello base with a fun marshmallow layer. This nostalgic dessert is perfect for potlucks and family gatherings."
-date: "2026-07-30"
+title: Juanita's Orange Jello Salad
+category: Desserts
+collection: UK2
+source: Juanita
+tags:
+  - jello
+  - fruit
+  - salad
+  - dessert
+  - marshmallow
+description: A classic fruit-filled Jello salad featuring mandarin oranges, pineapple, and pecans in an orange Jello base with a fun marshmallow layer. This nostalgic dessert is perfect for potlucks and family gatherings.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Juanita's Orange Jello Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Juanita\"}, \"description\": \"A classic fruit-filled Jello salad featuring mandarin oranges, pineapple, and pecans in an orange Jello base with a fun marshmallow layer.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT5M\", \"totalTime\": \"PT6H20M\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"6 oz Orange Jello\", \"15 oz Mandarin Oranges\", \"15 oz Crushed Pineapple\", \"1 Cup Pecans\", \"2-3 Cups Tiny Marshmallows\", \"Whipped Cream or Cool Whip\"]}"
 ---

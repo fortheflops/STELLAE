@@ -1,13 +1,18 @@
 ---
-title: "Beef Stroganoff"
-category: "Entrees"
-collection: "UK2"
-source: "Unknown"
-tags: ["entree", "pasta", "stroganoff", "beef", "comfortfood", "123"]
-description: "A classic savory beef stroganoff featuring tender round steak browned in butter, simmered with onions, garlic, and beef broth, and finished with a rich sour cream sauce. Perfect for serving over your favorite pasta or noodles for a comforting family dinner."
-date: "2026-07-30"
+title: Beef Stroganoff
+category: Entrees
+collection: UK2
+source: Unknown
+tags:
+  - entree
+  - pasta
+  - stroganoff
+  - beef
+  - comfortfood
+description: A classic savory beef stroganoff featuring tender round steak browned in butter, simmered with onions, garlic, and beef broth, and finished with a rich sour cream sauce. Perfect for serving over your favorite pasta or noodles for a comforting family dinner.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Beef Stroganoff\",\"image\":\"Handwritten_2025-02-14_115404.webp\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"description\":\"A classic savory beef stroganoff featuring tender round steak browned in butter, simmered with onions, garlic, and beef broth, and finished with a rich sour cream sauce.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT45M\",\"totalTime\":\"PT60M\",\"recipeCategory\":\"Entrees\",\"recipeCuisine\":\"American\",\"recipeYield\":\"4\u20136 Servings\",\"recipeIngredient\":[\"1\u00bd lb Round Steak, Cubed & Rolled in Flour\",\"2 Tbsp Butter\",\"\u00bd cup Chopped Onion\",\"1 Clove Garlic, Minced\",\"Salt\",\"Pepper\",\"1 Can Beef Broth or 2 Bouillon Cubes\",\"1 cup Sour Cream\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Melt the 2 Tbsp butter in a skillet over medium-high heat. Add the 1\u00bd lb round steak (cubed and rolled in flour) and brown well on all sides until nicely seared and golden.\"},{\"@type\":\"HowToStep\",\"text\":\"Add the \u00bd cup chopped onion, 1 clove minced garlic, salt, pepper, and 1 can beef broth or 2 bouillon cubes to the skillet. Bring the mixture to a gentle bubble, then cover and simmer until the meat is fork-tender.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir in the 1 cup sour cream and simmer gently for 5 minutes until heated through and thickened into a rich, creamy sauce.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Beef Stroganoff","image":"Handwritten_2025-02-14_115404.webp","author":{"@type":"Person","name":"Unknown"},"description":"A classic savory beef stroganoff featuring tender round steak browned in butter, simmered with onions, garlic, and beef broth, and finished with a rich sour cream sauce.","prepTime":"PT15M","cookTime":"PT45M","totalTime":"PT60M","recipeCategory":"Entrees","recipeCuisine":"American","recipeYield":"4–6 Servings","recipeIngredient":["1½ lb Round Steak, Cubed & Rolled in Flour","2 Tbsp Butter","½ cup Chopped Onion","1 Clove Garlic, Minced","Salt","Pepper","1 Can Beef Broth or 2 Bouillon Cubes","1 cup Sour Cream"],"recipeInstructions":[{"@type":"HowToStep","text":"Melt the 2 Tbsp butter in a skillet over medium-high heat. Add the 1½ lb round steak (cubed and rolled in flour) and brown well on all sides until nicely seared and golden."},{"@type":"HowToStep","text":"Add the ½ cup chopped onion, 1 clove minced garlic, salt, pepper, and 1 can beef broth or 2 bouillon cubes to the skillet. Bring the mixture to a gentle bubble, then cover and simmer until the meat is fork-tender."},{"@type":"HowToStep","text":"Stir in the 1 cup sour cream and simmer gently for 5 minutes until heated through and thickened into a rich, creamy sauce."}]}'
 ---
 
 # Beef Stroganoff

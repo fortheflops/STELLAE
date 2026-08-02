@@ -1,13 +1,17 @@
 ---
-title: "Shrimp & Crab Dip Delight"
-category: "Appetizers"
-collection: "UK15"
-source: "Unknown"
-tags: ["appetizer", "seafood", "dip", "partyfood", "123"]
-description: "A classic, creamy seafood dip featuring a savory blend of shrimp, crab, and onion soup mix. Perfect for gatherings and easily prepared ahead of time."
-date: "2026-07-30"
+title: Shrimp & Crab Dip Delight
+category: Appetizers
+collection: UK15
+source: Unknown
+tags:
+  - appetizer
+  - seafood
+  - dip
+  - partyfood
+description: A classic, creamy seafood dip featuring a savory blend of shrimp, crab, and onion soup mix. Perfect for gatherings and easily prepared ahead of time.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Shrimp & Crab Dip Delight\", \"recipeCategory\": \"Appetizers\", \"prepTime\": \"PT10M\", \"recipeYield\": \"10 servings\", \"recipeIngredient\": [\"16 oz Sour Cream\", \"1 package Lipton Dry Onion Soup\", \"1 Lemon, juiced\", \"1 dash Worcestershire Sauce\", \"6 oz Deveined Shrimp\", \"6 oz Crab Meat\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Shrimp & Crab Dip Delight", "recipeCategory": "Appetizers", "prepTime": "PT10M", "recipeYield": "10 servings", "recipeIngredient": ["16 oz Sour Cream", "1 package Lipton Dry Onion Soup", "1 Lemon, juiced", "1 dash Worcestershire Sauce", "6 oz Deveined Shrimp", "6 oz Crab Meat"]}'
 ---
 
 # Shrimp & Crab Dip Delight

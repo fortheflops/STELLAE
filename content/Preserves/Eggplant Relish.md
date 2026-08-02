@@ -1,13 +1,17 @@
 ---
-title: "Eggplant Relish"
-category: "Preserves"
-collection: "Gail Collection"
-source: "Joe Everett & Gail"
-tags: ["relish", "appetizer", "eggplant", "123", "canned"]
-description: "A traditional marinated eggplant relish layered with garlic, parsley, peppers, and olive oil. Perfect for serving as a savory hors d'oeuvre after maturing in the refrigerator."
-date: "2026-07-30"
+title: Eggplant Relish
+category: Preserves
+collection: Gail Collection
+source: Joe Everett & Gail
+tags:
+  - relish
+  - appetizer
+  - eggplant
+  - canned
+description: A traditional marinated eggplant relish layered with garlic, parsley, peppers, and olive oil. Perfect for serving as a savory hors d'oeuvre after maturing in the refrigerator.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Eggplant Relish\",\"author\":{\"@type\":\"Person\",\"name\":\"Joe Everett & Gail\"},\"description\":\"A traditional marinated eggplant relish layered with garlic, parsley, peppers, and olive oil.\",\"prepTime\":\"PT30M\",\"cookTime\":\"PT10M\",\"recipeCategory\":\"Preserves\",\"recipeCuisine\":\"Traditional\",\"recipeYield\":\"8\u201310 Servings\",\"ingredients\":[\"5 Smallish or 3 Large Eggplant\",\"Lots Salt\",\"2 Cups Water\",\"2 Cups Wine Vinegar\",\"6 Cloves Garlic\",\"Fine Chopped Parsley\",\"To Taste Red or Green Pepper\",\"To Taste (Optional) Seed of Red Chili Pepper\",\"To Cover Olive Oil\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Peel and slice eggplant, salt in layers for 8 hours, and squeeze flat.\"},{\"@type\":\"HowToStep\",\"text\":\"Boil water and wine vinegar, blanch eggplant until tender, and drain.\"},{\"@type\":\"HowToStep\",\"text\":\"Layer eggplant with garlic, parsley, peppers, and cover with olive oil; refrigerate for two weeks.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Eggplant Relish","author":{"@type":"Person","name":"Joe Everett & Gail"},"description":"A traditional marinated eggplant relish layered with garlic, parsley, peppers, and olive oil.","prepTime":"PT30M","cookTime":"PT10M","recipeCategory":"Preserves","recipeCuisine":"Traditional","recipeYield":"8–10 Servings","ingredients":["5 Smallish or 3 Large Eggplant","Lots Salt","2 Cups Water","2 Cups Wine Vinegar","6 Cloves Garlic","Fine Chopped Parsley","To Taste Red or Green Pepper","To Taste (Optional) Seed of Red Chili Pepper","To Cover Olive Oil"],"recipeInstructions":[{"@type":"HowToStep","text":"Peel and slice eggplant, salt in layers for 8 hours, and squeeze flat."},{"@type":"HowToStep","text":"Boil water and wine vinegar, blanch eggplant until tender, and drain."},{"@type":"HowToStep","text":"Layer eggplant with garlic, parsley, peppers, and cover with olive oil; refrigerate for two weeks."}]}'
 ---
 
 # Eggplant Relish

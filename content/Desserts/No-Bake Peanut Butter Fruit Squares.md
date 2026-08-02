@@ -1,11 +1,16 @@
 ---
-title: "No-Bake Peanut Butter Fruit Squares"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["nobake", "peanutbutter", "fruit", "dessert", "123", "squares"]
-description: "A simple, no-bake confection featuring a chewy blend of ground dates, raisins, and currants bound with creamy peanut butter. These wholesome fruit squares are chilled until firm and finished with a delicate dusting of confectioners' sugar."
-date: "2026-07-30"
+title: No-Bake Peanut Butter Fruit Squares
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - nobake
+  - peanutbutter
+  - fruit
+  - dessert
+  - squares
+description: A simple, no-bake confection featuring a chewy blend of ground dates, raisins, and currants bound with creamy peanut butter. These wholesome fruit squares are chilled until firm and finished with a delicate dusting of confectioners' sugar.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"No-Bake Peanut Butter Fruit Squares\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A simple, no-bake confection featuring a chewy blend of ground dates, raisins, and currants bound with creamy peanut butter.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"1 1/3 lbs\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 cup pitted dates\", \"1/2 cup seedless raisins\", \"1/2 cup currants\", \"1 cup peanut butter\", \"1/4 cup sweetened condensed milk\", \"Confectioners' sugar\"]}"
 ---

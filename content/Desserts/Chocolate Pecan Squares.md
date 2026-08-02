@@ -1,13 +1,18 @@
 ---
-title: "Chocolate Pecan Squares"
-category: "Desserts"
-collection: "John B Collection"
-source: "Unknown"
-tags: ["brownies", "cookies", "pecans", "chocolate", "123", "dessert"]
-description: "A rich, brownie-like bar cookie loaded with finely chopped pecans. These decadent treats are baked in a square pan and cut into small, bite-sized squares while still warm."
-date: "2026-07-30"
+title: Chocolate Pecan Squares
+category: Desserts
+collection: John B Collection
+source: Unknown
+tags:
+  - brownies
+  - cookies
+  - pecans
+  - chocolate
+  - dessert
+description: A rich, brownie-like bar cookie loaded with finely chopped pecans. These decadent treats are baked in a square pan and cut into small, bite-sized squares while still warm.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Chocolate Pecan Squares\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"25 squares\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 oz Chocolate\", \"1/4 C Butter\", \"2 Large Eggs\", \"1 C Sugar\", \"1/4 tsp Salt\", \"1 1/2 tsp Vanilla\", \"1/4 C Milk\", \"1 C Flour\", \"1 C Pecans\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Melt chocolate and butter.\"}, {\"@type\": \"HowToStep\", \"text\": \"Beat eggs and sugar, then add remaining ingredients.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake at 350F for 30 minutes in a lined 8x8 pan.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Chocolate Pecan Squares", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT20M", "cookTime": "PT30M", "recipeYield": "25 squares", "recipeCategory": "Dessert", "recipeIngredient": ["1 oz Chocolate", "1/4 C Butter", "2 Large Eggs", "1 C Sugar", "1/4 tsp Salt", "1 1/2 tsp Vanilla", "1/4 C Milk", "1 C Flour", "1 C Pecans"], "recipeInstructions": [{"@type": "HowToStep", "text": "Melt chocolate and butter."}, {"@type": "HowToStep", "text": "Beat eggs and sugar, then add remaining ingredients."}, {"@type": "HowToStep", "text": "Bake at 350F for 30 minutes in a lined 8x8 pan."}]}'
 ---
 
 # Chocolate Pecan Squares

@@ -1,13 +1,17 @@
 ---
-title: "Classic Frozen Fruit Salad"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "frozen", "fruit", "123", "nostalgic"]
-description: "A nostalgic and easy-to-make frozen fruit salad featuring a medley of pineapple, fruit cocktail, bananas, and marshmallows in a light and creamy Dream Whip base. This refreshing treat is perfect for gatherings and can be prepared well in advance."
-date: "2026-07-30"
+title: Classic Frozen Fruit Salad
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - frozen
+  - fruit
+  - nostalgic
+description: A nostalgic and easy-to-make frozen fruit salad featuring a medley of pineapple, fruit cocktail, bananas, and marshmallows in a light and creamy Dream Whip base. This refreshing treat is perfect for gatherings and can be prepared well in advance.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Frozen Fruit Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A nostalgic and easy-to-make frozen fruit salad featuring a medley of pineapple, fruit cocktail, bananas, and marshmallows in a light and creamy Dream Whip base.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"10-12 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 large can (20 oz) crushed pineapple, undrained\", \"1 can (15 oz) fruit cocktail, drained\", \"1 package (10 oz) small marshmallows\", \"2 ripe bananas, sliced\", \"1/2 bottle maraschino cherries, with juice\", \"1 package Dream Whip, prepared\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Frozen Fruit Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A nostalgic and easy-to-make frozen fruit salad featuring a medley of pineapple, fruit cocktail, bananas, and marshmallows in a light and creamy Dream Whip base.", "prepTime": "PT15M", "cookTime": "PT0M", "recipeYield": "10-12 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 large can (20 oz) crushed pineapple, undrained", "1 can (15 oz) fruit cocktail, drained", "1 package (10 oz) small marshmallows", "2 ripe bananas, sliced", "1/2 bottle maraschino cherries, with juice", "1 package Dream Whip, prepared"]}'
 ---
 
 # Classic Frozen Fruit Salad

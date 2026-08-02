@@ -1,13 +1,18 @@
 ---
-title: "Homemade Vanilla Ice Cream"
-category: "Desserts"
-collection: "LOC"
-source: "Unknown"
-tags: ["dessert", "icecream", "frozen", "vanilla", "123", "nocook"]
-description: "A rich, no-cook homemade vanilla ice cream featuring whipping cream and evaporated milk with a hint of lemon for brightness. This classic recipe yields approximately one gallon of creamy, churned perfection."
-date: "2026-07-30"
+title: Homemade Vanilla Ice Cream
+category: Desserts
+collection: LOC
+source: Unknown
+tags:
+  - dessert
+  - icecream
+  - frozen
+  - vanilla
+  - nocook
+description: A rich, no-cook homemade vanilla ice cream featuring whipping cream and evaporated milk with a hint of lemon for brightness. This classic recipe yields approximately one gallon of creamy, churned perfection.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Homemade Vanilla Ice Cream\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A rich, no-cook homemade vanilla ice cream featuring whipping cream and evaporated milk with a hint of lemon for brightness.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"1 Gallon\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"7 Cups Whipping Cream\", \"2 Cups Sugar\", \"2 Tbsp Vanilla\", \"2 Tbsp Lemon Juice\", \"2 (13 oz) cans Evaporated Milk\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Homemade Vanilla Ice Cream", "author": {"@type": "Person", "name": "Unknown"}, "description": "A rich, no-cook homemade vanilla ice cream featuring whipping cream and evaporated milk with a hint of lemon for brightness.", "prepTime": "PT10M", "cookTime": "PT30M", "recipeYield": "1 Gallon", "recipeCategory": "Dessert", "recipeIngredient": ["7 Cups Whipping Cream", "2 Cups Sugar", "2 Tbsp Vanilla", "2 Tbsp Lemon Juice", "2 (13 oz) cans Evaporated Milk"]}'
 ---
 
 # Homemade Vanilla Ice Cream

@@ -1,13 +1,18 @@
 ---
-title: "Classic Oatmeal Raisin Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "oatmeal", "raisin", "123", "dessert", "baking"]
-description: "A classic recipe for soft and chewy oatmeal raisin cookies featuring a warm blend of cinnamon and nutmeg. These hearty drop cookies are perfect for any occasion."
-date: "2026-07-30"
+title: Classic Oatmeal Raisin Cookies
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - oatmeal
+  - raisin
+  - dessert
+  - baking
+description: A classic recipe for soft and chewy oatmeal raisin cookies featuring a warm blend of cinnamon and nutmeg. These hearty drop cookies are perfect for any occasion.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Oatmeal Raisin Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"48 cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"3/4 cup shortening\", \"1 cup packed brown sugar\", \"2 large eggs\", \"1/3 cup milk\", \"1 cup sifted all-purpose flour\", \"1 teaspoon baking powder\", \"1/2 teaspoon salt\", \"1 teaspoon cinnamon\", \"1/4 teaspoon nutmeg\", \"3 cups old-fashioned or quick oats\", \"1 cup raisins\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Oatmeal Raisin Cookies", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT15M", "cookTime": "PT15M", "recipeYield": "48 cookies", "recipeCategory": "Dessert", "recipeIngredient": ["3/4 cup shortening", "1 cup packed brown sugar", "2 large eggs", "1/3 cup milk", "1 cup sifted all-purpose flour", "1 teaspoon baking powder", "1/2 teaspoon salt", "1 teaspoon cinnamon", "1/4 teaspoon nutmeg", "3 cups old-fashioned or quick oats", "1 cup raisins"]}'
 ---
 
 # Classic Oatmeal Raisin Cookies

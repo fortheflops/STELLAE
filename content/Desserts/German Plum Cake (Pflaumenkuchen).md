@@ -1,13 +1,38 @@
 ---
-title: "German Plum Cake (Pflaumenkuchen)"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["dessert", "cake", "plum", "german", "baking", "123"]
-description: "A classic German sheet cake featuring a rich, buttery, and dense crumb lightly spiced with cardamom. It is traditionally topped with fresh plum halves and baked to golden perfection."
-date: "2026-07-30"
+title: German Plum Cake (Pflaumenkuchen)
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - plum
+  - german
+  - baking
+description: A classic German sheet cake featuring a rich, buttery, and dense crumb lightly spiced with cardamom. It is traditionally topped with fresh plum halves and baked to golden perfection.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"German Plum Cake (Pflaumenkuchen)\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A classic German sheet cake with a dense, buttery crumb spiced with cardamom. This cake serves as the perfect base for a traditional fresh plum topping.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Plum/Assets/Handwritten_2025-06-29_071350.webp\"\n  ],\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT45M\",\n  \"totalTime\": \"PT1H10M\",\n  \"recipeYield\": \"1 9x13 inch cake\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"German\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "German Plum Cake (Pflaumenkuchen)",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A classic German sheet cake with a dense, buttery crumb spiced with cardamom. This cake serves as the perfect base for a traditional fresh plum topping.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Plum/Assets/Handwritten_2025-06-29_071350.webp"
+    ],
+    "prepTime": "PT25M",
+    "cookTime": "PT45M",
+    "totalTime": "PT1H10M",
+    "recipeYield": "1 9x13 inch cake",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "German"
+  }
 ---
 
 # German Plum Cake (Pflaumenkuchen)

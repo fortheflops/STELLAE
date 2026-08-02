@@ -1,11 +1,16 @@
 ---
-title: "Rebecca's Forgotten Meringue Cookies"
-category: "Desserts"
-collection: "UK3"
-source: "Rebecca"
-tags: ["meringue", "cookies", "123", "forgotten", "chocolate", "nuts"]
-description: "A classic 'forgotten' meringue cookie loaded with chocolate chips and nuts, baked overnight in a cooling oven for a light, crisp texture. These airy treats are simple to prepare and rely on residual heat to achieve their signature delicate crunch."
-date: "2026-07-30"
+title: Rebecca's Forgotten Meringue Cookies
+category: Desserts
+collection: UK3
+source: Rebecca
+tags:
+  - meringue
+  - cookies
+  - forgotten
+  - chocolate
+  - nuts
+description: A classic 'forgotten' meringue cookie loaded with chocolate chips and nuts, baked overnight in a cooling oven for a light, crisp texture. These airy treats are simple to prepare and rely on residual heat to achieve their signature delicate crunch.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Rebecca's Forgotten Meringue Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Rebecca\"}, \"description\": \"A classic 'forgotten' meringue cookie with chocolate chips and nuts, baked overnight in a cooling oven for a light, crisp texture.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT8H\", \"recipeYield\": \"36 cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"2 large egg whites\", \"2/3 cup sugar\", \"1 teaspoon vanilla\", \"1 cup chopped nuts\", \"1 (6-ounce) package chocolate chips\"]}"
 ---

@@ -1,13 +1,45 @@
 ---
-title: "Mom's Cheese Blintzes"
-category: "Breakfast"
-collection: "JC"
-source: "Unknown"
-tags: ["blintzes", "breakfast", "crepes", "cheeserecipe", "123"]
-description: "A classic recipe for homemade cheese blintzes, featuring delicate crepes filled with a simple dry cottage cheese mixture. Fry them in butter until golden brown and serve immediately."
-date: "2026-07-30"
+title: Mom's Cheese Blintzes
+category: Breakfast
+collection: JC
+source: Unknown
+tags:
+  - blintzes
+  - breakfast
+  - crepes
+  - cheeserecipe
+description: A classic recipe for homemade cheese blintzes, featuring delicate crepes filled with a simple dry cottage cheese mixture. Fry them in butter until golden brown and serve immediately.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Mom's Cheese Blintzes\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-08-10\",\n  \"description\": \"A traditional recipe for delicate crepes filled with a savory dry cottage cheese mixture, which are then fried in butter until golden.\",\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT20M\",\n  \"totalTime\": \"PT45M\",\n  \"recipeYield\": \"12-15 blintzes\",\n  \"recipeCategory\": \"Breakfast\",\n  \"recipeCuisine\": \"Eastern European\",\n  \"recipeIngredient\": [\n    \"1 (16 oz) package dry Cottage Cheese\",\n    \"1 Egg\",\n    \"2 tablespoons Butter, melted\",\n    \"1/2 teaspoon Salt\",\n    \"2 Eggs, beaten\",\n    \"1/2 cup Water\",\n    \"1/2 cup All-Purpose Flour\",\n    \"1 pinch Salt\",\n    \"Butter, for frying\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Mom's Cheese Blintzes",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-08-10",
+    "description": "A traditional recipe for delicate crepes filled with a savory dry cottage cheese mixture, which are then fried in butter until golden.",
+    "prepTime": "PT25M",
+    "cookTime": "PT20M",
+    "totalTime": "PT45M",
+    "recipeYield": "12-15 blintzes",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "Eastern European",
+    "recipeIngredient": [
+      "1 (16 oz) package dry Cottage Cheese",
+      "1 Egg",
+      "2 tablespoons Butter, melted",
+      "1/2 teaspoon Salt",
+      "2 Eggs, beaten",
+      "1/2 cup Water",
+      "1/2 cup All-Purpose Flour",
+      "1 pinch Salt",
+      "Butter, for frying"
+    ]
+  }
 ---
 
 # Mom's Cheese Blintzes

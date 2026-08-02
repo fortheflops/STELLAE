@@ -1,11 +1,15 @@
 ---
-title: "Devil's Food Drop Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "chocolate", "123", "dessert", "walnuts"]
-description: "A classic recipe for soft, cake-like chocolate cookies. These Devil's Food drop cookies get their rich flavor from melted chocolate and a tender, moist crumb from sour cream."
-date: "2026-07-30"
+title: Devil's Food Drop Cookies
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - chocolate
+  - dessert
+  - walnuts
+description: A classic recipe for soft, cake-like chocolate cookies. These Devil's Food drop cookies get their rich flavor from melted chocolate and a tender, moist crumb from sour cream.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Devil's Food Drop Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic recipe for soft, cake-like chocolate cookies. These Devil's Food drop cookies get their rich flavor from melted chocolate and a tender, moist crumb from sour cream.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"3-4 dozen cookies\", \"recipeCategory\": \"Desserts\"}"
 ---

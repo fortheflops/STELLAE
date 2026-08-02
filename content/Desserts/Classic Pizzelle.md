@@ -1,13 +1,18 @@
 ---
-title: "Classic Pizzelle"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["pizzelle", "cookies", "italian", "123", "largebatch", "holiday"]
-description: "A traditional, large-batch recipe for thin and crispy Italian pizzelle cookies. These delicate wafers are flavored with vanilla or anise and baked to a light golden perfection."
-date: "2026-07-30"
+title: Classic Pizzelle
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - pizzelle
+  - cookies
+  - italian
+  - largebatch
+  - holiday
+description: A traditional, large-batch recipe for thin and crispy Italian pizzelle cookies. These delicate wafers are flavored with vanilla or anise and baked to a light golden perfection.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Pizzelle\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A traditional, large-batch recipe for thin and crispy Italian pizzelle cookies.\", \"prepTime\": \"PT30M\", \"cookTime\": \"PT1H\", \"recipeYield\": \"20 dozen\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"Italian\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Pizzelle", "author": {"@type": "Person", "name": "Unknown"}, "description": "A traditional, large-batch recipe for thin and crispy Italian pizzelle cookies.", "prepTime": "PT30M", "cookTime": "PT1H", "recipeYield": "20 dozen", "recipeCategory": "Dessert", "recipeCuisine": "Italian"}'
 ---
 
 # Classic Pizzelle

@@ -1,11 +1,16 @@
 ---
-title: "Babel's Classic Pie Crust"
-category: "Desserts"
-collection: "LOC"
-source: "Babel"
-tags: ["piecrust", "desserts", "pastries", "baking", "123", "louisecollection"]
-description: "A simple and reliable recipe for a classic, flaky pie crust made with shortening. Includes a clever tip for using tapioca to prevent a soggy bottom in fruit pies."
-date: "2026-07-30"
+title: Babel's Classic Pie Crust
+category: Desserts
+collection: LOC
+source: Babel
+tags:
+  - piecrust
+  - desserts
+  - pastries
+  - baking
+  - louisecollection
+description: A simple and reliable recipe for a classic, flaky pie crust made with shortening. Includes a clever tip for using tapioca to prevent a soggy bottom in fruit pies.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Babel's Classic Pie Crust\", \"author\": {\"@type\": \"Person\", \"name\": \"Babel\"}, \"datePublished\": \"2025-10-13\", \"description\": \"A simple and reliable recipe for a classic, flaky pie crust from Babel, made with shortening. Includes a clever tip for using tapioca to prevent a soggy bottom in fruit pies.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Crust/Assets/Handwritten_2025-05-15_135221.webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT15M\", \"recipeYield\": \"One double-crust 9-inch pie\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"2 Cups Flour\", \"2/3 Cup Crisco (Shortening)\", \"6 Tablespoons Ice Water\", \"1/2 Teaspoon Salt\", \"2 Tablespoons Tapioca (Optional, for fruit pies)\"]}"
 ---

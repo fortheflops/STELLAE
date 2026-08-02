@@ -1,13 +1,18 @@
 ---
-title: "Apricot Nut Bread"
-category: "Bread"
-collection: "GC"
-source: "Unknown"
-tags: ["quick bread", "apricots", "nuts", "orange", "123", "baking"]
-description: "A classic quick bread featuring soaked dried apricots and chopped nuts in a tender, orange-kissed crumb. Enjoy this moist loaf warm or cold with a spread of butter."
-date: "2026-07-30"
+title: Apricot Nut Bread
+category: Bread
+collection: GC
+source: Unknown
+tags:
+  - quick bread
+  - apricots
+  - nuts
+  - orange
+  - baking
+description: A classic quick bread featuring soaked dried apricots and chopped nuts in a tender, orange-kissed crumb. Enjoy this moist loaf warm or cold with a spread of butter.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Apricot Nut Bread\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-09-21\", \"description\": \"A classic quick bread featuring soaked dried apricots and chopped nuts in a tender, orange-kissed crumb.\", \"image\": [\"https://cucinamezzaluna.com/Bread/Fruit-Bread/Apricot/Assets/Handwritten_2025-05-29_120204.webp\", \"https://cucinamezzaluna.com/Bread/Fruit-Bread/Apricot/Assets/Handwritten_2025-05-29_120351%20(2).webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H\", \"totalTime\": \"PT1H50M\", \"recipeYield\": \"1 loaf\", \"recipeCategory\": \"Bread\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 cup dried apricots\", \"2 cups all-purpose flour\", \"1 cup sugar\", \"2 teaspoons baking powder\", \"1/4 teaspoon baking soda\", \"1 teaspoon salt\", \"1/2 cup chopped nuts (such as walnuts or pecans)\", \"1 large egg\", \"1 tablespoon soft butter or shortening\", \"1/4 cup orange juice\", \"1/4 cup water\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Apricot Nut Bread", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-09-21", "description": "A classic quick bread featuring soaked dried apricots and chopped nuts in a tender, orange-kissed crumb.", "image": ["https://cucinamezzaluna.com/Bread/Fruit-Bread/Apricot/Assets/Handwritten_2025-05-29_120204.webp", "https://cucinamezzaluna.com/Bread/Fruit-Bread/Apricot/Assets/Handwritten_2025-05-29_120351%20(2).webp"], "prepTime": "PT20M", "cookTime": "PT1H", "totalTime": "PT1H50M", "recipeYield": "1 loaf", "recipeCategory": "Bread", "recipeCuisine": "American", "recipeIngredient": ["1 cup dried apricots", "2 cups all-purpose flour", "1 cup sugar", "2 teaspoons baking powder", "1/4 teaspoon baking soda", "1 teaspoon salt", "1/2 cup chopped nuts (such as walnuts or pecans)", "1 large egg", "1 tablespoon soft butter or shortening", "1/4 cup orange juice", "1/4 cup water"]}'
 ---
 
 # Apricot Nut Bread

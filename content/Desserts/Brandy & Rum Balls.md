@@ -1,13 +1,17 @@
 ---
-title: "Brandy & Rum Balls"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["dessert", "nobake", "holiday", "truffles", "123"]
-description: "A classic no-bake holiday treat. These potent and delicious balls are made with finely crushed vanilla wafers, nuts, honey, and a generous amount of both brandy and rum."
-date: "2026-07-30"
+title: Brandy & Rum Balls
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - dessert
+  - nobake
+  - holiday
+  - truffles
+description: A classic no-bake holiday treat. These potent and delicious balls are made with finely crushed vanilla wafers, nuts, honey, and a generous amount of both brandy and rum.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Brandy & Rum Balls\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-06\", \"description\": \"Easy, no-bake rum and brandy balls made with a base of crushed vanilla wafers and nuts, sweetened with honey.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Confections/Candy/Truffles/Assets/Handwritten_2025-07-04_092107.webp\"], \"prepTime\": \"PT25M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT25M\", \"recipeYield\": \"4-5 dozen\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 (15-ounce) package vanilla wafers, finely crushed\", \"1 pound (about 4 cups) walnuts or pecans, finely chopped\", \"1/2 cup honey\", \"1/3 cup brandy\", \"1/3 cup light rum\", \"Granulated sugar, for rolling\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Finely crush the vanilla wafers and finely chop the nuts.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a large bowl, combine the crushed wafers, chopped nuts, honey, brandy, and light rum. Mix well until a sticky, firm dough forms.\"}, {\"@type\": \"HowToStep\", \"text\": \"Shape the mixture into 1-inch balls.\"}, {\"@type\": \"HowToStep\", \"text\": \"Roll each ball in granulated sugar to coat.\"}, {\"@type\": \"HowToStep\", \"text\": \"Store in an airtight container. The flavor improves after a few days as they age.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Brandy & Rum Balls", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-06", "description": "Easy, no-bake rum and brandy balls made with a base of crushed vanilla wafers and nuts, sweetened with honey.", "image": ["https://cucinamezzaluna.com/Desserts/Confections/Candy/Truffles/Assets/Handwritten_2025-07-04_092107.webp"], "prepTime": "PT25M", "cookTime": "PT0M", "totalTime": "PT25M", "recipeYield": "4-5 dozen", "recipeCategory": "Dessert", "recipeCuisine": "American", "recipeIngredient": ["1 (15-ounce) package vanilla wafers, finely crushed", "1 pound (about 4 cups) walnuts or pecans, finely chopped", "1/2 cup honey", "1/3 cup brandy", "1/3 cup light rum", "Granulated sugar, for rolling"], "recipeInstructions": [{"@type": "HowToStep", "text": "Finely crush the vanilla wafers and finely chop the nuts."}, {"@type": "HowToStep", "text": "In a large bowl, combine the crushed wafers, chopped nuts, honey, brandy, and light rum. Mix well until a sticky, firm dough forms."}, {"@type": "HowToStep", "text": "Shape the mixture into 1-inch balls."}, {"@type": "HowToStep", "text": "Roll each ball in granulated sugar to coat."}, {"@type": "HowToStep", "text": "Store in an airtight container. The flavor improves after a few days as they age."}]}'
 ---
 
 # Brandy & Rum Balls

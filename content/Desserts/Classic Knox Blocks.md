@@ -1,13 +1,69 @@
 ---
-title: "Classic Knox Blocks"
-category: "Desserts"
-collection: "JC"
-source: "Deb Hansen"
-tags: ["dessert", "jello", "123", "snack", "gelatin"]
-description: "A classic and simple recipe for firm, sliceable gelatin squares (Knox Blocks), also known as Jigglers, made with both flavored and unflavored gelatin for an extra-firm texture."
-date: "2026-07-30"
+title: Classic Knox Blocks
+category: Desserts
+collection: JC
+source: Deb Hansen
+tags:
+  - dessert
+  - jello
+  - snack
+  - gelatin
+description: A classic and simple recipe for firm, sliceable gelatin squares (Knox Blocks), also known as Jigglers, made with both flavored and unflavored gelatin for an extra-firm texture.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Classic Knox Blocks (Jigglers)\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Deb Hansen\"\n  },\n  \"datePublished\": \"2025-10-13\",\n  \"description\": \"A classic and simple recipe for firm, sliceable gelatin squares (Knox Blocks), also known as Jigglers, made with both flavored and unflavored gelatin for an extra-firm texture perfect for finger food.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Gelatin/Assets/Knox%20Blocks%20JC-1754846018288.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Gelatin/Assets/Knox%20Blocks%20JC-1754846018286.webp\"\n  ],\n  \"prepTime\": \"PT5M\",\n  \"cookTime\": \"PT0M\",\n  \"totalTime\": \"PT5M\",\n  \"recipeYield\": \"Approx. 36 1-inch squares\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 envelopes Knox Unflavored Gelatine\",\n    \"1 (3-ounce) package fruit flavored gelatin (e.g., Jell-O)\",\n    \"1 1/2 cups boiling water\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a medium bowl, thoroughly mix the unflavored gelatine powder with the flavored gelatine powder.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the 1 1/2 cups of boiling water into the bowl and stir for at least 2-3 minutes, until all the gelatine is completely dissolved.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the mixture into an 8x8 inch pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Allow it to cool to room temperature, then transfer to the refrigerator.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Chill for several hours, or until very firm.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Once set, cut into small blocks or use cookie cutters to create fun shapes. Serve chilled.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Classic Knox Blocks (Jigglers)",
+    "author": {
+      "@type": "Person",
+      "name": "Deb Hansen"
+    },
+    "datePublished": "2025-10-13",
+    "description": "A classic and simple recipe for firm, sliceable gelatin squares (Knox Blocks), also known as Jigglers, made with both flavored and unflavored gelatin for an extra-firm texture perfect for finger food.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Gelatin/Assets/Knox%20Blocks%20JC-1754846018288.webp",
+      "https://cucinamezzaluna.com/Desserts/Gelatin/Assets/Knox%20Blocks%20JC-1754846018286.webp"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT5M",
+    "recipeYield": "Approx. 36 1-inch squares",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 envelopes Knox Unflavored Gelatine",
+      "1 (3-ounce) package fruit flavored gelatin (e.g., Jell-O)",
+      "1 1/2 cups boiling water"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a medium bowl, thoroughly mix the unflavored gelatine powder with the flavored gelatine powder."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the 1 1/2 cups of boiling water into the bowl and stir for at least 2-3 minutes, until all the gelatine is completely dissolved."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the mixture into an 8x8 inch pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Allow it to cool to room temperature, then transfer to the refrigerator."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chill for several hours, or until very firm."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once set, cut into small blocks or use cookie cutters to create fun shapes. Serve chilled."
+      }
+    ]
+  }
 ---
 
 # Classic Knox Blocks

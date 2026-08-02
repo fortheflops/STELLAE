@@ -1,13 +1,17 @@
 ---
-title: "Old-Fashioned Chocolate Milkshake"
-category: "Beverages"
-collection: "LOC"
-source: "Unknown"
-tags: ["beverage", "milkshake", "chocolate", "123", "quick"]
-description: "A simple and classic recipe for an old-fashioned chocolate milkshake. This version uses a whole egg to create a rich, frothy texture without any ice cream."
-date: "2026-07-30"
+title: Old-Fashioned Chocolate Milkshake
+category: Beverages
+collection: LOC
+source: Unknown
+tags:
+  - beverage
+  - milkshake
+  - chocolate
+  - quick
+description: A simple and classic recipe for an old-fashioned chocolate milkshake. This version uses a whole egg to create a rich, frothy texture without any ice cream.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Old-Fashioned Chocolate Milkshake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-09-20\", \"description\": \"A quick, old-fashioned chocolate milkshake made by blending chocolate milk, ice, and a whole egg for a frothy, creamy texture.\", \"image\": [\"https://cucinamezzaluna.com/Beverages/Milkshake/Assets/Handwritten_2025-05-05_095352.webp\"], \"prepTime\": \"PT2M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT2M\", \"recipeYield\": \"1 serving\", \"recipeCategory\": \"Drink\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 cup chocolate milk, chilled\", \"1 large egg\", \"3 large ice cubes\"], \"recipeInstructions\": [{\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Combine the chocolate milk, egg, and ice cubes in a blender.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Blend on high speed for 20-30 seconds, or until the ice is completely crushed and the mixture is smooth and frothy.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Pour into a tall, chilled glass and serve immediately.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Old-Fashioned Chocolate Milkshake", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-09-20", "description": "A quick, old-fashioned chocolate milkshake made by blending chocolate milk, ice, and a whole egg for a frothy, creamy texture.", "image": ["https://cucinamezzaluna.com/Beverages/Milkshake/Assets/Handwritten_2025-05-05_095352.webp"], "prepTime": "PT2M", "cookTime": "PT0M", "totalTime": "PT2M", "recipeYield": "1 serving", "recipeCategory": "Drink", "recipeCuisine": "American", "recipeIngredient": ["1 cup chocolate milk, chilled", "1 large egg", "3 large ice cubes"], "recipeInstructions": [{"@context": "https://schema.org", "@type": "HowToStep", "text": "Combine the chocolate milk, egg, and ice cubes in a blender."}, {"@context": "https://schema.org", "@type": "HowToStep", "text": "Blend on high speed for 20-30 seconds, or until the ice is completely crushed and the mixture is smooth and frothy."}, {"@context": "https://schema.org", "@type": "HowToStep", "text": "Pour into a tall, chilled glass and serve immediately."}]}'
 ---
 
 # Old-Fashioned Chocolate Milkshake

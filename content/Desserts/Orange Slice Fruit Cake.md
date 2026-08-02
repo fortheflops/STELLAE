@@ -1,13 +1,18 @@
 ---
-title: "Orange Slice Fruit Cake"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["dessert", "cake", "fruitcake", "123", "holiday", "baking"]
-description: "A wonderfully rich and moist old-fashioned fruitcake packed with chewy orange slice candies, dates, coconut, and pecans. Baked low and slow in a tube pan, it is finished with a sweet fresh orange juice glaze."
-date: "2026-07-30"
+title: Orange Slice Fruit Cake
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - fruitcake
+  - holiday
+  - baking
+description: A wonderfully rich and moist old-fashioned fruitcake packed with chewy orange slice candies, dates, coconut, and pecans. Baked low and slow in a tube pan, it is finished with a sweet fresh orange juice glaze.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Orange Slice Fruit Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-05\", \"description\": \"A dense, old-fashioned fruitcake featuring orange slice candies, dates, coconut, and pecans, all soaked in a fresh orange juice glaze.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit-Cake/Assets/2025-07-06_101339.webp\"], \"prepTime\": \"PT25M\", \"cookTime\": \"PT1H30M\", \"totalTime\": \"PT1H55M\", \"recipeYield\": \"1 large tube cake\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 pound orange slice candy, cut into small pieces\", \"1 (8-ounce) package chopped dates\", \"2 cups pecans\", \"1 cup shredded coconut\", \"3 1/2 cups sifted all-purpose flour\", \"1 cup shortening or margarine, softened\", \"2 cups sugar\", \"4 large eggs\", \"1/2 cup buttermilk\", \"1 teaspoon baking soda\", \"2 tablespoons grated orange rind\", \"1 cup fresh orange juice\", \"2 cups powdered sugar\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Orange Slice Fruit Cake", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-05", "description": "A dense, old-fashioned fruitcake featuring orange slice candies, dates, coconut, and pecans, all soaked in a fresh orange juice glaze.", "image": ["https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit-Cake/Assets/2025-07-06_101339.webp"], "prepTime": "PT25M", "cookTime": "PT1H30M", "totalTime": "PT1H55M", "recipeYield": "1 large tube cake", "recipeCategory": "Dessert", "recipeCuisine": "American", "recipeIngredient": ["1 pound orange slice candy, cut into small pieces", "1 (8-ounce) package chopped dates", "2 cups pecans", "1 cup shredded coconut", "3 1/2 cups sifted all-purpose flour", "1 cup shortening or margarine, softened", "2 cups sugar", "4 large eggs", "1/2 cup buttermilk", "1 teaspoon baking soda", "2 tablespoons grated orange rind", "1 cup fresh orange juice", "2 cups powdered sugar"]}'
 ---
 
 # Orange Slice Fruit Cake

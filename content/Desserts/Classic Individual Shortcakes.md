@@ -1,13 +1,68 @@
 ---
-title: "Classic Individual Shortcakes"
-category: "Desserts"
-collection: "UK"
-source: "Unknown"
-tags: ["dessert", "shortcake", "baking", "pastry", "123"]
-description: "Discover how to bake tender, biscuit-style individual shortcakes from scratch, ideal for layering with fresh fruit and whipped cream. These lightly sweetened pastries bake up golden and flaky in just 15 minutes."
-date: "2026-07-30"
+title: Classic Individual Shortcakes
+category: Desserts
+collection: UK
+source: Unknown
+tags:
+  - dessert
+  - shortcake
+  - baking
+  - pastry
+description: Discover how to bake tender, biscuit-style individual shortcakes from scratch, ideal for layering with fresh fruit and whipped cream. These lightly sweetened pastries bake up golden and flaky in just 15 minutes.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Classic Individual Shortcakes\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A simple recipe for classic, tender, biscuit-style shortcakes, perfect for layering with fruit and cream.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT15M\",\n  \"totalTime\": \"PT30M\",\n  \"recipeYield\": \"8-10 shortcakes\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 cups all-purpose flour\",\n    \"3 tablespoons sugar\",\n    \"2 teaspoons baking powder\",\n    \"3/4 teaspoon salt\",\n    \"1/2 cup cold shortening or butter\",\n    \"2/3 cup milk\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 450\u00b0F. In a large bowl, whisk together the flour, sugar, baking powder, and salt.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cut in the cold shortening with a pastry blender or your fingers until the mixture resembles coarse crumbs.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the milk all at once and stir with a fork until a soft, shaggy dough forms.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Turn the dough out onto a lightly floured surface and gently knead just a few times until it comes together. Pat or roll the dough to about 1/2-inch thickness.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cut out rounds with a 3-inch biscuit cutter and place them on an ungreased baking sheet.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for 12-15 minutes, or until golden brown. Serve warm with fruit and whipped cream.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Classic Individual Shortcakes",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A simple recipe for classic, tender, biscuit-style shortcakes, perfect for layering with fruit and cream.",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "recipeYield": "8-10 shortcakes",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 cups all-purpose flour",
+      "3 tablespoons sugar",
+      "2 teaspoons baking powder",
+      "3/4 teaspoon salt",
+      "1/2 cup cold shortening or butter",
+      "2/3 cup milk"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 450°F. In a large bowl, whisk together the flour, sugar, baking powder, and salt."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut in the cold shortening with a pastry blender or your fingers until the mixture resembles coarse crumbs."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the milk all at once and stir with a fork until a soft, shaggy dough forms."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the dough out onto a lightly floured surface and gently knead just a few times until it comes together. Pat or roll the dough to about 1/2-inch thickness."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut out rounds with a 3-inch biscuit cutter and place them on an ungreased baking sheet."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 12-15 minutes, or until golden brown. Serve warm with fruit and whipped cream."
+      }
+    ]
+  }
 ---
 
 # Classic Individual Shortcakes

@@ -1,13 +1,17 @@
 ---
-title: "Classic Sour Cream Raisin Pie"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["pie", "dessert", "123", "baking", "meringue"]
-description: "A classic, old-fashioned pie featuring a sweet and tangy cooked custard filling loaded with plump raisins and spices, all topped with a light and airy meringue."
-date: "2026-07-30"
+title: Classic Sour Cream Raisin Pie
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - pie
+  - dessert
+  - baking
+  - meringue
+description: A classic, old-fashioned pie featuring a sweet and tangy cooked custard filling loaded with plump raisins and spices, all topped with a light and airy meringue.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Sour Cream Raisin Pie\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-14\", \"description\": \"A classic, old-fashioned pie featuring a sweet and tangy cooked custard filling loaded with plump raisins and spices, all topped with a light and airy meringue.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Sour%20Cream%20Pie/Assets/Handwritten_2025-01-29_101338.webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT25M\", \"totalTime\": \"PT40M\", \"recipeYield\": \"One 9-inch pie\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 (9-inch) pre-baked Pie Shell\", \"1 Cup Sugar\", \"5 Tbsp Flour\", \"1/4 tsp Salt\", \"1/4 tsp Cinnamon\", \"1 Cup Raisins\", \"1 1/2 Cups Sour Cream\", \"2 Egg Yolks\", \"2 Egg Whites\", \"2 Tbsp Butter\", \"1/4 cup Sugar (for meringue)\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Sour Cream Raisin Pie", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-14", "description": "A classic, old-fashioned pie featuring a sweet and tangy cooked custard filling loaded with plump raisins and spices, all topped with a light and airy meringue.", "image": ["https://cucinamezzaluna.com/Desserts/Pastries/Pie/Sour%20Cream%20Pie/Assets/Handwritten_2025-01-29_101338.webp"], "prepTime": "PT15M", "cookTime": "PT25M", "totalTime": "PT40M", "recipeYield": "One 9-inch pie", "recipeCategory": "Dessert", "recipeCuisine": "American", "recipeIngredient": ["1 (9-inch) pre-baked Pie Shell", "1 Cup Sugar", "5 Tbsp Flour", "1/4 tsp Salt", "1/4 tsp Cinnamon", "1 Cup Raisins", "1 1/2 Cups Sour Cream", "2 Egg Yolks", "2 Egg Whites", "2 Tbsp Butter", "1/4 cup Sugar (for meringue)"]}'
 ---
 
 # Classic Sour Cream Raisin Pie

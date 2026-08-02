@@ -1,13 +1,17 @@
 ---
-title: "Chocolate Rum Balls"
-category: "Desserts"
-collection: "Louise Collection"
-source: "Unknown"
-tags: ["dessert", "nobake", "123", "rumballs", "confection"]
-description: "A classic, no-bake recipe for rich and potent chocolate rum balls. This simple mixture combines vanilla wafer crumbs, cocoa, nuts, and your choice of spirits, and gets even better as it ages."
-date: "2026-07-30"
+title: Chocolate Rum Balls
+category: Desserts
+collection: Louise Collection
+source: Unknown
+tags:
+  - dessert
+  - nobake
+  - rumballs
+  - confection
+description: A classic, no-bake recipe for rich and potent chocolate rum balls. This simple mixture combines vanilla wafer crumbs, cocoa, nuts, and your choice of spirits, and gets even better as it ages.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Chocolate Rum Balls\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-06\", \"description\": \"Easy, no-bake chocolate rum (or bourbon/whiskey) balls made with a base of crushed vanilla wafers, cocoa, and nuts.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Confections/Candy/Truffles/Assets/Handwritten_2025-05-18_091203.webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT20M\", \"recipeYield\": \"Approx. 3-4 dozen\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1/2 pound (about 2 1/2 cups) vanilla wafers, finely crushed\", \"1 cup finely chopped nuts\", \"2 tablespoons cocoa powder\", \"1/2 cup light corn syrup\", \"1/4 cup rum, bourbon, or whiskey\", \"Powdered sugar, for rolling\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a large bowl, combine the finely crushed vanilla wafers, chopped nuts, and cocoa powder.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour in the light corn syrup and rum (or other spirit). Mix well until a thick, uniform paste forms.\"}, {\"@type\": \"HowToStep\", \"text\": \"Shape the mixture into 1-inch balls.\"}, {\"@type\": \"HowToStep\", \"text\": \"Roll each ball in powdered sugar until well coated.\"}, {\"@type\": \"HowToStep\", \"text\": \"Store in a tightly covered container. For best flavor, allow the rum balls to age for at least a day or two.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Chocolate Rum Balls", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-06", "description": "Easy, no-bake chocolate rum (or bourbon/whiskey) balls made with a base of crushed vanilla wafers, cocoa, and nuts.", "image": ["https://cucinamezzaluna.com/Desserts/Confections/Candy/Truffles/Assets/Handwritten_2025-05-18_091203.webp"], "prepTime": "PT20M", "cookTime": "PT0M", "totalTime": "PT20M", "recipeYield": "Approx. 3-4 dozen", "recipeCategory": "Dessert", "recipeCuisine": "American", "recipeIngredient": ["1/2 pound (about 2 1/2 cups) vanilla wafers, finely crushed", "1 cup finely chopped nuts", "2 tablespoons cocoa powder", "1/2 cup light corn syrup", "1/4 cup rum, bourbon, or whiskey", "Powdered sugar, for rolling"], "recipeInstructions": [{"@type": "HowToStep", "text": "In a large bowl, combine the finely crushed vanilla wafers, chopped nuts, and cocoa powder."}, {"@type": "HowToStep", "text": "Pour in the light corn syrup and rum (or other spirit). Mix well until a thick, uniform paste forms."}, {"@type": "HowToStep", "text": "Shape the mixture into 1-inch balls."}, {"@type": "HowToStep", "text": "Roll each ball in powdered sugar until well coated."}, {"@type": "HowToStep", "text": "Store in a tightly covered container. For best flavor, allow the rum balls to age for at least a day or two."}]}'
 ---
 
 # Chocolate Rum Balls

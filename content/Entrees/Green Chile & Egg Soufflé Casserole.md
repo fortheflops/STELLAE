@@ -1,13 +1,19 @@
 ---
-title: "Green Chile & Egg Souffl\u00e9 Casserole"
-category: "Entrees"
-collection: "UK15"
-source: "Unknown"
-tags: ["casserole", "vegetarian", "southwestern", "brunch", "egg", "cheese", "123"]
-description: "A classic, simple, light, and fluffy green chile and egg casserole. This dish puffs up like a souffl\u00e9 as it bakes, featuring layers of green chiles and Monterey Jack cheese in a rich sour cream and egg custard."
-date: "2026-07-30"
+title: Green Chile & Egg Soufflé Casserole
+category: Entrees
+collection: UK15
+source: Unknown
+tags:
+  - casserole
+  - vegetarian
+  - southwestern
+  - brunch
+  - egg
+  - cheese
+description: A classic, simple, light, and fluffy green chile and egg casserole. This dish puffs up like a soufflé as it bakes, featuring layers of green chiles and Monterey Jack cheese in a rich sour cream and egg custard.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Green Chile & Egg Souffl\u00e9 Casserole\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-11-06\", \"description\": \"A classic, simple, light, and fluffy green chile and egg casserole. This dish, which puffs up like a souffl\u00e9 as it bakes, features layers of green chiles and Monterey Jack cheese in a rich sour cream and egg custard.\", \"image\": [\"https://cucinamezzaluna.com/Entrees/Casserole/Vegetable/Assets/Handwritten_2025-07-07_170626.webp\"], \"prepTime\": \"PT10M\", \"cookTime\": \"PT50M\", \"totalTime\": \"PT1H\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Main Course\", \"recipeCuisine\": \"Southwestern\", \"recipeIngredient\": [\"1 (8 ounce) can Green Chiles\", \"1 pound Grated Monterey Jack Cheese\", \"12 Eggs\", \"1 (16 ounce) container Dairy Sour Cream\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat the oven to 350\u00b0F (175\u00b0C). Grease a 13x9x2 inch baking dish.\"}, {\"@type\": \"HowToStep\", \"text\": \"Drain the green chiles, scrape out any excess seeds, and pat them dry. Create a layer of chiles in the bottom of the dish, alternating with the grated Monterey Jack cheese. Repeat the layers.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a large bowl, combine the eggs and sour cream. Beat well with a whisk until smooth and fully combined.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour the egg and sour cream mixture evenly over the layered chiles and cheese.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake for 45-50 minutes, or until the casserole is puffed up like a souffl\u00e9 and a knife inserted in the center comes out clean.\"}, {\"@type\": \"HowToStep\", \"text\": \"Let stand for 5-10 minutes before serving.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Green Chile & Egg Soufflé Casserole", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-11-06", "description": "A classic, simple, light, and fluffy green chile and egg casserole. This dish, which puffs up like a soufflé as it bakes, features layers of green chiles and Monterey Jack cheese in a rich sour cream and egg custard.", "image": ["https://cucinamezzaluna.com/Entrees/Casserole/Vegetable/Assets/Handwritten_2025-07-07_170626.webp"], "prepTime": "PT10M", "cookTime": "PT50M", "totalTime": "PT1H", "recipeYield": "8-10 servings", "recipeCategory": "Main Course", "recipeCuisine": "Southwestern", "recipeIngredient": ["1 (8 ounce) can Green Chiles", "1 pound Grated Monterey Jack Cheese", "12 Eggs", "1 (16 ounce) container Dairy Sour Cream"], "recipeInstructions": [{"@type": "HowToStep", "text": "Preheat the oven to 350°F (175°C). Grease a 13x9x2 inch baking dish."}, {"@type": "HowToStep", "text": "Drain the green chiles, scrape out any excess seeds, and pat them dry. Create a layer of chiles in the bottom of the dish, alternating with the grated Monterey Jack cheese. Repeat the layers."}, {"@type": "HowToStep", "text": "In a large bowl, combine the eggs and sour cream. Beat well with a whisk until smooth and fully combined."}, {"@type": "HowToStep", "text": "Pour the egg and sour cream mixture evenly over the layered chiles and cheese."}, {"@type": "HowToStep", "text": "Bake for 45-50 minutes, or until the casserole is puffed up like a soufflé and a knife inserted in the center comes out clean."}, {"@type": "HowToStep", "text": "Let stand for 5-10 minutes before serving."}]}'
 ---
 
 # Green Chile & Egg Soufflé Casserole

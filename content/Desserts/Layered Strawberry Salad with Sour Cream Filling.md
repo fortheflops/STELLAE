@@ -1,13 +1,18 @@
 ---
-title: "Layered Strawberry Salad with Sour Cream Filling"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["jello", "123", "potluck", "strawberry", "fruit", "dessert"]
-description: "A classic multi-layered Jello salad featuring a sweet strawberry, banana, and pineapple base with a surprise tangy sour cream filling in the middle. This retro potluck favorite is perfect for gatherings and sets into a firm, refreshing treat."
-date: "2026-07-30"
+title: Layered Strawberry Salad with Sour Cream Filling
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - jello
+  - potluck
+  - strawberry
+  - fruit
+  - dessert
+description: A classic multi-layered Jello salad featuring a sweet strawberry, banana, and pineapple base with a surprise tangy sour cream filling in the middle. This retro potluck favorite is perfect for gatherings and sets into a firm, refreshing treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Layered Strawberry Salad with Sour Cream Filling\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic multi-layered Jello salad featuring a sweet strawberry, banana, and pineapple base with a surprise tangy sour cream filling in the middle.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"12-15 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Layered Strawberry Salad with Sour Cream Filling", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic multi-layered Jello salad featuring a sweet strawberry, banana, and pineapple base with a surprise tangy sour cream filling in the middle.", "prepTime": "PT20M", "cookTime": "PT5M", "recipeYield": "12-15 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Layered Strawberry Salad with Sour Cream Filling

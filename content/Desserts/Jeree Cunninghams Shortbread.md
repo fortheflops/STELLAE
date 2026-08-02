@@ -1,11 +1,15 @@
 ---
-title: "Jeree Cunningham's Shortbread"
-category: "Desserts"
-collection: "UK3"
-source: "Jeree Cunningham"
-tags: ["shortbread", "cookies", "scottish", "123", "buttery"]
-description: "A classic, rich, and buttery shortbread recipe featuring instructions for both pressed cookies and traditional Scottish rounds. This archival recipe emphasizes the use of high-quality real butter for the best texture."
-date: "2026-07-30"
+title: Jeree Cunningham's Shortbread
+category: Desserts
+collection: UK3
+source: Jeree Cunningham
+tags:
+  - shortbread
+  - cookies
+  - scottish
+  - buttery
+description: A classic, rich, and buttery shortbread recipe featuring instructions for both pressed cookies and traditional Scottish rounds. This archival recipe emphasizes the use of high-quality real butter for the best texture.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Jeree Cunningham's Shortbread\", \"author\": {\"@type\": \"Person\", \"name\": \"Jeree Cunningham\"}, \"description\": \"A classic, rich, and buttery shortbread recipe.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT35M\", \"recipeYield\": \"6-8 dozen\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"1 pound (4 sticks) butter\", \"5 cups flour\", \"1/4 cup powdered sugar\", \"1 tablespoon rice flour\"]}"
 ---

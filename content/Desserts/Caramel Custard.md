@@ -1,13 +1,17 @@
 ---
-title: "Caramel Custard"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["custard", "dessert", "123", "caramel", "baking"]
-description: "A classic baked caramel custard featuring a smooth, creamy texture achieved through a gentle water bath. This elegant dessert balances rich caramelized sugar with scalded milk for a timeless finish."
-date: "2026-07-30"
+title: Caramel Custard
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - custard
+  - dessert
+  - caramel
+  - baking
+description: A classic baked caramel custard featuring a smooth, creamy texture achieved through a gentle water bath. This elegant dessert balances rich caramelized sugar with scalded milk for a timeless finish.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Caramel Custard\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H\", \"recipeYield\": \"6-8 individual custards\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 cup sugar\", \"1 quart milk\", \"2 large eggs\", \"1/4 teaspoon salt\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Caramel Custard", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT20M", "cookTime": "PT1H", "recipeYield": "6-8 individual custards", "recipeCategory": "Dessert", "recipeIngredient": ["1 cup sugar", "1 quart milk", "2 large eggs", "1/4 teaspoon salt"]}'
 ---
 
 # Caramel Custard

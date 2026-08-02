@@ -1,13 +1,35 @@
 ---
-title: "Chocolate Rum Cake"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "cake", "chocolate", "rum", "bundt", "123"]
-description: "A decadent and incredibly moist chocolate rum cake made with a Devil's Food cake mix base. The cake is soaked in a simple, buttery rum glaze for the ultimate rich dessert."
-date: "2026-07-30"
+title: Chocolate Rum Cake
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - chocolate
+  - rum
+  - bundt
+description: A decadent and incredibly moist chocolate rum cake made with a Devil's Food cake mix base. The cake is soaked in a simple, buttery rum glaze for the ultimate rich dessert.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Chocolate Rum Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-09-22\",\n  \"description\": \"A rich chocolate Bundt cake made with a Devil's Food cake mix and soaked in a buttery rum glaze.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT55M\",\n  \"totalTime\": \"PT1H40M\",\n  \"recipeYield\": \"12-16 servings\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Chocolate Rum Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-09-22",
+    "description": "A rich chocolate Bundt cake made with a Devil's Food cake mix and soaked in a buttery rum glaze.",
+    "prepTime": "PT15M",
+    "cookTime": "PT55M",
+    "totalTime": "PT1H40M",
+    "recipeYield": "12-16 servings",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American"
+  }
 ---
 
 # Chocolate Rum Cake

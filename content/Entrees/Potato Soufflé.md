@@ -1,13 +1,75 @@
 ---
-title: "Potato Souffl\u00e9"
-category: "Entrees"
-collection: "Jill Collection"
-source: "Delores Foley"
-tags: ["souffle", "potatoes", "comfortfood", "baked", "123"]
-description: "A creamy and fluffy mashed potato souffl\u00e9 enriched with cream cheese and eggs, then baked with a crispy fried onion topping until heated through."
-date: "2026-07-30"
+title: Potato Soufflé
+category: Entrees
+collection: Jill Collection
+source: Delores Foley
+tags:
+  - souffle
+  - potatoes
+  - comfortfood
+  - baked
+description: A creamy and fluffy mashed potato soufflé enriched with cream cheese and eggs, then baked with a crispy fried onion topping until heated through.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Potato Souffl\u00e9\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Delores Foley\"\n  },\n  \"description\": \"A creamy and fluffy mashed potato souffl\u00e9 enriched with cream cheese and eggs, then baked with a crispy fried onion topping until heated through.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT35M\",\n  \"recipeYield\": \"6 Servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeIngredient\": [\n    \"2 cups Mashed Potatoes\",\n    \"Half-and-Half or Milk (for mashing)\",\n    \"8 ounces Cream Cheese, softened\",\n    \"2 Eggs\",\n    \"1 small Onion, diced (optional)\",\n    \"2 tablespoons All-Purpose Flour\",\n    \"Salt and Pepper\",\n    \"1 small can French Fried Onions (approx. 2.8 oz)\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 300\u00b0F. Grease a baking dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Prepare 2 cups of mashed potatoes to your liking, using half-and-half or milk.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"To the warm mashed potatoes, add the softened cream cheese, eggs, and flour.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Using an electric mixer, beat the mixture on low speed to combine, then switch to high speed and beat until the mixture is very light and fluffy.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in the diced onion (if using) and season with salt and pepper to taste.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the potato mixture into the prepared baking dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Sprinkle the French fried onions evenly over the top.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for 35 minutes, or until heated through.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Potato Soufflé",
+    "author": {
+      "@type": "Person",
+      "name": "Delores Foley"
+    },
+    "description": "A creamy and fluffy mashed potato soufflé enriched with cream cheese and eggs, then baked with a crispy fried onion topping until heated through.",
+    "prepTime": "PT20M",
+    "cookTime": "PT35M",
+    "recipeYield": "6 Servings",
+    "recipeCategory": "Entrees",
+    "recipeIngredient": [
+      "2 cups Mashed Potatoes",
+      "Half-and-Half or Milk (for mashing)",
+      "8 ounces Cream Cheese, softened",
+      "2 Eggs",
+      "1 small Onion, diced (optional)",
+      "2 tablespoons All-Purpose Flour",
+      "Salt and Pepper",
+      "1 small can French Fried Onions (approx. 2.8 oz)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 300°F. Grease a baking dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare 2 cups of mashed potatoes to your liking, using half-and-half or milk."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To the warm mashed potatoes, add the softened cream cheese, eggs, and flour."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using an electric mixer, beat the mixture on low speed to combine, then switch to high speed and beat until the mixture is very light and fluffy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the diced onion (if using) and season with salt and pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the potato mixture into the prepared baking dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the French fried onions evenly over the top."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 35 minutes, or until heated through."
+      }
+    ]
+  }
 ---
 
 # Potato Soufflé

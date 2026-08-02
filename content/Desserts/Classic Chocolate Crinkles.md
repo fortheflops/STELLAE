@@ -1,13 +1,17 @@
 ---
-title: "Classic Chocolate Crinkles"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "chocolate", "123", "holiday", "fudgy"]
-description: "A classic holiday cookie, these rich, fudgy chocolate crinkles are rolled in powdered sugar for their signature cracked appearance. This simple, oil-based dough is chilled to perfection before baking."
-date: "2026-07-30"
+title: Classic Chocolate Crinkles
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - chocolate
+  - holiday
+  - fudgy
+description: A classic holiday cookie, these rich, fudgy chocolate crinkles are rolled in powdered sugar for their signature cracked appearance. This simple, oil-based dough is chilled to perfection before baking.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Chocolate Crinkles\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic holiday cookie, these rich, fudgy chocolate crinkles are rolled in powdered sugar for their signature cracked appearance.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT12M\", \"recipeYield\": \"6 dozen cookies\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Chocolate Crinkles", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic holiday cookie, these rich, fudgy chocolate crinkles are rolled in powdered sugar for their signature cracked appearance.", "prepTime": "PT20M", "cookTime": "PT12M", "recipeYield": "6 dozen cookies", "recipeCategory": "Dessert"}'
 ---
 
 # Classic Chocolate Crinkles

@@ -1,13 +1,17 @@
 ---
-title: "Beef & Vegetable Casserole with Sour Cream Sauce"
-category: "Entrees"
-collection: "General Archive"
-source: "Unknown"
-tags: ["casserole", "beef", "comfortfood", "123", "entree"]
-description: "A hearty, old-fashioned casserole featuring tender cubes of round steak layered with onions, mushrooms, peas, and carrots, all baked in a rich and tangy sour cream sauce."
-date: "2026-07-30"
+title: Beef & Vegetable Casserole with Sour Cream Sauce
+category: Entrees
+collection: General Archive
+source: Unknown
+tags:
+  - casserole
+  - beef
+  - comfortfood
+  - entree
+description: A hearty, old-fashioned casserole featuring tender cubes of round steak layered with onions, mushrooms, peas, and carrots, all baked in a rich and tangy sour cream sauce.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Beef & Vegetable Casserole with Sour Cream Sauce\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-10-16\",\"description\":\"A hearty, old-fashioned casserole featuring tender cubes of round steak layered with onions, mushrooms, peas, and carrots, all baked in a rich and tangy sour cream sauce.\",\"image\":[\"https://cucinamezzaluna.com/Entrees/Casserole/Meat%20and%20Vegetable/Assets/Handwritten_2025-02-17_102149.webp\"],\"prepTime\":\"PT25M\",\"cookTime\":\"PT1H30M\",\"totalTime\":\"PT1H55M\",\"recipeYield\":\"6-8 servings\",\"recipeCategory\":\"Entrees\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 1/2 lbs Round Steak\",\"Salt & Pepper\",\"3-4 tbsp Butter or Fat, divided\",\"2 or 3 Onions, sliced\",\"1/2 lb Mushrooms, sliced\",\"1-2 tbsp Capers (optional)\",\"1 cup Fresh Peas\",\"1/2 cup Diced Carrots\",\"1 tbsp Flour\",\"2 cups Sour Cream\",\"2 Bay Leaves\"]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Beef & Vegetable Casserole with Sour Cream Sauce","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-10-16","description":"A hearty, old-fashioned casserole featuring tender cubes of round steak layered with onions, mushrooms, peas, and carrots, all baked in a rich and tangy sour cream sauce.","image":["https://cucinamezzaluna.com/Entrees/Casserole/Meat%20and%20Vegetable/Assets/Handwritten_2025-02-17_102149.webp"],"prepTime":"PT25M","cookTime":"PT1H30M","totalTime":"PT1H55M","recipeYield":"6-8 servings","recipeCategory":"Entrees","recipeCuisine":"American","recipeIngredient":["1 1/2 lbs Round Steak","Salt & Pepper","3-4 tbsp Butter or Fat, divided","2 or 3 Onions, sliced","1/2 lb Mushrooms, sliced","1-2 tbsp Capers (optional)","1 cup Fresh Peas","1/2 cup Diced Carrots","1 tbsp Flour","2 cups Sour Cream","2 Bay Leaves"]}'
 ---
 
 # Beef & Vegetable Casserole with Sour Cream Sauce

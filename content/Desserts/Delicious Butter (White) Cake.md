@@ -1,13 +1,78 @@
 ---
-title: "Delicious Butter (White) Cake"
-category: "Desserts"
-collection: "JC"
-source: "Unknown"
-tags: ["cake", "dessert", "baking", "123", "whitecake"]
-description: "A classic, tender white butter cake made with separated eggs for a lighter texture. Can be flavored with vanilla, orange, or lemon."
-date: "2026-07-30"
+title: Delicious Butter (White) Cake
+category: Desserts
+collection: JC
+source: Unknown
+tags:
+  - cake
+  - dessert
+  - baking
+  - whitecake
+description: A classic, tender white butter cake made with separated eggs for a lighter texture. Can be flavored with vanilla, orange, or lemon.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Delicious Butter (White) Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-08-08\",\n  \"description\": \"A classic, tender white butter cake made with separated eggs for a lighter texture. Can be flavored with vanilla, orange, or lemon.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Butter-Cake/Assets/Delicious%20Butter%20(White)%20Cake%20JC-1754694035094.webp\"\n  ],\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT40M\",\n  \"totalTime\": \"PT1H5M\",\n  \"recipeYield\": \"2 9-inch round layers\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"3/4 cup butter, softened\",\n    \"2 cups sugar\",\n    \"4 large eggs, separated\",\n    \"3 cups all-purpose flour\",\n    \"4 teaspoons baking powder\",\n    \"1/2 teaspoon salt\",\n    \"1 cup milk\",\n    \"1 1/2 teaspoons vanilla extract\",\n    \"Optional: 1 teaspoon orange or lemon extract\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F. Grease and flour two 9-inch round cake pans.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, cream the softened butter and sugar. Beat in the egg yolks one at a time.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate bowl, sift together the flour, salt, and baking powder. Add this to the creamed mixture alternately with the milk, beginning and ending with the flour. Stir in the flavorings.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a clean bowl, beat the egg whites until stiff peaks form.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Gently fold the beaten egg whites into the cake batter in three additions.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Divide the batter evenly between the prepared pans and bake for 35 to 40 minutes, or until a skewer inserted into the center comes out clean.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cool in pans for 10 minutes before inverting onto a wire rack to cool completely.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Delicious Butter (White) Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-08-08",
+    "description": "A classic, tender white butter cake made with separated eggs for a lighter texture. Can be flavored with vanilla, orange, or lemon.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Butter-Cake/Assets/Delicious%20Butter%20(White)%20Cake%20JC-1754694035094.webp"
+    ],
+    "prepTime": "PT25M",
+    "cookTime": "PT40M",
+    "totalTime": "PT1H5M",
+    "recipeYield": "2 9-inch round layers",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "3/4 cup butter, softened",
+      "2 cups sugar",
+      "4 large eggs, separated",
+      "3 cups all-purpose flour",
+      "4 teaspoons baking powder",
+      "1/2 teaspoon salt",
+      "1 cup milk",
+      "1 1/2 teaspoons vanilla extract",
+      "Optional: 1 teaspoon orange or lemon extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F. Grease and flour two 9-inch round cake pans."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, cream the softened butter and sugar. Beat in the egg yolks one at a time."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, sift together the flour, salt, and baking powder. Add this to the creamed mixture alternately with the milk, beginning and ending with the flour. Stir in the flavorings."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a clean bowl, beat the egg whites until stiff peaks form."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently fold the beaten egg whites into the cake batter in three additions."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide the batter evenly between the prepared pans and bake for 35 to 40 minutes, or until a skewer inserted into the center comes out clean."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cool in pans for 10 minutes before inverting onto a wire rack to cool completely."
+      }
+    ]
+  }
 ---
 
 # Delicious Butter (White) Cake

@@ -1,11 +1,17 @@
 ---
-title: "No-Bake Minted Chocolate Cream Torte"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["dessert", "nobake", "chocolate", "mint", "torte", "123", "party"]
-description: "A show-stopping, 6-layer no-bake freezer torte utilizing two refrigerator cream pie kits. Features repeating layers of chocolate crust, chocolate cream, and mint-peppermint cream, finished with freshly whipped cream."
-date: "2026-07-30"
+title: No-Bake Minted Chocolate Cream Torte
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - dessert
+  - nobake
+  - chocolate
+  - mint
+  - torte
+  - party
+description: A show-stopping, 6-layer no-bake freezer torte utilizing two refrigerator cream pie kits. Features repeating layers of chocolate crust, chocolate cream, and mint-peppermint cream, finished with freshly whipped cream.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Minted Chocolate Cream Torte\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-11-12\",\"description\":\"A 6-layer, no-bake freezer torte made with 2 refrigerator pie kits, layered with chocolate crust, chocolate filling, and mint-peppermint filling.\",\"prepTime\":\"PT25M\",\"cookTime\":\"PT0M\",\"totalTime\":\"PT4H25M\",\"recipeYield\":\"6-8 generous servings\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"2 (9 3/4 oz.) pkg. refrigerator devil's Cream pie (kits)\",\"6 T. sugar, divided\",\"2/3 Cup Margarine, melted and divided\",\"6 Cups milk (4 Cups for Kit 1, 2 Cups for Kit 2)\",\"1/2 tsp. peppermint extract, divided\",\"1 Cup heavy Cream\",\"Mint sprigs\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Lightly grease a 7-inch spring form pan. Set aside.\"},{\"@type\":\"HowToStep\",\"text\":\"Prepare Kit 1 - Layer 1 (Crust): In a small bowl, blend the cracker crumb packet from the first pie kit with 3 T. sugar & 1/3 Cup melted margarine. Press crumbs over the bottom of the spring form pan to form an even layer.\"},{\"@type\":\"HowToStep\",\"text\":\"Prepare Kit 1 - Layer 2 (Chocolate): In another small bowl, blend the chocolate filling packet from the first kit with 1 1/2 Cup milk. Beat at low speed for 2 mins. to thicken. Spread evenly over cracker crumb layer.\"},{\"@type\":\"HowToStep\",\"text\":\"Prepare Kit 1 - Layer 3 (Mint): In a medium bowl, combine the white filling packet from the first kit with 1 1/2 Cups milk and 1/4 tsp. peppermint extract. Beat at low speed, then at medium speed for 3 mins. to thicken. Spread evenly over choc. layer.\"},{\"@type\":\"HowToStep\",\"text\":\"Prepare Kit 2 - Layer 4 (Crust): Repeat the crust step with the second pie kit. (Blend crumbs, 3 T. sugar, 1/3 C. margarine). Sprinkle/press this crumb mixture over the white peppermint layer.\"},{\"@type\":\"HowToStep\",\"text\":\"Prepare Kit 2 - Layer 5 (Chocolate): Repeat the chocolate layer step. (Blend choc. filling, 1 1/2 C. milk). Spread evenly over the second crumb layer.\"},{\"@type\":\"HowToStep\",\"text\":\"Prepare Kit 2 - Layer 6 (Mint): Repeat the mint layer step. (Blend white filling, 1 1/2 C. milk, 1/4 tsp. peppermint extract). Spread evenly over the second chocolate layer.\"},{\"@type\":\"HowToStep\",\"text\":\"Freeze for 4 hours, or until firm.\"},{\"@type\":\"HowToStep\",\"text\":\"Before serving: Remove the outside rim of the springform pan. Beat 1 Cup heavy cream until very stiff.\"},{\"@type\":\"HowToStep\",\"text\":\"Pile prettily or pipe (using a No. 5 tip) the whipped cream in swirls around the edge of the freezer cake. Decorate with mint sprigs.\"}]}"
 ---

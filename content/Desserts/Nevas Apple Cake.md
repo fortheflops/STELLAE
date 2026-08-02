@@ -1,11 +1,15 @@
 ---
-title: "Neva's Apple Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Neva"
-tags: ["applecake", "123", "dessert", "fruitcake", "baking"]
-description: "A wonderfully moist and dense apple cake featuring grated Winesap apples and crunchy nuts. This classic dump-style recipe creates a rich, flavorful dessert perfect for any occasion."
-date: "2026-07-30"
+title: Neva's Apple Cake
+category: Desserts
+collection: UK2
+source: Neva
+tags:
+  - applecake
+  - dessert
+  - fruitcake
+  - baking
+description: A wonderfully moist and dense apple cake featuring grated Winesap apples and crunchy nuts. This classic dump-style recipe creates a rich, flavorful dessert perfect for any occasion.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Neva's Apple Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Neva\"}, \"description\": \"A wonderfully moist and dense apple cake featuring grated Winesap apples and crunchy nuts.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H15M\", \"recipeYield\": \"1 9x13 cake or 1 tube cake\", \"recipeCategory\": \"Dessert\"}"
 ---

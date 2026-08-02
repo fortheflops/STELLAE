@@ -1,13 +1,18 @@
 ---
-title: "Bishop's Fruitcake"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["fruitcake", "holiday", "baking", "dessert", "123", "chocolate"]
-description: "A classic, dense fruitcake-style loaf packed with walnuts, dates, candied cherries, pineapple, and chocolate chips."
-date: "2026-07-30"
+title: Bishop's Fruitcake
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - fruitcake
+  - holiday
+  - baking
+  - dessert
+  - chocolate
+description: A classic, dense fruitcake-style loaf packed with walnuts, dates, candied cherries, pineapple, and chocolate chips.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Bishop's Fruitcake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-05\", \"description\": \"A rich and dense holiday fruitcake loaf, loaded with walnuts, dates, candied fruit, and chocolate chips.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Handwritten_2025-06-09_074928.webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H30M\", \"totalTime\": \"PT1H50M\", \"recipeYield\": \"1 large loaf\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 1/2 cups sifted all-purpose flour\", \"1 1/2 teaspoons baking powder\", \"1/4 teaspoon salt\", \"3 large eggs, well beaten\", \"1 cup granulated sugar\", \"2 cups coarsely chopped walnuts\", \"1 cup coarsely cut dates\", \"1 cup candied cherries\", \"1 cup cut candied pineapple\", \"4 ounces chocolate chips\"], \"recipeInstructions\": [{\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Preheat oven to 325\u00b0F. Grease a 9x5 inch loaf pan.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"In a large bowl, combine the walnuts, dates, cherries, pineapple, and chocolate chips. Sift together the flour, baking powder, and salt, then toss with the fruit and nuts.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Beat eggs and sugar together until well combined.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Fold fruit mixture into the egg mixture until combined.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Spread batter into the loaf pan and bake for 1.5 hours until a skewer comes out clean.\"}]}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Bishop's Fruitcake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-05\", \"description\": \"A rich and dense holiday fruitcake loaf, loaded with walnuts, dates, candied fruit, and chocolate chips.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Handwritten_2025-06-09_074928.webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H30M\", \"totalTime\": \"PT1H50M\", \"recipeYield\": \"1 large loaf\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 1/2 cups sifted all-purpose flour\", \"1 1/2 teaspoons baking powder\", \"1/4 teaspoon salt\", \"3 large eggs, well beaten\", \"1 cup granulated sugar\", \"2 cups coarsely chopped walnuts\", \"1 cup coarsely cut dates\", \"1 cup candied cherries\", \"1 cup cut candied pineapple\", \"4 ounces chocolate chips\"], \"recipeInstructions\": [{\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Preheat oven to 325°F. Grease a 9x5 inch loaf pan.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"In a large bowl, combine the walnuts, dates, cherries, pineapple, and chocolate chips. Sift together the flour, baking powder, and salt, then toss with the fruit and nuts.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Beat eggs and sugar together until well combined.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Fold fruit mixture into the egg mixture until combined.\"}, {\"@context\": \"https://schema.org\", \"@type\": \"HowToStep\", \"text\": \"Spread batter into the loaf pan and bake for 1.5 hours until a skewer comes out clean.\"}]}"
 ---
 
 # Bishop's Fruitcake

@@ -1,13 +1,17 @@
 ---
-title: "Simple Baked Tuna Noodle Casserole"
-category: "Entrees"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["gailcollection", "tunacasserole", "casserole", "123", "comfortfood"]
-description: "A classic, simple tuna casserole from the Gail Collection. This version features a homemade custard of milk and eggs poured over noodles and tuna, topped with crunchy crushed potato chips."
-date: "2026-07-30"
+title: Simple Baked Tuna Noodle Casserole
+category: Entrees
+collection: Gail Collection
+source: Unknown
+tags:
+  - gailcollection
+  - tunacasserole
+  - casserole
+  - comfortfood
+description: A classic, simple tuna casserole from the Gail Collection. This version features a homemade custard of milk and eggs poured over noodles and tuna, topped with crunchy crushed potato chips.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Simple Baked Tuna Noodle Casserole\",\"image\":\"https://cucinamezzaluna.com/Entrees/Casserole/Meat/Fish/Assets/Handwritten_2025-06-27_190847.webp\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-11-13\",\"description\":\"A simple tuna noodle casserole made with an egg and milk custard and topped with crushed potato chips.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT30M\",\"totalTime\":\"PT45M\",\"recipeYield\":\"6 servings\",\"recipeCategory\":\"Entree\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"8 oz. Noodles, cooked and drained\",\"2 (6 oz) cans Tuna, drained\",\"1 1/2 cups Milk\",\"2 Eggs\",\"1 cup Potato Chips, crushed\",\"1 Tbsp Butter (for greasing pan)\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat the oven to 350\u00b0F. Grease a casserole dish with butter.\"},{\"@type\":\"HowToStep\",\"text\":\"In a large bowl, whisk together the 1 1/2 cups of milk and the 2 eggs.\"},{\"@type\":\"HowToStep\",\"text\":\"Add the cooked noodles and the drained tuna to the greased casserole dish.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour the milk and egg mixture over the noodles and tuna and stir to combine.\"},{\"@type\":\"HowToStep\",\"text\":\"Top the casserole evenly with the 1 cup of crushed potato chips.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake at 350\u00b0F for 30 minutes, or until the custard is set and the top is golden brown.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Simple Baked Tuna Noodle Casserole","image":"https://cucinamezzaluna.com/Entrees/Casserole/Meat/Fish/Assets/Handwritten_2025-06-27_190847.webp","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-11-13","description":"A simple tuna noodle casserole made with an egg and milk custard and topped with crushed potato chips.","prepTime":"PT15M","cookTime":"PT30M","totalTime":"PT45M","recipeYield":"6 servings","recipeCategory":"Entree","recipeCuisine":"American","recipeIngredient":["8 oz. Noodles, cooked and drained","2 (6 oz) cans Tuna, drained","1 1/2 cups Milk","2 Eggs","1 cup Potato Chips, crushed","1 Tbsp Butter (for greasing pan)"],"recipeInstructions":[{"@type":"HowToStep","text":"Preheat the oven to 350°F. Grease a casserole dish with butter."},{"@type":"HowToStep","text":"In a large bowl, whisk together the 1 1/2 cups of milk and the 2 eggs."},{"@type":"HowToStep","text":"Add the cooked noodles and the drained tuna to the greased casserole dish."},{"@type":"HowToStep","text":"Pour the milk and egg mixture over the noodles and tuna and stir to combine."},{"@type":"HowToStep","text":"Top the casserole evenly with the 1 cup of crushed potato chips."},{"@type":"HowToStep","text":"Bake at 350°F for 30 minutes, or until the custard is set and the top is golden brown."}]}'
 ---
 
 # Simple Baked Tuna Noodle Casserole

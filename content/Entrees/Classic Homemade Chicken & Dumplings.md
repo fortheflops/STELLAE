@@ -1,13 +1,48 @@
 ---
-title: "Classic Homemade Chicken & Dumplings"
-category: "Entrees"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["chicken", "dumplings", "comfortfood", "123", "soup", "entree"]
-description: "A classic, from-scratch recipe featuring a whole chicken simmered into a rich broth, chilled to collect the fat, and used to create a simple, dense 'slick' dumpling dough."
-date: "2026-07-30"
+title: Classic Homemade Chicken & Dumplings
+category: Entrees
+collection: Gail Collection
+source: Unknown
+tags:
+  - chicken
+  - dumplings
+  - comfortfood
+  - soup
+  - entree
+description: A classic, from-scratch recipe featuring a whole chicken simmered into a rich broth, chilled to collect the fat, and used to create a simple, dense 'slick' dumpling dough.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Classic Homemade Chicken & Dumplings\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-11-13\",\n  \"description\": \"A classic, from-scratch recipe featuring a whole chicken simmered into a rich broth, chilled to collect the fat, and used to create a simple, dense 'slick' dumpling dough.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT1H\",\n  \"totalTime\": \"PT4H30M\",\n  \"recipeYield\": \"6-8 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"One cut-up fryer chicken, with extra legs\",\n    \"Water (to cover)\",\n    \"One (Small) onion\",\n    \"Carrot (as needed)\",\n    \"Diced garlic (as needed)\",\n    \"Celery (as needed)\",\n    \"One bay leaf\",\n    \"One teaspoon salt & pepper\",\n    \"Two cups flour\",\n    \"One teaspoon salt\",\n    \"Skimmed chicken grease (as needed)\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Classic Homemade Chicken & Dumplings",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-11-13",
+    "description": "A classic, from-scratch recipe featuring a whole chicken simmered into a rich broth, chilled to collect the fat, and used to create a simple, dense 'slick' dumpling dough.",
+    "prepTime": "PT30M",
+    "cookTime": "PT1H",
+    "totalTime": "PT4H30M",
+    "recipeYield": "6-8 servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "One cut-up fryer chicken, with extra legs",
+      "Water (to cover)",
+      "One (Small) onion",
+      "Carrot (as needed)",
+      "Diced garlic (as needed)",
+      "Celery (as needed)",
+      "One bay leaf",
+      "One teaspoon salt & pepper",
+      "Two cups flour",
+      "One teaspoon salt",
+      "Skimmed chicken grease (as needed)"
+    ]
+  }
 ---
 
 # Classic Homemade Chicken & Dumplings

@@ -1,13 +1,17 @@
 ---
-title: "Classic Ritz Cracker Pie"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["dessert", "pie", "123", "crackerpie", "pecans"]
-description: "A unique and delicious vintage dessert featuring a chewy, meringue-like base made from crushed Ritz crackers, pecans, and sweet whipped cream."
-date: "2026-07-30"
+title: Classic Ritz Cracker Pie
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - dessert
+  - pie
+  - crackerpie
+  - pecans
+description: A unique and delicious vintage dessert featuring a chewy, meringue-like base made from crushed Ritz crackers, pecans, and sweet whipped cream.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Ritz Cracker Pie\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-13\", \"description\": \"A unique and delicious vintage dessert, this Ritz Cracker Pie features a chewy, meringue-like base made from crushed crackers, pecans, and sweet, fluffy egg whites.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Cracker%20Pie/Assets/Handwritten_2025-03-23_123555.webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT20M\", \"totalTime\": \"PT35M\", \"recipeYield\": \"One 9-inch pie\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3 Egg Whites\", \"22 Ritz Crackers, crushed\", \"1 Cup Pecans, chopped\", \"1/2 Cup Sugar\", \"1 Teaspoon Vanilla\", \"1 Cup Heavy Cream, for topping\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Ritz Cracker Pie", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-13", "description": "A unique and delicious vintage dessert, this Ritz Cracker Pie features a chewy, meringue-like base made from crushed crackers, pecans, and sweet, fluffy egg whites.", "image": ["https://cucinamezzaluna.com/Desserts/Pastries/Pie/Cracker%20Pie/Assets/Handwritten_2025-03-23_123555.webp"], "prepTime": "PT15M", "cookTime": "PT20M", "totalTime": "PT35M", "recipeYield": "One 9-inch pie", "recipeCategory": "Dessert", "recipeCuisine": "American", "recipeIngredient": ["3 Egg Whites", "22 Ritz Crackers, crushed", "1 Cup Pecans, chopped", "1/2 Cup Sugar", "1 Teaspoon Vanilla", "1 Cup Heavy Cream, for topping"]}'
 ---
 
 # Classic Ritz Cracker Pie

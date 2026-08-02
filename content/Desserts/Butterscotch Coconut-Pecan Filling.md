@@ -1,13 +1,18 @@
 ---
-title: "Butterscotch Coconut-Pecan Filling"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["frosting", "butterscotch", "coconut", "pecan", "123", "desserttopping"]
-description: "A rich, chewy, and gooey butterscotch filling or frosting, packed with coconut and nuts. This cooked topping is similar in style to the classic frosting for a German chocolate cake."
-date: "2026-07-30"
+title: Butterscotch Coconut-Pecan Filling
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - frosting
+  - butterscotch
+  - coconut
+  - pecan
+  - desserttopping
+description: A rich, chewy, and gooey butterscotch filling or frosting, packed with coconut and nuts. This cooked topping is similar in style to the classic frosting for a German chocolate cake.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Butterscotch Coconut-Pecan Filling\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A rich, chewy, and gooey butterscotch filling or frosting, packed with coconut and nuts.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"Topping for one 9x13 inch cake\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"1/2 Cup Sugar\", \"1 Tablespoon Cornstarch\", \"1/2 Cup Evaporated Milk\", \"1/3 Cup Water\", \"1/2 Cup Butterscotch Morsels\", \"1 Beaten Egg Yolk\", \"2 Tablespoons Butter\", \"1 Cup Coconut\", \"1 Cup Nuts\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Butterscotch Coconut-Pecan Filling", "author": {"@type": "Person", "name": "Unknown"}, "description": "A rich, chewy, and gooey butterscotch filling or frosting, packed with coconut and nuts.", "prepTime": "PT5M", "cookTime": "PT10M", "recipeYield": "Topping for one 9x13 inch cake", "recipeCategory": "Desserts", "recipeIngredient": ["1/2 Cup Sugar", "1 Tablespoon Cornstarch", "1/2 Cup Evaporated Milk", "1/3 Cup Water", "1/2 Cup Butterscotch Morsels", "1 Beaten Egg Yolk", "2 Tablespoons Butter", "1 Cup Coconut", "1 Cup Nuts"]}'
 ---
 
 # Butterscotch Coconut-Pecan Filling

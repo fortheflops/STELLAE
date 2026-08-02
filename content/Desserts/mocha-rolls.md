@@ -1,13 +1,20 @@
 ---
-title: "Mocha Rolls"
-category: "Desserts"
-collection: "John B. Collection"
-source: "Unattributed"
-tags: ["mocha", "rolls", "cookies", "dessert", "no-bake", "123", "coffee", "pecans"]
-description: "Delightful vintage no-bake mocha rolls combining vanilla wafer crumbs, pecans, and soluble coffee. Coated in powdered sugar, they make a wonderfully sweet and aromatic treat."
-date: "2026-07-30"
+title: Mocha Rolls
+category: Desserts
+collection: John B. Collection
+source: Unattributed
+tags:
+  - mocha
+  - rolls
+  - cookies
+  - dessert
+  - no-bake
+  - coffee
+  - pecans
+description: Delightful vintage no-bake mocha rolls combining vanilla wafer crumbs, pecans, and soluble coffee. Coated in powdered sugar, they make a wonderfully sweet and aromatic treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Mocha Rolls\", \"author\": {\"@type\": \"Person\", \"name\": \"Unattributed\"}, \"datePublished\": \"2024-03-28\", \"description\": \"Delightful vintage no-bake mocha rolls combining vanilla wafer crumbs, pecans, and soluble coffee.\", \"prepTime\": \"PT25M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"18 servings\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 C. vanilla wafer crumbs\", \"1/4 C. chopped pecans\", \"1/4 C. powdered sugar\", \"1 tsp. soluble coffee\", \"1 tbsp. corn syrup\", \"2 tbsp. water\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine vanilla wafer crumbs, chopped pecans, powdered sugar, and soluble coffee.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add corn syrup and water, shape into rolls about 1 1/2 inches long, and roll in powdered sugar.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Mocha Rolls", "author": {"@type": "Person", "name": "Unattributed"}, "datePublished": "2024-03-28", "description": "Delightful vintage no-bake mocha rolls combining vanilla wafer crumbs, pecans, and soluble coffee.", "prepTime": "PT25M", "cookTime": "PT0M", "recipeYield": "18 servings", "recipeCategory": "Desserts", "recipeCuisine": "American", "recipeIngredient": ["1 C. vanilla wafer crumbs", "1/4 C. chopped pecans", "1/4 C. powdered sugar", "1 tsp. soluble coffee", "1 tbsp. corn syrup", "2 tbsp. water"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine vanilla wafer crumbs, chopped pecans, powdered sugar, and soluble coffee."}, {"@type": "HowToStep", "text": "Add corn syrup and water, shape into rolls about 1 1/2 inches long, and roll in powdered sugar."}]}'
 ---
 
 # Mocha Rolls

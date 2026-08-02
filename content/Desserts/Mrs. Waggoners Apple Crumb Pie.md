@@ -1,13 +1,47 @@
 ---
-title: "Mrs. Waggoner's Apple Crumb Pie"
-category: "Desserts"
-collection: "GC"
-source: "Mrs. Waggoner"
-tags: ["dessert", "pie", "apple", "123", "baking"]
-description: "A classic apple crumb pie featuring a simple, sweet filling of spiced Gravenstein apples and a buttery, crumbly streusel topping. Perfect for autumn gatherings and comforting family dinners."
-date: "2026-07-30"
+title: Mrs. Waggoner's Apple Crumb Pie
+category: Desserts
+collection: GC
+source: Mrs. Waggoner
+tags:
+  - dessert
+  - pie
+  - apple
+  - baking
+description: A classic apple crumb pie featuring a simple, sweet filling of spiced Gravenstein apples and a buttery, crumbly streusel topping. Perfect for autumn gatherings and comforting family dinners.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Mrs. Waggoner's Apple Crumb Pie\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Mrs. Waggoner\"\n  },\n  \"datePublished\": \"2025-10-13\",\n  \"description\": \"A classic apple crumb pie from Mrs. Waggoner, featuring a simple, sweet filling of spiced Gravenstein apples and a buttery, crumbly streusel topping.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Apple%20Pie/Assets/Handwritten_2025-05-21_131054.webp\"\n  ],\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT1H\",\n  \"totalTime\": \"PT1H15M\",\n  \"recipeYield\": \"One 9-inch pie\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 unbaked 9-inch pie crust\",\n    \"4 Cups Sliced Apples (Gravenstein suggested)\",\n    \"1/2 Cup Sugar\",\n    \"1 Teaspoon Cinnamon\",\n    \"1 Tablespoon Flour\",\n    \"1/2 Cup Sugar (for topping)\",\n    \"3/4 Cup Flour (for topping)\",\n    \"1/3 Cup Margarine or butter, chilled\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Mrs. Waggoner's Apple Crumb Pie",
+    "author": {
+      "@type": "Person",
+      "name": "Mrs. Waggoner"
+    },
+    "datePublished": "2025-10-13",
+    "description": "A classic apple crumb pie from Mrs. Waggoner, featuring a simple, sweet filling of spiced Gravenstein apples and a buttery, crumbly streusel topping.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Pastries/Pie/Apple%20Pie/Assets/Handwritten_2025-05-21_131054.webp"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT1H",
+    "totalTime": "PT1H15M",
+    "recipeYield": "One 9-inch pie",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 unbaked 9-inch pie crust",
+      "4 Cups Sliced Apples (Gravenstein suggested)",
+      "1/2 Cup Sugar",
+      "1 Teaspoon Cinnamon",
+      "1 Tablespoon Flour",
+      "1/2 Cup Sugar (for topping)",
+      "3/4 Cup Flour (for topping)",
+      "1/3 Cup Margarine or butter, chilled"
+    ]
+  }
 ---
 
 # Mrs. Waggoner's Apple Crumb Pie

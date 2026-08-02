@@ -1,11 +1,17 @@
 ---
-title: "Mom's Marble Cake"
-category: "Desserts"
-collection: "JillCollection"
-source: "Unknown"
-tags: ["dessert", "cake", "marblecake", "chocolate", "vanilla", "123", "baking"]
-description: "A classic, tender marble cake made with Swansdown cake flour, featuring a vanilla-scented white batter swirled with a rich chocolate mixture. Light and fluffy, it is finished with folded egg whites for the perfect crumb."
-date: "2026-07-30"
+title: Mom's Marble Cake
+category: Desserts
+collection: JillCollection
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - marblecake
+  - chocolate
+  - vanilla
+  - baking
+description: A classic, tender marble cake made with Swansdown cake flour, featuring a vanilla-scented white batter swirled with a rich chocolate mixture. Light and fluffy, it is finished with folded egg whites for the perfect crumb.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Mom's Marble Cake\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-08-10\",\"description\":\"A classic from-scratch marble cake, featuring tender vanilla and rich chocolate batters swirled together, made light with folded egg whites.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Cake/Marble-Cake/Assets/Mom's%20Marble%20Cake%20JC-1754844369563.webp\",\"https://cucinamezzaluna.com/Desserts/Cake/Marble-Cake/Assets/Mom's%20Marble%20Cake%20JC-1754844369556.webp\"],\"prepTime\":\"PT25M\",\"cookTime\":\"PT55M\",\"totalTime\":\"PT1H20M\",\"recipeYield\":\"1 loaf or 2 8-inch layers\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"3/4 cup butter, softened\",\"2 cups sugar\",\"4 large eggs, separated\",\"3 cups Swansdown Cake Flour\",\"4 teaspoons baking powder\",\"1/2 teaspoon salt\",\"1 cup milk\",\"1/2 teaspoon vanilla extract\",\"3 ounces unsweetened chocolate\",\"1/4 cup boiling water\",\"4 teaspoons sugar\",\"1/2 teaspoon baking soda\"]}"
 ---

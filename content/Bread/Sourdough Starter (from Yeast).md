@@ -1,13 +1,67 @@
 ---
-title: "Sourdough Starter (from Yeast)"
-category: "Bread"
-collection: "UK2"
-source: "Unknown"
-tags: ["bread", "sourdough", "starter", "yeast", "baking", "123"]
-description: "Create a quick, tangy sourdough-style starter using commercial yeast and a 24-hour room temperature fermentation. This traditional method yields a bubbly, flavorful base ready for your favorite rustic breads and baked goods."
-date: "2026-07-30"
+title: Sourdough Starter (from Yeast)
+category: Bread
+collection: UK2
+source: Unknown
+tags:
+  - bread
+  - sourdough
+  - starter
+  - yeast
+  - baking
+description: Create a quick, tangy sourdough-style starter using commercial yeast and a 24-hour room temperature fermentation. This traditional method yields a bubbly, flavorful base ready for your favorite rustic breads and baked goods.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Sourdough Starter (from Yeast)\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-09-22\",\n  \"description\": \"A method for creating a sourdough-like starter using commercial yeast, which is then fermented for 24 hours to develop a sour flavor.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Bread/Yeasted-Bread/Sourdough/Assets/Handwritten_2025-02-11_130803.webp\"\n  ],\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT0M\",\n  \"totalTime\": \"P1DT2H\",\n  \"recipeYield\": \"Approx. 2 cups of starter\",\n  \"recipeCategory\": \"Bread\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 (1/4-ounce) package active dry yeast\",\n    \"2 cups lukewarm water, divided\",\n    \"1 teaspoon sugar\",\n    \"1/2 teaspoon salt\",\n    \"2 cups all-purpose flour, divided\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a non-metallic bowl, dissolve the yeast in 1 cup of lukewarm water.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in the sugar, salt, and 1 cup of flour to make a smooth paste.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cover the bowl and let it rise in a warm place for 1 to 2 hours. The mixture will rise and then fall back down.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"After the starter has fallen, stir in the remaining 1 cup of lukewarm water and enough of the remaining flour to make a paste again.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cover loosely and let the mixture stand at room temperature for 24 hours to sour before using in a recipe.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Sourdough Starter (from Yeast)",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-09-22",
+    "description": "A method for creating a sourdough-like starter using commercial yeast, which is then fermented for 24 hours to develop a sour flavor.",
+    "image": [
+      "https://cucinamezzaluna.com/Bread/Yeasted-Bread/Sourdough/Assets/Handwritten_2025-02-11_130803.webp"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT0M",
+    "totalTime": "P1DT2H",
+    "recipeYield": "Approx. 2 cups of starter",
+    "recipeCategory": "Bread",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 (1/4-ounce) package active dry yeast",
+      "2 cups lukewarm water, divided",
+      "1 teaspoon sugar",
+      "1/2 teaspoon salt",
+      "2 cups all-purpose flour, divided"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a non-metallic bowl, dissolve the yeast in 1 cup of lukewarm water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the sugar, salt, and 1 cup of flour to make a smooth paste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover the bowl and let it rise in a warm place for 1 to 2 hours. The mixture will rise and then fall back down."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After the starter has fallen, stir in the remaining 1 cup of lukewarm water and enough of the remaining flour to make a paste again."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover loosely and let the mixture stand at room temperature for 24 hours to sour before using in a recipe."
+      }
+    ]
+  }
 ---
 
 # Sourdough Starter (from Yeast)

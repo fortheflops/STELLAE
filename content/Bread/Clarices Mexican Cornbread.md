@@ -1,11 +1,16 @@
 ---
-title: "Clarice's Mexican Cornbread"
-category: "Bread"
-collection: "UK2"
-source: "Clarice"
-tags: ["bread", "cornbread", "mexican", "savory", "cheesy", "123"]
-description: "A savory, moist cornbread featuring a hidden layer of melted cheese, packed with creamed corn, jalape\u00f1os, and bell peppers."
-date: "2026-07-30"
+title: Clarice's Mexican Cornbread
+category: Bread
+collection: UK2
+source: Clarice
+tags:
+  - bread
+  - cornbread
+  - mexican
+  - savory
+  - cheesy
+description: A savory, moist cornbread featuring a hidden layer of melted cheese, packed with creamed corn, jalapeños, and bell peppers.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Clarice's Mexican Cornbread\",\"author\":{\"@type\":\"Person\",\"name\":\"Clarice\"},\"datePublished\":\"2025-09-21\",\"description\":\"A savory, moist cornbread with a hidden layer of melted cheese, filled with creamed corn and finely chopped peppers.\",\"image\":[\"https://cucinamezzaluna.com/Bread/Corn-Bread/Assets/Handwritten_2025-02-07_102533.webp\",\"https://cucinamezzaluna.com/Bread/Corn-Bread/Assets/Handwritten_2025-02-07_102750%20(2).webp\"],\"prepTime\":\"PT15M\",\"cookTime\":\"PT28M\",\"totalTime\":\"PT43M\",\"recipeYield\":\"8-10 servings\",\"recipeCategory\":\"Bread\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 1/2 cups yellow corn meal\",\"3 teaspoons baking powder\",\"1 teaspoon salt\",\"1 cup buttermilk\",\"3 large eggs\",\"2/3 cup cooking oil\",\"1 cup cream-style corn\",\"1 cup grated cheese (Cheddar or Monterey Jack)\",\"3 jalapeno peppers, finely chopped\",\"1 bell pepper, finely chopped\"]}"
 ---

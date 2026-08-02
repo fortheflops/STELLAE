@@ -1,13 +1,18 @@
 ---
-title: "Classic Cream Puffs"
-category: "Desserts"
-collection: "LOC"
-source: "Unknown"
-tags: ["creampuffs", "pastries", "french", "dessert", "louisecollection", "123"]
-description: "A classic recipe for light and airy cream puffs made with a traditional p\u00e2te \u00e0 choux dough. These hollow pastries are perfect for filling with whipped cream, custard, or ice cream."
-date: "2026-07-30"
+title: Classic Cream Puffs
+category: Desserts
+collection: LOC
+source: Unknown
+tags:
+  - creampuffs
+  - pastries
+  - french
+  - dessert
+  - louisecollection
+description: A classic recipe for light and airy cream puffs made with a traditional pâte à choux dough. These hollow pastries are perfect for filling with whipped cream, custard, or ice cream.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Classic Cream Puffs\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-10-13\",\"description\":\"A classic recipe for light and airy cream puffs made with a traditional p\u00e2te \u00e0 choux dough. These hollow pastries are perfect for filling with whipped cream, custard, or ice cream.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Pastries/Cream%20Puffs/Assets/unnamed%20(1).webp\"],\"prepTime\":\"PT20M\",\"cookTime\":\"PT55M\",\"totalTime\":\"PT1H15M\",\"recipeYield\":\"12 to 14 cream puffs\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"French\",\"recipeIngredient\":[\"1/2 Cup Butter (1 Stick)\",\"1 Cup Boiling Water\",\"1 Cup All-Purpose Flour\",\"4 Eggs, Unbeaten\"]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Classic Cream Puffs","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-10-13","description":"A classic recipe for light and airy cream puffs made with a traditional pâte à choux dough. These hollow pastries are perfect for filling with whipped cream, custard, or ice cream.","image":["https://cucinamezzaluna.com/Desserts/Pastries/Cream%20Puffs/Assets/unnamed%20(1).webp"],"prepTime":"PT20M","cookTime":"PT55M","totalTime":"PT1H15M","recipeYield":"12 to 14 cream puffs","recipeCategory":"Dessert","recipeCuisine":"French","recipeIngredient":["1/2 Cup Butter (1 Stick)","1 Cup Boiling Water","1 Cup All-Purpose Flour","4 Eggs, Unbeaten"]}'
 ---
 
 # Classic Cream Puffs

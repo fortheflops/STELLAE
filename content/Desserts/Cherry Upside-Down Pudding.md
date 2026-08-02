@@ -1,13 +1,39 @@
 ---
-title: "Cherry Upside-Down Pudding"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["dessert", "pudding", "cherry", "123", "baked", "selfsaucing"]
-description: "A delightful self-saucing vintage dessert featuring a tender vanilla cake baked over a sweet cherry base. Perfect for a cozy family treat served warm."
-date: "2026-07-30"
+title: Cherry Upside-Down Pudding
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - dessert
+  - pudding
+  - cherry
+  - baked
+  - selfsaucing
+description: A delightful self-saucing vintage dessert featuring a tender vanilla cake baked over a sweet cherry base. Perfect for a cozy family treat served warm.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Cherry Upside-Down Pudding\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-12\",\n  \"description\": \"A self-saucing dessert featuring a simple vanilla cake batter with a hot cherry sauce poured over the top before baking, creating a soft pudding-cake with its own built-in cherry sauce.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Custards,%20Puddings%20&%20Mousses/Pudding/Self-Saucing%20Pudding/Assets/Handwritten_2025-01-20_121937.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Custards,%20Puddings%20&%20Mousses/Pudding/Self-Saucing%20Pudding/Assets/Handwritten_2025-01-20_122031%20(2).webp\"\n  ],\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT45M\",\n  \"totalTime\": \"PT1H\",\n  \"recipeYield\": \"8 servings\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Cherry Upside-Down Pudding",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-12",
+    "description": "A self-saucing dessert featuring a simple vanilla cake batter with a hot cherry sauce poured over the top before baking, creating a soft pudding-cake with its own built-in cherry sauce.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Custards,%20Puddings%20&%20Mousses/Pudding/Self-Saucing%20Pudding/Assets/Handwritten_2025-01-20_121937.webp",
+      "https://cucinamezzaluna.com/Desserts/Custards,%20Puddings%20&%20Mousses/Pudding/Self-Saucing%20Pudding/Assets/Handwritten_2025-01-20_122031%20(2).webp"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "totalTime": "PT1H",
+    "recipeYield": "8 servings",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American"
+  }
 ---
 
 # Cherry Upside-Down Pudding

@@ -1,13 +1,18 @@
 ---
-title: "Classic Lemon Icebox Pie"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["dessert", "pie", "lemon", "nobake", "123", "icebox"]
-description: "A wonderfully simple no-bake pie, this classic Lemon Icebox Pie features a tangy, creamy filling made from just three main ingredients set in a crisp crust."
-date: "2026-07-30"
+title: Classic Lemon Icebox Pie
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - dessert
+  - pie
+  - lemon
+  - nobake
+  - icebox
+description: A wonderfully simple no-bake pie, this classic Lemon Icebox Pie features a tangy, creamy filling made from just three main ingredients set in a crisp crust.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Lemon Icebox Pie\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-13\", \"description\": \"A wonderfully simple no-bake pie, this classic Lemon Icebox Pie features a tangy, creamy filling made from just three ingredients: sweetened condensed milk, lemon juice, and Cool Whip.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT15M\", \"recipeYield\": \"Two 9-inch pies\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 can Eagle Brand Sweetened Condensed Milk\", \"1 large container Cool Whip, thawed\", \"Juice of 1 large lemon (or 2 for a tarter pie)\", \"1 cup Pecans, chopped\", \"2 (9-inch) pre-baked pie crusts (graham cracker or vanilla wafer recommended)\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Lemon Icebox Pie", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-13", "description": "A wonderfully simple no-bake pie, this classic Lemon Icebox Pie features a tangy, creamy filling made from just three ingredients: sweetened condensed milk, lemon juice, and Cool Whip.", "prepTime": "PT15M", "cookTime": "PT0M", "totalTime": "PT15M", "recipeYield": "Two 9-inch pies", "recipeCategory": "Desserts", "recipeCuisine": "American", "recipeIngredient": ["1 can Eagle Brand Sweetened Condensed Milk", "1 large container Cool Whip, thawed", "Juice of 1 large lemon (or 2 for a tarter pie)", "1 cup Pecans, chopped", "2 (9-inch) pre-baked pie crusts (graham cracker or vanilla wafer recommended)"]}'
 ---
 
 # Classic Lemon Icebox Pie

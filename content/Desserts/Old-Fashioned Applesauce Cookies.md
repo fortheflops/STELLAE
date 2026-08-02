@@ -1,13 +1,17 @@
 ---
-title: "Old-Fashioned Applesauce Cookies"
-category: "Desserts"
-collection: "Patsy Collection"
-source: "Unknown"
-tags: ["cookies", "123", "applesauce", "spiced", "comfortfood"]
-description: "A classic recipe for soft, cake-like drop cookies made with applesauce, brown sugar, and warm spices. These old-fashioned treats are packed with raisins and nuts for a hearty, nostalgic flavor."
-date: "2026-07-30"
+title: Old-Fashioned Applesauce Cookies
+category: Desserts
+collection: Patsy Collection
+source: Unknown
+tags:
+  - cookies
+  - applesauce
+  - spiced
+  - comfortfood
+description: A classic recipe for soft, cake-like drop cookies made with applesauce, brown sugar, and warm spices. These old-fashioned treats are packed with raisins and nuts for a hearty, nostalgic flavor.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Old-Fashioned Applesauce Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT12M\", \"recipeYield\": \"48 cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 cup shortening\", \"1 cup packed brown sugar\", \"1 large egg\", \"1/4 cup cold coffee\", \"1 cup thick, well-drained applesauce\", \"1 3/4 cups all-purpose flour\", \"1/2 teaspoon baking soda\", \"1/2 teaspoon salt\", \"1/2 teaspoon nutmeg\", \"1/2 teaspoon cloves\", \"1/2 teaspoon cinnamon\", \"1/2 cup raisins\", \"1/4 cup coarsely chopped nuts\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Old-Fashioned Applesauce Cookies", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT15M", "cookTime": "PT12M", "recipeYield": "48 cookies", "recipeCategory": "Dessert", "recipeIngredient": ["1/2 cup shortening", "1 cup packed brown sugar", "1 large egg", "1/4 cup cold coffee", "1 cup thick, well-drained applesauce", "1 3/4 cups all-purpose flour", "1/2 teaspoon baking soda", "1/2 teaspoon salt", "1/2 teaspoon nutmeg", "1/2 teaspoon cloves", "1/2 teaspoon cinnamon", "1/2 cup raisins", "1/4 cup coarsely chopped nuts"]}'
 ---
 
 # Old-Fashioned Applesauce Cookies

@@ -1,13 +1,60 @@
 ---
-title: "Pineapple Squirt Punch"
-category: "Beverages"
-collection: "UK3"
-source: "Unknown"
-tags: ["beverage", "punch", "party", "refreshing", "123"]
-description: "An incredibly simple and refreshing two-ingredient party punch. This recipe combines the sweet taste of pineapple juice with the fizzy, citrus flavor of Squirt soda."
-date: "2026-07-30"
+title: Pineapple Squirt Punch
+category: Beverages
+collection: UK3
+source: Unknown
+tags:
+  - beverage
+  - punch
+  - party
+  - refreshing
+description: An incredibly simple and refreshing two-ingredient party punch. This recipe combines the sweet taste of pineapple juice with the fizzy, citrus flavor of Squirt soda.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Pineapple Squirt Punch\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-09-20\",\n  \"description\": \"A super easy and refreshing party punch made with just two ingredients: pineapple juice and Squirt soda.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Beverages/Punch/Assets/Handwritten_2025-03-15_121330.webp\"\n  ],\n  \"prepTime\": \"PT5M\",\n  \"cookTime\": \"PT0M\",\n  \"totalTime\": \"PT5M\",\n  \"recipeYield\": \"10-12 servings\",\n  \"recipeCategory\": \"Beverages\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 (46-ounce) can pineapple juice, chilled\",\n    \"3 (12-ounce) cans Squirt or other grapefruit soda, chilled\",\n    \"Optional: Ice ring made from juice or ginger ale\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large punch bowl, pour in the chilled pineapple juice.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Just before serving, gently pour in the chilled Squirt soda.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir briefly to combine.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add an ice ring to the bowl to keep the punch cold without diluting it too quickly. Serve immediately.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Pineapple Squirt Punch",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-09-20",
+    "description": "A super easy and refreshing party punch made with just two ingredients: pineapple juice and Squirt soda.",
+    "image": [
+      "https://cucinamezzaluna.com/Beverages/Punch/Assets/Handwritten_2025-03-15_121330.webp"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT5M",
+    "recipeYield": "10-12 servings",
+    "recipeCategory": "Beverages",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 (46-ounce) can pineapple juice, chilled",
+      "3 (12-ounce) cans Squirt or other grapefruit soda, chilled",
+      "Optional: Ice ring made from juice or ginger ale"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a large punch bowl, pour in the chilled pineapple juice."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Just before serving, gently pour in the chilled Squirt soda."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir briefly to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add an ice ring to the bowl to keep the punch cold without diluting it too quickly. Serve immediately."
+      }
+    ]
+  }
 ---
 
 # Pineapple Squirt Punch

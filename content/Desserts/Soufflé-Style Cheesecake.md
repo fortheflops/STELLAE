@@ -1,13 +1,17 @@
 ---
-title: "Souffl\u00e9-Style Cheesecake"
-category: "Desserts"
-collection: "GailCollection"
-source: "Unknown"
-tags: ["dessert", "cheesecake", "souffle", "123", "baking"]
-description: "A light and airy souffl\u00e9-style cheesecake that achieves its incredible lift and delicate texture from folding stiffly beaten egg whites into a rich cream cheese base. This vintage recipe yields a smooth, cloud-like dessert with a delightful wobble in the center."
-date: "2026-07-30"
+title: Soufflé-Style Cheesecake
+category: Desserts
+collection: GailCollection
+source: Unknown
+tags:
+  - dessert
+  - cheesecake
+  - souffle
+  - baking
+description: A light and airy soufflé-style cheesecake that achieves its incredible lift and delicate texture from folding stiffly beaten egg whites into a rich cream cheese base. This vintage recipe yields a smooth, cloud-like dessert with a delightful wobble in the center.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Souffl\u00e9-Style Cheesecake\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-10-06\",\"description\":\"A light, airy, souffl\u00e9-style cheesecake that gets its lift from separately beaten egg whites.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Cheesecake/Assets/Handwritten_2025-06-29_071858.webp\"],\"prepTime\":\"PT20M\",\"cookTime\":\"PT50M\",\"totalTime\":\"PT1H10M\",\"recipeYield\":\"1 9-inch cheesecake (12-16 servings)\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 1/2 lbs (three 8-ounce packages) cream cheese, softened\",\"2 cups sugar\",\"3 large eggs, separated\",\"1/4 cup milk\",\"1/2 teaspoon vanilla extract\",\"Optional: Crystallized melon or ginger\",\"Your favorite graham cracker or cookie crust\"]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Soufflé-Style Cheesecake","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-10-06","description":"A light, airy, soufflé-style cheesecake that gets its lift from separately beaten egg whites.","image":["https://cucinamezzaluna.com/Desserts/Cheesecake/Assets/Handwritten_2025-06-29_071858.webp"],"prepTime":"PT20M","cookTime":"PT50M","totalTime":"PT1H10M","recipeYield":"1 9-inch cheesecake (12-16 servings)","recipeCategory":"Dessert","recipeCuisine":"American","recipeIngredient":["1 1/2 lbs (three 8-ounce packages) cream cheese, softened","2 cups sugar","3 large eggs, separated","1/4 cup milk","1/2 teaspoon vanilla extract","Optional: Crystallized melon or ginger","Your favorite graham cracker or cookie crust"]}'
 ---
 
 # Soufflé-Style Cheesecake

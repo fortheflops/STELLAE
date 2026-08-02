@@ -1,11 +1,16 @@
 ---
-title: "Joyce's Russian Tea Mix"
-category: "Beverages"
-collection: "GC"
-source: "Joyce"
-tags: ["beverage", "tea", "instantmix", "spiced", "123", "gailcollection"]
-description: "A classic, comforting instant 'Russian Tea' mix recipe featuring a tangy and spiced blend of Tang, lemonade, instant tea, and warm spices."
-date: "2026-07-30"
+title: Joyce's Russian Tea Mix
+category: Beverages
+collection: GC
+source: Joyce
+tags:
+  - beverage
+  - tea
+  - instantmix
+  - spiced
+  - gailcollection
+description: A classic, comforting instant 'Russian Tea' mix recipe featuring a tangy and spiced blend of Tang, lemonade, instant tea, and warm spices.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Joyce's Russian Tea Mix\", \"author\": {\"@type\": \"Person\", \"name\": \"Joyce\"}, \"datePublished\": \"2025-09-20\", \"description\": \"A tangy and spiced instant tea mix made with Tang, lemonade powder, instant tea, and spices. A perfect homemade gift.\", \"image\": [\"https://cucinamezzaluna.com/Beverages/Tea/Assets/2025-06-11_182121.webp\"], \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT10M\", \"recipeYield\": \"Approx. 5 cups of mix (80 servings)\", \"recipeCategory\": \"Drink\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 (18-ounce) container Tang Drink Mix (about 2.5 cups)\", \"1 cup sweetened lemonade mix powder\", \"3/4 cup unsweetened instant tea powder\", \"2 teaspoons ground cinnamon\", \"1 teaspoon ground cloves\", \"2 cups sugar (optional, for a sweeter mix)\"]}"
 ---

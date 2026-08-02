@@ -1,13 +1,18 @@
 ---
-title: "Layered Chocolate Pudding Delight"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "lush", "chocolate", "pecan", "123", "potluck"]
-description: "A decadent layered dessert featuring a buttery pecan crust, a sweet cream cheese layer, and a rich chocolate-vanilla pudding topping. This classic lush is a perfect make-ahead treat for any gathering."
-date: "2026-07-30"
+title: Layered Chocolate Pudding Delight
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - lush
+  - chocolate
+  - pecan
+  - potluck
+description: A decadent layered dessert featuring a buttery pecan crust, a sweet cream cheese layer, and a rich chocolate-vanilla pudding topping. This classic lush is a perfect make-ahead treat for any gathering.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Layered Chocolate Pudding Delight\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A decadent layered dessert featuring a buttery pecan crust, a sweet cream cheese layer, and a rich chocolate-vanilla pudding topping.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT20M\", \"recipeYield\": \"12-15 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Layered Chocolate Pudding Delight", "author": {"@type": "Person", "name": "Unknown"}, "description": "A decadent layered dessert featuring a buttery pecan crust, a sweet cream cheese layer, and a rich chocolate-vanilla pudding topping.", "prepTime": "PT20M", "cookTime": "PT20M", "recipeYield": "12-15 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Layered Chocolate Pudding Delight

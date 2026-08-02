@@ -1,13 +1,50 @@
 ---
-title: "Oatmeal Drops"
-category: "Desserts"
-collection: "John B. Collection"
-source: "Unattributed"
-tags: ["cookies", "oatmeal", "raisins", "123", "drop cookies"]
-description: "A delightful vintage recipe for chewy oatmeal drop cookies packed with raisins and nuts. Perfect for an afternoon treat with a glass of milk."
-date: "2026-07-30"
+title: Oatmeal Drops
+category: Desserts
+collection: John B. Collection
+source: Unattributed
+tags:
+  - cookies
+  - oatmeal
+  - raisins
+  - drop cookies
+description: A delightful vintage recipe for chewy oatmeal drop cookies packed with raisins and nuts. Perfect for an afternoon treat with a glass of milk.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Oatmeal Drops\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"description\": \"A delightful vintage recipe for chewy oatmeal drop cookies packed with raisins and nuts.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT10M\",\n  \"recipeYield\": \"36 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeIngredient\": [\n    \"1 C. Butter\",\n    \"1 C. Sugar\",\n    \"2 C. Flour\",\n    \"3 C. Oatmeal\",\n    \"5 tbsp. Milk\",\n    \"2 Eggs\",\n    \"1 C. Raisins\",\n    \"1 C. Nuts\",\n    \"1/2 tsp. Soda\",\n    \"1/2 tsp. Salt\",\n    \"1 tsp. Cinnamon\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cream the butter and sugar, then mix in remaining ingredients and drop from the tip of a spoon onto a baking sheet.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Oatmeal Drops",
+    "author": {
+      "@type": "Person",
+      "name": "Unattributed"
+    },
+    "description": "A delightful vintage recipe for chewy oatmeal drop cookies packed with raisins and nuts.",
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "recipeYield": "36 servings",
+    "recipeCategory": "Desserts",
+    "recipeIngredient": [
+      "1 C. Butter",
+      "1 C. Sugar",
+      "2 C. Flour",
+      "3 C. Oatmeal",
+      "5 tbsp. Milk",
+      "2 Eggs",
+      "1 C. Raisins",
+      "1 C. Nuts",
+      "1/2 tsp. Soda",
+      "1/2 tsp. Salt",
+      "1 tsp. Cinnamon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cream the butter and sugar, then mix in remaining ingredients and drop from the tip of a spoon onto a baking sheet."
+      }
+    ]
+  }
 ---
 
 # Oatmeal Drops

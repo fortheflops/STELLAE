@@ -1,11 +1,16 @@
 ---
-title: "Linda Carruth's Chocolate Dessert"
-category: "Desserts"
-collection: "UK15"
-source: "Linda Carruth"
-tags: ["dessert", "chocolate", "layered", "pecan", "123", "pudding"]
-description: "A decadent layered dessert featuring a buttery pecan crust, a sweet cream cheese layer, rich chocolate pudding, and a light whipped topping. This classic treat is perfect for gatherings and sets beautifully in the refrigerator."
-date: "2026-07-30"
+title: Linda Carruth's Chocolate Dessert
+category: Desserts
+collection: UK15
+source: Linda Carruth
+tags:
+  - dessert
+  - chocolate
+  - layered
+  - pecan
+  - pudding
+description: A decadent layered dessert featuring a buttery pecan crust, a sweet cream cheese layer, rich chocolate pudding, and a light whipped topping. This classic treat is perfect for gatherings and sets beautifully in the refrigerator.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Linda Carruth's Chocolate Dessert\", \"author\": {\"@type\": \"Person\", \"name\": \"Linda Carruth\"}, \"description\": \"A decadent layered dessert featuring a buttery pecan crust, a sweet cream cheese layer, rich chocolate pudding, and a light whipped topping.\", \"prepTime\": \"PT25M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"9-12 servings\", \"recipeCategory\": \"Dessert\"}"
 ---

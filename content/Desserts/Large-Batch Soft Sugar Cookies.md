@@ -1,13 +1,18 @@
 ---
-title: "Large-Batch Soft Sugar Cookies"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["cookies", "sugar", "largebatch", "123", "dessert", "baking"]
-description: "A classic, large-batch recipe for soft, cake-like sugar cookies. This simple dough is perfect for rolling out and cutting into shapes for any occasion, yielding a generous amount for parties or freezing."
-date: "2026-07-30"
+title: Large-Batch Soft Sugar Cookies
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - cookies
+  - sugar
+  - largebatch
+  - dessert
+  - baking
+description: A classic, large-batch recipe for soft, cake-like sugar cookies. This simple dough is perfect for rolling out and cutting into shapes for any occasion, yielding a generous amount for parties or freezing.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Large-Batch Soft Sugar Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT8M\", \"recipeYield\": \"Approx. 6-7 dozen cookies\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Large-Batch Soft Sugar Cookies", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT20M", "cookTime": "PT8M", "recipeYield": "Approx. 6-7 dozen cookies", "recipeCategory": "Dessert"}'
 ---
 
 # Large-Batch Soft Sugar Cookies

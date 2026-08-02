@@ -1,13 +1,77 @@
 ---
-title: "Hearty Spam & Bean Dinner"
-category: "Entrees"
-collection: "UK15"
-source: "Unknown"
-tags: ["spam", "beans", "comfortfood", "123", "entree"]
-description: "A comforting, vintage skillet dinner featuring savory pork and beans, canned chili, and diced spam. Topped with crispy fried onion rings, this hearty meal comes together in just twenty minutes."
-date: "2026-07-30"
+title: Hearty Spam & Bean Dinner
+category: Entrees
+collection: UK15
+source: Unknown
+tags:
+  - spam
+  - beans
+  - comfortfood
+  - entree
+description: A comforting, vintage skillet dinner featuring savory pork and beans, canned chili, and diced spam. Topped with crispy fried onion rings, this hearty meal comes together in just twenty minutes.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Hearty Spam & Bean Dinner\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A comforting, vintage skillet dinner featuring savory pork and beans, canned chili, and diced spam, topped with crispy fried onion rings.\",\n  \"prepTime\": \"PT5M\",\n  \"cookTime\": \"PT15M\",\n  \"totalTime\": \"PT20M\",\n  \"recipeYield\": \"4-6 Servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"3 cans Beans (Pork & Beans recommended)\",\n    \"1 1/2 to 2 cans Chili\",\n    \"1 can Spam, diced\",\n    \"1 small Onion, chopped\",\n    \"1/4 to 1/2 cup Water\",\n    \"Salt\",\n    \"Bacon Drippings\",\n    \"Canned Fried Onion Rings\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Open the cans of beans and place them in a large saucepan over medium heat.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add 1/4 to 1/2 cup of water, salt to taste, and bacon drippings to taste.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Mix well and continue heating for about 10 minutes, stirring occasionally.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"While the beans are heating, dice the can of Spam.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"After ten minutes, add the diced Spam and the chili to the beans.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Mix and heat for five more minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place everything in a serving bowl and sprinkle with canned fried onion rings.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Serve immediately.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Hearty Spam & Bean Dinner",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A comforting, vintage skillet dinner featuring savory pork and beans, canned chili, and diced spam, topped with crispy fried onion rings.",
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeYield": "4-6 Servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "3 cans Beans (Pork & Beans recommended)",
+      "1 1/2 to 2 cans Chili",
+      "1 can Spam, diced",
+      "1 small Onion, chopped",
+      "1/4 to 1/2 cup Water",
+      "Salt",
+      "Bacon Drippings",
+      "Canned Fried Onion Rings"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Open the cans of beans and place them in a large saucepan over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add 1/4 to 1/2 cup of water, salt to taste, and bacon drippings to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix well and continue heating for about 10 minutes, stirring occasionally."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the beans are heating, dice the can of Spam."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After ten minutes, add the diced Spam and the chili to the beans."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix and heat for five more minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place everything in a serving bowl and sprinkle with canned fried onion rings."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve immediately."
+      }
+    ]
+  }
 ---
 
 # Hearty Spam & Bean Dinner

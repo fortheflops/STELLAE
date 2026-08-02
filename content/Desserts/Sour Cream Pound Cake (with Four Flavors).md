@@ -1,13 +1,17 @@
 ---
-title: "Sour Cream Pound Cake (with Four Flavors)"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["poundcake", "cake", "dessert", "baking", "123"]
-description: "A classic, dense pound cake featuring a complex flavor blend of vanilla, lemon, rum, and coconut extracts, finished with a simple almond glaze. This rich heritage recipe uses both butter and shortening for the ultimate crumb texture."
-date: "2026-07-30"
+title: Sour Cream Pound Cake (with Four Flavors)
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - poundcake
+  - cake
+  - dessert
+  - baking
+description: A classic, dense pound cake featuring a complex flavor blend of vanilla, lemon, rum, and coconut extracts, finished with a simple almond glaze. This rich heritage recipe uses both butter and shortening for the ultimate crumb texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Pound Cake with Four Flavors\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-05\", \"description\": \"A rich and dense pound cake made with butter, shortening, and milk, and flavored with a unique combination of vanilla, lemon, rum, and coconut extracts. Finished with an almond glaze.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Sour-Cream-Pound-Cake/Assets/Handwritten_2025-07-08_175817.webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H30M\", \"totalTime\": \"PT1H50M\", \"recipeYield\": \"1 10-inch tube cake\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Pound Cake with Four Flavors", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-05", "description": "A rich and dense pound cake made with butter, shortening, and milk, and flavored with a unique combination of vanilla, lemon, rum, and coconut extracts. Finished with an almond glaze.", "image": ["https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Sour-Cream-Pound-Cake/Assets/Handwritten_2025-07-08_175817.webp"], "prepTime": "PT20M", "cookTime": "PT1H30M", "totalTime": "PT1H50M", "recipeYield": "1 10-inch tube cake", "recipeCategory": "Dessert", "recipeCuisine": "American"}'
 ---
 
 # Sour Cream Pound Cake (with Four Flavors)

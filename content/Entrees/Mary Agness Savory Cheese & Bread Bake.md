@@ -1,11 +1,17 @@
 ---
-title: "Mary Agnes's Savory Cheese & Bread Bake"
-category: "Entrees"
-collection: "General Archive"
-source: "Mary Agnes"
-tags: ["casserole", "strata", "brunch", "cheese", "bread", "baked", "123"]
-description: "A classic savory bread and cheese casserole, also known as a strata, featuring layers of buttered bread and grated cheese baked in a rich seasoned custard. This comforting dish makes a wonderful centerpiece for brunch or a hearty side."
-date: "2026-07-30"
+title: Mary Agnes's Savory Cheese & Bread Bake
+category: Entrees
+collection: General Archive
+source: Mary Agnes
+tags:
+  - casserole
+  - strata
+  - brunch
+  - cheese
+  - bread
+  - baked
+description: A classic savory bread and cheese casserole, also known as a strata, featuring layers of buttered bread and grated cheese baked in a rich seasoned custard. This comforting dish makes a wonderful centerpiece for brunch or a hearty side.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Mary Agnes's Savory Cheese & Bread Bake\", \"author\": {\"@type\": \"Person\", \"name\": \"Mary Agnes\"}, \"datePublished\": \"2025-11-13\", \"description\": \"A savory layered bread and cheese casserole (strata) baked in a seasoned milk and egg custard.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT40M\", \"totalTime\": \"PT55M\", \"recipeYield\": \"8 servings\", \"recipeCategory\": \"Entrees\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"8 slices white Bread\", \"2 c. grated cheese\", \"4 eggs, slightly beaten\", \"1/3 c. butter, softened\", \"3 c. milk\", \"1 1/2 t. salt\", \"1/8 t. dry mustard\"]}"
 ---

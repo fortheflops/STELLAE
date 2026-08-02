@@ -1,13 +1,75 @@
 ---
-title: "Dorthy's Pizza Hot Dish"
-category: "Entrees"
-collection: "UK15"
-source: "Dorthy"
-tags: ["casserole", "pizza", "beef", "comfortfood", "123"]
-description: "A classic and easy 'hot dish' casserole from Dorthy, this recipe combines all the flavors of pizza with hamburger and noodles for a hearty family meal."
-date: "2026-07-30"
+title: Dorthy's Pizza Hot Dish
+category: Entrees
+collection: UK15
+source: Dorthy
+tags:
+  - casserole
+  - pizza
+  - beef
+  - comfortfood
+description: A classic and easy 'hot dish' casserole from Dorthy, this recipe combines all the flavors of pizza with hamburger and noodles for a hearty family meal.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Dorthy's Pizza Hot Dish\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Dorthy\"\n  },\n  \"datePublished\": \"2025-10-16\",\n  \"description\": \"A classic and easy 'hot dish' casserole, this recipe combines all the flavors of pizza\u2014pepperoni, mozzarella, and pizza sauce\u2014with hamburger and noodles for a hearty family meal.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT45M\",\n  \"totalTime\": \"PT1H\",\n  \"recipeYield\": \"6-8 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"3 cups Uncooked Noodles\",\n    \"1 pound Hamburger\",\n    \"1 small Onion, diced\",\n    \"1 stick Pepperoni, sliced\",\n    \"1 (10.5 oz) can Pizza Sauce\",\n    \"1 teaspoon Oregano\",\n    \"1 teaspoon Garlic Salt\",\n    \"1/2 cup Milk\",\n    \"1-2 cups Mozzarella Cheese, shredded\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 375\u00b0F. Grease a 9x13 inch casserole dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook the noodles according to package directions. Drain well.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"While the noodles are cooking, brown the hamburger and diced onion in a large skillet. Drain off any excess grease.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, combine the cooked noodles, the browned hamburger mixture, sliced pepperoni, pizza sauce, oregano, garlic salt, milk, and a generous amount of the shredded mozzarella cheese.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir all the ingredients together thoroughly and pour the mixture into the prepared casserole dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Top with additional mozzarella cheese.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for 45 minutes, or until the casserole is heated through and the cheese is melted and bubbly.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Dorthy's Pizza Hot Dish",
+    "author": {
+      "@type": "Person",
+      "name": "Dorthy"
+    },
+    "datePublished": "2025-10-16",
+    "description": "A classic and easy 'hot dish' casserole, this recipe combines all the flavors of pizza—pepperoni, mozzarella, and pizza sauce—with hamburger and noodles for a hearty family meal.",
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "totalTime": "PT1H",
+    "recipeYield": "6-8 servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "3 cups Uncooked Noodles",
+      "1 pound Hamburger",
+      "1 small Onion, diced",
+      "1 stick Pepperoni, sliced",
+      "1 (10.5 oz) can Pizza Sauce",
+      "1 teaspoon Oregano",
+      "1 teaspoon Garlic Salt",
+      "1/2 cup Milk",
+      "1-2 cups Mozzarella Cheese, shredded"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375°F. Grease a 9x13 inch casserole dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the noodles according to package directions. Drain well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the noodles are cooking, brown the hamburger and diced onion in a large skillet. Drain off any excess grease."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the cooked noodles, the browned hamburger mixture, sliced pepperoni, pizza sauce, oregano, garlic salt, milk, and a generous amount of the shredded mozzarella cheese."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir all the ingredients together thoroughly and pour the mixture into the prepared casserole dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with additional mozzarella cheese."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 45 minutes, or until the casserole is heated through and the cheese is melted and bubbly."
+      }
+    ]
+  }
 ---
 
 # Dorthy's Pizza Hot Dish

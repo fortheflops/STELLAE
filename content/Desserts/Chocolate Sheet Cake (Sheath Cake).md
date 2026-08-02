@@ -1,11 +1,16 @@
 ---
-title: "Chocolate Sheet Cake (Sheath Cake)"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "cake", "chocolate", "texassheetcake", "sheathcake", "123"]
-description: "A classic Texas-style Chocolate Sheet Cake topped with a warm, fudgy pecan frosting poured over the cake right out of the oven."
-date: "2026-07-30"
+title: Chocolate Sheet Cake (Sheath Cake)
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - chocolate
+  - texassheetcake
+  - sheathcake
+description: A classic Texas-style Chocolate Sheet Cake topped with a warm, fudgy pecan frosting poured over the cake right out of the oven.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Chocolate Sheet Cake (Sheath Cake)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-05\", \"description\": \"A classic Texas-style sheet cake with a rich, boiled cocoa frosting that's poured over the cake while it's still hot.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Sheet-Cake/Assets/Handwritten_2025-02-06_131500.webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT20M\", \"totalTime\": \"PT35M\", \"recipeYield\": \"24 servings\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\"}"
 ---

@@ -1,13 +1,35 @@
 ---
-title: "Mrs. Galloway's Chocolate Pound Cake"
-category: "Desserts"
-collection: "UK15"
-source: "Mrs. Galloway"
-tags: ["chocolate", "poundcake", "cake", "dessert", "123", "baking"]
-description: "A rich, classic chocolate pound cake from a recipe by Mrs. Galloway of Rockwood, Tenn. This dense, moist cake is topped with an old-fashioned, homemade cooked chocolate frosting with nuts."
-date: "2026-07-30"
+title: Mrs. Galloway's Chocolate Pound Cake
+category: Desserts
+collection: UK15
+source: Mrs. Galloway
+tags:
+  - chocolate
+  - poundcake
+  - cake
+  - dessert
+  - baking
+description: A rich, classic chocolate pound cake from a recipe by Mrs. Galloway of Rockwood, Tenn. This dense, moist cake is topped with an old-fashioned, homemade cooked chocolate frosting with nuts.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Mrs. Galloway's Chocolate Pound Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Mrs. Galloway\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A classic, dense chocolate pound cake with a traditional cooked chocolate-nut frosting.\",\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT1H20M\",\n  \"totalTime\": \"PT1H45M\",\n  \"recipeYield\": \"1 tube cake\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Mrs. Galloway's Chocolate Pound Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Mrs. Galloway"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A classic, dense chocolate pound cake with a traditional cooked chocolate-nut frosting.",
+    "prepTime": "PT25M",
+    "cookTime": "PT1H20M",
+    "totalTime": "PT1H45M",
+    "recipeYield": "1 tube cake",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American"
+  }
 ---
 
 # Mrs. Galloway's Chocolate Pound Cake

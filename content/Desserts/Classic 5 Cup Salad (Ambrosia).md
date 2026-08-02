@@ -1,13 +1,17 @@
 ---
-title: "Classic 5 Cup Salad (Ambrosia)"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["ambrosia", "123", "potluck", "fruit", "no-bake"]
-description: "A nostalgic and simple fruit salad featuring a perfect balance of five classic ingredients. This creamy, chilled dessert is a timeless potluck favorite that melds beautifully overnight."
-date: "2026-07-30"
+title: Classic 5 Cup Salad (Ambrosia)
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - ambrosia
+  - potluck
+  - fruit
+  - no-bake
+description: A nostalgic and simple fruit salad featuring a perfect balance of five classic ingredients. This creamy, chilled dessert is a timeless potluck favorite that melds beautifully overnight.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic 5 Cup Salad (Ambrosia)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A wonderfully simple and nostalgic fruit salad, also known as 5 Cup Salad or Ambrosia.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 Cup drained chunk or crushed pineapple\", \"1 Cup drained canned mandarin oranges\", \"1 Cup miniature marshmallows\", \"1 Cup flaked coconut\", \"1 Cup sour cream\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic 5 Cup Salad (Ambrosia)", "author": {"@type": "Person", "name": "Unknown"}, "description": "A wonderfully simple and nostalgic fruit salad, also known as 5 Cup Salad or Ambrosia.", "prepTime": "PT10M", "cookTime": "PT0M", "recipeYield": "6-8 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 Cup drained chunk or crushed pineapple", "1 Cup drained canned mandarin oranges", "1 Cup miniature marshmallows", "1 Cup flaked coconut", "1 Cup sour cream"]}'
 ---
 
 # Classic 5 Cup Salad (Ambrosia)

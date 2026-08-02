@@ -1,13 +1,17 @@
 ---
-title: "Spiced Stewed Prunes with Orange"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["dessert", "123", "prunes", "fruit", "comfortfood"]
-description: "A simple and comforting recipe for stewed prunes, gently simmered with a cinnamon stick and fresh orange for a warm, fragrant, and classic dessert. This elegant fruit dish offers a perfect balance of spiced sweetness and citrus brightness."
-date: "2026-07-30"
+title: Spiced Stewed Prunes with Orange
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - dessert
+  - prunes
+  - fruit
+  - comfortfood
+description: A simple and comforting recipe for stewed prunes, gently simmered with a cinnamon stick and fresh orange for a warm, fragrant, and classic dessert. This elegant fruit dish offers a perfect balance of spiced sweetness and citrus brightness.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Spiced Stewed Prunes with Orange\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A simple and comforting recipe for stewed prunes, gently simmered with a cinnamon stick and fresh orange.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT45M\", \"recipeYield\": \"4-6 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Spiced Stewed Prunes with Orange", "author": {"@type": "Person", "name": "Unknown"}, "description": "A simple and comforting recipe for stewed prunes, gently simmered with a cinnamon stick and fresh orange.", "prepTime": "PT5M", "cookTime": "PT45M", "recipeYield": "4-6 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Spiced Stewed Prunes with Orange

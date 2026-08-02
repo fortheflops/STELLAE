@@ -1,13 +1,17 @@
 ---
-title: "Bread Pudding"
-category: "Desserts"
-collection: "UK2"
-source: "Lois Shelton"
-tags: ["breadpudding", "123", "custard", "comfortfood", "dessert"]
-description: "A traditional, large-batch bread pudding featuring a rich custard made from scalded milk and eggs, baked until golden brown and set. This classic recipe is perfect for serving a crowd with its simple, comforting flavors."
-date: "2026-07-30"
+title: Bread Pudding
+category: Desserts
+collection: UK2
+source: Lois Shelton
+tags:
+  - breadpudding
+  - custard
+  - comfortfood
+  - dessert
+description: A traditional, large-batch bread pudding featuring a rich custard made from scalded milk and eggs, baked until golden brown and set. This classic recipe is perfect for serving a crowd with its simple, comforting flavors.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Bread Pudding\", \"author\": {\"@type\": \"Person\", \"name\": \"Lois Shelton\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H\", \"recipeYield\": \"12-16 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Bread Pudding", "author": {"@type": "Person", "name": "Lois Shelton"}, "prepTime": "PT20M", "cookTime": "PT1H", "recipeYield": "12-16 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Bread Pudding

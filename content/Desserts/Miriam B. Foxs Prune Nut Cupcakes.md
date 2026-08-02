@@ -1,11 +1,16 @@
 ---
-title: "Miriam B. Fox's Prune Nut Cupcakes"
-category: "Desserts"
-collection: "GC"
-source: "Miriam B. Fox"
-tags: ["dessert", "cupcakes", "123", "baking", "spiced", "gailcollection"]
-description: "Discover a wonderfully moist and spiced old-fashioned cupcake recipe packed with cooked prunes, raisins, and walnuts. These tender treats are finished with a rich buttermilk batter."
-date: "2026-07-30"
+title: Miriam B. Fox's Prune Nut Cupcakes
+category: Desserts
+collection: GC
+source: Miriam B. Fox
+tags:
+  - dessert
+  - cupcakes
+  - baking
+  - spiced
+  - gailcollection
+description: Discover a wonderfully moist and spiced old-fashioned cupcake recipe packed with cooked prunes, raisins, and walnuts. These tender treats are finished with a rich buttermilk batter.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Miriam B. Fox's Prune Nut Cupcakes\", \"author\": {\"@type\": \"Person\", \"name\": \"Miriam B. Fox\"}, \"datePublished\": \"2025-09-22\", \"description\": \"A moist, spiced cupcake full of cooked prunes, raisins, and walnuts, made with a classic buttermilk cake batter.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Cupcake/Assets/Handwritten_2025-06-06_081618.webp\", \"https://cucinamezzaluna.com/Desserts/Cake/Cupcake/Assets/Handwritten_2025-06-06_081705%20(2).webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT25M\", \"totalTime\": \"PT45M\", \"recipeYield\": \"24-30 small cupcakes\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1/2 cup margarine or butter, softened\", \"1 1/2 cups sugar\", \"2 large eggs\", \"2 cups all-purpose flour\", \"1 teaspoon baking soda\", \"1 1/2 teaspoons salt\", \"1 teaspoon cinnamon\", \"1 cup buttermilk\", \"1 cup cooked prunes, drained and chopped\", \"1/2 cup raisins\", \"1/2 cup walnuts, chopped\"], \"recipeInstructions\": [{\"@context\": \"https://schema.org/\", \"@type\": \"HowToStep\", \"text\": \"Preheat oven to 350\\u00b0F. Line small cupcake pans with paper liners.\"}, {\"@context\": \"https://schema.org/\", \"@type\": \"HowToStep\", \"text\": \"In a large bowl, cream the margarine and sugar until light and fluffy. Beat in the eggs one at a time.\"}, {\"@context\": \"https://schema.org/\", \"@type\": \"HowToStep\", \"text\": \"In a separate bowl, sift together the flour, salt, cinnamon, and baking soda.\"}, {\"@context\": \"https://schema.org/\", \"@type\": \"HowToStep\", \"text\": \"Add the dry ingredients to the creamed mixture alternately with the buttermilk, beginning and ending with the dry ingredients.\"}, {\"@context\": \"https://schema.org/\", \"@type\": \"HowToStep\", \"text\": \"Fold in the chopped prunes, raisins, and walnuts.\"}, {\"@context\": \"https://schema.org/\", \"@type\": \"HowToStep\", \"text\": \"Fill the prepared cupcake liners with batter and bake for 25 minutes, or until a toothpick inserted into the center comes out clean.\"}]}"
 ---

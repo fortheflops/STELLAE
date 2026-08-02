@@ -1,13 +1,66 @@
 ---
-title: "Bread and Butter Pickles"
-category: "Preserves"
-collection: "UK2"
-source: "Unknown"
-tags: ["pickles", "preserves", "canning", "123", "homemade"]
-description: "Crisp and tangy homemade bread and butter pickles featuring a sweet spiced brine. Perfect for preserving your summer garden harvest."
-date: "2026-07-30"
+title: Bread and Butter Pickles
+category: Preserves
+collection: UK2
+source: Unknown
+tags:
+  - pickles
+  - preserves
+  - canning
+  - homemade
+description: Crisp and tangy homemade bread and butter pickles featuring a sweet spiced brine. Perfect for preserving your summer garden harvest.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Bread and Butter Pickles\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-01-17\",\n  \"description\": \"Crisp and tangy homemade bread and butter pickles featuring a sweet spiced brine.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT15M\",\n  \"totalTime\": \"PT2H45M\",\n  \"recipeCategory\": \"Preserves\",\n  \"recipeYield\": \"32 Servings\",\n  \"recipeIngredient\": [\n    \"8 Quarts Cucumbers\",\n    \"6 Peppers\",\n    \"6 Onions\",\n    \"1 Cup Salt\",\n    \"2 Quarts Vinegar\",\n    \"9 Cups Sugar\",\n    \"3 Tbsp Turmeric\",\n    \"1 Tbsp Mustard Seed\",\n    \"1 Tbsp Celery Seed\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Soak cucumbers, peppers, and onions in a pan with 1 cup of salt for 2 hours.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate pot, combine vinegar, sugar, turmeric, mustard seed, and celery seed.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bring the vinegar mixture to a boil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the soaked cucumbers, peppers, and onions to the boiling vinegar mixture.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook until the color changes.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Bread and Butter Pickles",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-01-17",
+    "description": "Crisp and tangy homemade bread and butter pickles featuring a sweet spiced brine.",
+    "prepTime": "PT30M",
+    "cookTime": "PT15M",
+    "totalTime": "PT2H45M",
+    "recipeCategory": "Preserves",
+    "recipeYield": "32 Servings",
+    "recipeIngredient": [
+      "8 Quarts Cucumbers",
+      "6 Peppers",
+      "6 Onions",
+      "1 Cup Salt",
+      "2 Quarts Vinegar",
+      "9 Cups Sugar",
+      "3 Tbsp Turmeric",
+      "1 Tbsp Mustard Seed",
+      "1 Tbsp Celery Seed"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Soak cucumbers, peppers, and onions in a pan with 1 cup of salt for 2 hours."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate pot, combine vinegar, sugar, turmeric, mustard seed, and celery seed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the vinegar mixture to a boil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the soaked cucumbers, peppers, and onions to the boiling vinegar mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook until the color changes."
+      }
+    ]
+  }
 ---
 
 # Bread and Butter Pickles

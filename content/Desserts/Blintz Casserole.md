@@ -1,13 +1,18 @@
 ---
-title: "Blintz Casserole"
-category: "Desserts"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["blintz", "casserole", "brunch", "dessert", "123", "comfortfood"]
-description: "A rich and decadent brunch or dessert casserole featuring frozen cheese blintzes baked in a sweet, creamy sour cream custard. This crowd-pleasing classic is simple to assemble and perfect for special mornings."
-date: "2026-07-30"
+title: Blintz Casserole
+category: Desserts
+collection: Jill Collection
+source: Unknown
+tags:
+  - blintz
+  - casserole
+  - brunch
+  - dessert
+  - comfortfood
+description: A rich and decadent brunch or dessert casserole featuring frozen cheese blintzes baked in a sweet, creamy sour cream custard. This crowd-pleasing classic is simple to assemble and perfect for special mornings.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Blintz Casserole\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A rich and decadent brunch or dessert casserole featuring frozen cheese blintzes baked in a sweet, creamy sour cream custard.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT45M\", \"recipeYield\": \"6-9 servings\", \"recipeCategory\": \"Desserts\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Blintz Casserole", "author": {"@type": "Person", "name": "Unknown"}, "description": "A rich and decadent brunch or dessert casserole featuring frozen cheese blintzes baked in a sweet, creamy sour cream custard.", "prepTime": "PT10M", "cookTime": "PT45M", "recipeYield": "6-9 servings", "recipeCategory": "Desserts"}'
 ---
 
 # Blintz Casserole

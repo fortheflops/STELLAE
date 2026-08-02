@@ -1,13 +1,17 @@
 ---
-title: "Melt Away Cookies"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["cookies", "shortbread", "123", "meltaway", "dessert"]
-description: "A classic, tender shortbread cookie made with cornstarch for a signature melt-in-your-mouth texture. These delicate treats are flavored with vanilla and almond for a rich, sophisticated finish."
-date: "2026-07-30"
+title: Melt Away Cookies
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - cookies
+  - shortbread
+  - meltaway
+  - dessert
+description: A classic, tender shortbread cookie made with cornstarch for a signature melt-in-your-mouth texture. These delicate treats are flavored with vanilla and almond for a rich, sophisticated finish.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Melt Away Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, tender shortbread cookie made with cornstarch for a signature melt-in-your-mouth texture.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT14M\", \"recipeYield\": \"3-4 dozen cookies\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Melt Away Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, tender shortbread cookie made with cornstarch for a signature melt-in-your-mouth texture.", "prepTime": "PT15M", "cookTime": "PT14M", "recipeYield": "3-4 dozen cookies", "recipeCategory": "Dessert"}'
 ---
 
 # Melt Away Cookies

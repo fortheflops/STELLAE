@@ -1,13 +1,18 @@
 ---
-title: "Orange Peanut Butter Ice Box Cookies"
-category: "Desserts"
-collection: "John B Collection"
-source: "Unknown"
-tags: ["123", "cookies", "icebox", "peanutbutter", "orange", "pecans"]
-description: "A classic vintage ice box cookie recipe that pairs creamy peanut butter with bright orange zest. These slice-and-bake cookies are perfect for preparing ahead and keeping on hand for quick treats."
-date: "2026-07-30"
+title: Orange Peanut Butter Ice Box Cookies
+category: Desserts
+collection: John B Collection
+source: Unknown
+tags:
+  - cookies
+  - icebox
+  - peanutbutter
+  - orange
+  - pecans
+description: A classic vintage ice box cookie recipe that pairs creamy peanut butter with bright orange zest. These slice-and-bake cookies are perfect for preparing ahead and keeping on hand for quick treats.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Orange Peanut Butter Ice Box Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"3-4 dozen\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 C Butter\", \"1/2 C Peanut Butter\", \"1/2 C Brown Sugar\", \"1/2 C White Sugar\", \"1 Egg\", \"2 Tbsp Orange Juice\", \"1 Tbsp Orange Rind\", \"2 3/4 C Flour\", \"1/4 tsp Salt\", \"1/2 tsp Soda\", \"1/2 C Pecan Nut Meats\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Orange Peanut Butter Ice Box Cookies", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT20M", "cookTime": "PT10M", "recipeYield": "3-4 dozen", "recipeCategory": "Dessert", "recipeIngredient": ["1/2 C Butter", "1/2 C Peanut Butter", "1/2 C Brown Sugar", "1/2 C White Sugar", "1 Egg", "2 Tbsp Orange Juice", "1 Tbsp Orange Rind", "2 3/4 C Flour", "1/4 tsp Salt", "1/2 tsp Soda", "1/2 C Pecan Nut Meats"]}'
 ---
 
 # Orange Peanut Butter Ice Box Cookies

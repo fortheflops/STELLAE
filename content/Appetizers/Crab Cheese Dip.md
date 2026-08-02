@@ -1,13 +1,17 @@
 ---
-title: "Crab Cheese Dip"
-category: "Appetizers"
-collection: "The Loraine Collection"
-source: "Unknown"
-tags: ["dip", "crab", "seafood", "appetizer", "123"]
-description: "A creamy and savory crab dip featuring a blend of cream cheese and zesty seasonings. Perfect for serving with crackers or fresh vegetables at your next gathering."
-date: "2026-07-30"
+title: Crab Cheese Dip
+category: Appetizers
+collection: The Loraine Collection
+source: Unknown
+tags:
+  - dip
+  - crab
+  - seafood
+  - appetizer
+description: A creamy and savory crab dip featuring a blend of cream cheese and zesty seasonings. Perfect for serving with crackers or fresh vegetables at your next gathering.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Crab Cheese Dip\", \"recipeCategory\": \"Appetizers\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT5M\", \"recipeIngredient\": [\"8 oz Cream Cheese\", \"1/4 cup Cream or Milk\", \"2 T. Lemon Juice\", \"1 1/2 t. Worcestershire Sauce\", \"1 clove Garlic\", \"1 dash Salt & Pepper\", \"6.5\u20137.5 oz Can Crab\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Beat the cream cheese until smooth, then incorporate the cream or milk.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in lemon juice, worcestershire sauce, garlic, salt, pepper, and drained crab until combined.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Crab Cheese Dip", "recipeCategory": "Appetizers", "prepTime": "PT10M", "cookTime": "PT5M", "recipeIngredient": ["8 oz Cream Cheese", "1/4 cup Cream or Milk", "2 T. Lemon Juice", "1 1/2 t. Worcestershire Sauce", "1 clove Garlic", "1 dash Salt & Pepper", "6.5–7.5 oz Can Crab"], "recipeInstructions": [{"@type": "HowToStep", "text": "Beat the cream cheese until smooth, then incorporate the cream or milk."}, {"@type": "HowToStep", "text": "Stir in lemon juice, worcestershire sauce, garlic, salt, pepper, and drained crab until combined."}]}'
 ---
 
 # Crab Cheese Dip

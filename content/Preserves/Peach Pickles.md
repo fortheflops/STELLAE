@@ -1,13 +1,54 @@
 ---
-title: "Peach Pickles"
-category: "Preserves"
-collection: "UK2"
-source: "Unknown"
-tags: ["pickles", "peaches", "preserves", "canning", "123"]
-description: "Traditional spiced peach pickles made with firm cling peaches simmered in a sweet cinnamon and clove-infused cider syrup. A wonderfully spiced vintage preserve that pairs exceptionally well with roasted meats."
-date: "2026-07-30"
+title: Peach Pickles
+category: Preserves
+collection: UK2
+source: Unknown
+tags:
+  - pickles
+  - peaches
+  - preserves
+  - canning
+description: Traditional spiced peach pickles made with firm cling peaches simmered in a sweet cinnamon and clove-infused cider syrup. A wonderfully spiced vintage preserve that pairs exceptionally well with roasted meats.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Peach Pickles\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-01-18\",\n  \"description\": \"Traditional spiced peach pickles made with firm cling peaches simmered in a sweet cinnamon and clove-infused cider syrup.\",\n  \"prepTime\": \"PT45M\",\n  \"cookTime\": \"PT1H\",\n  \"recipeYield\": \"12\u201315 Pint Jars\",\n  \"recipeCategory\": \"Preserves\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 Peck Cling Peaches\",\n    \"3 lbs Light Brown Sugar\",\n    \"1 Quart Cider Vinegar\",\n    \"2 oz Stick Cinnamon\",\n    \"Whole Cloves\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Select ripe but firm cling peaches, scald to remove skins, and stud each with 3 whole cloves.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Make a syrup using light brown sugar, cider vinegar, and stick cinnamon, bringing it to a boil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add peaches in small batches to the boiling syrup, cooking until tender but not broken, and repeat until all ingredients are used.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Peach Pickles",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-01-18",
+    "description": "Traditional spiced peach pickles made with firm cling peaches simmered in a sweet cinnamon and clove-infused cider syrup.",
+    "prepTime": "PT45M",
+    "cookTime": "PT1H",
+    "recipeYield": "12–15 Pint Jars",
+    "recipeCategory": "Preserves",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 Peck Cling Peaches",
+      "3 lbs Light Brown Sugar",
+      "1 Quart Cider Vinegar",
+      "2 oz Stick Cinnamon",
+      "Whole Cloves"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Select ripe but firm cling peaches, scald to remove skins, and stud each with 3 whole cloves."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make a syrup using light brown sugar, cider vinegar, and stick cinnamon, bringing it to a boil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add peaches in small batches to the boiling syrup, cooking until tender but not broken, and repeat until all ingredients are used."
+      }
+    ]
+  }
 ---
 
 # Peach Pickles

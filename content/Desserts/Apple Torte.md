@@ -1,13 +1,18 @@
 ---
-title: "Apple Torte"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["dessert", "cake", "torte", "apple", "123", "fruit"]
-description: "A wonderfully simple and rustic apple torte featuring a dense, moist, fruit-and-nut-packed interior with a crisp, sugary crust. This vintage recipe uses minimal flour for a unique and delicious texture."
-date: "2026-07-30"
+title: Apple Torte
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - torte
+  - apple
+  - fruit
+description: A wonderfully simple and rustic apple torte featuring a dense, moist, fruit-and-nut-packed interior with a crisp, sugary crust. This vintage recipe uses minimal flour for a unique and delicious texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Apple Torte\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-06\", \"description\": \"A simple and delicious apple torte with a very small amount of flour, resulting in a dense, moist, fruit-and-nut-packed cake with a crispy crust.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Torte/Assets/Handwritten_2025-06-07_174621.webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT45M\", \"totalTime\": \"PT1H\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 1/2 cups sugar\", \"2/3 cup sifted all-purpose flour\", \"3 teaspoons baking powder\", \"1/2 teaspoon salt\", \"2 large eggs\", \"3 teaspoons vanilla extract\", \"2 cups diced apples\", \"1 cup chopped nuts\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 350\u00b0F. Grease an 8x12x2 inch baking pan well.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a large bowl, stir together the sifted flour, baking powder, salt, and sugar.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the eggs and vanilla to the dry ingredients and beat the mixture well until it forms a thick batter.\"}, {\"@type\": \"HowToStep\", \"text\": \"By hand, stir in the chopped nuts and diced apples.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour the batter into the prepared pan and spread evenly.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake for 45 minutes. The torte will rise and then fall slightly, creating a crisp crust.\"}, {\"@type\": \"HowToStep\", \"text\": \"Serve warm with ice cream or cream.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Apple Torte", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-06", "description": "A simple and delicious apple torte with a very small amount of flour, resulting in a dense, moist, fruit-and-nut-packed cake with a crispy crust.", "image": ["https://cucinamezzaluna.com/Desserts/Cake/Torte/Assets/Handwritten_2025-06-07_174621.webp"], "prepTime": "PT15M", "cookTime": "PT45M", "totalTime": "PT1H", "recipeYield": "8-10 servings", "recipeCategory": "Dessert", "recipeCuisine": "American", "recipeIngredient": ["1 1/2 cups sugar", "2/3 cup sifted all-purpose flour", "3 teaspoons baking powder", "1/2 teaspoon salt", "2 large eggs", "3 teaspoons vanilla extract", "2 cups diced apples", "1 cup chopped nuts"], "recipeInstructions": [{"@type": "HowToStep", "text": "Preheat oven to 350°F. Grease an 8x12x2 inch baking pan well."}, {"@type": "HowToStep", "text": "In a large bowl, stir together the sifted flour, baking powder, salt, and sugar."}, {"@type": "HowToStep", "text": "Add the eggs and vanilla to the dry ingredients and beat the mixture well until it forms a thick batter."}, {"@type": "HowToStep", "text": "By hand, stir in the chopped nuts and diced apples."}, {"@type": "HowToStep", "text": "Pour the batter into the prepared pan and spread evenly."}, {"@type": "HowToStep", "text": "Bake for 45 minutes. The torte will rise and then fall slightly, creating a crisp crust."}, {"@type": "HowToStep", "text": "Serve warm with ice cream or cream."}]}'
 ---
 
 # Apple Torte

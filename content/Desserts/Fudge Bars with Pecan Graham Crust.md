@@ -1,13 +1,18 @@
 ---
-title: "Fudge Bars with Pecan Graham Crust"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["dessert", "bars", "chocolate", "pecans", "fudge", "123"]
-description: "A decadent, brownie-like bar featuring a crunchy, salty-sweet graham cracker and toasted pecan crust. The rich fudge layer is crafted with unsweetened chocolate and brown sugar for a deep, intense flavor."
-date: "2026-07-30"
+title: Fudge Bars with Pecan Graham Crust
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - dessert
+  - bars
+  - chocolate
+  - pecans
+  - fudge
+description: A decadent, brownie-like bar featuring a crunchy, salty-sweet graham cracker and toasted pecan crust. The rich fudge layer is crafted with unsweetened chocolate and brown sugar for a deep, intense flavor.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Fudge Bars with Pecan Graham Crust\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT40M\", \"recipeYield\": \"24 bars\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Fudge Bars with Pecan Graham Crust", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT20M", "cookTime": "PT40M", "recipeYield": "24 bars", "recipeCategory": "Dessert"}'
 ---
 
 # Fudge Bars with Pecan Graham Crust

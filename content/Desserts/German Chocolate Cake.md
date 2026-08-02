@@ -1,13 +1,55 @@
 ---
-title: "German Chocolate Cake"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["cake", "chocolate", "dessert", "baking", "123"]
-description: "A classic layered German Chocolate Cake featuring a tender buttermilk-chocolate crumb and a rich, cooked coconut-pecan filling. This vintage masterpiece is a guaranteed crowd-pleaser for any special occasion."
-date: "2026-07-30"
+title: German Chocolate Cake
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - cake
+  - chocolate
+  - dessert
+  - baking
+description: A classic layered German Chocolate Cake featuring a tender buttermilk-chocolate crumb and a rich, cooked coconut-pecan filling. This vintage masterpiece is a guaranteed crowd-pleaser for any special occasion.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"German Chocolate Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-09-22\",\n  \"description\": \"A classic recipe for a layered German Chocolate Cake with a traditional cooked coconut-pecan frosting.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Chocolate-Cake/German-Chocolate/Assets/Handwritten_2025-04-17_111704.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Chocolate-Cake/German-Chocolate/Assets/Handwritten_2025-04-17_112052%20(2).webp\"\n  ],\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT35M\",\n  \"totalTime\": \"PT1H\",\n  \"recipeYield\": \"1 3-layer cake\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"4 ounces Baker's German's Sweet Chocolate\",\n    \"1 cup boiling water\",\n    \"2 1/2 cups cake flour\",\n    \"1 teaspoon baking soda\",\n    \"1 cup shortening\",\n    \"2 cups sugar\",\n    \"4 large eggs, separated\",\n    \"1 cup buttermilk\",\n    \"1 teaspoon vanilla\",\n    \"1 cup evaporated milk (or 1/2 pint whipping cream)\",\n    \"1 cup sugar\",\n    \"3 large egg yolks, beaten\",\n    \"1/2 cup butter\",\n    \"1 cup shredded coconut\",\n    \"1/2 cup chopped pecans\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "German Chocolate Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-09-22",
+    "description": "A classic recipe for a layered German Chocolate Cake with a traditional cooked coconut-pecan frosting.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Chocolate-Cake/German-Chocolate/Assets/Handwritten_2025-04-17_111704.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Chocolate-Cake/German-Chocolate/Assets/Handwritten_2025-04-17_112052%20(2).webp"
+    ],
+    "prepTime": "PT25M",
+    "cookTime": "PT35M",
+    "totalTime": "PT1H",
+    "recipeYield": "1 3-layer cake",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "4 ounces Baker's German's Sweet Chocolate",
+      "1 cup boiling water",
+      "2 1/2 cups cake flour",
+      "1 teaspoon baking soda",
+      "1 cup shortening",
+      "2 cups sugar",
+      "4 large eggs, separated",
+      "1 cup buttermilk",
+      "1 teaspoon vanilla",
+      "1 cup evaporated milk (or 1/2 pint whipping cream)",
+      "1 cup sugar",
+      "3 large egg yolks, beaten",
+      "1/2 cup butter",
+      "1 cup shredded coconut",
+      "1/2 cup chopped pecans"
+    ]
+  }
 ---
 
 # German Chocolate Cake

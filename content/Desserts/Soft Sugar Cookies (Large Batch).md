@@ -1,13 +1,17 @@
 ---
-title: "Soft Sugar Cookies (Large Batch)"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["cookies", "123", "largebatch", "sugarcookies", "holiday"]
-description: "A classic, large-batch recipe for soft, cake-like sugar cookies. This tender dough is enriched with buttermilk or sour cream and spiced with nutmeg for a perfect roll-and-cut treat."
-date: "2026-07-30"
+title: Soft Sugar Cookies (Large Batch)
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - cookies
+  - largebatch
+  - sugarcookies
+  - holiday
+description: A classic, large-batch recipe for soft, cake-like sugar cookies. This tender dough is enriched with buttermilk or sour cream and spiced with nutmeg for a perfect roll-and-cut treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Soft Sugar Cookies (Large Batch)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"6-7 dozen cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 cup butter, softened\", \"1 1/2 cups sugar\", \"2 large eggs\", \"1/4 cup buttermilk or sour cream\", \"4 cups sifted all-purpose flour\", \"1 tablespoon baking powder\", \"1/8 teaspoon baking soda\", \"1 teaspoon salt\", \"2 teaspoons nutmeg\", \"Sugar, for sprinkling\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Soft Sugar Cookies (Large Batch)", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT20M", "cookTime": "PT15M", "recipeYield": "6-7 dozen cookies", "recipeCategory": "Dessert", "recipeIngredient": ["1 cup butter, softened", "1 1/2 cups sugar", "2 large eggs", "1/4 cup buttermilk or sour cream", "4 cups sifted all-purpose flour", "1 tablespoon baking powder", "1/8 teaspoon baking soda", "1 teaspoon salt", "2 teaspoons nutmeg", "Sugar, for sprinkling"]}'
 ---
 
 # Soft Sugar Cookies (Large Batch)

@@ -1,11 +1,15 @@
 ---
-title: "Cheth Dawson's Sugar Cookies"
-category: "Desserts"
-collection: "UK3"
-source: "Cheth Dawson"
-tags: ["cookies", "123", "sourcream", "holiday", "baking"]
-description: "A classic soft, roll-and-cut sugar cookie made with sour cream for a tender, cake-like texture. This versatile dough is perfect for cutting into shapes and decorating for any occasion."
-date: "2026-07-30"
+title: Cheth Dawson's Sugar Cookies
+category: Desserts
+collection: UK3
+source: Cheth Dawson
+tags:
+  - cookies
+  - sourcream
+  - holiday
+  - baking
+description: A classic soft, roll-and-cut sugar cookie made with sour cream for a tender, cake-like texture. This versatile dough is perfect for cutting into shapes and decorating for any occasion.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Cheth Dawson's Sugar Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Cheth Dawson\"}, \"description\": \"A classic soft, roll-and-cut sugar cookie made with sour cream for a tender, cake-like texture.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"3 dozen\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 cup butter, softened\", \"1 cup sugar\", \"1 egg\", \"1/2 cup sour cream\", \"3 cups all-purpose flour\", \"1 teaspoon baking soda\"]}"
 ---

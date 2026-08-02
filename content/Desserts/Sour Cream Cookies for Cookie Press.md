@@ -1,13 +1,17 @@
 ---
-title: "Sour Cream Cookies for Cookie Press"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["cookies", "cookiepress", "spritz", "123", "holiday"]
-description: "A classic, large-batch recipe for tender and tangy cookie press spritz cookies. This dough is enriched with sour cream and warmly spiced with nutmeg, creating dozens of festive treats."
-date: "2026-07-30"
+title: Sour Cream Cookies for Cookie Press
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - cookies
+  - cookiepress
+  - spritz
+  - holiday
+description: A classic, large-batch recipe for tender and tangy cookie press spritz cookies. This dough is enriched with sour cream and warmly spiced with nutmeg, creating dozens of festive treats.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Sour Cream Cookies for Cookie Press\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, large-batch recipe for tender and tangy cookie press spritz cookies.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT12M\", \"recipeYield\": \"10 dozen\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"1 cup shortening\", \"1 cup sugar\", \"2 egg yolks\", \"1/2 cup sour cream\", \"1 tsp vanilla\", \"4 cups flour\", \"1 tsp nutmeg\", \"1/2 tsp baking soda\", \"1/2 tsp salt\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Sour Cream Cookies for Cookie Press", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, large-batch recipe for tender and tangy cookie press spritz cookies.", "prepTime": "PT20M", "cookTime": "PT12M", "recipeYield": "10 dozen", "recipeCategory": "Desserts", "recipeIngredient": ["1 cup shortening", "1 cup sugar", "2 egg yolks", "1/2 cup sour cream", "1 tsp vanilla", "4 cups flour", "1 tsp nutmeg", "1/2 tsp baking soda", "1/2 tsp salt"]}'
 ---
 
 # Sour Cream Cookies for Cookie Press

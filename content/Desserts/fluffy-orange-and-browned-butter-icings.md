@@ -1,11 +1,16 @@
 ---
-title: "Fluffy Orange and Browned Butter Icings"
-category: "Desserts"
-collection: "John B. Collection"
-source: "Unattributed"
-tags: ["icing", "frosting", "123", "dessert", "orange", "brownedbutter"]
-description: "A vintage duo of classic cake toppings featuring a bright, citrusy Fluffy Orange Icing and a rich, nutty Browned Butter Icing. Perfect for pairing with chiffon cakes, cupcakes, or traditional yellow cakes."
-date: "2026-07-30"
+title: Fluffy Orange and Browned Butter Icings
+category: Desserts
+collection: John B. Collection
+source: Unattributed
+tags:
+  - icing
+  - frosting
+  - dessert
+  - orange
+  - brownedbutter
+description: A vintage duo of classic cake toppings featuring a bright, citrusy Fluffy Orange Icing and a rich, nutty Browned Butter Icing. Perfect for pairing with chiffon cakes, cupcakes, or traditional yellow cakes.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Fluffy Orange and Browned Butter Icings\", \"author\": {\"@type\": \"Person\", \"name\": \"Unattributed\"}, \"description\": \"A vintage duo of classic cake toppings featuring a bright, citrusy Fluffy Orange Icing and a rich, nutty Browned Butter Icing.\", \"recipeCategory\": \"Dessert\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT5M\", \"totalTime\": \"PT20M\", \"recipeIngredient\": [\"1 1/2 (3 oz) packages cream cheese, softened\", \"2 1/2 cups sifted confectioners' sugar\", \"Grated rind of 2 oranges\", \"A few drops of orange juice\", \"1/4 cup butter\", \"2 cups sifted confectioners' sugar\", \"2 tbsp cream\", \"1 tsp cooking oil\", \"1 1/2 tsp vanilla\", \"1 tbsp hot water\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Cream the cream cheese until light and fluffy.\"}, {\"@type\": \"HowToStep\", \"text\": \"Gradually add the confectioners' sugar and beat well.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in the grated orange rind, adding orange juice if too thick.\"}, {\"@type\": \"HowToStep\", \"text\": \"Melt butter and heat until golden brown.\"}, {\"@type\": \"HowToStep\", \"text\": \"Blend in confectioners' sugar, cream, cooking oil, and vanilla.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in hot water and beat until cool and spreadable.\"}]}"
 ---

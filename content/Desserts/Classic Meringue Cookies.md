@@ -1,13 +1,17 @@
 ---
-title: "Classic Meringue Cookies"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["dessert", "meringue", "cookies", "123", "glutenfree"]
-description: "A classic recipe for light, crisp, and airy meringue cookies. This versatile formula is perfect for simple meringues, a chocolate version, or with add-ins like nuts, chocolate chips, and coconut."
-date: "2026-07-30"
+title: Classic Meringue Cookies
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - dessert
+  - meringue
+  - cookies
+  - glutenfree
+description: A classic recipe for light, crisp, and airy meringue cookies. This versatile formula is perfect for simple meringues, a chocolate version, or with add-ins like nuts, chocolate chips, and coconut.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Meringue Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic recipe for light, crisp, and airy meringue cookies.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT1H30M\", \"recipeYield\": \"2-3 dozen cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"4 large egg whites\", \"1 cup granulated sugar\", \"1-2 tablespoons cocoa powder\", \"1/2 cup chocolate chips, nuts, or coconut\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Meringue Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic recipe for light, crisp, and airy meringue cookies.", "prepTime": "PT15M", "cookTime": "PT1H30M", "recipeYield": "2-3 dozen cookies", "recipeCategory": "Dessert", "recipeIngredient": ["4 large egg whites", "1 cup granulated sugar", "1-2 tablespoons cocoa powder", "1/2 cup chocolate chips, nuts, or coconut"]}'
 ---
 
 # Classic Meringue Cookies

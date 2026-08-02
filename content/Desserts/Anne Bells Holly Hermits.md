@@ -1,11 +1,15 @@
 ---
-title: "Anne Bell's Holly Hermits"
-category: "Desserts"
-collection: "UK2"
-source: "Anne Bell"
-tags: ["cookies", "123", "spicecookies", "holiday", "hermits"]
-description: "A classic, soft, and chewy spice cookie packed with candied fruit, raisins, and nuts. This old-fashioned drop cookie features a warm blend of cinnamon, nutmeg, and cloves."
-date: "2026-07-30"
+title: Anne Bell's Holly Hermits
+category: Desserts
+collection: UK2
+source: Anne Bell
+tags:
+  - cookies
+  - spicecookies
+  - holiday
+  - hermits
+description: A classic, soft, and chewy spice cookie packed with candied fruit, raisins, and nuts. This old-fashioned drop cookie features a warm blend of cinnamon, nutmeg, and cloves.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Anne Bell's Holly Hermits\", \"author\": {\"@type\": \"Person\", \"name\": \"Anne Bell\"}, \"description\": \"A classic, soft, and chewy spice cookie packed with candied fruit, raisins, and nuts.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"3 1/2 dozen cookies\", \"recipeCategory\": \"Dessert\"}"
 ---

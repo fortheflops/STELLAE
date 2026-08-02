@@ -1,13 +1,17 @@
 ---
-title: "Sea Foam Frosting"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["frosting", "123", "meringue", "brownsugar", "boiledicing"]
-description: "A classic boiled icing featuring a delicate caramel flavor derived from brown sugar. This light, fluffy meringue frosting is created by whipping a hot sugar syrup into stiffly beaten egg whites."
-date: "2026-07-30"
+title: Sea Foam Frosting
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - frosting
+  - meringue
+  - brownsugar
+  - boiledicing
+description: A classic boiled icing featuring a delicate caramel flavor derived from brown sugar. This light, fluffy meringue frosting is created by whipping a hot sugar syrup into stiffly beaten egg whites.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Sea Foam Frosting\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic boiled icing with a delicate caramel color and flavor from brown sugar.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"Frosting for one 8x8 inch cake\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"1/3 Cup Sugar\", \"1/3 Cup Firmly Packed Brown Sugar\", \"1/3 Cup Water\", \"1 Tablespoon Corn Syrup\", \"1 Egg White\", \"1/4 Teaspoon Cream of Tartar\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Sea Foam Frosting", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic boiled icing with a delicate caramel color and flavor from brown sugar.", "prepTime": "PT5M", "cookTime": "PT10M", "recipeYield": "Frosting for one 8x8 inch cake", "recipeCategory": "Desserts", "recipeIngredient": ["1/3 Cup Sugar", "1/3 Cup Firmly Packed Brown Sugar", "1/3 Cup Water", "1 Tablespoon Corn Syrup", "1 Egg White", "1/4 Teaspoon Cream of Tartar"]}'
 ---
 
 # Sea Foam Frosting

@@ -1,13 +1,57 @@
 ---
-title: "Easy Beer Muffins"
-category: "Bread"
-collection: "UK2"
-source: "Unknown"
-tags: ["bread", "muffins", "savory", "quick", "3-ingredient", "123"]
-description: "A remarkably simple and savory three-ingredient muffin recipe featuring Bisquick and beer. These quick and easy muffins bake up golden brown with a delightful texture."
-date: "2026-07-30"
+title: Easy Beer Muffins
+category: Bread
+collection: UK2
+source: Unknown
+tags:
+  - bread
+  - muffins
+  - savory
+  - quick
+  - 3-ingredient
+description: A remarkably simple and savory three-ingredient muffin recipe featuring Bisquick and beer. These quick and easy muffins bake up golden brown with a delightful texture.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Easy Beer Muffins\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A quick and easy 3-ingredient savory muffin made with Bisquick and beer.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT20M\",\n  \"totalTime\": \"PT30M\",\n  \"recipeYield\": \"12 muffins\",\n  \"recipeCategory\": \"Bread\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"3 cups Bisquick baking mix\",\n    \"3 teaspoons sugar\",\n    \"1 (12-ounce) can beer\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F. Grease a 12-cup muffin tin.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a medium bowl, combine the Bisquick and sugar. Pour in the beer and stir with a spoon or spatula until just blended. Do not overmix.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Divide the batter evenly among the greased muffin cups.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for 18-20 minutes, or until the muffins are golden brown, firm to the touch, and a toothpick inserted into the center comes out clean.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Easy Beer Muffins",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A quick and easy 3-ingredient savory muffin made with Bisquick and beer.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeYield": "12 muffins",
+    "recipeCategory": "Bread",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "3 cups Bisquick baking mix",
+      "3 teaspoons sugar",
+      "1 (12-ounce) can beer"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F. Grease a 12-cup muffin tin."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a medium bowl, combine the Bisquick and sugar. Pour in the beer and stir with a spoon or spatula until just blended. Do not overmix."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Divide the batter evenly among the greased muffin cups."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 18-20 minutes, or until the muffins are golden brown, firm to the touch, and a toothpick inserted into the center comes out clean."
+      }
+    ]
+  }
 ---
 
 # Easy Beer Muffins

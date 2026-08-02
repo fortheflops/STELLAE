@@ -1,13 +1,78 @@
 ---
-title: "Cheddar Chowder Casserole"
-category: "Entrees"
-collection: "General Archive"
-source: "Unknown"
-tags: ["casserole", "beef", "chowmein", "dinner", "123"]
-description: "A hearty and savory ground beef casserole featuring rice or noodles in a creamy double-soup base with corn and vegetables, all baked under a crunchy chow mein noodle topping. Despite the name, this recipe does not contain cheddar cheese."
-date: "2026-07-30"
+title: Cheddar Chowder Casserole
+category: Entrees
+collection: General Archive
+source: Unknown
+tags:
+  - casserole
+  - beef
+  - chowmein
+  - dinner
+description: A hearty and savory ground beef casserole featuring rice or noodles in a creamy double-soup base with corn and vegetables, all baked under a crunchy chow mein noodle topping. Despite the name, this recipe does not contain cheddar cheese.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Cheddar Chowder Casserole\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-16\",\n  \"description\": \"A hearty and savory ground beef casserole featuring rice or noodles in a creamy double-soup base with corn and vegetables, all baked under a crunchy chow mein noodle topping.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT50M\",\n  \"totalTime\": \"PT1H5M\",\n  \"recipeYield\": \"10 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 Pounds lean Ground Meat\",\n    \"1 Chopped Onion\",\n    \"1 Clove Garlic, minced\",\n    \"1 Green Pepper, chopped\",\n    \"1 can Pimentos, drained\",\n    \"Salt and Pepper to taste\",\n    \"1 Can (10.5 oz) Cream of Chicken Soup\",\n    \"1 Can (10.5 oz) Cream of Mushroom Soup\",\n    \"1 Tall Can (approx. 15 oz) Whole Kernel Corn, drained\",\n    \"3 Cups Cooked Rice or Noodles\",\n    \"1 Cup Sour Cream\",\n    \"1 Can Chow Mein Noodles\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F (175\u00b0C). Grease a large casserole dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large skillet or Dutch oven, brown the ground meat with the chopped onion, minced garlic, and chopped green pepper. Drain any excess fat.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in the salt, pepper, and drained pimentos.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the cream of chicken soup, cream of mushroom soup, drained corn, cooked rice (or noodles), and sour cream. Stir well until everything is combined.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the mixture into the prepared casserole dish and spread evenly.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Sprinkle the entire can of chow mein noodles over the top of the casserole.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for 45 minutes to 1 hour, or until the casserole is hot, bubbly, and the noodles on top are golden brown.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Cheddar Chowder Casserole",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-16",
+    "description": "A hearty and savory ground beef casserole featuring rice or noodles in a creamy double-soup base with corn and vegetables, all baked under a crunchy chow mein noodle topping.",
+    "prepTime": "PT15M",
+    "cookTime": "PT50M",
+    "totalTime": "PT1H5M",
+    "recipeYield": "10 servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 Pounds lean Ground Meat",
+      "1 Chopped Onion",
+      "1 Clove Garlic, minced",
+      "1 Green Pepper, chopped",
+      "1 can Pimentos, drained",
+      "Salt and Pepper to taste",
+      "1 Can (10.5 oz) Cream of Chicken Soup",
+      "1 Can (10.5 oz) Cream of Mushroom Soup",
+      "1 Tall Can (approx. 15 oz) Whole Kernel Corn, drained",
+      "3 Cups Cooked Rice or Noodles",
+      "1 Cup Sour Cream",
+      "1 Can Chow Mein Noodles"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F (175°C). Grease a large casserole dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large skillet or Dutch oven, brown the ground meat with the chopped onion, minced garlic, and chopped green pepper. Drain any excess fat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the salt, pepper, and drained pimentos."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cream of chicken soup, cream of mushroom soup, drained corn, cooked rice (or noodles), and sour cream. Stir well until everything is combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the mixture into the prepared casserole dish and spread evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the entire can of chow mein noodles over the top of the casserole."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 45 minutes to 1 hour, or until the casserole is hot, bubbly, and the noodles on top are golden brown."
+      }
+    ]
+  }
 ---
 
 # Cheddar Chowder Casserole

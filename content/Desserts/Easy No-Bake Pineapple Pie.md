@@ -1,13 +1,66 @@
 ---
-title: "Easy No-Bake Pineapple Pie"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["dessert", "pie", "nobake", "pineapple", "123"]
-description: "A wonderfully simple no-bake pie with a magic filling. The dry Dream Whip powder acts as a stabilizer, creating a firm, creamy, and sweet pineapple cream cheese filling as it chills."
-date: "2026-07-30"
+title: Easy No-Bake Pineapple Pie
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - dessert
+  - pie
+  - nobake
+  - pineapple
+description: A wonderfully simple no-bake pie with a magic filling. The dry Dream Whip powder acts as a stabilizer, creating a firm, creamy, and sweet pineapple cream cheese filling as it chills.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Easy No-Bake Pineapple Pie\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-14\",\n  \"description\": \"A wonderfully simple no-bake pie with a 'magic' filling. The dry Dream Whip powder acts as a stabilizer, creating a firm, creamy, and sweet pineapple cream cheese filling as it chills.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Pineapple%20Pie/Assets/Handwritten_2025-04-19_182034.webp\"\n  ],\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT0M\",\n  \"totalTime\": \"PT10M\",\n  \"recipeYield\": \"One 9-inch pie\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 small can (8 oz) Crushed Pineapple, well-drained\",\n    \"3/4 cup Sugar\",\n    \"1 (8 oz) package Cream Cheese, softened to room temperature\",\n    \"1 envelope (from a 2-pouch box) Dream Whip, dry powder\",\n    \"1 (9-inch) vanilla wafer or pre-baked pie crust\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a medium bowl, beat the softened cream cheese until smooth.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the well-drained crushed pineapple and sugar. Mix until well combined.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Sprinkle the dry, unwhipped Dream Whip powder over the mixture and fold it in until everything is evenly incorporated.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the filling into the vanilla wafer or pre-baked pie crust and spread evenly.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Refrigerate for at least 4 hours, or until the pie is completely firm, before serving.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Easy No-Bake Pineapple Pie",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-14",
+    "description": "A wonderfully simple no-bake pie with a 'magic' filling. The dry Dream Whip powder acts as a stabilizer, creating a firm, creamy, and sweet pineapple cream cheese filling as it chills.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Pastries/Pie/Pineapple%20Pie/Assets/Handwritten_2025-04-19_182034.webp"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT0M",
+    "totalTime": "PT10M",
+    "recipeYield": "One 9-inch pie",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 small can (8 oz) Crushed Pineapple, well-drained",
+      "3/4 cup Sugar",
+      "1 (8 oz) package Cream Cheese, softened to room temperature",
+      "1 envelope (from a 2-pouch box) Dream Whip, dry powder",
+      "1 (9-inch) vanilla wafer or pre-baked pie crust"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a medium bowl, beat the softened cream cheese until smooth."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the well-drained crushed pineapple and sugar. Mix until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the dry, unwhipped Dream Whip powder over the mixture and fold it in until everything is evenly incorporated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the filling into the vanilla wafer or pre-baked pie crust and spread evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Refrigerate for at least 4 hours, or until the pie is completely firm, before serving."
+      }
+    ]
+  }
 ---
 
 # Easy No-Bake Pineapple Pie

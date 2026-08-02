@@ -1,13 +1,88 @@
 ---
-title: "Lemon Sour Cream Pound Cake"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["cake", "dessert", "poundcake", "lemon", "sourcream", "baking", "123"]
-description: "A classic, rich, and incredibly moist pound cake featuring a tender crumb and bright citrus flavor. This vintage-inspired dessert combines butter, shortening, and sour cream for an unforgettable texture."
-date: "2026-07-30"
+title: Lemon Sour Cream Pound Cake
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - cake
+  - dessert
+  - poundcake
+  - lemon
+  - sourcream
+  - baking
+description: A classic, rich, and incredibly moist pound cake featuring a tender crumb and bright citrus flavor. This vintage-inspired dessert combines butter, shortening, and sour cream for an unforgettable texture.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Lemon Sour Cream Pound Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A classic, dense pound cake made with both butter and shortening, with sour cream for a moist, tender crumb and a bright lemon flavor.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Sour-Cream-Pound-Cake/Assets/Lemon%20Sour%20Cream%20Pound%20Cake%20UK15-1752889243445.webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H45M\",\n  \"totalTime\": \"PT2H5M\",\n  \"recipeYield\": \"1 large tube cake\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 cup butter or margarine, softened\",\n    \"1/2 cup shortening\",\n    \"3 cups sugar\",\n    \"5 large eggs\",\n    \"3 cups all-purpose flour\",\n    \"1/2 teaspoon baking powder\",\n    \"1 (8-ounce) carton sour cream\",\n    \"1/4 cup milk\",\n    \"2 teaspoons lemon extract\",\n    \"1 teaspoon vanilla extract\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@context\": \"https://schema.org/\",\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 325\u00b0F. Generously grease and flour a large 10-inch tube or Bundt pan.\"\n    },\n    {\n      \"@context\": \"https://schema.org/\",\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, cream the butter, shortening, and sugar together until light and fluffy. Add the eggs one at a time, beating well after each.\"\n    },\n    {\n      \"@context\": \"https://schema.org/\",\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate bowl, whisk together the flour and baking powder. In another small bowl, combine the sour cream and milk.\"\n    },\n    {\n      \"@context\": \"https://schema.org/\",\n      \"@type\": \"HowToStep\",\n      \"text\": \"Alternately add the dry ingredients and the sour cream mixture to the creamed butter mixture, beginning and ending with the dry ingredients.\"\n    },\n    {\n      \"@context\": \"https://schema.org/\",\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in the lemon and vanilla extracts. Pour the batter into the prepared pan.\"\n    },\n    {\n      \"@context\": \"https://schema.org/\",\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for 1 hour and 45 minutes, or until a long skewer inserted into the center comes out clean.\"\n    },\n    {\n      \"@context\": \"https://schema.org/\",\n      \"@type\": \"HowToStep\",\n      \"text\": \"Let the cake cool in the pan for 10-15 minutes before inverting it onto a wire rack to cool completely.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Lemon Sour Cream Pound Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A classic, dense pound cake made with both butter and shortening, with sour cream for a moist, tender crumb and a bright lemon flavor.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Sour-Cream-Pound-Cake/Assets/Lemon%20Sour%20Cream%20Pound%20Cake%20UK15-1752889243445.webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT1H45M",
+    "totalTime": "PT2H5M",
+    "recipeYield": "1 large tube cake",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 cup butter or margarine, softened",
+      "1/2 cup shortening",
+      "3 cups sugar",
+      "5 large eggs",
+      "3 cups all-purpose flour",
+      "1/2 teaspoon baking powder",
+      "1 (8-ounce) carton sour cream",
+      "1/4 cup milk",
+      "2 teaspoons lemon extract",
+      "1 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+      {
+        "@context": "https://schema.org/",
+        "@type": "HowToStep",
+        "text": "Preheat oven to 325°F. Generously grease and flour a large 10-inch tube or Bundt pan."
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "HowToStep",
+        "text": "In a large bowl, cream the butter, shortening, and sugar together until light and fluffy. Add the eggs one at a time, beating well after each."
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "HowToStep",
+        "text": "In a separate bowl, whisk together the flour and baking powder. In another small bowl, combine the sour cream and milk."
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "HowToStep",
+        "text": "Alternately add the dry ingredients and the sour cream mixture to the creamed butter mixture, beginning and ending with the dry ingredients."
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "HowToStep",
+        "text": "Stir in the lemon and vanilla extracts. Pour the batter into the prepared pan."
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "HowToStep",
+        "text": "Bake for 1 hour and 45 minutes, or until a long skewer inserted into the center comes out clean."
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "HowToStep",
+        "text": "Let the cake cool in the pan for 10-15 minutes before inverting it onto a wire rack to cool completely."
+      }
+    ]
+  }
 ---
 
 # Lemon Sour Cream Pound Cake

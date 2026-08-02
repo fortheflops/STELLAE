@@ -1,13 +1,17 @@
 ---
-title: "Refrigerator Cheesecake"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["dessert", "cheesecake", "nobake", "lemon", "123"]
-description: "A classic no-bake refrigerator cheesecake featuring a light and fluffy filling made with whipped evaporated milk, lemon gelatin, and cream cheese on a graham cracker crust. This vintage dessert sets up entirely in the refrigerator for a refreshing and firm texture."
-date: "2026-07-30"
+title: Refrigerator Cheesecake
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - dessert
+  - cheesecake
+  - nobake
+  - lemon
+description: A classic no-bake refrigerator cheesecake featuring a light and fluffy filling made with whipped evaporated milk, lemon gelatin, and cream cheese on a graham cracker crust. This vintage dessert sets up entirely in the refrigerator for a refreshing and firm texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"No-Bake Refrigerator Cheesecake\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-10-06\",\"description\":\"A vintage no-bake cheesecake that sets up in the refrigerator, featuring a light and fluffy filling made with whipped evaporated milk, lemon gelatin, and cream cheese.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Cheesecake/Assets/Handwritten_2025-04-20_085220.webp\"],\"prepTime\":\"PT25M\",\"cookTime\":\"PT0M\",\"totalTime\":\"PT4H25M\",\"recipeYield\":\"1 9-inch cheesecake\",\"recipeCategory\":\"Desserts\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 large can (12 ounces) evaporated milk, well-chilled\",\"1 (3-ounce) package lemon gelatin\",\"1/2 cup boiling water\",\"1 (8-ounce) package cream cheese, softened\",\"3/4 cup sugar\",\"1/2 cup lemon juice\",\"1/4 teaspoon grated lemon rind\",\"1/2 teaspoon salt\",\"2 cups crushed graham crackers\",\"1/4 cup melted butter\"]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"No-Bake Refrigerator Cheesecake","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-10-06","description":"A vintage no-bake cheesecake that sets up in the refrigerator, featuring a light and fluffy filling made with whipped evaporated milk, lemon gelatin, and cream cheese.","image":["https://cucinamezzaluna.com/Desserts/Cheesecake/Assets/Handwritten_2025-04-20_085220.webp"],"prepTime":"PT25M","cookTime":"PT0M","totalTime":"PT4H25M","recipeYield":"1 9-inch cheesecake","recipeCategory":"Desserts","recipeCuisine":"American","recipeIngredient":["1 large can (12 ounces) evaporated milk, well-chilled","1 (3-ounce) package lemon gelatin","1/2 cup boiling water","1 (8-ounce) package cream cheese, softened","3/4 cup sugar","1/2 cup lemon juice","1/4 teaspoon grated lemon rind","1/2 teaspoon salt","2 cups crushed graham crackers","1/4 cup melted butter"]}'
 ---
 
 # Refrigerator Cheesecake

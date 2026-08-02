@@ -1,13 +1,46 @@
 ---
-title: "Classic Pumpkin Nut Bread"
-category: "Bread"
-collection: "UK15"
-source: "Unknown"
-tags: ["bread", "pumpkin", "nuts", "fall", "baking", "123"]
-description: "A wonderfully moist and simple pumpkin nut bread made using the classic well mixing method for autumn baking. This large-batch recipe yields two aromatic loaves."
-date: "2026-07-30"
+title: Classic Pumpkin Nut Bread
+category: Bread
+collection: UK15
+source: Unknown
+tags:
+  - bread
+  - pumpkin
+  - nuts
+  - fall
+  - baking
+description: A wonderfully moist and simple pumpkin nut bread made using the classic well mixing method for autumn baking. This large-batch recipe yields two aromatic loaves.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Classic Pumpkin Nut Bread\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A simple and moist pumpkin nut bread made using the well method for mixing. This recipe makes two loaves.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT1H\",\n  \"totalTime\": \"PT1H15M\",\n  \"recipeYield\": \"2 loaves\",\n  \"recipeCategory\": \"Bread\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"3 cups all-purpose flour\",\n    \"2 cups sugar\",\n    \"1 teaspoon baking soda\",\n    \"1 teaspoon salt\",\n    \"3 teaspoons cinnamon\",\n    \"4 large eggs\",\n    \"2 cups canned pumpkin puree\",\n    \"1 1/2 cups vegetable oil\",\n    \"1/2 cup chopped nuts (walnuts or pecans)\",\n    \"2 tablespoons applesauce\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Classic Pumpkin Nut Bread",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A simple and moist pumpkin nut bread made using the well method for mixing. This recipe makes two loaves.",
+    "prepTime": "PT15M",
+    "cookTime": "PT1H",
+    "totalTime": "PT1H15M",
+    "recipeYield": "2 loaves",
+    "recipeCategory": "Bread",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "3 cups all-purpose flour",
+      "2 cups sugar",
+      "1 teaspoon baking soda",
+      "1 teaspoon salt",
+      "3 teaspoons cinnamon",
+      "4 large eggs",
+      "2 cups canned pumpkin puree",
+      "1 1/2 cups vegetable oil",
+      "1/2 cup chopped nuts (walnuts or pecans)",
+      "2 tablespoons applesauce"
+    ]
+  }
 ---
 
 # Classic Pumpkin Nut Bread

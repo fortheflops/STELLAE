@@ -1,13 +1,71 @@
 ---
-title: "Old-Fashioned Molasses Toffee"
-category: "Desserts"
-collection: "John B Collection"
-source: "Unknown"
-tags: ["desserts", "candy", "toffee", "molasses", "123", "johnbcollection"]
-description: "A classic, hard-crack toffee made with powdered sugar, butter, and molasses. Baking soda is added at the end for a light, brittle texture, and it's finished with chopped nuts."
-date: "2026-07-30"
+title: Old-Fashioned Molasses Toffee
+category: Desserts
+collection: John B Collection
+source: Unknown
+tags:
+  - desserts
+  - candy
+  - toffee
+  - molasses
+  - johnbcollection
+description: A classic, hard-crack toffee made with powdered sugar, butter, and molasses. Baking soda is added at the end for a light, brittle texture, and it's finished with chopped nuts.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Old-Fashioned Molasses Toffee\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Confections/Candy/Toffee/Assets/Handwritten_2026-01-04_112814.jpg\"\n  ],\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2026-01-04\",\n  \"description\": \"A classic, hard-crack toffee made with powdered sugar, butter, and molasses. Baking soda is added at the end for a light, brittle texture, and it's finished with chopped nuts.\",\n  \"prepTime\": \"PT5M\",\n  \"cookTime\": \"PT15M\",\n  \"totalTime\": \"PT20M\",\n  \"recipeYield\": \"1 pan\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 C Powdered Sugar\",\n    \"1/4 lb Butter\",\n    \"1/2 C Molasses\",\n    \"Chopped Nuts (as needed)\",\n    \"Pinch of Soda (Baking Soda)\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Prepare a greased pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a saucepan, combine the powdered sugar, butter, and molasses.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook over medium heat, stirring occasionally, until the mixture reaches the hard crack stage (brittle).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Remove from heat and immediately stir in the pinch of baking soda and the chopped nuts.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour quickly into the greased pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Allow to cool completely, then break into pieces.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Old-Fashioned Molasses Toffee",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Confections/Candy/Toffee/Assets/Handwritten_2026-01-04_112814.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2026-01-04",
+    "description": "A classic, hard-crack toffee made with powdered sugar, butter, and molasses. Baking soda is added at the end for a light, brittle texture, and it's finished with chopped nuts.",
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeYield": "1 pan",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 C Powdered Sugar",
+      "1/4 lb Butter",
+      "1/2 C Molasses",
+      "Chopped Nuts (as needed)",
+      "Pinch of Soda (Baking Soda)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare a greased pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan, combine the powdered sugar, butter, and molasses."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook over medium heat, stirring occasionally, until the mixture reaches the hard crack stage (brittle)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from heat and immediately stir in the pinch of baking soda and the chopped nuts."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour quickly into the greased pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Allow to cool completely, then break into pieces."
+      }
+    ]
+  }
 ---
 
 # Old-Fashioned Molasses Toffee

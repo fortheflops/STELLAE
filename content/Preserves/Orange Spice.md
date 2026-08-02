@@ -1,13 +1,51 @@
 ---
-title: "Orange Spice"
-category: "Preserves"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["gailcollection", "123", "spice", "orange", "sachet", "tea"]
-description: "Discover a traditional vintage method for crafting fragrant orange spice charms using thick citrus peels and whole cloves. Perfect for flavoring tea or freshening small spaces naturally."
-date: "2026-07-30"
+title: Orange Spice
+category: Preserves
+collection: Gail Collection
+source: Unknown
+tags:
+  - gailcollection
+  - spice
+  - orange
+  - sachet
+  - tea
+description: Discover a traditional vintage method for crafting fragrant orange spice charms using thick citrus peels and whole cloves. Perfect for flavoring tea or freshening small spaces naturally.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Orange Spice\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-06-16\",\n  \"description\": \"Traditional vintage method for crafting fragrant orange spice charms using thick citrus peels and whole cloves.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT0M\",\n  \"recipeCategory\": \"Preserves\",\n  \"recipeYield\": \"As Needed\",\n  \"recipeIngredient\": [\n    \"Thick Orange Skin\",\n    \"Whole Cloves\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Take the thick orange skin and carefully peel as much of the white pith off the inside as possible until clean.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cut the prepared orange peel into 3/4-inch square or decorative shapes, then push a whole clove firmly into the center of each piece.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Let the spiced orange peels dry naturally until completely hardened and fragrant, then use in tea or as a sachet.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Orange Spice",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-06-16",
+    "description": "Traditional vintage method for crafting fragrant orange spice charms using thick citrus peels and whole cloves.",
+    "prepTime": "PT15M",
+    "cookTime": "PT0M",
+    "recipeCategory": "Preserves",
+    "recipeYield": "As Needed",
+    "recipeIngredient": [
+      "Thick Orange Skin",
+      "Whole Cloves"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Take the thick orange skin and carefully peel as much of the white pith off the inside as possible until clean."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the prepared orange peel into 3/4-inch square or decorative shapes, then push a whole clove firmly into the center of each piece."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the spiced orange peels dry naturally until completely hardened and fragrant, then use in tea or as a sachet."
+      }
+    ]
+  }
 ---
 
 # Orange Spice

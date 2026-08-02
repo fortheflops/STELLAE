@@ -1,13 +1,17 @@
 ---
-title: "Layered Strawberry Cream Jello Salad"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["jello", "123", "strawberry", "dessert", "salad"]
-description: "A classic multi-layered Jello salad featuring a fluffy, fruit-packed strawberry base with a surprise tangy sour cream layer in the middle. This retro dessert is perfect for gatherings and can be prepared well in advance."
-date: "2026-07-30"
+title: Layered Strawberry Cream Jello Salad
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - jello
+  - strawberry
+  - dessert
+  - salad
+description: A classic multi-layered Jello salad featuring a fluffy, fruit-packed strawberry base with a surprise tangy sour cream layer in the middle. This retro dessert is perfect for gatherings and can be prepared well in advance.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Layered Strawberry Cream Jello Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic multi-layered Jello salad featuring a fluffy, fruit-packed strawberry Jello base with a surprise tangy sour cream layer in the middle.\", \"prepTime\": \"PT25M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"9 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Layered Strawberry Cream Jello Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic multi-layered Jello salad featuring a fluffy, fruit-packed strawberry Jello base with a surprise tangy sour cream layer in the middle.", "prepTime": "PT25M", "cookTime": "PT5M", "recipeYield": "9 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Layered Strawberry Cream Jello Salad

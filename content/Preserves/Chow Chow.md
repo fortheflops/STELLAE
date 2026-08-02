@@ -1,13 +1,57 @@
 ---
-title: "Chow Chow"
-category: "Preserves"
-collection: "UK2"
-source: "Unknown"
-tags: ["condiment", "relish", "canning", "123", "chowchow"]
-description: "A traditional southern-style chow chow relish featuring a crisp medley of green tomatoes, cabbage, and peppers. This heritage preserve offers the perfect balance of tangy and sweet flavors."
-date: "2026-07-30"
+title: Chow Chow
+category: Preserves
+collection: UK2
+source: Unknown
+tags:
+  - condiment
+  - relish
+  - canning
+  - chowchow
+description: A traditional southern-style chow chow relish featuring a crisp medley of green tomatoes, cabbage, and peppers. This heritage preserve offers the perfect balance of tangy and sweet flavors.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Chow Chow\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A traditional southern-style chow chow relish featuring a crisp medley of green tomatoes, cabbage, and peppers.\",\n  \"prepTime\": \"PT45M\",\n  \"cookTime\": \"PT30M\",\n  \"recipeYield\": \"4-5 quarts\",\n  \"recipeCategory\": \"Preserves\",\n  \"recipeIngredient\": [\n    \"1.5 qt Green Tomatoes\",\n    \"1.5 qt Cabbage\",\n    \"1.5 qt Onions\",\n    \"1/2 qt Sweet Peppers\",\n    \"4 Hot Peppers\",\n    \"1 Tbsp Salt\",\n    \"Sugar\",\n    \"Water\",\n    \"1.5 qt Vinegar\",\n    \"2 1/2 Whole Mixed Spices\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Mix the green tomatoes, cabbage, onions, sweet peppers, hot peppers, and salt together in a large preserving pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cover the vegetable mixture with equal parts of sugar, water, and vinegar. Place the whole mixed spices into a cloth bag and submerge in the pot.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook the mixture until the vegetables are tender, remove the spice bag, and pack into jars.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Chow Chow",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A traditional southern-style chow chow relish featuring a crisp medley of green tomatoes, cabbage, and peppers.",
+    "prepTime": "PT45M",
+    "cookTime": "PT30M",
+    "recipeYield": "4-5 quarts",
+    "recipeCategory": "Preserves",
+    "recipeIngredient": [
+      "1.5 qt Green Tomatoes",
+      "1.5 qt Cabbage",
+      "1.5 qt Onions",
+      "1/2 qt Sweet Peppers",
+      "4 Hot Peppers",
+      "1 Tbsp Salt",
+      "Sugar",
+      "Water",
+      "1.5 qt Vinegar",
+      "2 1/2 Whole Mixed Spices"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix the green tomatoes, cabbage, onions, sweet peppers, hot peppers, and salt together in a large preserving pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover the vegetable mixture with equal parts of sugar, water, and vinegar. Place the whole mixed spices into a cloth bag and submerge in the pot."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the mixture until the vegetables are tender, remove the spice bag, and pack into jars."
+      }
+    ]
+  }
 ---
 
 # Chow Chow

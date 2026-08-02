@@ -1,13 +1,88 @@
 ---
-title: "Island Style Ham & Sweet Potato Casserole"
-category: "Entrees"
-collection: "John B Collection"
-source: "Unknown"
-tags: ["casserole", "pork", "ham", "sweetpotatoes", "pineapple", "123"]
-description: "Discover a delightful sweet and savory casserole featuring golden saut\u00e9ed ham, pineapple, and green peppers in a tangy glaze, topped with creamy mashed sweet potatoes and baked until bubbly."
-date: "2026-07-30"
+title: Island Style Ham & Sweet Potato Casserole
+category: Entrees
+collection: John B Collection
+source: Unknown
+tags:
+  - casserole
+  - pork
+  - ham
+  - sweetpotatoes
+  - pineapple
+description: Discover a delightful sweet and savory casserole featuring golden sautéed ham, pineapple, and green peppers in a tangy glaze, topped with creamy mashed sweet potatoes and baked until bubbly.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Island Style Ham & Sweet Potato Casserole\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2026-01-03\",\n  \"description\": \"A sweet and savory casserole featuring golden saut\u00e9ed ham, pineapple, and green peppers in a tangy glaze, topped with creamy mashed sweet potatoes and baked until bubbly.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Entrees/Casserole/Meat/Pork/Assets/Handwritten_2026-01-03_165546.jpg\",\n    \"https://cucinamezzaluna.com/Entrees/Casserole/Meat/Pork/Assets/Handwritten_2026-01-03_165638 (2).jpg\"\n  ],\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT20M\",\n  \"totalTime\": \"PT45M\",\n  \"recipeYield\": \"4-6 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"6 med Sweet Potatoes\",\n    \"1 T Oleo\",\n    \"Salt & Pepper\",\n    \"Pinch Nutmeg\",\n    \"Milk\",\n    \"2 c Cut up Cooked Ham\",\n    \"2 T Margarine\",\n    \"1/2 c Green Pepper or Pimento strips\",\n    \"1 can #2 Drained Pineapple Chunks\",\n    \"1 T Cornstarch\",\n    \"2 T Brown Sugar\",\n    \"3/4 c Pineapple Juice\",\n    \"2 T Vinegar\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook and mash the sweet potatoes. Add butter, salt, pepper, nutmeg, and enough milk to whip them until fluffy.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a skillet, melt 2 tablespoons of margarine and saut\u00e9 the cut-up ham, stirring until golden.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the green pepper (or pimento) strips and pineapple chunks. Cook for 2-3 minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a small bowl, combine the brown sugar and cornstarch. Stir in the pineapple juice and vinegar.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the liquid mixture to the skillet. Cook, stirring constantly, until the sauce is clear and thick.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the ham mixture into a 9-inch pie plate.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drop spoonfuls of the whipped sweet potatoes on top of the ham mixture.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake until bubbling hot at 350\u00b0F for 15-20 minutes.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Island Style Ham & Sweet Potato Casserole",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2026-01-03",
+    "description": "A sweet and savory casserole featuring golden sautéed ham, pineapple, and green peppers in a tangy glaze, topped with creamy mashed sweet potatoes and baked until bubbly.",
+    "image": [
+      "https://cucinamezzaluna.com/Entrees/Casserole/Meat/Pork/Assets/Handwritten_2026-01-03_165546.jpg",
+      "https://cucinamezzaluna.com/Entrees/Casserole/Meat/Pork/Assets/Handwritten_2026-01-03_165638 (2).jpg"
+    ],
+    "prepTime": "PT25M",
+    "cookTime": "PT20M",
+    "totalTime": "PT45M",
+    "recipeYield": "4-6 servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "6 med Sweet Potatoes",
+      "1 T Oleo",
+      "Salt & Pepper",
+      "Pinch Nutmeg",
+      "Milk",
+      "2 c Cut up Cooked Ham",
+      "2 T Margarine",
+      "1/2 c Green Pepper or Pimento strips",
+      "1 can #2 Drained Pineapple Chunks",
+      "1 T Cornstarch",
+      "2 T Brown Sugar",
+      "3/4 c Pineapple Juice",
+      "2 T Vinegar"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cook and mash the sweet potatoes. Add butter, salt, pepper, nutmeg, and enough milk to whip them until fluffy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet, melt 2 tablespoons of margarine and sauté the cut-up ham, stirring until golden."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the green pepper (or pimento) strips and pineapple chunks. Cook for 2-3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, combine the brown sugar and cornstarch. Stir in the pineapple juice and vinegar."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the liquid mixture to the skillet. Cook, stirring constantly, until the sauce is clear and thick."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the ham mixture into a 9-inch pie plate."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drop spoonfuls of the whipped sweet potatoes on top of the ham mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake until bubbling hot at 350°F for 15-20 minutes."
+      }
+    ]
+  }
 ---
 
 # Island Style Ham & Sweet Potato Casserole

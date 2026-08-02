@@ -1,13 +1,17 @@
 ---
-title: "Classic Peanut Butter Cookies"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["cookies", "peanutbutter", "123", "dessert", "classic"]
-description: "A classic, foolproof recipe for soft and chewy peanut butter cookies, featuring the iconic fork-tine criss-cross pattern. This recipe balances brown and white sugars for the perfect texture and flavor profile."
-date: "2026-07-30"
+title: Classic Peanut Butter Cookies
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - cookies
+  - peanutbutter
+  - dessert
+  - classic
+description: A classic, foolproof recipe for soft and chewy peanut butter cookies, featuring the iconic fork-tine criss-cross pattern. This recipe balances brown and white sugars for the perfect texture and flavor profile.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Peanut Butter Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, foolproof recipe for soft and chewy peanut butter cookies, featuring the iconic fork-tine criss-cross pattern.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT12M\", \"recipeYield\": \"3-4 dozen\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 cup shortening\", \"1/2 cup peanut butter\", \"1/2 cup white sugar\", \"1/2 cup brown sugar\", \"1 egg\", \"1 1/4 cups flour\", \"1 tsp vanilla extract\", \"3/4 tsp baking soda\", \"1/2 tsp baking powder\", \"1/4 tsp salt\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Peanut Butter Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, foolproof recipe for soft and chewy peanut butter cookies, featuring the iconic fork-tine criss-cross pattern.", "prepTime": "PT15M", "cookTime": "PT12M", "recipeYield": "3-4 dozen", "recipeCategory": "Dessert", "recipeIngredient": ["1/2 cup shortening", "1/2 cup peanut butter", "1/2 cup white sugar", "1/2 cup brown sugar", "1 egg", "1 1/4 cups flour", "1 tsp vanilla extract", "3/4 tsp baking soda", "1/2 tsp baking powder", "1/4 tsp salt"]}'
 ---
 
 # Classic Peanut Butter Cookies

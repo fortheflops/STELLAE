@@ -1,13 +1,17 @@
 ---
-title: "Deluxe Lemon Bars"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["dessert", "lemon", "bars", "123", "gailcollection"]
-description: "A classic recipe for rich and tangy lemon bars featuring a buttery shortbread crust and a sweet, gooey lemon custard filling. These bars are baked to perfection and finished with a delicate dusting of powdered sugar."
-date: "2026-07-30"
+title: Deluxe Lemon Bars
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - dessert
+  - lemon
+  - bars
+  - gailcollection
+description: A classic recipe for rich and tangy lemon bars featuring a buttery shortbread crust and a sweet, gooey lemon custard filling. These bars are baked to perfection and finished with a delicate dusting of powdered sugar.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Deluxe Lemon Bars\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT50M\", \"recipeYield\": \"24-36 bars\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Deluxe Lemon Bars", "prepTime": "PT15M", "cookTime": "PT50M", "recipeYield": "24-36 bars", "recipeCategory": "Dessert"}'
 ---
 
 # Deluxe Lemon Bars

@@ -1,11 +1,15 @@
 ---
-title: "Easy Stovetop 'Cisco Chicken' Casserole"
-category: "Entrees"
-collection: "Unknown Fifteen"
-source: "Unknown"
-tags: ["casserole", "chicken", "onepot", "123", "comfortfood"]
-description: "An extremely simple, one-pot stovetop chicken casserole. Cut-up chicken, small onions, cream of mushroom, and cheddar cheese soup are simmered together until tender and served over hot rice."
-date: "2026-07-30"
+title: Easy Stovetop 'Cisco Chicken' Casserole
+category: Entrees
+collection: Unknown Fifteen
+source: Unknown
+tags:
+  - casserole
+  - chicken
+  - onepot
+  - comfortfood
+description: An extremely simple, one-pot stovetop chicken casserole. Cut-up chicken, small onions, cream of mushroom, and cheddar cheese soup are simmered together until tender and served over hot rice.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Easy Stovetop 'Cisco Chicken' Casserole\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"An extremely simple, one-pot stovetop chicken casserole. Cut-up chicken, small onions, cream of mushroom, and cheddar cheese soup are simmered together until tender.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT1H\", \"totalTime\": \"PT1H10M\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Entree\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"2 Chickens, cut up\", \"2 cans Cream of Mushroom Soup\", \"2 cans Cheddar Cheese Soup\", \"2 or more cans Small Onions\", \"Hot cooked rice (for serving)\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a large pot or Dutch oven, combine the cut-up chicken, cream of mushroom soup, cheddar cheese soup, and small onions.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir to combine.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bring to a simmer, then cover and cook over medium-low heat for about 1 hour, or until the chicken is tender.\"}, {\"@type\": \"HowToStep\", \"text\": \"Serve over hot cooked rice.\"}]}"
 ---

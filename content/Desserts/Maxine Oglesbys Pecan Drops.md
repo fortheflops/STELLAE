@@ -1,11 +1,15 @@
 ---
-title: "Maxine Oglesby's Pecan Drops"
-category: "Desserts"
-collection: "UK2"
-source: "Maxine Oglesby"
-tags: ["cookies", "pecans", "shortbread", "123", "holiday"]
-description: "A classic, buttery shortbread cookie loaded with pecans and rolled in powdered sugar for a melt-in-your-mouth finish. These traditional treats, often known as Russian Tea Cakes, rely on their sugar coating for a delicate sweetness."
-date: "2026-07-30"
+title: Maxine Oglesby's Pecan Drops
+category: Desserts
+collection: UK2
+source: Maxine Oglesby
+tags:
+  - cookies
+  - pecans
+  - shortbread
+  - holiday
+description: A classic, buttery shortbread cookie loaded with pecans and rolled in powdered sugar for a melt-in-your-mouth finish. These traditional treats, often known as Russian Tea Cakes, rely on their sugar coating for a delicate sweetness.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Maxine Oglesby's Pecan Drops\", \"author\": {\"@type\": \"Person\", \"name\": \"Maxine Oglesby\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"4-5 dozen\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 1/2 cups butter\", \"3 cups flour\", \"1 tsp vanilla\", \"1 1/2 cups pecans\", \"2 cups powdered sugar\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Cream butter, add flour and vanilla, then fold in pecans.\"}, {\"@type\": \"HowToStep\", \"text\": \"Shape into balls and chill for 1 hour.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake at 300F for 30 minutes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Roll warm cookies in powdered sugar.\"}]}"
 ---

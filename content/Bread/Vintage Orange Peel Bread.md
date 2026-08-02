@@ -1,13 +1,70 @@
 ---
-title: "Vintage Orange Peel Bread"
-category: "Bread"
-collection: "JohnBCollection"
-source: "Unknown"
-tags: ["quickbread", "123", "orange", "bread", "baking"]
-description: "A unique vintage quick bread recipe that utilizes candied orange peels. The rinds are boiled until tender, candied in a sugar syrup, and then incorporated into a simple milk and egg batter."
-date: "2026-07-30"
+title: Vintage Orange Peel Bread
+category: Bread
+collection: JohnBCollection
+source: Unknown
+tags:
+  - quickbread
+  - orange
+  - bread
+  - baking
+description: A unique vintage quick bread recipe that utilizes candied orange peels. The rinds are boiled until tender, candied in a sugar syrup, and then incorporated into a simple milk and egg batter.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Vintage Orange Peel Bread\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2026-01-23\",\n  \"description\": \"A unique vintage quick bread recipe that utilizes candied orange peels. The rinds are boiled until tender, candied in a sugar syrup, and then incorporated into a simple milk and egg batter.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Breads/Quick Bread/Assets/Handwritten_2026-01-23_154418 (2).webp\"\n  ],\n  \"prepTime\": \"PT45M\",\n  \"cookTime\": \"PT60M\",\n  \"totalTime\": \"PT105M\",\n  \"recipeYield\": \"1 loaf\",\n  \"recipeCategory\": \"Bread\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"Rinds of 3 Oranges\",\n    \"Water\",\n    \"Pinch of Salt\",\n    \"1/4 C Water\",\n    \"1 C Sugar\",\n    \"2 C Flour\",\n    \"3 tsp Baking Powder\",\n    \"1 Egg\",\n    \"1 C (or less) Milk\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Grind the rinds of 3 oranges.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cover the rinds with water and add a pinch of salt. Boil for 20-30 minutes until tender, then drain very dry.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add 1/4 C water and 1 C sugar to the rinds. Boil until the mixture is quite thick (candied), then let cool.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the flour, baking powder, egg, and 1 C (or less) of milk. Mix until combined.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake at 350\u00b0F for 50-60 minutes until golden brown.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Vintage Orange Peel Bread",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2026-01-23",
+    "description": "A unique vintage quick bread recipe that utilizes candied orange peels. The rinds are boiled until tender, candied in a sugar syrup, and then incorporated into a simple milk and egg batter.",
+    "image": [
+      "https://cucinamezzaluna.com/Breads/Quick Bread/Assets/Handwritten_2026-01-23_154418 (2).webp"
+    ],
+    "prepTime": "PT45M",
+    "cookTime": "PT60M",
+    "totalTime": "PT105M",
+    "recipeYield": "1 loaf",
+    "recipeCategory": "Bread",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "Rinds of 3 Oranges",
+      "Water",
+      "Pinch of Salt",
+      "1/4 C Water",
+      "1 C Sugar",
+      "2 C Flour",
+      "3 tsp Baking Powder",
+      "1 Egg",
+      "1 C (or less) Milk"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Grind the rinds of 3 oranges."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover the rinds with water and add a pinch of salt. Boil for 20-30 minutes until tender, then drain very dry."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add 1/4 C water and 1 C sugar to the rinds. Boil until the mixture is quite thick (candied), then let cool."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the flour, baking powder, egg, and 1 C (or less) of milk. Mix until combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake at 350°F for 50-60 minutes until golden brown."
+      }
+    ]
+  }
 ---
 
 # Vintage Orange Peel Bread

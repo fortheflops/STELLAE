@@ -1,13 +1,17 @@
 ---
-title: "Butter Divinity"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["candy", "123", "confection", "holiday", "divinity"]
-description: "A classic, light-as-air confection made by folding hot sugar syrup into stiffly beaten egg whites. This traditional candy offers a rich, melt-in-your-mouth texture perfect for holiday gifting."
-date: "2026-07-30"
+title: Butter Divinity
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - candy
+  - confection
+  - holiday
+  - divinity
+description: A classic, light-as-air confection made by folding hot sugar syrup into stiffly beaten egg whites. This traditional candy offers a rich, melt-in-your-mouth texture perfect for holiday gifting.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Butter Divinity\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic divinity candy made with a cooked sugar syrup poured into stiffly beaten egg whites, with butter added for extra richness.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT20M\", \"recipeYield\": \"4-5 dozen pieces\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"4 cups sugar\", \"1 cup light corn syrup\", \"1 cup water\", \"1/8 teaspoon salt\", \"4 large egg whites\", \"1/2 cup butter\", \"1 teaspoon vanilla\", \"3 ounces melted chocolate\", \"1 cup chopped nuts\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Butter Divinity", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic divinity candy made with a cooked sugar syrup poured into stiffly beaten egg whites, with butter added for extra richness.", "prepTime": "PT15M", "cookTime": "PT20M", "recipeYield": "4-5 dozen pieces", "recipeCategory": "Desserts", "recipeIngredient": ["4 cups sugar", "1 cup light corn syrup", "1 cup water", "1/8 teaspoon salt", "4 large egg whites", "1/2 cup butter", "1 teaspoon vanilla", "3 ounces melted chocolate", "1 cup chopped nuts"]}'
 ---
 
 # Butter Divinity

@@ -1,13 +1,17 @@
 ---
-title: "Simple Fruit Cobbler with Batter Topping"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["cobbler", "fruit", "dessert", "123", "easy"]
-description: "A classic batter-style cobbler featuring a warm, syrupy fruit base topped with a soft, golden-brown crust. This simple recipe uses pantry staples for a quick and comforting homemade dessert."
-date: "2026-07-30"
+title: Simple Fruit Cobbler with Batter Topping
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - cobbler
+  - fruit
+  - dessert
+  - easy
+description: A classic batter-style cobbler featuring a warm, syrupy fruit base topped with a soft, golden-brown crust. This simple recipe uses pantry staples for a quick and comforting homemade dessert.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Simple Fruit Cobbler with Batter Topping\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT10M\", \"cookTime\": \"PT40M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 can fruit\", \"1 cup sugar\", \"4 tablespoons margarine\", \"3/4 cup flour\", \"3/4 cup sugar\", \"3/4 cup milk\", \"1 1/2 teaspoons baking powder\", \"1 pinch salt\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Simple Fruit Cobbler with Batter Topping", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT10M", "cookTime": "PT40M", "recipeYield": "6-8 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 can fruit", "1 cup sugar", "4 tablespoons margarine", "3/4 cup flour", "3/4 cup sugar", "3/4 cup milk", "1 1/2 teaspoons baking powder", "1 pinch salt"]}'
 ---
 
 # Simple Fruit Cobbler with Batter Topping

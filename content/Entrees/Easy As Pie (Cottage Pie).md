@@ -1,13 +1,74 @@
 ---
-title: "Easy As Pie (Cottage Pie)"
-category: "Entrees"
-collection: "Louise Collection"
-source: "Unknown"
-tags: ["louisecollection", "cottagepie", "groundbeef", "casserole", "comfortfood", "123"]
-description: "A classic and simple Cottage Pie featuring a savory seasoned ground beef base baked in a pie pan and topped with fluffy mashed potatoes. This comforting dish brings together familiar flavors for an easy family-friendly dinner."
-date: "2026-07-30"
+title: Easy As Pie (Cottage Pie)
+category: Entrees
+collection: Louise Collection
+source: Unknown
+tags:
+  - louisecollection
+  - cottagepie
+  - groundbeef
+  - casserole
+  - comfortfood
+description: A classic and simple Cottage Pie featuring a savory seasoned ground beef base baked in a pie pan and topped with fluffy mashed potatoes. This comforting dish brings together familiar flavors for an easy family-friendly dinner.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Easy As Pie (Cottage Pie)\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-16\",\n  \"description\": \"A classic and simple 'Easy As Pie' recipe from Louise's collection, also known as Cottage Pie. Features a seasoned ground beef base baked in a pie pan and topped with fluffy mashed potatoes.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT40M\",\n  \"totalTime\": \"PT55M\",\n  \"recipeYield\": \"4 servings\",\n  \"recipeCategory\": \"Main Course\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 Envelope Lipton Beef Flavor Mushroom Mix\",\n    \"1 Pound Ground Beef\",\n    \"1/2 Cup Soft Bread Crumbs\",\n    \"1/4 Cup Ketchup\",\n    \"1/4 Cup Water\",\n    \"1 Egg\",\n    \"2-3 Cups Hot Mashed Potatoes\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F (175\u00b0C).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a medium bowl, combine the Lipton mushroom mix, raw ground beef, soft bread crumbs, ketchup, water, and egg. Mix thoroughly.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Press the meat mixture firmly into the bottom and up the sides of a 9-inch pie pan to form a crust.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for 35-40 minutes, or until the meat is cooked through.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Carefully drain any excess fat from the pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Top the hot meat base with the hot mashed potatoes, spreading it to the edges.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Serve immediately.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Easy As Pie (Cottage Pie)",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-16",
+    "description": "A classic and simple 'Easy As Pie' recipe from Louise's collection, also known as Cottage Pie. Features a seasoned ground beef base baked in a pie pan and topped with fluffy mashed potatoes.",
+    "prepTime": "PT15M",
+    "cookTime": "PT40M",
+    "totalTime": "PT55M",
+    "recipeYield": "4 servings",
+    "recipeCategory": "Main Course",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 Envelope Lipton Beef Flavor Mushroom Mix",
+      "1 Pound Ground Beef",
+      "1/2 Cup Soft Bread Crumbs",
+      "1/4 Cup Ketchup",
+      "1/4 Cup Water",
+      "1 Egg",
+      "2-3 Cups Hot Mashed Potatoes"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F (175°C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a medium bowl, combine the Lipton mushroom mix, raw ground beef, soft bread crumbs, ketchup, water, and egg. Mix thoroughly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Press the meat mixture firmly into the bottom and up the sides of a 9-inch pie pan to form a crust."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 35-40 minutes, or until the meat is cooked through."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Carefully drain any excess fat from the pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top the hot meat base with the hot mashed potatoes, spreading it to the edges."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve immediately."
+      }
+    ]
+  }
 ---
 
 # Easy As Pie (Cottage Pie)

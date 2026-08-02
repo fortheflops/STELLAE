@@ -1,13 +1,66 @@
 ---
-title: "Tamale Pie"
-category: "Entrees"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["entree", "tamalepie", "casserole", "comfortfood", "123"]
-description: "A classic vintage tamale pie featuring seasoned ground round, corn, and olives topped with a savory cornmeal crust. Baked to golden perfection, this hearty casserole serves a crowd."
-date: "2026-07-30"
+title: Tamale Pie
+category: Entrees
+collection: Gail Collection
+source: Unknown
+tags:
+  - entree
+  - tamalepie
+  - casserole
+  - comfortfood
+description: A classic vintage tamale pie featuring seasoned ground round, corn, and olives topped with a savory cornmeal crust. Baked to golden perfection, this hearty casserole serves a crowd.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Tamale Pie\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"A classic vintage tamale pie featuring seasoned ground round, corn, and olives topped with a savory cornmeal crust.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H5M\",\n  \"recipeYield\": \"6-8 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeIngredient\": [\n    \"2 Tablespoons Oil\",\n    \"1 Cup Onion\",\n    \"1 Large Can Whole Kernel Corn\",\n    \"1/2 Green Pepper\",\n    \"2 Teaspoons Salt\",\n    \"1 Pound Ground Round Meat\",\n    \"1 Can Ripe Olives\",\n    \"1/8 Teaspoon Cayenne Pepper\",\n    \"1 Cup Water\",\n    \"1 Large Can Mashed Up Tomatoes\",\n    \"1 Cup Yellow Cornmeal\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook the ground round meat first; drain any excess fat and set aside.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook the chopped onion in oil until softened.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine cooked meat, corn, green pepper, tomatoes, water, salt, and cayenne pepper in a pot and bring to a boil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in yellow cornmeal gradually, then simmer on low covered for 20 minutes, folding in chopped olives toward the end.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour into a greased casserole dish and bake at 350\u00b0F for 45 minutes.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Tamale Pie",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "A classic vintage tamale pie featuring seasoned ground round, corn, and olives topped with a savory cornmeal crust.",
+    "prepTime": "PT20M",
+    "cookTime": "PT1H5M",
+    "recipeYield": "6-8 servings",
+    "recipeCategory": "Entrees",
+    "recipeIngredient": [
+      "2 Tablespoons Oil",
+      "1 Cup Onion",
+      "1 Large Can Whole Kernel Corn",
+      "1/2 Green Pepper",
+      "2 Teaspoons Salt",
+      "1 Pound Ground Round Meat",
+      "1 Can Ripe Olives",
+      "1/8 Teaspoon Cayenne Pepper",
+      "1 Cup Water",
+      "1 Large Can Mashed Up Tomatoes",
+      "1 Cup Yellow Cornmeal"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cook the ground round meat first; drain any excess fat and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the chopped onion in oil until softened."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine cooked meat, corn, green pepper, tomatoes, water, salt, and cayenne pepper in a pot and bring to a boil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in yellow cornmeal gradually, then simmer on low covered for 20 minutes, folding in chopped olives toward the end."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into a greased casserole dish and bake at 350°F for 45 minutes."
+      }
+    ]
+  }
 ---
 
 # Tamale Pie

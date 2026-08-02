@@ -1,13 +1,55 @@
 ---
-title: "Risotto con Funghi"
-category: "Entrees"
-collection: "Gail Collection"
-source: "Rick & Joy Gay"
-tags: ["risotto", "mushrooms", "italian", "entree", "123", "dinner"]
-description: "A classic Italian comfort dish featuring creamy Arborio rice simmered with earthy mushrooms and savory beef stock. Finished with rich margarine and generous amounts of grated Parmesan cheese."
-date: "2026-07-30"
+title: Risotto con Funghi
+category: Entrees
+collection: Gail Collection
+source: Rick & Joy Gay
+tags:
+  - risotto
+  - mushrooms
+  - italian
+  - entree
+  - dinner
+description: A classic Italian comfort dish featuring creamy Arborio rice simmered with earthy mushrooms and savory beef stock. Finished with rich margarine and generous amounts of grated Parmesan cheese.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Risotto con Funghi\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Rick & Joy Gay\"\n  },\n  \"description\": \"A classic Italian comfort dish featuring creamy Arborio rice simmered with earthy mushrooms and savory beef stock.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT30M\",\n  \"recipeYield\": \"4-6 Servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeIngredient\": [\n    \"8 Tablespoons Margarine\",\n    \"1 Large Onion\",\n    \"1 1/2 Cups Mushrooms\",\n    \"2 Cups Uncooked Rice\",\n    \"3 Cups Beef Stock\",\n    \"4 Tablespoons Melted Margarine\",\n    \"Grated Parmesan Cheese\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Melt 8 tablespoons margarine in a large pot or Dutch oven. Add 1 large onion and cook until translucent. Add 1 1/2 cups mushrooms and cook for 5 minutes longer.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add 2 cups rice, stirring constantly until toasted. Add 3 cups hot beef stock and bring to a boil. Cover and simmer for 20 to 25 minutes until liquid is absorbed and rice is al dente.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Finish with 4 tablespoons melted margarine and a generous amount of grated Parmesan cheese before serving.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Risotto con Funghi",
+    "author": {
+      "@type": "Person",
+      "name": "Rick & Joy Gay"
+    },
+    "description": "A classic Italian comfort dish featuring creamy Arborio rice simmered with earthy mushrooms and savory beef stock.",
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "recipeYield": "4-6 Servings",
+    "recipeCategory": "Entrees",
+    "recipeIngredient": [
+      "8 Tablespoons Margarine",
+      "1 Large Onion",
+      "1 1/2 Cups Mushrooms",
+      "2 Cups Uncooked Rice",
+      "3 Cups Beef Stock",
+      "4 Tablespoons Melted Margarine",
+      "Grated Parmesan Cheese"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Melt 8 tablespoons margarine in a large pot or Dutch oven. Add 1 large onion and cook until translucent. Add 1 1/2 cups mushrooms and cook for 5 minutes longer."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add 2 cups rice, stirring constantly until toasted. Add 3 cups hot beef stock and bring to a boil. Cover and simmer for 20 to 25 minutes until liquid is absorbed and rice is al dente."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finish with 4 tablespoons melted margarine and a generous amount of grated Parmesan cheese before serving."
+      }
+    ]
+  }
 ---
 
 # Risotto con Funghi

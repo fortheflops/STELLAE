@@ -1,13 +1,76 @@
 ---
-title: "Mrs. Hayes' Spiced Prune Cake"
-category: "Desserts"
-collection: "PatsyCollection"
-source: "Mrs. Hayes"
-tags: ["cake", "123", "spiced", "dessert", "fruitcake", "prune"]
-description: "A wonderfully rich and moist spiced cake packed with cooked prunes, flavored with hot coffee, mace, and cinnamon, and lightened with beaten egg whites."
-date: "2026-07-30"
+title: Mrs. Hayes' Spiced Prune Cake
+category: Desserts
+collection: PatsyCollection
+source: Mrs. Hayes
+tags:
+  - cake
+  - spiced
+  - dessert
+  - fruitcake
+  - prune
+description: A wonderfully rich and moist spiced cake packed with cooked prunes, flavored with hot coffee, mace, and cinnamon, and lightened with beaten egg whites.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Mrs. Hayes' Spiced Prune Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Mrs. Hayes\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A large, moist, and deeply spiced prune cake made with coffee and buttermilk, lightened by folding in beaten egg whites.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Plum/Assets/Handwritten_2025-01-09_122653.webp\"\n  ],\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT1H\",\n  \"totalTime\": \"PT1H25M\",\n  \"recipeYield\": \"1 large tube or 9x13 cake\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 1/4 cups pitted prunes\",\n    \"1 1/8 cups hot coffee\",\n    \"1 3/4 cups shortening (like Crisco)\",\n    \"2 1/4 cups sugar\",\n    \"4 large eggs, separated\",\n    \"4 1/4 cups all-purpose flour\",\n    \"2 1/4 teaspoons baking soda\",\n    \"3/4 teaspoon salt\",\n    \"1 1/2 teaspoons mace\",\n    \"1/2 teaspoon cinnamon\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F. Grease and flour a large tube pan or a 9x13 inch pan. Cook the prunes in water until soft, then drain, pit, and chop them.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, cream the shortening and sugar. Beat in the egg yolks one at a time.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate bowl, sift together the flour, salt, mace, cinnamon, and baking soda.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the dry ingredients to the creamed mixture alternately with the hot coffee, beginning and ending with the dry ingredients. Stir in the chopped, cooked prunes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a clean bowl, beat the egg whites until stiff peaks form. Gently fold the beaten egg whites into the batter.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the batter into the prepared pan and bake for 50-60 minutes, or until a toothpick inserted into the center comes out clean.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Mrs. Hayes' Spiced Prune Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Mrs. Hayes"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A large, moist, and deeply spiced prune cake made with coffee and buttermilk, lightened by folding in beaten egg whites.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Plum/Assets/Handwritten_2025-01-09_122653.webp"
+    ],
+    "prepTime": "PT25M",
+    "cookTime": "PT1H",
+    "totalTime": "PT1H25M",
+    "recipeYield": "1 large tube or 9x13 cake",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 1/4 cups pitted prunes",
+      "1 1/8 cups hot coffee",
+      "1 3/4 cups shortening (like Crisco)",
+      "2 1/4 cups sugar",
+      "4 large eggs, separated",
+      "4 1/4 cups all-purpose flour",
+      "2 1/4 teaspoons baking soda",
+      "3/4 teaspoon salt",
+      "1 1/2 teaspoons mace",
+      "1/2 teaspoon cinnamon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F. Grease and flour a large tube pan or a 9x13 inch pan. Cook the prunes in water until soft, then drain, pit, and chop them."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, cream the shortening and sugar. Beat in the egg yolks one at a time."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, sift together the flour, salt, mace, cinnamon, and baking soda."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the dry ingredients to the creamed mixture alternately with the hot coffee, beginning and ending with the dry ingredients. Stir in the chopped, cooked prunes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a clean bowl, beat the egg whites until stiff peaks form. Gently fold the beaten egg whites into the batter."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter into the prepared pan and bake for 50-60 minutes, or until a toothpick inserted into the center comes out clean."
+      }
+    ]
+  }
 ---
 
 # Mrs. Hayes' Spiced Prune Cake

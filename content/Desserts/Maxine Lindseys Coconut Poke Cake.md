@@ -1,13 +1,78 @@
 ---
-title: "Maxine Lindsey's Coconut Poke Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Maxine Lindsey"
-tags: ["dessert", "cake", "coconut", "pokecake", "tropical", "123"]
-description: "A wonderfully moist and tropical cake from Maxine Lindsey featuring a simple cake mix base with mandarin oranges, saturated with creamy coconut, and topped with a fluffy coconut Cool Whip frosting."
-date: "2026-07-30"
+title: Maxine Lindsey's Coconut Poke Cake
+category: Desserts
+collection: UK2
+source: Maxine Lindsey
+tags:
+  - dessert
+  - cake
+  - coconut
+  - pokecake
+  - tropical
+description: A wonderfully moist and tropical cake from Maxine Lindsey featuring a simple cake mix base with mandarin oranges, saturated with creamy coconut, and topped with a fluffy coconut Cool Whip frosting.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Maxine Lindsey's Coconut Poke Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Maxine Lindsey\"\n  },\n  \"datePublished\": \"2025-09-22\",\n  \"description\": \"A simple and moist poke cake made with a cake mix and mandarin oranges, saturated with cream of coconut, and topped with a coconut-Cool Whip frosting.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Coconut-Cake/Assets/Handwritten_2025-03-02_121522.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Coconut-Cake/Assets/Handwritten_2025-03-02_121609%20(2).webp\"\n  ],\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT35M\",\n  \"totalTime\": \"PT1H50M\",\n  \"recipeYield\": \"1 9x13 cake (12-16 servings)\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 box white or yellow cake mix\",\n    \"3 large eggs\",\n    \"1 (11-ounce) can mandarin oranges, undrained\",\n    \"1/2 cup vegetable oil\",\n    \"1 (15-ounce) can Cream of Coconut\",\n    \"1 (12-ounce) container Cool Whip, thawed\",\n    \"1 1/2 cups shredded coconut, divided\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F. Grease and flour a 9x13 inch pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, combine the dry cake mix, eggs, undrained mandarin oranges, and oil. Mix well.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour batter into the prepared pan and bake for 30 to 35 minutes, or until a toothpick inserted into the center comes out clean.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Let the cake cool for about 1 hour. Poke holes all over the cake, about 1 to 1.5 inches apart.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Slowly pour the cream of coconut over the cake, allowing it to soak into the holes. Let it absorb completely.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a bowl, fold 1 cup of coconut into the thawed Cool Whip. Spread this mixture over the cooled cake as frosting.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Optional: Toast the remaining 1/2 cup of coconut and sprinkle over the top for garnish. Refrigerate the cake until ready to serve.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Maxine Lindsey's Coconut Poke Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Maxine Lindsey"
+    },
+    "datePublished": "2025-09-22",
+    "description": "A simple and moist poke cake made with a cake mix and mandarin oranges, saturated with cream of coconut, and topped with a coconut-Cool Whip frosting.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Coconut-Cake/Assets/Handwritten_2025-03-02_121522.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Coconut-Cake/Assets/Handwritten_2025-03-02_121609%20(2).webp"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT1H50M",
+    "recipeYield": "1 9x13 cake (12-16 servings)",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 box white or yellow cake mix",
+      "3 large eggs",
+      "1 (11-ounce) can mandarin oranges, undrained",
+      "1/2 cup vegetable oil",
+      "1 (15-ounce) can Cream of Coconut",
+      "1 (12-ounce) container Cool Whip, thawed",
+      "1 1/2 cups shredded coconut, divided"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F. Grease and flour a 9x13 inch pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the dry cake mix, eggs, undrained mandarin oranges, and oil. Mix well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour batter into the prepared pan and bake for 30 to 35 minutes, or until a toothpick inserted into the center comes out clean."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the cake cool for about 1 hour. Poke holes all over the cake, about 1 to 1.5 inches apart."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slowly pour the cream of coconut over the cake, allowing it to soak into the holes. Let it absorb completely."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, fold 1 cup of coconut into the thawed Cool Whip. Spread this mixture over the cooled cake as frosting."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Optional: Toast the remaining 1/2 cup of coconut and sprinkle over the top for garnish. Refrigerate the cake until ready to serve."
+      }
+    ]
+  }
 ---
 
 # Maxine Lindsey's Coconut Poke Cake

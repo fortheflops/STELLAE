@@ -1,13 +1,18 @@
 ---
-title: "Frozen Lemon Delight"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["dessert", "frozen", "lemon", "nobake", "123", "citrus"]
-description: "A light and tangy no-bake frozen dessert featuring a fluffy, mousse-like lemon filling layered between crunchy cookie crumbs. This refreshing treat is perfect for warm days and can be easily adapted for a refrigerated mousse texture."
-date: "2026-07-30"
+title: Frozen Lemon Delight
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - dessert
+  - frozen
+  - lemon
+  - nobake
+  - citrus
+description: A light and tangy no-bake frozen dessert featuring a fluffy, mousse-like lemon filling layered between crunchy cookie crumbs. This refreshing treat is perfect for warm days and can be easily adapted for a refrigerated mousse texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Frozen Lemon Delight\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A light and tangy no-bake frozen dessert featuring a fluffy, mousse-like lemon filling layered between crunchy cookie crumbs.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"8 servings\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"1 Large Can (12 oz) evaporated milk\", \"2 lemons, juice and zest\", \"1 Cup sugar\", \"1 1/2 cups graham or vanilla wafer crumbs\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Frozen Lemon Delight", "author": {"@type": "Person", "name": "Unknown"}, "description": "A light and tangy no-bake frozen dessert featuring a fluffy, mousse-like lemon filling layered between crunchy cookie crumbs.", "prepTime": "PT15M", "cookTime": "PT0M", "recipeYield": "8 servings", "recipeCategory": "Desserts", "recipeIngredient": ["1 Large Can (12 oz) evaporated milk", "2 lemons, juice and zest", "1 Cup sugar", "1 1/2 cups graham or vanilla wafer crumbs"]}'
 ---
 
 # Frozen Lemon Delight

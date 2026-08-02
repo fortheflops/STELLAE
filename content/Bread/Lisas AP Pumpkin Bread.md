@@ -1,11 +1,15 @@
 ---
-title: "Lisa's AP Pumpkin Bread"
-category: "Bread"
-collection: "UK5"
-source: "Lisa"
-tags: ["bread", "pumpkin", "baking", "123", "fall"]
-description: "A classic, moist pumpkin bread loaded with warm spices, nuts, and raisins. This large-batch recipe yields two aromatic loaves perfect for sharing."
-date: "2026-07-30"
+title: Lisa's AP Pumpkin Bread
+category: Bread
+collection: UK5
+source: Lisa
+tags:
+  - bread
+  - pumpkin
+  - baking
+  - fall
+description: A classic, moist pumpkin bread loaded with warm spices, nuts, and raisins. This large-batch recipe yields two aromatic loaves perfect for sharing.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Lisa's AP Pumpkin Bread\", \"author\": {\"@type\": \"Person\", \"name\": \"Lisa\"}, \"datePublished\": \"2025-09-22\", \"description\": \"A classic, moist pumpkin bread loaded with spices, nuts, and raisins. This recipe makes two loaves.\", \"image\": [\"https://cucinamezzaluna.com/Bread/Fruit-Bread/Pumpkin/Assets/AP%20Pumpkin%20Bread%20UK5-1754085165360.webp\", \"https://cucinamezzaluna.com/Bread/Fruit-Bread/Pumpkin/Assets/AP%20Pumpkin%20Bread%20UK5-1754085165358.webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H10M\", \"totalTime\": \"PT1H30M\", \"recipeYield\": \"2 loaves\", \"recipeCategory\": \"Bread\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3 1/3 cups all-purpose flour\", \"2 2/3 cups sugar\", \"2 teaspoons baking soda\", \"1 1/2 teaspoons salt\", \"1/2 teaspoon baking powder\", \"1 teaspoon cinnamon\", \"1 teaspoon ground cloves\", \"4 large eggs\", \"2/3 cup shortening\", \"1 (15 ounce) can pumpkin puree\", \"2/3 cup water\", \"2/3 cup nuts, chopped\", \"2/3 cup raisins\"]}"
 ---

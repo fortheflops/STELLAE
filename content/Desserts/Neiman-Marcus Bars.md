@@ -1,13 +1,17 @@
 ---
-title: "Neiman-Marcus Bars"
-category: "Desserts"
-collection: "UK5"
-source: "Unknown"
-tags: ["dessert", "bars", "gooeybutter", "chocolate", "123"]
-description: "A famously rich and decadent bar cookie featuring a chewy chocolate cake mix base topped with a sweet, gooey cream cheese layer. These classic treats are perfect for gatherings and bake to a delightful, fudgy consistency."
-date: "2026-07-30"
+title: Neiman-Marcus Bars
+category: Desserts
+collection: UK5
+source: Unknown
+tags:
+  - dessert
+  - bars
+  - gooeybutter
+  - chocolate
+description: A famously rich and decadent bar cookie featuring a chewy chocolate cake mix base topped with a sweet, gooey cream cheese layer. These classic treats are perfect for gatherings and bake to a delightful, fudgy consistency.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Neiman-Marcus Bars\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT45M\", \"recipeYield\": \"24-36 bars\", \"recipeCategory\": \"Desserts\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Neiman-Marcus Bars", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT15M", "cookTime": "PT45M", "recipeYield": "24-36 bars", "recipeCategory": "Desserts"}'
 ---
 
 # Neiman-Marcus Bars

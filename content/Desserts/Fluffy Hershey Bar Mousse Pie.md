@@ -1,13 +1,45 @@
 ---
-title: "Fluffy Hershey Bar Mousse Pie"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["dessert", "pie", "chocolate", "nobake", "123"]
-description: "A nostalgic and incredibly easy no-bake pie featuring a light and fluffy mousse filling made from melted Hershey bars and marshmallows, folded into whipped cream and set in a crumb crust. This wonderfully light dessert offers a rich chocolate flavor perfect for any gathering."
-date: "2026-07-30"
+title: Fluffy Hershey Bar Mousse Pie
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - dessert
+  - pie
+  - chocolate
+  - nobake
+description: A nostalgic and incredibly easy no-bake pie featuring a light and fluffy mousse filling made from melted Hershey bars and marshmallows, folded into whipped cream and set in a crumb crust. This wonderfully light dessert offers a rich chocolate flavor perfect for any gathering.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Fluffy Hershey Bar Mousse Pie\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-13\",\n  \"description\": \"A nostalgic and incredibly easy no-bake pie featuring a light and fluffy mousse filling made from melted Hershey bars and marshmallows, folded into whipped cream and set in a crumb crust.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Chocolate%20Pie/Assets/Handwritten_2025-03-22_110051.webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT10M\",\n  \"totalTime\": \"PT30M\",\n  \"recipeYield\": \"One 9-inch pie\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 (9-inch) chocolate or graham cracker crumb crust\",\n    \"25 Large Marshmallows\",\n    \"6 (1.55 oz) standard Hershey's Milk Chocolate Bars, broken up\",\n    \"1/2 Cup Milk\",\n    \"1/2 Pint (1 cup) Heavy Cream\",\n    \"Chopped Nuts or grated Hershey bar for topping (optional)\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Fluffy Hershey Bar Mousse Pie",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-13",
+    "description": "A nostalgic and incredibly easy no-bake pie featuring a light and fluffy mousse filling made from melted Hershey bars and marshmallows, folded into whipped cream and set in a crumb crust.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Pastries/Pie/Chocolate%20Pie/Assets/Handwritten_2025-03-22_110051.webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT10M",
+    "totalTime": "PT30M",
+    "recipeYield": "One 9-inch pie",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 (9-inch) chocolate or graham cracker crumb crust",
+      "25 Large Marshmallows",
+      "6 (1.55 oz) standard Hershey's Milk Chocolate Bars, broken up",
+      "1/2 Cup Milk",
+      "1/2 Pint (1 cup) Heavy Cream",
+      "Chopped Nuts or grated Hershey bar for topping (optional)"
+    ]
+  }
 ---
 
 # Fluffy Hershey Bar Mousse Pie

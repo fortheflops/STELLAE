@@ -1,13 +1,18 @@
 ---
-title: "Glazed Pineapple Drop Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "pineapple", "tropical", "dessert", "123", "glazed"]
-description: "A soft, cake-like drop cookie bursting with tropical flavor. This recipe features crushed pineapple in the batter and is finished with a sweet, buttery pineapple glaze and a sprinkle of nuts."
-date: "2026-07-30"
+title: Glazed Pineapple Drop Cookies
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - pineapple
+  - tropical
+  - dessert
+  - glazed
+description: A soft, cake-like drop cookie bursting with tropical flavor. This recipe features crushed pineapple in the batter and is finished with a sweet, buttery pineapple glaze and a sprinkle of nuts.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Glazed Pineapple Drop Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A soft, cake-like drop cookie bursting with tropical flavor.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"6 dozen\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Glazed Pineapple Drop Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A soft, cake-like drop cookie bursting with tropical flavor.", "prepTime": "PT20M", "cookTime": "PT10M", "recipeYield": "6 dozen", "recipeCategory": "Dessert"}'
 ---
 
 # Glazed Pineapple Drop Cookies

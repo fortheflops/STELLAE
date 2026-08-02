@@ -1,11 +1,15 @@
 ---
-title: "Lorraine's Chocolate Fudge"
-category: "Desserts"
-collection: "UK2"
-source: "Lorraine"
-tags: ["fudge", "chocolate", "123", "candy", "largebatch"]
-description: "A classic, no-fail large-batch chocolate fudge recipe using marshmallow creme for a smooth, creamy texture. This rich confection is perfect for holidays and gifting."
-date: "2026-07-30"
+title: Lorraine's Chocolate Fudge
+category: Desserts
+collection: UK2
+source: Lorraine
+tags:
+  - fudge
+  - chocolate
+  - candy
+  - largebatch
+description: A classic, no-fail large-batch chocolate fudge recipe using marshmallow creme for a smooth, creamy texture. This rich confection is perfect for holidays and gifting.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Lorraine's Chocolate Fudge\", \"author\": {\"@type\": \"Person\", \"name\": \"Lorraine\"}, \"description\": \"A large-batch, no-fail chocolate fudge made by boiling a sugar-milk syrup and pouring it over marshmallow creme, two kinds of chocolate, and nuts.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"5 pounds\", \"recipeCategory\": \"Desserts\"}"
 ---

@@ -1,13 +1,81 @@
 ---
-title: "German Apple Pancakes"
-category: "Breakfast"
-collection: "UK2"
-source: "Unknown"
-tags: ["breakfast", "pancakes", "german", "apple", "123", "cinnamonsugar"]
-description: "Tender, crepe-style pancakes filled with shredded apple and topped with a sweet cinnamon-sugar mixture."
-date: "2026-07-30"
+title: German Apple Pancakes
+category: Breakfast
+collection: UK2
+source: Unknown
+tags:
+  - breakfast
+  - pancakes
+  - german
+  - apple
+  - cinnamonsugar
+description: Tender, crepe-style pancakes filled with shredded apple and topped with a sweet cinnamon-sugar mixture.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"German Apple Pancakes\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-09-21\",\n  \"description\": \"Tender, crepe-style pancakes filled with shredded apple and topped with cinnamon sugar.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Bread/Batter-Bread/Pancakes/Assets/Handwritten_2025-02-09_072133.webp\",\n    \"https://cucinamezzaluna.com/Bread/Batter-Bread/Pancakes/Assets/Handwritten_2025-02-09_072337%20(2).webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT25M\",\n  \"totalTime\": \"PT45M\",\n  \"recipeYield\": \"6 pancakes\",\n  \"recipeCategory\": \"Breakfast\",\n  \"recipeCuisine\": \"German\",\n  \"recipeIngredient\": [\n    \"1 cup all-purpose flour, sifted\",\n    \"1/2 teaspoon salt\",\n    \"2 teaspoons sugar (for batter)\",\n    \"1 1/2 cups milk\",\n    \"4 large eggs\",\n    \"2 1/2 cups coarsely shredded apples (from 3 large apples)\",\n    \"1/3 cup lemon juice\",\n    \"2 to 3 tablespoons butter\",\n    \"1/2 cup sugar\",\n    \"1 1/2 teaspoons ground cinnamon\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, whisk together the sifted flour, salt, and 2 teaspoons of sugar. Gradually add the milk, stirring constantly to create a smooth batter.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the eggs one at a time, beating thoroughly after each addition.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate bowl, toss the shredded apples with the lemon juice. Gently fold the apple mixture into the batter.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a small bowl, combine the 1/2 cup of sugar and 1 1/2 teaspoons of cinnamon for the topping. Set aside.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Melt some of the butter in a heavy 6-inch skillet over low to medium-low heat. Pour about 1/3 cup of batter into the skillet.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook slowly on one side until golden brown, then turn and brown the other side. Transfer to a warm oven while you cook the remaining pancakes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Sprinkle the hot pancakes generously with the cinnamon-sugar mixture before serving.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "German Apple Pancakes",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-09-21",
+    "description": "Tender, crepe-style pancakes filled with shredded apple and topped with cinnamon sugar.",
+    "image": [
+      "https://cucinamezzaluna.com/Bread/Batter-Bread/Pancakes/Assets/Handwritten_2025-02-09_072133.webp",
+      "https://cucinamezzaluna.com/Bread/Batter-Bread/Pancakes/Assets/Handwritten_2025-02-09_072337%20(2).webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT25M",
+    "totalTime": "PT45M",
+    "recipeYield": "6 pancakes",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "German",
+    "recipeIngredient": [
+      "1 cup all-purpose flour, sifted",
+      "1/2 teaspoon salt",
+      "2 teaspoons sugar (for batter)",
+      "1 1/2 cups milk",
+      "4 large eggs",
+      "2 1/2 cups coarsely shredded apples (from 3 large apples)",
+      "1/3 cup lemon juice",
+      "2 to 3 tablespoons butter",
+      "1/2 cup sugar",
+      "1 1/2 teaspoons ground cinnamon"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, whisk together the sifted flour, salt, and 2 teaspoons of sugar. Gradually add the milk, stirring constantly to create a smooth batter."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the eggs one at a time, beating thoroughly after each addition."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, toss the shredded apples with the lemon juice. Gently fold the apple mixture into the batter."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, combine the 1/2 cup of sugar and 1 1/2 teaspoons of cinnamon for the topping. Set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt some of the butter in a heavy 6-inch skillet over low to medium-low heat. Pour about 1/3 cup of batter into the skillet."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook slowly on one side until golden brown, then turn and brown the other side. Transfer to a warm oven while you cook the remaining pancakes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the hot pancakes generously with the cinnamon-sugar mixture before serving."
+      }
+    ]
+  }
 ---
 
 # German Apple Pancakes

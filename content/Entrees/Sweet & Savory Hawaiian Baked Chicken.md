@@ -1,13 +1,18 @@
 ---
-title: "Sweet & Savory Hawaiian Baked Chicken"
-category: "Entrees"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["gailcollection", "chicken", "bakedchicken", "hawaiian", "polynesian", "123"]
-description: "A classic baked chicken dish featuring cornstarch-coated fried chicken baked with pineapple, peppers, and onions. Smothered in a sweet and tangy sauce made from pan drippings, pineapple juice, and soy sauce."
-date: "2026-07-30"
+title: Sweet & Savory Hawaiian Baked Chicken
+category: Entrees
+collection: Gail Collection
+source: Unknown
+tags:
+  - gailcollection
+  - chicken
+  - bakedchicken
+  - hawaiian
+  - polynesian
+description: A classic baked chicken dish featuring cornstarch-coated fried chicken baked with pineapple, peppers, and onions. Smothered in a sweet and tangy sauce made from pan drippings, pineapple juice, and soy sauce.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Hawaiian Chicken\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-11-13\", \"description\": \"Chicken fried in cornstarch, then baked with pineapple, peppers, and onions in a sweet-and-savory soy-ginger sauce.\", \"image\": [\"https://cucinamezzaluna.com/Entrees/Meat/Chicken/Baked Chicken/Assets/Handwritten_2025-06-14_080122.webp\", \"https://cucinamezzaluna.com/Entrees/Meat/Chicken/Baked Chicken/Assets/Handwritten_2025-06-14_080222 (2).webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H\", \"totalTime\": \"PT1H20M\", \"recipeYield\": \"4-6 servings\", \"recipeCategory\": \"Entree\", \"recipeCuisine\": \"Polynesian\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Hawaiian Chicken", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-11-13", "description": "Chicken fried in cornstarch, then baked with pineapple, peppers, and onions in a sweet-and-savory soy-ginger sauce.", "image": ["https://cucinamezzaluna.com/Entrees/Meat/Chicken/Baked Chicken/Assets/Handwritten_2025-06-14_080122.webp", "https://cucinamezzaluna.com/Entrees/Meat/Chicken/Baked Chicken/Assets/Handwritten_2025-06-14_080222 (2).webp"], "prepTime": "PT20M", "cookTime": "PT1H", "totalTime": "PT1H20M", "recipeYield": "4-6 servings", "recipeCategory": "Entree", "recipeCuisine": "Polynesian"}'
 ---
 
 # Sweet & Savory Hawaiian Baked Chicken

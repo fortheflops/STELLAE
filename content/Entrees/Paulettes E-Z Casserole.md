@@ -1,11 +1,15 @@
 ---
-title: "Paulette's E-Z Casserole"
-category: "Entrees"
-collection: "Gail Collection"
-source: "Paulette"
-tags: ["casserole", "beef", "comfortfood", "123", "easy"]
-description: "A wonderfully simple and hearty casserole from Paulette. This 'E-Z' recipe layers raw ground beef, seasonings, and frozen French fries, then bakes it all in a creamy mushroom soup sauce."
-date: "2026-07-30"
+title: Paulette's E-Z Casserole
+category: Entrees
+collection: Gail Collection
+source: Paulette
+tags:
+  - casserole
+  - beef
+  - comfortfood
+  - easy
+description: A wonderfully simple and hearty casserole from Paulette. This 'E-Z' recipe layers raw ground beef, seasonings, and frozen French fries, then bakes it all in a creamy mushroom soup sauce.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Paulette's E-Z Casserole\", \"author\": {\"@type\": \"Person\", \"name\": \"Paulette\"}, \"datePublished\": \"2025-10-16\", \"description\": \"A wonderfully simple and hearty casserole. This 'E-Z' recipe layers raw ground beef, seasonings, and frozen French fries, then bakes it all in a creamy mushroom soup sauce.\", \"image\": [\"https://cucinamezzaluna.com/Entrees/Casserole/Meat/Beef/Assets/Handwritten_2025-06-21_131958.webp\"], \"prepTime\": \"PT10M\", \"cookTime\": \"PT45M\", \"totalTime\": \"PT55M\", \"recipeYield\": \"4-6 servings\", \"recipeCategory\": \"Main Course\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1/2 pound Ground Beef\", \"1 teaspoon Salt\", \"1/8 teaspoon Lawry's Seasoned Salt\", \"1/8 teaspoon Black Pepper\", \"1/4 teaspoon All-purpose Seasoning\", \"1 pound package Frozen French Fries\", \"2 cans Cream of Mushroom Soup\", \"2/3 can Milk (using the soup can)\", \"Onions and Peas (Optional)\"]}"
 ---

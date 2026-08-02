@@ -1,13 +1,62 @@
 ---
-title: "Salmon Croquettes"
-category: "Entrees"
-collection: "UK2"
-source: "Unknown"
-tags: ["croquettes", "seafood", "salmon", "123", "fried"]
-description: "Crispy golden salmon croquettes made with flaked red salmon, buttermilk, and a seasoned cracker crumb coating. Perfectly pan-fried until deliciously crunchy on the outside and tender within."
-date: "2026-07-30"
+title: Salmon Croquettes
+category: Entrees
+collection: UK2
+source: Unknown
+tags:
+  - croquettes
+  - seafood
+  - salmon
+  - fried
+description: Crispy golden salmon croquettes made with flaked red salmon, buttermilk, and a seasoned cracker crumb coating. Perfectly pan-fried until deliciously crunchy on the outside and tender within.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Salmon Croquettes\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"Crispy golden salmon croquettes made with flaked red salmon, buttermilk, and a seasoned cracker crumb coating.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT10M\",\n  \"recipeYield\": \"4\u20136 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeIngredient\": [\n    \"1 can (16 oz) Red Salmon\",\n    \"\u00bd C Buttermilk\",\n    \"\u00bd C Flour\",\n    \"2 Beaten Eggs\",\n    \"\u00bc t Baking Soda\",\n    \"1 Small Onion\",\n    \"Salt\",\n    \"Pepper\",\n    \"1 C Cracker Crumbs\",\n    \"Additional Cracker Crumbs\",\n    \"Hot Grease / Oil\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Remove large bones and skin from the red salmon, place in a bowl, and flake well.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add buttermilk, flour, beaten eggs, baking soda, onion, salt, pepper, and 1 cup cracker crumbs. Mix well.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Shape into small croquettes and roll in additional cracker crumbs.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Fry in hot grease until golden brown and crispy.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Salmon Croquettes",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "Crispy golden salmon croquettes made with flaked red salmon, buttermilk, and a seasoned cracker crumb coating.",
+    "prepTime": "PT20M",
+    "cookTime": "PT10M",
+    "recipeYield": "4–6 servings",
+    "recipeCategory": "Entrees",
+    "recipeIngredient": [
+      "1 can (16 oz) Red Salmon",
+      "½ C Buttermilk",
+      "½ C Flour",
+      "2 Beaten Eggs",
+      "¼ t Baking Soda",
+      "1 Small Onion",
+      "Salt",
+      "Pepper",
+      "1 C Cracker Crumbs",
+      "Additional Cracker Crumbs",
+      "Hot Grease / Oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Remove large bones and skin from the red salmon, place in a bowl, and flake well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add buttermilk, flour, beaten eggs, baking soda, onion, salt, pepper, and 1 cup cracker crumbs. Mix well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Shape into small croquettes and roll in additional cracker crumbs."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry in hot grease until golden brown and crispy."
+      }
+    ]
+  }
 ---
 
 # Salmon Croquettes

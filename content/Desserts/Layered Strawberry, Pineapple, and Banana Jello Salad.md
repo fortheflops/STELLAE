@@ -1,13 +1,44 @@
 ---
-title: "Layered Strawberry, Pineapple, and Banana Jello Salad"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "jello", "salad", "123", "strawberry", "banana", "pineapple"]
-description: "A classic layered Jello salad featuring a tangy sour cream center sandwiched between layers of strawberry Jello packed with strawberries, pineapple, and bananas."
-date: "2026-07-30"
+title: Layered Strawberry, Pineapple, and Banana Jello Salad
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - jello
+  - salad
+  - strawberry
+  - banana
+  - pineapple
+description: A classic layered Jello salad featuring a tangy sour cream center sandwiched between layers of strawberry Jello packed with strawberries, pineapple, and bananas.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Layered Strawberry, Pineapple, and Banana Jello Salad\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-13\",\n  \"description\": \"A classic layered Jello salad featuring a tangy sour cream center sandwiched between layers of strawberry Jello packed with strawberries, pineapple, and bananas.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT5M\",\n  \"totalTime\": \"PT6H25M\",\n  \"recipeYield\": \"12-15 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 packages (3 oz each) Strawberry Jello\",\n    \"2 Cups boiling water\",\n    \"2 packages (10 oz each) frozen strawberries\",\n    \"1 large can (20 oz) crushed pineapple, undrained\",\n    \"3 ripe bananas, sliced\",\n    \"1/2 pint (1 cup) sour cream\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Layered Strawberry, Pineapple, and Banana Jello Salad",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-13",
+    "description": "A classic layered Jello salad featuring a tangy sour cream center sandwiched between layers of strawberry Jello packed with strawberries, pineapple, and bananas.",
+    "prepTime": "PT20M",
+    "cookTime": "PT5M",
+    "totalTime": "PT6H25M",
+    "recipeYield": "12-15 servings",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 packages (3 oz each) Strawberry Jello",
+      "2 Cups boiling water",
+      "2 packages (10 oz each) frozen strawberries",
+      "1 large can (20 oz) crushed pineapple, undrained",
+      "3 ripe bananas, sliced",
+      "1/2 pint (1 cup) sour cream"
+    ]
+  }
 ---
 
 # Layered Strawberry, Pineapple, and Banana Jello Salad

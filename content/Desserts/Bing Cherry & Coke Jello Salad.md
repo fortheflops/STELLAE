@@ -1,13 +1,19 @@
 ---
-title: "Bing Cherry & Coke Jello Salad"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["123", "jello", "salad", "cherry", "coke", "retro", "dessert"]
-description: "A classic, vintage-style molded Jello salad featuring Bing cherries, pineapple, and nuts in a cherry Jello base made with Coca-Cola for a unique, fizzy sweetness. This retro dessert is a perfect centerpiece for potlucks and holiday gatherings."
-date: "2026-07-30"
+title: Bing Cherry & Coke Jello Salad
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - jello
+  - salad
+  - cherry
+  - coke
+  - retro
+  - dessert
+description: A classic, vintage-style molded Jello salad featuring Bing cherries, pineapple, and nuts in a cherry Jello base made with Coca-Cola for a unique, fizzy sweetness. This retro dessert is a perfect centerpiece for potlucks and holiday gatherings.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Bing Cherry & Coke Jello Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, vintage-style molded Jello salad featuring Bing cherries, pineapple, and nuts in a cherry Jello base made with Coca-Cola.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"10-12 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Bing Cherry & Coke Jello Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, vintage-style molded Jello salad featuring Bing cherries, pineapple, and nuts in a cherry Jello base made with Coca-Cola.", "prepTime": "PT15M", "cookTime": "PT5M", "recipeYield": "10-12 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Bing Cherry & Coke Jello Salad

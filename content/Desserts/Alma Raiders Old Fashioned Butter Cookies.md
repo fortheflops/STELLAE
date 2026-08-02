@@ -1,11 +1,15 @@
 ---
-title: "Alma Raider's Old Fashioned Butter Cookies"
-category: "Desserts"
-collection: "PatsyCollection"
-source: "Alma Raider"
-tags: ["cookies", "buttercookies", "123", "baking", "holiday"]
-description: "A classic, versatile roll-and-cut butter cookie recipe perfect for festive shapes. This rich, tender dough yields a delicate, buttery treat ideal for any occasion."
-date: "2026-07-30"
+title: Alma Raider's Old Fashioned Butter Cookies
+category: Desserts
+collection: PatsyCollection
+source: Alma Raider
+tags:
+  - cookies
+  - buttercookies
+  - baking
+  - holiday
+description: A classic, versatile roll-and-cut butter cookie recipe perfect for festive shapes. This rich, tender dough yields a delicate, buttery treat ideal for any occasion.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Alma Raider's Old Fashioned Butter Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Alma Raider\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT8M\", \"recipeYield\": \"4-5 dozen cookies\", \"recipeCategory\": \"Dessert\"}"
 ---

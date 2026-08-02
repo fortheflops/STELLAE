@@ -1,13 +1,17 @@
 ---
-title: "Classic Refrigerator Cookies"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["cookies", "123", "sliceandbake", "refrigeratorcookies", "dessert"]
-description: "A classic, versatile recipe for slice-and-bake refrigerator cookies. This rich, buttery dough with brown sugar and nuts is chilled in a log, then sliced and baked for perfect, uniform cookies every time."
-date: "2026-07-30"
+title: Classic Refrigerator Cookies
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - cookies
+  - sliceandbake
+  - refrigeratorcookies
+  - dessert
+description: A classic, versatile recipe for slice-and-bake refrigerator cookies. This rich, buttery dough with brown sugar and nuts is chilled in a log, then sliced and baked for perfect, uniform cookies every time.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Refrigerator Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic slice-and-bake cookie made with a brown sugar and butter dough, perfect for making ahead and baking as needed.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"4-5 dozen cookies\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Refrigerator Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic slice-and-bake cookie made with a brown sugar and butter dough, perfect for making ahead and baking as needed.", "prepTime": "PT15M", "cookTime": "PT10M", "recipeYield": "4-5 dozen cookies", "recipeCategory": "Dessert"}'
 ---
 
 # Classic Refrigerator Cookies

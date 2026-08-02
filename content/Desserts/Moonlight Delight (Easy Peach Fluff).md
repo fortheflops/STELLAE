@@ -1,13 +1,18 @@
 ---
-title: "Moonlight Delight (Easy Peach Fluff)"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["dessert", "fluff", "peach", "nobake", "123", "easy"]
-description: "A light and airy no-bake dessert salad featuring smashed peaches and crunchy pecans folded into a creamy whipped topping. This simple 'Moonlight Delight' is the perfect quick treat for any gathering."
-date: "2026-07-30"
+title: Moonlight Delight (Easy Peach Fluff)
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - dessert
+  - fluff
+  - peach
+  - nobake
+  - easy
+description: A light and airy no-bake dessert salad featuring smashed peaches and crunchy pecans folded into a creamy whipped topping. This simple 'Moonlight Delight' is the perfect quick treat for any gathering.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Moonlight Delight (Easy Peach Fluff)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A light and airy no-bake dessert salad featuring smashed peaches and crunchy pecans folded into a creamy whipped topping.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"6 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 can (15 oz) peaches, well-drained\", \"1 container (8 oz) Dream Whip or Cool Whip, thawed\", \"1/2 cup pecans, chopped\", \"Maraschino cherries, optional\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Drain the peaches thoroughly and smash in a bowl.\"}, {\"@type\": \"HowToStep\", \"text\": \"Fold in the whipped topping, pecans, and cherries.\"}, {\"@type\": \"HowToStep\", \"text\": \"Chill for at least 1 hour before serving.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Moonlight Delight (Easy Peach Fluff)", "author": {"@type": "Person", "name": "Unknown"}, "description": "A light and airy no-bake dessert salad featuring smashed peaches and crunchy pecans folded into a creamy whipped topping.", "prepTime": "PT10M", "cookTime": "PT0M", "recipeYield": "6 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 can (15 oz) peaches, well-drained", "1 container (8 oz) Dream Whip or Cool Whip, thawed", "1/2 cup pecans, chopped", "Maraschino cherries, optional"], "recipeInstructions": [{"@type": "HowToStep", "text": "Drain the peaches thoroughly and smash in a bowl."}, {"@type": "HowToStep", "text": "Fold in the whipped topping, pecans, and cherries."}, {"@type": "HowToStep", "text": "Chill for at least 1 hour before serving."}]}'
 ---
 
 # Moonlight Delight (Easy Peach Fluff)

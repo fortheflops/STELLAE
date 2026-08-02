@@ -1,13 +1,18 @@
 ---
-title: "Merle's Mulled Ros\u00e9 Punch"
-category: "Beverages"
-collection: "LouiseCollection"
-source: "Merle"
-tags: ["beverage", "punch", "wine", "holiday", "123", "party"]
-description: "A unique and festive warm punch from a recipe by Merle, combining ros\u00e9 wine with a spiced tea base and fruit concentrates. This sweet, fruity, and aromatic beverage is perfect for holiday gatherings and parties."
-date: "2026-07-30"
+title: Merle's Mulled Rosé Punch
+category: Beverages
+collection: LouiseCollection
+source: Merle
+tags:
+  - beverage
+  - punch
+  - wine
+  - holiday
+  - party
+description: A unique and festive warm punch from a recipe by Merle, combining rosé wine with a spiced tea base and fruit concentrates. This sweet, fruity, and aromatic beverage is perfect for holiday gatherings and parties.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Merle's Mulled Ros\u00e9 Punch\", \"author\": {\"@type\": \"Person\", \"name\": \"Merle\"}, \"datePublished\": \"2025-09-20\", \"description\": \"A warm, spiced ros\u00e9 punch with tea, fruit concentrates, and mulling spices. An ideal drink for holiday gatherings.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT20M\", \"totalTime\": \"PT30M\", \"recipeYield\": \"16-20 servings\", \"recipeCategory\": \"Drink\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"2 cups water\", \"1 tablespoon whole cloves\", \"2 tablespoons whole allspice\", \"2 cinnamon sticks\", \"2 cups freshly brewed strong tea\", \"1 cup sugar (or 1/2 cup, to taste)\", \"1 (6 ounce) can frozen orange juice concentrate, thawed\", \"1 (12 ounce) can frozen Hawaiian Punch concentrate, thawed\", \"1 quart (4 cups) ros\u00e9 wine\", \"Thin lemon slices studded with whole cloves, for garnish\"]}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Merle's Mulled Rosé Punch\", \"author\": {\"@type\": \"Person\", \"name\": \"Merle\"}, \"datePublished\": \"2025-09-20\", \"description\": \"A warm, spiced rosé punch with tea, fruit concentrates, and mulling spices. An ideal drink for holiday gatherings.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT20M\", \"totalTime\": \"PT30M\", \"recipeYield\": \"16-20 servings\", \"recipeCategory\": \"Drink\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"2 cups water\", \"1 tablespoon whole cloves\", \"2 tablespoons whole allspice\", \"2 cinnamon sticks\", \"2 cups freshly brewed strong tea\", \"1 cup sugar (or 1/2 cup, to taste)\", \"1 (6 ounce) can frozen orange juice concentrate, thawed\", \"1 (12 ounce) can frozen Hawaiian Punch concentrate, thawed\", \"1 quart (4 cups) rosé wine\", \"Thin lemon slices studded with whole cloves, for garnish\"]}"
 ---
 
 # Merle's Mulled Rosé Punch

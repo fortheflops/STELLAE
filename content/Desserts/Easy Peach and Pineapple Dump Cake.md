@@ -1,13 +1,18 @@
 ---
-title: "Easy Peach and Pineapple Dump Cake"
-category: "Desserts"
-collection: "UK15"
-source: "Joy Phillips"
-tags: ["dessert", "cobbler", "dumpcake", "fruit", "easy", "123"]
-description: "A super simple cobbler, also known as a dump cake, made by layering pineapple, peaches, and dry cake mix, then topping with pecans and butter before baking. This quintessential dessert is perfect for quick preparation and crowd-pleasing results."
-date: "2026-07-30"
+title: Easy Peach and Pineapple Dump Cake
+category: Desserts
+collection: UK15
+source: Joy Phillips
+tags:
+  - dessert
+  - cobbler
+  - dumpcake
+  - fruit
+  - easy
+description: A super simple cobbler, also known as a dump cake, made by layering pineapple, peaches, and dry cake mix, then topping with pecans and butter before baking. This quintessential dessert is perfect for quick preparation and crowd-pleasing results.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Easy Peach and Pineapple Dump Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Joy Phillips\"}, \"description\": \"A super simple cobbler, also known as a dump cake, made by layering pineapple, peaches, and dry cake mix, then topping with pecans and butter before baking.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT45M\", \"recipeYield\": \"12-15 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 (20 ounce) can crushed pineapple, with juice\", \"1-2 cans or bags sliced peaches\", \"1 (13 ounce) box yellow or white cake mix\", \"1/2 cup pecans, chopped\", \"1/4 cup sugar\", \"1/2 cup butter, melted\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Easy Peach and Pineapple Dump Cake", "author": {"@type": "Person", "name": "Joy Phillips"}, "description": "A super simple cobbler, also known as a dump cake, made by layering pineapple, peaches, and dry cake mix, then topping with pecans and butter before baking.", "prepTime": "PT10M", "cookTime": "PT45M", "recipeYield": "12-15 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 (20 ounce) can crushed pineapple, with juice", "1-2 cans or bags sliced peaches", "1 (13 ounce) box yellow or white cake mix", "1/2 cup pecans, chopped", "1/4 cup sugar", "1/2 cup butter, melted"]}'
 ---
 
 # Easy Peach and Pineapple Dump Cake

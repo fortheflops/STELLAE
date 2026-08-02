@@ -1,13 +1,17 @@
 ---
-title: "Crunchy-Crust Blueberry Swirl Pie"
-category: "Desserts"
-collection: "UnknownFifteen"
-source: "Unknown"
-tags: ["dessert", "pie", "blueberry", "nobake", "123"]
-description: "A unique no-bake pie featuring a crunchy baked oatmeal-nut crust and a cool blueberry-lemon gelatin filling finished with a tangy sour cream swirl. Chill until firm for a refreshing, sweet-tart dessert."
-date: "2026-07-30"
+title: Crunchy-Crust Blueberry Swirl Pie
+category: Desserts
+collection: UnknownFifteen
+source: Unknown
+tags:
+  - dessert
+  - pie
+  - blueberry
+  - nobake
+description: A unique no-bake pie featuring a crunchy baked oatmeal-nut crust and a cool blueberry-lemon gelatin filling finished with a tangy sour cream swirl. Chill until firm for a refreshing, sweet-tart dessert.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Crunchy-Crust Blueberry Swirl Pie\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-13\", \"description\": \"A unique no-bake pie with a crunchy, baked oatmeal-nut crust. The filling is a simple combination of lemon Jello and blueberry pie filling, finished with a tangy sour cream swirl.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Blueberry%20Pie/Assets/Crunchy-Crust%20Blueberry%20Swirl%20Pie%20UK15-1752629894554.webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT12M\", \"totalTime\": \"PT32M\", \"recipeYield\": \"One 9-inch pie\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 cup Flour\", \"3/4 cup Oatmeal\", \"1/4 cup Chopped Nuts\", \"1/2 cup (1 stick) Margarine, melted\", \"1 (3 ounce) package Lemon Jello\", \"1 cup Hot Water\", \"1 can (21 oz) Blueberry Pie Filling\", \"Several spoonfuls of Sour Cream\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Crunchy-Crust Blueberry Swirl Pie", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-13", "description": "A unique no-bake pie with a crunchy, baked oatmeal-nut crust. The filling is a simple combination of lemon Jello and blueberry pie filling, finished with a tangy sour cream swirl.", "image": ["https://cucinamezzaluna.com/Desserts/Pastries/Pie/Blueberry%20Pie/Assets/Crunchy-Crust%20Blueberry%20Swirl%20Pie%20UK15-1752629894554.webp"], "prepTime": "PT20M", "cookTime": "PT12M", "totalTime": "PT32M", "recipeYield": "One 9-inch pie", "recipeCategory": "Dessert", "recipeCuisine": "American", "recipeIngredient": ["1 cup Flour", "3/4 cup Oatmeal", "1/4 cup Chopped Nuts", "1/2 cup (1 stick) Margarine, melted", "1 (3 ounce) package Lemon Jello", "1 cup Hot Water", "1 can (21 oz) Blueberry Pie Filling", "Several spoonfuls of Sour Cream"]}'
 ---
 
 # Crunchy-Crust Blueberry Swirl Pie

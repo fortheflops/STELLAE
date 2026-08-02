@@ -1,13 +1,17 @@
 ---
-title: "Impressive Jello-Stuffed Honeydew Rings"
-category: "Desserts"
-collection: "The Complete Book of Salads"
-source: "Unknown"
-tags: ["jello", "honeydew", "123", "buffet", "fruit"]
-description: "A show-stopping vintage buffet centerpiece featuring a whole honeydew melon stuffed with raspberry gelatin and fresh fruit. The melon is coated in cream cheese and pecans, then sliced into elegant, firm rings."
-date: "2026-07-30"
+title: Impressive Jello-Stuffed Honeydew Rings
+category: Desserts
+collection: The Complete Book of Salads
+source: Unknown
+tags:
+  - jello
+  - honeydew
+  - buffet
+  - fruit
+description: A show-stopping vintage buffet centerpiece featuring a whole honeydew melon stuffed with raspberry gelatin and fresh fruit. The melon is coated in cream cheese and pecans, then sliced into elegant, firm rings.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Impressive Jello-Stuffed Honeydew Rings\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT45M\", \"cookTime\": \"PT5M\", \"totalTime\": \"PT6H\", \"recipeYield\": \"8 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 pkg. raspberry flavored gelatin\", \"2 C. boiling water\", \"1 large honeydew melon\", \"1 apple\", \"1 pear\", \"1 peach\", \"12 seedless grapes\", \"1 pkg. (12 oz) Cream Cheese\", \"Light Cream\", \"Chopped pecans\", \"1 head romaine lettuce\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Impressive Jello-Stuffed Honeydew Rings", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT45M", "cookTime": "PT5M", "totalTime": "PT6H", "recipeYield": "8 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 pkg. raspberry flavored gelatin", "2 C. boiling water", "1 large honeydew melon", "1 apple", "1 pear", "1 peach", "12 seedless grapes", "1 pkg. (12 oz) Cream Cheese", "Light Cream", "Chopped pecans", "1 head romaine lettuce"]}'
 ---
 
 # Impressive Jello-Stuffed Honeydew Rings

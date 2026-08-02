@@ -1,13 +1,17 @@
 ---
-title: "Swedish Slugs (Raisin Nut Cookies)"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "123", "raisins", "walnuts", "sweets"]
-description: "A classic recipe for a hearty and chewy drop cookie, amusingly named 'Swedish Slugs'. This simple batter is loaded with walnuts and raisins for a timeless, delicious treat."
-date: "2026-07-30"
+title: Swedish Slugs (Raisin Nut Cookies)
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - raisins
+  - walnuts
+  - sweets
+description: A classic recipe for a hearty and chewy drop cookie, amusingly named 'Swedish Slugs'. This simple batter is loaded with walnuts and raisins for a timeless, delicious treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Swedish Slugs (Raisin Nut Cookies)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"5 to 6 dozen\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 cup butter\", \"1 1/2 cups sugar\", \"3 eggs\", \"3 cups flour\", \"1 tsp baking soda\", \"1 Tbsp hot water\", \"1 tsp baking powder\", \"1 tsp vanilla\", \"1 cup walnuts\", \"1 cup raisins\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Swedish Slugs (Raisin Nut Cookies)", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT15M", "cookTime": "PT10M", "recipeYield": "5 to 6 dozen", "recipeCategory": "Dessert", "recipeIngredient": ["1 cup butter", "1 1/2 cups sugar", "3 eggs", "3 cups flour", "1 tsp baking soda", "1 Tbsp hot water", "1 tsp baking powder", "1 tsp vanilla", "1 cup walnuts", "1 cup raisins"]}'
 ---
 
 # Swedish Slugs (Raisin Nut Cookies)

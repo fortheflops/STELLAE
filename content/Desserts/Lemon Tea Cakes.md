@@ -1,13 +1,39 @@
 ---
-title: "Lemon Tea Cakes"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["teacake", "lemon", "dessert", "cookie", "123", "baking"]
-description: "A classic recipe for old-fashioned Lemon Tea Cakes. These soft, cake-like cookies feature bright lemon flavor and a tangy glaze brushed on while warm."
-date: "2026-07-30"
+title: Lemon Tea Cakes
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - teacake
+  - lemon
+  - dessert
+  - cookie
+  - baking
+description: A classic recipe for old-fashioned Lemon Tea Cakes. These soft, cake-like cookies feature bright lemon flavor and a tangy glaze brushed on while warm.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Lemon Tea Cakes\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-06\",\n  \"description\": \"Soft, cake-like lemon cookies that are brushed with a tangy lemon glaze as soon as they come out of the oven.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Tea-Cakes/Lemon/Assets/Handwritten_2025-01-17_114745.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Tea-Cakes/Lemon/Assets/Handwritten_2025-01-17_114839%20(2).webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT14M\",\n  \"totalTime\": \"PT34M\",\n  \"recipeYield\": \"3-4 dozen cookies\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Lemon Tea Cakes",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-06",
+    "description": "Soft, cake-like lemon cookies that are brushed with a tangy lemon glaze as soon as they come out of the oven.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Tea-Cakes/Lemon/Assets/Handwritten_2025-01-17_114745.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Tea-Cakes/Lemon/Assets/Handwritten_2025-01-17_114839%20(2).webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT14M",
+    "totalTime": "PT34M",
+    "recipeYield": "3-4 dozen cookies",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American"
+  }
 ---
 
 # Lemon Tea Cakes

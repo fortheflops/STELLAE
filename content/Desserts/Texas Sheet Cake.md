@@ -1,11 +1,16 @@
 ---
-title: "Texas Sheet Cake"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "cake", "chocolate", "texas", "sheetcake", "123"]
-description: "A classic Texas-style sheet cake with a rich, boiled cocoa frosting that's poured over the cake while it's still hot."
-date: "2026-07-30"
+title: Texas Sheet Cake
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - chocolate
+  - texas
+  - sheetcake
+description: A classic Texas-style sheet cake with a rich, boiled cocoa frosting that's poured over the cake while it's still hot.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Texas Sheet Cake\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-09-22\",\"description\":\"A classic Texas-style sheet cake with a rich, boiled cocoa frosting that's poured over the cake while it's still hot.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Cake/Chocolate-Cake/Sheet-Cake/Assets/Handwritten_2025-03-21_143606.webp\",\"https://cucinamezzaluna.com/Desserts/Cake/Chocolate-Cake/Sheet-Cake/Assets/Handwritten_2025-03-21_143706%20(2).webp\"],\"prepTime\":\"PT15M\",\"cookTime\":\"PT20M\",\"totalTime\":\"PT35M\",\"recipeYield\":\"24 servings\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"2 cups all-purpose flour\",\"2 cups sugar\",\"1 stick (1/2 cup) butter or margarine\",\"1/2 cup shortening\",\"1 cup water\",\"3 1/2 tablespoons cocoa powder\",\"1/2 cup buttermilk\",\"1 teaspoon baking soda\",\"2 large eggs\",\"1 teaspoon vanilla\",\"1 stick (1/2 cup) butter or margarine\",\"1/3 cup milk\",\"3 1/2 tablespoons cocoa powder\",\"1 pound (about 4 cups) powdered sugar, sifted\",\"1 teaspoon vanilla\",\"1 cup chopped nuts (pecans are traditional)\"]}"
 ---

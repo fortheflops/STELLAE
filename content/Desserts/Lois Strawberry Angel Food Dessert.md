@@ -1,11 +1,16 @@
 ---
-title: "Lois' Strawberry Angel Food Dessert"
-category: "Desserts"
-collection: "UK2"
-source: "Lois"
-tags: ["dessert", "nobake", "strawberry", "angelfood", "123", "trifle"]
-description: "A light and fluffy no-bake dessert featuring layers of crumbled angel food cake and a creamy strawberry gelatin mixture. This classic treat is perfect for gatherings and sets beautifully in the refrigerator."
-date: "2026-07-30"
+title: Lois' Strawberry Angel Food Dessert
+category: Desserts
+collection: UK2
+source: Lois
+tags:
+  - dessert
+  - nobake
+  - strawberry
+  - angelfood
+  - trifle
+description: A light and fluffy no-bake dessert featuring layers of crumbled angel food cake and a creamy strawberry gelatin mixture. This classic treat is perfect for gatherings and sets beautifully in the refrigerator.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Lois' Strawberry Angel Food Dessert\", \"author\": {\"@type\": \"Person\", \"name\": \"Lois\"}, \"description\": \"A light and fluffy no-bake dessert featuring layers of crumbled angel food cake and a creamy strawberry gelatin mixture.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT4H20M\", \"recipeYield\": \"12-15 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"2 (3 oz) packages Strawberry Jello\", \"3 Cups Water\", \"1 (10 oz) package Frozen Strawberries\", \"1 (8 oz) container Cool Whip\", \"1 large Angel Food Cake\"]}"
 ---

@@ -1,13 +1,18 @@
 ---
-title: "Butterscotch No-Bake Cookies"
-category: "Desserts"
-collection: "The Loraine Collection"
-source: "Unknown"
-tags: ["nobake", "cookies", "butterscotch", "peanutbutter", "123", "dessert"]
-description: "A wonderfully simple and quick no-bake cookie featuring a sweet and salty blend of butterscotch and peanut butter. These crunchy treats are easily prepared with Frosted Flakes and require minimal effort."
-date: "2026-07-30"
+title: Butterscotch No-Bake Cookies
+category: Desserts
+collection: The Loraine Collection
+source: Unknown
+tags:
+  - nobake
+  - cookies
+  - butterscotch
+  - peanutbutter
+  - dessert
+description: A wonderfully simple and quick no-bake cookie featuring a sweet and salty blend of butterscotch and peanut butter. These crunchy treats are easily prepared with Frosted Flakes and require minimal effort.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Butterscotch No-Bake Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A wonderfully simple and quick no-bake cookie featuring a sweet and salty blend of butterscotch and peanut butter.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"65 cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"22 oz butterscotch chips\", \"1 cup chunky peanut butter\", \"3 cups sugar frosted flakes\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Butterscotch No-Bake Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A wonderfully simple and quick no-bake cookie featuring a sweet and salty blend of butterscotch and peanut butter.", "prepTime": "PT10M", "cookTime": "PT5M", "recipeYield": "65 cookies", "recipeCategory": "Dessert", "recipeIngredient": ["22 oz butterscotch chips", "1 cup chunky peanut butter", "3 cups sugar frosted flakes"]}'
 ---
 
 # Butterscotch No-Bake Cookies

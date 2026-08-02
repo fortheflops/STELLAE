@@ -1,13 +1,85 @@
 ---
-title: "Marilyn's Veal Casserole"
-category: "Entrees"
-collection: "JillCollection"
-source: "Marilyn B. Oppenheim"
-tags: ["entree", "casserole", "veal", "comfortfood", "123"]
-description: "A hearty Veal Casserole from the kitchen of Marilyn B. Oppenheim featuring tender cubed veal simmered with vegetables and herbs in a white wine and chicken broth sauce."
-date: "2026-07-30"
+title: Marilyn's Veal Casserole
+category: Entrees
+collection: JillCollection
+source: Marilyn B. Oppenheim
+tags:
+  - entree
+  - casserole
+  - veal
+  - comfortfood
+description: A hearty Veal Casserole from the kitchen of Marilyn B. Oppenheim featuring tender cubed veal simmered with vegetables and herbs in a white wine and chicken broth sauce.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Marilyn's Veal Casserole\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marilyn B. Oppenheim\"\n  },\n  \"datePublished\": \"2025-10-16\",\n  \"description\": \"A hearty Veal Casserole from the kitchen of Marilyn B. Oppenheim. Cubed veal is lightly cooked then simmered with onions, peppers, mushrooms, and herbs in a white wine and chicken broth sauce.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Entrees/Casserole/Meat/Beef/Assets/Veal%20Casserole%20JC-1754696798966.webp\",\n    \"https://cucinamezzaluna.com/Entrees/Casserole/Meat/Beef/Assets/Veal%20Casserole%20JC-1754696798971.webp\"\n  ],\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT2H\",\n  \"totalTime\": \"PT2H25M\",\n  \"recipeYield\": \"6-8 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 1/2 pounds Veal, cubed\",\n    \"1/3 cup All-Purpose Flour\",\n    \"1 teaspoon Salt\",\n    \"1/4 teaspoon Black Pepper\",\n    \"1/2 teaspoon Crumbled Basil\",\n    \"1/4 teaspoon Thyme\",\n    \"6 tablespoons Margarine or Butter\",\n    \"3 teaspoons Olive Oil\",\n    \"1 clove Garlic, minced\",\n    \"1/2 cup Onion, chopped\",\n    \"3 Green Peppers, cut into bite-sized pieces\",\n    \"2 cups Mushrooms, sliced\",\n    \"1 can (10.5 oz) Chicken Broth\",\n    \"3/8 cup (6 tbsp) White Wine\",\n    \"1 Bay Leaf\",\n    \"3 tablespoons Lemon Juice\",\n    \"2 tablespoons Chopped Parsley\",\n    \"1 can (8 oz) Tomato Sauce (optional)\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a shallow dish, combine the flour, salt, pepper, basil, and thyme. Dredge the cubed veal in the flour mixture to coat all sides.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large Dutch oven over low heat, melt the margarine with the olive oil. Add the coated veal and cook gently, stirring just until the outside is no longer raw but not browned. Remove the veal from the pan and set aside.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the chopped onion, green pepper, garlic, and mushrooms to the Dutch oven. Season with a little more salt and pepper and cook for 15 minutes, or until the vegetables are softened.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Return the veal to the pot. Add the chicken broth, white wine, bay leaf, lemon juice, parsley, and optional tomato sauce. Stir everything together.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bring the mixture to a simmer, then reduce heat to low, cover, and cook for 1.5 to 2 hours, or until the veal is tender.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"name\": \"Oven Method (Alternative)\",\n      \"text\": \"Alternatively, you can pour the entire mixture into a casserole dish, cover, and bake in a preheated 325\u00b0F (165\u00b0C) oven for 1.5 hours, or until tender.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Marilyn's Veal Casserole",
+    "author": {
+      "@type": "Person",
+      "name": "Marilyn B. Oppenheim"
+    },
+    "datePublished": "2025-10-16",
+    "description": "A hearty Veal Casserole from the kitchen of Marilyn B. Oppenheim. Cubed veal is lightly cooked then simmered with onions, peppers, mushrooms, and herbs in a white wine and chicken broth sauce.",
+    "image": [
+      "https://cucinamezzaluna.com/Entrees/Casserole/Meat/Beef/Assets/Veal%20Casserole%20JC-1754696798966.webp",
+      "https://cucinamezzaluna.com/Entrees/Casserole/Meat/Beef/Assets/Veal%20Casserole%20JC-1754696798971.webp"
+    ],
+    "prepTime": "PT25M",
+    "cookTime": "PT2H",
+    "totalTime": "PT2H25M",
+    "recipeYield": "6-8 servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 1/2 pounds Veal, cubed",
+      "1/3 cup All-Purpose Flour",
+      "1 teaspoon Salt",
+      "1/4 teaspoon Black Pepper",
+      "1/2 teaspoon Crumbled Basil",
+      "1/4 teaspoon Thyme",
+      "6 tablespoons Margarine or Butter",
+      "3 teaspoons Olive Oil",
+      "1 clove Garlic, minced",
+      "1/2 cup Onion, chopped",
+      "3 Green Peppers, cut into bite-sized pieces",
+      "2 cups Mushrooms, sliced",
+      "1 can (10.5 oz) Chicken Broth",
+      "3/8 cup (6 tbsp) White Wine",
+      "1 Bay Leaf",
+      "3 tablespoons Lemon Juice",
+      "2 tablespoons Chopped Parsley",
+      "1 can (8 oz) Tomato Sauce (optional)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a shallow dish, combine the flour, salt, pepper, basil, and thyme. Dredge the cubed veal in the flour mixture to coat all sides."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large Dutch oven over low heat, melt the margarine with the olive oil. Add the coated veal and cook gently, stirring just until the outside is no longer raw but not browned. Remove the veal from the pan and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped onion, green pepper, garlic, and mushrooms to the Dutch oven. Season with a little more salt and pepper and cook for 15 minutes, or until the vegetables are softened."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return the veal to the pot. Add the chicken broth, white wine, bay leaf, lemon juice, parsley, and optional tomato sauce. Stir everything together."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the mixture to a simmer, then reduce heat to low, cover, and cook for 1.5 to 2 hours, or until the veal is tender."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Oven Method (Alternative)",
+        "text": "Alternatively, you can pour the entire mixture into a casserole dish, cover, and bake in a preheated 325°F (165°C) oven for 1.5 hours, or until tender."
+      }
+    ]
+  }
 ---
 
 # Marilyn's Veal Casserole

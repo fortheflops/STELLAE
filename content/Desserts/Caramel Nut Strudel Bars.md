@@ -1,13 +1,18 @@
 ---
-title: "Caramel Nut Strudel Bars"
-category: "Desserts"
-collection: "UK5"
-source: "Unknown"
-tags: ["bars", "dessert", "caramel", "streusel", "123", "nuts"]
-description: "A rich and decadent layered bar featuring a crunchy corn flake and nut streusel that serves as both the crust and the topping. The filling is a gooey, buttery caramel cooked on the stovetop."
-date: "2026-07-30"
+title: Caramel Nut Strudel Bars
+category: Desserts
+collection: UK5
+source: Unknown
+tags:
+  - bars
+  - dessert
+  - caramel
+  - streusel
+  - nuts
+description: A rich and decadent layered bar featuring a crunchy corn flake and nut streusel that serves as both the crust and the topping. The filling is a gooey, buttery caramel cooked on the stovetop.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Caramel Nut Strudel Bars\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A rich and decadent layered bar featuring a crunchy corn flake and nut streusel that serves as both the crust and the topping.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT35M\", \"recipeYield\": \"24-36 bars\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Caramel Nut Strudel Bars", "author": {"@type": "Person", "name": "Unknown"}, "description": "A rich and decadent layered bar featuring a crunchy corn flake and nut streusel that serves as both the crust and the topping.", "prepTime": "PT20M", "cookTime": "PT35M", "recipeYield": "24-36 bars", "recipeCategory": "Dessert"}'
 ---
 
 # Caramel Nut Strudel Bars

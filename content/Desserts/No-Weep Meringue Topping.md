@@ -1,13 +1,17 @@
 ---
-title: "No-Weep Meringue Topping"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["meringue", "dessert", "topping", "baking", "123"]
-description: "A classic, foolproof recipe for a meringue topping that won't weep or shrink. The secret is a simple cooked cornstarch base that stabilizes the egg whites for a perfect, stable meringue every time."
-date: "2026-07-30"
+title: No-Weep Meringue Topping
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - meringue
+  - dessert
+  - topping
+  - baking
+description: A classic, foolproof recipe for a meringue topping that won't weep or shrink. The secret is a simple cooked cornstarch base that stabilizes the egg whites for a perfect, stable meringue every time.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"No-Weep Meringue Topping\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"Topping for one 9-inch pie\", \"recipeCategory\": \"Desserts\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "No-Weep Meringue Topping", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT15M", "cookTime": "PT30M", "recipeYield": "Topping for one 9-inch pie", "recipeCategory": "Desserts"}'
 ---
 
 # No-Weep Meringue Topping

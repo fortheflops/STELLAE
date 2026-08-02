@@ -1,13 +1,75 @@
 ---
-title: "Cornbread Muffins"
-category: "Bread"
-collection: "GailCollection"
-source: "Unknown"
-tags: ["bread", "muffins", "cornbread", "quickbread", "baking", "123", "gailcollection"]
-description: "Enjoy light and tender cornbread muffins with this quick and classic recipe, ideal for serving alongside chili, soups, or barbecue. These slightly sweet muffins come together effortlessly for any meal."
-date: "2026-07-30"
+title: Cornbread Muffins
+category: Bread
+collection: GailCollection
+source: Unknown
+tags:
+  - bread
+  - muffins
+  - cornbread
+  - quickbread
+  - baking
+  - gailcollection
+description: Enjoy light and tender cornbread muffins with this quick and classic recipe, ideal for serving alongside chili, soups, or barbecue. These slightly sweet muffins come together effortlessly for any meal.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Cornbread Muffins\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-09-21\",\n  \"description\": \"A quick and easy recipe for classic, slightly sweet cornbread muffins.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Bread/Corn-Bread/Assets/Receipt_2025-06-07_174506.webp\"\n  ],\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT15M\",\n  \"totalTime\": \"PT25M\",\n  \"recipeYield\": \"12 muffins\",\n  \"recipeCategory\": \"Bread\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 1/2 cups all-purpose flour, sifted\",\n    \"3/4 cup cornmeal\",\n    \"1/4 cup sugar\",\n    \"5 teaspoons baking powder\",\n    \"1 teaspoon salt\",\n    \"1 large egg, beaten\",\n    \"1 cup milk\",\n    \"3 tablespoons vegetable oil\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 375\u00b0F. Grease a 12-cup muffin pan or line with paper liners.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, sift or whisk together the dry ingredients: cornmeal, flour, baking powder, salt, and sugar.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate smaller bowl, combine the milk, beaten egg, and oil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the wet ingredients into the dry ingredients and stir just until the flour is moistened. Do not overmix; the batter should be lumpy.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Fill the prepared muffin cups about two-thirds full.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for about 15 minutes, or until golden brown and a toothpick inserted into the center comes out clean.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Cornbread Muffins",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-09-21",
+    "description": "A quick and easy recipe for classic, slightly sweet cornbread muffins.",
+    "image": [
+      "https://cucinamezzaluna.com/Bread/Corn-Bread/Assets/Receipt_2025-06-07_174506.webp"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeYield": "12 muffins",
+    "recipeCategory": "Bread",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 1/2 cups all-purpose flour, sifted",
+      "3/4 cup cornmeal",
+      "1/4 cup sugar",
+      "5 teaspoons baking powder",
+      "1 teaspoon salt",
+      "1 large egg, beaten",
+      "1 cup milk",
+      "3 tablespoons vegetable oil"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375°F. Grease a 12-cup muffin pan or line with paper liners."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, sift or whisk together the dry ingredients: cornmeal, flour, baking powder, salt, and sugar."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate smaller bowl, combine the milk, beaten egg, and oil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the wet ingredients into the dry ingredients and stir just until the flour is moistened. Do not overmix; the batter should be lumpy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fill the prepared muffin cups about two-thirds full."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for about 15 minutes, or until golden brown and a toothpick inserted into the center comes out clean."
+      }
+    ]
+  }
 ---
 
 # Cornbread Muffins

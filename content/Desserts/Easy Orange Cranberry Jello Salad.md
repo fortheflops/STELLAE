@@ -1,13 +1,18 @@
 ---
-title: "Easy Orange Cranberry Jello Salad"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["jello", "salad", "holiday", "cranberry", "orange", "123"]
-description: "An incredibly simple and festive Jello salad, perfect for the holidays. This recipe combines orange Jello with a whole jar of cranberry relish and orange juice for a sweet and tangy dessert."
-date: "2026-07-30"
+title: Easy Orange Cranberry Jello Salad
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - jello
+  - salad
+  - holiday
+  - cranberry
+  - orange
+description: An incredibly simple and festive Jello salad, perfect for the holidays. This recipe combines orange Jello with a whole jar of cranberry relish and orange juice for a sweet and tangy dessert.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Easy Orange Cranberry Jello Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"An incredibly simple and festive Jello salad, perfect for the holidays.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"8 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 package (3 oz) Orange Jello\", \"1 jar (10 oz) Ocean Spray Cranberry Relish\", \"3/4 cup orange juice\", \"1 cup boiling water\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Easy Orange Cranberry Jello Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "An incredibly simple and festive Jello salad, perfect for the holidays.", "prepTime": "PT10M", "cookTime": "PT0M", "recipeYield": "8 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 package (3 oz) Orange Jello", "1 jar (10 oz) Ocean Spray Cranberry Relish", "3/4 cup orange juice", "1 cup boiling water"]}'
 ---
 
 # Easy Orange Cranberry Jello Salad

@@ -1,13 +1,17 @@
 ---
-title: "Frozen Passion"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "frozen", "soda", "123", "easy"]
-description: "An incredibly simple, 2-ingredient frozen dessert made by combining any flavor of carbonated beverage with sweetened condensed milk. This refreshing treat is easily churned in an ice cream freezer for a quick, customizable dessert."
-date: "2026-07-30"
+title: Frozen Passion
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - frozen
+  - soda
+  - easy
+description: An incredibly simple, 2-ingredient frozen dessert made by combining any flavor of carbonated beverage with sweetened condensed milk. This refreshing treat is easily churned in an ice cream freezer for a quick, customizable dessert.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Frozen Passion\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"An incredibly simple, 2-ingredient frozen dessert made by combining any flavor of carbonated beverage with sweetened condensed milk.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT25M\", \"recipeYield\": \"2 Quarts\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"2 (8 oz) bottles any flavor carbonated beverage\", \"2 cans Eagle Brand Sweetened Condensed Milk\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Whisk together the carbonated beverage and sweetened condensed milk.\"}, {\"@type\": \"HowToStep\", \"text\": \"Churn in an ice cream maker until soft-serve consistency is reached.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Frozen Passion", "author": {"@type": "Person", "name": "Unknown"}, "description": "An incredibly simple, 2-ingredient frozen dessert made by combining any flavor of carbonated beverage with sweetened condensed milk.", "prepTime": "PT5M", "cookTime": "PT25M", "recipeYield": "2 Quarts", "recipeCategory": "Dessert", "recipeIngredient": ["2 (8 oz) bottles any flavor carbonated beverage", "2 cans Eagle Brand Sweetened Condensed Milk"], "recipeInstructions": [{"@type": "HowToStep", "text": "Whisk together the carbonated beverage and sweetened condensed milk."}, {"@type": "HowToStep", "text": "Churn in an ice cream maker until soft-serve consistency is reached."}]}'
 ---
 
 # Frozen Passion

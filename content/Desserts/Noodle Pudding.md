@@ -1,13 +1,47 @@
 ---
-title: "Noodle Pudding"
-category: "Desserts"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["dessert", "kugel", "pudding", "sweet", "comfortfood", "123"]
-description: "A classic sweet noodle pudding (kugel) featuring a rich custard base of sour cream and cottage cheese, brightened with citrus and raisins, and finished with a golden cinnamon-sugar butter topping."
-date: "2026-07-30"
+title: Noodle Pudding
+category: Desserts
+collection: Jill Collection
+source: Unknown
+tags:
+  - dessert
+  - kugel
+  - pudding
+  - sweet
+  - comfortfood
+description: A classic sweet noodle pudding (kugel) featuring a rich custard base of sour cream and cottage cheese, brightened with citrus and raisins, and finished with a golden cinnamon-sugar butter topping.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Noodle Pudding\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-12\",\n  \"description\": \"A classic sweet noodle pudding (kugel) with a rich custard base of sour cream and cottage cheese, flavored with fresh citrus and raisins, and finished with a buttery cinnamon-sugar topping.\",\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT1H\",\n  \"totalTime\": \"PT1H25M\",\n  \"recipeYield\": \"10-12 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"Jewish\",\n  \"recipeIngredient\": [\n    \"1 package (approx. 12 oz) very fine egg noodles\",\n    \"6 large eggs, separated\",\n    \"1 pint (2 cups) sour cream\",\n    \"1 pint (2 cups) cottage cheese\",\n    \"3/4 cup sugar\",\n    \"Juice and zest of 1/2 lemon\",\n    \"Juice and zest of 1/2 orange\",\n    \"1/2 cup white raisins\",\n    \"Butter, for topping\",\n    \"Cinnamon sugar, for topping\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Noodle Pudding",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-12",
+    "description": "A classic sweet noodle pudding (kugel) with a rich custard base of sour cream and cottage cheese, flavored with fresh citrus and raisins, and finished with a buttery cinnamon-sugar topping.",
+    "prepTime": "PT25M",
+    "cookTime": "PT1H",
+    "totalTime": "PT1H25M",
+    "recipeYield": "10-12 servings",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "Jewish",
+    "recipeIngredient": [
+      "1 package (approx. 12 oz) very fine egg noodles",
+      "6 large eggs, separated",
+      "1 pint (2 cups) sour cream",
+      "1 pint (2 cups) cottage cheese",
+      "3/4 cup sugar",
+      "Juice and zest of 1/2 lemon",
+      "Juice and zest of 1/2 orange",
+      "1/2 cup white raisins",
+      "Butter, for topping",
+      "Cinnamon sugar, for topping"
+    ]
+  }
 ---
 
 # Noodle Pudding

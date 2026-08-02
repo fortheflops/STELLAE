@@ -1,13 +1,47 @@
 ---
-title: "Versatile Jello Mousse Dessert"
-category: "Desserts"
-collection: "JC"
-source: "Unknown"
-tags: ["dessert", "nobake", "123", "jello", "mousse", "pie"]
-description: "A classic, no-bake dessert featuring a light and fluffy Jello mousse made with whipped evaporated milk and fruit. This versatile recipe can be served as a molded dessert or as a pie in a graham cracker crust."
-date: "2026-07-30"
+title: Versatile Jello Mousse Dessert
+category: Desserts
+collection: JC
+source: Unknown
+tags:
+  - dessert
+  - nobake
+  - jello
+  - mousse
+  - pie
+description: A classic, no-bake dessert featuring a light and fluffy Jello mousse made with whipped evaporated milk and fruit. This versatile recipe can be served as a molded dessert or as a pie in a graham cracker crust.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Versatile Jello Mousse Dessert\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-13\",\n  \"description\": \"A classic, no-bake dessert featuring a light and fluffy Jello mousse. Made with whipped evaporated milk and fruit, this versatile recipe can be served as a molded dessert or as a pie in a graham cracker crust.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Gelatin/Assets/Jello%20Mold%20JC-1754693774389.webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT5M\",\n  \"totalTime\": \"PT25M\",\n  \"recipeYield\": \"8-10 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 package (3 oz) Jello, any flavor\",\n    \"3/4 cup boiling water or fruit juice\",\n    \"1 can (12 oz) evaporated milk, well-chilled\",\n    \"3/4 cup sugar\",\n    \"1 can (8-15 oz) crushed pineapple, drained\",\n    \"Graham cracker crust (optional)\",\n    \"Additional fruit (optional)\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Versatile Jello Mousse Dessert",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-13",
+    "description": "A classic, no-bake dessert featuring a light and fluffy Jello mousse. Made with whipped evaporated milk and fruit, this versatile recipe can be served as a molded dessert or as a pie in a graham cracker crust.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Gelatin/Assets/Jello%20Mold%20JC-1754693774389.webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT5M",
+    "totalTime": "PT25M",
+    "recipeYield": "8-10 servings",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 package (3 oz) Jello, any flavor",
+      "3/4 cup boiling water or fruit juice",
+      "1 can (12 oz) evaporated milk, well-chilled",
+      "3/4 cup sugar",
+      "1 can (8-15 oz) crushed pineapple, drained",
+      "Graham cracker crust (optional)",
+      "Additional fruit (optional)"
+    ]
+  }
 ---
 
 # Versatile Jello Mousse Dessert

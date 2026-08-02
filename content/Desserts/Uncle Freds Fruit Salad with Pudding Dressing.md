@@ -1,11 +1,16 @@
 ---
-title: "Uncle Fred's Fruit Salad with Pudding Dressing"
-category: "Desserts"
-collection: "UK15"
-source: "Uncle Fred"
-tags: ["fruit", "salad", "pudding", "123", "potluck", "dessert"]
-description: "A classic potluck fruit salad featuring a clever twist where instant banana pudding is prepared with reserved fruit juice. This creates a thick, flavorful dressing that perfectly coats the medley of canned and fresh fruits."
-date: "2026-07-30"
+title: Uncle Fred's Fruit Salad with Pudding Dressing
+category: Desserts
+collection: UK15
+source: Uncle Fred
+tags:
+  - fruit
+  - salad
+  - pudding
+  - potluck
+  - dessert
+description: A classic potluck fruit salad featuring a clever twist where instant banana pudding is prepared with reserved fruit juice. This creates a thick, flavorful dressing that perfectly coats the medley of canned and fresh fruits.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Uncle Fred's Fruit Salad with Pudding Dressing\", \"author\": {\"@type\": \"Person\", \"name\": \"Uncle Fred\"}, \"description\": \"A classic potluck fruit salad featuring a clever twist where instant banana pudding is prepared with reserved fruit juice.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"10-12 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"2 (15 oz) cans apricots\", \"1 (20 oz) can pineapple chunks\", \"1 (10 oz) jar maraschino cherries\", \"2-3 bananas\", \"1/2 cup pecans\", \"1 (5.1 oz) package instant banana pudding\"]}"
 ---

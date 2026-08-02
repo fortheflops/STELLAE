@@ -1,13 +1,18 @@
 ---
-title: "Fresh Apple Cake with Cream Topping"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["apple", "cake", "123", "dessert", "nuts", "comfortfood"]
-description: "An incredibly moist and dense fresh apple cake, made with oil for a tender crumb and packed with grated apple and chopped nuts. The warm cake is served with a simple, rich cream and sugar sauce."
-date: "2026-07-30"
+title: Fresh Apple Cake with Cream Topping
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - apple
+  - cake
+  - dessert
+  - nuts
+  - comfortfood
+description: An incredibly moist and dense fresh apple cake, made with oil for a tender crumb and packed with grated apple and chopped nuts. The warm cake is served with a simple, rich cream and sugar sauce.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Fresh Apple Cake with Cream Topping\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H30M\", \"recipeYield\": \"1 9x13 cake\", \"recipeCategory\": \"Desserts\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Fresh Apple Cake with Cream Topping", "prepTime": "PT20M", "cookTime": "PT1H30M", "recipeYield": "1 9x13 cake", "recipeCategory": "Desserts"}'
 ---
 
 # Fresh Apple Cake with Cream Topping

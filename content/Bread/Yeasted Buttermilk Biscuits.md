@@ -1,13 +1,79 @@
 ---
-title: "Yeasted Buttermilk Biscuits"
-category: "Bread"
-collection: "UK2"
-source: "Francis McDonald and Lois"
-tags: ["bread", "biscuits", "yeast", "sourdough", "buttermilk", "refrigerator", "123"]
-description: "A unique refrigerator biscuit recipe utilizing yeast and a long chilling time to develop a delicious, tangy sourdough-style flavor. These tender biscuits bake up golden brown and fluffy after resting in the fridge."
-date: "2026-07-30"
+title: Yeasted Buttermilk Biscuits
+category: Bread
+collection: UK2
+source: Francis McDonald and Lois
+tags:
+  - bread
+  - biscuits
+  - yeast
+  - sourdough
+  - buttermilk
+  - refrigerator
+description: A unique refrigerator biscuit recipe utilizing yeast and a long chilling time to develop a delicious, tangy sourdough-style flavor. These tender biscuits bake up golden brown and fluffy after resting in the fridge.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Yeasted Buttermilk Biscuits (Sour Dough Style)\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Francis McDonald and Lois\"\n  },\n  \"datePublished\": \"2025-09-22\",\n  \"description\": \"A yeasted refrigerator biscuit dough that develops a tangy 'sourdough' flavor after chilling for up to 48 hours.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Bread/Yeasted-Bread/Biscuits/Assets/Handwritten_2025-01-22_101138.webp\",\n    \"https://cucinamezzaluna.com/Bread/Yeasted-Bread/Biscuits/Assets/Handwritten_2025-01-22_101341%20(2).webp\",\n    \"https://cucinamezzaluna.com/Bread/Yeasted-Bread/Biscuits/Assets/Handwritten_2025-01-22_103004.webp\",\n    \"https://cucinamezzaluna.com/Bread/Yeasted-Bread/Biscuits/Assets/Handwritten_2025-01-22_103108%20(2).webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT15M\",\n  \"totalTime\": \"P2D35M\",\n  \"recipeYield\": \"3-4 dozen biscuits\",\n  \"recipeCategory\": \"Bread\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 (1/4-ounce) package active dry yeast\",\n    \"1 cup warm water\",\n    \"6 to 7 cups all-purpose flour\",\n    \"1/4 cup sugar\",\n    \"4 teaspoons baking powder\",\n    \"1/4 teaspoon baking soda\",\n    \"3 teaspoons salt\",\n    \"3/4 cup corn oil or other vegetable oil\",\n    \"2 cups buttermilk\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a small bowl, dissolve the yeast in the warm water and set aside.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a very large bowl, whisk together 6 cups of the flour, sugar, baking powder, baking soda, and salt.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Make a well in the center of the dry ingredients. Pour in the yeast mixture, buttermilk, and corn oil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir until a soft dough forms, adding more flour if necessary. Cover the bowl and refrigerate for at least 2 hours, or ideally for up to 48 hours.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"When ready to bake, preheat the oven to 400\u00b0F. Turn the dough out onto a floured surface, pat or roll to 1/2-inch thickness, and cut out biscuits.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place on a greased baking sheet and bake for 12-15 minutes, or until golden brown.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Yeasted Buttermilk Biscuits (Sour Dough Style)",
+    "author": {
+      "@type": "Person",
+      "name": "Francis McDonald and Lois"
+    },
+    "datePublished": "2025-09-22",
+    "description": "A yeasted refrigerator biscuit dough that develops a tangy 'sourdough' flavor after chilling for up to 48 hours.",
+    "image": [
+      "https://cucinamezzaluna.com/Bread/Yeasted-Bread/Biscuits/Assets/Handwritten_2025-01-22_101138.webp",
+      "https://cucinamezzaluna.com/Bread/Yeasted-Bread/Biscuits/Assets/Handwritten_2025-01-22_101341%20(2).webp",
+      "https://cucinamezzaluna.com/Bread/Yeasted-Bread/Biscuits/Assets/Handwritten_2025-01-22_103004.webp",
+      "https://cucinamezzaluna.com/Bread/Yeasted-Bread/Biscuits/Assets/Handwritten_2025-01-22_103108%20(2).webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT15M",
+    "totalTime": "P2D35M",
+    "recipeYield": "3-4 dozen biscuits",
+    "recipeCategory": "Bread",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 (1/4-ounce) package active dry yeast",
+      "1 cup warm water",
+      "6 to 7 cups all-purpose flour",
+      "1/4 cup sugar",
+      "4 teaspoons baking powder",
+      "1/4 teaspoon baking soda",
+      "3 teaspoons salt",
+      "3/4 cup corn oil or other vegetable oil",
+      "2 cups buttermilk"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, dissolve the yeast in the warm water and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a very large bowl, whisk together 6 cups of the flour, sugar, baking powder, baking soda, and salt."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make a well in the center of the dry ingredients. Pour in the yeast mixture, buttermilk, and corn oil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir until a soft dough forms, adding more flour if necessary. Cover the bowl and refrigerate for at least 2 hours, or ideally for up to 48 hours."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "When ready to bake, preheat the oven to 400°F. Turn the dough out onto a floured surface, pat or roll to 1/2-inch thickness, and cut out biscuits."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place on a greased baking sheet and bake for 12-15 minutes, or until golden brown."
+      }
+    ]
+  }
 ---
 
 # Yeasted Buttermilk Biscuits

@@ -1,11 +1,16 @@
 ---
-title: "Jill's Perfect Pie Crust"
-category: "Desserts"
-collection: "JC"
-source: "Jill"
-tags: ["pie", "crust", "pastry", "baking", "jillcollection", "123"]
-description: "A simple, flaky pie crust recipe from Jill using shortening and ice water for a tender texture. This versatile recipe provides quantities for a single 9-inch crust, which can be easily doubled for a two-crust pie."
-date: "2026-07-30"
+title: Jill's Perfect Pie Crust
+category: Desserts
+collection: JC
+source: Jill
+tags:
+  - pie
+  - crust
+  - pastry
+  - baking
+  - jillcollection
+description: A simple, flaky pie crust recipe from Jill using shortening and ice water for a tender texture. This versatile recipe provides quantities for a single 9-inch crust, which can be easily doubled for a two-crust pie.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Jill's Perfect Pie Crust\", \"author\": {\"@type\": \"Person\", \"name\": \"Jill\"}, \"datePublished\": \"2025-08-09\", \"description\": \"A simple, flaky pie crust recipe from Jill using shortening and ice water.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Crust/Assets/Perfect%20Pie%20Crust%20JC-1754789984571.webp\"], \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT10M\", \"recipeYield\": \"One single 9-inch crust\", \"recipeCategory\": \"Pie Crust\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 cup All-Purpose Flour\", \"1/2 teaspoon Salt\", \"1/3 cup + 1 tbsp Shortening, cold\", \"2 to 3 tablespoons Ice Water\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a medium bowl, whisk together the flour and salt.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the cold shortening and cut into the flour until coarse crumbs form.\"}, {\"@type\": \"HowToStep\", \"text\": \"Sprinkle ice water over the mixture, tossing until the dough comes together.\"}, {\"@type\": \"HowToStep\", \"text\": \"Gather into a ball, wrap in plastic, and chill for at least 30 minutes.\"}]}"
 ---

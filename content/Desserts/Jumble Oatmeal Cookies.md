@@ -1,13 +1,17 @@
 ---
-title: "Jumble Oatmeal Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["oatmeal", "cookies", "123", "jumble", "buttermilk"]
-description: "A hearty and chewy oatmeal drop cookie loaded with raisins, nuts, and spices, with a tender crumb from buttermilk. These classic cookies are packed with a delicious jumble of textures and warm flavors."
-date: "2026-07-30"
+title: Jumble Oatmeal Cookies
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - oatmeal
+  - cookies
+  - jumble
+  - buttermilk
+description: A hearty and chewy oatmeal drop cookie loaded with raisins, nuts, and spices, with a tender crumb from buttermilk. These classic cookies are packed with a delicious jumble of textures and warm flavors.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Jumble Oatmeal Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A hearty and chewy oatmeal drop cookie loaded with raisins, nuts, and spices, with a tender crumb from buttermilk.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"24 large cookies\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Jumble Oatmeal Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A hearty and chewy oatmeal drop cookie loaded with raisins, nuts, and spices, with a tender crumb from buttermilk.", "prepTime": "PT15M", "cookTime": "PT15M", "recipeYield": "24 large cookies", "recipeCategory": "Dessert"}'
 ---
 
 # Jumble Oatmeal Cookies

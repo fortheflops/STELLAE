@@ -1,11 +1,15 @@
 ---
-title: "Adelina's Millionaire Pie"
-category: "Desserts"
-collection: "General Archive"
-source: "Adelina"
-tags: ["dessert", "pie", "nobake", "tropical", "123"]
-description: "A classic no-bake Millionaire Pie featuring a light and fluffy filling of pineapple, pecans, and sweetened condensed milk in a creamy Cool Whip base. This easy recipe makes two delicious pies!"
-date: "2026-07-30"
+title: Adelina's Millionaire Pie
+category: Desserts
+collection: General Archive
+source: Adelina
+tags:
+  - dessert
+  - pie
+  - nobake
+  - tropical
+description: A classic no-bake Millionaire Pie featuring a light and fluffy filling of pineapple, pecans, and sweetened condensed milk in a creamy Cool Whip base. This easy recipe makes two delicious pies!
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Adelina's Millionaire Pie\",\"author\":{\"@type\":\"Person\",\"name\":\"Adelina\"},\"datePublished\":\"2025-10-13\",\"description\":\"A classic no-bake Millionaire Pie from Adelina, featuring a light and fluffy filling of pineapple, pecans, and sweetened condensed milk in a creamy Cool Whip base.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT0M\",\"totalTime\":\"PT15M\",\"recipeYield\":\"Two 9-inch pies\",\"recipeCategory\":\"Desserts\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"2 (9-inch) Graham Cracker Crusts\",\"1 can (20 oz) Crushed Pineapple, well-drained\",\"1 (9 oz) Container Cool Whip, thawed\",\"1 Can Sweetened Condensed Milk\",\"3 Tablespoons Lemon Juice\",\"1/2 Cup Pecans, chopped\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In a large bowl, beat the thawed Cool Whip, sweetened condensed milk, and lemon juice with a mixer until well combined and fluffy.\"},{\"@type\":\"HowToStep\",\"text\":\"Gently fold in the well-drained crushed pineapple and the chopped pecans.\"},{\"@type\":\"HowToStep\",\"text\":\"Divide the filling mixture evenly between the two graham cracker crusts and spread smoothly.\"},{\"@type\":\"HowToStep\",\"text\":\"Refrigerate for at least 4 hours, or overnight, until the pies are firm and well chilled before serving.\"}]}"
 ---

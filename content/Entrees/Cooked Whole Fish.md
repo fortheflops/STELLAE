@@ -1,13 +1,59 @@
 ---
-title: "Cooked Whole Fish"
-category: "Entrees"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["fish", "seafood", "baked", "wholefish", "123"]
-description: "A classic vintage recipe for a whole baked fish stuffed with onions and margarine, then basted in a savory lemon and tomato juice sauce until flaky and tender."
-date: "2026-07-30"
+title: Cooked Whole Fish
+category: Entrees
+collection: Gail Collection
+source: Unknown
+tags:
+  - fish
+  - seafood
+  - baked
+  - wholefish
+description: A classic vintage recipe for a whole baked fish stuffed with onions and margarine, then basted in a savory lemon and tomato juice sauce until flaky and tender.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Cooked Whole Fish\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-05-24\",\n  \"description\": \"A classic vintage recipe for a whole baked fish stuffed with onions and margarine, then basted in a savory lemon and tomato juice sauce until flaky and tender.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT50M\",\n  \"totalTime\": \"PT70M\",\n  \"keywords\": \"fish, seafood, baked, wholefish, vintage\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeYield\": \"4\u20136 Servings\",\n  \"recipeIngredient\": [\n    \"1 whole Fish\",\n    \"Salt\",\n    \"1 Stick Oleo\",\n    \"Onions\",\n    \"Butter\",\n    \"Flour\",\n    \"Oil\",\n    \"Lemon Slices\",\n    \"Tomato Juice\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat your oven to 350\u00b0F. Scale the whole fish, gut and wash thoroughly, and pat dry. Season inside and out with salt. Grease a baking pan with butter and dust with flour, then lay the fish in the pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place slices of oleo and sliced onions inside the fish cavity or around the fish. Combine oil, lemon slices, salt, and tomato juice, and pour over the fish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake at 350\u00b0F for 45-50 minutes until the flesh pulls away easily from the bones. Carefully lift out of the pan to serve.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Cooked Whole Fish",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-05-24",
+    "description": "A classic vintage recipe for a whole baked fish stuffed with onions and margarine, then basted in a savory lemon and tomato juice sauce until flaky and tender.",
+    "prepTime": "PT20M",
+    "cookTime": "PT50M",
+    "totalTime": "PT70M",
+    "keywords": "fish, seafood, baked, wholefish, vintage",
+    "recipeCategory": "Entrees",
+    "recipeYield": "4–6 Servings",
+    "recipeIngredient": [
+      "1 whole Fish",
+      "Salt",
+      "1 Stick Oleo",
+      "Onions",
+      "Butter",
+      "Flour",
+      "Oil",
+      "Lemon Slices",
+      "Tomato Juice"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 350°F. Scale the whole fish, gut and wash thoroughly, and pat dry. Season inside and out with salt. Grease a baking pan with butter and dust with flour, then lay the fish in the pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place slices of oleo and sliced onions inside the fish cavity or around the fish. Combine oil, lemon slices, salt, and tomato juice, and pour over the fish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake at 350°F for 45-50 minutes until the flesh pulls away easily from the bones. Carefully lift out of the pan to serve."
+      }
+    ]
+  }
 ---
 
 # Cooked Whole Fish

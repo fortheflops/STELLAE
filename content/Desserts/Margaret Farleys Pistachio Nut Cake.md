@@ -1,13 +1,44 @@
 ---
-title: "Margaret Farley's Pistachio Nut Cake"
-category: "Desserts"
-collection: "UK15"
-source: "Margaret Farley"
-tags: ["dessert", "cake", "pistachio", "chocolate", "bundt", "123"]
-description: "A wonderfully moist and flavorful doctored cake mix recipe featuring pistachio pudding and a rich chocolate swirl. This vintage Bundt-style cake delivers a delightful marble effect and nutty sweetness in every slice."
-date: "2026-07-30"
+title: Margaret Farley's Pistachio Nut Cake
+category: Desserts
+collection: UK15
+source: Margaret Farley
+tags:
+  - dessert
+  - cake
+  - pistachio
+  - chocolate
+  - bundt
+description: A wonderfully moist and flavorful doctored cake mix recipe featuring pistachio pudding and a rich chocolate swirl. This vintage Bundt-style cake delivers a delightful marble effect and nutty sweetness in every slice.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Margaret Farley's Pistachio Nut Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Margaret Farley\"\n  },\n  \"description\": \"An easy and moist Bundt-style cake made with a white cake mix and pistachio pudding, featuring a chocolate syrup swirl for a marble effect.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT55M\",\n  \"totalTime\": \"PT1H10M\",\n  \"recipeYield\": \"1 10-inch tube cake\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 (18.5 ounce) package white cake mix\",\n    \"1 (3.5 ounce) package pistachio instant pudding mix\",\n    \"4 large eggs\",\n    \"1/2 cup salad oil\",\n    \"1/2 cup orange juice\",\n    \"1/2 cup water\",\n    \"1 teaspoon almond extract\",\n    \"3/4 cup chocolate syrup\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Margaret Farley's Pistachio Nut Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Margaret Farley"
+    },
+    "description": "An easy and moist Bundt-style cake made with a white cake mix and pistachio pudding, featuring a chocolate syrup swirl for a marble effect.",
+    "prepTime": "PT15M",
+    "cookTime": "PT55M",
+    "totalTime": "PT1H10M",
+    "recipeYield": "1 10-inch tube cake",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 (18.5 ounce) package white cake mix",
+      "1 (3.5 ounce) package pistachio instant pudding mix",
+      "4 large eggs",
+      "1/2 cup salad oil",
+      "1/2 cup orange juice",
+      "1/2 cup water",
+      "1 teaspoon almond extract",
+      "3/4 cup chocolate syrup"
+    ]
+  }
 ---
 
 # Margaret Farley's Pistachio Nut Cake

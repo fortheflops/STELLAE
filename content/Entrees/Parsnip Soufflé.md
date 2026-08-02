@@ -1,13 +1,44 @@
 ---
-title: "Parsnip Souffl\u00e9"
-category: "Entrees"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["souffle", "parsnips", "123", "vegetable", "baking"]
-description: "An elegant vintage parsnip souffl\u00e9 baked in a water bath until golden and set. This delicate side dish pairs wonderfully with roast beef."
-date: "2026-07-30"
+title: Parsnip Soufflé
+category: Entrees
+collection: Gail Collection
+source: Unknown
+tags:
+  - souffle
+  - parsnips
+  - vegetable
+  - baking
+description: An elegant vintage parsnip soufflé baked in a water bath until golden and set. This delicate side dish pairs wonderfully with roast beef.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Parsnip Souffl\u00e9\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"An elegant vintage parsnip souffl\u00e9 baked in a water bath until golden and set.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT45M\",\n  \"recipeYield\": \"6 Servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeIngredient\": [\n    \"1 Pound Parsnips\",\n    \"3 Tablespoons Butter\",\n    \"3 Tablespoons Flour\",\n    \"1/2 Teaspoon Salt\",\n    \"2/3 Cup Light Cream\",\n    \"1/3 Cup Reserved Parsnip Water\",\n    \"1/4 Teaspoon Sugar\",\n    \"1/8 Teaspoon Nutmeg\",\n    \"Pinch White Pepper\",\n    \"4 Egg Yolks\",\n    \"5 Egg Whites\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Parsnip Soufflé",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "An elegant vintage parsnip soufflé baked in a water bath until golden and set.",
+    "prepTime": "PT30M",
+    "cookTime": "PT45M",
+    "recipeYield": "6 Servings",
+    "recipeCategory": "Entrees",
+    "recipeIngredient": [
+      "1 Pound Parsnips",
+      "3 Tablespoons Butter",
+      "3 Tablespoons Flour",
+      "1/2 Teaspoon Salt",
+      "2/3 Cup Light Cream",
+      "1/3 Cup Reserved Parsnip Water",
+      "1/4 Teaspoon Sugar",
+      "1/8 Teaspoon Nutmeg",
+      "Pinch White Pepper",
+      "4 Egg Yolks",
+      "5 Egg Whites"
+    ]
+  }
 ---
 
 # Parsnip Soufflé

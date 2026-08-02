@@ -1,13 +1,18 @@
 ---
-title: "Caramel Apple Salad (Taffy Apple Salad)"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "salad", "potluck", "no-bake", "123", "fruit"]
-description: "A classic potluck favorite, this creamy and crunchy no-bake dessert salad combines fresh apples, pineapple, marshmallows, and nuts in a rich butterscotch pudding base. It is a nostalgic treat perfect for gatherings and easy to prepare ahead of time."
-date: "2026-07-30"
+title: Caramel Apple Salad (Taffy Apple Salad)
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - salad
+  - potluck
+  - no-bake
+  - fruit
+description: A classic potluck favorite, this creamy and crunchy no-bake dessert salad combines fresh apples, pineapple, marshmallows, and nuts in a rich butterscotch pudding base. It is a nostalgic treat perfect for gatherings and easy to prepare ahead of time.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Caramel Apple Salad (Taffy Apple Salad)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic potluck favorite, this creamy and crunchy no-bake dessert salad combines fresh apples, pineapple, marshmallows, and nuts in a rich butterscotch pudding base.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Caramel Apple Salad (Taffy Apple Salad)", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic potluck favorite, this creamy and crunchy no-bake dessert salad combines fresh apples, pineapple, marshmallows, and nuts in a rich butterscotch pudding base.", "prepTime": "PT10M", "cookTime": "PT0M", "recipeYield": "8-10 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Caramel Apple Salad (Taffy Apple Salad)

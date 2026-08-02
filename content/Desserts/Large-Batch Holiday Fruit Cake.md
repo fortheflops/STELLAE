@@ -1,13 +1,59 @@
 ---
-title: "Large-Batch Holiday Fruit Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "cake", "fruitcake", "holiday", "baking", "123", "largebatch"]
-description: "A traditional, large-batch fruit cake that makes 11 pounds of rich, moist, and spicy cake. The fruit is cooked with spices in apricot nectar and soaked overnight for incredible depth of flavor."
-date: "2026-07-30"
+title: Large-Batch Holiday Fruit Cake
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - fruitcake
+  - holiday
+  - baking
+  - largebatch
+description: A traditional, large-batch fruit cake that makes 11 pounds of rich, moist, and spicy cake. The fruit is cooked with spices in apricot nectar and soaked overnight for incredible depth of flavor.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Large-Batch Holiday Fruit Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"An 11-pound batch of traditional holiday fruitcake, where the fruits are cooked with spices and apricot nectar and soaked overnight for extra moisture and flavor.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Handwritten_2025-02-28_145503.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Handwritten_2025-02-28_145602%20(2).webp\"\n  ],\n  \"prepTime\": \"PT45M\",\n  \"cookTime\": \"PT3H30M\",\n  \"totalTime\": \"P1DT4H15M\",\n  \"recipeYield\": \"11 pounds (1 tube pan and 2 loaf pans)\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 1/2 cups golden raisins\",\n    \"1 1/2 cups dark raisins\",\n    \"2 cups chopped dates\",\n    \"6 cups mixed candied fruit\",\n    \"1 1/2 cups apricot nectar\",\n    \"2 teaspoons cinnamon\",\n    \"1 teaspoon allspice\",\n    \"1/2 teaspoon cloves\",\n    \"1 teaspoon nutmeg\",\n    \"2 cups butter, softened\",\n    \"2 cups sugar\",\n    \"10 large eggs\",\n    \"6 cups all-purpose flour\",\n    \"2 teaspoons salt\",\n    \"1/2 teaspoon baking soda\",\n    \"2 tablespoons vanilla\",\n    \"2 cups nuts\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Large-Batch Holiday Fruit Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-05",
+    "description": "An 11-pound batch of traditional holiday fruitcake, where the fruits are cooked with spices and apricot nectar and soaked overnight for extra moisture and flavor.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Handwritten_2025-02-28_145503.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Handwritten_2025-02-28_145602%20(2).webp"
+    ],
+    "prepTime": "PT45M",
+    "cookTime": "PT3H30M",
+    "totalTime": "P1DT4H15M",
+    "recipeYield": "11 pounds (1 tube pan and 2 loaf pans)",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 1/2 cups golden raisins",
+      "1 1/2 cups dark raisins",
+      "2 cups chopped dates",
+      "6 cups mixed candied fruit",
+      "1 1/2 cups apricot nectar",
+      "2 teaspoons cinnamon",
+      "1 teaspoon allspice",
+      "1/2 teaspoon cloves",
+      "1 teaspoon nutmeg",
+      "2 cups butter, softened",
+      "2 cups sugar",
+      "10 large eggs",
+      "6 cups all-purpose flour",
+      "2 teaspoons salt",
+      "1/2 teaspoon baking soda",
+      "2 tablespoons vanilla",
+      "2 cups nuts"
+    ]
+  }
 ---
 
 # Large-Batch Holiday Fruit Cake

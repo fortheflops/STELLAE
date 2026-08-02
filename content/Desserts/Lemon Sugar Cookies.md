@@ -1,13 +1,17 @@
 ---
-title: "Lemon Sugar Cookies"
-category: "Desserts"
-collection: "LOC"
-source: "Unknown"
-tags: ["cookies", "lemon", "123", "dessert", "louisecollection"]
-description: "A classic recipe for soft, cake-like lemon sugar cookies. This simple drop cookie is flavored with fresh lemon rind and finished with a sprinkle of nutmeg for a warm, aromatic touch."
-date: "2026-07-30"
+title: Lemon Sugar Cookies
+category: Desserts
+collection: LOC
+source: Unknown
+tags:
+  - cookies
+  - lemon
+  - dessert
+  - louisecollection
+description: A classic recipe for soft, cake-like lemon sugar cookies. This simple drop cookie is flavored with fresh lemon rind and finished with a sprinkle of nutmeg for a warm, aromatic touch.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Lemon Sugar Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic recipe for soft, cake-like lemon sugar cookies.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"48 cookies\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Lemon Sugar Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic recipe for soft, cake-like lemon sugar cookies.", "prepTime": "PT15M", "cookTime": "PT10M", "recipeYield": "48 cookies", "recipeCategory": "Dessert"}'
 ---
 
 # Lemon Sugar Cookies

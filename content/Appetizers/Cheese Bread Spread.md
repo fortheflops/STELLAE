@@ -1,13 +1,47 @@
 ---
-title: "Cheese Bread Spread"
-category: "Appetizers"
-collection: "UK3"
-source: "Unknown"
-tags: ["spread", "cheese", "appetizer", "123", "quick"]
-description: "A deliciously simple vintage cheese and margarine spread that melts to perfection on toasted bread. Quick to prepare for unexpected guests or a cozy snack."
-date: "2026-07-30"
+title: Cheese Bread Spread
+category: Appetizers
+collection: UK3
+source: Unknown
+tags:
+  - spread
+  - cheese
+  - appetizer
+  - quick
+description: A deliciously simple vintage cheese and margarine spread that melts to perfection on toasted bread. Quick to prepare for unexpected guests or a cozy snack.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Cheese Bread Spread\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-03-12\",\n  \"description\": \"A deliciously simple vintage cheese and margarine spread that melts to perfection on toasted bread.\",\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT5M\",\n  \"recipeCategory\": \"Appetizers\",\n  \"recipeYield\": \"6-8 Servings\",\n  \"recipeIngredient\": [\n    \"1 Jar Sharp Cheddar Cheese\",\n    \"1 Stick Margarine\",\n    \"1 Teaspoon Mustard\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Blend together the sharp cheddar cheese, margarine, and mustard until smooth. Spread mixture on bread squares or french bread.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Warm in oven until bubbly and melted.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Cheese Bread Spread",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-03-12",
+    "description": "A deliciously simple vintage cheese and margarine spread that melts to perfection on toasted bread.",
+    "prepTime": "PT10M",
+    "cookTime": "PT5M",
+    "recipeCategory": "Appetizers",
+    "recipeYield": "6-8 Servings",
+    "recipeIngredient": [
+      "1 Jar Sharp Cheddar Cheese",
+      "1 Stick Margarine",
+      "1 Teaspoon Mustard"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Blend together the sharp cheddar cheese, margarine, and mustard until smooth. Spread mixture on bread squares or french bread."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Warm in oven until bubbly and melted."
+      }
+    ]
+  }
 ---
 
 # Cheese Bread Spread

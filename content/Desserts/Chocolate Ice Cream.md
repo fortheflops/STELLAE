@@ -1,13 +1,18 @@
 ---
-title: "Chocolate Ice Cream"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["chocolate", "icecream", "nodessert", "frozen", "easy", "123"]
-description: "A simple, three-ingredient no-cook chocolate ice cream that delivers a rich, creamy texture. This classic recipe is perfect for quick preparation using a standard ice cream maker."
-date: "2026-07-30"
+title: Chocolate Ice Cream
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - chocolate
+  - icecream
+  - nodessert
+  - frozen
+  - easy
+description: A simple, three-ingredient no-cook chocolate ice cream that delivers a rich, creamy texture. This classic recipe is perfect for quick preparation using a standard ice cream maker.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Chocolate Ice Cream\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"An incredibly easy, 3-ingredient no-cook chocolate ice cream made with chocolate milk, whipped topping, and condensed milk.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT25M\", \"recipeYield\": \"1 Gallon\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 Gallon chocolate milk\", \"1 carton (9-12 oz) refrigerated whipped cream topping\", \"1 can sweetened condensed milk\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Chocolate Ice Cream", "author": {"@type": "Person", "name": "Unknown"}, "description": "An incredibly easy, 3-ingredient no-cook chocolate ice cream made with chocolate milk, whipped topping, and condensed milk.", "prepTime": "PT5M", "cookTime": "PT25M", "recipeYield": "1 Gallon", "recipeCategory": "Dessert", "recipeIngredient": ["1/2 Gallon chocolate milk", "1 carton (9-12 oz) refrigerated whipped cream topping", "1 can sweetened condensed milk"]}'
 ---
 
 # Chocolate Ice Cream

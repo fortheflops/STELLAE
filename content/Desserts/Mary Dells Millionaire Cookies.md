@@ -1,11 +1,15 @@
 ---
-title: "Mary Dell's Millionaire Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Mary Dell"
-tags: ["cookies", "123", "fruitcake", "holiday", "largebatch"]
-description: "A classic, large-batch recipe for rich, dense, fruitcake-style drop cookies loaded with pecans, cherries, raisins, and a hint of whiskey. These spiced cookies are perfect for holiday gifting and large gatherings."
-date: "2026-07-30"
+title: Mary Dell's Millionaire Cookies
+category: Desserts
+collection: UK2
+source: Mary Dell
+tags:
+  - cookies
+  - fruitcake
+  - holiday
+  - largebatch
+description: A classic, large-batch recipe for rich, dense, fruitcake-style drop cookies loaded with pecans, cherries, raisins, and a hint of whiskey. These spiced cookies are perfect for holiday gifting and large gatherings.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Mary Dell's Millionaire Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Mary Dell\"}, \"prepTime\": \"PT25M\", \"cookTime\": \"PT12M\", \"recipeYield\": \"100 cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 cup butter\", \"2 cups brown sugar\", \"3 eggs\", \"3 tablespoons whiskey\", \"1 teaspoon vanilla\", \"2 1/2 cups flour\", \"1 teaspoon baking soda\", \"1 teaspoon baking powder\", \"3/4 cup buttermilk\", \"4 cups pecans\", \"1 cup candied cherries\", \"15 ounces golden seedless raisins\"]}"
 ---

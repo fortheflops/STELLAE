@@ -1,13 +1,19 @@
 ---
-title: "Muesli"
-category: "Breakfast"
-collection: "Gail Collection"
-source: "New Age Health Foods + Granery"
-tags: ["breakfast", "cereal", "grains", "nuts", "healthy", "123", "gailcollection"]
-description: "A wholesome, fiber-rich traditional muesli blend featuring an assortment of rolled grains, crunchy nuts, and sweet dried fruits. Perfect for serving with cold milk or creamy yogurt for a hearty breakfast."
-date: "2026-07-30"
+title: Muesli
+category: Breakfast
+collection: Gail Collection
+source: New Age Health Foods + Granery
+tags:
+  - breakfast
+  - cereal
+  - grains
+  - nuts
+  - healthy
+  - gailcollection
+description: A wholesome, fiber-rich traditional muesli blend featuring an assortment of rolled grains, crunchy nuts, and sweet dried fruits. Perfect for serving with cold milk or creamy yogurt for a hearty breakfast.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Muesli\",\"author\":{\"@type\":\"Organization\",\"name\":\"New Age Health Foods + Granery\"},\"description\":\"A wholesome, fiber-rich traditional muesli blend featuring an assortment of rolled grains, crunchy nuts, and sweet dried fruits.\",\"prepTime\":\"PT15M\",\"recipeYield\":\"20 servings\",\"recipeCategory\":\"Breakfast\",\"recipeIngredient\":[\"1/2 Pound Rolled Oats\",\"1/2 Pound Rye Flakes\",\"1/2 Pound Wheat Flakes\",\"1/2 Pound Unroasted Wheatgerm\",\"1 Pound Honey-Almond Crunch\",\"10 Ounces Sliced Almonds\",\"1/2 Pound Unsalted Cashews\",\"1/2 Pound Shelled Walnuts\",\"2 Pounds Raisins\",\"1/4 Pound Brown Sugar\",\"1 to 1 1/2 Pounds Millet\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In a very large bowl or container, combine all the dry ingredients and mix thoroughly until evenly distributed.\"},{\"@type\":\"HowToStep\",\"text\":\"Store in an airtight container and serve as a cold cereal with milk or yogurt.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Muesli","author":{"@type":"Organization","name":"New Age Health Foods + Granery"},"description":"A wholesome, fiber-rich traditional muesli blend featuring an assortment of rolled grains, crunchy nuts, and sweet dried fruits.","prepTime":"PT15M","recipeYield":"20 servings","recipeCategory":"Breakfast","recipeIngredient":["1/2 Pound Rolled Oats","1/2 Pound Rye Flakes","1/2 Pound Wheat Flakes","1/2 Pound Unroasted Wheatgerm","1 Pound Honey-Almond Crunch","10 Ounces Sliced Almonds","1/2 Pound Unsalted Cashews","1/2 Pound Shelled Walnuts","2 Pounds Raisins","1/4 Pound Brown Sugar","1 to 1 1/2 Pounds Millet"],"recipeInstructions":[{"@type":"HowToStep","text":"In a very large bowl or container, combine all the dry ingredients and mix thoroughly until evenly distributed."},{"@type":"HowToStep","text":"Store in an airtight container and serve as a cold cereal with milk or yogurt."}]}'
 ---
 
 # Muesli

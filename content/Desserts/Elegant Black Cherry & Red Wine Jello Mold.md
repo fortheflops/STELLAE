@@ -1,13 +1,18 @@
 ---
-title: "Elegant Black Cherry & Red Wine Jello Mold"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["dessert", "123", "jello", "cherries", "wine", "mold"]
-description: "A sophisticated congealed dessert featuring dark sweet cherries suspended in a rich, red wine-infused cherry gelatin. This elegant mold is best served chilled with a dollop of creamy dressing."
-date: "2026-07-30"
+title: Elegant Black Cherry & Red Wine Jello Mold
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - dessert
+  - jello
+  - cherries
+  - wine
+  - mold
+description: A sophisticated congealed dessert featuring dark sweet cherries suspended in a rich, red wine-infused cherry gelatin. This elegant mold is best served chilled with a dollop of creamy dressing.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Elegant Black Cherry & Red Wine Jello Mold\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A sophisticated congealed dessert featuring dark sweet cherries suspended in a rich, red wine-infused cherry gelatin.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT5M\", \"totalTime\": \"PT4H25M\", \"recipeYield\": \"8 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"2 (1-pound) cans dark sweet cherries, pitted\", \"2 (3-ounce) pkgs. Cherry flavored gelatin\", \"1 Cup red wine\", \"Water\", \"Sliced almonds\", \"Sour cream dressing\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Elegant Black Cherry & Red Wine Jello Mold", "author": {"@type": "Person", "name": "Unknown"}, "description": "A sophisticated congealed dessert featuring dark sweet cherries suspended in a rich, red wine-infused cherry gelatin.", "prepTime": "PT20M", "cookTime": "PT5M", "totalTime": "PT4H25M", "recipeYield": "8 servings", "recipeCategory": "Dessert", "recipeIngredient": ["2 (1-pound) cans dark sweet cherries, pitted", "2 (3-ounce) pkgs. Cherry flavored gelatin", "1 Cup red wine", "Water", "Sliced almonds", "Sour cream dressing"]}'
 ---
 
 # Elegant Black Cherry & Red Wine Jello Mold

@@ -1,13 +1,17 @@
 ---
-title: "Strawberry Ice"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["sorbet", "strawberry", "frozen", "dessert", "123"]
-description: "A classic homemade strawberry sorbet stabilized with gelatin for an incredibly smooth, refreshing texture. This vintage recipe yields a quart of vibrant, fruit-forward frozen dessert."
-date: "2026-07-30"
+title: Strawberry Ice
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - sorbet
+  - strawberry
+  - frozen
+  - dessert
+description: A classic homemade strawberry sorbet stabilized with gelatin for an incredibly smooth, refreshing texture. This vintage recipe yields a quart of vibrant, fruit-forward frozen dessert.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Strawberry Ice\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic homemade strawberry sorbet stabilized with gelatin for an incredibly smooth, refreshing texture.\", \"prepTime\": \"PT25M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"1 Quart\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"3 baskets fresh strawberries\", \"1 envelope unflavored gelatin\", \"Juice of 1 to 2 lemons\", \"1/4 cup sugar\", \"1/2 cup plus 2 tablespoons water\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Strawberry Ice", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic homemade strawberry sorbet stabilized with gelatin for an incredibly smooth, refreshing texture.", "prepTime": "PT25M", "cookTime": "PT5M", "recipeYield": "1 Quart", "recipeCategory": "Dessert", "recipeIngredient": ["3 baskets fresh strawberries", "1 envelope unflavored gelatin", "Juice of 1 to 2 lemons", "1/4 cup sugar", "1/2 cup plus 2 tablespoons water"]}'
 ---
 
 # Strawberry Ice

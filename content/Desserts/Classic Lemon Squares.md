@@ -1,13 +1,18 @@
 ---
-title: "Classic Lemon Squares"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "lemon", "bars", "123", "shortbread", "citrus"]
-description: "A classic recipe for sweet and tangy lemon squares featuring a buttery shortbread crust and a rich, gooey lemon custard filling. These bars are baked to perfection for a delightful treat."
-date: "2026-07-30"
+title: Classic Lemon Squares
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - lemon
+  - bars
+  - shortbread
+  - citrus
+description: A classic recipe for sweet and tangy lemon squares featuring a buttery shortbread crust and a rich, gooey lemon custard filling. These bars are baked to perfection for a delightful treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Lemon Squares\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT45M\", \"recipeYield\": \"24 squares\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 cup all-purpose flour\", \"1/2 cup cold butter\", \"1/4 cup powdered sugar\", \"1 cup granulated sugar\", \"2 large eggs\", \"2 tablespoons all-purpose flour\", \"1/2 teaspoon baking powder\", \"2 tablespoons lemon juice\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Lemon Squares", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT15M", "cookTime": "PT45M", "recipeYield": "24 squares", "recipeCategory": "Dessert", "recipeIngredient": ["1 cup all-purpose flour", "1/2 cup cold butter", "1/4 cup powdered sugar", "1 cup granulated sugar", "2 large eggs", "2 tablespoons all-purpose flour", "1/2 teaspoon baking powder", "2 tablespoons lemon juice"]}'
 ---
 
 # Classic Lemon Squares

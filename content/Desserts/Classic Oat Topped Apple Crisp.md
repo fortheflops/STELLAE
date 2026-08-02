@@ -1,13 +1,18 @@
 ---
-title: "Classic Oat Topped Apple Crisp"
-category: "Desserts"
-collection: "PatsyCollection"
-source: "Unknown"
-tags: ["dessert", "apple", "crisp", "123", "oats", "comfortfood"]
-description: "A traditional apple crisp featuring a tender, cinnamon-spiced apple filling and a unique, buttery oat crust on the bottom. This classic recipe delivers a perfect balance of sweet fruit and crunchy, crumbly topping."
-date: "2026-07-30"
+title: Classic Oat Topped Apple Crisp
+category: Desserts
+collection: PatsyCollection
+source: Unknown
+tags:
+  - dessert
+  - apple
+  - crisp
+  - oats
+  - comfortfood
+description: A traditional apple crisp featuring a tender, cinnamon-spiced apple filling and a unique, buttery oat crust on the bottom. This classic recipe delivers a perfect balance of sweet fruit and crunchy, crumbly topping.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Oat Topped Apple Crisp\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"4-6 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Oat Topped Apple Crisp", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT15M", "cookTime": "PT30M", "recipeYield": "4-6 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Classic Oat Topped Apple Crisp

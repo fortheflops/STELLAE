@@ -1,13 +1,48 @@
 ---
-title: "Classic Cooked Chocolate Cream Pie"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["chocolate", "pie", "dessert", "123", "stovetop"]
-description: "A traditional, from-scratch chocolate cream pie featuring a rich, stovetop-cooked pudding filling made with unsweetened chocolate and egg yolks. Chilled overnight, this vintage dessert delivers a decadent and smooth texture in a flaky crust."
-date: "2026-07-30"
+title: Classic Cooked Chocolate Cream Pie
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - chocolate
+  - pie
+  - dessert
+  - stovetop
+description: A traditional, from-scratch chocolate cream pie featuring a rich, stovetop-cooked pudding filling made with unsweetened chocolate and egg yolks. Chilled overnight, this vintage dessert delivers a decadent and smooth texture in a flaky crust.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Classic Cooked Chocolate Cream Pie\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-13\",\n  \"description\": \"A traditional, from-scratch chocolate cream pie with a rich, stovetop-cooked pudding filling made with unsweetened chocolate, cornstarch, and egg yolks for a perfect texture.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Chocolate%20Pie/Assets/Handwritten_2025-04-19_173108.webp\"\n  ],\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT15M\",\n  \"totalTime\": \"PT8H30M\",\n  \"recipeYield\": \"One 9-inch pie\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 (9-inch) Pre-baked Pie Shell\",\n    \"1/4 cup Cornstarch\",\n    \"1/2 cup Sugar\",\n    \"1/4 teaspoon Salt\",\n    \"2 cups Milk\",\n    \"1 1/2 (1 oz) squares Unsweetened Chocolate\",\n    \"3 Egg Yolks\",\n    \"2 tablespoons Butter or Margarine\",\n    \"1/2 - 1 tsp Vanilla\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Classic Cooked Chocolate Cream Pie",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-13",
+    "description": "A traditional, from-scratch chocolate cream pie with a rich, stovetop-cooked pudding filling made with unsweetened chocolate, cornstarch, and egg yolks for a perfect texture.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Pastries/Pie/Chocolate%20Pie/Assets/Handwritten_2025-04-19_173108.webp"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT8H30M",
+    "recipeYield": "One 9-inch pie",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 (9-inch) Pre-baked Pie Shell",
+      "1/4 cup Cornstarch",
+      "1/2 cup Sugar",
+      "1/4 teaspoon Salt",
+      "2 cups Milk",
+      "1 1/2 (1 oz) squares Unsweetened Chocolate",
+      "3 Egg Yolks",
+      "2 tablespoons Butter or Margarine",
+      "1/2 - 1 tsp Vanilla"
+    ]
+  }
 ---
 
 # Classic Cooked Chocolate Cream Pie

@@ -1,13 +1,78 @@
 ---
-title: "Nona Shankers' Persimmon Cake"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Nona Shankers"
-tags: ["dessert", "cake", "persimmon", "123", "fruitcake", "gailcollection"]
-description: "A wonderfully moist, pudding-like cake packed with two cups of sweet persimmon pulp, warm spices, raisins, and nuts. This simple one-bowl vintage recipe yields a rich tube cake that tastes even better the next day."
-date: "2026-07-30"
+title: Nona Shankers' Persimmon Cake
+category: Desserts
+collection: Gail Collection
+source: Nona Shankers
+tags:
+  - dessert
+  - cake
+  - persimmon
+  - fruitcake
+  - gailcollection
+description: A wonderfully moist, pudding-like cake packed with two cups of sweet persimmon pulp, warm spices, raisins, and nuts. This simple one-bowl vintage recipe yields a rich tube cake that tastes even better the next day.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Nona Shankers' Persimmon Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Nona Shankers\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A simple and very moist one-bowl persimmon cake, similar in texture to a steamed pudding, filled with raisins and nuts.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Persimmons/Assets/Handwritten_2025-06-01_101415.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Persimmons/Assets/Handwritten_2025-06-01_101549%20(2).webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H\",\n  \"totalTime\": \"PT1H20M\",\n  \"recipeYield\": \"1 tube cake (12-16 servings)\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 cups all-purpose flour\",\n    \"2 cups sugar\",\n    \"3 1/2 teaspoons baking soda\",\n    \"2 teaspoons cinnamon\",\n    \"2 large eggs, beaten\",\n    \"2 cups persimmon pulp\",\n    \"1 cup milk\",\n    \"1 teaspoon lemon juice\",\n    \"1 teaspoon vanilla extract\",\n    \"1 cup raisins\",\n    \"1 cup chopped nuts\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F. Lightly grease a tube or Bundt pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, whisk together the dry ingredients: flour, sugar, baking soda, and cinnamon.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate medium bowl, combine the wet ingredients: beaten eggs, persimmon pulp, milk, lemon juice, and vanilla.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the wet ingredients into the dry ingredients and stir until just combined. Fold in the raisins and nuts.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the batter into the prepared pan and bake for 1 hour, or until a long skewer inserted into the center comes out clean.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Let the cake cool in the pan completely, as it will be very moist. The flavor improves the next day.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Nona Shankers' Persimmon Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Nona Shankers"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A simple and very moist one-bowl persimmon cake, similar in texture to a steamed pudding, filled with raisins and nuts.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Persimmons/Assets/Handwritten_2025-06-01_101415.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Persimmons/Assets/Handwritten_2025-06-01_101549%20(2).webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT1H",
+    "totalTime": "PT1H20M",
+    "recipeYield": "1 tube cake (12-16 servings)",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 cups all-purpose flour",
+      "2 cups sugar",
+      "3 1/2 teaspoons baking soda",
+      "2 teaspoons cinnamon",
+      "2 large eggs, beaten",
+      "2 cups persimmon pulp",
+      "1 cup milk",
+      "1 teaspoon lemon juice",
+      "1 teaspoon vanilla extract",
+      "1 cup raisins",
+      "1 cup chopped nuts"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F. Lightly grease a tube or Bundt pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, whisk together the dry ingredients: flour, sugar, baking soda, and cinnamon."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate medium bowl, combine the wet ingredients: beaten eggs, persimmon pulp, milk, lemon juice, and vanilla."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the wet ingredients into the dry ingredients and stir until just combined. Fold in the raisins and nuts."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter into the prepared pan and bake for 1 hour, or until a long skewer inserted into the center comes out clean."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the cake cool in the pan completely, as it will be very moist. The flavor improves the next day."
+      }
+    ]
+  }
 ---
 
 # Nona Shankers' Persimmon Cake

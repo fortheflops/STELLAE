@@ -1,13 +1,49 @@
 ---
-title: "Coconut Cream Cheese Pound Cake"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["dessert", "cake", "poundcake", "coconut", "creamcheese", "123", "baking"]
-description: "An incredibly rich and moist pound cake, made tender with cream cheese and packed with tropical coconut flavor. This dense, buttery dessert is a true classic."
-date: "2026-07-30"
+title: Coconut Cream Cheese Pound Cake
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - poundcake
+  - coconut
+  - creamcheese
+  - baking
+description: An incredibly rich and moist pound cake, made tender with cream cheese and packed with tropical coconut flavor. This dense, buttery dessert is a true classic.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Coconut Cream Cheese Pound Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A classic, dense pound cake made incredibly moist and rich with the addition of cream cheese, shortening, and coconut.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H15M\",\n  \"totalTime\": \"PT1H35M\",\n  \"recipeYield\": \"1 10-inch tube cake\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1/2 cup butter, softened\",\n    \"1/2 cup shortening\",\n    \"1 (8-ounce) package cream cheese, softened\",\n    \"3 cups sugar\",\n    \"6 large eggs\",\n    \"3 cups all-purpose flour\",\n    \"1/4 teaspoon baking soda\",\n    \"1/4 teaspoon salt\",\n    \"1 (6-ounce) package frozen coconut, thawed\",\n    \"1 teaspoon vanilla extract\",\n    \"1 teaspoon coconut extract\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Coconut Cream Cheese Pound Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A classic, dense pound cake made incredibly moist and rich with the addition of cream cheese, shortening, and coconut.",
+    "prepTime": "PT20M",
+    "cookTime": "PT1H15M",
+    "totalTime": "PT1H35M",
+    "recipeYield": "1 10-inch tube cake",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1/2 cup butter, softened",
+      "1/2 cup shortening",
+      "1 (8-ounce) package cream cheese, softened",
+      "3 cups sugar",
+      "6 large eggs",
+      "3 cups all-purpose flour",
+      "1/4 teaspoon baking soda",
+      "1/4 teaspoon salt",
+      "1 (6-ounce) package frozen coconut, thawed",
+      "1 teaspoon vanilla extract",
+      "1 teaspoon coconut extract"
+    ]
+  }
 ---
 
 # Coconut Cream Cheese Pound Cake

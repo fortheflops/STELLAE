@@ -1,13 +1,18 @@
 ---
-title: "Creamy Pineapple Lime Jello Salad"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["jello", "123", "salad", "dessert", "creamy", "retro"]
-description: "A classic molded Jello salad featuring the tangy combination of lime Jello and cream cheese, packed with crushed pineapple, crunchy pecans, and diced celery. This vintage recipe offers a delightful contrast of textures and flavors perfect for festive gatherings."
-date: "2026-07-30"
+title: Creamy Pineapple Lime Jello Salad
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - jello
+  - salad
+  - dessert
+  - creamy
+  - retro
+description: A classic molded Jello salad featuring the tangy combination of lime Jello and cream cheese, packed with crushed pineapple, crunchy pecans, and diced celery. This vintage recipe offers a delightful contrast of textures and flavors perfect for festive gatherings.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Creamy Pineapple Lime Jello Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic molded Jello salad featuring the tangy combination of lime Jello and cream cheese, packed with crushed pineapple, crunchy pecans, and diced celery.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT5M\", \"totalTime\": \"PT25M\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 package (3 oz) Lime Jello\", \"2 small packages (6 oz total) cream cheese, softened\", \"1/2 pint (1 cup) coffee cream or half-and-half\", \"1 #2 can (20 oz) crushed pineapple\", \"1 cup chopped pecans\", \"1 cup diced celery\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Creamy Pineapple Lime Jello Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic molded Jello salad featuring the tangy combination of lime Jello and cream cheese, packed with crushed pineapple, crunchy pecans, and diced celery.", "prepTime": "PT20M", "cookTime": "PT5M", "totalTime": "PT25M", "recipeYield": "8-10 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 package (3 oz) Lime Jello", "2 small packages (6 oz total) cream cheese, softened", "1/2 pint (1 cup) coffee cream or half-and-half", "1 #2 can (20 oz) crushed pineapple", "1 cup chopped pecans", "1 cup diced celery"]}'
 ---
 
 # Creamy Pineapple Lime Jello Salad

@@ -1,13 +1,19 @@
 ---
-title: "Artichokes and Chicken a la Cream"
-category: "Entrees"
-collection: "GailCollection"
-source: "Gail Babineau"
-tags: ["chicken", "artichokes", "cream", "french", "dinner", "123", "entree"]
-description: "A rich and elegant vintage entree featuring tender chicken breasts and fresh artichokes simmered in a creamy white wine sauce seasoned with curry and lemon. Perfect for serving over rice with a crisp Riesling."
-date: "2026-07-30"
+title: Artichokes and Chicken a la Cream
+category: Entrees
+collection: GailCollection
+source: Gail Babineau
+tags:
+  - chicken
+  - artichokes
+  - cream
+  - french
+  - dinner
+  - entree
+description: A rich and elegant vintage entree featuring tender chicken breasts and fresh artichokes simmered in a creamy white wine sauce seasoned with curry and lemon. Perfect for serving over rice with a crisp Riesling.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Artichokes and Chicken a la Cream\",\"image\":[\"Assets/2025-05-22_115313.webp\"],\"author\":{\"@type\":\"Person\",\"name\":\"Gail Babineau\"},\"description\":\"A rich and elegant vintage entree featuring tender chicken breasts and fresh artichokes simmered in a creamy white wine sauce seasoned with curry and lemon.\",\"prepTime\":\"PT25M\",\"cookTime\":\"PT55M\",\"totalTime\":\"PT80M\",\"recipeYield\":\"4 Servings\",\"recipeCategory\":\"Entrees\",\"recipeIngredient\":[\"3 Tablespoons Butter\",\"1 1/2 cups Thinly Sliced Onions\",\"2 large Chicken Breasts\",\"3/4 teaspoon Salt\",\"1/4 teaspoon White Pepper\",\"1/4 teaspoon Curry Powder\",\"4 medium Artichokes\",\"3 Tablespoons Lemon Juice\",\"3/4 cup White Table Wine\",\"3 cups Cream\",\"Fresh Parsley\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Melt butter in a large skillet or Dutch oven over medium-low heat. Add onions, stir, cover, and cook over low heat for 5 minutes, or until tender.\"},{\"@type\":\"HowToStep\",\"text\":\"Add the chicken pieces to the skillet and turn to coat them with butter, cover and cook for 10 minutes, then add salt, white pepper, and curry powder.\"},{\"@type\":\"HowToStep\",\"text\":\"Prepare artichokes by washing, trimming, quartering, removing chokes, and rubbing with lemon juice. Add to the skillet.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour in white table wine, boil until reduced, add hot cream, cover, and simmer gently for 35-45 minutes until tender.\"},{\"@type\":\"HowToStep\",\"text\":\"Transfer chicken and artichokes to a platter, enrich sauce with remaining lemon juice and cream, pour over chicken, and garnish with parsley.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Artichokes and Chicken a la Cream","image":["Assets/2025-05-22_115313.webp"],"author":{"@type":"Person","name":"Gail Babineau"},"description":"A rich and elegant vintage entree featuring tender chicken breasts and fresh artichokes simmered in a creamy white wine sauce seasoned with curry and lemon.","prepTime":"PT25M","cookTime":"PT55M","totalTime":"PT80M","recipeYield":"4 Servings","recipeCategory":"Entrees","recipeIngredient":["3 Tablespoons Butter","1 1/2 cups Thinly Sliced Onions","2 large Chicken Breasts","3/4 teaspoon Salt","1/4 teaspoon White Pepper","1/4 teaspoon Curry Powder","4 medium Artichokes","3 Tablespoons Lemon Juice","3/4 cup White Table Wine","3 cups Cream","Fresh Parsley"],"recipeInstructions":[{"@type":"HowToStep","text":"Melt butter in a large skillet or Dutch oven over medium-low heat. Add onions, stir, cover, and cook over low heat for 5 minutes, or until tender."},{"@type":"HowToStep","text":"Add the chicken pieces to the skillet and turn to coat them with butter, cover and cook for 10 minutes, then add salt, white pepper, and curry powder."},{"@type":"HowToStep","text":"Prepare artichokes by washing, trimming, quartering, removing chokes, and rubbing with lemon juice. Add to the skillet."},{"@type":"HowToStep","text":"Pour in white table wine, boil until reduced, add hot cream, cover, and simmer gently for 35-45 minutes until tender."},{"@type":"HowToStep","text":"Transfer chicken and artichokes to a platter, enrich sauce with remaining lemon juice and cream, pour over chicken, and garnish with parsley."}]}'
 ---
 
 # Artichokes and Chicken a la Cream

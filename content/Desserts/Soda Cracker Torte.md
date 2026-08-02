@@ -1,13 +1,71 @@
 ---
-title: "Soda Cracker Torte"
-category: "Desserts"
-collection: "GC"
-source: "Unknown"
-tags: ["dessert", "torte", "123", "flourless", "baking"]
-description: "A classic, vintage torte with a unique, chewy texture and rich nutty flavor. This flourless dessert gets its structure from crushed soda crackers and beaten egg whites."
-date: "2026-07-30"
+title: Soda Cracker Torte
+category: Desserts
+collection: GC
+source: Unknown
+tags:
+  - dessert
+  - torte
+  - flourless
+  - baking
+description: A classic, vintage torte with a unique, chewy texture and rich nutty flavor. This flourless dessert gets its structure from crushed soda crackers and beaten egg whites.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Soda Cracker Torte\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-06\",\n  \"description\": \"A unique, flourless torte with a chewy, meringue-like texture, made from crushed soda crackers, nuts, and beaten egg whites.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Torte/Assets/Handwritten_2025-06-10_165349.webp\"\n  ],\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT30M\",\n  \"totalTime\": \"PT45M\",\n  \"recipeYield\": \"1 9-inch torte (8 servings)\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"3 large eggs, separated\",\n    \"1 cup sugar\",\n    \"3/4 cup finely crushed soda crackers (about 18-20 crackers)\",\n    \"3/4 cup chopped nuts (e.g., walnuts, pecans)\",\n    \"1/2 teaspoon baking powder\",\n    \"Dash of salt\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F. Grease a 9-inch pie plate or cake pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a medium bowl, beat the 3 egg yolks. Stir in the sugar, crushed soda crackers, chopped nuts, baking powder, and salt until well combined.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate, clean bowl, beat the 3 egg whites until stiff peaks form.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Gently fold the beaten egg whites into the yolk mixture in three additions until no white streaks remain.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the batter into the prepared pan and bake for 30 minutes until golden brown and puffed.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Let the torte cool completely. Serve topped with whipped cream, fruit, or jam.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Soda Cracker Torte",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-06",
+    "description": "A unique, flourless torte with a chewy, meringue-like texture, made from crushed soda crackers, nuts, and beaten egg whites.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Torte/Assets/Handwritten_2025-06-10_165349.webp"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "recipeYield": "1 9-inch torte (8 servings)",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "3 large eggs, separated",
+      "1 cup sugar",
+      "3/4 cup finely crushed soda crackers (about 18-20 crackers)",
+      "3/4 cup chopped nuts (e.g., walnuts, pecans)",
+      "1/2 teaspoon baking powder",
+      "Dash of salt"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F. Grease a 9-inch pie plate or cake pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a medium bowl, beat the 3 egg yolks. Stir in the sugar, crushed soda crackers, chopped nuts, baking powder, and salt until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate, clean bowl, beat the 3 egg whites until stiff peaks form."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently fold the beaten egg whites into the yolk mixture in three additions until no white streaks remain."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter into the prepared pan and bake for 30 minutes until golden brown and puffed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the torte cool completely. Serve topped with whipped cream, fruit, or jam."
+      }
+    ]
+  }
 ---
 
 # Soda Cracker Torte

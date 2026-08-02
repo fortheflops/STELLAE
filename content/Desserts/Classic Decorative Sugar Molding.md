@@ -1,13 +1,17 @@
 ---
-title: "Classic Decorative Sugar Molding"
-category: "Desserts"
-collection: "Louise Collection"
-source: "Unknown"
-tags: ["sugarmolding", "confection", "123", "louisecollection", "decorations"]
-description: "A classic recipe and technique for creating beautiful, hollow molded sugar shapes. This method uses a simple sugar and egg white mixture, perfect for making panoramic Easter eggs or other delicate decorations."
-date: "2026-07-30"
+title: Classic Decorative Sugar Molding
+category: Desserts
+collection: Louise Collection
+source: Unknown
+tags:
+  - sugarmolding
+  - confection
+  - louisecollection
+  - decorations
+description: A classic recipe and technique for creating beautiful, hollow molded sugar shapes. This method uses a simple sugar and egg white mixture, perfect for making panoramic Easter eggs or other delicate decorations.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Decorative Sugar Molding\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic recipe and technique for creating beautiful, hollow molded sugar shapes.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"Varies\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"1 unbeaten Egg White\", \"1/2 Cup Powdered Sugar\", \"3 1/2 Cups Granulated Sugar\", \"Food Coloring (Optional)\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 200\u00b0F (95\u00b0C).\"}, {\"@type\": \"HowToStep\", \"text\": \"In a mixing bowl, combine the unbeaten egg white, powdered sugar, and granulated sugar. If using, add a few drops of food coloring.\"}, {\"@type\": \"HowToStep\", \"text\": \"Using your hands, knead the mixture until the egg white is evenly distributed. The final texture should be like damp sand, holding its shape when squeezed in your hand.\"}, {\"@type\": \"HowToStep\", \"text\": \"Firmly pack the damp sugar mixture into your desired mold, making sure to press it into all the details.\"}, {\"@type\": \"HowToStep\", \"text\": \"Level the back of the mold and place it flat-side down onto a baking sheet. Carefully lift the mold off, leaving the sugar shape on the sheet.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake for 5-10 minutes. The baking time determines the thickness of the hardened outer shell.\"}, {\"@type\": \"HowToStep\", \"text\": \"Carefully remove from the oven. Using a small spoon, gently scrape out the unhardened, wet sugar from the inside, leaving a hollow shell. This removed sugar can be reused.\"}, {\"@type\": \"HowToStep\", \"text\": \"Allow the hollow sugar shapes to air dry completely until they are hard and durable.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Decorative Sugar Molding", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic recipe and technique for creating beautiful, hollow molded sugar shapes.", "prepTime": "PT15M", "cookTime": "PT10M", "recipeYield": "Varies", "recipeCategory": "Desserts", "recipeIngredient": ["1 unbeaten Egg White", "1/2 Cup Powdered Sugar", "3 1/2 Cups Granulated Sugar", "Food Coloring (Optional)"], "recipeInstructions": [{"@type": "HowToStep", "text": "Preheat oven to 200°F (95°C)."}, {"@type": "HowToStep", "text": "In a mixing bowl, combine the unbeaten egg white, powdered sugar, and granulated sugar. If using, add a few drops of food coloring."}, {"@type": "HowToStep", "text": "Using your hands, knead the mixture until the egg white is evenly distributed. The final texture should be like damp sand, holding its shape when squeezed in your hand."}, {"@type": "HowToStep", "text": "Firmly pack the damp sugar mixture into your desired mold, making sure to press it into all the details."}, {"@type": "HowToStep", "text": "Level the back of the mold and place it flat-side down onto a baking sheet. Carefully lift the mold off, leaving the sugar shape on the sheet."}, {"@type": "HowToStep", "text": "Bake for 5-10 minutes. The baking time determines the thickness of the hardened outer shell."}, {"@type": "HowToStep", "text": "Carefully remove from the oven. Using a small spoon, gently scrape out the unhardened, wet sugar from the inside, leaving a hollow shell. This removed sugar can be reused."}, {"@type": "HowToStep", "text": "Allow the hollow sugar shapes to air dry completely until they are hard and durable."}]}'
 ---
 
 # Classic Decorative Sugar Molding

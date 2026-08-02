@@ -1,11 +1,15 @@
 ---
-title: "Ida's Sugar Crescents"
-category: "Desserts"
-collection: "JohnBCollection"
-source: "Ida"
-tags: ["cookies", "shortbread", "123", "nuts", "crescents"]
-description: "Delicate, melt-in-your-mouth crescent cookies featuring a buttery base and chopped nuts. These classic treats are baked until set and finished with a generous coating of powdered sugar while still warm."
-date: "2026-07-30"
+title: Ida's Sugar Crescents
+category: Desserts
+collection: JohnBCollection
+source: Ida
+tags:
+  - cookies
+  - shortbread
+  - nuts
+  - crescents
+description: Delicate, melt-in-your-mouth crescent cookies featuring a buttery base and chopped nuts. These classic treats are baked until set and finished with a generous coating of powdered sugar while still warm.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Ida's Sugar Crescents\", \"author\": {\"@type\": \"Person\", \"name\": \"Ida\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT20M\", \"recipeYield\": \"2 dozen\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 C Butter or Margarine\", \"3 T Powdered Sugar\", \"1 C Flour\", \"1 C Nuts\", \"Flavoring\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Cream butter and sugar, add flavoring, mix in flour, fold in nuts.\"}, {\"@type\": \"HowToStep\", \"text\": \"Shape into crescents, place on greased sheet, bake at 350F for 20 minutes, and roll in sugar while warm.\"}]}"
 ---

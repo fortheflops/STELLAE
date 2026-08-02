@@ -1,13 +1,57 @@
 ---
-title: "Wilma's Chili Relleno Casserole"
-category: "Entrees"
-collection: "PatsyCollection"
-source: "Wilma Lachmann"
-tags: ["casserole", "tex-mex", "cheesy", "123", "vegetarian"]
-description: "A classic, hearty Chili Relleno Casserole featuring layers of whole green chiles and two kinds of cheese, all baked in a light, fluffy egg souffl\u00e9 topping and finished with tomato sauce. This comforting Tex-Mex dish bakes up golden brown and bubbly."
-date: "2026-07-30"
+title: Wilma's Chili Relleno Casserole
+category: Entrees
+collection: PatsyCollection
+source: Wilma Lachmann
+tags:
+  - casserole
+  - tex-mex
+  - cheesy
+  - vegetarian
+description: A classic, hearty Chili Relleno Casserole featuring layers of whole green chiles and two kinds of cheese, all baked in a light, fluffy egg soufflé topping and finished with tomato sauce. This comforting Tex-Mex dish bakes up golden brown and bubbly.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Wilma's Chili Relleno Casserole\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Wilma Lachmann\"\n  },\n  \"datePublished\": \"2025-11-06\",\n  \"description\": \"A classic, hearty Chili Relleno Casserole from Wilma Lachmann. This dish features layers of whole green chiles and two kinds of cheese, all baked in a light, fluffy egg souffl\u00e9 topping and finished with tomato sauce.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Entrees/Casserole/Vegetable/Assets/Handwritten_2025-01-11_110903.webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H30M\",\n  \"totalTime\": \"PT1H50M\",\n  \"recipeYield\": \"8-10 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"Tex-Mex\",\n  \"recipeIngredient\": [\n    \"6 (3.5 oz) cans Whole Green Chiles\",\n    \"1 lb Tillamook or Longhorn Cheddar Cheese, grated\",\n    \"1 lb Monterey Jack Cheese, grated\",\n    \"4 Eggs, separated\",\n    \"1 (12 oz) can Evaporated Milk\",\n    \"2 (8 oz) cans Tomato Sauce\",\n    \"3 Tbsp Flour\",\n    \"Salt and Pepper to taste\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 325\u00b0F. Use an ungreased 9x13 inch casserole dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Layer ingredients and bake as directed.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Wilma's Chili Relleno Casserole",
+    "author": {
+      "@type": "Person",
+      "name": "Wilma Lachmann"
+    },
+    "datePublished": "2025-11-06",
+    "description": "A classic, hearty Chili Relleno Casserole from Wilma Lachmann. This dish features layers of whole green chiles and two kinds of cheese, all baked in a light, fluffy egg soufflé topping and finished with tomato sauce.",
+    "image": [
+      "https://cucinamezzaluna.com/Entrees/Casserole/Vegetable/Assets/Handwritten_2025-01-11_110903.webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT1H30M",
+    "totalTime": "PT1H50M",
+    "recipeYield": "8-10 servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "Tex-Mex",
+    "recipeIngredient": [
+      "6 (3.5 oz) cans Whole Green Chiles",
+      "1 lb Tillamook or Longhorn Cheddar Cheese, grated",
+      "1 lb Monterey Jack Cheese, grated",
+      "4 Eggs, separated",
+      "1 (12 oz) can Evaporated Milk",
+      "2 (8 oz) cans Tomato Sauce",
+      "3 Tbsp Flour",
+      "Salt and Pepper to taste"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 325°F. Use an ungreased 9x13 inch casserole dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Layer ingredients and bake as directed."
+      }
+    ]
+  }
 ---
 
 # Wilma's Chili Relleno Casserole

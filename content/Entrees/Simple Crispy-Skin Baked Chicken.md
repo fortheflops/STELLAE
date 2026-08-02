@@ -1,13 +1,89 @@
 ---
-title: "Simple Crispy-Skin Baked Chicken"
-category: "Entrees"
-collection: "GailCollection"
-source: "Unknown"
-tags: ["chicken", "entree", "baked", "crispy", "123", "gailcollection"]
-description: "A simple and effective method for crispy-skin chicken. Pieces are heavily seasoned, drizzled with butter, and broiled on both sides until crisp, then finished by baking at 325\u00b0F until tender."
-date: "2026-07-30"
+title: Simple Crispy-Skin Baked Chicken
+category: Entrees
+collection: GailCollection
+source: Unknown
+tags:
+  - chicken
+  - entree
+  - baked
+  - crispy
+  - gailcollection
+description: A simple and effective method for crispy-skin chicken. Pieces are heavily seasoned, drizzled with butter, and broiled on both sides until crisp, then finished by baking at 325°F until tender.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Simple Crispy-Skin Baked Chicken\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-11-13\",\n  \"description\": \"A simple and effective method for crispy-skin chicken. Pieces are heavily seasoned, drizzled with butter, and broiled on both sides until crisp, then finished by baking at 325\u00b0F until tender.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Entrees/Meat/Chicken/Baked Chicken/Assets/Handwritten_2025-06-24_171015.webp\"\n  ],\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT1H\",\n  \"totalTime\": \"PT1H10M\",\n  \"recipeYield\": \"4-6 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"Chicken, cut into pieces\",\n    \"Salt, to taste\",\n    \"Pepper, to taste\",\n    \"Oregano, to taste\",\n    \"Powdered Garlic, to taste\",\n    \"Paprika, to taste\",\n    \"Butter, melted (as needed)\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat the broiler. Set the oven rack about 6 inches from the broiler element.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cut the chicken into your desired pieces.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a bowl, season the chicken pieces to your taste with salt, pepper, oregano, powdered garlic, and paprika. Mix well to coat.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Arrange the seasoned chicken pieces on a baking tray.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Melt the butter and pour it evenly over the chicken.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place the tray under the broiler and broil until the top of the chicken is crisp.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Carefully turn each piece of chicken over.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Return to the broiler and broil the other side until it is also crisp.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Remove from the broiler and change the oven setting to Bake at 325\u00b0F.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake the chicken for an additional 45 minutes, or until cooked through.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Simple Crispy-Skin Baked Chicken",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-11-13",
+    "description": "A simple and effective method for crispy-skin chicken. Pieces are heavily seasoned, drizzled with butter, and broiled on both sides until crisp, then finished by baking at 325°F until tender.",
+    "image": [
+      "https://cucinamezzaluna.com/Entrees/Meat/Chicken/Baked Chicken/Assets/Handwritten_2025-06-24_171015.webp"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT1H",
+    "totalTime": "PT1H10M",
+    "recipeYield": "4-6 servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "Chicken, cut into pieces",
+      "Salt, to taste",
+      "Pepper, to taste",
+      "Oregano, to taste",
+      "Powdered Garlic, to taste",
+      "Paprika, to taste",
+      "Butter, melted (as needed)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the broiler. Set the oven rack about 6 inches from the broiler element."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the chicken into your desired pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, season the chicken pieces to your taste with salt, pepper, oregano, powdered garlic, and paprika. Mix well to coat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Arrange the seasoned chicken pieces on a baking tray."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the butter and pour it evenly over the chicken."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the tray under the broiler and broil until the top of the chicken is crisp."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Carefully turn each piece of chicken over."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return to the broiler and broil the other side until it is also crisp."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the broiler and change the oven setting to Bake at 325°F."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake the chicken for an additional 45 minutes, or until cooked through."
+      }
+    ]
+  }
 ---
 
 # Simple Crispy-Skin Baked Chicken

@@ -1,13 +1,38 @@
 ---
-title: "Jane Mason's Lazy-Dazy Cake with Broiled Topping"
-category: "Desserts"
-collection: "UK15"
-source: "Jane Mason"
-tags: ["cake", "dessert", "123", "baking", "coffeeecake"]
-description: "A classic hot milk cake topped with a rich, buttery mixture of brown sugar, coconut, and pecans that is broiled until bubbly and caramelized."
-date: "2026-07-30"
+title: Jane Mason's Lazy-Dazy Cake with Broiled Topping
+category: Desserts
+collection: UK15
+source: Jane Mason
+tags:
+  - cake
+  - dessert
+  - baking
+  - coffeeecake
+description: A classic hot milk cake topped with a rich, buttery mixture of brown sugar, coconut, and pecans that is broiled until bubbly and caramelized.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Jane Mason's Lazy-Dazy Cake with Broiled Topping\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Jane Mason\"\n  },\n  \"datePublished\": \"2025-09-22\",\n  \"description\": \"A simple, old-fashioned single-layer cake made with a hot milk batter and finished with a rich, broiled topping of brown sugar, coconut, and pecans.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Coffee-Cake/Assets/Lazy-Dazy%20Cake%20with%20Broiled%20Topping%20UK15-1752330560646.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Coffee-Cake/Assets/Lazy-Dazy%20Cake%20with%20Broiled%20Topping%20UK15-1752330560675.webp\"\n  ],\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT35M\",\n  \"totalTime\": \"PT50M\",\n  \"recipeYield\": \"1 8-inch or 9-inch square cake\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Jane Mason's Lazy-Dazy Cake with Broiled Topping",
+    "author": {
+      "@type": "Person",
+      "name": "Jane Mason"
+    },
+    "datePublished": "2025-09-22",
+    "description": "A simple, old-fashioned single-layer cake made with a hot milk batter and finished with a rich, broiled topping of brown sugar, coconut, and pecans.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Coffee-Cake/Assets/Lazy-Dazy%20Cake%20with%20Broiled%20Topping%20UK15-1752330560646.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Coffee-Cake/Assets/Lazy-Dazy%20Cake%20with%20Broiled%20Topping%20UK15-1752330560675.webp"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT50M",
+    "recipeYield": "1 8-inch or 9-inch square cake",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American"
+  }
 ---
 
 # Jane Mason's Lazy-Dazy Cake with Broiled Topping

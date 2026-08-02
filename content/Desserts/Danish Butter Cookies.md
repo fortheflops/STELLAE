@@ -1,13 +1,17 @@
 ---
-title: "Danish Butter Cookies"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["cookies", "danish", "buttercookies", "123", "largebatch"]
-description: "A classic, large-batch recipe for Danish Butter Cookies featuring a unique method of folding stiffly beaten egg whites into a rich butter dough. These cookies offer a wonderfully light and crisp texture perfect for any occasion."
-date: "2026-07-30"
+title: Danish Butter Cookies
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - cookies
+  - danish
+  - buttercookies
+  - largebatch
+description: A classic, large-batch recipe for Danish Butter Cookies featuring a unique method of folding stiffly beaten egg whites into a rich butter dough. These cookies offer a wonderfully light and crisp texture perfect for any occasion.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Danish Butter Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT25M\", \"cookTime\": \"PT8M\", \"recipeYield\": \"84 cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 pound margarine\", \"1 cup sugar\", \"2 eggs\", \"5 cups flour\", \"2 teaspoons vanilla extract\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Cream margarine and sugar, add yolks and vanilla.\"}, {\"@type\": \"HowToStep\", \"text\": \"Beat egg whites to stiff peaks.\"}, {\"@type\": \"HowToStep\", \"text\": \"Mix in flour, fold in egg whites, shape, and bake at 360\u00b0F for 8 minutes.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Danish Butter Cookies", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT25M", "cookTime": "PT8M", "recipeYield": "84 cookies", "recipeCategory": "Dessert", "recipeIngredient": ["1 pound margarine", "1 cup sugar", "2 eggs", "5 cups flour", "2 teaspoons vanilla extract"], "recipeInstructions": [{"@type": "HowToStep", "text": "Cream margarine and sugar, add yolks and vanilla."}, {"@type": "HowToStep", "text": "Beat egg whites to stiff peaks."}, {"@type": "HowToStep", "text": "Mix in flour, fold in egg whites, shape, and bake at 360°F for 8 minutes."}]}'
 ---
 
 # Danish Butter Cookies

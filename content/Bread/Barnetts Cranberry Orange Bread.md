@@ -1,11 +1,16 @@
 ---
-title: "Barnett's Cranberry Orange Bread"
-category: "Bread"
-collection: "UK2"
-source: "Barnett"
-tags: ["bread", "cranberry", "orange", "quickbread", "nut", "123"]
-description: "A festive and moist quick bread packed with fresh cranberries, bright orange zest and juice, and crunchy nuts. This classic recipe by Barnett delivers a delightful balance of tart and sweet flavors."
-date: "2026-07-30"
+title: Barnett's Cranberry Orange Bread
+category: Bread
+collection: UK2
+source: Barnett
+tags:
+  - bread
+  - cranberry
+  - orange
+  - quickbread
+  - nut
+description: A festive and moist quick bread packed with fresh cranberries, bright orange zest and juice, and crunchy nuts. This classic recipe by Barnett delivers a delightful balance of tart and sweet flavors.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Barnett's Cranberry Orange Bread\",\"author\":{\"@type\":\"Person\",\"name\":\"Barnett\"},\"datePublished\":\"2025-09-22\",\"description\":\"A festive and moist quick bread packed with fresh cranberries, orange zest and juice, and chopped nuts.\",\"image\":[\"https://cucinamezzaluna.com/Bread/Fruit-Bread/Orange/Assets/Handwritten_2025-01-21_115222.webp\"],\"prepTime\":\"PT20M\",\"cookTime\":\"PT1H\",\"totalTime\":\"PT1H20M\",\"recipeYield\":\"1 loaf\",\"recipeCategory\":\"Bread\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"2 cups all-purpose flour\",\"1 cup sugar\",\"1 1/2 teaspoons baking soda\",\"1/2 teaspoon salt\",\"1 cup chopped raw cranberries\",\"1 cup chopped nuts\",\"1 large orange (for zest and juice)\",\"1 large egg, beaten\",\"2 tablespoons melted shortening\",\"Boiling water\"]}"
 ---

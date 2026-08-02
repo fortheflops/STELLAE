@@ -1,11 +1,16 @@
 ---
-title: "Norma's Dried Apple Cake"
-category: "Desserts"
-collection: "UK15"
-source: "Norma"
-tags: ["cake", "123", "fruitcake", "apples", "spicecake", "holiday"]
-description: "A rich and dense old-fashioned spice cake packed with cooked dried apples, raisins, and black walnuts. This fruitcake-style loaf is a perfect, moist treat for autumn and winter gatherings."
-date: "2026-07-30"
+title: Norma's Dried Apple Cake
+category: Desserts
+collection: UK15
+source: Norma
+tags:
+  - cake
+  - fruitcake
+  - apples
+  - spicecake
+  - holiday
+description: A rich and dense old-fashioned spice cake packed with cooked dried apples, raisins, and black walnuts. This fruitcake-style loaf is a perfect, moist treat for autumn and winter gatherings.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Norma's Dried Apple Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Norma\"}, \"prepTime\": \"PT25M\", \"cookTime\": \"PT1H45M\", \"recipeYield\": \"1 large tube or Bundt cake\", \"recipeIngredient\": [\"4 cups all-purpose flour\", \"2 cups sugar\", \"2 teaspoons baking soda\", \"1 teaspoon cinnamon\", \"1 teaspoon allspice\", \"1 teaspoon cloves\", \"1 pinch salt\", \"1 cup shortening\", \"3 large eggs\", \"2 1/2 cups cooked, mashed dried apples\", \"1 cup raisins\", \"1 cup chopped nuts\"]}"
 ---

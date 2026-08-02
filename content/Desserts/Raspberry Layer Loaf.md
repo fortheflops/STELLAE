@@ -1,13 +1,17 @@
 ---
-title: "Raspberry Layer Loaf"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "cake", "raspberry", "nobake", "123"]
-description: "A simple yet elegant no-bake dessert featuring layers of store-bought pound cake and a light raspberry cream cheese frosting. Served chilled with a homemade raspberry sauce for an impressive treat."
-date: "2026-07-30"
+title: Raspberry Layer Loaf
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - raspberry
+  - nobake
+description: A simple yet elegant no-bake dessert featuring layers of store-bought pound cake and a light raspberry cream cheese frosting. Served chilled with a homemade raspberry sauce for an impressive treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Raspberry Layer Loaf\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-10-05\",\"description\":\"An easy no-bake dessert made by layering pound cake with a fluffy raspberry cream cheese frosting and serving with a raspberry sauce.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Raspberry/Assets/Handwritten_2025-03-02_120523.webp\",\"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Raspberry/Assets/Handwritten_2025-03-02_120629%20(2).webp\"],\"prepTime\":\"PT25M\",\"cookTime\":\"PT0M\",\"totalTime\":\"PT4H25M\",\"recipeYield\":\"8-10 servings\",\"recipeCategory\":\"Desserts\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 (10-ounce) package frozen raspberries, thawed\",\"1 (8-ounce) package cream cheese, softened\",\"1 (16-ounce) loaf pound cake\",\"Optional: 1/4 cup powdered sugar for the frosting\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Drain the thawed raspberries through a fine-mesh sieve, pressing gently to extract the juice. Reserve both the juice and the raspberry pulp.\"},{\"@type\":\"HowToStep\",\"text\":\"In a medium bowl, beat the softened cream cheese until fluffy. Gradually beat in 1/3 cup of the reserved raspberry juice until smooth.\"},{\"@type\":\"HowToStep\",\"text\":\"Horizontally slice the pound cake into four even layers.\"},{\"@type\":\"HowToStep\",\"text\":\"Place the bottom layer on a serving platter. Spread with about 2 tablespoons of the cream cheese mixture. Repeat with the next two layers. Place the plain fourth layer on top. Chill for about 30 minutes to set.\"},{\"@type\":\"HowToStep\",\"text\":\"Frost the top and sides of the chilled cake with the remaining cream cheese mixture.\"},{\"@type\":\"HowToStep\",\"text\":\"Chill for several hours until the frosting is firm.\"},{\"@type\":\"HowToStep\",\"text\":\"Serve slices with raspberry sauce (made from the reserved raspberry pulp).\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Raspberry Layer Loaf","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-10-05","description":"An easy no-bake dessert made by layering pound cake with a fluffy raspberry cream cheese frosting and serving with a raspberry sauce.","image":["https://cucinamezzaluna.com/Desserts/Cake/Fruit/Raspberry/Assets/Handwritten_2025-03-02_120523.webp","https://cucinamezzaluna.com/Desserts/Cake/Fruit/Raspberry/Assets/Handwritten_2025-03-02_120629%20(2).webp"],"prepTime":"PT25M","cookTime":"PT0M","totalTime":"PT4H25M","recipeYield":"8-10 servings","recipeCategory":"Desserts","recipeCuisine":"American","recipeIngredient":["1 (10-ounce) package frozen raspberries, thawed","1 (8-ounce) package cream cheese, softened","1 (16-ounce) loaf pound cake","Optional: 1/4 cup powdered sugar for the frosting"],"recipeInstructions":[{"@type":"HowToStep","text":"Drain the thawed raspberries through a fine-mesh sieve, pressing gently to extract the juice. Reserve both the juice and the raspberry pulp."},{"@type":"HowToStep","text":"In a medium bowl, beat the softened cream cheese until fluffy. Gradually beat in 1/3 cup of the reserved raspberry juice until smooth."},{"@type":"HowToStep","text":"Horizontally slice the pound cake into four even layers."},{"@type":"HowToStep","text":"Place the bottom layer on a serving platter. Spread with about 2 tablespoons of the cream cheese mixture. Repeat with the next two layers. Place the plain fourth layer on top. Chill for about 30 minutes to set."},{"@type":"HowToStep","text":"Frost the top and sides of the chilled cake with the remaining cream cheese mixture."},{"@type":"HowToStep","text":"Chill for several hours until the frosting is firm."},{"@type":"HowToStep","text":"Serve slices with raspberry sauce (made from the reserved raspberry pulp)."}]}'
 ---
 
 # Raspberry Layer Loaf

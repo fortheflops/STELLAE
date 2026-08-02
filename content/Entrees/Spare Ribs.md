@@ -1,13 +1,60 @@
 ---
-title: "Spare Ribs"
-category: "Entrees"
-collection: "JillCollection"
-source: "Unknown"
-tags: ["spareribs", "pork", "entree", "123", "roasted"]
-description: "A classic vintage recipe for slow-roasted spare ribs, seasoned simply and baked until tender and golden brown. Perfect for a hearty family dinner with homemade gravy from the savory drippings."
-date: "2026-07-30"
+title: Spare Ribs
+category: Entrees
+collection: JillCollection
+source: Unknown
+tags:
+  - spareribs
+  - pork
+  - entree
+  - roasted
+description: A classic vintage recipe for slow-roasted spare ribs, seasoned simply and baked until tender and golden brown. Perfect for a hearty family dinner with homemade gravy from the savory drippings.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Spare Ribs\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-08-02\",\n  \"description\": \"A classic vintage recipe for slow-roasted spare ribs, seasoned simply and baked until tender and golden brown.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT2H30M\",\n  \"recipeYield\": \"4\u20136 Servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeIngredient\": [\n    \"1 rack (approx) Spare Ribs\",\n    \"Salt\",\n    \"Water\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 450\u00b0F.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Trim off as much fat as possible from the spare ribs.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Wash the meat and pat dry to remove excess moisture.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Salt the ribs well.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place the ribs in a roasting pan and bake for 2 to 2 1/2 hours, changing position so they brown all over.\"\n    }\n  ],\n  \"image\": \"Spare Ribs JC-1754180224389.webp\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Spare Ribs",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-08-02",
+    "description": "A classic vintage recipe for slow-roasted spare ribs, seasoned simply and baked until tender and golden brown.",
+    "prepTime": "PT15M",
+    "cookTime": "PT2H30M",
+    "recipeYield": "4–6 Servings",
+    "recipeCategory": "Entrees",
+    "recipeIngredient": [
+      "1 rack (approx) Spare Ribs",
+      "Salt",
+      "Water"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 450°F."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Trim off as much fat as possible from the spare ribs."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash the meat and pat dry to remove excess moisture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Salt the ribs well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the ribs in a roasting pan and bake for 2 to 2 1/2 hours, changing position so they brown all over."
+      }
+    ],
+    "image": "Spare Ribs JC-1754180224389.webp"
+  }
 ---
 
 # Spare Ribs

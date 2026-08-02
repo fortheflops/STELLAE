@@ -1,13 +1,34 @@
 ---
-title: "Mom's Mini Cheesecakes"
-category: "Desserts"
-collection: "UK3"
-source: "Mom"
-tags: ["dessert", "cheesecake", "mini", "baking", "123"]
-description: "A cherished recipe from Mom for individual, crustless cheesecakes baked in a muffin tin. These delightful treats feature a tangy, sweet sour cream topping baked right on top."
-date: "2026-07-30"
+title: Mom's Mini Cheesecakes
+category: Desserts
+collection: UK3
+source: Mom
+tags:
+  - dessert
+  - cheesecake
+  - mini
+  - baking
+description: A cherished recipe from Mom for individual, crustless cheesecakes baked in a muffin tin. These delightful treats feature a tangy, sweet sour cream topping baked right on top.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Mom's Mini Cheesecakes\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Mom\"\n  },\n  \"datePublished\": \"2025-10-06\",\n  \"description\": \"Simple, crustless mini cheesecakes baked in a muffin tin with a classic baked-on sour cream topping.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT35M\",\n  \"totalTime\": \"PT50M\",\n  \"recipeYield\": \"12 cheesecakes\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Mom's Mini Cheesecakes",
+    "author": {
+      "@type": "Person",
+      "name": "Mom"
+    },
+    "datePublished": "2025-10-06",
+    "description": "Simple, crustless mini cheesecakes baked in a muffin tin with a classic baked-on sour cream topping.",
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT50M",
+    "recipeYield": "12 cheesecakes",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American"
+  }
 ---
 
 # Mom's Mini Cheesecakes

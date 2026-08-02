@@ -1,13 +1,42 @@
 ---
-title: "Old-Fashioned Buttermilk Marbled Pound Cake"
-category: "Desserts"
-collection: "UK15"
-source: "Denny White"
-tags: ["cake", "poundcake", "dessert", "chocolate", "buttermilk", "123", "baking"]
-description: "A classic, tender buttermilk pound cake with a rich chocolate marble swirl, flavored with vanilla and almond extracts. This traditional recipe yields a dense, flavorful cake with a beautiful crumb."
-date: "2026-07-30"
+title: Old-Fashioned Buttermilk Marbled Pound Cake
+category: Desserts
+collection: UK15
+source: Denny White
+tags:
+  - cake
+  - poundcake
+  - dessert
+  - chocolate
+  - buttermilk
+  - baking
+description: A classic, tender buttermilk pound cake with a rich chocolate marble swirl, flavored with vanilla and almond extracts. This traditional recipe yields a dense, flavorful cake with a beautiful crumb.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Old-Fashioned Buttermilk Marbled Pound Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Denny White\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A classic buttermilk pound cake with a rich chocolate swirl, made with both butter and shortening for a tender crumb.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Assets/Old-Fashioned%20Buttermilk%20Marbled%20Pound%20Cake%20UK15-1752539930713.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Assets/Old-Fashioned%20Buttermilk%20Marbled%20Pound%20Cake%20UK15-1752539930712.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Assets/Old-Fashioned%20Buttermilk%20Marbled%20Pound%20Cake%20UK15-1752542012475.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Assets/Old-Fashioned%20Buttermilk%20Marbled%20Pound%20Cake%20UK15-1752542012477.webp\"\n  ],\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT1H\",\n  \"totalTime\": \"PT1H25M\",\n  \"recipeYield\": \"1 10-inch tube cake\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Old-Fashioned Buttermilk Marbled Pound Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Denny White"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A classic buttermilk pound cake with a rich chocolate swirl, made with both butter and shortening for a tender crumb.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Assets/Old-Fashioned%20Buttermilk%20Marbled%20Pound%20Cake%20UK15-1752539930713.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Assets/Old-Fashioned%20Buttermilk%20Marbled%20Pound%20Cake%20UK15-1752539930712.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Assets/Old-Fashioned%20Buttermilk%20Marbled%20Pound%20Cake%20UK15-1752542012475.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Pound-Cake/Assets/Old-Fashioned%20Buttermilk%20Marbled%20Pound%20Cake%20UK15-1752542012477.webp"
+    ],
+    "prepTime": "PT25M",
+    "cookTime": "PT1H",
+    "totalTime": "PT1H25M",
+    "recipeYield": "1 10-inch tube cake",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American"
+  }
 ---
 
 # Old-Fashioned Buttermilk Marbled Pound Cake

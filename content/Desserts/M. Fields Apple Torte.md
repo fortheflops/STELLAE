@@ -1,13 +1,18 @@
 ---
-title: "M. Field's Apple Torte"
-category: "Desserts"
-collection: "Gail Collection"
-source: "M. Field"
-tags: ["dessert", "torte", "apple", "cake", "123", "gailcollection"]
-description: "A wonderfully simple and rustic apple torte from a recipe by M. Field, featuring a dense, moist, fruit-and-nut-packed interior with a crisp, sugary crust."
-date: "2026-07-30"
+title: M. Field's Apple Torte
+category: Desserts
+collection: Gail Collection
+source: M. Field
+tags:
+  - dessert
+  - torte
+  - apple
+  - cake
+  - gailcollection
+description: A wonderfully simple and rustic apple torte from a recipe by M. Field, featuring a dense, moist, fruit-and-nut-packed interior with a crisp, sugary crust.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"M. Field's Apple Torte\",\"author\":{\"@type\":\"Person\",\"name\":\"M. Field\"},\"datePublished\":\"2025-10-06\",\"description\":\"A simple and delicious apple torte with a very small amount of flour, resulting in a dense, moist, fruit-and-nut-packed cake with a crispy crust.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Cake/Torte/Assets/Handwritten_2025-05-30_114440.webp\"],\"prepTime\":\"PT15M\",\"cookTime\":\"PT45M\",\"totalTime\":\"PT1H\",\"recipeYield\":\"8-10 servings\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 cup sugar\",\"2/3 cup sifted all-purpose flour\",\"3 teaspoons baking powder\",\"1/2 teaspoon salt\",\"2 large eggs\",\"3 teaspoons vanilla extract\",\"2 cups cubed apple\",\"1 cup chopped nuts\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 350\u00b0F. Grease an 8x12x2 inch baking pan well.\"},{\"@type\":\"HowToStep\",\"text\":\"In a large bowl, sift together the flour, baking powder, and salt. Stir in the sugar.\"},{\"@type\":\"HowToStep\",\"text\":\"Add the eggs and vanilla to the dry ingredients and beat the mixture well until it forms a thick batter.\"},{\"@type\":\"HowToStep\",\"text\":\"By hand, stir in the chopped nuts and cubed apple.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour the batter into the prepared pan and spread evenly.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake for 45 minutes. The torte will rise and then fall slightly, creating a crisp crust.\"},{\"@type\":\"HowToStep\",\"text\":\"Serve warm with ice cream or cream.\"}]}"
+recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"M. Field's Apple Torte\",\"author\":{\"@type\":\"Person\",\"name\":\"M. Field\"},\"datePublished\":\"2025-10-06\",\"description\":\"A simple and delicious apple torte with a very small amount of flour, resulting in a dense, moist, fruit-and-nut-packed cake with a crispy crust.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Cake/Torte/Assets/Handwritten_2025-05-30_114440.webp\"],\"prepTime\":\"PT15M\",\"cookTime\":\"PT45M\",\"totalTime\":\"PT1H\",\"recipeYield\":\"8-10 servings\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 cup sugar\",\"2/3 cup sifted all-purpose flour\",\"3 teaspoons baking powder\",\"1/2 teaspoon salt\",\"2 large eggs\",\"3 teaspoons vanilla extract\",\"2 cups cubed apple\",\"1 cup chopped nuts\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 350°F. Grease an 8x12x2 inch baking pan well.\"},{\"@type\":\"HowToStep\",\"text\":\"In a large bowl, sift together the flour, baking powder, and salt. Stir in the sugar.\"},{\"@type\":\"HowToStep\",\"text\":\"Add the eggs and vanilla to the dry ingredients and beat the mixture well until it forms a thick batter.\"},{\"@type\":\"HowToStep\",\"text\":\"By hand, stir in the chopped nuts and cubed apple.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour the batter into the prepared pan and spread evenly.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake for 45 minutes. The torte will rise and then fall slightly, creating a crisp crust.\"},{\"@type\":\"HowToStep\",\"text\":\"Serve warm with ice cream or cream.\"}]}"
 ---
 
 # M. Field's Apple Torte

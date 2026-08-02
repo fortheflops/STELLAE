@@ -1,13 +1,18 @@
 ---
-title: "Classic Frozen Cranberry Salad"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "frozen", "cranberry", "holiday", "123", "fruit"]
-description: "A nostalgic and festive frozen cranberry salad, combining whole berry cranberry sauce, pineapple, marshmallows, bananas, and pecans with whipped cream. This classic fruit salad is perfect for holiday gatherings and offers a delightful balance of tart and sweet flavors."
-date: "2026-07-30"
+title: Classic Frozen Cranberry Salad
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - frozen
+  - cranberry
+  - holiday
+  - fruit
+description: A nostalgic and festive frozen cranberry salad, combining whole berry cranberry sauce, pineapple, marshmallows, bananas, and pecans with whipped cream. This classic fruit salad is perfect for holiday gatherings and offers a delightful balance of tart and sweet flavors.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Frozen Cranberry Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A nostalgic and festive frozen cranberry salad, combining whole berry cranberry sauce, pineapple, marshmallows, bananas, and pecans with whipped cream.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Frozen Cranberry Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A nostalgic and festive frozen cranberry salad, combining whole berry cranberry sauce, pineapple, marshmallows, bananas, and pecans with whipped cream.", "prepTime": "PT15M", "cookTime": "PT0M", "recipeYield": "8-10 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Classic Frozen Cranberry Salad

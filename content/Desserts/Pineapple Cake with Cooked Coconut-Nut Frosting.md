@@ -1,13 +1,76 @@
 ---
-title: "Pineapple Cake with Cooked Coconut-Nut Frosting"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "cake", "pineapple", "coconut", "123"]
-description: "An incredibly moist and simple pineapple cake topped with a rich, warm, cooked coconut and nut frosting poured right over the hot cake."
-date: "2026-07-30"
+title: Pineapple Cake with Cooked Coconut-Nut Frosting
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - pineapple
+  - coconut
+description: An incredibly moist and simple pineapple cake topped with a rich, warm, cooked coconut and nut frosting poured right over the hot cake.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Pineapple Cake with Cooked Coconut-Nut Frosting\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"An easy, one-bowl pineapple cake that's topped with a warm, gooey, cooked frosting filled with coconut and nuts.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Pineapple/Assets/Handwritten_2025-01-25_112006.webp\"\n  ],\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT35M\",\n  \"totalTime\": \"PT50M\",\n  \"recipeYield\": \"1 9x13 cake\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 cups all-purpose flour\",\n    \"1 1/3 cups sugar\",\n    \"2 teaspoons baking soda\",\n    \"2 large eggs\",\n    \"1 (20-ounce) can crushed pineapple, undrained\",\n    \"1 stick (1/2 cup) margarine or butter\",\n    \"3/4 cup sugar\",\n    \"3/4 cup evaporated milk or regular milk\",\n    \"1 teaspoon vanilla\",\n    \"1 cup shredded coconut\",\n    \"1 cup chopped nuts\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F. Grease a 9x13 inch pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, whisk together the flour, sugar, and baking soda. Add the eggs and the entire can of undrained crushed pineapple. Stir until just combined.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the batter into the prepared pan and bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"About 10 minutes before the cake is done, prepare the topping. In a saucepan, combine the margarine, sugar, and milk. Bring to a simmer and cook, stirring, until it thickens slightly.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Remove from heat and stir in the vanilla, coconut, and nuts.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"As soon as the cake comes out of the oven, pour the hot topping over the hot cake. Let it cool completely in the pan.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Pineapple Cake with Cooked Coconut-Nut Frosting",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-05",
+    "description": "An easy, one-bowl pineapple cake that's topped with a warm, gooey, cooked frosting filled with coconut and nuts.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Pineapple/Assets/Handwritten_2025-01-25_112006.webp"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT50M",
+    "recipeYield": "1 9x13 cake",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 cups all-purpose flour",
+      "1 1/3 cups sugar",
+      "2 teaspoons baking soda",
+      "2 large eggs",
+      "1 (20-ounce) can crushed pineapple, undrained",
+      "1 stick (1/2 cup) margarine or butter",
+      "3/4 cup sugar",
+      "3/4 cup evaporated milk or regular milk",
+      "1 teaspoon vanilla",
+      "1 cup shredded coconut",
+      "1 cup chopped nuts"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F. Grease a 9x13 inch pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, whisk together the flour, sugar, and baking soda. Add the eggs and the entire can of undrained crushed pineapple. Stir until just combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter into the prepared pan and bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "About 10 minutes before the cake is done, prepare the topping. In a saucepan, combine the margarine, sugar, and milk. Bring to a simmer and cook, stirring, until it thickens slightly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from heat and stir in the vanilla, coconut, and nuts."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "As soon as the cake comes out of the oven, pour the hot topping over the hot cake. Let it cool completely in the pan."
+      }
+    ]
+  }
 ---
 
 # Pineapple Cake with Cooked Coconut-Nut Frosting

@@ -1,13 +1,18 @@
 ---
-title: "Classic 1-Gallon Churned Peach Ice Cream"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["icecream", "peach", "churned", "123", "summer", "dessert"]
-description: "A rich, classic 1-gallon churned peach ice cream featuring a traditional uncooked egg base, evaporated milk, and fresh peach nectar. This vintage recipe provides a creamy, authentic texture perfect for summer gatherings."
-date: "2026-07-30"
+title: Classic 1-Gallon Churned Peach Ice Cream
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - icecream
+  - peach
+  - churned
+  - summer
+  - dessert
+description: A rich, classic 1-gallon churned peach ice cream featuring a traditional uncooked egg base, evaporated milk, and fresh peach nectar. This vintage recipe provides a creamy, authentic texture perfect for summer gatherings.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic 1-Gallon Churned Peach Ice Cream\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT40M\", \"recipeYield\": \"1 gallon\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"6 eggs\", \"2 1/2 Cups sugar\", \"2 large cans evaporated milk\", \"1 qt. peach nectar\", \"juice of 1 lemon\", \"1 qt. whole milk\", \"Crushed ice\", \"2/3 cup salt\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic 1-Gallon Churned Peach Ice Cream", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT15M", "cookTime": "PT40M", "recipeYield": "1 gallon", "recipeCategory": "Dessert", "recipeIngredient": ["6 eggs", "2 1/2 Cups sugar", "2 large cans evaporated milk", "1 qt. peach nectar", "juice of 1 lemon", "1 qt. whole milk", "Crushed ice", "2/3 cup salt"]}'
 ---
 
 # Classic 1-Gallon Churned Peach Ice Cream

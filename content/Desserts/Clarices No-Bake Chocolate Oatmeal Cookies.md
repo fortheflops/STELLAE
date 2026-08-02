@@ -1,11 +1,16 @@
 ---
-title: "Clarice's No-Bake Chocolate Oatmeal Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Clarice"
-tags: ["cookies", "nobake", "chocolate", "oatmeal", "123", "quick"]
-description: "A classic, quick no-bake cookie recipe featuring a rich boiled cocoa-sugar syrup folded with oats and nuts. These chewy, fudgy treats set perfectly at room temperature for an effortless dessert."
-date: "2026-07-30"
+title: Clarice's No-Bake Chocolate Oatmeal Cookies
+category: Desserts
+collection: UK2
+source: Clarice
+tags:
+  - cookies
+  - nobake
+  - chocolate
+  - oatmeal
+  - quick
+description: A classic, quick no-bake cookie recipe featuring a rich boiled cocoa-sugar syrup folded with oats and nuts. These chewy, fudgy treats set perfectly at room temperature for an effortless dessert.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Clarice's No-Bake Chocolate Oatmeal Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Clarice\"}, \"prepTime\": \"PT5M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"36 cookies\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"1 Cup Sugar\", \"1/2 Cup Oleo\", \"3 Tbsp Cocoa\", \"1/2 Cup Milk\", \"Pinch Salt\", \"3 Cups Oats\", \"1 Cup Nuts\", \"1 tsp Vanilla\"]}"
 ---

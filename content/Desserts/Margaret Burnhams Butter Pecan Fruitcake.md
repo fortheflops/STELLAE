@@ -1,13 +1,51 @@
 ---
-title: "Margaret Burnham's Butter Pecan Fruitcake"
-category: "Desserts"
-collection: "UK15"
-source: "Margaret Burnham"
-tags: ["dessert", "fruitcake", "123", "pecans", "holiday", "baking"]
-description: "A wonderfully dense and rich fruitcake from a 1971 recipe by Margaret Burnham. This cake is famously packed with a pound each of pecans, red cherries, green cherries, and pineapple, all held together by a rich butter-egg batter."
-date: "2026-07-30"
+title: Margaret Burnham's Butter Pecan Fruitcake
+category: Desserts
+collection: UK15
+source: Margaret Burnham
+tags:
+  - dessert
+  - fruitcake
+  - pecans
+  - holiday
+  - baking
+description: A wonderfully dense and rich fruitcake from a 1971 recipe by Margaret Burnham. This cake is famously packed with a pound each of pecans, red cherries, green cherries, and pineapple, all held together by a rich butter-egg batter.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Margaret Burnham's Butter Pecan Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Margaret Burnham\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A very dense, rich, and buttery fruitcake from 1971, loaded with pecans and a variety of candied fruits. Baked low and slow in a tube pan.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Butter%20Pecan%20Cake%20UK15-1752965664749.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Butter%20Pecan%20Cake%20UK15-1752965664747.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Butter%20Pecan%20Cake%20UK15-1752965746550.webp\"\n  ],\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT2H\",\n  \"totalTime\": \"PT2H30M\",\n  \"recipeYield\": \"1 large tube cake\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 pound (4 sticks) butter, softened\",\n    \"2 cups sugar\",\n    \"6 large eggs\",\n    \"4 cups all-purpose flour, divided\",\n    \"1 pound pecans\",\n    \"1 pound candied red cherries\",\n    \"1 pound candied green cherries\",\n    \"1 pound candied pineapple\",\n    \"1 teaspoon lemon extract\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Margaret Burnham's Butter Pecan Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Margaret Burnham"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A very dense, rich, and buttery fruitcake from 1971, loaded with pecans and a variety of candied fruits. Baked low and slow in a tube pan.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Butter%20Pecan%20Cake%20UK15-1752965664749.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Butter%20Pecan%20Cake%20UK15-1752965664747.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Butter%20Pecan%20Cake%20UK15-1752965746550.webp"
+    ],
+    "prepTime": "PT30M",
+    "cookTime": "PT2H",
+    "totalTime": "PT2H30M",
+    "recipeYield": "1 large tube cake",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 pound (4 sticks) butter, softened",
+      "2 cups sugar",
+      "6 large eggs",
+      "4 cups all-purpose flour, divided",
+      "1 pound pecans",
+      "1 pound candied red cherries",
+      "1 pound candied green cherries",
+      "1 pound candied pineapple",
+      "1 teaspoon lemon extract"
+    ]
+  }
 ---
 
 # Margaret Burnham's Butter Pecan Fruitcake

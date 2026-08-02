@@ -1,11 +1,18 @@
 ---
-title: "Pineapple Pecan Cheese Ball"
-category: "Appetizers"
-collection: "UK2 Collection"
-source: "Unknown"
-tags: ["appetizer", "cheese ball", "cream cheese", "pineapple", "pecans", "party food", "make-ahead", "123"]
-description: "A classic retro party appetizer combining rich cream cheese, tropical sweet crushed pineapple, and savory Lawry's seasoned salt, all rolled in crunchy pecans. Perfect for easy prep and make-ahead holiday entertaining."
-date: "2026-07-30"
+title: Pineapple Pecan Cheese Ball
+category: Appetizers
+collection: UK2 Collection
+source: Unknown
+tags:
+  - appetizer
+  - cheese ball
+  - cream cheese
+  - pineapple
+  - pecans
+  - party food
+  - make-ahead
+description: A classic retro party appetizer combining rich cream cheese, tropical sweet crushed pineapple, and savory Lawry's seasoned salt, all rolled in crunchy pecans. Perfect for easy prep and make-ahead holiday entertaining.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Pineapple Pecan Cheese Ball\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"description\":\"A sweet and savory cheese ball combining creamy cream cheese with crushed pineapple, Lawry's seasoned salt, and a crunchy pecan coating.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT0M\",\"totalTime\":\"PT8H15M\",\"recipeYield\":\"20 servings\",\"recipeCategory\":\"Appetizer\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"2 (8-ounce) packages cream cheese, softened\",\"1 (8-ounce) can crushed pineapple, well drained\",\"1/4 cup green bell pepper, finely chopped\",\"1 tablespoon onion, finely chopped\",\"1 tablespoon Lawry's Seasoned Salt\",\"1 cup pecans, chopped\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In a medium bowl, combine the softened cream cheese, well-drained crushed pineapple, finely chopped green bell pepper, finely chopped onion, and Lawry's Seasoned Salt.\"},{\"@type\":\"HowToStep\",\"text\":\"Mix with a spatula or electric mixer until thoroughly combined.\"},{\"@type\":\"HowToStep\",\"text\":\"Cover and refrigerate overnight to firm up.\"},{\"@type\":\"HowToStep\",\"text\":\"Shape the chilled mixture into a ball.\"},{\"@type\":\"HowToStep\",\"text\":\"Roll the cheese ball in chopped pecans until fully coated.\"},{\"@type\":\"HowToStep\",\"text\":\"Wrap and refrigerate until ready to serve.\"}]}"
 ---

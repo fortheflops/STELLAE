@@ -1,13 +1,18 @@
 ---
-title: "Classic 7-Up Jello Salad"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["123", "jello", "salad", "retro", "dessert", "pecans"]
-description: "A nostalgic and fizzy molded Jello salad featuring the classic combination of lime Jello, 7-Up soda, cream cheese, crushed pineapple, and pecans. This retro dessert offers a creamy texture with a delightful crunch."
-date: "2026-07-30"
+title: Classic 7-Up Jello Salad
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - jello
+  - salad
+  - retro
+  - dessert
+  - pecans
+description: A nostalgic and fizzy molded Jello salad featuring the classic combination of lime Jello, 7-Up soda, cream cheese, crushed pineapple, and pecans. This retro dessert offers a creamy texture with a delightful crunch.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic 7-Up Jello Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A nostalgic and fizzy molded Jello salad featuring the classic combination of lime Jello, 7-Up soda, cream cheese, crushed pineapple, and pecans.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT5M\", \"totalTime\": \"PT20M\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"3 oz Lime Jello powder\", \"8 oz Cream Cheese\", \"1 Cup Boiling Water\", \"8 oz Crushed Pineapple\", \"1 tsp Vanilla\", \"1 Tbsp Sugar\", \"10 oz 7-Up\", \"1 Cup Pecans\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic 7-Up Jello Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A nostalgic and fizzy molded Jello salad featuring the classic combination of lime Jello, 7-Up soda, cream cheese, crushed pineapple, and pecans.", "prepTime": "PT15M", "cookTime": "PT5M", "totalTime": "PT20M", "recipeYield": "8-10 servings", "recipeCategory": "Dessert", "recipeIngredient": ["3 oz Lime Jello powder", "8 oz Cream Cheese", "1 Cup Boiling Water", "8 oz Crushed Pineapple", "1 tsp Vanilla", "1 Tbsp Sugar", "10 oz 7-Up", "1 Cup Pecans"]}'
 ---
 
 # Classic 7-Up Jello Salad

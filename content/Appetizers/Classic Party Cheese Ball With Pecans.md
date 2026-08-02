@@ -1,13 +1,20 @@
 ---
-title: "Classic Party Cheese Ball With Pecans"
-category: "Appetizers"
-collection: "Unknown 3 Collection"
-source: "Unknown"
-tags: ["appetizer", "cheese ball", "pecans", "cream cheese", "cheddar", "party food", "123", "make-ahead"]
-description: "A classic party appetizer featuring a rich blend of cream cheese, processed cheddar spread, and sharp cheddar seasoned with Worcestershire and onion. Coated in ground pecans and fresh parsley for a retro crowd-pleaser."
-date: "2026-07-30"
+title: Classic Party Cheese Ball With Pecans
+category: Appetizers
+collection: Unknown 3 Collection
+source: Unknown
+tags:
+  - appetizer
+  - cheese ball
+  - pecans
+  - cream cheese
+  - cheddar
+  - party food
+  - make-ahead
+description: A classic party appetizer featuring a rich blend of cream cheese, processed cheddar spread, and sharp cheddar seasoned with Worcestershire and onion. Coated in ground pecans and fresh parsley for a retro crowd-pleaser.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Classic Party Cheese Ball with Pecans\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-09-05\",\"description\":\"A rich and savory vintage cheese ball made from a blend of diced cheddar, cream cheese, and cheese spread seasoned with onion and Worcestershire, rolled in ground pecans and fresh parsley.\",\"prepTime\":\"PT20M\",\"cookTime\":\"PT0M\",\"totalTime\":\"PT8H20M\",\"recipeYield\":\"24 servings\",\"recipeCategory\":\"Appetizer\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"4 (3-ounce) packages cream cheese, softened\",\"2 (5-ounce) jars processed cheddar cheese spread\",\"6 ounces sharp cheddar cheese, finely diced or shredded\",\"1 teaspoon grated onion\",\"1 teaspoon Worcestershire sauce\",\"1 teaspoon MSG (optional)\",\"1 cup pecans, finely chopped or ground, divided\",\"1/2 cup fresh parsley, finely chopped\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Ensure all cheeses are at room temperature. In a large bowl, combine the softened cream cheese, processed cheddar spread, diced cheddar, grated onion, Worcestershire sauce, and optional MSG.\"},{\"@type\":\"HowToStep\",\"text\":\"Mix with an electric mixer or by hand until thoroughly blended.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir in 1/2 cup of the ground pecans.\"},{\"@type\":\"HowToStep\",\"text\":\"Shape the mixture into a large ball, place it in a bowl lined with wax paper, and cover.\"},{\"@type\":\"HowToStep\",\"text\":\"Chill overnight, or for at least 8 hours, until very firm.\"},{\"@type\":\"HowToStep\",\"text\":\"About an hour before serving, combine the remaining 1/2 cup of pecans and the finely chopped parsley on a plate.\"},{\"@type\":\"HowToStep\",\"text\":\"Unwrap the chilled cheese ball and roll it in the pecan-parsley mixture until evenly coated.\"},{\"@type\":\"HowToStep\",\"text\":\"Place on a platter and serve with crackers or croutons.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Classic Party Cheese Ball with Pecans","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-09-05","description":"A rich and savory vintage cheese ball made from a blend of diced cheddar, cream cheese, and cheese spread seasoned with onion and Worcestershire, rolled in ground pecans and fresh parsley.","prepTime":"PT20M","cookTime":"PT0M","totalTime":"PT8H20M","recipeYield":"24 servings","recipeCategory":"Appetizer","recipeCuisine":"American","recipeIngredient":["4 (3-ounce) packages cream cheese, softened","2 (5-ounce) jars processed cheddar cheese spread","6 ounces sharp cheddar cheese, finely diced or shredded","1 teaspoon grated onion","1 teaspoon Worcestershire sauce","1 teaspoon MSG (optional)","1 cup pecans, finely chopped or ground, divided","1/2 cup fresh parsley, finely chopped"],"recipeInstructions":[{"@type":"HowToStep","text":"Ensure all cheeses are at room temperature. In a large bowl, combine the softened cream cheese, processed cheddar spread, diced cheddar, grated onion, Worcestershire sauce, and optional MSG."},{"@type":"HowToStep","text":"Mix with an electric mixer or by hand until thoroughly blended."},{"@type":"HowToStep","text":"Stir in 1/2 cup of the ground pecans."},{"@type":"HowToStep","text":"Shape the mixture into a large ball, place it in a bowl lined with wax paper, and cover."},{"@type":"HowToStep","text":"Chill overnight, or for at least 8 hours, until very firm."},{"@type":"HowToStep","text":"About an hour before serving, combine the remaining 1/2 cup of pecans and the finely chopped parsley on a plate."},{"@type":"HowToStep","text":"Unwrap the chilled cheese ball and roll it in the pecan-parsley mixture until evenly coated."},{"@type":"HowToStep","text":"Place on a platter and serve with crackers or croutons."}]}'
 ---
 
 # Classic Party Cheese Ball With Pecans

@@ -1,13 +1,18 @@
 ---
-title: "Classic Chocolate Rum Pots de Cr\u00e8me"
-category: "Desserts"
-collection: "LOC"
-source: "Unknown"
-tags: ["chocolate", "custard", "french", "rum", "dessert", "123"]
-description: "A rich and elegant baked chocolate custard infused with a hint of rum. This sophisticated dessert is baked in a water bath for a perfectly smooth and decadent texture."
-date: "2026-07-30"
+title: Classic Chocolate Rum Pots de Crème
+category: Desserts
+collection: LOC
+source: Unknown
+tags:
+  - chocolate
+  - custard
+  - french
+  - rum
+  - dessert
+description: A rich and elegant baked chocolate custard infused with a hint of rum. This sophisticated dessert is baked in a water bath for a perfectly smooth and decadent texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Chocolate Rum Pots de Cr\u00e8me\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT20M\", \"recipeYield\": \"6 to 8 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 Cup Sugar\", \"1/4 tsp Salt\", \"6 Tbsp Cocoa\", \"2 Cups Cream or Half & Half\", \"6 Egg Yolks\", \"2 Tbsp Rum\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Chocolate Rum Pots de Crème", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT15M", "cookTime": "PT20M", "recipeYield": "6 to 8 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1/2 Cup Sugar", "1/4 tsp Salt", "6 Tbsp Cocoa", "2 Cups Cream or Half & Half", "6 Egg Yolks", "2 Tbsp Rum"]}'
 ---
 
 # Classic Chocolate Rum Pots de Crème

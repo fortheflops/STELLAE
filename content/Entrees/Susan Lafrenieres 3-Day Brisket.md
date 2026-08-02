@@ -1,13 +1,35 @@
 ---
-title: "Susan Lafreniere's 3-Day Brisket"
-category: "Entrees"
-collection: "General Archive"
-source: "Susan Lafreniere"
-tags: ["brisket", "beef", "entree", "slowcook", "barbecue", "123"]
-description: "A classic, multi-day recipe from Susan Lafreniere featuring a slow-roasted beef brisket that is chilled, sliced, and reheated in homemade BBQ sauce."
-date: "2026-07-30"
+title: Susan Lafreniere's 3-Day Brisket
+category: Entrees
+collection: General Archive
+source: Susan Lafreniere
+tags:
+  - brisket
+  - beef
+  - entree
+  - slowcook
+  - barbecue
+description: A classic, multi-day recipe from Susan Lafreniere featuring a slow-roasted beef brisket that is chilled, sliced, and reheated in homemade BBQ sauce.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Susan Lafreniere's 3-Day Brisket\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Susan Lafreniere\"\n  },\n  \"datePublished\": \"2025-11-07\",\n  \"description\": \"A classic, multi-day recipe for an incredibly tender brisket. The beef is seasoned, slow-roasted for 10 hours, chilled, sliced, and then reheated in a homemade BBQ sauce.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT11H\",\n  \"totalTime\": \"PT3D\",\n  \"recipeYield\": \"8-10 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"American\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Susan Lafreniere's 3-Day Brisket",
+    "author": {
+      "@type": "Person",
+      "name": "Susan Lafreniere"
+    },
+    "datePublished": "2025-11-07",
+    "description": "A classic, multi-day recipe for an incredibly tender brisket. The beef is seasoned, slow-roasted for 10 hours, chilled, sliced, and then reheated in a homemade BBQ sauce.",
+    "prepTime": "PT20M",
+    "cookTime": "PT11H",
+    "totalTime": "PT3D",
+    "recipeYield": "8-10 servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "American"
+  }
 ---
 
 # Susan Lafreniere's 3-Day Brisket

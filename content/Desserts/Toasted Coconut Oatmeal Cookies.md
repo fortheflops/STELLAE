@@ -1,13 +1,18 @@
 ---
-title: "Toasted Coconut Oatmeal Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "oatmeal", "coconut", "123", "dessert", "chewy"]
-description: "A rich and chewy oatmeal drop cookie featuring a deep, nutty flavor profile achieved by toasting the oats and coconut. These classic cookies are finished with a signature sugar-dipped glass press for a perfect texture."
-date: "2026-07-30"
+title: Toasted Coconut Oatmeal Cookies
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - oatmeal
+  - coconut
+  - dessert
+  - chewy
+description: A rich and chewy oatmeal drop cookie featuring a deep, nutty flavor profile achieved by toasting the oats and coconut. These classic cookies are finished with a signature sugar-dipped glass press for a perfect texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Toasted Coconut Oatmeal Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A rich and chewy oatmeal drop cookie with a deep, nutty flavor from toasting the oats and coconut.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"4-5 dozen\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Toasted Coconut Oatmeal Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A rich and chewy oatmeal drop cookie with a deep, nutty flavor from toasting the oats and coconut.", "prepTime": "PT20M", "cookTime": "PT10M", "recipeYield": "4-5 dozen", "recipeCategory": "Dessert"}'
 ---
 
 # Toasted Coconut Oatmeal Cookies

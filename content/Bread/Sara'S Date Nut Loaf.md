@@ -1,13 +1,87 @@
 ---
-title: "Sara'S Date Nut Loaf"
-category: "Bread"
-collection: "UK15"
-source: "Sara"
-tags: ["bread", "quick bread", "dates", "nuts", "123", "baked"]
-description: "A classic, incredibly moist date nut quick bread made by soaking dates in boiling water and baking soda. Perfect for serving sliced with butter or cream cheese."
-date: "2026-07-30"
+title: Sara'S Date Nut Loaf
+category: Bread
+collection: UK15
+source: Sara
+tags:
+  - bread
+  - quick bread
+  - dates
+  - nuts
+  - baked
+description: A classic, incredibly moist date nut quick bread made by soaking dates in boiling water and baking soda. Perfect for serving sliced with butter or cream cheese.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Sara's Date Nut Loaf\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sara\"\n  },\n  \"description\": \"A classic, incredibly moist date nut quick bread made by soaking dates in boiling water and baking soda.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H\",\n  \"totalTime\": \"PT1H20M\",\n  \"recipeYield\": \"1 large or 2 small loaves\",\n  \"recipeCategory\": \"Bread\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 cups chopped dates\",\n    \"2 teaspoons baking soda\",\n    \"1 1/2 cups boiling water\",\n    \"1 teaspoon vanilla extract\",\n    \"1 cup sugar\",\n    \"1 tablespoon butter, softened\",\n    \"2 cups all-purpose flour\",\n    \"1/2 teaspoon salt\",\n    \"1/2 to 1 cup chopped nuts\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat your oven to 350\u00b0F. Grease one large loaf pan or two small ones.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a medium heatproof bowl, combine the chopped dates and baking soda. Pour the boiling water over the mixture, then stir in the vanilla. Set this aside to cool.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate large bowl, blend the sugar and softened butter together.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Once the date mixture has cooled, pour it into the sugar and butter mixture and stir well.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In another bowl, whisk together the flour and salt.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the dry ingredients to the wet date mixture and stir until just combined.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Fold in the chopped nuts.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the batter into your prepared loaf pan(s).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for 1 hour, or until a toothpick inserted into the center comes out clean.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Let the loaf cool completely in the pan before turning it out and slicing.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Sara's Date Nut Loaf",
+    "author": {
+      "@type": "Person",
+      "name": "Sara"
+    },
+    "description": "A classic, incredibly moist date nut quick bread made by soaking dates in boiling water and baking soda.",
+    "prepTime": "PT20M",
+    "cookTime": "PT1H",
+    "totalTime": "PT1H20M",
+    "recipeYield": "1 large or 2 small loaves",
+    "recipeCategory": "Bread",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 cups chopped dates",
+      "2 teaspoons baking soda",
+      "1 1/2 cups boiling water",
+      "1 teaspoon vanilla extract",
+      "1 cup sugar",
+      "1 tablespoon butter, softened",
+      "2 cups all-purpose flour",
+      "1/2 teaspoon salt",
+      "1/2 to 1 cup chopped nuts"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 350°F. Grease one large loaf pan or two small ones."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a medium heatproof bowl, combine the chopped dates and baking soda. Pour the boiling water over the mixture, then stir in the vanilla. Set this aside to cool."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate large bowl, blend the sugar and softened butter together."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the date mixture has cooled, pour it into the sugar and butter mixture and stir well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In another bowl, whisk together the flour and salt."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the dry ingredients to the wet date mixture and stir until just combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fold in the chopped nuts."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter into your prepared loaf pan(s)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 1 hour, or until a toothpick inserted into the center comes out clean."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the loaf cool completely in the pan before turning it out and slicing."
+      }
+    ]
+  }
 ---
 
 # Sara'S Date Nut Loaf

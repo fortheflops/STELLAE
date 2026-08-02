@@ -1,13 +1,71 @@
 ---
-title: "Cake And Frosting Ideas"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["cake", "frosting", "glaze", "123", "dessert"]
-description: "A fascinating collection of vintage recipe ideas, including variations for pound cake with anise and macaroon, alongside several rich, buttery glazes and frostings."
-date: "2026-07-30"
+title: Cake And Frosting Ideas
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - cake
+  - frosting
+  - glaze
+  - dessert
+description: A fascinating collection of vintage recipe ideas, including variations for pound cake with anise and macaroon, alongside several rich, buttery glazes and frostings.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Cake And Frosting Ideas\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A fascinating collection of vintage recipe ideas, including variations for pound cake with anise and macaroon, alongside several rich, buttery glazes and frostings.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H30M\",\n  \"recipeYield\": \"12\u201316 Servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeIngredient\": [\n    \"As Needed Crushed Anise Seed\",\n    \"As Needed Shredded Coconut\",\n    \"2 cups Shredded Coconut\",\n    \"1/2 cup Slivered Almonds\",\n    \"1 stick Melted Butter\",\n    \"8 ounces Sour Cream\",\n    \"2 Eggs\",\n    \"1 pound Softened Butter\",\n    \"1 pound Sifted Confectioners' Sugar\",\n    \"8 Eggs\",\n    \"5 cups All-purpose Flour\",\n    \"1 cup Freshly squeezed Lemon Juice\",\n    \"2 sticks Softened Butter\",\n    \"6 Eggs\",\n    \"1 cup Sour Cream\",\n    \"As Needed Fresh Brandy\",\n    \"1 cup Melted Butter\",\n    \"1 cup Cold Sour Cream\",\n    \"1/4 cup Freshly squeezed Lemon Juice\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat your oven to 325\u00b0F. Grease and flour a large tube or Bundt pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, cream the 1 pound butter and 1 pound confectioners' sugar together until light and fluffy. Beat in the 8 eggs one at a time.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Alternately add the 5 cups flour and the 1 cup lemon juice to the creamed mixture, beginning and ending with the flour until just combined.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the batter into the prepared pan and bake for 1 hour and 15-30 minutes, or until a wooden skewer inserted into the center comes out clean.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Cake And Frosting Ideas",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A fascinating collection of vintage recipe ideas, including variations for pound cake with anise and macaroon, alongside several rich, buttery glazes and frostings.",
+    "prepTime": "PT20M",
+    "cookTime": "PT1H30M",
+    "recipeYield": "12–16 Servings",
+    "recipeCategory": "Desserts",
+    "recipeIngredient": [
+      "As Needed Crushed Anise Seed",
+      "As Needed Shredded Coconut",
+      "2 cups Shredded Coconut",
+      "1/2 cup Slivered Almonds",
+      "1 stick Melted Butter",
+      "8 ounces Sour Cream",
+      "2 Eggs",
+      "1 pound Softened Butter",
+      "1 pound Sifted Confectioners' Sugar",
+      "8 Eggs",
+      "5 cups All-purpose Flour",
+      "1 cup Freshly squeezed Lemon Juice",
+      "2 sticks Softened Butter",
+      "6 Eggs",
+      "1 cup Sour Cream",
+      "As Needed Fresh Brandy",
+      "1 cup Melted Butter",
+      "1 cup Cold Sour Cream",
+      "1/4 cup Freshly squeezed Lemon Juice"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 325°F. Grease and flour a large tube or Bundt pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, cream the 1 pound butter and 1 pound confectioners' sugar together until light and fluffy. Beat in the 8 eggs one at a time."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Alternately add the 5 cups flour and the 1 cup lemon juice to the creamed mixture, beginning and ending with the flour until just combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter into the prepared pan and bake for 1 hour and 15-30 minutes, or until a wooden skewer inserted into the center comes out clean."
+      }
+    ]
+  }
 ---
 
 # Cake And Frosting Ideas

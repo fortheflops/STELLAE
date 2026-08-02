@@ -1,13 +1,75 @@
 ---
-title: "Easy No-Roll Pie Crust"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["piecrust", "dessert", "baking", "noroll", "quick", "123"]
-description: "A foolproof and incredibly easy pie crust made with vegetable oil that requires no rolling. Simply mix the ingredients directly in the pie pan and press into place."
-date: "2026-07-30"
+title: Easy No-Roll Pie Crust
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - piecrust
+  - dessert
+  - baking
+  - noroll
+  - quick
+description: A foolproof and incredibly easy pie crust made with vegetable oil that requires no rolling. Simply mix the ingredients directly in the pie pan and press into place.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Easy No-Roll Pie Crust\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-13\",\n  \"description\": \"A foolproof and incredibly easy pie crust made with vegetable oil that requires no rolling. Simply mix the ingredients directly in the pie pan and press into place.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Crust/Assets/Handwritten_2025-02-13_105319%20(2).webp\"\n  ],\n  \"prepTime\": \"PT5M\",\n  \"cookTime\": \"PT15M\",\n  \"totalTime\": \"PT20M\",\n  \"recipeYield\": \"One 9-inch pie crust\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 1/2 cups All-Purpose Flour\",\n    \"3/4 tsp Salt\",\n    \"1 tsp Sugar\",\n    \"1/2 cup Vegetable Oil\",\n    \"2 Tbsp Milk\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 425\u00b0F (220\u00b0C) if pre-baking the shell.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Sift or whisk the flour, salt, and sugar directly into a 9-inch pie pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a small cup, mix the vegetable oil and milk together.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the liquid mixture over the dry ingredients in the pie pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Mix with a fork until all the flour is moistened and the dough comes together.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Using your fingers or the back of a spoon, press the dough evenly and firmly onto the bottom and up the sides of the pan.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"The crust can now be filled and baked according to your pie's directions, or pre-baked by pricking the bottom and sides with a fork and baking at 425\u00b0F for 15 minutes.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Easy No-Roll Pie Crust",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-13",
+    "description": "A foolproof and incredibly easy pie crust made with vegetable oil that requires no rolling. Simply mix the ingredients directly in the pie pan and press into place.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Pastries/Pie/Crust/Assets/Handwritten_2025-02-13_105319%20(2).webp"
+    ],
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeYield": "One 9-inch pie crust",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 1/2 cups All-Purpose Flour",
+      "3/4 tsp Salt",
+      "1 tsp Sugar",
+      "1/2 cup Vegetable Oil",
+      "2 Tbsp Milk"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 425°F (220°C) if pre-baking the shell."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sift or whisk the flour, salt, and sugar directly into a 9-inch pie pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small cup, mix the vegetable oil and milk together."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the liquid mixture over the dry ingredients in the pie pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix with a fork until all the flour is moistened and the dough comes together."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using your fingers or the back of a spoon, press the dough evenly and firmly onto the bottom and up the sides of the pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "The crust can now be filled and baked according to your pie's directions, or pre-baked by pricking the bottom and sides with a fork and baking at 425°F for 15 minutes."
+      }
+    ]
+  }
 ---
 
 # Easy No-Roll Pie Crust

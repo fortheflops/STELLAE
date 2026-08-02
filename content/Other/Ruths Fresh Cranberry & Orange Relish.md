@@ -1,13 +1,55 @@
 ---
-title: "Ruth's Fresh Cranberry & Orange Relish"
-category: "Other"
-collection: "UK2"
-source: "Ruth"
-tags: ["relish", "condiment", "cranberry", "orange", "123"]
-description: "A vibrant and tangy uncooked relish made with fresh cranberries, whole oranges, and sugar, chilled to perfection. This make-ahead condiment adds a bright pop of flavor to poultry, pork, and holiday tables."
-date: "2026-07-30"
+title: Ruth's Fresh Cranberry & Orange Relish
+category: Other
+collection: UK2
+source: Ruth
+tags:
+  - relish
+  - condiment
+  - cranberry
+  - orange
+description: A vibrant and tangy uncooked relish made with fresh cranberries, whole oranges, and sugar, chilled to perfection. This make-ahead condiment adds a bright pop of flavor to poultry, pork, and holiday tables.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Ruth's Fresh Cranberry & Orange Relish\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Ruth\"\n  },\n  \"datePublished\": \"2025-02-10\",\n  \"description\": \"A vibrant and tangy uncooked relish made with fresh cranberries, whole oranges, and sugar, chilled to perfection.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT0M\",\n  \"totalTime\": \"PT2H15M\",\n  \"recipeYield\": \"8 Servings\",\n  \"recipeCategory\": \"Condiments\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 lb Cranberries\",\n    \"2 Oranges\",\n    \"2 cups Sugar\",\n    \"1-2 tbsp Lemon Juice\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Wash the cranberries and oranges thoroughly. Use the zest and juice of the oranges, and remove their piths.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Grind all ingredients together in a food processor with sugar and lemon juice until desired consistency is reached.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Transfer to a container, cover, and chill for at least 2 hours or overnight before serving cold.\"\n    }\n  ],\n  \"image\": \"Handwritten_2025-02-10_103612.webp\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Ruth's Fresh Cranberry & Orange Relish",
+    "author": {
+      "@type": "Person",
+      "name": "Ruth"
+    },
+    "datePublished": "2025-02-10",
+    "description": "A vibrant and tangy uncooked relish made with fresh cranberries, whole oranges, and sugar, chilled to perfection.",
+    "prepTime": "PT15M",
+    "cookTime": "PT0M",
+    "totalTime": "PT2H15M",
+    "recipeYield": "8 Servings",
+    "recipeCategory": "Condiments",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 lb Cranberries",
+      "2 Oranges",
+      "2 cups Sugar",
+      "1-2 tbsp Lemon Juice"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash the cranberries and oranges thoroughly. Use the zest and juice of the oranges, and remove their piths."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grind all ingredients together in a food processor with sugar and lemon juice until desired consistency is reached."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer to a container, cover, and chill for at least 2 hours or overnight before serving cold."
+      }
+    ],
+    "image": "Handwritten_2025-02-10_103612.webp"
+  }
 ---
 
 # Ruth's Fresh Cranberry & Orange Relish

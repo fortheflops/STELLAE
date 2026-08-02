@@ -1,11 +1,16 @@
 ---
-title: "Trudy's Double Chocolate Crumble Bars"
-category: "Desserts"
-collection: "UK2"
-source: "Trudy"
-tags: ["bars", "chocolate", "marshmallow", "123", "dessert", "peanutbutter"]
-description: "A decadent multi-layered bar cookie featuring a rich brownie-like base, a gooey marshmallow center, and a crunchy chocolate-butterscotch topping. These indulgent treats are perfect for gatherings and store beautifully in the refrigerator."
-date: "2026-07-30"
+title: Trudy's Double Chocolate Crumble Bars
+category: Desserts
+collection: UK2
+source: Trudy
+tags:
+  - bars
+  - chocolate
+  - marshmallow
+  - dessert
+  - peanutbutter
+description: A decadent multi-layered bar cookie featuring a rich brownie-like base, a gooey marshmallow center, and a crunchy chocolate-butterscotch topping. These indulgent treats are perfect for gatherings and store beautifully in the refrigerator.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Trudy's Double Chocolate Crumble Bars\", \"author\": {\"@type\": \"Person\", \"name\": \"Trudy\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT18M\", \"recipeYield\": \"24-36 bars\", \"recipeCategory\": \"Desserts\"}"
 ---

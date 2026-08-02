@@ -1,13 +1,17 @@
 ---
-title: "Spice Sugar Cookies"
-category: "Desserts"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["cookies", "123", "sugar", "spiced", "oilbased"]
-description: "A simple, oil-based sugar cookie with a soft, chewy texture, spiced with cinnamon or nutmeg and rolled in sugar. These vintage-style cookies are quick to prepare and perfect for any occasion."
-date: "2026-07-30"
+title: Spice Sugar Cookies
+category: Desserts
+collection: Jill Collection
+source: Unknown
+tags:
+  - cookies
+  - sugar
+  - spiced
+  - oilbased
+description: A simple, oil-based sugar cookie with a soft, chewy texture, spiced with cinnamon or nutmeg and rolled in sugar. These vintage-style cookies are quick to prepare and perfect for any occasion.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Spice Sugar Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A simple, oil-based sugar cookie with a soft, chewy texture, spiced with cinnamon or nutmeg and rolled in sugar.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT12M\", \"recipeYield\": \"3-4 dozen cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"2 1/2 cups all-purpose flour\", \"1 1/2 teaspoons double-acting baking powder\", \"3/4 teaspoon salt\", \"1 teaspoon cinnamon OR 1/2 tsp freshly grated nutmeg\", \"1 cup granulated sugar\", \"3/4 cup cooking oil\", \"2 large eggs\", \"1 teaspoon vanilla extract\", \"Additional granulated sugar for coating\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Spice Sugar Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A simple, oil-based sugar cookie with a soft, chewy texture, spiced with cinnamon or nutmeg and rolled in sugar.", "prepTime": "PT15M", "cookTime": "PT12M", "recipeYield": "3-4 dozen cookies", "recipeCategory": "Dessert", "recipeIngredient": ["2 1/2 cups all-purpose flour", "1 1/2 teaspoons double-acting baking powder", "3/4 teaspoon salt", "1 teaspoon cinnamon OR 1/2 tsp freshly grated nutmeg", "1 cup granulated sugar", "3/4 cup cooking oil", "2 large eggs", "1 teaspoon vanilla extract", "Additional granulated sugar for coating"]}'
 ---
 
 # Spice Sugar Cookies

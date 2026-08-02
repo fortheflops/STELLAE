@@ -1,13 +1,17 @@
 ---
-title: "Spiced Apple Drop Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "123", "apple", "spiced", "comfortfood"]
-description: "A classic recipe for soft, cake-like apple drop cookies. This old-fashioned treat is loaded with warm spices and packed with chopped apples, raisins, and nuts."
-date: "2026-07-30"
+title: Spiced Apple Drop Cookies
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - apple
+  - spiced
+  - comfortfood
+description: A classic recipe for soft, cake-like apple drop cookies. This old-fashioned treat is loaded with warm spices and packed with chopped apples, raisins, and nuts.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Spiced Apple Drop Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A soft, spiced, cake-like drop cookie filled with chopped apple, raisins, and nuts.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"4 dozen cookies\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Spiced Apple Drop Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A soft, spiced, cake-like drop cookie filled with chopped apple, raisins, and nuts.", "prepTime": "PT20M", "cookTime": "PT10M", "recipeYield": "4 dozen cookies", "recipeCategory": "Dessert"}'
 ---
 
 # Spiced Apple Drop Cookies

@@ -1,13 +1,17 @@
 ---
-title: "Classic Sand Tarts"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["cookies", "shortbread", "pecans", "123", "dessert"]
-description: "A classic recipe for buttery, melt-in-your-mouth shortbread cookies filled with chopped pecans and rolled in powdered sugar. These delicate treats are also known as Mexican Wedding Cookies or Russian Tea Cakes."
-date: "2026-07-30"
+title: Classic Sand Tarts
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - cookies
+  - shortbread
+  - pecans
+  - dessert
+description: A classic recipe for buttery, melt-in-your-mouth shortbread cookies filled with chopped pecans and rolled in powdered sugar. These delicate treats are also known as Mexican Wedding Cookies or Russian Tea Cakes.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Sand Tarts\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"3.5 dozen\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 pound Butter\", \"3 tablespoons Sugar\", \"1 teaspoon Vanilla\", \"2 3/4 cups Flour\", \"1 cup Pecans\", \"1 cup Powdered Sugar\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Sand Tarts", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT20M", "cookTime": "PT10M", "recipeYield": "3.5 dozen", "recipeCategory": "Dessert", "recipeIngredient": ["1/2 pound Butter", "3 tablespoons Sugar", "1 teaspoon Vanilla", "2 3/4 cups Flour", "1 cup Pecans", "1 cup Powdered Sugar"]}'
 ---
 
 # Classic Sand Tarts

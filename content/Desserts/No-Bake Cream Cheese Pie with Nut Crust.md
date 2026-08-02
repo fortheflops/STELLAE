@@ -1,13 +1,17 @@
 ---
-title: "No-Bake Cream Cheese Pie with Nut Crust"
-category: "Desserts"
-collection: "UK5"
-source: "Carole Gunckel"
-tags: ["pie", "nobake", "dessert", "creamcheese", "123"]
-description: "A light and fluffy no-bake cream cheese pie featuring a simple press-in brown sugar and nut crust. Perfect for serving chilled with fresh berries or fruit toppings."
-date: "2026-07-30"
+title: No-Bake Cream Cheese Pie with Nut Crust
+category: Desserts
+collection: UK5
+source: Carole Gunckel
+tags:
+  - pie
+  - nobake
+  - dessert
+  - creamcheese
+description: A light and fluffy no-bake cream cheese pie featuring a simple press-in brown sugar and nut crust. Perfect for serving chilled with fresh berries or fruit toppings.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"No-Bake Cream Cheese Pie with Nut Crust\", \"author\": {\"@type\": \"Person\", \"name\": \"Carole Gunckel\"}, \"datePublished\": \"2025-10-13\", \"description\": \"A light and fluffy no-bake cream cheese pie from Carole Gunckel, set in a simple, press-in brown sugar and nut crust.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Cream%20Cheese%20Pie/Assets/Cream%20Cheese%20Pie%20UK5-1753482354073.webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT15M\", \"totalTime\": \"PT30M\", \"recipeYield\": \"One 9-inch pie\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1/2 cup Butter or Margarine, softened\", \"1/4 cup Brown Sugar\", \"1 cup Flour\", \"1/2 cup Chopped Nuts\", \"8 ounces Cream Cheese, softened\", \"3/4 cup Powdered Sugar\", \"1 teaspoon Vanilla\", \"1 pint (2 cups) Heavy Cream\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"name\": \"Make the Crust\", \"text\": \"Preheat the oven to 400\u00b0F (200\u00b0C). Cream butter and brown sugar, add flour and nuts, press into pan, bake 15 minutes, and cool.\"}, {\"@type\": \"HowToStep\", \"name\": \"Make the Filling\", \"text\": \"Whip heavy cream. Beat cream cheese, powdered sugar, and vanilla. Fold together and pour into crust, then chill.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "No-Bake Cream Cheese Pie with Nut Crust", "author": {"@type": "Person", "name": "Carole Gunckel"}, "datePublished": "2025-10-13", "description": "A light and fluffy no-bake cream cheese pie from Carole Gunckel, set in a simple, press-in brown sugar and nut crust.", "image": ["https://cucinamezzaluna.com/Desserts/Pastries/Pie/Cream%20Cheese%20Pie/Assets/Cream%20Cheese%20Pie%20UK5-1753482354073.webp"], "prepTime": "PT15M", "cookTime": "PT15M", "totalTime": "PT30M", "recipeYield": "One 9-inch pie", "recipeCategory": "Desserts", "recipeCuisine": "American", "recipeIngredient": ["1/2 cup Butter or Margarine, softened", "1/4 cup Brown Sugar", "1 cup Flour", "1/2 cup Chopped Nuts", "8 ounces Cream Cheese, softened", "3/4 cup Powdered Sugar", "1 teaspoon Vanilla", "1 pint (2 cups) Heavy Cream"], "recipeInstructions": [{"@type": "HowToStep", "name": "Make the Crust", "text": "Preheat the oven to 400°F (200°C). Cream butter and brown sugar, add flour and nuts, press into pan, bake 15 minutes, and cool."}, {"@type": "HowToStep", "name": "Make the Filling", "text": "Whip heavy cream. Beat cream cheese, powdered sugar, and vanilla. Fold together and pour into crust, then chill."}]}'
 ---
 
 # No-Bake Cream Cheese Pie with Nut Crust

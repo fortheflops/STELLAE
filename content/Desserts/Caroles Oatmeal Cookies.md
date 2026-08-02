@@ -1,11 +1,15 @@
 ---
-title: "Carole's Oatmeal Cookies"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Carole"
-tags: ["cookies", "oatmeal", "123", "dessert", "wholesome"]
-description: "A hearty and customizable oatmeal cookie recipe featuring a wholesome base of whole wheat flour, wheat germ, and oats. These cookies are easily adapted with your favorite mix-ins like raisins, coconut, and sunflower seeds."
-date: "2026-07-30"
+title: Carole's Oatmeal Cookies
+category: Desserts
+collection: Gail Collection
+source: Carole
+tags:
+  - cookies
+  - oatmeal
+  - dessert
+  - wholesome
+description: A hearty and customizable oatmeal cookie recipe featuring a wholesome base of whole wheat flour, wheat germ, and oats. These cookies are easily adapted with your favorite mix-ins like raisins, coconut, and sunflower seeds.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Carole's Oatmeal Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Carole\"}, \"description\": \"A hearty and customizable oatmeal cookie recipe featuring a wholesome base of whole wheat flour, wheat germ, and oats.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"4-5 dozen cookies\", \"recipeCategory\": \"Dessert\"}"
 ---

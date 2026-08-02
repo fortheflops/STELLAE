@@ -1,11 +1,15 @@
 ---
-title: "Betty Gaines' Lemonade Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Betty Gaines"
-tags: ["cookies", "lemon", "123", "citrus", "dessert"]
-description: "A bright and tangy classic 1965 recipe for soft, cake-like lemonade cookies. This treat features a double dose of citrus flavor using frozen lemonade concentrate in both the batter and the glaze."
-date: "2026-07-30"
+title: Betty Gaines' Lemonade Cookies
+category: Desserts
+collection: UK2
+source: Betty Gaines
+tags:
+  - cookies
+  - lemon
+  - citrus
+  - dessert
+description: A bright and tangy classic 1965 recipe for soft, cake-like lemonade cookies. This treat features a double dose of citrus flavor using frozen lemonade concentrate in both the batter and the glaze.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Betty Gaines' Lemonade Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Betty Gaines\"}, \"description\": \"A soft, cake-like drop cookie that gets a double punch of flavor from frozen lemonade concentrate used in both the batter and the glaze.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"48 cookies\", \"recipeCategory\": \"Dessert\"}"
 ---

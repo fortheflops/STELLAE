@@ -1,13 +1,18 @@
 ---
-title: "Lemon Raisin Eggless Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["eggless", "123", "cake", "lemon", "raisin", "dessert"]
-description: "A charming old-fashioned eggless cake featuring a tender, scone-like crumb. This recipe utilizes the classic rubbing-in method for a delicate texture infused with bright lemon and sweet raisins."
-date: "2026-07-30"
+title: Lemon Raisin Eggless Cake
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - eggless
+  - cake
+  - lemon
+  - raisin
+  - dessert
+description: A charming old-fashioned eggless cake featuring a tender, scone-like crumb. This recipe utilizes the classic rubbing-in method for a delicate texture infused with bright lemon and sweet raisins.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Lemon Raisin Eggless Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A charming old-fashioned eggless cake featuring a tender, scone-like crumb.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT45M\", \"recipeYield\": \"1 8-inch cake\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Lemon Raisin Eggless Cake", "author": {"@type": "Person", "name": "Unknown"}, "description": "A charming old-fashioned eggless cake featuring a tender, scone-like crumb.", "prepTime": "PT15M", "cookTime": "PT45M", "recipeYield": "1 8-inch cake", "recipeCategory": "Dessert"}'
 ---
 
 # Lemon Raisin Eggless Cake

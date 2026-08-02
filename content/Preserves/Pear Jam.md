@@ -1,13 +1,64 @@
 ---
-title: "Pear Jam"
-category: "Preserves"
-collection: "Gail Collection"
-source: "Ann Seranne"
-tags: ["preserves", "jam", "pear", "canning", "123"]
-description: "A classic homemade pear jam recipe adapted from The Complete Book of Home Preserving. This fruit preserve features fresh pears simmered with citrus and sugar until reaching the ideal jellying point."
-date: "2026-07-30"
+title: Pear Jam
+category: Preserves
+collection: Gail Collection
+source: Ann Seranne
+tags:
+  - preserves
+  - jam
+  - pear
+  - canning
+description: A classic homemade pear jam recipe adapted from The Complete Book of Home Preserving. This fruit preserve features fresh pears simmered with citrus and sugar until reaching the ideal jellying point.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Pear Jam\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Ann Seranne\"\n  },\n  \"description\": \"A classic homemade pear jam recipe adapted from The Complete Book of Home Preserving.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT25M\",\n  \"recipeCategory\": \"Preserves\",\n  \"recipeCuisine\": \"American\",\n  \"recipeYield\": \"4-6 half-pints\",\n  \"ingredients\": [\n    \"1 quart Pears\",\n    \"1/2 cup Water\",\n    \"3 cups Sugar\",\n    \"1/2 cup Lemon Juice\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Wash, peel, core, and crush the Pears. Measure the prepared fruit.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"For each quart of prepared pears, add 1/2 cup of water or orange juice.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bring the mixture to a boil and cook for 10 minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"For each quart of the initial fruit mixture, stir in 3 cups of sugar and 1/2 cup of lemon juice.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook rapidly, stirring frequently, to the jellying point (222\u00b0F on a candy thermometer).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Let the jam cool slightly, then pour into glass jars and seal immediately.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Pear Jam",
+    "author": {
+      "@type": "Person",
+      "name": "Ann Seranne"
+    },
+    "description": "A classic homemade pear jam recipe adapted from The Complete Book of Home Preserving.",
+    "prepTime": "PT30M",
+    "cookTime": "PT25M",
+    "recipeCategory": "Preserves",
+    "recipeCuisine": "American",
+    "recipeYield": "4-6 half-pints",
+    "ingredients": [
+      "1 quart Pears",
+      "1/2 cup Water",
+      "3 cups Sugar",
+      "1/2 cup Lemon Juice"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash, peel, core, and crush the Pears. Measure the prepared fruit."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "For each quart of prepared pears, add 1/2 cup of water or orange juice."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the mixture to a boil and cook for 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "For each quart of the initial fruit mixture, stir in 3 cups of sugar and 1/2 cup of lemon juice."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook rapidly, stirring frequently, to the jellying point (222°F on a candy thermometer)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the jam cool slightly, then pour into glass jars and seal immediately."
+      }
+    ]
+  }
 ---
 
 # Pear Jam

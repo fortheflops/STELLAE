@@ -1,13 +1,18 @@
 ---
-title: "Cream Cheese Butter Cookies"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["cookies", "butter", "creamcheese", "baking", "123", "dessert"]
-description: "A classic 4-ingredient butter cookie dough enriched with cream cheese for an incredibly tender, soft texture. This versatile base is perfect for roll-and-cut shapes, thumbprints, or traditional rugelach."
-date: "2026-07-30"
+title: Cream Cheese Butter Cookies
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - cookies
+  - butter
+  - creamcheese
+  - baking
+  - dessert
+description: A classic 4-ingredient butter cookie dough enriched with cream cheese for an incredibly tender, soft texture. This versatile base is perfect for roll-and-cut shapes, thumbprints, or traditional rugelach.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Cream Cheese Butter Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic 4-ingredient butter cookie dough enriched with cream cheese for an incredibly tender, soft texture.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"3-4 dozen cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 pound butter\", \"1 package cream cheese\", \"1/2 cup sugar\", \"2 cups flour\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Cream Cheese Butter Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic 4-ingredient butter cookie dough enriched with cream cheese for an incredibly tender, soft texture.", "prepTime": "PT15M", "cookTime": "PT15M", "recipeYield": "3-4 dozen cookies", "recipeCategory": "Dessert", "recipeIngredient": ["1/2 pound butter", "1 package cream cheese", "1/2 cup sugar", "2 cups flour"]}'
 ---
 
 # Cream Cheese Butter Cookies

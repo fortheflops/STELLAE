@@ -1,13 +1,17 @@
 ---
-title: "California Fruit Fudge"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["fudge", "123", "confection", "holiday", "chocolate"]
-description: "A rich chocolate fudge loaded with candied fruits. This vintage recipe features chopped cherries, pineapple, figs, raisins, and coconut folded into a smooth chocolate base."
-date: "2026-07-30"
+title: California Fruit Fudge
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - fudge
+  - confection
+  - holiday
+  - chocolate
+description: A rich chocolate fudge loaded with candied fruits. This vintage recipe features chopped cherries, pineapple, figs, raisins, and coconut folded into a smooth chocolate base.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"California Fruit Fudge\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A rich chocolate fudge loaded with candied fruits.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT20M\", \"recipeYield\": \"18 large squares\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"2 sq. Unsweetened Chocolate\", \"3/4 c. Milk\", \"2 c. Sugar\", \"Dash Salt\", \"2 Tbsp. Butter\", \"1 tsp. Vanilla\", \"1/4 c. chopped Candied Cherries\", \"1/4 c. chopped Candied Pineapple\", \"1/4 c. chopped Dried Figs\", \"1/4 c. chopped Seedless Raisins\", \"1/4 c. Shredded Coconut\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "California Fruit Fudge", "author": {"@type": "Person", "name": "Unknown"}, "description": "A rich chocolate fudge loaded with candied fruits.", "prepTime": "PT20M", "cookTime": "PT20M", "recipeYield": "18 large squares", "recipeCategory": "Dessert", "recipeIngredient": ["2 sq. Unsweetened Chocolate", "3/4 c. Milk", "2 c. Sugar", "Dash Salt", "2 Tbsp. Butter", "1 tsp. Vanilla", "1/4 c. chopped Candied Cherries", "1/4 c. chopped Candied Pineapple", "1/4 c. chopped Dried Figs", "1/4 c. chopped Seedless Raisins", "1/4 c. Shredded Coconut"]}'
 ---
 
 # California Fruit Fudge

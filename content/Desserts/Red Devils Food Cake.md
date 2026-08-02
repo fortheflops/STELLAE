@@ -1,13 +1,17 @@
 ---
-title: "Red Devil's Food Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cake", "chocolate", "dessert", "123", "baking"]
-description: "A classic Red Devil's Food Cake featuring a rich, moist crumb and deep chocolate flavor. This vintage recipe utilizes buttermilk and boiling water for a uniquely tender texture."
-date: "2026-07-30"
+title: Red Devil's Food Cake
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cake
+  - chocolate
+  - dessert
+  - baking
+description: A classic Red Devil's Food Cake featuring a rich, moist crumb and deep chocolate flavor. This vintage recipe utilizes buttermilk and boiling water for a uniquely tender texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Red Devil's Food Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-09-22\", \"description\": \"A classic recipe for a moist, tender Red Devil's Food Cake, which gets its rich flavor and color from the reaction of cocoa, buttermilk, and boiling water.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Chocolate-Cake/Devil's-Food-Cake/Assets/Handwritten_2025-02-17_092414.webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT30M\", \"totalTime\": \"PT50M\", \"recipeYield\": \"2 8-inch layers\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3/4 cup butter, softened\", \"2 cups sugar\", \"2 large eggs\", \"1 teaspoon vanilla\", \"2 1/2 cups all-purpose flour\", \"1/2 cup cocoa powder\", \"2 teaspoons baking soda\", \"1 teaspoon salt\", \"1 cup sour milk (buttermilk)\", \"1 cup boiling water\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 350\u00b0F. Grease and flour two 8-inch or 9-inch round cake pans.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a large bowl, cream the softened butter and sugar together until light and fluffy. Add the unbeaten eggs one at a time, beating well after each.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a separate bowl, sift together the flour, baking soda, salt, and cocoa. In a small cup, stir the vanilla into the sour milk (buttermilk).\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the dry ingredients to the creamed mixture alternately with the milk mixture, beginning and ending with the dry ingredients.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour the boiling water into the batter all at once and stir quickly until just combined. The batter will be very thin.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour the batter into the prepared pans and bake for 30 minutes, or until a toothpick inserted into the center comes out clean.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cool in pans for 10 minutes before inverting onto a wire rack to cool completely before frosting.\"}]}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Red Devil's Food Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-09-22\", \"description\": \"A classic recipe for a moist, tender Red Devil's Food Cake, which gets its rich flavor and color from the reaction of cocoa, buttermilk, and boiling water.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Chocolate-Cake/Devil's-Food-Cake/Assets/Handwritten_2025-02-17_092414.webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT30M\", \"totalTime\": \"PT50M\", \"recipeYield\": \"2 8-inch layers\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3/4 cup butter, softened\", \"2 cups sugar\", \"2 large eggs\", \"1 teaspoon vanilla\", \"2 1/2 cups all-purpose flour\", \"1/2 cup cocoa powder\", \"2 teaspoons baking soda\", \"1 teaspoon salt\", \"1 cup sour milk (buttermilk)\", \"1 cup boiling water\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 350°F. Grease and flour two 8-inch or 9-inch round cake pans.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a large bowl, cream the softened butter and sugar together until light and fluffy. Add the unbeaten eggs one at a time, beating well after each.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a separate bowl, sift together the flour, baking soda, salt, and cocoa. In a small cup, stir the vanilla into the sour milk (buttermilk).\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the dry ingredients to the creamed mixture alternately with the milk mixture, beginning and ending with the dry ingredients.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour the boiling water into the batter all at once and stir quickly until just combined. The batter will be very thin.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour the batter into the prepared pans and bake for 30 minutes, or until a toothpick inserted into the center comes out clean.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cool in pans for 10 minutes before inverting onto a wire rack to cool completely before frosting.\"}]}"
 ---
 
 # Red Devil's Food Cake

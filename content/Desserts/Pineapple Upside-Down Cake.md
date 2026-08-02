@@ -1,13 +1,17 @@
 ---
-title: "Pineapple Upside-Down Cake"
-category: "Desserts"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["dessert", "cake", "pineapple", "123", "baking"]
-description: "A classic Pineapple Upside-Down Cake featuring a buttery brown sugar topping, pineapple rings, and pecans, baked in a cast-iron skillet with a light, fluffy batter."
-date: "2026-07-30"
+title: Pineapple Upside-Down Cake
+category: Desserts
+collection: Jill Collection
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - pineapple
+  - baking
+description: A classic Pineapple Upside-Down Cake featuring a buttery brown sugar topping, pineapple rings, and pecans, baked in a cast-iron skillet with a light, fluffy batter.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Pineapple Upside-Down Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-08-08\", \"description\": \"A classic pineapple upside-down cake featuring a buttery brown sugar topping, pineapple rings, and pecans, baked in a cast-iron skillet with a light chiffon-style batter.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Pineapple/Assets/Pineapple%20Upside-Down%20Cake%20JC-1754694422170.webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT35M\", \"totalTime\": \"PT55M\", \"recipeYield\": \"1 9-inch cake\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1/3 cup butter\", \"1 cup brown sugar\", \"1 (20-ounce) can sliced pineapple\", \"2 tablespoons large whole pecans\", \"1 cup sifted cake flour\", \"1 teaspoon baking powder\", \"1/8 teaspoon salt\", \"3 large eggs, separated\", \"1 cup granulated sugar\", \"5 tablespoons reserved pineapple juice\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Pineapple Upside-Down Cake", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-08-08", "description": "A classic pineapple upside-down cake featuring a buttery brown sugar topping, pineapple rings, and pecans, baked in a cast-iron skillet with a light chiffon-style batter.", "image": ["https://cucinamezzaluna.com/Desserts/Cake/Fruit/Pineapple/Assets/Pineapple%20Upside-Down%20Cake%20JC-1754694422170.webp"], "prepTime": "PT20M", "cookTime": "PT35M", "totalTime": "PT55M", "recipeYield": "1 9-inch cake", "recipeCategory": "Desserts", "recipeCuisine": "American", "recipeIngredient": ["1/3 cup butter", "1 cup brown sugar", "1 (20-ounce) can sliced pineapple", "2 tablespoons large whole pecans", "1 cup sifted cake flour", "1 teaspoon baking powder", "1/8 teaspoon salt", "3 large eggs, separated", "1 cup granulated sugar", "5 tablespoons reserved pineapple juice"]}'
 ---
 
 # Pineapple Upside-Down Cake

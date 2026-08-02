@@ -1,13 +1,17 @@
 ---
-title: "Classic Sherried Walnuts"
-category: "Desserts"
-collection: "Gail's Collection"
-source: "Unknown"
-tags: ["candiednuts", "walnuts", "123", "holiday", "sherry"]
-description: "A classic candied nut recipe featuring whole walnuts in a rich, creamy, and spiced glaze made with sherry, honey, and brown sugar. These elegant treats offer a perfect balance of warmth and sweetness."
-date: "2026-07-30"
+title: Classic Sherried Walnuts
+category: Desserts
+collection: Gail's Collection
+source: Unknown
+tags:
+  - candiednuts
+  - walnuts
+  - holiday
+  - sherry
+description: A classic candied nut recipe featuring whole walnuts in a rich, creamy, and spiced glaze made with sherry, honey, and brown sugar. These elegant treats offer a perfect balance of warmth and sweetness.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Sherried Walnuts\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic candied nut recipe featuring whole walnuts in a rich, creamy, and spiced glaze made with sherry, honey, and brown sugar.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"3 cups\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"3 Cups Walnuts\", \"3/4 Cup Brown Sugar\", \"3/4 Cup Sugar\", \"1/2 Cup California Sherry\", \"1/4 Cup Honey\", \"1/4 Teaspoon Cinnamon\", \"1/4 Teaspoon Nutmeg\", \"Dash of Salt\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Sherried Walnuts", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic candied nut recipe featuring whole walnuts in a rich, creamy, and spiced glaze made with sherry, honey, and brown sugar.", "prepTime": "PT10M", "cookTime": "PT15M", "recipeYield": "3 cups", "recipeCategory": "Desserts", "recipeIngredient": ["3 Cups Walnuts", "3/4 Cup Brown Sugar", "3/4 Cup Sugar", "1/2 Cup California Sherry", "1/4 Cup Honey", "1/4 Teaspoon Cinnamon", "1/4 Teaspoon Nutmeg", "Dash of Salt"]}'
 ---
 
 # Classic Sherried Walnuts

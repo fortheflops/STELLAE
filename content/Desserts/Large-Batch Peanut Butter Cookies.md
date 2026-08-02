@@ -1,13 +1,17 @@
 ---
-title: "Large-Batch Peanut Butter Cookies"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["cookies", "peanutbutter", "123", "largebatch", "dessert"]
-description: "A classic, large-batch recipe for soft and chewy peanut butter cookies. This simple, old-fashioned dough is easy to make and creates dozens of cookies perfect for any occasion."
-date: "2026-07-30"
+title: Large-Batch Peanut Butter Cookies
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - cookies
+  - peanutbutter
+  - largebatch
+  - dessert
+description: A classic, large-batch recipe for soft and chewy peanut butter cookies. This simple, old-fashioned dough is easy to make and creates dozens of cookies perfect for any occasion.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Large-Batch Peanut Butter Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT12M\", \"recipeYield\": \"48 cookies\", \"recipeIngredient\": [\"1 cup shortening\", \"1 cup granulated sugar\", \"1 cup packed brown sugar\", \"1 cup peanut butter\", \"2 large eggs, beaten\", \"1 teaspoon vanilla extract\", \"3 cups enriched all-purpose flour\", \"2 teaspoons baking soda\", \"1/4 teaspoon salt\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Large-Batch Peanut Butter Cookies", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT15M", "cookTime": "PT12M", "recipeYield": "48 cookies", "recipeIngredient": ["1 cup shortening", "1 cup granulated sugar", "1 cup packed brown sugar", "1 cup peanut butter", "2 large eggs, beaten", "1 teaspoon vanilla extract", "3 cups enriched all-purpose flour", "2 teaspoons baking soda", "1/4 teaspoon salt"]}'
 ---
 
 # Large-Batch Peanut Butter Cookies

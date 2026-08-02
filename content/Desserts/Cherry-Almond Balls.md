@@ -1,13 +1,18 @@
 ---
-title: "Cherry-Almond Balls"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["cookies", "holiday", "almond", "cherry", "shortbread", "123"]
-description: "A classic holiday cookie featuring a whole candied cherry wrapped inside a tender, buttery almond shortbread dough. These delightful little bites are baked and then rolled in powdered sugar while still warm."
-date: "2026-07-30"
+title: Cherry-Almond Balls
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - cookies
+  - holiday
+  - almond
+  - cherry
+  - shortbread
+description: A classic holiday cookie featuring a whole candied cherry wrapped inside a tender, buttery almond shortbread dough. These delightful little bites are baked and then rolled in powdered sugar while still warm.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Cherry-Almond Balls\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic holiday cookie featuring a whole candied cherry wrapped inside a tender, buttery almond shortbread dough.\", \"prepTime\": \"PT25M\", \"cookTime\": \"PT20M\", \"recipeYield\": \"5 dozen\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Cherry-Almond Balls", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic holiday cookie featuring a whole candied cherry wrapped inside a tender, buttery almond shortbread dough.", "prepTime": "PT25M", "cookTime": "PT20M", "recipeYield": "5 dozen", "recipeCategory": "Dessert"}'
 ---
 
 # Cherry-Almond Balls

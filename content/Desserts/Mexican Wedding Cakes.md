@@ -1,13 +1,18 @@
 ---
-title: "Mexican Wedding Cakes"
-category: "Desserts"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["cookies", "shortbread", "mexican", "123", "nutty", "holiday"]
-description: "A classic, buttery, and nutty shortbread cookie, rolled twice in powdered sugar for a melt-in-your-mouth finish. Also known as Russian Tea Cakes or Snowballs."
-date: "2026-07-30"
+title: Mexican Wedding Cakes
+category: Desserts
+collection: Jill Collection
+source: Unknown
+tags:
+  - cookies
+  - shortbread
+  - mexican
+  - nutty
+  - holiday
+description: A classic, buttery, and nutty shortbread cookie, rolled twice in powdered sugar for a melt-in-your-mouth finish. Also known as Russian Tea Cakes or Snowballs.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Mexican Wedding Cakes\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, buttery, and nutty shortbread cookie, rolled twice in powdered sugar for a melt-in-your-mouth finish.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"2-3 dozen cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 cup butter or margarine\", \"2 tablespoons granulated sugar\", \"1 teaspoon vanilla extract\", \"1 cup all-purpose flour\", \"1/8 teaspoon salt\", \"1 cup chopped nuts\", \"Confectioners sugar\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Mexican Wedding Cakes", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, buttery, and nutty shortbread cookie, rolled twice in powdered sugar for a melt-in-your-mouth finish.", "prepTime": "PT15M", "cookTime": "PT15M", "recipeYield": "2-3 dozen cookies", "recipeCategory": "Dessert", "recipeIngredient": ["1/2 cup butter or margarine", "2 tablespoons granulated sugar", "1 teaspoon vanilla extract", "1 cup all-purpose flour", "1/8 teaspoon salt", "1 cup chopped nuts", "Confectioners sugar"]}'
 ---
 
 # Mexican Wedding Cakes

@@ -1,13 +1,18 @@
 ---
-title: "Classic Apricot Lattice Pie (Large Batch)"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["dessert", "pie", "apricot", "baking", "123", "largebatch"]
-description: "A classic, large-batch recipe yielding four beautiful apricot lattice pies with a sweet and warmly spiced filling. Perfect for gatherings and celebrations, featuring a homemade crust and golden finish."
-date: "2026-07-30"
+title: Classic Apricot Lattice Pie (Large Batch)
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - dessert
+  - pie
+  - apricot
+  - baking
+  - largebatch
+description: A classic, large-batch recipe yielding four beautiful apricot lattice pies with a sweet and warmly spiced filling. Perfect for gatherings and celebrations, featuring a homemade crust and golden finish.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Classic Apricot Lattice Pie (Large Batch)\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-10-13\",\"description\":\"A classic, large-batch recipe for making four beautiful apricot lattice pies. This recipe features a sweet and warmly spiced apricot filling, perfect for any occasion.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Apricot%20Pie/Assets/Handwritten_2025-06-29_071525.webp\"],\"prepTime\":\"PT30M\",\"cookTime\":\"PT40M\",\"totalTime\":\"PT1H10M\",\"recipeYield\":\"4 9-inch pies\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"4 pounds Pie Dough\",\"1 1/2 #10 cans Canned Sliced Apricots\",\"3 cups (reserved apricot juice + water)\",\"3 ounces Cornstarch\",\"1 1/4 cups Cold Water\",\"1 pound 4 ounces Sugar\",\"1 1/2 teaspoons Salt\",\"3/4 teaspoon Mace\",\"1 1/2 teaspoons Cinnamon\",\"2 tablespoons Lemon Juice\"]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Classic Apricot Lattice Pie (Large Batch)","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-10-13","description":"A classic, large-batch recipe for making four beautiful apricot lattice pies. This recipe features a sweet and warmly spiced apricot filling, perfect for any occasion.","image":["https://cucinamezzaluna.com/Desserts/Pastries/Pie/Apricot%20Pie/Assets/Handwritten_2025-06-29_071525.webp"],"prepTime":"PT30M","cookTime":"PT40M","totalTime":"PT1H10M","recipeYield":"4 9-inch pies","recipeCategory":"Dessert","recipeCuisine":"American","recipeIngredient":["4 pounds Pie Dough","1 1/2 #10 cans Canned Sliced Apricots","3 cups (reserved apricot juice + water)","3 ounces Cornstarch","1 1/4 cups Cold Water","1 pound 4 ounces Sugar","1 1/2 teaspoons Salt","3/4 teaspoon Mace","1 1/2 teaspoons Cinnamon","2 tablespoons Lemon Juice"]}'
 ---
 
 # Classic Apricot Lattice Pie (Large Batch)

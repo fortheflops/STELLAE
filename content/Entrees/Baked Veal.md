@@ -1,13 +1,51 @@
 ---
-title: "Baked Veal"
-category: "Entrees"
-collection: "UK2"
-source: "Unknown"
-tags: ["veal", "baked", "entree", "123", "maindish"]
-description: "Discover a vintage recipe for Baked Veal marinated in wine vinegar, roasted with thick-sliced onions and tomatoes, and simmered to tenderness. This classic dish offers a deeply savory flavor profile perfect for a comforting family dinner."
-date: "2026-07-30"
+title: Baked Veal
+category: Entrees
+collection: UK2
+source: Unknown
+tags:
+  - veal
+  - baked
+  - entree
+  - maindish
+description: Discover a vintage recipe for Baked Veal marinated in wine vinegar, roasted with thick-sliced onions and tomatoes, and simmered to tenderness. This classic dish offers a deeply savory flavor profile perfect for a comforting family dinner.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Baked Veal\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"description\": \"Discover a vintage recipe for Baked Veal marinated in wine vinegar, roasted with thick-sliced onions and tomatoes, and simmered to tenderness.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT40M\",\n  \"totalTime\": \"PT55M\",\n  \"recipeYield\": \"4 Servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeIngredient\": [\n    \"1 1/2 Pounds Veal Cutlet\",\n    \"Salt\",\n    \"Pepper\",\n    \"Wine Vinegar\",\n    \"3 Onions\",\n    \"4 Tomatoes\",\n    \"Stock or Water\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place the veal cutlet in a deep bowl; season with salt and pepper. Marinate in wine vinegar for 1 hour. Remove the veal cutlet from the vinegar, pat dry, and place in a greased roaster. Place in a hot oven preheated to 450 degrees Fahrenheit and brown until golden brown and fragrant.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cut the onions and tomatoes into thick slices and fry in a skillet. Add the fried onions and tomatoes to the veal cutlet in the roaster. Reduce the oven temperature to 300 degrees Fahrenheit. Add stock or water to cover the contents. Continue to bake for 30 to 40 minutes until the meat is fork-tender.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Baked Veal",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "description": "Discover a vintage recipe for Baked Veal marinated in wine vinegar, roasted with thick-sliced onions and tomatoes, and simmered to tenderness.",
+    "prepTime": "PT15M",
+    "cookTime": "PT40M",
+    "totalTime": "PT55M",
+    "recipeYield": "4 Servings",
+    "recipeCategory": "Entrees",
+    "recipeIngredient": [
+      "1 1/2 Pounds Veal Cutlet",
+      "Salt",
+      "Pepper",
+      "Wine Vinegar",
+      "3 Onions",
+      "4 Tomatoes",
+      "Stock or Water"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the veal cutlet in a deep bowl; season with salt and pepper. Marinate in wine vinegar for 1 hour. Remove the veal cutlet from the vinegar, pat dry, and place in a greased roaster. Place in a hot oven preheated to 450 degrees Fahrenheit and brown until golden brown and fragrant."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the onions and tomatoes into thick slices and fry in a skillet. Add the fried onions and tomatoes to the veal cutlet in the roaster. Reduce the oven temperature to 300 degrees Fahrenheit. Add stock or water to cover the contents. Continue to bake for 30 to 40 minutes until the meat is fork-tender."
+      }
+    ]
+  }
 ---
 
 # Baked Veal

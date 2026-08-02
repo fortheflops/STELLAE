@@ -1,13 +1,43 @@
 ---
-title: "Classic New York-Style Cheesecake"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cheesecake", "dessert", "crustless", "baking", "123"]
-description: "A rich, dense, and creamy crustless cheesecake that uses a slow oven cooldown method to help prevent cracks. Chill overnight for the smoothest texture."
-date: "2026-07-30"
+title: Classic New York-Style Cheesecake
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cheesecake
+  - dessert
+  - crustless
+  - baking
+description: A rich, dense, and creamy crustless cheesecake that uses a slow oven cooldown method to help prevent cracks. Chill overnight for the smoothest texture.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Classic New York-Style Cheesecake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-06\",\n  \"description\": \"A rich, dense, and creamy crustless cheesecake that uses a slow oven cooldown method to help prevent cracks.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT1H10M\",\n  \"totalTime\": \"PT2H25M\",\n  \"recipeYield\": \"12-16 servings\",\n  \"recipeCategory\": \"Desserts\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 1/2 lbs cream cheese, softened\",\n    \"1 1/2 cups sugar\",\n    \"3 tablespoons all-purpose flour\",\n    \"1/8 teaspoon salt\",\n    \"4 large eggs\",\n    \"1/4 cup milk\",\n    \"1 teaspoon vanilla\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Classic New York-Style Cheesecake",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-06",
+    "description": "A rich, dense, and creamy crustless cheesecake that uses a slow oven cooldown method to help prevent cracks.",
+    "prepTime": "PT15M",
+    "cookTime": "PT1H10M",
+    "totalTime": "PT2H25M",
+    "recipeYield": "12-16 servings",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 1/2 lbs cream cheese, softened",
+      "1 1/2 cups sugar",
+      "3 tablespoons all-purpose flour",
+      "1/8 teaspoon salt",
+      "4 large eggs",
+      "1/4 cup milk",
+      "1 teaspoon vanilla"
+    ]
+  }
 ---
 
 # Classic New York-Style Cheesecake

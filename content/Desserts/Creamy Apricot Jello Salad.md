@@ -1,13 +1,18 @@
 ---
-title: "Creamy Apricot Jello Salad"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["jello", "123", "apricot", "pecans", "creamy", "molded"]
-description: "A classic molded Jello salad featuring pureed apricots and crunchy pecans blended into a creamy lemon Jello and cream cheese base. This retro dessert offers a delightful balance of tangy fruit and rich, velvety texture."
-date: "2026-07-30"
+title: Creamy Apricot Jello Salad
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - jello
+  - apricot
+  - pecans
+  - creamy
+  - molded
+description: A classic molded Jello salad featuring pureed apricots and crunchy pecans blended into a creamy lemon Jello and cream cheese base. This retro dessert offers a delightful balance of tangy fruit and rich, velvety texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Creamy Apricot Jello Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic molded Jello salad featuring pureed apricots and crunchy pecans blended into a creamy lemon Jello and cream cheese base.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 package (3 oz) Lemon Jello\", \"1 small package (3 oz) cream cheese, softened\", \"1 Cup boiling water\", \"1 can (15-16 oz) apricots\", \"1/2 Cup reserved apricot juice\", \"1/2 Cup chopped pecans\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Creamy Apricot Jello Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic molded Jello salad featuring pureed apricots and crunchy pecans blended into a creamy lemon Jello and cream cheese base.", "prepTime": "PT15M", "cookTime": "PT0M", "recipeYield": "6-8 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 package (3 oz) Lemon Jello", "1 small package (3 oz) cream cheese, softened", "1 Cup boiling water", "1 can (15-16 oz) apricots", "1/2 Cup reserved apricot juice", "1/2 Cup chopped pecans"]}'
 ---
 
 # Creamy Apricot Jello Salad

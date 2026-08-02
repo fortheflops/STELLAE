@@ -1,13 +1,17 @@
 ---
-title: "Old-Fashioned Tea Cakes"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["teacakes", "cookies", "123", "dessert", "oldfashioned"]
-description: "A very, very old recipe for traditional tea cakes\u2014a crisp, simple, and delicious cookie that isn't overly rich. Dropped by the spoonful and baked until the edges are golden."
-date: "2026-07-30"
+title: Old-Fashioned Tea Cakes
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - teacakes
+  - cookies
+  - dessert
+  - oldfashioned
+description: A very, very old recipe for traditional tea cakes—a crisp, simple, and delicious cookie that isn't overly rich. Dropped by the spoonful and baked until the edges are golden.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Old-Fashioned Tea Cakes\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-11-06\", \"description\": \"A very, very old recipe for 'Tea Cakes'\u2014a crisp, simple, and delicious cookie that isn't overly rich. Dropped by the spoonful and baked until the edges are golden.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Tea%20Cakes/Assets/Handwritten_2025-11-06_151834.jpg\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"totalTime\": \"PT25M\", \"recipeYield\": \"Approx. 4-5 dozen cookies\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3 Cups Flour\", \"2 tsp. Cream of tartar\", \"1 tsp. Baking Soda\", \"1/2 tsp. Salt\", \"1 Cup Sugar\", \"1 Cup Shortening\", \"2 Eggs\", \"1 tsp. Vanilla Extract\"]}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Old-Fashioned Tea Cakes\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-11-06\", \"description\": \"A very, very old recipe for 'Tea Cakes'—a crisp, simple, and delicious cookie that isn't overly rich. Dropped by the spoonful and baked until the edges are golden.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Tea%20Cakes/Assets/Handwritten_2025-11-06_151834.jpg\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"totalTime\": \"PT25M\", \"recipeYield\": \"Approx. 4-5 dozen cookies\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3 Cups Flour\", \"2 tsp. Cream of tartar\", \"1 tsp. Baking Soda\", \"1/2 tsp. Salt\", \"1 Cup Sugar\", \"1 Cup Shortening\", \"2 Eggs\", \"1 tsp. Vanilla Extract\"]}"
 ---
 
 # Old-Fashioned Tea Cakes

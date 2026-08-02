@@ -1,13 +1,17 @@
 ---
-title: "Classic Seven-Minute Frosting"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["frosting", "123", "meringue", "boiledicing", "desserttopping"]
-description: "A classic, light, and glossy boiled icing that creates a stable, marshmallow-like meringue topping. This recipe is perfect for finishing two-layer cakes with a professional, fluffy finish."
-date: "2026-07-30"
+title: Classic Seven-Minute Frosting
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - frosting
+  - meringue
+  - boiledicing
+  - desserttopping
+description: A classic, light, and glossy boiled icing that creates a stable, marshmallow-like meringue topping. This recipe is perfect for finishing two-layer cakes with a professional, fluffy finish.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Seven-Minute Frosting\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, light, and glossy boiled icing that creates a stable, marshmallow-like meringue topping.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"Frosting for a two-layer, 8-inch cake\", \"recipeIngredient\": [\"1 Cup Sugar\", \"1/3 Cup Water\", \"1 tsp. Vinegar\", \"2 Egg Whites\", \"3/4 tsp. Vanilla\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Seven-Minute Frosting", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, light, and glossy boiled icing that creates a stable, marshmallow-like meringue topping.", "prepTime": "PT5M", "cookTime": "PT10M", "recipeYield": "Frosting for a two-layer, 8-inch cake", "recipeIngredient": ["1 Cup Sugar", "1/3 Cup Water", "1 tsp. Vinegar", "2 Egg Whites", "3/4 tsp. Vanilla"]}'
 ---
 
 # Classic Seven-Minute Frosting

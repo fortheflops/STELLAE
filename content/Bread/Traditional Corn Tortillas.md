@@ -1,13 +1,70 @@
 ---
-title: "Traditional Corn Tortillas"
-category: "Bread"
-collection: "UK2"
-source: "Unknown"
-tags: ["bread", "tortillas", "mexican", "fromscratch", "123", "nixtamalization"]
-description: "An authentic, from-scratch recipe for corn tortillas using the traditional process of nixtamalization, where dry kernel corn is soaked with lime before being ground into masa."
-date: "2026-07-30"
+title: Traditional Corn Tortillas
+category: Bread
+collection: UK2
+source: Unknown
+tags:
+  - bread
+  - tortillas
+  - mexican
+  - fromscratch
+  - nixtamalization
+description: An authentic, from-scratch recipe for corn tortillas using the traditional process of nixtamalization, where dry kernel corn is soaked with lime before being ground into masa.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Traditional Corn Tortillas (from scratch)\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-09-22\",\n  \"description\": \"An authentic, from-scratch recipe for corn tortillas using the traditional process of nixtamalization, where dry kernel corn is soaked with lime before being ground into masa.\",\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT30M\",\n  \"totalTime\": \"P1D\",\n  \"recipeYield\": \"24-30 tortillas\",\n  \"recipeCategory\": \"Bread\",\n  \"recipeCuisine\": \"Mexican\",\n  \"recipeIngredient\": [\n    \"1 lb dry whole kernel corn\",\n    \"1 tablespoon food-grade lime (calcium hydroxide / cal)\",\n    \"Water\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Wash and rinse the dry corn thoroughly. Place it in a large bowl and cover with water. Let it soak overnight.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"The next day, drain the corn and place it in a large, non-reactive pot. Cover with fresh water and add the 1 tablespoon of lime (calcium hydroxide). Stir to dissolve.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bring the mixture to a simmer over low heat. Cook until the outer skins (husks) of the corn kernels can be easily rubbed off between your fingers. Do not overcook.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Drain the corn and rinse it very well under cold water, rubbing the kernels to remove the skins. This is a crucial step to remove the excess lime.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pass the cleaned corn through a meat grinder or a grain mill multiple times until it forms a thick, smooth paste (masa).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Knead the masa dough for a few minutes until it is smooth and pliable. Pinch off a small piece of dough and pat it out between your palms or using a tortilla press until it is paper-thin.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook the tortilla on a hot, ungreased griddle (comal) or cast-iron skillet for about 30-60 seconds per side, until lightly browned and cooked through.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Traditional Corn Tortillas (from scratch)",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-09-22",
+    "description": "An authentic, from-scratch recipe for corn tortillas using the traditional process of nixtamalization, where dry kernel corn is soaked with lime before being ground into masa.",
+    "prepTime": "PT30M",
+    "cookTime": "PT30M",
+    "totalTime": "P1D",
+    "recipeYield": "24-30 tortillas",
+    "recipeCategory": "Bread",
+    "recipeCuisine": "Mexican",
+    "recipeIngredient": [
+      "1 lb dry whole kernel corn",
+      "1 tablespoon food-grade lime (calcium hydroxide / cal)",
+      "Water"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash and rinse the dry corn thoroughly. Place it in a large bowl and cover with water. Let it soak overnight."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "The next day, drain the corn and place it in a large, non-reactive pot. Cover with fresh water and add the 1 tablespoon of lime (calcium hydroxide). Stir to dissolve."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the mixture to a simmer over low heat. Cook until the outer skins (husks) of the corn kernels can be easily rubbed off between your fingers. Do not overcook."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain the corn and rinse it very well under cold water, rubbing the kernels to remove the skins. This is a crucial step to remove the excess lime."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pass the cleaned corn through a meat grinder or a grain mill multiple times until it forms a thick, smooth paste (masa)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Knead the masa dough for a few minutes until it is smooth and pliable. Pinch off a small piece of dough and pat it out between your palms or using a tortilla press until it is paper-thin."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the tortilla on a hot, ungreased griddle (comal) or cast-iron skillet for about 30-60 seconds per side, until lightly browned and cooked through."
+      }
+    ]
+  }
 ---
 
 # Traditional Corn Tortillas

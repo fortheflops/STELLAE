@@ -1,13 +1,18 @@
 ---
-title: "Hungarian Coffee Cake (Monkey Bread)"
-category: "Desserts"
-collection: "LOC"
-source: "Unknown"
-tags: ["dessert", "coffeecake", "monkeybread", "hungarian", "baked", "123"]
-description: "A classic, pull-apart Hungarian coffee cake made from a rich, yeasted sweet dough. Balls of dough are dipped in melted butter and a cinnamon-sugar-nut mixture, then layered in a tube pan and baked into a gooey, delightful treat."
-date: "2026-07-30"
+title: Hungarian Coffee Cake (Monkey Bread)
+category: Desserts
+collection: LOC
+source: Unknown
+tags:
+  - dessert
+  - coffeecake
+  - monkeybread
+  - hungarian
+  - baked
+description: A classic, pull-apart Hungarian coffee cake made from a rich, yeasted sweet dough. Balls of dough are dipped in melted butter and a cinnamon-sugar-nut mixture, then layered in a tube pan and baked into a gooey, delightful treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Hungarian Coffee Cake (Monkey Bread)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-09-22\", \"description\": \"A rich, yeasted pull-apart coffee cake (or monkey bread) where balls of sweet dough are rolled in butter, cinnamon-sugar, and nuts before being baked in a tube pan.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Coffee-Cake/Monkey-Bread/Assets/Handwritten_2025-05-17_111143.webp\"], \"prepTime\": \"PT45M\", \"cookTime\": \"PT40M\", \"totalTime\": \"PT3H\", \"recipeYield\": \"1 coffee cake\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"Hungarian-American\", \"recipeIngredient\": [\"2 Cups Lukewarm Milk\", \"\u00bd Cup Sugar\", \"2 tsps Salt\", \"2 pkgs Active Dry Yeast\", \"\u00bd Cup Soft Shortening\", \"2 Eggs\", \"7-7 \u00bd Cups Sifted Flour\", \"\u00bd Cup Melted Butter\", \"\u00be Cup Sugar\", \"1 tsp Cinnamon\", \"\u00bd Cup Finely Chopped Nuts\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Proof the yeast in warm water. Mix milk, sugar, salt, shortening, eggs, and yeast. Gradually add flour to form a dough.\"}, {\"@type\": \"HowToStep\", \"text\": \"Knead until smooth, let rise twice.\"}, {\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 375\u00b0F and grease a tube pan.\"}, {\"@type\": \"HowToStep\", \"text\": \"Roll dough into balls, dip in butter, then in cinnamon-sugar-nut mixture.\"}, {\"@type\": \"HowToStep\", \"text\": \"Layer in tube pan and let rise for 45 minutes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake for 35-40 minutes until golden brown.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Hungarian Coffee Cake (Monkey Bread)", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-09-22", "description": "A rich, yeasted pull-apart coffee cake (or monkey bread) where balls of sweet dough are rolled in butter, cinnamon-sugar, and nuts before being baked in a tube pan.", "image": ["https://cucinamezzaluna.com/Desserts/Cake/Coffee-Cake/Monkey-Bread/Assets/Handwritten_2025-05-17_111143.webp"], "prepTime": "PT45M", "cookTime": "PT40M", "totalTime": "PT3H", "recipeYield": "1 coffee cake", "recipeCategory": "Desserts", "recipeCuisine": "Hungarian-American", "recipeIngredient": ["2 Cups Lukewarm Milk", "½ Cup Sugar", "2 tsps Salt", "2 pkgs Active Dry Yeast", "½ Cup Soft Shortening", "2 Eggs", "7-7 ½ Cups Sifted Flour", "½ Cup Melted Butter", "¾ Cup Sugar", "1 tsp Cinnamon", "½ Cup Finely Chopped Nuts"], "recipeInstructions": [{"@type": "HowToStep", "text": "Proof the yeast in warm water. Mix milk, sugar, salt, shortening, eggs, and yeast. Gradually add flour to form a dough."}, {"@type": "HowToStep", "text": "Knead until smooth, let rise twice."}, {"@type": "HowToStep", "text": "Preheat oven to 375°F and grease a tube pan."}, {"@type": "HowToStep", "text": "Roll dough into balls, dip in butter, then in cinnamon-sugar-nut mixture."}, {"@type": "HowToStep", "text": "Layer in tube pan and let rise for 45 minutes."}, {"@type": "HowToStep", "text": "Bake for 35-40 minutes until golden brown."}]}'
 ---
 
 # Hungarian Coffee Cake (Monkey Bread)

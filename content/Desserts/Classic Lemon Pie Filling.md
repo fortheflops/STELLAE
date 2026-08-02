@@ -1,13 +1,18 @@
 ---
-title: "Classic Lemon Pie Filling"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["dessert", "lemon", "filling", "pie", "stovetop", "123"]
-description: "A bright and tangy from-scratch lemon filling perfect for pies, tarts, or cake layers. This smooth, cooked curd offers a classic citrus flavor profile."
-date: "2026-07-30"
+title: Classic Lemon Pie Filling
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - dessert
+  - lemon
+  - filling
+  - pie
+  - stovetop
+description: A bright and tangy from-scratch lemon filling perfect for pies, tarts, or cake layers. This smooth, cooked curd offers a classic citrus flavor profile.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Lemon Pie Filling\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A bright and tangy from-scratch lemon filling perfect for pies, tarts, or cake layers.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"Filling for one 9-inch pie\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"1 Cup Sugar\", \"2 1/2 Tablespoons Cornstarch\", \"1 Egg\", \"1/2 Cup Cold Water\", \"1 Teaspoon Butter\", \"Grated Rind of two Lemons\", \"Juice of two Lemons\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Lemon Pie Filling", "author": {"@type": "Person", "name": "Unknown"}, "description": "A bright and tangy from-scratch lemon filling perfect for pies, tarts, or cake layers.", "prepTime": "PT10M", "cookTime": "PT10M", "recipeYield": "Filling for one 9-inch pie", "recipeCategory": "Desserts", "recipeIngredient": ["1 Cup Sugar", "2 1/2 Tablespoons Cornstarch", "1 Egg", "1/2 Cup Cold Water", "1 Teaspoon Butter", "Grated Rind of two Lemons", "Juice of two Lemons"]}'
 ---
 
 # Classic Lemon Pie Filling

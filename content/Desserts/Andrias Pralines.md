@@ -1,11 +1,15 @@
 ---
-title: "Andria's Pralines"
-category: "Desserts"
-collection: "UK2"
-source: "Andria"
-tags: ["pralines", "candy", "southern", "pecans", "123"]
-description: "A classic Southern-style confection featuring a creamy brown sugar and pecan base cooked to the soft-ball stage. These melt-in-your-mouth pralines are beaten until thick and dropped into perfect individual patties."
-date: "2026-07-30"
+title: Andria's Pralines
+category: Desserts
+collection: UK2
+source: Andria
+tags:
+  - pralines
+  - candy
+  - southern
+  - pecans
+description: A classic Southern-style confection featuring a creamy brown sugar and pecan base cooked to the soft-ball stage. These melt-in-your-mouth pralines are beaten until thick and dropped into perfect individual patties.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Andria's Pralines\", \"author\": {\"@type\": \"Person\", \"name\": \"Andria\"}, \"description\": \"A classic Southern-style confection featuring a creamy brown sugar and pecan base cooked to the soft-ball stage.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"24 pralines\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"3/4 cup white sugar\", \"3/4 cup brown sugar\", \"1/2 cup evaporated milk\", \"1 tablespoon butter\", \"1 teaspoon vanilla\", \"1 cup chopped pecans\"]}"
 ---

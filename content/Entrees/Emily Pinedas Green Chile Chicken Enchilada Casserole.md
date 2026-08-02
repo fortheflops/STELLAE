@@ -1,13 +1,86 @@
 ---
-title: "Emily Pineda's Green Chile Chicken Enchilada Casserole"
-category: "Entrees"
-collection: "General Archive"
-source: "Emily Pineda"
-tags: ["casserole", "chicken", "enchilada", "mexicanamerican", "comfortfood", "123"]
-description: "A comforting, layered chicken enchilada casserole featuring tender chicken, cheese, and onions in a creamy green chile and mushroom soup sauce. Layered with lightly fried tortilla quarters and baked to bubbly perfection."
-date: "2026-07-30"
+title: Emily Pineda's Green Chile Chicken Enchilada Casserole
+category: Entrees
+collection: General Archive
+source: Emily Pineda
+tags:
+  - casserole
+  - chicken
+  - enchilada
+  - mexicanamerican
+  - comfortfood
+description: A comforting, layered chicken enchilada casserole featuring tender chicken, cheese, and onions in a creamy green chile and mushroom soup sauce. Layered with lightly fried tortilla quarters and baked to bubbly perfection.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Emily Pineda's Green Chile Chicken Enchilada Casserole\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Entrees/Casserole/Meat/Chicken/Assets/Handwritten_2025-01-31_062500.webp\"\n  ],\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Emily Pineda\"\n  },\n  \"datePublished\": \"2025-11-13\",\n  \"description\": \"A layered casserole of fried tortillas, chicken, and cheese in a creamy green chile and mushroom soup sauce.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT45M\",\n  \"totalTime\": \"PT1H5M\",\n  \"recipeYield\": \"6-8 servings\",\n  \"recipeCategory\": \"Entree\",\n  \"recipeCuisine\": \"Mexican-American\",\n  \"recipeIngredient\": [\n    \"Cooked Chicken, shredded (approx. 2-3 cups)\",\n    \"2 Cans Green Chile\",\n    \"1 1/2 Cups Grated Cheese (plus more for topping)\",\n    \"1 Can Mushroom Soup\",\n    \"1/4 Cup Chopped Onion\",\n    \"1 pkg Tortillas\",\n    \"1 1/2 Cups Chicken Broth\",\n    \"Hot fat (for frying)\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F. Grease a casserole dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, combine the cooked chicken, 2 cans of green chile, 1/4 cup chopped onion, and 1 1/2 cups of grated cheese.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a saucepan, heat the chicken broth and mushroom soup. Mix well until smooth and hot.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the hot soup mixture into the chicken/cheese mixture and blend well.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cut the tortillas into quarters. In a separate skillet, quickly fry the tortilla quarters in hot fat until lightly crisped. Drain on paper towels.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In the greased casserole dish, create alternate layers of the fried tortillas and the chicken/sauce mixture.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Top the final layer with additional grated cheese.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cover the dish and bake at 350\u00b0F for 40 minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Uncover and bake for the last 5 minutes, until the cheese is melted and bubbly.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Emily Pineda's Green Chile Chicken Enchilada Casserole",
+    "image": [
+      "https://cucinamezzaluna.com/Entrees/Casserole/Meat/Chicken/Assets/Handwritten_2025-01-31_062500.webp"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "Emily Pineda"
+    },
+    "datePublished": "2025-11-13",
+    "description": "A layered casserole of fried tortillas, chicken, and cheese in a creamy green chile and mushroom soup sauce.",
+    "prepTime": "PT20M",
+    "cookTime": "PT45M",
+    "totalTime": "PT1H5M",
+    "recipeYield": "6-8 servings",
+    "recipeCategory": "Entree",
+    "recipeCuisine": "Mexican-American",
+    "recipeIngredient": [
+      "Cooked Chicken, shredded (approx. 2-3 cups)",
+      "2 Cans Green Chile",
+      "1 1/2 Cups Grated Cheese (plus more for topping)",
+      "1 Can Mushroom Soup",
+      "1/4 Cup Chopped Onion",
+      "1 pkg Tortillas",
+      "1 1/2 Cups Chicken Broth",
+      "Hot fat (for frying)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F. Grease a casserole dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the cooked chicken, 2 cans of green chile, 1/4 cup chopped onion, and 1 1/2 cups of grated cheese."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a saucepan, heat the chicken broth and mushroom soup. Mix well until smooth and hot."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the hot soup mixture into the chicken/cheese mixture and blend well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the tortillas into quarters. In a separate skillet, quickly fry the tortilla quarters in hot fat until lightly crisped. Drain on paper towels."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the greased casserole dish, create alternate layers of the fried tortillas and the chicken/sauce mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top the final layer with additional grated cheese."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover the dish and bake at 350°F for 40 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Uncover and bake for the last 5 minutes, until the cheese is melted and bubbly."
+      }
+    ]
+  }
 ---
 
 # Emily Pineda's Green Chile Chicken Enchilada Casserole

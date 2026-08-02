@@ -1,13 +1,18 @@
 ---
-title: "Braciole (Italian Beef Rollups)"
-category: "Entrees"
-collection: "Louise Collection"
-source: "Unknown"
-tags: ["louisecollection", "beef", "italian", "entree", "comfortfood", "123"]
-description: "A classic Italian-American dish featuring tender beef rollups browned to perfection and simmered in rich tomato sauce until melt-in-your-mouth tender. Serve over pasta or rice for a comforting and hearty meal."
-date: "2026-07-30"
+title: Braciole (Italian Beef Rollups)
+category: Entrees
+collection: Louise Collection
+source: Unknown
+tags:
+  - louisecollection
+  - beef
+  - italian
+  - entree
+  - comfortfood
+description: A classic Italian-American dish featuring tender beef rollups browned to perfection and simmered in rich tomato sauce until melt-in-your-mouth tender. Serve over pasta or rice for a comforting and hearty meal.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Braciole (Italian Beef Rollups)\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-11-06\",\"description\":\"A classic Italian-American dish, this recipe details how to cook pre-made Braciole (beef rollups) by simmering them in tomato sauce until tender.\",\"image\":[\"https://cucinamezzaluna.com/Entrees/Meat/Beef/Braciola/Assets/2025-05-20_130714.webp\"],\"prepTime\":\"PT10M\",\"cookTime\":\"PT1H10M\",\"totalTime\":\"PT1H20M\",\"recipeYield\":\"4-6 servings\",\"recipeCategory\":\"Entrees\",\"recipeCuisine\":\"Italian-American\",\"recipeIngredient\":[\"Braciole (Beef Rollups)\",\"Oil (for saut\u00e9ing)\",\"Tully's Spaghetti Sauce (or other marinara/tomato sauce)\",\"Pasta or Rice (for serving, optional)\"]}"
+recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Braciole (Italian Beef Rollups)\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-11-06\",\"description\":\"A classic Italian-American dish, this recipe details how to cook pre-made Braciole (beef rollups) by simmering them in tomato sauce until tender.\",\"image\":[\"https://cucinamezzaluna.com/Entrees/Meat/Beef/Braciola/Assets/2025-05-20_130714.webp\"],\"prepTime\":\"PT10M\",\"cookTime\":\"PT1H10M\",\"totalTime\":\"PT1H20M\",\"recipeYield\":\"4-6 servings\",\"recipeCategory\":\"Entrees\",\"recipeCuisine\":\"Italian-American\",\"recipeIngredient\":[\"Braciole (Beef Rollups)\",\"Oil (for sautéing)\",\"Tully's Spaghetti Sauce (or other marinara/tomato sauce)\",\"Pasta or Rice (for serving, optional)\"]}"
 ---
 
 # Braciole (Italian Beef Rollups)

@@ -1,13 +1,17 @@
 ---
-title: "Melinda's Fruit Cake Cookies"
-category: "Desserts"
-collection: "Unknown Three"
-source: "Melinda"
-tags: ["dessert", "cookies", "fruitcake", "holiday", "123"]
-description: "A classic, large-batch recipe for fruitcake-style drop cookies from Melinda. This buttery, spiced dough is packed with dates and candied fruit, making it perfect for holiday baking and gift-giving."
-date: "2026-07-30"
+title: Melinda's Fruit Cake Cookies
+category: Desserts
+collection: Unknown Three
+source: Melinda
+tags:
+  - dessert
+  - cookies
+  - fruitcake
+  - holiday
+description: A classic, large-batch recipe for fruitcake-style drop cookies from Melinda. This buttery, spiced dough is packed with dates and candied fruit, making it perfect for holiday baking and gift-giving.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Melinda's Fruit Cake Cookies\",\"author\":{\"@type\":\"Person\",\"name\":\"Melinda\"},\"datePublished\":\"2025-10-07\",\"description\":\"A very large batch of dense, chewy, fruitcake-style drop cookies loaded with dates, candied pineapple, and cherries.\",\"prepTime\":\"PT20M\",\"cookTime\":\"PT12M\",\"totalTime\":\"PT32M\",\"recipeYield\":\"Approx. 10 dozen cookies\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"2 cups (4 sticks) butter, softened\",\"3 cups sugar\",\"4 large eggs\",\"5 cups all-purpose flour\",\"2 teaspoons salt\",\"2 teaspoons baking soda\",\"2 teaspoons cinnamon\",\"1 to 2 pounds chopped dates\",\"1/2 cup candied pineapple\",\"1/2 cup candied cherries\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 350\u00b0F. In a very large bowl, cream the butter and sugar. Beat in the eggs one at a time.\"},{\"@type\":\"HowToStep\",\"text\":\"In a separate bowl, sift together the flour, salt, soda, and cinnamon. In another bowl, toss the dates, pineapple, and cherries with about 1/2 cup of the flour mixture to coat.\"},{\"@type\":\"HowToStep\",\"text\":\"Gradually add the remaining dry ingredients to the creamed mixture, mixing until a very stiff dough forms.\"},{\"@type\":\"HowToStep\",\"text\":\"By hand, fold in the floured fruit mixture until it is evenly distributed.\"},{\"@type\":\"HowToStep\",\"text\":\"Drop by teaspoonfuls onto an ungreased cookie sheet.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake for 10-12 minutes, or until the edges are lightly browned.\"}]}"
+recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Melinda's Fruit Cake Cookies\",\"author\":{\"@type\":\"Person\",\"name\":\"Melinda\"},\"datePublished\":\"2025-10-07\",\"description\":\"A very large batch of dense, chewy, fruitcake-style drop cookies loaded with dates, candied pineapple, and cherries.\",\"prepTime\":\"PT20M\",\"cookTime\":\"PT12M\",\"totalTime\":\"PT32M\",\"recipeYield\":\"Approx. 10 dozen cookies\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"2 cups (4 sticks) butter, softened\",\"3 cups sugar\",\"4 large eggs\",\"5 cups all-purpose flour\",\"2 teaspoons salt\",\"2 teaspoons baking soda\",\"2 teaspoons cinnamon\",\"1 to 2 pounds chopped dates\",\"1/2 cup candied pineapple\",\"1/2 cup candied cherries\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 350°F. In a very large bowl, cream the butter and sugar. Beat in the eggs one at a time.\"},{\"@type\":\"HowToStep\",\"text\":\"In a separate bowl, sift together the flour, salt, soda, and cinnamon. In another bowl, toss the dates, pineapple, and cherries with about 1/2 cup of the flour mixture to coat.\"},{\"@type\":\"HowToStep\",\"text\":\"Gradually add the remaining dry ingredients to the creamed mixture, mixing until a very stiff dough forms.\"},{\"@type\":\"HowToStep\",\"text\":\"By hand, fold in the floured fruit mixture until it is evenly distributed.\"},{\"@type\":\"HowToStep\",\"text\":\"Drop by teaspoonfuls onto an ungreased cookie sheet.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake for 10-12 minutes, or until the edges are lightly browned.\"}]}"
 ---
 
 # Melinda's Fruit Cake Cookies

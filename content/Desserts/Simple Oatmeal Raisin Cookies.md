@@ -1,13 +1,17 @@
 ---
-title: "Simple Oatmeal Raisin Cookies"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["cookies", "oatmeal", "raisins", "123", "comfortfood"]
-description: "A classic, soft, and chewy oatmeal raisin cookie recipe lightly spiced with cinnamon. These straightforward drop cookies are perfect for a quick, comforting treat."
-date: "2026-07-30"
+title: Simple Oatmeal Raisin Cookies
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - cookies
+  - oatmeal
+  - raisins
+  - comfortfood
+description: A classic, soft, and chewy oatmeal raisin cookie recipe lightly spiced with cinnamon. These straightforward drop cookies are perfect for a quick, comforting treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Simple Oatmeal Raisin Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, soft, and chewy oatmeal raisin cookie recipe lightly spiced with cinnamon.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT12M\", \"recipeYield\": \"48 cookies\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"1 cup shortening\", \"1 cup sugar\", \"2 eggs\", \"1/4 cup milk\", \"2 cups flour\", \"1 teaspoon baking powder\", \"1/2 teaspoon baking soda\", \"1 teaspoon cinnamon\", \"1/4 teaspoon salt\", \"2 cups oats\", \"1 cup raisins\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Simple Oatmeal Raisin Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, soft, and chewy oatmeal raisin cookie recipe lightly spiced with cinnamon.", "prepTime": "PT15M", "cookTime": "PT12M", "recipeYield": "48 cookies", "recipeCategory": "Desserts", "recipeIngredient": ["1 cup shortening", "1 cup sugar", "2 eggs", "1/4 cup milk", "2 cups flour", "1 teaspoon baking powder", "1/2 teaspoon baking soda", "1 teaspoon cinnamon", "1/4 teaspoon salt", "2 cups oats", "1 cup raisins"]}'
 ---
 
 # Simple Oatmeal Raisin Cookies

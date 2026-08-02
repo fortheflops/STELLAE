@@ -1,13 +1,18 @@
 ---
-title: "Classic Italian Cream Cake"
-category: "Desserts"
-collection: "UK5"
-source: "Unknown"
-tags: ["cake", "dessert", "coconut", "walnuts", "southern", "123"]
-description: "A classic Southern-style layer cake with a buttermilk batter full of coconut and walnuts, finished with a rich cream cheese frosting."
-date: "2026-07-30"
+title: Classic Italian Cream Cake
+category: Desserts
+collection: UK5
+source: Unknown
+tags:
+  - cake
+  - dessert
+  - coconut
+  - walnuts
+  - southern
+description: A classic Southern-style layer cake with a buttermilk batter full of coconut and walnuts, finished with a rich cream cheese frosting.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Classic Italian Cream Cake\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-09-22\",\"description\":\"A classic Southern-style layer cake with a buttermilk batter full of coconut and walnuts, finished with a rich cream cheese frosting.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Cake/Coconut-Cake/Assets/Italian%20Cream%20Cake%20UK5-1753321294087.webp\",\"https://cucinamezzaluna.com/Desserts/Cake/Coconut-Cake/Assets/Italian%20Cream%20Cake%20UK5-1753321294085.webp\"],\"prepTime\":\"PT25M\",\"cookTime\":\"PT30M\",\"totalTime\":\"PT55M\",\"recipeYield\":\"1 3-layer cake\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 stick (1/2 cup) margarine or butter, softened\",\"1/2 cup Crisco (Shortening)\",\"2 cups sugar\",\"5 large eggs, separated\",\"1 tablespoon vanilla extract\",\"2 cups all-purpose flour\",\"1 teaspoon baking soda\",\"1/2 teaspoon salt\",\"1 cup buttermilk\",\"1 cup chopped walnuts\",\"2 cups shredded coconut\",\"8 ounces cream cheese, softened\",\"1 stick (1/2 cup) margarine or butter, softened\",\"1 pound (about 4 cups) powdered sugar\",\"1 teaspoon vanilla\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 350\u00b0F. Grease and flour three 8- or 9-inch round cake pans.\"},{\"@type\":\"HowToStep\",\"text\":\"In a large bowl, cream together the sugar, margarine, and Crisco. Beat in the vanilla and egg yolks. In a separate clean bowl, beat the egg whites until stiff peaks form.\"},{\"@type\":\"HowToStep\",\"text\":\"In another bowl, whisk together the flour, baking soda, and salt. Add this to the creamed mixture alternately with the buttermilk, beginning and ending with the flour mixture.\"},{\"@type\":\"HowToStep\",\"text\":\"Gently fold in the beaten egg whites, followed by the walnuts and coconut.\"},{\"@type\":\"HowToStep\",\"text\":\"Divide the batter evenly among the prepared pans and bake for 25-30 minutes, or until a tester comes out clean.\"},{\"@type\":\"HowToStep\",\"text\":\"For the icing, beat the cream cheese, margarine, and vanilla until smooth. Gradually beat in the powdered sugar until creamy. Frost the completely cooled cake layers.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Classic Italian Cream Cake","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-09-22","description":"A classic Southern-style layer cake with a buttermilk batter full of coconut and walnuts, finished with a rich cream cheese frosting.","image":["https://cucinamezzaluna.com/Desserts/Cake/Coconut-Cake/Assets/Italian%20Cream%20Cake%20UK5-1753321294087.webp","https://cucinamezzaluna.com/Desserts/Cake/Coconut-Cake/Assets/Italian%20Cream%20Cake%20UK5-1753321294085.webp"],"prepTime":"PT25M","cookTime":"PT30M","totalTime":"PT55M","recipeYield":"1 3-layer cake","recipeCategory":"Dessert","recipeCuisine":"American","recipeIngredient":["1 stick (1/2 cup) margarine or butter, softened","1/2 cup Crisco (Shortening)","2 cups sugar","5 large eggs, separated","1 tablespoon vanilla extract","2 cups all-purpose flour","1 teaspoon baking soda","1/2 teaspoon salt","1 cup buttermilk","1 cup chopped walnuts","2 cups shredded coconut","8 ounces cream cheese, softened","1 stick (1/2 cup) margarine or butter, softened","1 pound (about 4 cups) powdered sugar","1 teaspoon vanilla"],"recipeInstructions":[{"@type":"HowToStep","text":"Preheat oven to 350°F. Grease and flour three 8- or 9-inch round cake pans."},{"@type":"HowToStep","text":"In a large bowl, cream together the sugar, margarine, and Crisco. Beat in the vanilla and egg yolks. In a separate clean bowl, beat the egg whites until stiff peaks form."},{"@type":"HowToStep","text":"In another bowl, whisk together the flour, baking soda, and salt. Add this to the creamed mixture alternately with the buttermilk, beginning and ending with the flour mixture."},{"@type":"HowToStep","text":"Gently fold in the beaten egg whites, followed by the walnuts and coconut."},{"@type":"HowToStep","text":"Divide the batter evenly among the prepared pans and bake for 25-30 minutes, or until a tester comes out clean."},{"@type":"HowToStep","text":"For the icing, beat the cream cheese, margarine, and vanilla until smooth. Gradually beat in the powdered sugar until creamy. Frost the completely cooled cake layers."}]}'
 ---
 
 # Classic Italian Cream Cake

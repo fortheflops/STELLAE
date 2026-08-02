@@ -1,11 +1,15 @@
 ---
-title: "Ethyl's Spice Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Ethyl"
-tags: ["cake", "dessert", "spicecake", "123", "baking"]
-description: "A classic, old-fashioned spice cake from a recipe by Ethyl. This tender, buttery cake is flavored with a warm blend of nutmeg, ginger, and cinnamon, and studded with raisins and fresh lemon zest."
-date: "2026-07-30"
+title: Ethyl's Spice Cake
+category: Desserts
+collection: UK2
+source: Ethyl
+tags:
+  - cake
+  - dessert
+  - spicecake
+  - baking
+description: A classic, old-fashioned spice cake from a recipe by Ethyl. This tender, buttery cake is flavored with a warm blend of nutmeg, ginger, and cinnamon, and studded with raisins and fresh lemon zest.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Ethyl's Spice Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Ethyl\"}, \"datePublished\": \"2025-10-05\", \"description\": \"A classic, single-layer spice cake with raisins and a hint of lemon, made with self-rising flour.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT35M\", \"totalTime\": \"PT50M\", \"recipeYield\": \"1 8-inch or 9-inch cake\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"6 tablespoons margarine or butter, softened\", \"3/4 cup sugar\", \"1 large egg\", \"1 1/3 cups self-rising flour\", \"1/4 teaspoon nutmeg\", \"1/4 teaspoon ginger\", \"1/4 teaspoon cinnamon\", \"Pinch of salt\", \"1/3 cup raisins\", \"Grated rind of 1 lemon\", \"1 tablespoon water\", \"1/4 tablespoon (3/4 tsp) lemon juice\"]}"
 ---

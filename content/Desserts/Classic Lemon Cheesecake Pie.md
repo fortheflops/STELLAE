@@ -1,13 +1,18 @@
 ---
-title: "Classic Lemon Cheesecake Pie"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["pie", "cheesecake", "lemon", "dessert", "baked", "123"]
-description: "A classic baked lemon cheesecake pie featuring a rich and creamy filling with a bright, tangy flavor from fresh lemon juice and peel, all set in a simple graham cracker crust."
-date: "2026-07-30"
+title: Classic Lemon Cheesecake Pie
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - pie
+  - cheesecake
+  - lemon
+  - dessert
+  - baked
+description: A classic baked lemon cheesecake pie featuring a rich and creamy filling with a bright, tangy flavor from fresh lemon juice and peel, all set in a simple graham cracker crust.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Classic Lemon Cheesecake Pie\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-10-13\",\"description\":\"A classic baked lemon cheesecake pie featuring a rich and creamy filling with a bright, tangy flavor from fresh lemon juice and peel, all set in a simple graham cracker crust.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT35M\",\"totalTime\":\"PT50M\",\"recipeYield\":\"6-8 servings\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"3 (3oz) pkgs Cream Cheese, softened\",\"2 Tbsp Butter, softened\",\"1/2 Cup Sugar\",\"1 whole Egg\",\"2 Tbsp Flour\",\"2/3 Cup Milk\",\"1/4 Cup Fresh Lemon Juice\",\"2 Tbsp Grated Lemon Peel\",\"1 (8-inch) Classic Graham Cracker Crust UK2\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 350\u00b0F (175\u00b0C).\"},{\"@type\":\"HowToStep\",\"text\":\"In a medium bowl, beat the softened cream cheese and butter together until smooth and creamy.\"},{\"@type\":\"HowToStep\",\"text\":\"Add the sugar and the whole egg. Mix well until fully combined.\"},{\"@type\":\"HowToStep\",\"text\":\"Beat in the flour, then gradually add the milk and continue beating until the mixture is smooth.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir in the fresh lemon juice and grated lemon peel.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour the filling into the unbaked graham cracker crust shell. If you have reserved crumbs from making the crust, sprinkle them on top.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake for 35 minutes, or until the center is nearly set (it should have a slight jiggle).\"},{\"@type\":\"HowToStep\",\"text\":\"Let the pie cool completely on a wire rack, then chill thoroughly in the refrigerator for at least 4 hours before serving.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Classic Lemon Cheesecake Pie","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-10-13","description":"A classic baked lemon cheesecake pie featuring a rich and creamy filling with a bright, tangy flavor from fresh lemon juice and peel, all set in a simple graham cracker crust.","prepTime":"PT15M","cookTime":"PT35M","totalTime":"PT50M","recipeYield":"6-8 servings","recipeCategory":"Dessert","recipeCuisine":"American","recipeIngredient":["3 (3oz) pkgs Cream Cheese, softened","2 Tbsp Butter, softened","1/2 Cup Sugar","1 whole Egg","2 Tbsp Flour","2/3 Cup Milk","1/4 Cup Fresh Lemon Juice","2 Tbsp Grated Lemon Peel","1 (8-inch) Classic Graham Cracker Crust UK2"],"recipeInstructions":[{"@type":"HowToStep","text":"Preheat oven to 350°F (175°C)."},{"@type":"HowToStep","text":"In a medium bowl, beat the softened cream cheese and butter together until smooth and creamy."},{"@type":"HowToStep","text":"Add the sugar and the whole egg. Mix well until fully combined."},{"@type":"HowToStep","text":"Beat in the flour, then gradually add the milk and continue beating until the mixture is smooth."},{"@type":"HowToStep","text":"Stir in the fresh lemon juice and grated lemon peel."},{"@type":"HowToStep","text":"Pour the filling into the unbaked graham cracker crust shell. If you have reserved crumbs from making the crust, sprinkle them on top."},{"@type":"HowToStep","text":"Bake for 35 minutes, or until the center is nearly set (it should have a slight jiggle)."},{"@type":"HowToStep","text":"Let the pie cool completely on a wire rack, then chill thoroughly in the refrigerator for at least 4 hours before serving."}]}'
 ---
 
 # Classic Lemon Cheesecake Pie

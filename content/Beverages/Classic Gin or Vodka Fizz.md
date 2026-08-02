@@ -1,13 +1,19 @@
 ---
-title: "Classic Gin or Vodka Fizz"
-category: "Beverages"
-collection: "GailCollection"
-source: "Unknown"
-tags: ["beverage", "cocktail", "fizz", "gin", "vodka", "blender", "123"]
-description: "A creamy and frothy classic fizz cocktail made in a blender. This recipe combines gin or vodka with milk, half-and-half, and a whole egg for a rich, smooth texture."
-date: "2026-07-30"
+title: Classic Gin or Vodka Fizz
+category: Beverages
+collection: GailCollection
+source: Unknown
+tags:
+  - beverage
+  - cocktail
+  - fizz
+  - gin
+  - vodka
+  - blender
+description: A creamy and frothy classic fizz cocktail made in a blender. This recipe combines gin or vodka with milk, half-and-half, and a whole egg for a rich, smooth texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Gin (or Vodka) Fizz\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-09-20\", \"description\": \"A quick and easy blended fizz cocktail made with gin or vodka, milk, half-and-half, and a whole egg for a classic frothy texture.\", \"image\": [\"https://cucinamezzaluna.com/Beverages/Cocktails/Assets/Handwritten_2025-06-15_104643.webp\"], \"prepTime\": \"PT5M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT5M\", \"recipeYield\": \"2-4 servings\", \"recipeCategory\": \"Drink\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"2/3 cup gin or vodka\", \"2/3 cup sweet & sour mix\", \"1/2 cup milk\", \"1/2 cup half-and-half\", \"1 whole egg\", \"6 ice cubes\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Gin (or Vodka) Fizz", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-09-20", "description": "A quick and easy blended fizz cocktail made with gin or vodka, milk, half-and-half, and a whole egg for a classic frothy texture.", "image": ["https://cucinamezzaluna.com/Beverages/Cocktails/Assets/Handwritten_2025-06-15_104643.webp"], "prepTime": "PT5M", "cookTime": "PT0M", "totalTime": "PT5M", "recipeYield": "2-4 servings", "recipeCategory": "Drink", "recipeCuisine": "American", "recipeIngredient": ["2/3 cup gin or vodka", "2/3 cup sweet & sour mix", "1/2 cup milk", "1/2 cup half-and-half", "1 whole egg", "6 ice cubes"]}'
 ---
 
 # Classic Gin or Vodka Fizz

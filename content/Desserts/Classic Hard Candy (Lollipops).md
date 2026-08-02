@@ -1,13 +1,17 @@
 ---
-title: "Classic Hard Candy (Lollipops)"
-category: "Desserts"
-collection: "LOC"
-source: "Unknown"
-tags: ["candy", "lollipops", "confections", "123", "sugar"]
-description: "A foundational recipe for homemade hard candies cooked to the precise hard-crack stage. This versatile base allows for endless customization with your favorite flavorings and colors."
-date: "2026-07-30"
+title: Classic Hard Candy (Lollipops)
+category: Desserts
+collection: LOC
+source: Unknown
+tags:
+  - candy
+  - lollipops
+  - confections
+  - sugar
+description: A foundational recipe for homemade hard candies cooked to the precise hard-crack stage. This versatile base allows for endless customization with your favorite flavorings and colors.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Hard Candy (Lollipops)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A foundational recipe for homemade hard candies cooked to the precise hard-crack stage.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT20M\", \"recipeYield\": \"12-24 lollipops\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"1 Cup Sugar\", \"1/4 Cup Water\", \"1/4 Cup White Corn Syrup\", \"1/2 tsp Flavoring\", \"1/2 tsp Food Coloring\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Hard Candy (Lollipops)", "author": {"@type": "Person", "name": "Unknown"}, "description": "A foundational recipe for homemade hard candies cooked to the precise hard-crack stage.", "prepTime": "PT10M", "cookTime": "PT20M", "recipeYield": "12-24 lollipops", "recipeCategory": "Desserts", "recipeIngredient": ["1 Cup Sugar", "1/4 Cup Water", "1/4 Cup White Corn Syrup", "1/2 tsp Flavoring", "1/2 tsp Food Coloring"]}'
 ---
 
 # Classic Hard Candy (Lollipops)

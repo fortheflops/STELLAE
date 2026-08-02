@@ -1,13 +1,18 @@
 ---
-title: "Homestyle Apple Crunch"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "apple", "crisp", "comfortfood", "123", "oatmeal"]
-description: "A classic homestyle apple crisp featuring tender Jonathan apples topped with a buttery, golden oatmeal streusel. This comforting dessert is perfect for cool evenings and pairs beautifully with vanilla ice cream."
-date: "2026-07-30"
+title: Homestyle Apple Crunch
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - apple
+  - crisp
+  - comfortfood
+  - oatmeal
+description: A classic homestyle apple crisp featuring tender Jonathan apples topped with a buttery, golden oatmeal streusel. This comforting dessert is perfect for cool evenings and pairs beautifully with vanilla ice cream.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Homestyle Apple Crunch\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic homestyle apple crisp featuring tender Jonathan apples topped with a buttery, golden oatmeal streusel.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT40M\", \"recipeYield\": \"8 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Homestyle Apple Crunch", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic homestyle apple crisp featuring tender Jonathan apples topped with a buttery, golden oatmeal streusel.", "prepTime": "PT15M", "cookTime": "PT40M", "recipeYield": "8 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Homestyle Apple Crunch

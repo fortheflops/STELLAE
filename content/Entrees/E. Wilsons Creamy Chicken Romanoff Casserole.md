@@ -1,13 +1,17 @@
 ---
-title: "E. Wilson's Creamy Chicken Romanoff Casserole"
-category: "Entrees"
-collection: "LouiseCollection"
-source: "E. Wilson"
-tags: ["louisecollection", "casserole", "chicken", "comfortfood", "123"]
-description: "A comforting vintage casserole featuring baked chicken, broccoli, and Noodle-Roni Romanoff baked in a creamy mushroom soup sauce. Perfect for a cozy family dinner."
-date: "2026-07-30"
+title: E. Wilson's Creamy Chicken Romanoff Casserole
+category: Entrees
+collection: LouiseCollection
+source: E. Wilson
+tags:
+  - louisecollection
+  - casserole
+  - chicken
+  - comfortfood
+description: A comforting vintage casserole featuring baked chicken, broccoli, and Noodle-Roni Romanoff baked in a creamy mushroom soup sauce. Perfect for a cozy family dinner.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"E. Wilson's Creamy Chicken Romanoff Casserole\", \"author\": {\"@type\": \"Person\", \"name\": \"E. Wilson\"}, \"datePublished\": \"2025-11-13\", \"description\": \"A simple and comforting casserole featuring baked chicken pieces, broccoli, and Noodle-Roni Romanoff in a creamy mushroom soup sauce.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H45M\", \"totalTime\": \"PT2H5M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Entree\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3-4 Chicken Breasts\", \"1 Package Noodle-Roni Romanoff\", \"Broccoli Spears\", \"1 Can Cream of Mushroom Soup\", \"3/4 Cup Milk\", \"2 1/2 Tablespoons Butter\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 375\u00b0F (190\u00b0C). Grease a casserole dish.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake chicken breasts at 375\u00b0F for 1 1/4 hours, or until cooked through.\"}, {\"@type\": \"HowToStep\", \"text\": \"Let chicken cool slightly, then skin, bone, and cut into pieces.\"}, {\"@type\": \"HowToStep\", \"text\": \"While chicken is baking, cook the Noodle-Roni Romanoff as per package instructions.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a separate bowl, mix the cream of mushroom soup with the milk.\"}, {\"@type\": \"HowToStep\", \"text\": \"In the greased casserole dish, combine the cooked chicken pieces, the cooked Noodle-Roni, broccoli spears, and the soup/milk mixture.\"}, {\"@type\": \"HowToStep\", \"text\": \"Mix all ingredients gently.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake at 375\u00b0F (190\u00b0C) for 30 minutes, or until bubbly and heated through.\"}]}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"E. Wilson's Creamy Chicken Romanoff Casserole\", \"author\": {\"@type\": \"Person\", \"name\": \"E. Wilson\"}, \"datePublished\": \"2025-11-13\", \"description\": \"A simple and comforting casserole featuring baked chicken pieces, broccoli, and Noodle-Roni Romanoff in a creamy mushroom soup sauce.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H45M\", \"totalTime\": \"PT2H5M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Entree\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3-4 Chicken Breasts\", \"1 Package Noodle-Roni Romanoff\", \"Broccoli Spears\", \"1 Can Cream of Mushroom Soup\", \"3/4 Cup Milk\", \"2 1/2 Tablespoons Butter\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 375°F (190°C). Grease a casserole dish.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake chicken breasts at 375°F for 1 1/4 hours, or until cooked through.\"}, {\"@type\": \"HowToStep\", \"text\": \"Let chicken cool slightly, then skin, bone, and cut into pieces.\"}, {\"@type\": \"HowToStep\", \"text\": \"While chicken is baking, cook the Noodle-Roni Romanoff as per package instructions.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a separate bowl, mix the cream of mushroom soup with the milk.\"}, {\"@type\": \"HowToStep\", \"text\": \"In the greased casserole dish, combine the cooked chicken pieces, the cooked Noodle-Roni, broccoli spears, and the soup/milk mixture.\"}, {\"@type\": \"HowToStep\", \"text\": \"Mix all ingredients gently.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake at 375°F (190°C) for 30 minutes, or until bubbly and heated through.\"}]}"
 ---
 
 # E. Wilson's Creamy Chicken Romanoff Casserole

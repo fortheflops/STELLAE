@@ -1,13 +1,18 @@
 ---
-title: "Congo Squares (Blondies)"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["blondies", "123", "dessert", "chocolate", "nuts", "bars"]
-description: "A classic recipe for rich and chewy blondie bars, known as Congo Squares, packed with brown sugar, chocolate chips, and nuts. This simple, one-pan dessert is perfect for a crowd."
-date: "2026-07-30"
+title: Congo Squares (Blondies)
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - blondies
+  - dessert
+  - chocolate
+  - nuts
+  - bars
+description: A classic recipe for rich and chewy blondie bars, known as Congo Squares, packed with brown sugar, chocolate chips, and nuts. This simple, one-pan dessert is perfect for a crowd.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Congo Squares (Blondies)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic recipe for rich and chewy blondie bars, known as Congo Squares, packed with brown sugar, chocolate chips, and nuts.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"24-36 bars\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Congo Squares (Blondies)", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic recipe for rich and chewy blondie bars, known as Congo Squares, packed with brown sugar, chocolate chips, and nuts.", "prepTime": "PT15M", "cookTime": "PT30M", "recipeYield": "24-36 bars", "recipeCategory": "Dessert"}'
 ---
 
 # Congo Squares (Blondies)

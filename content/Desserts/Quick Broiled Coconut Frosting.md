@@ -1,13 +1,17 @@
 ---
-title: "Quick Broiled Coconut Frosting"
-category: "Desserts"
-collection: "Gail's Collection"
-source: "Unknown"
-tags: ["frosting", "coconut", "123", "quick", "desserttopping"]
-description: "A classic, quick-to-prepare broiled frosting that creates a gooey, caramelized coconut and brown sugar topping. Perfect for finishing hot cakes with a bubbly, glazed texture."
-date: "2026-07-30"
+title: Quick Broiled Coconut Frosting
+category: Desserts
+collection: Gail's Collection
+source: Unknown
+tags:
+  - frosting
+  - coconut
+  - quick
+  - desserttopping
+description: A classic, quick-to-prepare broiled frosting that creates a gooey, caramelized coconut and brown sugar topping. Perfect for finishing hot cakes with a bubbly, glazed texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Quick Broiled Coconut Frosting\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, quick-to-prepare broiled frosting that creates a gooey, caramelized coconut and brown sugar topping.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"Frosting for one 8x8 or 9x9 inch cake\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"3/4 Cup Brown Sugar\", \"3/4 Cup Coconut\", \"2 Tablespoons Margarine or butter\", \"1/2 Cup Milk\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Quick Broiled Coconut Frosting", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, quick-to-prepare broiled frosting that creates a gooey, caramelized coconut and brown sugar topping.", "prepTime": "PT5M", "cookTime": "PT10M", "recipeYield": "Frosting for one 8x8 or 9x9 inch cake", "recipeCategory": "Desserts", "recipeIngredient": ["3/4 Cup Brown Sugar", "3/4 Cup Coconut", "2 Tablespoons Margarine or butter", "1/2 Cup Milk"]}'
 ---
 
 # Quick Broiled Coconut Frosting

@@ -1,13 +1,79 @@
 ---
-title: "Trudy Templin's Blitz Torte"
-category: "Desserts"
-collection: "UK2"
-source: "Trudy Templin"
-tags: ["dessert", "cake", "torte", "german", "meringue", "pineapple", "123"]
-description: "A classic German Blitz Torte featuring a tender cake base and a crisp meringue top baked together, then filled with sweet pineapple."
-date: "2026-07-30"
+title: Trudy Templin's Blitz Torte
+category: Desserts
+collection: UK2
+source: Trudy Templin
+tags:
+  - dessert
+  - cake
+  - torte
+  - german
+  - meringue
+  - pineapple
+description: A classic German Blitz Torte featuring a tender cake base and a crisp meringue top baked together, then filled with sweet pineapple.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Trudy Templin's Blitz Torte\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Trudy Templin\"\n  },\n  \"datePublished\": \"2025-10-06\",\n  \"description\": \"A classic German torte where a cake layer and a meringue layer are baked together, then split and filled with a simple pineapple filling.\",\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT40M\",\n  \"totalTime\": \"PT1H5M\",\n  \"recipeYield\": \"1 2-layer torte\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"German\",\n  \"recipeIngredient\": [\n    \"1/4 cup butter, softened\",\n    \"1/2 cup sugar (for batter)\",\n    \"4 large egg yolks, beaten\",\n    \"1 cup all-purpose flour\",\n    \"1 teaspoon baking powder\",\n    \"5 tablespoons milk\",\n    \"1 teaspoon vanilla extract\",\n    \"Pinch of salt\",\n    \"4 large egg whites\",\n    \"1/2 cup sugar (for meringue)\n\",\n    \"Pinch of salt\",\n    \"Handful of chopped nuts for sprinkling\",\n    \"1/2 cup crushed pineapple\",\n    \"1/2 cup sugar\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 325\u00b0F. Grease and flour two 8-inch or 9-inch round cake pans.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Make the cake batter: Cream the butter and 1/2 cup sugar. Beat in the egg yolks, salt, and vanilla. In a separate bowl, whisk the flour and baking powder. Add the dry ingredients to the creamed mixture alternately with the milk.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Make the meringue: In a clean bowl, beat the egg whites with a pinch of salt until soft peaks form. Gradually add the 1/2 cup of sugar and beat until stiff, glossy peaks form.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Assemble and bake: Divide the cake batter evenly between the two prepared pans. Spread the meringue evenly over the top of the unbaked batter in both pans. Sprinkle with nuts. Bake for 35-40 minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Make the filling: While the cakes bake, combine the pineapple and sugar in a saucepan. Cook, stirring, until thickened. Let cool completely.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Assemble the torte: Once the cakes are completely cool, place one layer meringue-side down on a plate. Spread with the cooled pineapple filling. Place the second layer on top, meringue-side up.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Trudy Templin's Blitz Torte",
+    "author": {
+      "@type": "Person",
+      "name": "Trudy Templin"
+    },
+    "datePublished": "2025-10-06",
+    "description": "A classic German torte where a cake layer and a meringue layer are baked together, then split and filled with a simple pineapple filling.",
+    "prepTime": "PT25M",
+    "cookTime": "PT40M",
+    "totalTime": "PT1H5M",
+    "recipeYield": "1 2-layer torte",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "German",
+    "recipeIngredient": [
+      "1/4 cup butter, softened",
+      "1/2 cup sugar (for batter)",
+      "4 large egg yolks, beaten",
+      "1 cup all-purpose flour",
+      "1 teaspoon baking powder",
+      "5 tablespoons milk",
+      "1 teaspoon vanilla extract",
+      "Pinch of salt",
+      "4 large egg whites",
+      "1/2 cup sugar (for meringue)
+  ",
+      "Pinch of salt",
+      "Handful of chopped nuts for sprinkling",
+      "1/2 cup crushed pineapple",
+      "1/2 cup sugar"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 325°F. Grease and flour two 8-inch or 9-inch round cake pans."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make the cake batter: Cream the butter and 1/2 cup sugar. Beat in the egg yolks, salt, and vanilla. In a separate bowl, whisk the flour and baking powder. Add the dry ingredients to the creamed mixture alternately with the milk."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make the meringue: In a clean bowl, beat the egg whites with a pinch of salt until soft peaks form. Gradually add the 1/2 cup of sugar and beat until stiff, glossy peaks form."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble and bake: Divide the cake batter evenly between the two prepared pans. Spread the meringue evenly over the top of the unbaked batter in both pans. Sprinkle with nuts. Bake for 35-40 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Make the filling: While the cakes bake, combine the pineapple and sugar in a saucepan. Cook, stirring, until thickened. Let cool completely."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble the torte: Once the cakes are completely cool, place one layer meringue-side down on a plate. Spread with the cooled pineapple filling. Place the second layer on top, meringue-side up."
+      }
+    ]
+  }
 ---
 
 # Trudy Templin's Blitz Torte

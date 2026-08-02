@@ -1,13 +1,55 @@
 ---
-title: "Susan's Meatloaf"
-category: "Entrees"
-collection: "UK3"
-source: "Susan"
-tags: ["meatloaf", "beef", "comfortfood", "123", "entree"]
-description: "A classic vintage meatloaf recipe featuring a savory blend of ground beef, green peppers, onions, and a rich tomato-bacon topping. Perfectly seasoned and baked until tender and juicy."
-date: "2026-07-30"
+title: Susan's Meatloaf
+category: Entrees
+collection: UK3
+source: Susan
+tags:
+  - meatloaf
+  - beef
+  - comfortfood
+  - entree
+description: A classic vintage meatloaf recipe featuring a savory blend of ground beef, green peppers, onions, and a rich tomato-bacon topping. Perfectly seasoned and baked until tender and juicy.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Susan's Meatloaf\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Susan\"\n  },\n  \"description\": \"A classic vintage meatloaf recipe featuring a savory blend of ground beef, green peppers, onions, and a rich tomato-bacon topping.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT1H\",\n  \"recipeYield\": \"4-6 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeIngredient\": [\n    \"1 lb Ground Beef\",\n    \"1/4 Green Pepper, finely chopped\",\n    \"1/2 Onion, finely chopped\",\n    \"1/2 Cup Cracker Crumbs\",\n    \"1 Egg\",\n    \"1/2 Cup Catsup\",\n    \"1/4 Cup Worcestershire Sauce\",\n    \"1 can Tomato Sauce\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350F (175C). Lightly grease a loaf pan or baking dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, combine the ground beef, chopped green pepper, chopped onion, cracker crumbs, beaten egg, catsup, and Worcestershire sauce.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Shape the mixture into a loaf and place it in the prepared pan. Top with tomato sauce and bacon slices, then bake for 1 hour until cooked through.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Susan's Meatloaf",
+    "author": {
+      "@type": "Person",
+      "name": "Susan"
+    },
+    "description": "A classic vintage meatloaf recipe featuring a savory blend of ground beef, green peppers, onions, and a rich tomato-bacon topping.",
+    "prepTime": "PT15M",
+    "cookTime": "PT1H",
+    "recipeYield": "4-6 servings",
+    "recipeCategory": "Entrees",
+    "recipeIngredient": [
+      "1 lb Ground Beef",
+      "1/4 Green Pepper, finely chopped",
+      "1/2 Onion, finely chopped",
+      "1/2 Cup Cracker Crumbs",
+      "1 Egg",
+      "1/2 Cup Catsup",
+      "1/4 Cup Worcestershire Sauce",
+      "1 can Tomato Sauce"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350F (175C). Lightly grease a loaf pan or baking dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the ground beef, chopped green pepper, chopped onion, cracker crumbs, beaten egg, catsup, and Worcestershire sauce."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Shape the mixture into a loaf and place it in the prepared pan. Top with tomato sauce and bacon slices, then bake for 1 hour until cooked through."
+      }
+    ]
+  }
 ---
 
 # Susan's Meatloaf

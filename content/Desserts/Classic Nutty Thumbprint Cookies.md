@@ -1,13 +1,18 @@
 ---
-title: "Classic Nutty Thumbprint Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "shortbread", "nutty", "thumbprint", "123", "dessert"]
-description: "A rich and buttery shortbread cookie packed with finely chopped nuts for a dense, melt-in-your-mouth texture. These simple thumbprints are finished with a sweet jelly or candied cherry center."
-date: "2026-07-30"
+title: Classic Nutty Thumbprint Cookies
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - shortbread
+  - nutty
+  - thumbprint
+  - dessert
+description: A rich and buttery shortbread cookie packed with finely chopped nuts for a dense, melt-in-your-mouth texture. These simple thumbprints are finished with a sweet jelly or candied cherry center.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Nutty Thumbprint Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"2-3 dozen\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Nutty Thumbprint Cookies", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT15M", "cookTime": "PT30M", "recipeYield": "2-3 dozen", "recipeCategory": "Dessert"}'
 ---
 
 # Classic Nutty Thumbprint Cookies

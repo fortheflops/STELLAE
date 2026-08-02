@@ -1,11 +1,16 @@
 ---
-title: "Millie's Fudgy Brownies With Mocha Frosting"
-category: "Desserts"
-collection: "UK3"
-source: "Millie"
-tags: ["brownies", "chocolate", "mocha", "dessert", "123", "fudgy"]
-description: "A classic, fudgy brownie recipe featuring a rich cocoa base and a decadent mocha frosting made with hot coffee. These brownies offer a perfect balance of deep chocolate flavor and smooth, caffeinated sweetness."
-date: "2026-07-30"
+title: Millie's Fudgy Brownies With Mocha Frosting
+category: Desserts
+collection: UK3
+source: Millie
+tags:
+  - brownies
+  - chocolate
+  - mocha
+  - dessert
+  - fudgy
+description: A classic, fudgy brownie recipe featuring a rich cocoa base and a decadent mocha frosting made with hot coffee. These brownies offer a perfect balance of deep chocolate flavor and smooth, caffeinated sweetness.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Millie's Fudgy Brownies With Mocha Frosting\", \"author\": {\"@type\": \"Person\", \"name\": \"Millie\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"24 brownies\", \"recipeCategory\": \"Dessert\"}"
 ---

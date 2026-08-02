@@ -1,13 +1,18 @@
 ---
-title: "Rosie's Better Than Anything Cake"
-category: "Desserts"
-collection: "UK15"
-source: "Rosie"
-tags: ["bundt", "cake", "dessert", "chocolate", "pecans", "123"]
-description: "A rich, decadent Bundt cake made with a doctored yellow cake mix and loaded with butterscotch chips, chocolate chips, German chocolate, and pecans. This super moist and flavorful dessert is sure to please any crowd."
-date: "2026-07-30"
+title: Rosie's Better Than Anything Cake
+category: Desserts
+collection: UK15
+source: Rosie
+tags:
+  - bundt
+  - cake
+  - dessert
+  - chocolate
+  - pecans
+description: A rich, decadent Bundt cake made with a doctored yellow cake mix and loaded with butterscotch chips, chocolate chips, German chocolate, and pecans. This super moist and flavorful dessert is sure to please any crowd.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Rosie's Better Than Anything Cake\",\"author\":{\"@type\":\"Person\",\"name\":\"Rosie\"},\"datePublished\":\"2025-09-22\",\"description\":\"A super moist and rich Bundt cake made with a yellow cake mix base, loaded with three kinds of chocolate and pecans.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Cake/Bundt-Cake/Better-than-Anything-Cake/Assets/Handwritten_2025-07-05_081246.webp\"],\"prepTime\":\"PT15M\",\"cookTime\":\"PT1H\",\"totalTime\":\"PT1H15M\",\"recipeYield\":\"1 Bundt cake (12-16 servings)\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 (18.25-ounce) box yellow cake mix\",\"1 (3.4-ounce) package vanilla instant pudding mix\",\"4 large eggs\",\"1 cup sour cream\",\"1/2 cup vegetable oil\",\"1/2 cup water\",\"6 ounces butterscotch chips\",\"6 ounces semi-sweet chocolate chips\",\"2 ounces Baker's German's Sweet Chocolate, grated\",\"1 cup chopped pecans\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat the oven to 350\u00b0F. Grease and flour a 10- or 12-cup Bundt pan.\"},{\"@type\":\"HowToStep\",\"text\":\"In a large bowl, combine the cake mix, pudding mix, eggs, oil, water, and sour cream. Beat with an electric mixer on medium speed for 2 minutes.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir in the butterscotch chips, chocolate chips, grated German chocolate, and chopped pecans.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour the batter into the prepared Bundt pan.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake for 1 hour, or until a toothpick inserted into the center of the cake comes out clean.\"},{\"@type\":\"HowToStep\",\"text\":\"Let the cake cool in the pan for 15-20 minutes before inverting it onto a wire rack to cool completely.\"}]}"
+recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Rosie's Better Than Anything Cake\",\"author\":{\"@type\":\"Person\",\"name\":\"Rosie\"},\"datePublished\":\"2025-09-22\",\"description\":\"A super moist and rich Bundt cake made with a yellow cake mix base, loaded with three kinds of chocolate and pecans.\",\"image\":[\"https://cucinamezzaluna.com/Desserts/Cake/Bundt-Cake/Better-than-Anything-Cake/Assets/Handwritten_2025-07-05_081246.webp\"],\"prepTime\":\"PT15M\",\"cookTime\":\"PT1H\",\"totalTime\":\"PT1H15M\",\"recipeYield\":\"1 Bundt cake (12-16 servings)\",\"recipeCategory\":\"Dessert\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"1 (18.25-ounce) box yellow cake mix\",\"1 (3.4-ounce) package vanilla instant pudding mix\",\"4 large eggs\",\"1 cup sour cream\",\"1/2 cup vegetable oil\",\"1/2 cup water\",\"6 ounces butterscotch chips\",\"6 ounces semi-sweet chocolate chips\",\"2 ounces Baker's German's Sweet Chocolate, grated\",\"1 cup chopped pecans\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat the oven to 350°F. Grease and flour a 10- or 12-cup Bundt pan.\"},{\"@type\":\"HowToStep\",\"text\":\"In a large bowl, combine the cake mix, pudding mix, eggs, oil, water, and sour cream. Beat with an electric mixer on medium speed for 2 minutes.\"},{\"@type\":\"HowToStep\",\"text\":\"Stir in the butterscotch chips, chocolate chips, grated German chocolate, and chopped pecans.\"},{\"@type\":\"HowToStep\",\"text\":\"Pour the batter into the prepared Bundt pan.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake for 1 hour, or until a toothpick inserted into the center of the cake comes out clean.\"},{\"@type\":\"HowToStep\",\"text\":\"Let the cake cool in the pan for 15-20 minutes before inverting it onto a wire rack to cool completely.\"}]}"
 ---
 
 # Rosie's Better Than Anything Cake

@@ -1,13 +1,17 @@
 ---
-title: "Traditional Johnny Cakes"
-category: "Bread"
-collection: "UK2"
-source: "Unknown"
-tags: ["bread", "breakfast", "cornmeal", "123", "pancakes"]
-description: "A classic recipe for traditional Johnny Cakes, a type of cornmeal flatbread scalded with boiling water for a tender texture. Cooked on a skillet until golden brown, these delicious cakes make a wonderful breakfast treat."
-date: "2026-07-30"
+title: Traditional Johnny Cakes
+category: Bread
+collection: UK2
+source: Unknown
+tags:
+  - bread
+  - breakfast
+  - cornmeal
+  - pancakes
+description: A classic recipe for traditional Johnny Cakes, a type of cornmeal flatbread scalded with boiling water for a tender texture. Cooked on a skillet until golden brown, these delicious cakes make a wonderful breakfast treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Traditional Johnny Cakes\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-09-21\", \"description\": \"A simple, classic recipe for Johnny Cakes (cornmeal pancakes), made by scalding white cornmeal with boiling water before cooking on a griddle.\", \"image\": [\"https://cucinamezzaluna.com/Bread/Batter-Bread/Johnny-Cakes/Assets/Handwritten_2025-02-08_110855.webp\", \"https://cucinamezzaluna.com/Bread/Batter-Bread/Johnny-Cakes/Assets/Handwritten_2025-02-08_110950%20(2).webp\"], \"prepTime\": \"PT10M\", \"cookTime\": \"PT20M\", \"totalTime\": \"PT30M\", \"recipeYield\": \"16 small cakes\", \"recipeCategory\": \"Breakfast\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 cup white cornmeal\", \"2 tablespoons all-purpose flour\", \"1 tablespoon sugar\", \"1/2 teaspoon salt\", \"1 cup boiling water\", \"1/2 cup milk, approximately\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a medium bowl, combine the white cornmeal, flour, sugar, and salt. Pour the boiling water over the mixture and stir until the cornmeal swells and a thick paste forms. Let it cool for a few minutes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Gradually stir in the milk until the batter is a little thicker than pancake batter.\"}, {\"@type\": \"HowToStep\", \"text\": \"Heat a lightly greased skillet or griddle over medium heat. Spoon the batter onto the hot skillet to form small cakes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook for a longer time than regular pancakes, about 4-5 minutes per side, until golden brown and cooked through. Do not flip until the first side is thoroughly cooked.\"}, {\"@type\": \"HowToStep\", \"text\": \"Serve warm with butter and maple syrup.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Traditional Johnny Cakes", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-09-21", "description": "A simple, classic recipe for Johnny Cakes (cornmeal pancakes), made by scalding white cornmeal with boiling water before cooking on a griddle.", "image": ["https://cucinamezzaluna.com/Bread/Batter-Bread/Johnny-Cakes/Assets/Handwritten_2025-02-08_110855.webp", "https://cucinamezzaluna.com/Bread/Batter-Bread/Johnny-Cakes/Assets/Handwritten_2025-02-08_110950%20(2).webp"], "prepTime": "PT10M", "cookTime": "PT20M", "totalTime": "PT30M", "recipeYield": "16 small cakes", "recipeCategory": "Breakfast", "recipeCuisine": "American", "recipeIngredient": ["1 cup white cornmeal", "2 tablespoons all-purpose flour", "1 tablespoon sugar", "1/2 teaspoon salt", "1 cup boiling water", "1/2 cup milk, approximately"], "recipeInstructions": [{"@type": "HowToStep", "text": "In a medium bowl, combine the white cornmeal, flour, sugar, and salt. Pour the boiling water over the mixture and stir until the cornmeal swells and a thick paste forms. Let it cool for a few minutes."}, {"@type": "HowToStep", "text": "Gradually stir in the milk until the batter is a little thicker than pancake batter."}, {"@type": "HowToStep", "text": "Heat a lightly greased skillet or griddle over medium heat. Spoon the batter onto the hot skillet to form small cakes."}, {"@type": "HowToStep", "text": "Cook for a longer time than regular pancakes, about 4-5 minutes per side, until golden brown and cooked through. Do not flip until the first side is thoroughly cooked."}, {"@type": "HowToStep", "text": "Serve warm with butter and maple syrup."}]}'
 ---
 
 # Traditional Johnny Cakes

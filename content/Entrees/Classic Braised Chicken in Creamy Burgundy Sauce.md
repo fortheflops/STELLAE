@@ -1,13 +1,18 @@
 ---
-title: "Classic Braised Chicken in Creamy Burgundy Sauce"
-category: "Entrees"
-collection: "General Archive"
-source: "Unknown"
-tags: ["french", "chicken", "braised", "burgundy", "entree", "123"]
-description: "Experience a classic French Coq in Burgundy featuring a roasting chicken braised with ham, mushrooms, and onions. Finished with a rich cream gravy and crispy croutons, this dish offers deep, savory flavors."
-date: "2026-07-30"
+title: Classic Braised Chicken in Creamy Burgundy Sauce
+category: Entrees
+collection: General Archive
+source: Unknown
+tags:
+  - french
+  - chicken
+  - braised
+  - burgundy
+  - entree
+description: Experience a classic French Coq in Burgundy featuring a roasting chicken braised with ham, mushrooms, and onions. Finished with a rich cream gravy and crispy croutons, this dish offers deep, savory flavors.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Classic Braised Chicken in Creamy Burgundy Sauce\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-11-13\",\"description\":\"A roasting chicken braised in Burgundy wine with ham, mushrooms, and onions, finished with a smooth, rich cream gravy.\",\"image\":[\"https://cucinamezzaluna.com/Entrees/Meat/Chicken/Braised Chicken/Assets/Handwritten_2025-02-25_123722.webp\",\"https://cucinamezzaluna.com/Entrees/Meat/Chicken/Braised Chicken/Assets/Handwritten_2025-02-25_124001 (2).webp\"],\"prepTime\":\"PT20M\",\"cookTime\":\"PT1H\",\"totalTime\":\"PT1H20M\",\"recipeYield\":\"4-6 servings\",\"recipeCategory\":\"Entree\",\"recipeCuisine\":\"French\",\"recipeIngredient\":[\"3 1/2 lb Roasting Chicken\",\"1/2 Cup Diced Ham\",\"1 Cup Mushrooms\",\"10 Small White Onions\",\"1 Slice White Bread, diced\",\"1/4 Cup Butter\",\"1 Teaspoon Salt\",\"1 Pinch Black Pepper\",\"2 Tablespoons Flour\",\"1 Bay Leaf\",\"2 Cloves\",\"2 Cloves Crushed Garlic\",\"1 Pint (2 cups) Burgundy Wine\",\"1 Cup Cream\",\"Butter (for frying bread)\"]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Classic Braised Chicken in Creamy Burgundy Sauce","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-11-13","description":"A roasting chicken braised in Burgundy wine with ham, mushrooms, and onions, finished with a smooth, rich cream gravy.","image":["https://cucinamezzaluna.com/Entrees/Meat/Chicken/Braised Chicken/Assets/Handwritten_2025-02-25_123722.webp","https://cucinamezzaluna.com/Entrees/Meat/Chicken/Braised Chicken/Assets/Handwritten_2025-02-25_124001 (2).webp"],"prepTime":"PT20M","cookTime":"PT1H","totalTime":"PT1H20M","recipeYield":"4-6 servings","recipeCategory":"Entree","recipeCuisine":"French","recipeIngredient":["3 1/2 lb Roasting Chicken","1/2 Cup Diced Ham","1 Cup Mushrooms","10 Small White Onions","1 Slice White Bread, diced","1/4 Cup Butter","1 Teaspoon Salt","1 Pinch Black Pepper","2 Tablespoons Flour","1 Bay Leaf","2 Cloves","2 Cloves Crushed Garlic","1 Pint (2 cups) Burgundy Wine","1 Cup Cream","Butter (for frying bread)"]}'
 ---
 
 # Classic Braised Chicken in Creamy Burgundy Sauce

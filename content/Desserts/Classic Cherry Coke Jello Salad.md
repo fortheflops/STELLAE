@@ -1,13 +1,18 @@
 ---
-title: "Classic Cherry Coke Jello Salad"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["123", "jello", "salad", "coke", "nostalgic", "dessert"]
-description: "A fun and fizzy vintage Jello salad featuring the unique combination of cherry Jello, Coca-Cola, cream cheese, and maraschino cherries. This nostalgic treat offers a delightful texture and a classic flavor profile perfect for retro gatherings."
-date: "2026-07-30"
+title: Classic Cherry Coke Jello Salad
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - jello
+  - salad
+  - coke
+  - nostalgic
+  - dessert
+description: A fun and fizzy vintage Jello salad featuring the unique combination of cherry Jello, Coca-Cola, cream cheese, and maraschino cherries. This nostalgic treat offers a delightful texture and a classic flavor profile perfect for retro gatherings.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Cherry Coke Jello Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A fun and fizzy vintage Jello salad featuring the unique combination of cherry Jello, Coca-Cola, cream cheese, and maraschino cherries.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT5M\", \"totalTime\": \"PT4H20M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 package (3 oz) Cherry Jello\", \"2 cups Coca-Cola\", \"1 package (3 oz) cream cheese\", \"1 small jar maraschino cherries\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Cherry Coke Jello Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A fun and fizzy vintage Jello salad featuring the unique combination of cherry Jello, Coca-Cola, cream cheese, and maraschino cherries.", "prepTime": "PT15M", "cookTime": "PT5M", "totalTime": "PT4H20M", "recipeYield": "6-8 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 package (3 oz) Cherry Jello", "2 cups Coca-Cola", "1 package (3 oz) cream cheese", "1 small jar maraschino cherries"]}'
 ---
 
 # Classic Cherry Coke Jello Salad

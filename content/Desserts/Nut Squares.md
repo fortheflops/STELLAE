@@ -1,13 +1,18 @@
 ---
-title: "Nut Squares"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "bars", "cookies", "123", "nuts", "shortbread"]
-description: "A classic layered bar cookie featuring a tender, buttery shortbread crust topped with a chewy, cinnamon-spiced nut meringue. These delightful treats are perfect for pairing with coffee or tea."
-date: "2026-07-30"
+title: Nut Squares
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - bars
+  - cookies
+  - nuts
+  - shortbread
+description: A classic layered bar cookie featuring a tender, buttery shortbread crust topped with a chewy, cinnamon-spiced nut meringue. These delightful treats are perfect for pairing with coffee or tea.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Nut Squares\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic layered bar cookie with a tender, buttery shortbread crust and a chewy, cinnamon-spiced nut topping.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT25M\", \"recipeYield\": \"16 squares\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Nut Squares", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic layered bar cookie with a tender, buttery shortbread crust and a chewy, cinnamon-spiced nut topping.", "prepTime": "PT15M", "cookTime": "PT25M", "recipeYield": "16 squares", "recipeCategory": "Dessert"}'
 ---
 
 # Nut Squares

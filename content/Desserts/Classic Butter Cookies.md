@@ -1,13 +1,17 @@
 ---
-title: "Classic Butter Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "butter", "123", "baking", "dessert"]
-description: "A classic butter cookie recipe using cake flour for an extra tender, melt-in-your-mouth texture. This versatile dough is perfect for a cookie press or as a roll-out cookie."
-date: "2026-07-30"
+title: Classic Butter Cookies
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - butter
+  - baking
+  - dessert
+description: A classic butter cookie recipe using cake flour for an extra tender, melt-in-your-mouth texture. This versatile dough is perfect for a cookie press or as a roll-out cookie.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Butter Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic butter cookie recipe using cake flour for an extra tender, melt-in-your-mouth texture.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"3-4 dozen cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 Cup (2 sticks) butter\", \"2/3 Cup sugar\", \"1 large egg\", \"1 teaspoon vanilla\", \"2 1/4 cups cake flour\", \"1/2 teaspoon baking powder\", \"1/8 teaspoon salt\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Butter Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic butter cookie recipe using cake flour for an extra tender, melt-in-your-mouth texture.", "prepTime": "PT20M", "cookTime": "PT10M", "recipeYield": "3-4 dozen cookies", "recipeCategory": "Dessert", "recipeIngredient": ["1 Cup (2 sticks) butter", "2/3 Cup sugar", "1 large egg", "1 teaspoon vanilla", "2 1/4 cups cake flour", "1/2 teaspoon baking powder", "1/8 teaspoon salt"]}'
 ---
 
 # Classic Butter Cookies

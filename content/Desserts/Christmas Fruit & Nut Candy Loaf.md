@@ -1,13 +1,18 @@
 ---
-title: "Christmas Fruit & Nut Candy Loaf"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["nobake", "christmas", "candy", "holiday", "fruitcake", "123"]
-description: "A classic no-bake holiday confection, this candy loaf is loaded with nuts and candied fruit in a creamy, fudge-like base. It offers a rich, sweet flavor profile with a delightful chewy and crunchy texture."
-date: "2026-07-30"
+title: Christmas Fruit & Nut Candy Loaf
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - nobake
+  - christmas
+  - candy
+  - holiday
+  - fruitcake
+description: A classic no-bake holiday confection, this candy loaf is loaded with nuts and candied fruit in a creamy, fudge-like base. It offers a rich, sweet flavor profile with a delightful chewy and crunchy texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Christmas Fruit & Nut Candy Loaf\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-05\", \"description\": \"A classic no-bake holiday confection, this candy loaf is loaded with nuts and candied fruit in a creamy, fudge-like base.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Handwritten_2025-06-02_071944.webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT20M\", \"totalTime\": \"PT3H\", \"recipeYield\": \"1 loaf (about 3 pounds)\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3 cups sugar\", \"1 1/2 cups heavy cream\", \"1 cup light corn syrup\", \"1/2 teaspoon vanilla extract\", \"1/2 pound (about 2 cups) walnuts\", \"1/2 pound (about 1 1/2 cups) Brazil nuts\", \"1/2 pound (about 2 cups) pecans\", \"1/2 pound candied cherries\", \"1/2 pound candied pineapple\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Line a loaf pan with waxed paper. In a large bowl, combine all the nuts and candied fruits.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a heavy saucepan, combine the sugar, cream, and corn syrup. Cook over medium heat, stirring constantly, until the mixture reaches the soft-ball stage (235-245\\u00b0F on a candy thermometer).\"}, {\"@type\": \"HowToStep\", \"text\": \"Remove the syrup from the heat and let it cool for a few minutes. Using an electric mixer, beat the syrup until it begins to cool, thicken, and lose its gloss.\"}, {\"@type\": \"HowToStep\", \"text\": \"Quickly stir in the vanilla, followed by the prepared fruit and nut mixture, until everything is well coated.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour the candy into the prepared loaf pan and pack it down firmly. Let it cool completely until firm.\"}, {\"@type\": \"HowToStep\", \"text\": \"Once firm, lift the candy loaf out using the waxed paper liner and slice to serve.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Christmas Fruit & Nut Candy Loaf", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-05", "description": "A classic no-bake holiday confection, this candy loaf is loaded with nuts and candied fruit in a creamy, fudge-like base.", "image": ["https://cucinamezzaluna.com/Desserts/Cake/Fruit/Fruit%20Cake/Assets/Handwritten_2025-06-02_071944.webp"], "prepTime": "PT15M", "cookTime": "PT20M", "totalTime": "PT3H", "recipeYield": "1 loaf (about 3 pounds)", "recipeCategory": "Desserts", "recipeCuisine": "American", "recipeIngredient": ["3 cups sugar", "1 1/2 cups heavy cream", "1 cup light corn syrup", "1/2 teaspoon vanilla extract", "1/2 pound (about 2 cups) walnuts", "1/2 pound (about 1 1/2 cups) Brazil nuts", "1/2 pound (about 2 cups) pecans", "1/2 pound candied cherries", "1/2 pound candied pineapple"], "recipeInstructions": [{"@type": "HowToStep", "text": "Line a loaf pan with waxed paper. In a large bowl, combine all the nuts and candied fruits."}, {"@type": "HowToStep", "text": "In a heavy saucepan, combine the sugar, cream, and corn syrup. Cook over medium heat, stirring constantly, until the mixture reaches the soft-ball stage (235-245\u00b0F on a candy thermometer)."}, {"@type": "HowToStep", "text": "Remove the syrup from the heat and let it cool for a few minutes. Using an electric mixer, beat the syrup until it begins to cool, thicken, and lose its gloss."}, {"@type": "HowToStep", "text": "Quickly stir in the vanilla, followed by the prepared fruit and nut mixture, until everything is well coated."}, {"@type": "HowToStep", "text": "Pour the candy into the prepared loaf pan and pack it down firmly. Let it cool completely until firm."}, {"@type": "HowToStep", "text": "Once firm, lift the candy loaf out using the waxed paper liner and slice to serve."}]}'
 ---
 
 # Christmas Fruit & Nut Candy Loaf

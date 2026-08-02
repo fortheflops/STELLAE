@@ -1,13 +1,18 @@
 ---
-title: "Layered Blueberry Jello Salad with Cream Cheese Topping"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["jello", "salad", "123", "potluck", "dessert", "fruit"]
-description: "A classic make-ahead Jello salad featuring a layer of strawberry and raspberry Jello packed with pineapple and blueberries, all topped with a sweet and tangy cream cheese frosting. This vintage recipe is perfect for potlucks and must be prepared in advance to ensure a firm set."
-date: "2026-07-30"
+title: Layered Blueberry Jello Salad with Cream Cheese Topping
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - jello
+  - salad
+  - potluck
+  - dessert
+  - fruit
+description: A classic make-ahead Jello salad featuring a layer of strawberry and raspberry Jello packed with pineapple and blueberries, all topped with a sweet and tangy cream cheese frosting. This vintage recipe is perfect for potlucks and must be prepared in advance to ensure a firm set.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Layered Blueberry Jello Salad with Cream Cheese Topping\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"9-12 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Layered Blueberry Jello Salad with Cream Cheese Topping", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT20M", "cookTime": "PT0M", "recipeYield": "9-12 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Layered Blueberry Jello Salad with Cream Cheese Topping

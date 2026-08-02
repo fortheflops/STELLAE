@@ -1,13 +1,39 @@
 ---
-title: "Sue Shoquist's Texas Sheet Cake"
-category: "Desserts"
-collection: "JillCollection"
-source: "Sue Shoquist"
-tags: ["sheetcake", "chocolate", "dessert", "123", "baking", "jillcollection"]
-description: "Indulge in a classic Texas Sheet Cake featuring a rich, boiled cocoa frosting poured over the warm cake. This crowd-pleasing dessert is perfect for gatherings and delivers deep chocolate flavor."
-date: "2026-07-30"
+title: Sue Shoquist's Texas Sheet Cake
+category: Desserts
+collection: JillCollection
+source: Sue Shoquist
+tags:
+  - sheetcake
+  - chocolate
+  - dessert
+  - baking
+  - jillcollection
+description: Indulge in a classic Texas Sheet Cake featuring a rich, boiled cocoa frosting poured over the warm cake. This crowd-pleasing dessert is perfect for gatherings and delivers deep chocolate flavor.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Sue Shoquist's Texas Sheet Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sue Shoquist\"\n  },\n  \"datePublished\": \"2025-08-10\",\n  \"description\": \"A classic Texas-style sheet cake with a rich, boiled cocoa frosting that's poured over the cake while it's still hot.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Sheet-Cake/Assets/Texas%20Sheet%20Cake%20JC-1754844050989.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Sheet-Cake/Assets/Texas%20Sheet%20Cake%20JC-1754844050986.webp\"\n  ],\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT15M\",\n  \"totalTime\": \"PT30M\",\n  \"recipeYield\": \"24-30 servings\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\"\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Sue Shoquist's Texas Sheet Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Sue Shoquist"
+    },
+    "datePublished": "2025-08-10",
+    "description": "A classic Texas-style sheet cake with a rich, boiled cocoa frosting that's poured over the cake while it's still hot.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Sheet-Cake/Assets/Texas%20Sheet%20Cake%20JC-1754844050989.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Sheet-Cake/Assets/Texas%20Sheet%20Cake%20JC-1754844050986.webp"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "recipeYield": "24-30 servings",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American"
+  }
 ---
 
 # Sue Shoquist's Texas Sheet Cake

@@ -1,11 +1,16 @@
 ---
-title: "Irene Shahnzarian's Nazook"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Irene Shahnzarian"
-tags: ["armenian", "cookies", "nazook", "pastry", "123", "dessert"]
-description: "A traditional Armenian pastry featuring a rich, yeasted sour cream dough rolled with a sweet, buttery, vanilla-scented flour filling. These pinwheel cookies are baked until golden and offer a delightful, crumbly texture."
-date: "2026-07-30"
+title: Irene Shahnzarian's Nazook
+category: Desserts
+collection: Gail Collection
+source: Irene Shahnzarian
+tags:
+  - armenian
+  - cookies
+  - nazook
+  - pastry
+  - dessert
+description: A traditional Armenian pastry featuring a rich, yeasted sour cream dough rolled with a sweet, buttery, vanilla-scented flour filling. These pinwheel cookies are baked until golden and offer a delightful, crumbly texture.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Irene Shahnzarian's Nazook\", \"author\": {\"@type\": \"Person\", \"name\": \"Irene Shahnzarian\"}, \"prepTime\": \"PT45M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"4-5 dozen cookies\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"Armenian\"}"
 ---

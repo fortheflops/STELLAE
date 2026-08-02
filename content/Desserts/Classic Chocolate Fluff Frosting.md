@@ -1,13 +1,17 @@
 ---
-title: "Classic Chocolate Fluff Frosting"
-category: "Desserts"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["frosting", "chocolate", "meringue", "123", "desserttopping"]
-description: "A light and airy frosting featuring a sweet meringue folded into a rich, unsweetened chocolate base. This recipe provides a delicate, fluffy texture perfect for a two-layer cake."
-date: "2026-07-30"
+title: Classic Chocolate Fluff Frosting
+category: Desserts
+collection: Jill Collection
+source: Unknown
+tags:
+  - frosting
+  - chocolate
+  - meringue
+  - desserttopping
+description: A light and airy frosting featuring a sweet meringue folded into a rich, unsweetened chocolate base. This recipe provides a delicate, fluffy texture perfect for a two-layer cake.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Chocolate Fluff Frosting\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A light and airy frosting featuring a sweet meringue folded into a rich, unsweetened chocolate base.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"Frosting for one two-layer, 9-inch cake\", \"recipeCategory\": \"Desserts\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Chocolate Fluff Frosting", "author": {"@type": "Person", "name": "Unknown"}, "description": "A light and airy frosting featuring a sweet meringue folded into a rich, unsweetened chocolate base.", "prepTime": "PT20M", "cookTime": "PT5M", "recipeYield": "Frosting for one two-layer, 9-inch cake", "recipeCategory": "Desserts"}'
 ---
 
 # Classic Chocolate Fluff Frosting

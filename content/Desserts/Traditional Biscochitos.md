@@ -1,13 +1,18 @@
 ---
-title: "Traditional Biscochitos"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["biscochitos", "cookies", "newmexico", "123", "holiday", "shortbread"]
-description: "A classic New Mexican holiday cookie, these crisp, tender shortbreads are made with lard and flavored with anise and whiskey. They are finished with a signature dusting of cinnamon-sugar for a traditional treat."
-date: "2026-07-30"
+title: Traditional Biscochitos
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - biscochitos
+  - cookies
+  - newmexico
+  - holiday
+  - shortbread
+description: A classic New Mexican holiday cookie, these crisp, tender shortbreads are made with lard and flavored with anise and whiskey. They are finished with a signature dusting of cinnamon-sugar for a traditional treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Traditional Biscochitos\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic New Mexican holiday cookie, these crisp, tender shortbreads are made with lard and flavored with anise and whiskey.\", \"prepTime\": \"PT30M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"5-6 dozen\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 lb lard\", \"1 1/4 cups sugar\", \"2 eggs\", \"1/2 cup whiskey\", \"4 teaspoons anise seed\", \"6 cups flour\", \"1 1/2 teaspoons baking soda\", \"1 teaspoon salt\", \"1/2 cup cold water\", \"1/2 cup sugar\", \"2 teaspoons cinnamon\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Traditional Biscochitos", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic New Mexican holiday cookie, these crisp, tender shortbreads are made with lard and flavored with anise and whiskey.", "prepTime": "PT30M", "cookTime": "PT15M", "recipeYield": "5-6 dozen", "recipeCategory": "Dessert", "recipeIngredient": ["1 lb lard", "1 1/4 cups sugar", "2 eggs", "1/2 cup whiskey", "4 teaspoons anise seed", "6 cups flour", "1 1/2 teaspoons baking soda", "1 teaspoon salt", "1/2 cup cold water", "1/2 cup sugar", "2 teaspoons cinnamon"]}'
 ---
 
 # Traditional Biscochitos

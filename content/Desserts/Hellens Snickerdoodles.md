@@ -1,11 +1,15 @@
 ---
-title: "Hellen's Snickerdoodles"
-category: "Desserts"
-collection: "The Loraine Collection"
-source: "Hellen"
-tags: ["cookies", "123", "snickerdoodles", "cinnamon", "comfortfood"]
-description: "A classic recipe for soft and chewy snickerdoodles featuring a signature tangy flavor from cream of tartar. These timeless cookies are finished with a generous, sweet cinnamon-sugar coating."
-date: "2026-07-30"
+title: Hellen's Snickerdoodles
+category: Desserts
+collection: The Loraine Collection
+source: Hellen
+tags:
+  - cookies
+  - snickerdoodles
+  - cinnamon
+  - comfortfood
+description: A classic recipe for soft and chewy snickerdoodles featuring a signature tangy flavor from cream of tartar. These timeless cookies are finished with a generous, sweet cinnamon-sugar coating.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Hellen's Snickerdoodles\", \"author\": {\"@type\": \"Person\", \"name\": \"Hellen\"}, \"description\": \"A classic recipe for soft and chewy snickerdoodles with their signature tangy flavor from cream of tartar and a sweet cinnamon-sugar coating.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"4-5 dozen\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 cup shortening\", \"1 1/2 cups sugar\", \"2 large eggs\", \"2 3/4 cups all-purpose flour\", \"2 teaspoons cream of tartar\", \"1 teaspoon baking soda\", \"1 teaspoon salt\", \"2 tablespoons sugar\", \"2 tablespoons cinnamon\"]}"
 ---

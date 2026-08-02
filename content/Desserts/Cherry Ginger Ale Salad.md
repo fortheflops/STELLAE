@@ -1,13 +1,18 @@
 ---
-title: "Cherry Ginger Ale Salad"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["jello", "123", "salad", "cherry", "gingerale", "fruitcocktail"]
-description: "A classic and refreshing molded Jello salad featuring cherry gelatin, fruit cocktail, and the fizzy, subtle spice of ginger ale for a delightful twist. This vintage dessert is perfect for festive gatherings and light, sweet finishes."
-date: "2026-07-30"
+title: Cherry Ginger Ale Salad
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - jello
+  - salad
+  - cherry
+  - gingerale
+  - fruitcocktail
+description: A classic and refreshing molded Jello salad featuring cherry gelatin, fruit cocktail, and the fizzy, subtle spice of ginger ale for a delightful twist. This vintage dessert is perfect for festive gatherings and light, sweet finishes.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Cherry Ginger Ale Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic and refreshing molded Jello salad featuring cherry gelatin, fruit cocktail, and the fizzy, subtle spice of ginger ale.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT5M\", \"totalTime\": \"PT4H20M\", \"recipeYield\": \"6 servings\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"1 package (3 oz) cherry flavored gelatin\", \"1 cup boiling water\", \"7 oz ginger ale\", \"2 Tbsp lime juice\", \"1 lb 2 oz fruit cocktail\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Cherry Ginger Ale Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic and refreshing molded Jello salad featuring cherry gelatin, fruit cocktail, and the fizzy, subtle spice of ginger ale.", "prepTime": "PT15M", "cookTime": "PT5M", "totalTime": "PT4H20M", "recipeYield": "6 servings", "recipeCategory": "Desserts", "recipeIngredient": ["1 package (3 oz) cherry flavored gelatin", "1 cup boiling water", "7 oz ginger ale", "2 Tbsp lime juice", "1 lb 2 oz fruit cocktail"]}'
 ---
 
 # Cherry Ginger Ale Salad

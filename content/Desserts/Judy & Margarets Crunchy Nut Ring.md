@@ -1,13 +1,19 @@
 ---
-title: "Judy & Margaret's Crunchy Nut Ring"
-category: "Desserts"
-collection: "General Archive"
-source: "Judy & Margaret"
-tags: ["pullapart", "bread", "dessert", "breakfast", "nuts", "caramel", "123"]
-description: "A wonderfully easy pull-apart bread from Judy & Margaret, made with canned biscuits arranged in a fluted pan and baked in a simple, buttery caramel-nut glaze."
-date: "2026-07-30"
+title: Judy & Margaret's Crunchy Nut Ring
+category: Desserts
+collection: General Archive
+source: Judy & Margaret
+tags:
+  - pullapart
+  - bread
+  - dessert
+  - breakfast
+  - nuts
+  - caramel
+description: A wonderfully easy pull-apart bread from Judy & Margaret, made with canned biscuits arranged in a fluted pan and baked in a simple, buttery caramel-nut glaze.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Judy & Margaret's Crunchy Nut Ring\", \"author\": {\"@type\": \"Person\", \"name\": \"Judy & Margaret\"}, \"datePublished\": \"2025-10-14\", \"description\": \"A wonderfully easy pull-apart bread from Judy & Margaret, made with canned biscuits arranged in a fluted pan and baked in a simple, buttery caramel-nut glaze.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Pastries/Pull-apart%20Bread/Assets/Handwritten_2025-02-14_120314.webp\"], \"prepTime\": \"PT10M\", \"cookTime\": \"PT30M\", \"totalTime\": \"PT40M\", \"recipeYield\": \"10-12 servings\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1/2 cup Oleo or butter\", \"3/4 cup Brown Sugar\", \"1/4 cup Syrup\", \"1/2 to 1 cup Nuts, chopped\", \"2 Cans refrigerated biscuits\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 350\u00b0F (175\u00b0C). Generously grease a fluted tube pan (Bundt pan).\"}, {\"@type\": \"HowToStep\", \"text\": \"In a small saucepan, melt the oleo/butter. Stir in the brown sugar and syrup until combined. Stir in the nuts.\"}]}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Judy & Margaret's Crunchy Nut Ring\", \"author\": {\"@type\": \"Person\", \"name\": \"Judy & Margaret\"}, \"datePublished\": \"2025-10-14\", \"description\": \"A wonderfully easy pull-apart bread from Judy & Margaret, made with canned biscuits arranged in a fluted pan and baked in a simple, buttery caramel-nut glaze.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Pastries/Pull-apart%20Bread/Assets/Handwritten_2025-02-14_120314.webp\"], \"prepTime\": \"PT10M\", \"cookTime\": \"PT30M\", \"totalTime\": \"PT40M\", \"recipeYield\": \"10-12 servings\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1/2 cup Oleo or butter\", \"3/4 cup Brown Sugar\", \"1/4 cup Syrup\", \"1/2 to 1 cup Nuts, chopped\", \"2 Cans refrigerated biscuits\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 350°F (175°C). Generously grease a fluted tube pan (Bundt pan).\"}, {\"@type\": \"HowToStep\", \"text\": \"In a small saucepan, melt the oleo/butter. Stir in the brown sugar and syrup until combined. Stir in the nuts.\"}]}"
 ---
 
 # Judy & Margaret's Crunchy Nut Ring

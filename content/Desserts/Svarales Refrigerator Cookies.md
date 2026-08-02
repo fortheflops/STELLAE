@@ -1,11 +1,15 @@
 ---
-title: "Svarale's Refrigerator Cookies"
-category: "Desserts"
-collection: "UK3"
-source: "Svarale"
-tags: ["cookies", "refrigeratorcookies", "pecans", "123", "largebatch"]
-description: "A classic, large-batch recipe for rich, buttery slice-and-bake refrigerator cookies. This simple shortbread-style dough is loaded with pecans and chilled overnight for perfect slicing."
-date: "2026-07-30"
+title: Svarale's Refrigerator Cookies
+category: Desserts
+collection: UK3
+source: Svarale
+tags:
+  - cookies
+  - refrigeratorcookies
+  - pecans
+  - largebatch
+description: A classic, large-batch recipe for rich, buttery slice-and-bake refrigerator cookies. This simple shortbread-style dough is loaded with pecans and chilled overnight for perfect slicing.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Svarale's Refrigerator Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Svarale\"}, \"description\": \"A classic, large-batch recipe for rich, buttery slice-and-bake refrigerator cookies.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT12M\", \"recipeYield\": \"8-10 dozen cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 pound (4 sticks) butter, softened\", \"1 1/2 cups sugar\", \"3 large eggs\", \"5 cups all-purpose flour\", \"1 cup pecans, chopped\", \"1 teaspoon vanilla\"]}"
 ---

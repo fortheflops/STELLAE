@@ -1,11 +1,17 @@
 ---
-title: "Doris Sanderson's Blueberry Yum Yum"
-category: "Desserts"
-collection: "General Archive"
-source: "Doris Sanderson"
-tags: ["dessert", "yumyum", "lush", "blueberry", "creamcheese", "123", "layered"]
-description: "A classic layered dessert, also known as a 'Lush' or 'Yum Yum,' featuring a graham cracker crust, a rich and fluffy cream cheese filling, and a sweet blueberry pie topping."
-date: "2026-07-30"
+title: Doris Sanderson's Blueberry Yum Yum
+category: Desserts
+collection: General Archive
+source: Doris Sanderson
+tags:
+  - dessert
+  - yumyum
+  - lush
+  - blueberry
+  - creamcheese
+  - layered
+description: A classic layered dessert, also known as a 'Lush' or 'Yum Yum,' featuring a graham cracker crust, a rich and fluffy cream cheese filling, and a sweet blueberry pie topping.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Doris Sanderson's Blueberry Yum Yum\", \"author\": {\"@type\": \"Person\", \"name\": \"Doris Sanderson\"}, \"datePublished\": \"2025-10-14\", \"description\": \"A classic layered dessert, also known as a 'Lush' or 'Yum Yum,' featuring a graham cracker crust, a rich and fluffy cream cheese filling, and a sweet blueberry pie topping.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT10M\", \"totalTime\": \"PT30M\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\"}"
 ---

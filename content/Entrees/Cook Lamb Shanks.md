@@ -1,13 +1,17 @@
 ---
-title: "Cook Lamb Shanks"
-category: "Entrees"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["entree", "lamb", "comfortfood", "123", "stew"]
-description: "Tender lamb shanks simmered to perfection in a rich and savory blend of cream of celery and mushroom soups. A classic vintage comfort food that yields a delicious gravy for potatoes or rice."
-date: "2026-07-30"
+title: Cook Lamb Shanks
+category: Entrees
+collection: Gail Collection
+source: Unknown
+tags:
+  - entree
+  - lamb
+  - comfortfood
+  - stew
+description: Tender lamb shanks simmered to perfection in a rich and savory blend of cream of celery and mushroom soups. A classic vintage comfort food that yields a delicious gravy for potatoes or rice.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Cook Lamb Shanks\",\"image\":\"Handwritten_2025-06-10_184037.webp\",\"description\":\"Tender lamb shanks simmered to perfection in a rich and savory blend of cream of celery and mushroom soups.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT2H\",\"recipeYield\":\"4 Servings\",\"recipeCategory\":\"Entrees\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"Lamb Shanks\",\"Oil\",\"Cream of Celery Soup\",\"Cream of Mushroom Soup\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"In a large pot or Dutch oven, brown the lamb shanks in oil over medium-high heat until golden brown on all sides.\"},{\"@type\":\"HowToStep\",\"text\":\"Drain off all the excess oil from the pot.\"},{\"@type\":\"HowToStep\",\"text\":\"Add one can of Cream of Celery soup and one can of Cream of Mushroom soup to the pot.\"},{\"@type\":\"HowToStep\",\"text\":\"Cover the pot, reduce heat to low, and simmer until the lamb is tender, about 1.5 to 2.5 hours.\"},{\"@type\":\"HowToStep\",\"text\":\"Serve the lamb shanks with the gravy from the pot.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Cook Lamb Shanks","image":"Handwritten_2025-06-10_184037.webp","description":"Tender lamb shanks simmered to perfection in a rich and savory blend of cream of celery and mushroom soups.","prepTime":"PT15M","cookTime":"PT2H","recipeYield":"4 Servings","recipeCategory":"Entrees","recipeCuisine":"American","recipeIngredient":["Lamb Shanks","Oil","Cream of Celery Soup","Cream of Mushroom Soup"],"recipeInstructions":[{"@type":"HowToStep","text":"In a large pot or Dutch oven, brown the lamb shanks in oil over medium-high heat until golden brown on all sides."},{"@type":"HowToStep","text":"Drain off all the excess oil from the pot."},{"@type":"HowToStep","text":"Add one can of Cream of Celery soup and one can of Cream of Mushroom soup to the pot."},{"@type":"HowToStep","text":"Cover the pot, reduce heat to low, and simmer until the lamb is tender, about 1.5 to 2.5 hours."},{"@type":"HowToStep","text":"Serve the lamb shanks with the gravy from the pot."}]}'
 ---
 
 # Cook Lamb Shanks

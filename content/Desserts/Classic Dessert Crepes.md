@@ -1,13 +1,47 @@
 ---
-title: "Classic Dessert Crepes"
-category: "Desserts"
-collection: "GailCollection"
-source: "Unknown"
-tags: ["dessert", "crepes", "french", "breakfast", "sweet", "123"]
-description: "A simple and versatile recipe for thin, delicate dessert crepes that can be filled with fruit or cream. This classic batter rests and cooks into golden, lacy treats perfect for any sweet occasion."
-date: "2026-07-30"
+title: Classic Dessert Crepes
+category: Desserts
+collection: GailCollection
+source: Unknown
+tags:
+  - dessert
+  - crepes
+  - french
+  - breakfast
+  - sweet
+description: A simple and versatile recipe for thin, delicate dessert crepes that can be filled with fruit or cream. This classic batter rests and cooks into golden, lacy treats perfect for any sweet occasion.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Classic Dessert Crepes\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-09-20\",\n  \"description\": \"A simple, classic batter for making thin and delicate dessert crepes, perfect for filling with fruit or other sweet treats.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Bread/Batter-Bread/Cr%C3%AApes/Assets/Handwritten_2025-06-08_103219.webp\",\n    \"https://cucinamezzaluna.com/Bread/Batter-Bread/Cr%C3%AApes/Assets/Handwritten_2025-06-08_103333%20(2).webp\"\n  ],\n  \"prepTime\": \"PT10M\",\n  \"cookTime\": \"PT15M\",\n  \"totalTime\": \"PT45M\",\n  \"recipeYield\": \"Approx. 24 crepes\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"French\",\n  \"recipeIngredient\": [\n    \"2 cups all-purpose flour, sifted\",\n    \"6 tablespoons sugar\",\n    \"1/4 teaspoon salt\",\n    \"6 large eggs\",\n    \"3 cups milk\",\n    \"Butter, for greasing the pan\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Classic Dessert Crepes",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-09-20",
+    "description": "A simple, classic batter for making thin and delicate dessert crepes, perfect for filling with fruit or other sweet treats.",
+    "image": [
+      "https://cucinamezzaluna.com/Bread/Batter-Bread/Cr%C3%AApes/Assets/Handwritten_2025-06-08_103219.webp",
+      "https://cucinamezzaluna.com/Bread/Batter-Bread/Cr%C3%AApes/Assets/Handwritten_2025-06-08_103333%20(2).webp"
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT45M",
+    "recipeYield": "Approx. 24 crepes",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "French",
+    "recipeIngredient": [
+      "2 cups all-purpose flour, sifted",
+      "6 tablespoons sugar",
+      "1/4 teaspoon salt",
+      "6 large eggs",
+      "3 cups milk",
+      "Butter, for greasing the pan"
+    ]
+  }
 ---
 
 # Classic Dessert Crepes

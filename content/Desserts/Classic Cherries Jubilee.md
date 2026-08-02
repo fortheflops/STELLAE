@@ -1,13 +1,17 @@
 ---
-title: "Classic Cherries Jubilee"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "flambe", "cherries", "123", "classic"]
-description: "A dramatic and elegant dessert featuring pitted Bing cherries simmered in a rich currant jelly sauce, flamb\u00e9ed with brandy, and served over cold vanilla ice cream. This classic recipe offers a sophisticated finish to any meal with its signature tableside flame."
-date: "2026-07-30"
+title: Classic Cherries Jubilee
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - flambe
+  - cherries
+  - classic
+description: A dramatic and elegant dessert featuring pitted Bing cherries simmered in a rich currant jelly sauce, flambéed with brandy, and served over cold vanilla ice cream. This classic recipe offers a sophisticated finish to any meal with its signature tableside flame.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Cherries Jubilee\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A dramatic and elegant dessert of pitted Bing cherries warmed in a rich currant jelly sauce, then flamb\u00e9ed with brandy and served over vanilla ice cream.\", \"prepTime\": \"PT5M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"8 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 (17 oz) can pitted Bing cherries\", \"3/4 cup currant jelly\", \"1/2 cup brandy\", \"Vanilla ice cream\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Drain cherries.\"}, {\"@type\": \"HowToStep\", \"text\": \"Melt jelly and heat cherries.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add warmed brandy and ignite carefully.\"}, {\"@type\": \"HowToStep\", \"text\": \"Serve over ice cream.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Cherries Jubilee", "author": {"@type": "Person", "name": "Unknown"}, "description": "A dramatic and elegant dessert of pitted Bing cherries warmed in a rich currant jelly sauce, then flambéed with brandy and served over vanilla ice cream.", "prepTime": "PT5M", "cookTime": "PT10M", "recipeYield": "8 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 (17 oz) can pitted Bing cherries", "3/4 cup currant jelly", "1/2 cup brandy", "Vanilla ice cream"], "recipeInstructions": [{"@type": "HowToStep", "text": "Drain cherries."}, {"@type": "HowToStep", "text": "Melt jelly and heat cherries."}, {"@type": "HowToStep", "text": "Add warmed brandy and ignite carefully."}, {"@type": "HowToStep", "text": "Serve over ice cream."}]}'
 ---
 
 # Classic Cherries Jubilee

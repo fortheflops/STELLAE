@@ -1,13 +1,18 @@
 ---
-title: "Classic Butterscotch Pie with Pecan Crust"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["pie", "dessert", "butterscotch", "pecan", "123", "homemade"]
-description: "A rich and creamy homemade butterscotch pie with a simple, press-in pecan and brown sugar crust, topped with a generous layer of whipped cream."
-date: "2026-07-30"
+title: Classic Butterscotch Pie with Pecan Crust
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - pie
+  - dessert
+  - butterscotch
+  - pecan
+  - homemade
+description: A rich and creamy homemade butterscotch pie with a simple, press-in pecan and brown sugar crust, topped with a generous layer of whipped cream.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Butterscotch Pie with Pecan Crust\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-13\", \"description\": \"A rich and creamy homemade butterscotch pie with a simple, press-in pecan and brown sugar crust, all topped with a generous layer of whipped cream.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT20M\", \"totalTime\": \"PT40M\", \"recipeYield\": \"One 9-inch pie\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 stick (1/2 cup) Melted Butter\", \"1 cup Flour\", \"1/4 cup Brown Sugar\", \"1/2 cup Pecans, chopped\", \"1 cup Brown Sugar\", \"1/3 cup Flour\", \"1/2 teaspoon Salt\", \"2 cups Milk\", \"2 Egg Yolks, beaten\", \"1/2 teaspoon Vanilla\", \"2 tablespoons Butter\", \"1 cup Heavy Cream, for whipping\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Butterscotch Pie with Pecan Crust", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-13", "description": "A rich and creamy homemade butterscotch pie with a simple, press-in pecan and brown sugar crust, all topped with a generous layer of whipped cream.", "prepTime": "PT20M", "cookTime": "PT20M", "totalTime": "PT40M", "recipeYield": "One 9-inch pie", "recipeCategory": "Dessert", "recipeCuisine": "American", "recipeIngredient": ["1 stick (1/2 cup) Melted Butter", "1 cup Flour", "1/4 cup Brown Sugar", "1/2 cup Pecans, chopped", "1 cup Brown Sugar", "1/3 cup Flour", "1/2 teaspoon Salt", "2 cups Milk", "2 Egg Yolks, beaten", "1/2 teaspoon Vanilla", "2 tablespoons Butter", "1 cup Heavy Cream, for whipping"]}'
 ---
 
 # Classic Butterscotch Pie with Pecan Crust

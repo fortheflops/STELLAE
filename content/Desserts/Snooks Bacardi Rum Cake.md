@@ -1,11 +1,16 @@
 ---
-title: "Snooks' Bacardi Rum Cake"
-category: "Desserts"
-collection: "GC"
-source: "Snooks"
-tags: ["cake", "dessert", "rum", "bundt", "123", "baking"]
-description: "A classic, award-winning Bacardi rum cake recipe featuring a moist yellow cake and pudding mix base soaked in a rich buttery dark rum glaze."
-date: "2026-07-30"
+title: Snooks' Bacardi Rum Cake
+category: Desserts
+collection: GC
+source: Snooks
+tags:
+  - cake
+  - dessert
+  - rum
+  - bundt
+  - baking
+description: A classic, award-winning Bacardi rum cake recipe featuring a moist yellow cake and pudding mix base soaked in a rich buttery dark rum glaze.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Snooks' Bacardi Rum Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Snooks\"}, \"datePublished\": \"2025-09-22\", \"description\": \"The famous Bacardi rum cake, made simple with a cake and pudding mix base. The finished cake is drenched in a buttery rum glaze.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT1H\", \"totalTime\": \"PT1H15M\", \"recipeYield\": \"1 Bundt cake (12-16 servings)\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\"}"
 ---

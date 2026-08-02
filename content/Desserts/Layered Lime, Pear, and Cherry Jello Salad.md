@@ -1,13 +1,17 @@
 ---
-title: "Layered Lime, Pear, and Cherry Jello Salad"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["jello", "123", "dessert", "mousse", "fruit"]
-description: "A classic two-layer molded Jello salad featuring pear halves and cherries in a clear lime base, topped with a light and fluffy whipped lime and cream cheese mousse. This vintage recipe uses a unique whipping technique to create an airy, decadent texture."
-date: "2026-07-30"
+title: Layered Lime, Pear, and Cherry Jello Salad
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - jello
+  - dessert
+  - mousse
+  - fruit
+description: A classic two-layer molded Jello salad featuring pear halves and cherries in a clear lime base, topped with a light and fluffy whipped lime and cream cheese mousse. This vintage recipe uses a unique whipping technique to create an airy, decadent texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Layered Lime, Pear, and Cherry Jello Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic two-layer molded Jello salad featuring pear halves and cherries in a clear lime Jello base, topped with a light and fluffy whipped lime and cream cheese mousse.\", \"prepTime\": \"PT25M\", \"cookTime\": \"PT5M\", \"totalTime\": \"PT30M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 package (3 oz) Lime Jello\", \"1 package (8 oz) Philadelphia Cream Cheese, softened\", \"1 large can (approx. 15 oz) pear halves, drained\", \"Maraschino cherries, for decorating\", \"1 Teaspoon vegetable oil\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Layered Lime, Pear, and Cherry Jello Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic two-layer molded Jello salad featuring pear halves and cherries in a clear lime Jello base, topped with a light and fluffy whipped lime and cream cheese mousse.", "prepTime": "PT25M", "cookTime": "PT5M", "totalTime": "PT30M", "recipeYield": "6-8 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 package (3 oz) Lime Jello", "1 package (8 oz) Philadelphia Cream Cheese, softened", "1 large can (approx. 15 oz) pear halves, drained", "Maraschino cherries, for decorating", "1 Teaspoon vegetable oil"]}'
 ---
 
 # Layered Lime, Pear, and Cherry Jello Salad

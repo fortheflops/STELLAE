@@ -1,11 +1,15 @@
 ---
-title: "Mary's Old-Fashioned Flour-Thickened Caramels"
-category: "Desserts"
-collection: "JohnBCollection"
-source: "Mary"
-tags: ["123", "caramels", "confections", "candy", "flourthickened"]
-description: "A unique vintage caramel recipe featuring a distinct technique where flour is kneaded into butter to create a chewy, rich texture. These old-fashioned confections are finished with a hint of vanilla for a classic flavor profile."
-date: "2026-07-30"
+title: Mary's Old-Fashioned Flour-Thickened Caramels
+category: Desserts
+collection: JohnBCollection
+source: Mary
+tags:
+  - caramels
+  - confections
+  - candy
+  - flourthickened
+description: A unique vintage caramel recipe featuring a distinct technique where flour is kneaded into butter to create a chewy, rich texture. These old-fashioned confections are finished with a hint of vanilla for a classic flavor profile.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Mary's Old-Fashioned Flour-Thickened Caramels\", \"author\": {\"@type\": \"Person\", \"name\": \"Mary\"}, \"prepTime\": \"PT15M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"1 pan\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"2 C Sugar\", \"1 1/3 C Cream\", \"2/3 C White Corn Syrup\", \"1/6 lb Butter\", \"1 t Vanilla\", \"Flour as needed\"]}"
 ---

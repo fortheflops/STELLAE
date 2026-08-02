@@ -1,11 +1,16 @@
 ---
-title: "Aunt Sadie's Yellow Angel Food Cake"
-category: "Desserts"
-collection: "Jill Collection"
-source: "Aunt Sadie"
-tags: ["dessert", "cake", "123", "angelfood", "chiffon", "baking"]
-description: "A unique vintage yellow angel food cake utilizing whole eggs for a rich, moist texture, baked with a distinct multi-temperature sequence."
-date: "2026-07-30"
+title: Aunt Sadie's Yellow Angel Food Cake
+category: Desserts
+collection: Jill Collection
+source: Aunt Sadie
+tags:
+  - dessert
+  - cake
+  - angelfood
+  - chiffon
+  - baking
+description: A unique vintage yellow angel food cake utilizing whole eggs for a rich, moist texture, baked with a distinct multi-temperature sequence.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Aunt Sadie's Yellow Angel Food Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Aunt Sadie\"}, \"datePublished\": \"2025-08-08\", \"description\": \"A vintage recipe for a chiffon-style 'Yellow Angel Food Cake' made with both yolks and whites, featuring a unique multi-temperature baking method for a fine, moist crumb.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Chiffon-Cake/Assets/Yellow%20Angel%20Food%20Cake%20JC-1754693928017.webp\"], \"prepTime\": \"PT25M\", \"cookTime\": \"PT1H\", \"totalTime\": \"PT1H25M\", \"recipeYield\": \"1 tube cake\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"6 large eggs, separated\", \"1 1/2 cups all-purpose flour, sifted 3 times\", \"1 1/2 cups sugar\", \"1 teaspoon baking powder\", \"1/2 teaspoon cream of tartar\", \"1 pinch salt\", \"3 tablespoons cold water\", \"1/2 cup boiling water\", \"1 teaspoon vanilla or other flavoring\"]}"
 ---

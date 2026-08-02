@@ -1,13 +1,18 @@
 ---
-title: "Magic Cookie Bars"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "bars", "cookies", "123", "chocolate", "coconut"]
-description: "A classic, easy-to-make layered bar cookie featuring a buttery graham cracker crust topped with coconut, chocolate, and nuts. These bars are drenched in sweetened condensed milk and baked until golden and gooey."
-date: "2026-07-30"
+title: Magic Cookie Bars
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - bars
+  - cookies
+  - chocolate
+  - coconut
+description: A classic, easy-to-make layered bar cookie featuring a buttery graham cracker crust topped with coconut, chocolate, and nuts. These bars are drenched in sweetened condensed milk and baked until golden and gooey.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Magic Cookie Bars\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, easy-to-make layered bar cookie featuring a buttery graham cracker crust topped with coconut, chocolate, and nuts.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT25M\", \"recipeYield\": \"24-36 bars\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 cup butter or margarine\", \"1 1/2 cups graham cracker crumbs\", \"1 can (3.5 oz) coconut flakes\", \"1 pkg (6 oz) semi-sweet chocolate chips\", \"1 cup chopped nuts\", \"1 can (14 oz) sweetened condensed milk\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Magic Cookie Bars", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, easy-to-make layered bar cookie featuring a buttery graham cracker crust topped with coconut, chocolate, and nuts.", "prepTime": "PT10M", "cookTime": "PT25M", "recipeYield": "24-36 bars", "recipeCategory": "Dessert", "recipeIngredient": ["1/2 cup butter or margarine", "1 1/2 cups graham cracker crumbs", "1 can (3.5 oz) coconut flakes", "1 pkg (6 oz) semi-sweet chocolate chips", "1 cup chopped nuts", "1 can (14 oz) sweetened condensed milk"]}'
 ---
 
 # Magic Cookie Bars

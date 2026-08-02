@@ -1,13 +1,17 @@
 ---
-title: "Spinach Dip with Vegetable Soup Mix"
-category: "Appetizers"
-collection: "UK3"
-source: "Susan"
-tags: ["spinach", "dip", "partyfood", "123", "appetizer"]
-description: "A classic, creamy spinach dip featuring a savory vegetable soup mix base served in a hollowed-out bread bowl. This crowd-pleasing appetizer is perfect for gatherings and easy to prepare ahead of time."
-date: "2026-07-30"
+title: Spinach Dip with Vegetable Soup Mix
+category: Appetizers
+collection: UK3
+source: Susan
+tags:
+  - spinach
+  - dip
+  - partyfood
+  - appetizer
+description: A classic, creamy spinach dip featuring a savory vegetable soup mix base served in a hollowed-out bread bowl. This crowd-pleasing appetizer is perfect for gatherings and easy to prepare ahead of time.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Spinach Dip with Vegetable Soup Mix\", \"author\": {\"@type\": \"Person\", \"name\": \"Susan\"}, \"prepTime\": \"PT15M\", \"recipeYield\": \"10 servings\", \"recipeIngredient\": [\"1 Package Knorr Dry Vegetable Soup Mix\", \"1 1/2 Cup Sour Cream\", \"1 Cup Mayonnaise\", \"1 Package (10 Ounce) Chopped Spinach\", \"3 Green Onions\", \"1 Loaf Rye Bread or King Hawaiian Bread\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Mix all ingredients except bread by hand and chill.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cut center out of bread, cube the center, and fill the bread bowl with dip.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Spinach Dip with Vegetable Soup Mix", "author": {"@type": "Person", "name": "Susan"}, "prepTime": "PT15M", "recipeYield": "10 servings", "recipeIngredient": ["1 Package Knorr Dry Vegetable Soup Mix", "1 1/2 Cup Sour Cream", "1 Cup Mayonnaise", "1 Package (10 Ounce) Chopped Spinach", "3 Green Onions", "1 Loaf Rye Bread or King Hawaiian Bread"], "recipeInstructions": [{"@type": "HowToStep", "text": "Mix all ingredients except bread by hand and chill."}, {"@type": "HowToStep", "text": "Cut center out of bread, cube the center, and fill the bread bowl with dip."}]}'
 ---
 
 # Spinach Dip with Vegetable Soup Mix

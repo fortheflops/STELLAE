@@ -1,13 +1,18 @@
 ---
-title: "Frozen Strawberry Mousse Dessert"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "frozen", "strawberry", "mousse", "nobake", "123"]
-description: "A light and airy no-bake frozen dessert featuring a fluffy strawberry mousse made with whipped egg whites, set atop and below a crunchy brown sugar and pecan crust."
-date: "2026-07-30"
+title: Frozen Strawberry Mousse Dessert
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - frozen
+  - strawberry
+  - mousse
+  - nobake
+description: A light and airy no-bake frozen dessert featuring a fluffy strawberry mousse made with whipped egg whites, set atop and below a crunchy brown sugar and pecan crust.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Frozen Strawberry Mousse Dessert\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"12 servings\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Frozen Strawberry Mousse Dessert", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT20M", "cookTime": "PT0M", "recipeYield": "12 servings", "recipeCategory": "Dessert"}'
 ---
 
 # Frozen Strawberry Mousse Dessert

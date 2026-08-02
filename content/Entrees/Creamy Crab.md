@@ -1,13 +1,73 @@
 ---
-title: "Creamy Crab"
-category: "Entrees"
-collection: "UK2"
-source: "Unknown"
-tags: ["entree", "seafood", "crab", "123", "creamy"]
-description: "Indulge in this vintage Creamy Crab recipe featuring tender crab meat simmered in a rich sherry and cream sauce. Perfect for serving over toasted points or fragrant saffron rice."
-date: "2026-07-30"
+title: Creamy Crab
+category: Entrees
+collection: UK2
+source: Unknown
+tags:
+  - entree
+  - seafood
+  - crab
+  - creamy
+description: Indulge in this vintage Creamy Crab recipe featuring tender crab meat simmered in a rich sherry and cream sauce. Perfect for serving over toasted points or fragrant saffron rice.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Creamy Crab\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-01-18\",\n  \"description\": \"Indulge in this vintage Creamy Crab recipe featuring tender crab meat simmered in a rich sherry and cream sauce. Perfect for serving over toasted points or fragrant saffron rice.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT15M\",\n  \"totalTime\": \"PT30M\",\n  \"keywords\": \"entree, seafood, crab, vintage, creamy\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"American\",\n  \"recipeYield\": \"4-6 Servings\",\n  \"recipeIngredient\": [\n    \"2 Cans Crab Meat, drained\",\n    \"1/4 Cup Flour\",\n    \"1/4 Cup Dry Sherry (opt.)\",\n    \"1 1/4 Cup Light Cream\",\n    \"1/4 Cup Butter\",\n    \"Several drops Hot Sauce\",\n    \"2 Tbsp Sliced Green Onions\",\n    \"1/8 tsp Pepper\",\n    \"2 Tbsp Chopped Green Pepper\",\n    \"1/4 Cup Sliced Stuffed Olives\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place crab in a bowl and sprinkle with sherry.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Melt butter in a saucepan, add onions & green pepper, and saut\u00e9 until tender.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add flour, blending until smooth, then gradually add cream until smooth.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook over medium heat, stirring constantly until smooth & thickened.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Remove from heat, stir in hot sauce, pepper, crab meat & olives.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place in a chafing dish, simmer 5 min, and serve over toast points or saffron rice.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Creamy Crab",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-01-18",
+    "description": "Indulge in this vintage Creamy Crab recipe featuring tender crab meat simmered in a rich sherry and cream sauce. Perfect for serving over toasted points or fragrant saffron rice.",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "entree, seafood, crab, vintage, creamy",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "American",
+    "recipeYield": "4-6 Servings",
+    "recipeIngredient": [
+      "2 Cans Crab Meat, drained",
+      "1/4 Cup Flour",
+      "1/4 Cup Dry Sherry (opt.)",
+      "1 1/4 Cup Light Cream",
+      "1/4 Cup Butter",
+      "Several drops Hot Sauce",
+      "2 Tbsp Sliced Green Onions",
+      "1/8 tsp Pepper",
+      "2 Tbsp Chopped Green Pepper",
+      "1/4 Cup Sliced Stuffed Olives"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place crab in a bowl and sprinkle with sherry."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt butter in a saucepan, add onions & green pepper, and sauté until tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add flour, blending until smooth, then gradually add cream until smooth."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook over medium heat, stirring constantly until smooth & thickened."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from heat, stir in hot sauce, pepper, crab meat & olives."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place in a chafing dish, simmer 5 min, and serve over toast points or saffron rice."
+      }
+    ]
+  }
 ---
 
 # Creamy Crab

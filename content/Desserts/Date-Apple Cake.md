@@ -1,13 +1,18 @@
 ---
-title: "Date-Apple Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cake", "123", "apples", "dates", "nuts", "dumpcake"]
-description: "A dense, moist, and wonderfully simple cake packed with fresh diced apples, sweet dates, and crunchy nuts. This classic one-bowl recipe creates a chunky, fruit-forward dessert."
-date: "2026-07-30"
+title: Date-Apple Cake
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cake
+  - apples
+  - dates
+  - nuts
+  - dumpcake
+description: A dense, moist, and wonderfully simple cake packed with fresh diced apples, sweet dates, and crunchy nuts. This classic one-bowl recipe creates a chunky, fruit-forward dessert.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Date-Apple Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A dense, moist, and wonderfully simple cake packed with fresh diced apples, sweet dates, and crunchy nuts.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT1H\", \"recipeYield\": \"1 9-inch cake\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Date-Apple Cake", "author": {"@type": "Person", "name": "Unknown"}, "description": "A dense, moist, and wonderfully simple cake packed with fresh diced apples, sweet dates, and crunchy nuts.", "prepTime": "PT15M", "cookTime": "PT1H", "recipeYield": "1 9-inch cake", "recipeCategory": "Dessert"}'
 ---
 
 # Date-Apple Cake

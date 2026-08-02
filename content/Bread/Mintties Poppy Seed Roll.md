@@ -1,13 +1,75 @@
 ---
-title: "Minttie's Poppy Seed Roll"
-category: "Bread"
-collection: "GC"
-source: "Minttie"
-tags: ["bread", "poppyseed", "baking", "123", "gailcollection", "roll"]
-description: "A simple and clever recipe from Minttie for making a classic poppy seed roll using the convenience of a hot roll mix. A sweet, rich poppy seed filling is spread over the dough, which is then rolled, shaped, and baked."
-date: "2026-07-30"
+title: Minttie's Poppy Seed Roll
+category: Bread
+collection: GC
+source: Minttie
+tags:
+  - bread
+  - poppyseed
+  - baking
+  - gailcollection
+  - roll
+description: A simple and clever recipe from Minttie for making a classic poppy seed roll using the convenience of a hot roll mix. A sweet, rich poppy seed filling is spread over the dough, which is then rolled, shaped, and baked.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Minttie's Poppy Seed Roll\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Minttie\"\n  },\n  \"datePublished\": \"2025-09-22\",\n  \"description\": \"An easy way to make a classic poppy seed roll using a shortcut hot roll mix for the dough.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Bread/Yeasted-Bread/Rolls/Assets/Handwritten_2025-07-03_152845.webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT25M\",\n  \"totalTime\": \"PT1H45M\",\n  \"recipeYield\": \"1 large roll\",\n  \"recipeCategory\": \"Bread\",\n  \"recipeCuisine\": \"Eastern European\",\n  \"recipeIngredient\": [\n    \"1 (16-ounce) box hot roll mix\",\n    \"1 large egg\",\n    \"Warm water (as per package directions)\",\n    \"1 (12.5-ounce) can poppy seed filling\",\n    \"Melted butter, for brushing\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Prepare the hot roll mix dough according to the package directions, typically using warm water and an egg.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place the dough in a warm, greased bowl, cover with a damp cloth, and let it rise in a warm place until doubled in size, about 1 hour.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Punch down the dough and turn it out onto a lightly floured surface. Roll it out into a rectangle about 1/4 inch thick.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Spread the can of poppy seed filling evenly over the surface of the dough.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Tightly roll up the dough, jelly-roll style. Place the roll on a baking sheet, shaping it into a horseshoe or crescent.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat the oven according to the hot roll mix package directions (usually 375\u00b0F). Brush the top of the roll with melted butter.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for 20-25 minutes, or until the roll is golden brown and cooked through. Let cool before slicing.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Minttie's Poppy Seed Roll",
+    "author": {
+      "@type": "Person",
+      "name": "Minttie"
+    },
+    "datePublished": "2025-09-22",
+    "description": "An easy way to make a classic poppy seed roll using a shortcut hot roll mix for the dough.",
+    "image": [
+      "https://cucinamezzaluna.com/Bread/Yeasted-Bread/Rolls/Assets/Handwritten_2025-07-03_152845.webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT25M",
+    "totalTime": "PT1H45M",
+    "recipeYield": "1 large roll",
+    "recipeCategory": "Bread",
+    "recipeCuisine": "Eastern European",
+    "recipeIngredient": [
+      "1 (16-ounce) box hot roll mix",
+      "1 large egg",
+      "Warm water (as per package directions)",
+      "1 (12.5-ounce) can poppy seed filling",
+      "Melted butter, for brushing"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the hot roll mix dough according to the package directions, typically using warm water and an egg."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the dough in a warm, greased bowl, cover with a damp cloth, and let it rise in a warm place until doubled in size, about 1 hour."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Punch down the dough and turn it out onto a lightly floured surface. Roll it out into a rectangle about 1/4 inch thick."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the can of poppy seed filling evenly over the surface of the dough."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Tightly roll up the dough, jelly-roll style. Place the roll on a baking sheet, shaping it into a horseshoe or crescent."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven according to the hot roll mix package directions (usually 375°F). Brush the top of the roll with melted butter."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 20-25 minutes, or until the roll is golden brown and cooked through. Let cool before slicing."
+      }
+    ]
+  }
 ---
 
 # Minttie's Poppy Seed Roll

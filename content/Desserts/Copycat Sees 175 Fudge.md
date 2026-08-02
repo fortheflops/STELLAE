@@ -1,11 +1,15 @@
 ---
-title: "Copycat See's 175 Fudge"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["fudge", "chocolate", "123", "confection", "gailcollection"]
-description: "A classic, foolproof recipe for a rich and creamy chocolate nut fudge. This recipe uses melted marshmallows and a boiled evaporated milk syrup to create a smooth, no-fail texture."
-date: "2026-07-30"
+title: Copycat See's 175 Fudge
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - fudge
+  - chocolate
+  - confection
+  - gailcollection
+description: A classic, foolproof recipe for a rich and creamy chocolate nut fudge. This recipe uses melted marshmallows and a boiled evaporated milk syrup to create a smooth, no-fail texture.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Copycat See's 175 Fudge\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, foolproof recipe for a rich and creamy chocolate nut fudge.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"2-3 pounds\", \"recipeCategory\": \"Desserts\"}"
 ---

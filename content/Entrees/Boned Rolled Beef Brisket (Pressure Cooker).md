@@ -1,13 +1,75 @@
 ---
-title: "Boned Rolled Beef Brisket (Pressure Cooker)"
-category: "Entrees"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["beef", "brisket", "pressurecooker", "meat", "maincourse", "123"]
-description: "A simple, classic recipe from Jill's collection for a tender, boned and rolled beef brisket, cooked quickly and easily in a pressure cooker with onions."
-date: "2026-07-30"
+title: Boned Rolled Beef Brisket (Pressure Cooker)
+category: Entrees
+collection: Jill Collection
+source: Unknown
+tags:
+  - beef
+  - brisket
+  - pressurecooker
+  - meat
+  - maincourse
+description: A simple, classic recipe from Jill's collection for a tender, boned and rolled beef brisket, cooked quickly and easily in a pressure cooker with onions.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Boned Rolled Beef Brisket (Pressure Cooker)\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-11-07\",\n  \"description\": \"A simple, classic recipe from Jill's collection for a tender, boned and rolled beef brisket, cooked quickly and easily in a pressure cooker with onions.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Entrees/Meat/Beef/Brisket/Assets/Boned%20Rolled%20Beef%20Brisket%20JC-1754178940548.webp\"\n  ],\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT1H30M\",\n  \"totalTime\": \"PT2H\",\n  \"recipeYield\": \"6-8 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"3 1/2 pounds Boned, Rolled Beef Brisket\",\n    \"1 tablespoon Butter\",\n    \"1-2 Onions, sliced\",\n    \"Salt, to taste\",\n    \"1/2 cup Water\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In an open pressure cooker pot (lid off), melt the butter over medium-high heat. Add the brisket and sliced onions.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Brown the brisket on all sides, along with the onions, for about 25 minutes total.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Season the brisket with salt. Add 1/2 cup of water to the pot.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Secure the lid and bring the cooker up to 15 lbs of pressure. Cook for 30 minutes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Release the pressure according to your manufacturer's directions. Carefully open the lid, turn the meat over, and re-secure the lid.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bring the cooker back up to 15 lbs of pressure and continue cooking for another 60 minutes, for a total of 1.5 hours of cooking time under pressure.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Let the pressure release naturally before opening. Serve the brisket sliced, with the onions and pan juices.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Boned Rolled Beef Brisket (Pressure Cooker)",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-11-07",
+    "description": "A simple, classic recipe from Jill's collection for a tender, boned and rolled beef brisket, cooked quickly and easily in a pressure cooker with onions.",
+    "image": [
+      "https://cucinamezzaluna.com/Entrees/Meat/Beef/Brisket/Assets/Boned%20Rolled%20Beef%20Brisket%20JC-1754178940548.webp"
+    ],
+    "prepTime": "PT30M",
+    "cookTime": "PT1H30M",
+    "totalTime": "PT2H",
+    "recipeYield": "6-8 servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "3 1/2 pounds Boned, Rolled Beef Brisket",
+      "1 tablespoon Butter",
+      "1-2 Onions, sliced",
+      "Salt, to taste",
+      "1/2 cup Water"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In an open pressure cooker pot (lid off), melt the butter over medium-high heat. Add the brisket and sliced onions."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Brown the brisket on all sides, along with the onions, for about 25 minutes total."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the brisket with salt. Add 1/2 cup of water to the pot."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Secure the lid and bring the cooker up to 15 lbs of pressure. Cook for 30 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Release the pressure according to your manufacturer's directions. Carefully open the lid, turn the meat over, and re-secure the lid."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the cooker back up to 15 lbs of pressure and continue cooking for another 60 minutes, for a total of 1.5 hours of cooking time under pressure."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the pressure release naturally before opening. Serve the brisket sliced, with the onions and pan juices."
+      }
+    ]
+  }
 ---
 
 # Boned Rolled Beef Brisket (Pressure Cooker)

@@ -1,13 +1,18 @@
 ---
-title: "Frozen Strawberry Jello Salad"
-category: "Desserts"
-collection: "UK3"
-source: "Cheryl Spears"
-tags: ["frozen", "dessert", "salad", "strawberry", "123", "jello"]
-description: "A classic frozen dessert salad featuring a fluffy base of strawberry gelatin, whipped cream, bananas, and crunchy pecans. This versatile treat can be frozen in pans or individual muffin cups for easy serving."
-date: "2026-07-30"
+title: Frozen Strawberry Jello Salad
+category: Desserts
+collection: UK3
+source: Cheryl Spears
+tags:
+  - frozen
+  - dessert
+  - salad
+  - strawberry
+  - jello
+description: A classic frozen dessert salad featuring a fluffy base of strawberry gelatin, whipped cream, bananas, and crunchy pecans. This versatile treat can be frozen in pans or individual muffin cups for easy serving.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Frozen Strawberry Jello Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Cheryl Spears\"}, \"description\": \"A classic frozen dessert salad featuring a fluffy base of strawberry gelatin, whipped cream, bananas, and crunchy pecans.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"24 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 (3 ounce) package Strawberry Jello\", \"1 cup boiling water\", \"1 (10 ounce) package partially thawed strawberries\", \"2 small or 1 large banana, sliced\", \"1 cup heavy cream, whipped\", \"1 cup chopped pecans\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Dissolve Jello in boiling water, add strawberries, bananas, and pecans, then chill until thickened.\"}, {\"@type\": \"HowToStep\", \"text\": \"Fold in whipped cream, pour into pans or muffin tins, and freeze until firm.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Frozen Strawberry Jello Salad", "author": {"@type": "Person", "name": "Cheryl Spears"}, "description": "A classic frozen dessert salad featuring a fluffy base of strawberry gelatin, whipped cream, bananas, and crunchy pecans.", "prepTime": "PT20M", "cookTime": "PT5M", "recipeYield": "24 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 (3 ounce) package Strawberry Jello", "1 cup boiling water", "1 (10 ounce) package partially thawed strawberries", "2 small or 1 large banana, sliced", "1 cup heavy cream, whipped", "1 cup chopped pecans"], "recipeInstructions": [{"@type": "HowToStep", "text": "Dissolve Jello in boiling water, add strawberries, bananas, and pecans, then chill until thickened."}, {"@type": "HowToStep", "text": "Fold in whipped cream, pour into pans or muffin tins, and freeze until firm."}]}'
 ---
 
 # Frozen Strawberry Jello Salad

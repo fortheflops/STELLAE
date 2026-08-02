@@ -1,11 +1,15 @@
 ---
-title: "Jackie's Peanut Butter Fudge"
-category: "Desserts"
-collection: "UK15"
-source: "Jackie"
-tags: ["fudge", "peanutbutter", "candy", "123", "no-fail"]
-description: "A classic, foolproof recipe for creamy peanut butter fudge featuring a smooth marshmallow creme base and crunchy salted peanuts. This no-fail method creates a rich, decadent confection perfect for gifting or holiday gatherings."
-date: "2026-07-30"
+title: Jackie's Peanut Butter Fudge
+category: Desserts
+collection: UK15
+source: Jackie
+tags:
+  - fudge
+  - peanutbutter
+  - candy
+  - no-fail
+description: A classic, foolproof recipe for creamy peanut butter fudge featuring a smooth marshmallow creme base and crunchy salted peanuts. This no-fail method creates a rich, decadent confection perfect for gifting or holiday gatherings.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Jackie's Peanut Butter Fudge\", \"author\": {\"@type\": \"Person\", \"name\": \"Jackie\"}, \"description\": \"A classic, foolproof recipe for creamy peanut butter fudge featuring a smooth marshmallow creme base and crunchy salted peanuts.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"42 squares\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"1 (12 ounce) jar creamy peanut butter\", \"1 (7 ounce) jar marshmallow creme\", \"1 teaspoon vanilla extract\", \"1 cup chopped, salted peanuts\", \"2 cups granulated sugar\", \"2 cups firmly packed light brown sugar\", \"3/4 cup milk\", \"1/2 teaspoon salt\", \"1/4 cup salted peanut halves\"]}"
 ---

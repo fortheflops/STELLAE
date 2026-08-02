@@ -1,13 +1,17 @@
 ---
-title: "Sweet Potato-Applesauce Pudding"
-category: "Desserts"
-collection: "Jill Collection"
-source: "Evelyn Sue Zlotkin"
-tags: ["casserole", "123", "sweetpotato", "holiday", "kosher"]
-description: "A classic layered casserole featuring tender sweet potato rounds and spiced applesauce, finished with a honey and fat glaze. This traditional dish is perfect for holiday gatherings and pairs beautifully with savory meals."
-date: "2026-07-30"
+title: Sweet Potato-Applesauce Pudding
+category: Desserts
+collection: Jill Collection
+source: Evelyn Sue Zlotkin
+tags:
+  - casserole
+  - sweetpotato
+  - holiday
+  - kosher
+description: A classic layered casserole featuring tender sweet potato rounds and spiced applesauce, finished with a honey and fat glaze. This traditional dish is perfect for holiday gatherings and pairs beautifully with savory meals.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Sweet Potato-Applesauce Pudding\", \"author\": {\"@type\": \"Person\", \"name\": \"Evelyn Sue Zlotkin\"}, \"description\": \"A classic layered casserole featuring tender sweet potato rounds and spiced applesauce, finished with a honey and fat glaze.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H25M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"6 medium (3 lbs) sweet potatoes\", \"2 cups applesauce\", \"3/4 teaspoon cinnamon\", \"3/4 cup honey\", \"3 tablespoons melted chicken fat or pareve margarine\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Sweet Potato-Applesauce Pudding", "author": {"@type": "Person", "name": "Evelyn Sue Zlotkin"}, "description": "A classic layered casserole featuring tender sweet potato rounds and spiced applesauce, finished with a honey and fat glaze.", "prepTime": "PT20M", "cookTime": "PT1H25M", "recipeYield": "6-8 servings", "recipeCategory": "Dessert", "recipeIngredient": ["6 medium (3 lbs) sweet potatoes", "2 cups applesauce", "3/4 teaspoon cinnamon", "3/4 cup honey", "3 tablespoons melted chicken fat or pareve margarine"]}'
 ---
 
 # Sweet Potato-Applesauce Pudding

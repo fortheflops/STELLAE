@@ -1,13 +1,18 @@
 ---
-title: "Old-Fashioned Apple Cookies"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["cookies", "123", "apples", "fruit", "baking", "comfortfood"]
-description: "A classic recipe for soft, cake-like drop cookies, packed with fresh chopped apples, raisins, and nuts. These hearty cookies have a wonderful spiced flavor from the brown sugar."
-date: "2026-07-30"
+title: Old-Fashioned Apple Cookies
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - cookies
+  - apples
+  - fruit
+  - baking
+  - comfortfood
+description: A classic recipe for soft, cake-like drop cookies, packed with fresh chopped apples, raisins, and nuts. These hearty cookies have a wonderful spiced flavor from the brown sugar.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Old-Fashioned Apple Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT12M\", \"recipeYield\": \"4 dozen\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 cup shortening\", \"1 1/2 cups packed brown sugar\", \"1 large egg\", \"2 cups all-purpose flour\", \"1 teaspoon baking soda\", \"1/2 teaspoon salt\", \"1/2 cup milk\", \"1 cup chopped apples\", \"1 cup raisins\", \"1 cup chopped nuts\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 400\u00b0F. Cream shortening and sugar, then beat in egg.\"}, {\"@type\": \"HowToStep\", \"text\": \"Whisk dry ingredients and combine with wet ingredients and milk.\"}, {\"@type\": \"HowToStep\", \"text\": \"Fold in apples, raisins, and nuts. Drop by teaspoonfuls and bake 10-12 minutes.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Old-Fashioned Apple Cookies", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT20M", "cookTime": "PT12M", "recipeYield": "4 dozen", "recipeCategory": "Dessert", "recipeIngredient": ["1/2 cup shortening", "1 1/2 cups packed brown sugar", "1 large egg", "2 cups all-purpose flour", "1 teaspoon baking soda", "1/2 teaspoon salt", "1/2 cup milk", "1 cup chopped apples", "1 cup raisins", "1 cup chopped nuts"], "recipeInstructions": [{"@type": "HowToStep", "text": "Preheat oven to 400°F. Cream shortening and sugar, then beat in egg."}, {"@type": "HowToStep", "text": "Whisk dry ingredients and combine with wet ingredients and milk."}, {"@type": "HowToStep", "text": "Fold in apples, raisins, and nuts. Drop by teaspoonfuls and bake 10-12 minutes."}]}'
 ---
 
 # Old-Fashioned Apple Cookies

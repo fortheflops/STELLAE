@@ -1,13 +1,17 @@
 ---
-title: "Coffee Cake with Fresh Apricots or Apples"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["coffeecake", "dessert", "baking", "123", "fruitcake"]
-description: "A classic, tender coffee cake with a choice of fresh fruit topping or a simple cinnamon-sugar streusel. This delightful vintage recipe makes two small cakes, perfect for breakfast or an afternoon snack."
-date: "2026-07-30"
+title: Coffee Cake with Fresh Apricots or Apples
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - coffeecake
+  - dessert
+  - baking
+  - fruitcake
+description: A classic, tender coffee cake with a choice of fresh fruit topping or a simple cinnamon-sugar streusel. This delightful vintage recipe makes two small cakes, perfect for breakfast or an afternoon snack.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Coffee Cake with Fresh Apricots or Apples\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-09-22\", \"description\": \"A versatile coffee cake recipe with a tender crumb, offering a choice between a fresh fruit topping or a classic cinnamon-sugar topping.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT45M\", \"totalTime\": \"PT1H5M\", \"recipeYield\": \"2 8-inch cakes\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Coffee Cake with Fresh Apricots or Apples", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-09-22", "description": "A versatile coffee cake recipe with a tender crumb, offering a choice between a fresh fruit topping or a classic cinnamon-sugar topping.", "prepTime": "PT20M", "cookTime": "PT45M", "totalTime": "PT1H5M", "recipeYield": "2 8-inch cakes", "recipeCategory": "Dessert", "recipeCuisine": "American"}'
 ---
 
 # Coffee Cake with Fresh Apricots or Apples

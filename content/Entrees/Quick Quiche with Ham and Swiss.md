@@ -1,13 +1,19 @@
 ---
-title: "Quick Quiche with Ham and Swiss"
-category: "Entrees"
-collection: "General Archive"
-source: "Unknown"
-tags: ["quiche", "brunch", "entree", "cheese", "ham", "french", "123"]
-description: "A classic and quick quiche featuring diced ham and Swiss cheese in a rich, simple custard of heavy cream and eggs. Perfect for a cozy brunch or light dinner."
-date: "2026-07-30"
+title: Quick Quiche with Ham and Swiss
+category: Entrees
+collection: General Archive
+source: Unknown
+tags:
+  - quiche
+  - brunch
+  - entree
+  - cheese
+  - ham
+  - french
+description: A classic and quick quiche featuring diced ham and Swiss cheese in a rich, simple custard of heavy cream and eggs. Perfect for a cozy brunch or light dinner.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Quick Quiche with Ham and Swiss\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"datePublished\":\"2025-11-06\",\"description\":\"A classic and quick quiche featuring diced ham and Swiss cheese in a rich, simple custard of heavy cream and eggs, baked in a 9-inch pie shell.\",\"prepTime\":\"PT10M\",\"cookTime\":\"PT40M\",\"totalTime\":\"PT50M\",\"recipeYield\":\"One 9-inch quiche\",\"recipeCategory\":\"Main Course\",\"recipeCuisine\":\"French\",\"recipeIngredient\":[\"1 (9-inch) Unbaked Pie Shell\",\"1 cup Grated Swiss Cheese\",\"1 cup Cooked, Diced Ham (or other meat)\",\"3 Eggs\",\"1/2 pint (1 cup) Heavy Cream\",\"1/2 teaspoon Salt\",\"1/4 teaspoon Pepper\",\"1/8 teaspoon Nutmeg\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Preheat oven to 450\u00b0F (230\u00b0C). Place the unbaked pie shell on a baking sheet.\"},{\"@type\":\"HowToStep\",\"text\":\"Sprinkle the grated Swiss cheese and diced ham evenly over the bottom of the unbaked pie shell.\"},{\"@type\":\"HowToStep\",\"text\":\"In a medium bowl, beat the eggs. Whisk in the heavy cream, salt, pepper, and nutmeg until well combined.\"},{\"@type\":\"HowToStep\",\"text\":\"Carefully pour the egg mixture over the cheese and ham in the pie shell.\"},{\"@type\":\"HowToStep\",\"text\":\"Bake in the upper 1/3 of the oven at 450\u00b0F for 8-10 minutes.\"},{\"@type\":\"HowToStep\",\"text\":\"Reduce the oven heat to 350\u00b0F (175\u00b0C) and continue to bake for 30-40 minutes, or until a knife inserted near the center comes out clean.\"},{\"@type\":\"HowToStep\",\"text\":\"Let the quiche cool for 10 minutes before slicing and serving.\"}]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Quick Quiche with Ham and Swiss","author":{"@type":"Person","name":"Unknown"},"datePublished":"2025-11-06","description":"A classic and quick quiche featuring diced ham and Swiss cheese in a rich, simple custard of heavy cream and eggs, baked in a 9-inch pie shell.","prepTime":"PT10M","cookTime":"PT40M","totalTime":"PT50M","recipeYield":"One 9-inch quiche","recipeCategory":"Main Course","recipeCuisine":"French","recipeIngredient":["1 (9-inch) Unbaked Pie Shell","1 cup Grated Swiss Cheese","1 cup Cooked, Diced Ham (or other meat)","3 Eggs","1/2 pint (1 cup) Heavy Cream","1/2 teaspoon Salt","1/4 teaspoon Pepper","1/8 teaspoon Nutmeg"],"recipeInstructions":[{"@type":"HowToStep","text":"Preheat oven to 450°F (230°C). Place the unbaked pie shell on a baking sheet."},{"@type":"HowToStep","text":"Sprinkle the grated Swiss cheese and diced ham evenly over the bottom of the unbaked pie shell."},{"@type":"HowToStep","text":"In a medium bowl, beat the eggs. Whisk in the heavy cream, salt, pepper, and nutmeg until well combined."},{"@type":"HowToStep","text":"Carefully pour the egg mixture over the cheese and ham in the pie shell."},{"@type":"HowToStep","text":"Bake in the upper 1/3 of the oven at 450°F for 8-10 minutes."},{"@type":"HowToStep","text":"Reduce the oven heat to 350°F (175°C) and continue to bake for 30-40 minutes, or until a knife inserted near the center comes out clean."},{"@type":"HowToStep","text":"Let the quiche cool for 10 minutes before slicing and serving."}]}'
 ---
 
 # Quick Quiche with Ham and Swiss

@@ -1,13 +1,57 @@
 ---
-title: "Butterfield Jam Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "cake", "jamcake", "123", "southern", "baking"]
-description: "A classic, rich, and spicy Butterfield Jam Cake featuring a dense, moist crumb from jam and buttermilk, paired with a luscious cooked raisin and nut filling."
-date: "2026-07-30"
+title: Butterfield Jam Cake
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - jamcake
+  - southern
+  - baking
+description: A classic, rich, and spicy Butterfield Jam Cake featuring a dense, moist crumb from jam and buttermilk, paired with a luscious cooked raisin and nut filling.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Butterfield Jam Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A classic, rich, and spicy Butterfield Jam Cake featuring a dense, moist crumb from jam and buttermilk, paired with a luscious cooked raisin and nut filling.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Jam-Cake/Assets/Handwritten_2025-02-24_085509.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Jam-Cake/Assets/Handwritten_2025-02-24_085604%20(2).webp\"\n  ],\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT35M\",\n  \"totalTime\": \"PT1H5M\",\n  \"recipeYield\": \"1 3-layer cake\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 Cup Butter\",\n    \"2 2/3 Cups Sugar\",\n    \"6 Eggs\",\n    \"4 Cups Flour\",\n    \"1 Teaspoon Baking Soda\",\n    \"1 Teaspoon Allspice\",\n    \"1 Teaspoon Cloves\",\n    \"1 Cup Jam\",\n    \"1 Cup Sour Milk\",\n    \"1 Teaspoon Vanilla\",\n    \"2 Cups Sugar\",\n    \"1 Cup Milk\",\n    \"1 Cup Raisins\",\n    \"1 Cup Nuts\",\n    \"1/2 Cup Butter\",\n    \"1 Teaspoon Vanilla\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Butterfield Jam Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A classic, rich, and spicy Butterfield Jam Cake featuring a dense, moist crumb from jam and buttermilk, paired with a luscious cooked raisin and nut filling.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Jam-Cake/Assets/Handwritten_2025-02-24_085509.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Jam-Cake/Assets/Handwritten_2025-02-24_085604%20(2).webp"
+    ],
+    "prepTime": "PT30M",
+    "cookTime": "PT35M",
+    "totalTime": "PT1H5M",
+    "recipeYield": "1 3-layer cake",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 Cup Butter",
+      "2 2/3 Cups Sugar",
+      "6 Eggs",
+      "4 Cups Flour",
+      "1 Teaspoon Baking Soda",
+      "1 Teaspoon Allspice",
+      "1 Teaspoon Cloves",
+      "1 Cup Jam",
+      "1 Cup Sour Milk",
+      "1 Teaspoon Vanilla",
+      "2 Cups Sugar",
+      "1 Cup Milk",
+      "1 Cup Raisins",
+      "1 Cup Nuts",
+      "1/2 Cup Butter",
+      "1 Teaspoon Vanilla"
+    ]
+  }
 ---
 
 # Butterfield Jam Cake

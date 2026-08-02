@@ -1,13 +1,121 @@
 ---
-title: "Hearty Bacon And Wiener-Stuffed Beef Rolls"
-category: "Entrees"
-collection: "General Archive"
-source: "Linda Brown"
-tags: ["beef", "entree", "swedish", "comfortfood", "123"]
-description: "A unique and savory dish featuring thin round steak stuffed with bacon and wieners, simmered until tender in a rich cream gravy. Perfect for a hearty family dinner."
-date: "2026-07-30"
+title: Hearty Bacon And Wiener-Stuffed Beef Rolls
+category: Entrees
+collection: General Archive
+source: Linda Brown
+tags:
+  - beef
+  - entree
+  - swedish
+  - comfortfood
+description: A unique and savory dish featuring thin round steak stuffed with bacon and wieners, simmered until tender in a rich cream gravy. Perfect for a hearty family dinner.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Hearty Bacon & Wiener-Stuffed Beef Rolls\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Linda Brown\"\n  },\n  \"datePublished\": \"2025-11-07\",\n  \"description\": \"Round steak pounded thin, spread with mustard, stuffed with bacon and wieners, then braised in a creamy bouillon gravy.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Entrees/Meat/Beef/Rolls/Assets/Handwritten_2025-03-31_100817.webp\",\n    \"https://cucinamezzaluna.com/Entrees/Meat/Beef/Rolls/Assets/Handwritten_2025-03-31_100911 (2).webp\"\n  ],\n  \"prepTime\": \"PT30M\",\n  \"cookTime\": \"PT2H15M\",\n  \"totalTime\": \"PT2H45M\",\n  \"recipeYield\": \"8 rolls\",\n  \"recipeCategory\": \"Entree\",\n  \"recipeCuisine\": \"Swedish-American\",\n  \"recipeIngredient\": [\n    \"2 lbs. Round Steak (May use Tenderized)\",\n    \"Salt\",\n    \"Pepper\",\n    \"Prepared Mustard\",\n    \"Flour\",\n    \"Margarine\",\n    \"1 or 2 Bouillon Cubes\",\n    \"1/2 C. Water\",\n    \"1/4 C. Cream or Canned Milk (or more)\",\n    \"Several Slices of Raw Bacon (at least 4)\",\n    \"8 Weiners (I use Wrangler's Beef Ones)\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pound beef thin & flat.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cut beef in stripes about 4\\\" x 1 1/2\\\". (Or cut into 8 equal portions).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Sprinkle both sides of meat with salt & pepper.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Spread mustard over one side.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Top with 1/2 slice of raw bacon.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add weiners on top of bacon.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Roll up and secure with 2 or 3 toothpicks.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Roll in flour.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Melt margarine in heavy skillet (Use an electric skillet).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Heat skillet & brown on all surfaces (push toothpicks to other sides to allow easier browning).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Dissolve bouillon cube (I use 2 cubes) in boiling water, pour off extra grease before adding bouillon water to skillet.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook covered and simmer meat until tender. I cook for 2 or 3 hours depending on how much time I have (at least 1 hour).\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Lift beef rolls from skillet - remove toothpicks.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Keep rolls warm in low oven while making gravy.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add cream or milk (I use a whole can of canned milk) to skillet.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bring to a boil. I like a lot of gravy.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Return beef rolls to skillet & spoon gravy over them or leave in container in oven until you serve.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Hearty Bacon & Wiener-Stuffed Beef Rolls",
+    "author": {
+      "@type": "Person",
+      "name": "Linda Brown"
+    },
+    "datePublished": "2025-11-07",
+    "description": "Round steak pounded thin, spread with mustard, stuffed with bacon and wieners, then braised in a creamy bouillon gravy.",
+    "image": [
+      "https://cucinamezzaluna.com/Entrees/Meat/Beef/Rolls/Assets/Handwritten_2025-03-31_100817.webp",
+      "https://cucinamezzaluna.com/Entrees/Meat/Beef/Rolls/Assets/Handwritten_2025-03-31_100911 (2).webp"
+    ],
+    "prepTime": "PT30M",
+    "cookTime": "PT2H15M",
+    "totalTime": "PT2H45M",
+    "recipeYield": "8 rolls",
+    "recipeCategory": "Entree",
+    "recipeCuisine": "Swedish-American",
+    "recipeIngredient": [
+      "2 lbs. Round Steak (May use Tenderized)",
+      "Salt",
+      "Pepper",
+      "Prepared Mustard",
+      "Flour",
+      "Margarine",
+      "1 or 2 Bouillon Cubes",
+      "1/2 C. Water",
+      "1/4 C. Cream or Canned Milk (or more)",
+      "Several Slices of Raw Bacon (at least 4)",
+      "8 Weiners (I use Wrangler's Beef Ones)"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Pound beef thin & flat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut beef in stripes about 4\" x 1 1/2\". (Or cut into 8 equal portions)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle both sides of meat with salt & pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread mustard over one side."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top with 1/2 slice of raw bacon."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add weiners on top of bacon."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll up and secure with 2 or 3 toothpicks."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll in flour."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt margarine in heavy skillet (Use an electric skillet)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat skillet & brown on all surfaces (push toothpicks to other sides to allow easier browning)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dissolve bouillon cube (I use 2 cubes) in boiling water, pour off extra grease before adding bouillon water to skillet."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook covered and simmer meat until tender. I cook for 2 or 3 hours depending on how much time I have (at least 1 hour)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lift beef rolls from skillet - remove toothpicks."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Keep rolls warm in low oven while making gravy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add cream or milk (I use a whole can of canned milk) to skillet."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring to a boil. I like a lot of gravy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return beef rolls to skillet & spoon gravy over them or leave in container in oven until you serve."
+      }
+    ]
+  }
 ---
 
 # Hearty Bacon And Wiener-Stuffed Beef Rolls

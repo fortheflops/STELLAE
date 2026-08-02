@@ -1,13 +1,50 @@
 ---
-title: "Pink Party Punch"
-category: "Beverages"
-collection: "UK3"
-source: "Unknown"
-tags: ["beverage", "punch", "party", "largecrowd", "123", "koolaid", "jello"]
-description: "A fun, fruity, and vibrant pink punch perfect for a large crowd. This recipe uses a Jello and Kool-Aid base, combined with pineapple and lemonade, and finished with fizzy ginger ale."
-date: "2026-07-30"
+title: Pink Party Punch
+category: Beverages
+collection: UK3
+source: Unknown
+tags:
+  - beverage
+  - punch
+  - party
+  - largecrowd
+  - koolaid
+  - jello
+description: A fun, fruity, and vibrant pink punch perfect for a large crowd. This recipe uses a Jello and Kool-Aid base, combined with pineapple and lemonade, and finished with fizzy ginger ale.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Pink Party Punch\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-09-20\",\n  \"description\": \"A large-batch party punch made with a sweet base of cherry Jello, strawberry and raspberry Kool-Aid, pineapple juice, and lemonade, topped with ginger ale.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Beverages/Punch/Assets/Handwritten_2025-03-15_121649.webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT5M\",\n  \"totalTime\": \"PT25M\",\n  \"recipeYield\": \"60 servings\",\n  \"recipeCategory\": \"Drink\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"4 (3-ounce) packages Cherry Jello\",\n    \"3 cups sugar\",\n    \"4 cups hot water\",\n    \"3 packages strawberry Kool-Aid mix (unsweetened)\",\n    \"3 packages raspberry Kool-Aid mix (unsweetened)\",\n    \"2 (46-ounce) cans pineapple juice, chilled\",\n    \"2 (12-ounce) cans frozen lemonade concentrate\",\n    \"6 cans cold water (using lemonade can)\",\n    \"12 (12-ounce) bottles/cans ginger ale, chilled\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Pink Party Punch",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-09-20",
+    "description": "A large-batch party punch made with a sweet base of cherry Jello, strawberry and raspberry Kool-Aid, pineapple juice, and lemonade, topped with ginger ale.",
+    "image": [
+      "https://cucinamezzaluna.com/Beverages/Punch/Assets/Handwritten_2025-03-15_121649.webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT5M",
+    "totalTime": "PT25M",
+    "recipeYield": "60 servings",
+    "recipeCategory": "Drink",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "4 (3-ounce) packages Cherry Jello",
+      "3 cups sugar",
+      "4 cups hot water",
+      "3 packages strawberry Kool-Aid mix (unsweetened)",
+      "3 packages raspberry Kool-Aid mix (unsweetened)",
+      "2 (46-ounce) cans pineapple juice, chilled",
+      "2 (12-ounce) cans frozen lemonade concentrate",
+      "6 cans cold water (using lemonade can)",
+      "12 (12-ounce) bottles/cans ginger ale, chilled"
+    ]
+  }
 ---
 
 # Pink Party Punch

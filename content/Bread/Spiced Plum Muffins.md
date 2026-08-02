@@ -1,13 +1,18 @@
 ---
-title: "Spiced Plum Muffins"
-category: "Bread"
-collection: "UK15"
-source: "Unknown"
-tags: ["muffins", "breakfast", "baking", "plum", "spiced", "123"]
-description: "Moist and fragrant spiced muffins packed with warm spices, sweet purple plums, and crunchy pecans. Perfect for a cozy morning breakfast or afternoon treat."
-date: "2026-07-30"
+title: Spiced Plum Muffins
+category: Bread
+collection: UK15
+source: Unknown
+tags:
+  - muffins
+  - breakfast
+  - baking
+  - plum
+  - spiced
+description: Moist and fragrant spiced muffins packed with warm spices, sweet purple plums, and crunchy pecans. Perfect for a cozy morning breakfast or afternoon treat.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Spiced Plum Muffins\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-09-22\", \"description\": \"Moist, spiced muffins made with sour milk (buttermilk), canned plums, and pecans.\", \"image\": [\"https://cucinamezzaluna.com/Bread/Muffins/Fruit-Muffins/Assets/Handwritten_2025-04-16_141810.webp\", \"https://cucinamezzaluna.com/Bread/Muffins/Fruit-Muffins/Assets/Handwritten_2025-04-16_142007%20(2).webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT20M\", \"totalTime\": \"PT35M\", \"recipeYield\": \"18-24 muffins\", \"recipeCategory\": \"Bread\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"2 cups all-purpose flour\", \"1 3/4 cups sugar\", \"1 teaspoon baking soda\", \"1 teaspoon baking powder\", \"1 teaspoon salt\", \"1 teaspoon cinnamon\", \"1 teaspoon nutmeg\", \"1 teaspoon allspice\", \"1 teaspoon cloves\", \"2 large eggs\", \"1 cup sour milk (buttermilk)\", \"1 cup vegetable oil\", \"1 (15-ounce) can purple plums, drained and chopped\", \"1 cup chopped pecans\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Spiced Plum Muffins", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-09-22", "description": "Moist, spiced muffins made with sour milk (buttermilk), canned plums, and pecans.", "image": ["https://cucinamezzaluna.com/Bread/Muffins/Fruit-Muffins/Assets/Handwritten_2025-04-16_141810.webp", "https://cucinamezzaluna.com/Bread/Muffins/Fruit-Muffins/Assets/Handwritten_2025-04-16_142007%20(2).webp"], "prepTime": "PT15M", "cookTime": "PT20M", "totalTime": "PT35M", "recipeYield": "18-24 muffins", "recipeCategory": "Bread", "recipeCuisine": "American", "recipeIngredient": ["2 cups all-purpose flour", "1 3/4 cups sugar", "1 teaspoon baking soda", "1 teaspoon baking powder", "1 teaspoon salt", "1 teaspoon cinnamon", "1 teaspoon nutmeg", "1 teaspoon allspice", "1 teaspoon cloves", "2 large eggs", "1 cup sour milk (buttermilk)", "1 cup vegetable oil", "1 (15-ounce) can purple plums, drained and chopped", "1 cup chopped pecans"]}'
 ---
 
 # Spiced Plum Muffins

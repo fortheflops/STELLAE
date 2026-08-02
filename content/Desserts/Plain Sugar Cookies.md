@@ -1,13 +1,17 @@
 ---
-title: "Plain Sugar Cookies"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["cookies", "sugarcookies", "123", "baking", "dessert"]
-description: "A classic, sturdy roll-and-cut sugar cookie recipe featuring a unique technique of rolling the dough in sugar for a crisp, sweet crust. These cookies are perfect for holiday shapes and maintain their form beautifully during baking."
-date: "2026-07-30"
+title: Plain Sugar Cookies
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - cookies
+  - sugarcookies
+  - baking
+  - dessert
+description: A classic, sturdy roll-and-cut sugar cookie recipe featuring a unique technique of rolling the dough in sugar for a crisp, sweet crust. These cookies are perfect for holiday shapes and maintain their form beautifully during baking.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Plain Sugar Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, sturdy roll-and-cut sugar cookie recipe featuring a unique technique of rolling the dough in sugar for a crisp, sweet crust.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"4-5 dozen cookies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 cup butter or Crisco\", \"1 cup sugar\", \"3 eggs\", \"1 teaspoon vanilla\", \"3 cups flour\", \"2 teaspoons baking powder\", \"Pinch of salt\", \"Extra sugar for rolling\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Plain Sugar Cookies", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, sturdy roll-and-cut sugar cookie recipe featuring a unique technique of rolling the dough in sugar for a crisp, sweet crust.", "prepTime": "PT15M", "cookTime": "PT10M", "recipeYield": "4-5 dozen cookies", "recipeCategory": "Dessert", "recipeIngredient": ["1/2 cup butter or Crisco", "1 cup sugar", "3 eggs", "1 teaspoon vanilla", "3 cups flour", "2 teaspoons baking powder", "Pinch of salt", "Extra sugar for rolling"]}'
 ---
 
 # Plain Sugar Cookies

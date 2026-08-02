@@ -1,13 +1,17 @@
 ---
-title: "Fantasy Fudge"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Unknown"
-tags: ["fudge", "chocolate", "123", "confection", "holiday"]
-description: "A classic, no-fail chocolate fudge recipe featuring a rich blend of marshmallow fluff and evaporated milk. This foolproof method creates a smooth, glossy texture perfect for gifting or holiday gatherings."
-date: "2026-07-30"
+title: Fantasy Fudge
+category: Desserts
+collection: Gail Collection
+source: Unknown
+tags:
+  - fudge
+  - chocolate
+  - confection
+  - holiday
+description: A classic, no-fail chocolate fudge recipe featuring a rich blend of marshmallow fluff and evaporated milk. This foolproof method creates a smooth, glossy texture perfect for gifting or holiday gatherings.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Fantasy Fudge\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, no-fail chocolate fudge made by boiling a sugar-milk syrup and adding it to marshmallow fluff, chocolate chips, and nuts.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT5M\", \"totalTime\": \"PT4H20M\", \"recipeYield\": \"3 pounds\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"4 1/2 cups sugar\", \"1/2 cup butter\", \"12 oz evaporated milk\", \"12 oz chocolate chips\", \"7 oz marshmallow fluff\", \"1 cup nuts\", \"1 tablespoon vanilla extract\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Fantasy Fudge", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, no-fail chocolate fudge made by boiling a sugar-milk syrup and adding it to marshmallow fluff, chocolate chips, and nuts.", "prepTime": "PT15M", "cookTime": "PT5M", "totalTime": "PT4H20M", "recipeYield": "3 pounds", "recipeCategory": "Desserts", "recipeIngredient": ["4 1/2 cups sugar", "1/2 cup butter", "12 oz evaporated milk", "12 oz chocolate chips", "7 oz marshmallow fluff", "1 cup nuts", "1 tablespoon vanilla extract"]}'
 ---
 
 # Fantasy Fudge

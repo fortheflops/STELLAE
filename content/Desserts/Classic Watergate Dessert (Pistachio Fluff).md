@@ -1,13 +1,17 @@
 ---
-title: "Classic Watergate Dessert (Pistachio Fluff)"
-category: "Desserts"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["dessert", "nobake", "pistachio", "123", "potluck"]
-description: "A classic no-bake dessert, also known as Pistachio Fluff, featuring a creamy blend of pistachio pudding, pineapple, and pecans. This simple, retro treat is a perfect crowd-pleasing potluck staple."
-date: "2026-07-30"
+title: Classic Watergate Dessert (Pistachio Fluff)
+category: Desserts
+collection: Jill Collection
+source: Unknown
+tags:
+  - dessert
+  - nobake
+  - pistachio
+  - potluck
+description: A classic no-bake dessert, also known as Pistachio Fluff, featuring a creamy blend of pistachio pudding, pineapple, and pecans. This simple, retro treat is a perfect crowd-pleasing potluck staple.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Watergate Dessert (Pistachio Fluff)\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic no-bake dessert, also known as Pistachio Fluff. This incredibly simple version combines pistachio pudding, pineapple, and pecans in a creamy Cool Whip base.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT70M\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 large (20-oz) can crushed pineapple, well drained\", \"1 large (16-oz) container Cool Whip, thawed\", \"1 package (3.4-oz) Jello Instant Pistachio Pudding Mix\", \"1 cup chopped pecans\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Watergate Dessert (Pistachio Fluff)", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic no-bake dessert, also known as Pistachio Fluff. This incredibly simple version combines pistachio pudding, pineapple, and pecans in a creamy Cool Whip base.", "prepTime": "PT10M", "cookTime": "PT0M", "totalTime": "PT70M", "recipeYield": "8-10 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 large (20-oz) can crushed pineapple, well drained", "1 large (16-oz) container Cool Whip, thawed", "1 package (3.4-oz) Jello Instant Pistachio Pudding Mix", "1 cup chopped pecans"]}'
 ---
 
 # Classic Watergate Dessert (Pistachio Fluff)

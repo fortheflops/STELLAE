@@ -1,11 +1,16 @@
 ---
-title: "Cathy's Chicken Tetrazzini"
-category: "Entrees"
-collection: "UK3"
-source: "Cathy Jote"
-tags: ["chicken", "tetrazzini", "pasta", "comfortfood", "casserole", "123"]
-description: "A comforting baked pasta casserole featuring tender chicken, mushrooms, and a rich creamy sauce topped with melted cheese. Perfect for feeding a hungry family with classic mid-century appeal."
-date: "2026-07-30"
+title: Cathy's Chicken Tetrazzini
+category: Entrees
+collection: UK3
+source: Cathy Jote
+tags:
+  - chicken
+  - tetrazzini
+  - pasta
+  - comfortfood
+  - casserole
+description: A comforting baked pasta casserole featuring tender chicken, mushrooms, and a rich creamy sauce topped with melted cheese. Perfect for feeding a hungry family with classic mid-century appeal.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Cathy's Chicken Tetrazzini\", \"author\": {\"@type\": \"Person\", \"name\": \"Cathy Jote\"}, \"description\": \"A comforting baked pasta casserole featuring tender chicken, mushrooms, and a rich creamy sauce topped with melted cheese.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"6-8 Servings\", \"recipeCategory\": \"Entrees\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"2 cans Creamy Chicken Mushroom Soup\", \"1 can Cream of Mushroom Soup\", \"1 can Cream of Chicken Soup\", \"1 cup Chicken Broth\", \"2 cups Shredded Processed Cheese Spread\", \"4 cups Cooked, Diced Chicken\", \"1-12 oz. pkg. Spaghetti, Cooked & Drained\", \"1-4 oz. can Mushrooms, Drained\", \"1/2 cup Grated Parmesan Cheese\", \"Paprika\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine soups and broth.\"}, {\"@type\": \"HowToStep\", \"text\": \"Stir in shredded cheese, chicken, spaghetti, and mushrooms.\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour into 12x7x2 inch greased baking dish.\"}, {\"@type\": \"HowToStep\", \"text\": \"Sprinkle with Parmesan cheese and use paprika to add color.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake at 350 degrees for 25 to 30 minutes until bubbly and golden brown.\"}]}"
 ---

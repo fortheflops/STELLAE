@@ -1,13 +1,17 @@
 ---
-title: "Rich & Fluffy Chocolate Ice Cream"
-category: "Desserts"
-collection: "UK3"
-source: "Melinda Ewing"
-tags: ["dessert", "icecream", "chocolate", "frozen", "123"]
-description: "A classic homemade chocolate ice cream with a uniquely light and fluffy texture, achieved by whipping the eggs for 10 minutes. This rich, velvety treat is perfect for summer gatherings and can be easily customized with your favorite mix-ins."
-date: "2026-07-30"
+title: Rich & Fluffy Chocolate Ice Cream
+category: Desserts
+collection: UK3
+source: Melinda Ewing
+tags:
+  - dessert
+  - icecream
+  - chocolate
+  - frozen
+description: A classic homemade chocolate ice cream with a uniquely light and fluffy texture, achieved by whipping the eggs for 10 minutes. This rich, velvety treat is perfect for summer gatherings and can be easily customized with your favorite mix-ins.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Rich & Fluffy Chocolate Ice Cream\", \"author\": {\"@type\": \"Person\", \"name\": \"Melinda Ewing\"}, \"description\": \"A classic homemade chocolate ice cream with a uniquely light and fluffy texture, achieved by whipping the eggs for 10 minutes before combining with the other ingredients.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"1 Gallon\", \"recipeCategory\": \"Dessert\"}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Rich & Fluffy Chocolate Ice Cream", "author": {"@type": "Person", "name": "Melinda Ewing"}, "description": "A classic homemade chocolate ice cream with a uniquely light and fluffy texture, achieved by whipping the eggs for 10 minutes before combining with the other ingredients.", "prepTime": "PT15M", "cookTime": "PT30M", "recipeYield": "1 Gallon", "recipeCategory": "Dessert"}'
 ---
 
 # Rich & Fluffy Chocolate Ice Cream

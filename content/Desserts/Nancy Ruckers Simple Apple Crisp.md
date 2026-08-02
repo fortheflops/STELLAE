@@ -1,11 +1,15 @@
 ---
-title: "Nancy Rucker's Simple Apple Crisp"
-category: "Desserts"
-collection: "The Loraine Collection"
-source: "Nancy Rucker"
-tags: ["apple", "crisp", "dessert", "123", "comfortfood"]
-description: "A wonderfully simple and classic apple crisp featuring a buttery brown sugar crumble over tender, cinnamon-spiced apples. This timeless recipe is perfect for a cozy, rustic dessert."
-date: "2026-07-30"
+title: Nancy Rucker's Simple Apple Crisp
+category: Desserts
+collection: The Loraine Collection
+source: Nancy Rucker
+tags:
+  - apple
+  - crisp
+  - dessert
+  - comfortfood
+description: A wonderfully simple and classic apple crisp featuring a buttery brown sugar crumble over tender, cinnamon-spiced apples. This timeless recipe is perfect for a cozy, rustic dessert.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Nancy Rucker's Simple Apple Crisp\", \"author\": {\"@type\": \"Person\", \"name\": \"Nancy Rucker\"}, \"description\": \"A wonderfully simple and classic apple crisp featuring a buttery brown sugar crumble over tender, cinnamon-spiced apples.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"6 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"4 Cups apples\", \"1/2 teaspoon cinnamon\", \"1/3 Cup all-purpose flour\", \"3/4 Cup brown sugar\", \"1/3 Cup butter\"]}"
 ---

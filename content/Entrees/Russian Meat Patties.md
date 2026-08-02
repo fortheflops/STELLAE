@@ -1,13 +1,18 @@
 ---
-title: "Russian Meat Patties"
-category: "Entrees"
-collection: "UK2"
-source: "Unknown"
-tags: ["entree", "meat", "patties", "russian", "comfortfood", "123"]
-description: "Savory pan-fried Russian meat patties made with a rich blend of beef, veal, and pork, finished in a warm sour cream sauce. Perfectly paired with fresh new potatoes for a comforting traditional meal."
-date: "2026-07-30"
+title: Russian Meat Patties
+category: Entrees
+collection: UK2
+source: Unknown
+tags:
+  - entree
+  - meat
+  - patties
+  - russian
+  - comfortfood
+description: Savory pan-fried Russian meat patties made with a rich blend of beef, veal, and pork, finished in a warm sour cream sauce. Perfectly paired with fresh new potatoes for a comforting traditional meal.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Russian Meat Patties\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-03-02\", \"description\": \"Savory pan-fried Russian meat patties made with a rich blend of beef, veal, and pork, finished in a warm sour cream sauce.\", \"prepTime\": \"PT25M\", \"cookTime\": \"PT15M\", \"recipeCategory\": \"Entrees\", \"recipeYield\": \"4\u20136 Servings\", \"recipeIngredient\": [\"1/2 Pound Beef\", \"1/2 Pound Veal\", \"1/2 Pound Pork\", \"1 Egg\", \"1 Cup Bread Crumbs\", \"Milk\", \"1 Onion\", \"Salt\", \"Pepper\", \"Dry Bread Crumbs\", \"1/2 Cup Sour Cream\", \"Butter or Fat\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Grind the beef, veal, and pork together. Add the egg yolk, soaked bread crumbs, grated onion, salt, and pepper, then mix. Form into patties.\"}, {\"@type\": \"HowToStep\", \"text\": \"Beat the egg white. Dip patties in beaten egg white, then in dry bread crumbs.\"}, {\"@type\": \"HowToStep\", \"text\": \"Saut\u00e9 in butter or fat. When brown, add sour cream and simmer only until cream is hot. Serve with new potatoes.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Russian Meat Patties", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-03-02", "description": "Savory pan-fried Russian meat patties made with a rich blend of beef, veal, and pork, finished in a warm sour cream sauce.", "prepTime": "PT25M", "cookTime": "PT15M", "recipeCategory": "Entrees", "recipeYield": "4–6 Servings", "recipeIngredient": ["1/2 Pound Beef", "1/2 Pound Veal", "1/2 Pound Pork", "1 Egg", "1 Cup Bread Crumbs", "Milk", "1 Onion", "Salt", "Pepper", "Dry Bread Crumbs", "1/2 Cup Sour Cream", "Butter or Fat"], "recipeInstructions": [{"@type": "HowToStep", "text": "Grind the beef, veal, and pork together. Add the egg yolk, soaked bread crumbs, grated onion, salt, and pepper, then mix. Form into patties."}, {"@type": "HowToStep", "text": "Beat the egg white. Dip patties in beaten egg white, then in dry bread crumbs."}, {"@type": "HowToStep", "text": "Sauté in butter or fat. When brown, add sour cream and simmer only until cream is hot. Serve with new potatoes."}]}'
 ---
 
 # Russian Meat Patties

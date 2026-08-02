@@ -1,13 +1,18 @@
 ---
-title: "Sunshine Orange Jello Salad"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["jello", "salad", "orange", "123", "dessert", "fruit"]
-description: "A bright and intensely flavorful Jello salad packed with triple the orange taste from orange Jello, mandarin oranges, and a boost of frozen orange juice concentrate."
-date: "2026-07-30"
+title: Sunshine Orange Jello Salad
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - jello
+  - salad
+  - orange
+  - dessert
+  - fruit
+description: A bright and intensely flavorful Jello salad packed with triple the orange taste from orange Jello, mandarin oranges, and a boost of frozen orange juice concentrate.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Sunshine Orange Jello Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A bright and intensely flavorful Jello salad packed with triple the orange taste from orange Jello, mandarin oranges, and a boost of frozen orange juice concentrate.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT5M\", \"totalTime\": \"PT4H20M\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 large package (6 oz) Orange Jello\", \"1 can (15 oz) mandarin oranges\", \"1 can (15 oz) crushed pineapple\", \"1 can (6 oz) frozen orange juice concentrate\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Sunshine Orange Jello Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A bright and intensely flavorful Jello salad packed with triple the orange taste from orange Jello, mandarin oranges, and a boost of frozen orange juice concentrate.", "prepTime": "PT15M", "cookTime": "PT5M", "totalTime": "PT4H20M", "recipeYield": "8-10 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 large package (6 oz) Orange Jello", "1 can (15 oz) mandarin oranges", "1 can (15 oz) crushed pineapple", "1 can (6 oz) frozen orange juice concentrate"]}'
 ---
 
 # Sunshine Orange Jello Salad

@@ -1,11 +1,15 @@
 ---
-title: "Aunt Liz's Peach Cobbler"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Aunt Liz"
-tags: ["cobbler", "peaches", "123", "dessert", "fruit"]
-description: "A classic and easy peach cobbler featuring a simple batter poured over fruit that bakes into a soft, cake-like topping. This vintage recipe is perfect for using fresh or canned peaches."
-date: "2026-07-30"
+title: Aunt Liz's Peach Cobbler
+category: Desserts
+collection: Gail Collection
+source: Aunt Liz
+tags:
+  - cobbler
+  - peaches
+  - dessert
+  - fruit
+description: A classic and easy peach cobbler featuring a simple batter poured over fruit that bakes into a soft, cake-like topping. This vintage recipe is perfect for using fresh or canned peaches.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Aunt Liz's Peach Cobbler\", \"author\": {\"@type\": \"Person\", \"name\": \"Aunt Liz\"}, \"prepTime\": \"PT10M\", \"cookTime\": \"PT25M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 cube (4 Tbsp) margarine\", \"1 cup cut up peaches\", \"1/4 teaspoon cinnamon or allspice\", \"1 cup all-purpose flour\", \"1/4 teaspoon salt\", \"1 teaspoon baking powder\", \"1 cup sugar\", \"1/4 teaspoon nutmeg\", \"1/2 cup milk\"]}"
 ---

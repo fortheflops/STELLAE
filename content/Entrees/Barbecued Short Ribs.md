@@ -1,13 +1,92 @@
 ---
-title: "Barbecued Short Ribs"
-category: "Entrees"
-collection: "General Archive"
-source: "Unknown"
-tags: ["beef", "shortribs", "barbecue", "braised", "comfortfood", "123"]
-description: "Tender, fall-off-the-bone short ribs braised in a tangy and savory barbecue-style sauce with onions, curry, and paprika. This classic comfort dish delivers rich, aromatic flavors after a slow bake in the oven."
-date: "2026-07-30"
+title: Barbecued Short Ribs
+category: Entrees
+collection: General Archive
+source: Unknown
+tags:
+  - beef
+  - shortribs
+  - barbecue
+  - braised
+  - comfortfood
+description: Tender, fall-off-the-bone short ribs braised in a tangy and savory barbecue-style sauce with onions, curry, and paprika. This classic comfort dish delivers rich, aromatic flavors after a slow bake in the oven.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Barbecued Short Ribs\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-11-07\",\n  \"description\": \"Tender, fall-off-the-bone short ribs braised in a tangy and savory barbecue-style sauce with onions, curry, and paprika.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Entrees/Meat/Beef/Short Ribs/Assets/Handwritten_2025-02-14_114619.webp\",\n    \"https://cucinamezzaluna.com/Entrees/Meat/Beef/Short Ribs/Assets/Handwritten_2025-02-14_114702 (2).webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H30M\",\n  \"totalTime\": \"PT1H50M\",\n  \"recipeYield\": \"4-6 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 Clove Garlic\",\n    \"3 Tbsp Fat\",\n    \"3 lb Short Ribs\",\n    \"3 Medium Onions\",\n    \"1 cup Vinegar\",\n    \"1 tsp Curry Powder\",\n    \"1 tsp Paprika\",\n    \"\u00bc tsp Chili Powder\",\n    \"1 Tbsp Brown Sugar\",\n    \"1 cup Beef Stock\",\n    \"1 tsp Salt\",\n    \"\u00bd tsp Pepper\",\n    \"\u00bd tsp Dry Mustard\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 350\u00b0F.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Chop up garlic fine.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Heat the fat in heavy skillet.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add garlic & short ribs & brown well on both sides.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Transfer meat & drippings to a large casserole or Dutch oven.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Slice up onions & add to meat.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Mix up all remaining ingredients and pour over the beef.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cover very tightly & bake 1\u00bd hours - until tender.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"To serve, place ribs on platter & pour sauce over them.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Barbecued Short Ribs",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-11-07",
+    "description": "Tender, fall-off-the-bone short ribs braised in a tangy and savory barbecue-style sauce with onions, curry, and paprika.",
+    "image": [
+      "https://cucinamezzaluna.com/Entrees/Meat/Beef/Short Ribs/Assets/Handwritten_2025-02-14_114619.webp",
+      "https://cucinamezzaluna.com/Entrees/Meat/Beef/Short Ribs/Assets/Handwritten_2025-02-14_114702 (2).webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT1H30M",
+    "totalTime": "PT1H50M",
+    "recipeYield": "4-6 servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 Clove Garlic",
+      "3 Tbsp Fat",
+      "3 lb Short Ribs",
+      "3 Medium Onions",
+      "1 cup Vinegar",
+      "1 tsp Curry Powder",
+      "1 tsp Paprika",
+      "¼ tsp Chili Powder",
+      "1 Tbsp Brown Sugar",
+      "1 cup Beef Stock",
+      "1 tsp Salt",
+      "½ tsp Pepper",
+      "½ tsp Dry Mustard"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 350°F."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop up garlic fine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the fat in heavy skillet."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add garlic & short ribs & brown well on both sides."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer meat & drippings to a large casserole or Dutch oven."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice up onions & add to meat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix up all remaining ingredients and pour over the beef."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover very tightly & bake 1½ hours - until tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To serve, place ribs on platter & pour sauce over them."
+      }
+    ]
+  }
 ---
 
 # Barbecued Short Ribs

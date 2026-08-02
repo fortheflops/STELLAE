@@ -1,13 +1,77 @@
 ---
-title: "Tomato Soup Spice Cake"
-category: "Desserts"
-collection: "Patsy Collection"
-source: "Unknown"
-tags: ["dessert", "cake", "spicecake", "123", "patsycollection"]
-description: "A surprisingly delicious and incredibly moist old-fashioned spice cake featuring condensed tomato soup for a tender crumb and rich flavor. Filled with warm spices and plump raisins, this vintage dessert is wonderfully paired with cream cheese frosting."
-date: "2026-07-30"
+title: Tomato Soup Spice Cake
+category: Desserts
+collection: Patsy Collection
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - spicecake
+  - patsycollection
+description: A surprisingly delicious and incredibly moist old-fashioned spice cake featuring condensed tomato soup for a tender crumb and rich flavor. Filled with warm spices and plump raisins, this vintage dessert is wonderfully paired with cream cheese frosting.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Tomato Soup Spice Cake\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A classic American spice cake made with the surprising addition of condensed tomato soup for an incredibly moist crumb, filled with raisins and warm spices.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Tomato/Assets/Handwritten_2025-01-05_112544.webp\",\n    \"https://cucinamezzaluna.com/Desserts/Cake/Fruit/Tomato/Assets/Handwritten_2025-01-05_113129%20(2).webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT35M\",\n  \"totalTime\": \"PT55M\",\n  \"recipeYield\": \"1 2-layer 8-inch cake\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"2 Cups Sifted Flour\",\n    \"1 Tbsp Baking Powder\",\n    \"\u00bd Tsp Soda\",\n    \"\u00bd Tsp Ground Clove\",\n    \"\u00bd Tsp Cinnamon\",\n    \"\u00bd Tsp Nutmeg\",\n    \"1 Cup Seedless Raisins\",\n    \"\u00bd Cup Shortening\",\n    \"1 Cup Sugar\",\n    \"2 Well-beaten Eggs\",\n    \"1 1/4 cups condensed tomato soup\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 375\u00b0F. Grease and flour two 8-inch round layer pans. Sift together flour, baking powder, soda, cloves, cinnamon, and nutmeg. Toss the raisins in a small amount of this flour mixture to coat.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, cream the shortening and sugar until light and fluffy. Add the beaten eggs and mix thoroughly.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the flour mixture to the creamed mixture in three parts, alternating with the tomato soup in two parts, beginning and ending with the flour mixture.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir until the batter is smooth, then fold in the flour-coated raisins.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the batter evenly into the prepared pans and bake for 35 minutes, or until a toothpick inserted into the center comes out clean.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Let cool in pans for 10 minutes before inverting onto a wire rack to cool completely before frosting.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Tomato Soup Spice Cake",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A classic American spice cake made with the surprising addition of condensed tomato soup for an incredibly moist crumb, filled with raisins and warm spices.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Tomato/Assets/Handwritten_2025-01-05_112544.webp",
+      "https://cucinamezzaluna.com/Desserts/Cake/Fruit/Tomato/Assets/Handwritten_2025-01-05_113129%20(2).webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT35M",
+    "totalTime": "PT55M",
+    "recipeYield": "1 2-layer 8-inch cake",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "2 Cups Sifted Flour",
+      "1 Tbsp Baking Powder",
+      "½ Tsp Soda",
+      "½ Tsp Ground Clove",
+      "½ Tsp Cinnamon",
+      "½ Tsp Nutmeg",
+      "1 Cup Seedless Raisins",
+      "½ Cup Shortening",
+      "1 Cup Sugar",
+      "2 Well-beaten Eggs",
+      "1 1/4 cups condensed tomato soup"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375°F. Grease and flour two 8-inch round layer pans. Sift together flour, baking powder, soda, cloves, cinnamon, and nutmeg. Toss the raisins in a small amount of this flour mixture to coat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, cream the shortening and sugar until light and fluffy. Add the beaten eggs and mix thoroughly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the flour mixture to the creamed mixture in three parts, alternating with the tomato soup in two parts, beginning and ending with the flour mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir until the batter is smooth, then fold in the flour-coated raisins."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter evenly into the prepared pans and bake for 35 minutes, or until a toothpick inserted into the center comes out clean."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let cool in pans for 10 minutes before inverting onto a wire rack to cool completely before frosting."
+      }
+    ]
+  }
 ---
 
 # Tomato Soup Spice Cake

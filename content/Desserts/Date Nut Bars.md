@@ -1,13 +1,18 @@
 ---
-title: "Date Nut Bars"
-category: "Desserts"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["dessert", "bars", "dates", "nuts", "123", "baked"]
-description: "These chewy, moist date and nut bars offer a rich, brownie-like texture perfect for any occasion. A simple, classic recipe that highlights the natural sweetness of dates paired with crunchy nuts."
-date: "2026-07-30"
+title: Date Nut Bars
+category: Desserts
+collection: Jill Collection
+source: Unknown
+tags:
+  - dessert
+  - bars
+  - dates
+  - nuts
+  - baked
+description: These chewy, moist date and nut bars offer a rich, brownie-like texture perfect for any occasion. A simple, classic recipe that highlights the natural sweetness of dates paired with crunchy nuts.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Date Nut Bars\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A simple recipe for wonderfully moist and chewy date and nut bars with a brownie-like texture.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"16-24 bars\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 cup butter, melted\", \"1 cup sugar\", \"2 large eggs\", \"3/4 cup all-purpose flour\", \"1/2 teaspoon baking powder\", \"1/8 teaspoon salt\", \"1 cup chopped nuts\", \"1 cup chopped dates\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Date Nut Bars", "author": {"@type": "Person", "name": "Unknown"}, "description": "A simple recipe for wonderfully moist and chewy date and nut bars with a brownie-like texture.", "prepTime": "PT15M", "cookTime": "PT30M", "recipeYield": "16-24 bars", "recipeCategory": "Dessert", "recipeIngredient": ["1/2 cup butter, melted", "1 cup sugar", "2 large eggs", "3/4 cup all-purpose flour", "1/2 teaspoon baking powder", "1/8 teaspoon salt", "1 cup chopped nuts", "1 cup chopped dates"]}'
 ---
 
 # Date Nut Bars

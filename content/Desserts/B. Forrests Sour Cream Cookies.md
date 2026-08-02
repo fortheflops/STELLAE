@@ -1,11 +1,15 @@
 ---
-title: "B. Forrest's Sour Cream Cookies"
-category: "Desserts"
-collection: "Jill Collection"
-source: "B. Forrest"
-tags: ["cookies", "123", "sourcream", "dessert", "baking"]
-description: "A classic recipe for soft, cake-like sour cream cookies featuring a delicate balance of vanilla and lemon extracts. These tender, roll-and-cut cookies are perfect for any occasion and offer a nostalgic, homemade flavor."
-date: "2026-07-30"
+title: B. Forrest's Sour Cream Cookies
+category: Desserts
+collection: Jill Collection
+source: B. Forrest
+tags:
+  - cookies
+  - sourcream
+  - dessert
+  - baking
+description: A classic recipe for soft, cake-like sour cream cookies featuring a delicate balance of vanilla and lemon extracts. These tender, roll-and-cut cookies are perfect for any occasion and offer a nostalgic, homemade flavor.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"B. Forrest's Sour Cream Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"B. Forrest\"}, \"description\": \"A classic recipe for soft, cake-like sour cream cookies.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT7M\", \"recipeYield\": \"4-5 dozen cookies\", \"recipeIngredient\": [\"1/2 cup shortening\", \"1 cup sugar\", \"1 large egg\", \"1/2 cup sour cream\", \"1 teaspoon vanilla extract\", \"1/2 teaspoon lemon extract\", \"2 1/4 cups all-purpose flour\", \"1 teaspoon baking powder\", \"1/2 teaspoon baking soda\", \"1/2 teaspoon salt\"]}"
 ---

@@ -1,13 +1,56 @@
 ---
-title: "Oatmeal Cake with Broiled Coconut Topping"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "cake", "oatmeal", "123", "coconut", "baking"]
-description: "A wonderfully moist, old-fashioned oatmeal cake featuring a rich flavor from brown sugar and spices. The single-layer spice cake is finished with a gooey, caramelized topping of coconut, nuts, and brown sugar."
-date: "2026-07-30"
+title: Oatmeal Cake with Broiled Coconut Topping
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - oatmeal
+  - coconut
+  - baking
+description: A wonderfully moist, old-fashioned oatmeal cake featuring a rich flavor from brown sugar and spices. The single-layer spice cake is finished with a gooey, caramelized topping of coconut, nuts, and brown sugar.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Oatmeal Cake with Broiled Coconut Topping\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-10-05\",\n  \"description\": \"A moist, single-layer oatmeal spice cake that is topped with a rich coconut-pecan mixture and broiled until bubbly and caramelized.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Cake/Oatmeal-Cake/Assets/Handwritten_2025-04-19_193946.webp\"\n  ],\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT40M\",\n  \"totalTime\": \"PT1H15M\",\n  \"recipeYield\": \"1 9x13 cake\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"1 cup old-fashioned or quick oats\",\n    \"1 1/3 cups boiling water\",\n    \"1 cup packed brown sugar\",\n    \"1 cup white sugar\",\n    \"1/2 cup shortening\",\n    \"2 large eggs\",\n    \"1 1/2 cups all-purpose flour\",\n    \"1 teaspoon baking soda\",\n    \"1/2 teaspoon cinnamon\",\n    \"1/2 teaspoon salt\",\n    \"6 tablespoons butter, melted\",\n    \"1/2 cup packed brown sugar\",\n    \"1/4 cup milk or cream\",\n    \"1 cup chopped nuts\",\n    \"1 cup shredded coconut\",\n    \"1 teaspoon vanilla extract\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Oatmeal Cake with Broiled Coconut Topping",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-10-05",
+    "description": "A moist, single-layer oatmeal spice cake that is topped with a rich coconut-pecan mixture and broiled until bubbly and caramelized.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Cake/Oatmeal-Cake/Assets/Handwritten_2025-04-19_193946.webp"
+    ],
+    "prepTime": "PT15M",
+    "cookTime": "PT40M",
+    "totalTime": "PT1H15M",
+    "recipeYield": "1 9x13 cake",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "1 cup old-fashioned or quick oats",
+      "1 1/3 cups boiling water",
+      "1 cup packed brown sugar",
+      "1 cup white sugar",
+      "1/2 cup shortening",
+      "2 large eggs",
+      "1 1/2 cups all-purpose flour",
+      "1 teaspoon baking soda",
+      "1/2 teaspoon cinnamon",
+      "1/2 teaspoon salt",
+      "6 tablespoons butter, melted",
+      "1/2 cup packed brown sugar",
+      "1/4 cup milk or cream",
+      "1 cup chopped nuts",
+      "1 cup shredded coconut",
+      "1 teaspoon vanilla extract"
+    ]
+  }
 ---
 
 # Oatmeal Cake with Broiled Coconut Topping

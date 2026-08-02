@@ -1,13 +1,54 @@
 ---
-title: "Meat Pie"
-category: "Entrees"
-collection: "LOC"
-source: "F. Woodland"
-tags: ["louisecollection", "entree", "meatpie", "comfortfood", "123"]
-description: "A classic vintage meat pie featuring seasoned ground beef, a layer of melted cheese, and a fluffy swirled mashed potato topping. Baked to bubbling perfection and browned under the broiler."
-date: "2026-07-30"
+title: Meat Pie
+category: Entrees
+collection: LOC
+source: F. Woodland
+tags:
+  - louisecollection
+  - entree
+  - meatpie
+  - comfortfood
+description: A classic vintage meat pie featuring seasoned ground beef, a layer of melted cheese, and a fluffy swirled mashed potato topping. Baked to bubbling perfection and browned under the broiler.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Meat Pie\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"F. Woodland\"\n  },\n  \"description\": \"A classic vintage meat pie featuring seasoned ground beef, a layer of melted cheese, and a fluffy swirled mashed potato topping.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT35M\",\n  \"recipeYield\": \"4-6 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeIngredient\": [\n    \"1/2 Cup Evaporated Milk\",\n    \"1/4 Cup Bread Crumbs\",\n    \"1 Egg\",\n    \"1 tsp Salt\",\n    \"1 tsp Dry Mustard\",\n    \"1/4 tsp Pepper\",\n    \"1/3 Cup Minced Onion\",\n    \"1 lb Ground Beef\",\n    \"Cheese Slices\",\n    \"Mashed Potatoes\",\n    \"Butter\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Mix evaporated milk with bread crumbs, beat in egg, salt, dry mustard, pepper, and minced onion, mix in ground beef with fork, and turn into a 9-inch pie plate.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake at 350\u00b0F for 30 minutes, cover with cheese slices, top with mashed potatoes and butter, and broil until lightly browned.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Meat Pie",
+    "author": {
+      "@type": "Person",
+      "name": "F. Woodland"
+    },
+    "description": "A classic vintage meat pie featuring seasoned ground beef, a layer of melted cheese, and a fluffy swirled mashed potato topping.",
+    "prepTime": "PT20M",
+    "cookTime": "PT35M",
+    "recipeYield": "4-6 servings",
+    "recipeCategory": "Entrees",
+    "recipeIngredient": [
+      "1/2 Cup Evaporated Milk",
+      "1/4 Cup Bread Crumbs",
+      "1 Egg",
+      "1 tsp Salt",
+      "1 tsp Dry Mustard",
+      "1/4 tsp Pepper",
+      "1/3 Cup Minced Onion",
+      "1 lb Ground Beef",
+      "Cheese Slices",
+      "Mashed Potatoes",
+      "Butter"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix evaporated milk with bread crumbs, beat in egg, salt, dry mustard, pepper, and minced onion, mix in ground beef with fork, and turn into a 9-inch pie plate."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake at 350°F for 30 minutes, cover with cheese slices, top with mashed potatoes and butter, and broil until lightly browned."
+      }
+    ]
+  }
 ---
 
 # Meat Pie

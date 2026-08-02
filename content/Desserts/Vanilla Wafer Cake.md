@@ -1,13 +1,19 @@
 ---
-title: "Vanilla Wafer Cake"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["dessert", "cake", "vanillawafer", "coconut", "nuts", "baking", "123"]
-description: "A rich, dense, and wonderfully unique cake that uses an entire box of crushed vanilla wafers instead of flour. This buttery cake is loaded with coconut and nuts, and bakes low and slow for an incredibly moist texture."
-date: "2026-07-30"
+title: Vanilla Wafer Cake
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - vanillawafer
+  - coconut
+  - nuts
+  - baking
+description: A rich, dense, and wonderfully unique cake that uses an entire box of crushed vanilla wafers instead of flour. This buttery cake is loaded with coconut and nuts, and bakes low and slow for an incredibly moist texture.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Vanilla Wafer Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-10-06\", \"description\": \"A rich, flourless cake made from a base of crushed vanilla wafers, butter, eggs, coconut, and nuts.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Wafer-Cake/Assets/Handwritten_2025-04-16_142418.webp\", \"https://cucinamezzaluna.com/Desserts/Cake/Wafer-Cake/Assets/Handwritten_2025-04-16_142525%20(2).webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H15M\", \"totalTime\": \"PT1H35M\", \"recipeYield\": \"1 tube cake (12-16 servings)\", \"recipeCategory\": \"Dessert\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1 (12-ounce) box vanilla wafers, finely crushed\", \"1 cup (2 sticks) butter or margarine, softened\", \"2 cups sugar\", \"6 large eggs\", \"1 (7-ounce) bag shredded coconut\", \"1 cup chopped nuts\", \"1/2 cup milk\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Vanilla Wafer Cake", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-10-06", "description": "A rich, flourless cake made from a base of crushed vanilla wafers, butter, eggs, coconut, and nuts.", "image": ["https://cucinamezzaluna.com/Desserts/Cake/Wafer-Cake/Assets/Handwritten_2025-04-16_142418.webp", "https://cucinamezzaluna.com/Desserts/Cake/Wafer-Cake/Assets/Handwritten_2025-04-16_142525%20(2).webp"], "prepTime": "PT20M", "cookTime": "PT1H15M", "totalTime": "PT1H35M", "recipeYield": "1 tube cake (12-16 servings)", "recipeCategory": "Dessert", "recipeCuisine": "American", "recipeIngredient": ["1 (12-ounce) box vanilla wafers, finely crushed", "1 cup (2 sticks) butter or margarine, softened", "2 cups sugar", "6 large eggs", "1 (7-ounce) bag shredded coconut", "1 cup chopped nuts", "1/2 cup milk"]}'
 ---
 
 # Vanilla Wafer Cake

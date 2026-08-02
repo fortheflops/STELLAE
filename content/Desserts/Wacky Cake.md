@@ -1,13 +1,17 @@
 ---
-title: "Wacky Cake"
-category: "Desserts"
-collection: "Patsy Collection"
-source: "Unknown"
-tags: ["eggless", "123", "chocolate", "depressioncake", "onepan"]
-description: "A classic Depression-era chocolate cake that is magically moist and rich without the use of eggs, butter, or milk. This simple, one-pan recipe is mixed directly in the baking dish for effortless preparation."
-date: "2026-07-30"
+title: Wacky Cake
+category: Desserts
+collection: Patsy Collection
+source: Unknown
+tags:
+  - eggless
+  - chocolate
+  - depressioncake
+  - onepan
+description: A classic Depression-era chocolate cake that is magically moist and rich without the use of eggs, butter, or milk. This simple, one-pan recipe is mixed directly in the baking dish for effortless preparation.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Wacky Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic Depression-era chocolate cake that is magically moist and rich without the use of eggs, butter, or milk.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"9 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 1/2 cups flour\", \"1 cup white sugar\", \"3 tablespoons cocoa\", \"1 teaspoon salt\", \"1 teaspoon baking soda\", \"1 tablespoon vinegar\", \"1 tablespoon vanilla\", \"5 tablespoons salad oil\", \"1 cup cold water\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Wacky Cake", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic Depression-era chocolate cake that is magically moist and rich without the use of eggs, butter, or milk.", "prepTime": "PT10M", "cookTime": "PT30M", "recipeYield": "9 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 1/2 cups flour", "1 cup white sugar", "3 tablespoons cocoa", "1 teaspoon salt", "1 teaspoon baking soda", "1 tablespoon vinegar", "1 tablespoon vanilla", "5 tablespoons salad oil", "1 cup cold water"]}'
 ---
 
 # Wacky Cake

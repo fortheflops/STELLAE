@@ -1,13 +1,54 @@
 ---
-title: "Chicken Romanoff"
-category: "Entrees"
-collection: "John B. Collection"
-source: "Unattributed"
-tags: ["entree", "chicken", "casserole", "123", "comfortfood"]
-description: "A comforting vintage casserole featuring tender chicken baked with Romanoff noodles and a rich, creamy soup sauce. Perfect for feeding a crowd, this classic recipe yields enough to fill both a 9x13 pan and an 8x8 pan."
-date: "2026-07-30"
+title: Chicken Romanoff
+category: Entrees
+collection: John B. Collection
+source: Unattributed
+tags:
+  - entree
+  - chicken
+  - casserole
+  - comfortfood
+description: A comforting vintage casserole featuring tender chicken baked with Romanoff noodles and a rich, creamy soup sauce. Perfect for feeding a crowd, this classic recipe yields enough to fill both a 9x13 pan and an 8x8 pan.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Chicken Romanoff\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"description\": \"A comforting vintage casserole featuring tender chicken baked with Romanoff noodles and a rich, creamy soup sauce.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H\",\n  \"recipeYield\": \"12 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"3 pkgs Romanoff Noodles\",\n    \"1 cup Cream of Celery Soup\",\n    \"1 cup Cream of Mushroom Soup\",\n    \"1/3 can Cooking Wine\",\n    \"2/3 can Milk\",\n    \"2 lbs Cooked Chicken\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Follow package directions to prepare the 3 pkgs Romanoff noodles.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine the prepared noodles, 1 cup cream of celery soup, 1 cup cream of mushroom soup, 1/3 can cooking wine, 2/3 can milk, and 2 lbs cooked chicken, mixing thoroughly.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Transfer the mixture into one 9x13 pan and one 8x8 pan and bake at 350 degrees for one hour until hot and bubbly.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Chicken Romanoff",
+    "author": {
+      "@type": "Person",
+      "name": "Unattributed"
+    },
+    "description": "A comforting vintage casserole featuring tender chicken baked with Romanoff noodles and a rich, creamy soup sauce.",
+    "prepTime": "PT20M",
+    "cookTime": "PT1H",
+    "recipeYield": "12 servings",
+    "recipeCategory": "Entrees",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "3 pkgs Romanoff Noodles",
+      "1 cup Cream of Celery Soup",
+      "1 cup Cream of Mushroom Soup",
+      "1/3 can Cooking Wine",
+      "2/3 can Milk",
+      "2 lbs Cooked Chicken"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Follow package directions to prepare the 3 pkgs Romanoff noodles."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the prepared noodles, 1 cup cream of celery soup, 1 cup cream of mushroom soup, 1/3 can cooking wine, 2/3 can milk, and 2 lbs cooked chicken, mixing thoroughly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the mixture into one 9x13 pan and one 8x8 pan and bake at 350 degrees for one hour until hot and bubbly."
+      }
+    ]
+  }
 ---
 
 # Chicken Romanoff

@@ -1,13 +1,51 @@
 ---
-title: "Jill's Classic Apple Pie"
-category: "Desserts"
-collection: "JillCollection"
-source: "Jill"
-tags: ["dessert", "pie", "apple", "baking", "classic", "123"]
-description: "A classic apple pie recipe from Jill, offering the choice between a traditional double crust or a sweet and simple crumb topping. Perfect for autumn gatherings and comforting family desserts."
-date: "2026-07-30"
+title: Jill's Classic Apple Pie
+category: Desserts
+collection: JillCollection
+source: Jill
+tags:
+  - dessert
+  - pie
+  - apple
+  - baking
+  - classic
+description: A classic apple pie recipe from Jill, offering the choice between a traditional double crust or a sweet and simple crumb topping. Perfect for autumn gatherings and comforting family desserts.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Jill's Classic Apple Pie\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Jill\"\n  },\n  \"datePublished\": \"2025-10-13\",\n  \"description\": \"A classic apple pie recipe from Jill, offering the choice between a traditional double crust or a sweet and simple crumb topping.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Apple%20Pie/Assets/Jill's%20Apple%20Pie-1754789831815.webp\"\n  ],\n  \"prepTime\": \"PT25M\",\n  \"cookTime\": \"PT1H\",\n  \"totalTime\": \"PT1H25M\",\n  \"recipeYield\": \"One 9-inch pie\",\n  \"recipeCategory\": \"Dessert\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"6 to 7 tart apples, peeled and thinly sliced\",\n    \"3/4 to 1 cup sugar\",\n    \"2 tablespoons all-purpose flour\",\n    \"1 teaspoon cinnamon\",\n    \"1 dash nutmeg\",\n    \"1 dash salt\",\n    \"2 tablespoons butter\",\n    \"1 recipe pastry for a double-crust 9-inch pie\",\n    \"1/2 cup all-purpose flour (for crumb topping)\",\n    \"1/4 cup sugar (for crumb topping)\",\n    \"1/4 cup cold butter (for crumb topping)\"\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Jill's Classic Apple Pie",
+    "author": {
+      "@type": "Person",
+      "name": "Jill"
+    },
+    "datePublished": "2025-10-13",
+    "description": "A classic apple pie recipe from Jill, offering the choice between a traditional double crust or a sweet and simple crumb topping.",
+    "image": [
+      "https://cucinamezzaluna.com/Desserts/Pastries/Pie/Apple%20Pie/Assets/Jill's%20Apple%20Pie-1754789831815.webp"
+    ],
+    "prepTime": "PT25M",
+    "cookTime": "PT1H",
+    "totalTime": "PT1H25M",
+    "recipeYield": "One 9-inch pie",
+    "recipeCategory": "Dessert",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "6 to 7 tart apples, peeled and thinly sliced",
+      "3/4 to 1 cup sugar",
+      "2 tablespoons all-purpose flour",
+      "1 teaspoon cinnamon",
+      "1 dash nutmeg",
+      "1 dash salt",
+      "2 tablespoons butter",
+      "1 recipe pastry for a double-crust 9-inch pie",
+      "1/2 cup all-purpose flour (for crumb topping)",
+      "1/4 cup sugar (for crumb topping)",
+      "1/4 cup cold butter (for crumb topping)"
+    ]
+  }
 ---
 
 # Jill's Classic Apple Pie

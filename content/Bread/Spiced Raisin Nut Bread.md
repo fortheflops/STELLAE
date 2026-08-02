@@ -1,13 +1,18 @@
 ---
-title: "Spiced Raisin Nut Bread"
-category: "Bread"
-collection: "UK15"
-source: "Unknown"
-tags: ["bread", "quickbread", "raisin", "nuts", "spice", "123"]
-description: "A wonderfully moist quick bread made with both brown and white sugar for a rich flavor, loaded with stewed raisins and chopped nuts. Although written on a recipe card titled 'Zucchini Bread', this delightful loaf focuses purely on sweet spices and fruit."
-date: "2026-07-30"
+title: Spiced Raisin Nut Bread
+category: Bread
+collection: UK15
+source: Unknown
+tags:
+  - bread
+  - quickbread
+  - raisin
+  - nuts
+  - spice
+description: A wonderfully moist quick bread made with both brown and white sugar for a rich flavor, loaded with stewed raisins and chopped nuts. Although written on a recipe card titled 'Zucchini Bread', this delightful loaf focuses purely on sweet spices and fruit.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Spiced Raisin Nut Bread\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A moist and flavorful quick bread featuring both brown and white sugar, plus plump stewed raisins and nuts.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H\", \"totalTime\": \"PT1H20M\", \"recipeYield\": \"2 loaves\", \"recipeCategory\": \"Bread\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3 eggs\", \"1 cup brown sugar\", \"1 cup white sugar\", \"1 cup salad oil\", \"2 teaspoons vanilla\", \"3 cups flour\", \"1 teaspoon baking soda\", \"1 teaspoon salt\", \"1 teaspoon cinnamon\", \"1/4 teaspoon baking powder\", \"1 cup raisins, stewed and drained\", \"1/2 cup nuts, chopped\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 350\u00b0F. Grease and flour two loaf pans. Soak raisins in hot water for 10 minutes, then drain well.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a large bowl, beat the eggs. Whisk in the brown sugar, white sugar, oil, and vanilla.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a separate bowl, whisk together the flour, baking soda, salt, cinnamon, and baking powder.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the dry ingredients to the wet ingredients and stir until just combined. Fold in the drained stewed raisins and nuts.\"}, {\"@type\": \"HowToStep\", \"text\": \"Divide the batter evenly between the two prepared loaf pans.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake for 1 hour, or until a toothpick inserted into the center comes out clean. Cool in pans for 10 minutes before removing to a wire rack.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Spiced Raisin Nut Bread", "author": {"@type": "Person", "name": "Unknown"}, "description": "A moist and flavorful quick bread featuring both brown and white sugar, plus plump stewed raisins and nuts.", "prepTime": "PT20M", "cookTime": "PT1H", "totalTime": "PT1H20M", "recipeYield": "2 loaves", "recipeCategory": "Bread", "recipeCuisine": "American", "recipeIngredient": ["3 eggs", "1 cup brown sugar", "1 cup white sugar", "1 cup salad oil", "2 teaspoons vanilla", "3 cups flour", "1 teaspoon baking soda", "1 teaspoon salt", "1 teaspoon cinnamon", "1/4 teaspoon baking powder", "1 cup raisins, stewed and drained", "1/2 cup nuts, chopped"], "recipeInstructions": [{"@type": "HowToStep", "text": "Preheat oven to 350°F. Grease and flour two loaf pans. Soak raisins in hot water for 10 minutes, then drain well."}, {"@type": "HowToStep", "text": "In a large bowl, beat the eggs. Whisk in the brown sugar, white sugar, oil, and vanilla."}, {"@type": "HowToStep", "text": "In a separate bowl, whisk together the flour, baking soda, salt, cinnamon, and baking powder."}, {"@type": "HowToStep", "text": "Add the dry ingredients to the wet ingredients and stir until just combined. Fold in the drained stewed raisins and nuts."}, {"@type": "HowToStep", "text": "Divide the batter evenly between the two prepared loaf pans."}, {"@type": "HowToStep", "text": "Bake for 1 hour, or until a toothpick inserted into the center comes out clean. Cool in pans for 10 minutes before removing to a wire rack."}]}'
 ---
 
 # Spiced Raisin Nut Bread

@@ -1,13 +1,17 @@
 ---
-title: "Sweet and Savory Apricot Casserole"
-category: "Desserts"
-collection: "Patsy Collection"
-source: "Unknown"
-tags: ["patsycollection", "apricot", "casserole", "123", "sweetandsavory"]
-description: "A unique baked dish featuring sweet apricot halves macerated in lemon and sugar, topped with a crunchy, savory cheese cracker crumble. This versatile recipe serves perfectly as a decadent side dish or a simple, comforting dessert."
-date: "2026-07-30"
+title: Sweet and Savory Apricot Casserole
+category: Desserts
+collection: Patsy Collection
+source: Unknown
+tags:
+  - patsycollection
+  - apricot
+  - casserole
+  - sweetandsavory
+description: A unique baked dish featuring sweet apricot halves macerated in lemon and sugar, topped with a crunchy, savory cheese cracker crumble. This versatile recipe serves perfectly as a decadent side dish or a simple, comforting dessert.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Sweet and Savory Apricot Casserole\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A unique baked dish featuring sweet apricot halves macerated in lemon and sugar, topped with a crunchy, savory cheese cracker crumble.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"6-8 servings\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"2 (15 oz) Cans Apricot Halves\", \"2 Lemons, juiced\", \"1 Cup Brown Sugar\", \"1 1/2 Cups Cheese Crackers\", \"2 Tbsp Butter\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Combine apricots, lemon juice, and brown sugar; let sit for 30 minutes.\"}, {\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 350\u00b0F, pour mixture into dish, top with crackers and butter, and bake for 30 minutes until golden and bubbly.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Sweet and Savory Apricot Casserole", "author": {"@type": "Person", "name": "Unknown"}, "description": "A unique baked dish featuring sweet apricot halves macerated in lemon and sugar, topped with a crunchy, savory cheese cracker crumble.", "prepTime": "PT10M", "cookTime": "PT30M", "recipeYield": "6-8 servings", "recipeCategory": "Desserts", "recipeIngredient": ["2 (15 oz) Cans Apricot Halves", "2 Lemons, juiced", "1 Cup Brown Sugar", "1 1/2 Cups Cheese Crackers", "2 Tbsp Butter"], "recipeInstructions": [{"@type": "HowToStep", "text": "Combine apricots, lemon juice, and brown sugar; let sit for 30 minutes."}, {"@type": "HowToStep", "text": "Preheat oven to 350°F, pour mixture into dish, top with crackers and butter, and bake for 30 minutes until golden and bubbly."}]}'
 ---
 
 # Sweet and Savory Apricot Casserole

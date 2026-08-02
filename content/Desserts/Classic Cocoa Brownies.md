@@ -1,13 +1,18 @@
 ---
-title: "Classic Cocoa Brownies"
-category: "Desserts"
-collection: "UK3"
-source: "Unknown"
-tags: ["brownies", "chocolate", "dessert", "cocoa", "fudgy", "123"]
-description: "A rich and fudgy one-bowl brownie recipe featuring a simple cocoa powder base. These timeless treats are perfect for quick baking and deliver a deep chocolate flavor."
-date: "2026-07-30"
+title: Classic Cocoa Brownies
+category: Desserts
+collection: UK3
+source: Unknown
+tags:
+  - brownies
+  - chocolate
+  - dessert
+  - cocoa
+  - fudgy
+description: A rich and fudgy one-bowl brownie recipe featuring a simple cocoa powder base. These timeless treats are perfect for quick baking and deliver a deep chocolate flavor.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Cocoa Brownies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT10M\", \"cookTime\": \"PT30M\", \"recipeYield\": \"16 brownies\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1/2 cup plus 2 tablespoons margarine, melted\", \"1 cup sugar\", \"6 tablespoons cocoa powder\", \"2 large eggs\", \"3/4 cup flour\", \"1/2 teaspoon baking powder\", \"Pinch of salt\", \"1 teaspoon vanilla extract\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Cocoa Brownies", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT10M", "cookTime": "PT30M", "recipeYield": "16 brownies", "recipeCategory": "Dessert", "recipeIngredient": ["1/2 cup plus 2 tablespoons margarine, melted", "1 cup sugar", "6 tablespoons cocoa powder", "2 large eggs", "3/4 cup flour", "1/2 teaspoon baking powder", "Pinch of salt", "1 teaspoon vanilla extract"]}'
 ---
 
 # Classic Cocoa Brownies

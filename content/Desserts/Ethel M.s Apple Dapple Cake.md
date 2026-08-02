@@ -1,11 +1,16 @@
 ---
-title: "Ethel M.'s Apple Dapple Cake"
-category: "Desserts"
-collection: "Gail Collection"
-source: "Ethel M."
-tags: ["cake", "apple", "southern", "123", "dessert", "nut"]
-description: "A classic Southern-style moist apple cake packed with diced fruit and nuts. This dense dessert is finished by soaking it in a rich, hot brown sugar sauce while still in the pan."
-date: "2026-07-30"
+title: Ethel M.'s Apple Dapple Cake
+category: Desserts
+collection: Gail Collection
+source: Ethel M.
+tags:
+  - cake
+  - apple
+  - southern
+  - dessert
+  - nut
+description: A classic Southern-style moist apple cake packed with diced fruit and nuts. This dense dessert is finished by soaking it in a rich, hot brown sugar sauce while still in the pan.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Ethel M.'s Apple Dapple Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Ethel M.\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT1H\", \"recipeYield\": \"12-16 servings\", \"recipeCategory\": \"Dessert\"}"
 ---

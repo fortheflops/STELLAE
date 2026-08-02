@@ -1,11 +1,15 @@
 ---
-title: "Jill's Tender Pie Crust"
-category: "Desserts"
-collection: "JC"
-source: "Jill"
-tags: ["piecrust", "dessert", "baking", "pastry", "123"]
-description: "Discover a classic recipe for an exceptionally tender and flaky pie crust crafted with vegetable shortening, an egg, and a hint of lemon juice. This versatile dough yields enough for three single 9-inch crusts, ensuring golden, melt-in-your-mouth results."
-date: "2026-07-30"
+title: Jill's Tender Pie Crust
+category: Desserts
+collection: JC
+source: Jill
+tags:
+  - piecrust
+  - dessert
+  - baking
+  - pastry
+description: Discover a classic recipe for an exceptionally tender and flaky pie crust crafted with vegetable shortening, an egg, and a hint of lemon juice. This versatile dough yields enough for three single 9-inch crusts, ensuring golden, melt-in-your-mouth results.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Jill's Tender Pie Crust\", \"author\": {\"@type\": \"Person\", \"name\": \"Jill\"}, \"datePublished\": \"2025-10-13\", \"description\": \"A classic recipe for a very tender and flaky pie crust made with vegetable shortening, an egg, and a hint of lemon juice.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Crust/Assets/Pie%20Crust%20JC-1754357726037.webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT45M\", \"recipeYield\": \"Three single 9-inch crusts\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"2 cups All-Purpose Flour\", \"2/3 cup Vegetable Shortening, chilled\", \"1 teaspoon Baking Powder\", \"1/2 teaspoon Salt\", \"1 Egg\", \"2 tablespoons Lemon Juice\", \"3 tablespoons Cold Water\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a large bowl, sift together the flour, baking powder, and salt.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add one-third of the shortening to the flour and cut in until the mixture resembles fine cornmeal.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add the remaining shortening until particles are the size of small peas.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a separate bowl, beat the egg, lemon juice, and water together, then pour over the flour mixture just until the dough comes together.\"}, {\"@type\": \"HowToStep\", \"text\": \"Divide the dough into three portions, shape into disks, wrap, and chill for at least 30 minutes.\"}]}"
 ---

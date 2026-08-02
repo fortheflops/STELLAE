@@ -1,13 +1,17 @@
 ---
-title: "Party Chicken Casserole"
-category: "Entrees"
-collection: "Patsy Collection"
-source: "Unknown"
-tags: ["patsycollection", "casserole", "chicken", "comfortfood", "123"]
-description: "A classic and savory casserole featuring bacon-wrapped chicken breasts baked low and slow on a bed of dried beef. Smothered in a rich, creamy mushroom and sour cream sauce, it is an effortless crowd-pleaser."
-date: "2026-07-30"
+title: Party Chicken Casserole
+category: Entrees
+collection: Patsy Collection
+source: Unknown
+tags:
+  - patsycollection
+  - casserole
+  - chicken
+  - comfortfood
+description: A classic and savory casserole featuring bacon-wrapped chicken breasts baked low and slow on a bed of dried beef. Smothered in a rich, creamy mushroom and sour cream sauce, it is an effortless crowd-pleaser.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Party Chicken Casserole\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-09-05\", \"description\": \"Bacon-wrapped chicken breasts baked low and slow in a creamy mushroom and sour cream sauce over a savory bed of dried beef.\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT3H\", \"totalTime\": \"PT3H15M\", \"recipeYield\": \"8 servings\", \"recipeCategory\": \"Entrees\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"4 large boneless, skinless chicken breasts, halved to make 8 pieces\", \"8 strips of bacon\", \"1 (4-ounce) package dried beef, chopped\", \"1 (10.5-ounce) can condensed cream of mushroom soup\", \"1 (8-ounce) container sour cream\", \"Cooked rice, for serving\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 275\u00b0F (135\u00b0C).\"}, {\"@type\": \"HowToStep\", \"text\": \"Cut each chicken breast in half to create 8 pieces. Wrap one strip of bacon around each piece.\"}, {\"@type\": \"HowToStep\", \"text\": \"Spread the dried beef in the bottom of a 9x13 inch baking dish.\"}, {\"@type\": \"HowToStep\", \"text\": \"Place the bacon-wrapped chicken on top of the dried beef.\"}, {\"@type\": \"HowToStep\", \"text\": \"In a small bowl, combine the mushroom soup and sour cream. Pour the mixture evenly over the chicken.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake uncovered for 2.5 to 3 hours, until the chicken is tender.\"}, {\"@type\": \"HowToStep\", \"text\": \"Serve hot over cooked rice, using the sauce from the dish as a gravy.\"}]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Party Chicken Casserole", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-09-05", "description": "Bacon-wrapped chicken breasts baked low and slow in a creamy mushroom and sour cream sauce over a savory bed of dried beef.", "prepTime": "PT15M", "cookTime": "PT3H", "totalTime": "PT3H15M", "recipeYield": "8 servings", "recipeCategory": "Entrees", "recipeCuisine": "American", "recipeIngredient": ["4 large boneless, skinless chicken breasts, halved to make 8 pieces", "8 strips of bacon", "1 (4-ounce) package dried beef, chopped", "1 (10.5-ounce) can condensed cream of mushroom soup", "1 (8-ounce) container sour cream", "Cooked rice, for serving"], "recipeInstructions": [{"@type": "HowToStep", "text": "Preheat oven to 275°F (135°C)."}, {"@type": "HowToStep", "text": "Cut each chicken breast in half to create 8 pieces. Wrap one strip of bacon around each piece."}, {"@type": "HowToStep", "text": "Spread the dried beef in the bottom of a 9x13 inch baking dish."}, {"@type": "HowToStep", "text": "Place the bacon-wrapped chicken on top of the dried beef."}, {"@type": "HowToStep", "text": "In a small bowl, combine the mushroom soup and sour cream. Pour the mixture evenly over the chicken."}, {"@type": "HowToStep", "text": "Bake uncovered for 2.5 to 3 hours, until the chicken is tender."}, {"@type": "HowToStep", "text": "Serve hot over cooked rice, using the sauce from the dish as a gravy."}]}'
 ---
 
 # Party Chicken Casserole

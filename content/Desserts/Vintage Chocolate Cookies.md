@@ -1,13 +1,17 @@
 ---
-title: "Vintage Chocolate Cookies"
-category: "Desserts"
-collection: "John B Collection"
-source: "Unknown"
-tags: ["cookies", "123", "chocolate", "dessert", "nuts"]
-description: "A classic, rich chocolate drop cookie featuring brown sugar, chopped nuts, and a subtle hint of nutmeg. These soft, vintage-style cookies are perfect for any occasion."
-date: "2026-07-30"
+title: Vintage Chocolate Cookies
+category: Desserts
+collection: John B Collection
+source: Unknown
+tags:
+  - cookies
+  - chocolate
+  - dessert
+  - nuts
+description: A classic, rich chocolate drop cookie featuring brown sugar, chopped nuts, and a subtle hint of nutmeg. These soft, vintage-style cookies are perfect for any occasion.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Vintage Chocolate Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"prepTime\": \"PT20M\", \"cookTime\": \"PT10M\", \"recipeYield\": \"2-3 dozen\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 C Brown Sugar\", \"1 Egg\", \"1/4 tsp Nutmeg\", \"1/4 tsp Baking Soda\", \"2 sqs Chocolate\", \"1/2 C Butter\", \"3/4 C Nuts\", \"1/4 tsp Salt\", \"1/4 tsp Baking Powder\", \"1 1/2 C Flour\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Vintage Chocolate Cookies", "author": {"@type": "Person", "name": "Unknown"}, "prepTime": "PT20M", "cookTime": "PT10M", "recipeYield": "2-3 dozen", "recipeCategory": "Dessert", "recipeIngredient": ["1 C Brown Sugar", "1 Egg", "1/4 tsp Nutmeg", "1/4 tsp Baking Soda", "2 sqs Chocolate", "1/2 C Butter", "3/4 C Nuts", "1/4 tsp Salt", "1/4 tsp Baking Powder", "1 1/2 C Flour"]}'
 ---
 
 # Vintage Chocolate Cookies

@@ -1,13 +1,18 @@
 ---
-title: "Easy Watergate Salad (Pistachio Fluff)"
-category: "Desserts"
-collection: "UK15"
-source: "Mae White"
-tags: ["dessert", "123", "potluck", "pistachio", "nobake", "salad"]
-description: "A classic, creamy no-bake dessert featuring pistachio pudding, pineapple, and marshmallows. This nostalgic potluck favorite is also known as Pistachio Fluff or Green Stuff."
-date: "2026-07-30"
+title: Easy Watergate Salad (Pistachio Fluff)
+category: Desserts
+collection: UK15
+source: Mae White
+tags:
+  - dessert
+  - potluck
+  - pistachio
+  - nobake
+  - salad
+description: A classic, creamy no-bake dessert featuring pistachio pudding, pineapple, and marshmallows. This nostalgic potluck favorite is also known as Pistachio Fluff or Green Stuff.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Easy Watergate Salad (Pistachio Fluff)\", \"author\": {\"@type\": \"Person\", \"name\": \"Mae White\"}, \"description\": \"A classic, creamy no-bake dessert featuring pistachio pudding, pineapple, and marshmallows.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT0M\", \"recipeYield\": \"8-10 servings\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 large package (5.1 oz) Pistachio Instant Pudding Mix\", \"1 can (15 oz) crushed pineapple, undrained\", \"1 small container (8 oz) Cool Whip, thawed\", \"1/4 cup chopped pecans\", \"1 cup tiny marshmallows\", \"1/2 cup shredded coconut\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Easy Watergate Salad (Pistachio Fluff)", "author": {"@type": "Person", "name": "Mae White"}, "description": "A classic, creamy no-bake dessert featuring pistachio pudding, pineapple, and marshmallows.", "prepTime": "PT10M", "cookTime": "PT0M", "recipeYield": "8-10 servings", "recipeCategory": "Dessert", "recipeIngredient": ["1 large package (5.1 oz) Pistachio Instant Pudding Mix", "1 can (15 oz) crushed pineapple, undrained", "1 small container (8 oz) Cool Whip, thawed", "1/4 cup chopped pecans", "1 cup tiny marshmallows", "1/2 cup shredded coconut"]}'
 ---
 
 # Easy Watergate Salad (Pistachio Fluff)

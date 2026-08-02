@@ -1,13 +1,19 @@
 ---
-title: "Fluffy Blueberry Banana Jello Salad"
-category: "Desserts"
-collection: "UK15"
-source: "Unknown"
-tags: ["jello", "salad", "123", "blueberry", "banana", "dessert", "retro"]
-description: "A classic, large-batch Jello salad featuring a light and fluffy lemon Jello base folded with whipped cream, blueberries, and mashed bananas. This retro dessert is perfect for feeding a crowd."
-date: "2026-07-30"
+title: Fluffy Blueberry Banana Jello Salad
+category: Desserts
+collection: UK15
+source: Unknown
+tags:
+  - jello
+  - salad
+  - blueberry
+  - banana
+  - dessert
+  - retro
+description: A classic, large-batch Jello salad featuring a light and fluffy lemon Jello base folded with whipped cream, blueberries, and mashed bananas. This retro dessert is perfect for feeding a crowd.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Fluffy Blueberry Banana Jello Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, large-batch Jello salad featuring a light and fluffy lemon Jello base folded with whipped cream, blueberries, and mashed bananas.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"1 9x13 inch pan\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"4 packages (3 oz each) Lemon Jello\", \"2 cans (approx. 15 oz each) blueberries\", \"1 can (No. 2 size, approx. 20 oz) pineapple juice\", \"1 Cup mashed ripe bananas\", \"2 cartons (1 pint total) heavy whipping cream\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Fluffy Blueberry Banana Jello Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, large-batch Jello salad featuring a light and fluffy lemon Jello base folded with whipped cream, blueberries, and mashed bananas.", "prepTime": "PT20M", "cookTime": "PT5M", "recipeYield": "1 9x13 inch pan", "recipeCategory": "Dessert", "recipeIngredient": ["4 packages (3 oz each) Lemon Jello", "2 cans (approx. 15 oz each) blueberries", "1 can (No. 2 size, approx. 20 oz) pineapple juice", "1 Cup mashed ripe bananas", "2 cartons (1 pint total) heavy whipping cream"]}'
 ---
 
 # Fluffy Blueberry Banana Jello Salad

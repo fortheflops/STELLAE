@@ -1,11 +1,15 @@
 ---
-title: "Svarale's Thumbprint Cookies"
-category: "Desserts"
-collection: "UK3"
-source: "Svarale"
-tags: ["cookies", "thumbprint", "123", "dessert", "holiday"]
-description: "A classic recipe featuring a rich, buttery brown sugar dough rolled in crunchy nuts. These thumbprint cookies are finished with a generous dollop of creamy, vanilla-scented cream cheese icing."
-date: "2026-07-30"
+title: Svarale's Thumbprint Cookies
+category: Desserts
+collection: UK3
+source: Svarale
+tags:
+  - cookies
+  - thumbprint
+  - dessert
+  - holiday
+description: A classic recipe featuring a rich, buttery brown sugar dough rolled in crunchy nuts. These thumbprint cookies are finished with a generous dollop of creamy, vanilla-scented cream cheese icing.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Svarale's Thumbprint Cookies\", \"author\": {\"@type\": \"Person\", \"name\": \"Svarale\"}, \"description\": \"A rich, buttery brown sugar cookie rolled in nuts, with a thumbprint indentation perfect for filling with the included cream cheese icing recipe.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT12M\", \"recipeYield\": \"24 cookies\", \"recipeCategory\": \"Dessert\"}"
 ---

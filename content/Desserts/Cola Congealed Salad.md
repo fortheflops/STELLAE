@@ -1,13 +1,18 @@
 ---
-title: "Cola Congealed Salad"
-category: "Desserts"
-collection: "General Archive"
-source: "Unknown"
-tags: ["123", "jello", "salad", "potluck", "retro", "congealed"]
-description: "A classic, vintage-style congealed salad featuring cherries, pineapple, and pecans in a creamy, fizzy base of cherry and strawberry gelatin and cola. This retro dessert is a perfect, crowd-pleasing addition to any potluck table."
-date: "2026-07-30"
+title: Cola Congealed Salad
+category: Desserts
+collection: General Archive
+source: Unknown
+tags:
+  - jello
+  - salad
+  - potluck
+  - retro
+  - congealed
+description: A classic, vintage-style congealed salad featuring cherries, pineapple, and pecans in a creamy, fizzy base of cherry and strawberry gelatin and cola. This retro dessert is a perfect, crowd-pleasing addition to any potluck table.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Cola Congealed Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A classic, vintage-style congealed salad featuring cherries, pineapple, and pecans in a creamy, fizzy base of cherry and strawberry gelatin and cola.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT5M\", \"recipeYield\": \"1 9x13 inch pan\", \"recipeCategory\": \"Dessert\", \"recipeIngredient\": [\"1 large can Bing Cherries\", \"1 large can Crushed Pineapple\", \"1 package Cherry gelatin\", \"1 package Strawberry gelatin\", \"1 package Cream Cheese\", \"1 Cup Pecans\", \"14-16 oz Cola Drink\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Cola Congealed Salad", "author": {"@type": "Person", "name": "Unknown"}, "description": "A classic, vintage-style congealed salad featuring cherries, pineapple, and pecans in a creamy, fizzy base of cherry and strawberry gelatin and cola.", "prepTime": "PT20M", "cookTime": "PT5M", "recipeYield": "1 9x13 inch pan", "recipeCategory": "Dessert", "recipeIngredient": ["1 large can Bing Cherries", "1 large can Crushed Pineapple", "1 package Cherry gelatin", "1 package Strawberry gelatin", "1 package Cream Cheese", "1 Cup Pecans", "14-16 oz Cola Drink"]}'
 ---
 
 # Cola Congealed Salad

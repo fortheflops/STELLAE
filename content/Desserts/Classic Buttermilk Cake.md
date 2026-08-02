@@ -1,13 +1,17 @@
 ---
-title: "Classic Buttermilk Cake"
-category: "Desserts"
-collection: "UK2"
-source: "Unknown"
-tags: ["dessert", "cake", "buttermilk", "123", "baking"]
-description: "A classic, tender buttermilk layer cake made with separated eggs and a touch of vinegar for an extra fine crumb. This delightful vintage recipe yields a light and fluffy texture perfect for any celebration."
-date: "2026-07-30"
+title: Classic Buttermilk Cake
+category: Desserts
+collection: UK2
+source: Unknown
+tags:
+  - dessert
+  - cake
+  - buttermilk
+  - baking
+description: A classic, tender buttermilk layer cake made with separated eggs and a touch of vinegar for an extra fine crumb. This delightful vintage recipe yields a light and fluffy texture perfect for any celebration.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Buttermilk Cake\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-09-22\", \"description\": \"A classic, tender buttermilk layer cake made with separated eggs and a touch of vinegar for an extra tender crumb.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Cake/Buttermilk-Cake/Assets/Handwritten_2025-02-17_091431.webp\", \"https://cucinamezzaluna.com/Desserts/Cake/Buttermilk-Cake/Assets/Handwritten_2025-02-17_091641%20(2).webp\"], \"prepTime\": \"PT20M\", \"cookTime\": \"PT25M\", \"totalTime\": \"PT45M\", \"recipeYield\": \"2 8-inch layers or 1 loaf\", \"recipeCategory\": \"Desserts\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"2 cups sifted cake flour\", \"1 teaspoon baking soda\", \"1/2 teaspoon salt\", \"2/3 cup shortening\", \"1 cup sugar\", \"3 large eggs, separated\", \"1/2 cup buttermilk\", \"3 tablespoons white vinegar\", \"1 teaspoon vanilla extract\", \"1/2 teaspoon lemon extract\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Buttermilk Cake", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-09-22", "description": "A classic, tender buttermilk layer cake made with separated eggs and a touch of vinegar for an extra tender crumb.", "image": ["https://cucinamezzaluna.com/Desserts/Cake/Buttermilk-Cake/Assets/Handwritten_2025-02-17_091431.webp", "https://cucinamezzaluna.com/Desserts/Cake/Buttermilk-Cake/Assets/Handwritten_2025-02-17_091641%20(2).webp"], "prepTime": "PT20M", "cookTime": "PT25M", "totalTime": "PT45M", "recipeYield": "2 8-inch layers or 1 loaf", "recipeCategory": "Desserts", "recipeCuisine": "American", "recipeIngredient": ["2 cups sifted cake flour", "1 teaspoon baking soda", "1/2 teaspoon salt", "2/3 cup shortening", "1 cup sugar", "3 large eggs, separated", "1/2 cup buttermilk", "3 tablespoons white vinegar", "1 teaspoon vanilla extract", "1/2 teaspoon lemon extract"]}'
 ---
 
 # Classic Buttermilk Cake

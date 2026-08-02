@@ -1,11 +1,16 @@
 ---
-title: "Martha Daul's Easy Hot Water Pie Crust"
-category: "Desserts"
-collection: "UK3"
-source: "Martha Daul"
-tags: ["pie", "crust", "dessert", "baking", "123", "pastry"]
-description: "Discover Martha Daul's unique hot water pie crust recipe that whips boiling water into shortening for an incredibly tender, easy-to-roll dough."
-date: "2026-07-30"
+title: Martha Daul's Easy Hot Water Pie Crust
+category: Desserts
+collection: UK3
+source: Martha Daul
+tags:
+  - pie
+  - crust
+  - dessert
+  - baking
+  - pastry
+description: Discover Martha Daul's unique hot water pie crust recipe that whips boiling water into shortening for an incredibly tender, easy-to-roll dough.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Martha Daul's Easy Hot Water Pie Crust\", \"author\": {\"@type\": \"Person\", \"name\": \"Martha Daul\"}, \"datePublished\": \"2025-10-13\", \"description\": \"A unique and incredibly easy pie crust recipe from Martha Daul that uses boiling water whipped into shortening to create a tender, easy-to-roll dough.\", \"image\": [\"https://cucinamezzaluna.com/Desserts/Pastries/Pie/Crust/Assets/Handwritten_2025-03-17_121201.webp\"], \"prepTime\": \"PT15M\", \"cookTime\": \"PT0M\", \"totalTime\": \"PT15M\", \"recipeYield\": \"One double-crust 9-inch pie\", \"recipeCategory\": \"Pie Crust\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"3/4 Cup Crisco (Shortening)\", \"1/4 Cup Boiling Water\", \"1 Tablespoon Milk\", \"2 Cups All-Purpose Flour\", \"1 teaspoon Salt (implied)\"]}"
 ---

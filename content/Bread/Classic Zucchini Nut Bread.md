@@ -1,13 +1,82 @@
 ---
-title: "Classic Zucchini Nut Bread"
-category: "Bread"
-collection: "UK2"
-source: "Unknown"
-tags: ["bread", "zucchini", "baking", "breakfast", "snack", "123"]
-description: "A classic, moist zucchini bread loaded with warm cinnamon, crunchy nuts, and sweet raisins. This recipe makes two delicious loaves, perfect for sharing or freezing."
-date: "2026-07-30"
+title: Classic Zucchini Nut Bread
+category: Bread
+collection: UK2
+source: Unknown
+tags:
+  - bread
+  - zucchini
+  - baking
+  - breakfast
+  - snack
+description: A classic, moist zucchini bread loaded with warm cinnamon, crunchy nuts, and sweet raisins. This recipe makes two delicious loaves, perfect for sharing or freezing.
+date: 2026-07-30
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Classic Zucchini Nut Bread\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unknown\"\n  },\n  \"datePublished\": \"2025-09-22\",\n  \"description\": \"A classic recipe for two loaves of moist and tender zucchini bread, spiced with cinnamon and filled with nuts and raisins.\",\n  \"image\": [\n    \"https://cucinamezzaluna.com/Bread/Zucchini-Bread/Assets/Handwritten_2025-02-10_105519.webp\"\n  ],\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT1H\",\n  \"totalTime\": \"PT1H20M\",\n  \"recipeYield\": \"2 loaves\",\n  \"recipeCategory\": \"Bread\",\n  \"recipeCuisine\": \"American\",\n  \"recipeIngredient\": [\n    \"3 cups all-purpose flour, sifted\",\n    \"1 1/2 cups sugar\",\n    \"1 teaspoon baking soda\",\n    \"1/4 teaspoon baking powder\",\n    \"3 teaspoons cinnamon\",\n    \"1 teaspoon salt\",\n    \"3 large eggs\",\n    \"1 cup vegetable oil\",\n    \"2 cups grated and well-drained zucchini\",\n    \"2 teaspoons vanilla extract\",\n    \"1 cup raisins\",\n    \"1 cup chopped nuts\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Preheat oven to 375\u00b0F. Grease and flour two 8x5 inch loaf pans.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a large bowl, beat the eggs. Stir in the oil, sugar, drained zucchini, and vanilla.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"In a separate bowl, sift together the flour, baking powder, baking soda, cinnamon, and salt.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add the dry ingredients to the zucchini mixture and stir until just blended. Fold in the raisins and nuts.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Pour the batter evenly into the two prepared loaf pans.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Bake for 1 hour, or until a toothpick inserted into the center comes out clean.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cool in the pans for 10 minutes before removing to a wire rack to cool completely.\"\n    }\n  ]\n}"
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Classic Zucchini Nut Bread",
+    "author": {
+      "@type": "Person",
+      "name": "Unknown"
+    },
+    "datePublished": "2025-09-22",
+    "description": "A classic recipe for two loaves of moist and tender zucchini bread, spiced with cinnamon and filled with nuts and raisins.",
+    "image": [
+      "https://cucinamezzaluna.com/Bread/Zucchini-Bread/Assets/Handwritten_2025-02-10_105519.webp"
+    ],
+    "prepTime": "PT20M",
+    "cookTime": "PT1H",
+    "totalTime": "PT1H20M",
+    "recipeYield": "2 loaves",
+    "recipeCategory": "Bread",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+      "3 cups all-purpose flour, sifted",
+      "1 1/2 cups sugar",
+      "1 teaspoon baking soda",
+      "1/4 teaspoon baking powder",
+      "3 teaspoons cinnamon",
+      "1 teaspoon salt",
+      "3 large eggs",
+      "1 cup vegetable oil",
+      "2 cups grated and well-drained zucchini",
+      "2 teaspoons vanilla extract",
+      "1 cup raisins",
+      "1 cup chopped nuts"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 375°F. Grease and flour two 8x5 inch loaf pans."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, beat the eggs. Stir in the oil, sugar, drained zucchini, and vanilla."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, sift together the flour, baking powder, baking soda, cinnamon, and salt."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the dry ingredients to the zucchini mixture and stir until just blended. Fold in the raisins and nuts."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the batter evenly into the two prepared loaf pans."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 1 hour, or until a toothpick inserted into the center comes out clean."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cool in the pans for 10 minutes before removing to a wire rack to cool completely."
+      }
+    ]
+  }
 ---
 
 # Classic Zucchini Nut Bread

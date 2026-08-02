@@ -1,11 +1,15 @@
 ---
-title: "Easy Broiled Meringue Topping"
-category: "Desserts"
-collection: "Jill Collection"
-source: "Unknown"
-tags: ["meringue", "topping", "dessert", "pie", "123"]
-description: "A quick and simple recipe for a classic meringue pie topping that's toasted to golden-brown perfection in minutes under the broiler. This airy, glossy topping is the perfect finish for any fruit or cream pie."
-date: "2026-07-30"
+title: Easy Broiled Meringue Topping
+category: Desserts
+collection: Jill Collection
+source: Unknown
+tags:
+  - meringue
+  - topping
+  - dessert
+  - pie
+description: A quick and simple recipe for a classic meringue pie topping that's toasted to golden-brown perfection in minutes under the broiler. This airy, glossy topping is the perfect finish for any fruit or cream pie.
+date: 2026-07-30
 draft: false
 recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Easy Broiled Meringue Topping\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"description\": \"A quick and simple recipe for a classic meringue pie topping that's toasted to golden-brown perfection in minutes under the broiler.\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT2M\", \"recipeYield\": \"Topping for one 9-inch pie\", \"recipeCategory\": \"Desserts\", \"recipeIngredient\": [\"4 Egg Whites\", \"1/2 teaspoon Cream of Tartar\", \"4 tablespoons Sugar\"]}"
 ---

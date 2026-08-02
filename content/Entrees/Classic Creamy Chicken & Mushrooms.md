@@ -1,13 +1,17 @@
 ---
-title: "Classic Creamy Chicken & Mushrooms"
-category: "Entrees"
-collection: "General Archive"
-source: "Unknown"
-tags: ["comfortfood", "chicken", "skillet", "quick", "123"]
-description: "A quick and classic comfort food featuring diced cooked chicken and saut\u00e9ed mushrooms in a rich homemade cream sauce. Served piping hot over crunchy chow mein noodles."
-date: "2026-07-30"
+title: Classic Creamy Chicken & Mushrooms
+category: Entrees
+collection: General Archive
+source: Unknown
+tags:
+  - comfortfood
+  - chicken
+  - skillet
+  - quick
+description: A quick and classic comfort food featuring diced cooked chicken and sautéed mushrooms in a rich homemade cream sauce. Served piping hot over crunchy chow mein noodles.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Classic Creamy Chicken & Mushrooms\", \"author\": {\"@type\": \"Person\", \"name\": \"Unknown\"}, \"datePublished\": \"2025-11-13\", \"description\": \"Diced cooked chicken and sauted mushrooms in a simple homemade cream sauce, served over chow mein noodles.\", \"image\": [\"https://cucinamezzaluna.com/Entrees/Meat/Chicken/Skillet/Assets/Handwritten_2025-03-24_181701.webp\"], \"prepTime\": \"PT10M\", \"cookTime\": \"PT15M\", \"totalTime\": \"PT25M\", \"recipeYield\": \"4 servings\", \"recipeCategory\": \"Entree\", \"recipeCuisine\": \"American\", \"recipeIngredient\": [\"1/2 Cup Butter or Margarine\", \"1/2 Cup Sliced Mushrooms\", \"1/2 Cup Flour\", \"1/2 Teaspoon Salt\", \"Dash Pepper\", \"1 1/4 Cups Chicken Broth\", \"3/4 Cup Half & Half\", \"2 Cups Chicken - cut up (cooked)\", \"Chow Mein Noodles (for serving)\"]}"
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Classic Creamy Chicken & Mushrooms", "author": {"@type": "Person", "name": "Unknown"}, "datePublished": "2025-11-13", "description": "Diced cooked chicken and sauted mushrooms in a simple homemade cream sauce, served over chow mein noodles.", "image": ["https://cucinamezzaluna.com/Entrees/Meat/Chicken/Skillet/Assets/Handwritten_2025-03-24_181701.webp"], "prepTime": "PT10M", "cookTime": "PT15M", "totalTime": "PT25M", "recipeYield": "4 servings", "recipeCategory": "Entree", "recipeCuisine": "American", "recipeIngredient": ["1/2 Cup Butter or Margarine", "1/2 Cup Sliced Mushrooms", "1/2 Cup Flour", "1/2 Teaspoon Salt", "Dash Pepper", "1 1/4 Cups Chicken Broth", "3/4 Cup Half & Half", "2 Cups Chicken - cut up (cooked)", "Chow Mein Noodles (for serving)"]}'
 ---
 
 # Classic Creamy Chicken & Mushrooms
