@@ -1,0 +1,41 @@
+name: Daily Recipe Extraction
+
+on:
+  schedule:
+    # This runs the script every day at 10:00 AM UTC (4:00 AM MDT)
+    - cron: '0 10 * * *'
+  # This line allows you to also trigger it manually by clicking a button
+  workflow_dispatch: 
+
+jobs:
+  process-recipes:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Gives the bot permission to save the new markdown files
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-genai Pillow PyMuPDF
+
+      - name: Run Recipe Extractor
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python your_script_name.py
+
+      - name: Commit and Push New Recipes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "🤖 Automated batch: Processed 10 new recipes" || echo "No new recipes to process"
+          git push
