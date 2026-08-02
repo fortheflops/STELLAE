@@ -79,4 +79,4 @@ recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Beer Ra
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](Handwritten_2025-05-27_154543.webp)
+![Original Handwritten Card](/assets/scans/bean-dip-Handwritten_2025-05-27_154543.webp)

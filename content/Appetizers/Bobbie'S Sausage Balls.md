@@ -63,4 +63,4 @@ recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\"
 
 ---
 ## Original Recipe Scan
-![Original Handwritten Card](Sausage Balls JC-1754788655420.webp)
+![Original Handwritten Card](/assets/scans/Sausage Balls JC-1754788655420.webp)
