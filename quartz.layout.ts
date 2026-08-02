@@ -52,7 +52,21 @@ export const defaultContentPageLayout: PageLayout = {
     Component.RecentNotes({
       title: "Recently Added Recipes",
       limit: 5,
-      filter: (f) => f.slug !== "index" && !f.slug?.startsWith("tags/"),
+      filter: (f) => {
+        // 1. Exclude the tag directory
+        if (f.slug?.startsWith("tags/")) return false
+        
+        // 2. Exclude folder index files (e.g., "Snacks/index" or "Soups/index")
+        if (f.slug?.endsWith("index")) return false
+        
+        // 3. Exclude root-level files like "Updates" (requires files to be inside a folder)
+        if (!f.slug?.includes("/")) return false
+        
+        // 4. Exclude accidental blank or untitled drafts
+        if (f.frontmatter?.title === "Untitled") return false
+        
+        return true
+      }
     }),
   ],
 }
@@ -77,7 +91,21 @@ export const defaultListPageLayout: PageLayout = {
     Component.RecentNotes({
       title: "Recently Added Recipes",
       limit: 5,
-      filter: (f) => f.slug !== "index" && !f.slug?.startsWith("tags/"),
+      filter: (f) => {
+        // 1. Exclude the tag directory
+        if (f.slug?.startsWith("tags/")) return false
+        
+        // 2. Exclude folder index files (e.g., "Snacks/index" or "Soups/index")
+        if (f.slug?.endsWith("index")) return false
+        
+        // 3. Exclude root-level files like "Updates" (requires files to be inside a folder)
+        if (!f.slug?.includes("/")) return false
+        
+        // 4. Exclude accidental blank or untitled drafts
+        if (f.frontmatter?.title === "Untitled") return false
+        
+        return true
+      }
     }),
   ],
 }
