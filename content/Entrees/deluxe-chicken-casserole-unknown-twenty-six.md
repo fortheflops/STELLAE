@@ -2,18 +2,18 @@
 title: "Deluxe Chicken Casserole"
 category: "Entrees"
 collection: "Unknown Twenty Six"
-source: "Bee"
-tags: ["casserole", "chicken", "comfortfood", "dinner", "bake", "unknowntwentysix"]
-description: "A classic, comforting deluxe chicken casserole featuring tender chicken, noodles, asparagus, and a creamy cheese sauce, topped with crushed potato chips and sliced almonds. This hearty baked dish is perfect for family gatherings and feeds a crowd with ease."
-date: "2026-07-30"
+source: "Bev"
+tags: ["casserole", "chicken", "comfortfood", "entree", "baked", "unknowntwentysix"]
+description: "A delightful and comforting baked deluxe chicken casserole layered with noodles, asparagus, and a creamy mushroom cheese sauce. Topped with crunchy potato chips and slivered almonds for a wonderful texture contrast."
+date: "2026-08-02"
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Deluxe Chicken Casserole\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Bee\"\n  },\n  \"description\": \"A classic, comforting deluxe chicken casserole featuring tender chicken, noodles, asparagus, and a creamy cheese sauce, topped with crushed potato chips and sliced almonds.\",\n  \"prepTime\": \"PT20M\",\n  \"cookTime\": \"PT45M\",\n  \"recipeYield\": \"10 servings\",\n  \"recipeCategory\": \"Entrees\",\n  \"recipeIngredient\": [\n    \"2 cups cooked chicken, cut up\",\n    \"1 can cream of mushroom soup\",\n    \"1 can cream of chicken soup\",\n    \"1 can (2.5 oz) mushrooms, drained\",\n    \"1/2 cup mayonnaise\",\n    \"1 cup asparagus tips\",\n    \"1 cup English cheddar cheese\",\n    \"1 pkg (8 oz) fine noodles, cooked\",\n    \"1/3 cup finely chopped green pepper\",\n    \"Potato chips, crushed\",\n    \"Slivered almonds\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add mayonnaise to cream of mushroom soup and cream of chicken soup. Stir in English cheddar cheese, mix well, and heat slowly.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Alternate layers of noodles, chicken, soup mixtures, mushrooms, asparagus tips, and green pepper in a large casserole dish.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Top with crushed potato chips and slivered almonds. Bake at 350 degrees for approximately 45 minutes.\"\n    }\n  ]\n}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Deluxe Chicken Casserole\", \"author\": {\"@type\": \"Person\", \"name\": \"Bev\"}, \"description\": \"A delightful and comforting baked deluxe chicken casserole layered with noodles, asparagus, and a creamy mushroom cheese sauce.\", \"prepTime\": \"PT20M\", \"cookTime\": \"PT45M\", \"recipeYield\": \"10 servings\", \"recipeCategory\": \"Entrees\", \"recipeIngredient\": [\"2 cups cooked chicken\", \"1 can cream of mushroom soup\", \"1 can cream of chicken soup\", \"1 can (2.5 oz) mushrooms\", \"0.5 cup mayo\", \"1 cup asparagus tips\", \"1 cup English cheddar cheese\", \"1 package (8 oz) fine noodles\", \"0.33 cup green pepper\", \"Potato chips\", \"Slivered almonds\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Add mayo to soups then cheese, mix well and heat slowly.\"}, {\"@type\": \"HowToStep\", \"text\": \"Alternate layers of noodles, chicken, soup mixture, mushrooms, asparagus, and pepper in a large casserole.\"}, {\"@type\": \"HowToStep\", \"text\": \"Top with crushed potato chips and slivered almonds.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake 350 degrees for 45 minutes.\"}]}"
 ---
 
 # Deluxe Chicken Casserole
 
-> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Bee | 📂 **Category:** Entrees
-> *A classic, comforting deluxe chicken casserole featuring tender chicken, noodles, asparagus, and a creamy cheese sauce, topped with crushed potato chips and sliced almonds. This hearty baked dish is perfect for family gatherings and feeds a crowd with ease.*
+> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Bev | 📂 **Category:** Entrees
+> *A delightful and comforting baked deluxe chicken casserole layered with noodles, asparagus, and a creamy mushroom cheese sauce. Topped with crunchy potato chips and slivered almonds for a wonderful texture contrast.*
 
 ---
 
@@ -24,48 +24,46 @@ recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n
 ---
 
 ### 🔪 Key Equipment
-* Casserole dish
 * Saucepan
+* Large casserole dish
 
 ---
 ## Ingredients
 
+### Casserole Ingredients
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 2 cups | [[Chicken]] | Cooked and cut up |
-| 1 can | [[Cream of Mushroom Soup]] | Condensed |
-| 1 can | [[Cream of Chicken Soup]] | Condensed |
+| 2 cups | [[Cooked chicken]] | Cut up |
+| 1 can | [[Cream of mushroom soup]] |  |
+| 1 can | [[Cream of chicken soup]] |  |
 | 1 can (2.5 oz) | [[Mushrooms]] | Drained |
-| 1/2 cup | [[Mayonnaise]] | None |
-| 1 cup | [[Asparagus]] tips | None |
-| 1 cup | [[English Cheddar Cheese]] | Small jar, grated or soft |
-| 1 pkg (8 oz) | [[Noodles]] | Fine, cooked |
-| 1/3 cup | [[Green Pepper]] | Finely chopped |
-| As needed | [[Potato Chips]] | Crushed, for topping |
-| As needed | [[Slivered Almonds]] | For topping |
+| 0.5 cup | [[Mayo]] |  |
+| 1 cup | [[Asparagus tips]] |  |
+| 1 cup | [[English cheddar cheese]] | Small jar |
+| 1 package (8 oz) | [[Fine noodles]] | Cooked |
+| 0.33 cup | [[Green pepper]] | Finely chopped |
+| As needed | [[Potato chips]] | Crushed |
+| As needed | [[Slivered almonds]] |  |
 
 ---
 
 ## Instructions
 
 ### Step 1: Sauce Preparation
-1. Add **1/2 cup mayonnaise** to **1 can cream of mushroom soup** and **1 can cream of chicken soup**.
-2. Stir in **1 cup English cheddar cheese**, mix well, and heat slowly until warm and blended.
+1. Add **0.5 cup mayo** to **1 can cream of mushroom soup** and **1 can cream of chicken soup**, then add **1 cup English cheddar cheese**. Mix well and heat slowly until combined and warm.
 
-### Step 2: Casserole Assembly
-3. In a large casserole dish, alternate layers of **1 pkg fine noodles**, **2 cups cooked chicken**, the soup and cheese mixture, **1 can mushrooms**, **1 cup asparagus tips**, and **1/3 cup green pepper**.
-
-### Step 3: Topping and Baking
-4. Top the casserole with **crushed potato chips** and **slivered almonds**.
-5. Bake at 350°F for approximately **45 minutes** until bubbly and golden brown on top.
+### Step 2: Layering and Baking
+2. Alternate layers of **1 package fine noodles**, **2 cups cooked chicken**, the warm soup mixture, **1 can mushrooms**, **1 cup asparagus tips**, and **0.33 cup green pepper** in a large casserole dish.
+3. Top the casserole with crushed **potato chips** and slivered **almonds**.
+4. Bake at 350°F for 45 minutes until bubbly and golden brown on top.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Assemble the casserole ahead of time, cover, and refrigerate for up to 24 hours before adding the potato chip and almond topping and baking.
+> 💡 **Make-Ahead & Storage:** Assemble the casserole ahead of time, cover, and refrigerate. Add the potato chip and almond topping just before baking.
 
 ---
 ## Original Recipe Scan
-![Page 1](/assets/scans/deluxe-chicken-casserole-Scanned_20260802-0915-(1)-p1.webp)
+![Page 1](/assets/scans/deluxe-chicken-casserole-Scanned_20260802-0904-p1.webp)
 
-![Page 2](/assets/scans/deluxe-chicken-casserole-Scanned_20260802-0915-(1)-p2.webp)
+![Page 2](/assets/scans/deluxe-chicken-casserole-Scanned_20260802-0904-p2.webp)
 
