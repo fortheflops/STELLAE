@@ -14,6 +14,7 @@ title: Updates
 | #unknownfive       | Unknown Five           |
 | #unknownfifteen    | Unknown Fifteen        |
 | #unknownnineteen   | Unknown Nineteen       |
+| #unknowntwentyfive | Unknown Twenty Five    |
 
 ### In Progress 
 
@@ -22,10 +23,10 @@ title: Updates
 | #louisecollection  | Louise Collection   |
 | #jillcollection    | Jill Collection     |
 | #johnbcollection   | John B. Collection  |
-| #unknowntwentyfive | Unknown Twenty Five |
+
 
 ### To Do
 | Tag               | Name               |
 | :---------------- | :----------------- |
 | #unknowntwentyone | Unknown Twenty One |
-|                   |                    |
+| #unknowntwentysix | Unknown Twenty Six |
