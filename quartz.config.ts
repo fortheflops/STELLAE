@@ -1,6 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 import { byAlphabetical } from "./quartz/components/PageList"
+
 /**
  * Quartz 4 Configuration
  *
@@ -12,7 +13,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-R4XWHTKC1P",
     },
     generateSocialImages: true,
     locale: "en-US",
