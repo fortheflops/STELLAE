@@ -5,21 +5,21 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-afterBody: [
-  Component.Comments({
-    provider: 'giscus',
-    options: {
-      // from data-repo
-      repo: 'fortheflops/STELLAE',
-      // from data-repo-id
-      repoId: 'R_kgDONT3VDQ',
-      // from data-category
-      category: 'Announcements',
-      // from data-category-id
-      categoryId: 'DIC_kwDONT3VDc4Cl77q',
-    }
-  }),
-],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'fortheflops/STELLAE',
+        // from data-repo-id
+        repoId: 'R_kgDONT3VDQ',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDONT3VDc4Cl77q',
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -47,8 +47,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.NavMenu()),
   ],
   right: [
-    Component.DesktopOnly(Component.Graph(),Component.TableOfContents()),
-	Component.Backlinks(), 
+    Component.DesktopOnly(Component.Graph(), Component.TableOfContents()),
+    Component.Backlinks(),
+    Component.RecentNotes({
+      title: "Recently Added Recipes",
+      limit: 5,
+      filter: (f) => f.slug !== "index" && !f.slug?.startsWith("tags/"),
+    }),
   ],
 }
 
@@ -65,11 +70,14 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.NavMenu()),
-	
   ],
   right: [
-    Component.DesktopOnly(Component.Graph(),Component.TableOfContents()),
-	Component.Backlinks(), 
-
+    Component.DesktopOnly(Component.Graph(), Component.TableOfContents()),
+    Component.Backlinks(),
+    Component.RecentNotes({
+      title: "Recently Added Recipes",
+      limit: 5,
+      filter: (f) => f.slug !== "index" && !f.slug?.startsWith("tags/"),
+    }),
   ],
 }
