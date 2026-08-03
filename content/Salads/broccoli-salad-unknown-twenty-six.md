@@ -2,24 +2,24 @@
 title: "Broccoli Salad"
 category: "Salads"
 collection: "Unknown Twenty Six"
-source: "Nancy"
-tags: ["salad", "broccoli", "sidedish", "potluck", "unknowntwentysix"]
-description: "A classic cold salad featuring cooked broccoli, hard-boiled eggs, and stuffed olives bound with creamy mayonnaise. Perfectly chilled and ready for your next gathering."
-date: "2026-07-30"
+source: "Marcile"
+tags: ["salad", "broccoli", "coldsalad", "potluck", "easyrecipe", "unknowntwentysix"]
+description: "A classic, creamy broccoli salad featuring chopped hard-boiled eggs, sliced stuffed olives, and a simple mayonnaise dressing. Perfect as a chilled side dish for gatherings and family dinners."
+date: "2026-08-03"
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Broccoli Salad\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Nancy\"\n  },\n  \"description\": \"A classic cold salad featuring cooked broccoli, hard-boiled eggs, and stuffed olives bound with creamy mayonnaise.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT10M\",\n  \"recipeYield\": \"4-6 servings\",\n  \"recipeCategory\": \"Salads\",\n  \"recipeIngredient\": [\n    \"1 cup sliced stuffed olives\",\n    \"6 hard-boiled eggs, chopped\",\n    \"1/2 cup mayonnaise\",\n    \"1 small onion, chopped\",\n    \"2 packages frozen chopped broccoli\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Cook the 2 packages frozen chopped broccoli as directed, drain, and add the rest of the ingredients.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Chill and serve.\"\n    }\n  ]\n}"
+recipe: "{\"@context\": \"https://schema.org\", \"@type\": \"Recipe\", \"name\": \"Broccoli Salad\", \"author\": {\"@type\": \"Person\", \"name\": \"Marcile\"}, \"recipeCategory\": \"Salads\", \"prepTime\": \"PT15M\", \"cookTime\": \"PT10M\", \"recipeIngredient\": [\"2 packages frozen chopped broccoli\", \"1 1/2 cups sliced stuffed olives (1 can)\", \"6 hard-boiled eggs, chopped\", \"1/2 cup mayonnaise\", \"1 small onion, chopped\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Cook the broccoli according to package directions until tender-crisp, then drain thoroughly.\"}, {\"@type\": \"HowToStep\", \"text\": \"Combine the drained broccoli with the sliced stuffed olives, chopped hard-boiled eggs, mayonnaise, and chopped onion. Mix well, then chill and serve.\"}]}"
 ---
 
 # Broccoli Salad
 
-> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Nancy | 📂 **Category:** Salads
-> *A classic cold salad featuring cooked broccoli, hard-boiled eggs, and stuffed olives bound with creamy mayonnaise. Perfectly chilled and ready for your next gathering.*
+> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Marcile | 📂 **Category:** Salads
+> *A classic, creamy broccoli salad featuring chopped hard-boiled eggs, sliced stuffed olives, and a simple mayonnaise dressing. Perfect as a chilled side dish for gatherings and family dinners.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 15 mins | 10 mins | 30 mins | 4-6 servings |
+| 15 mins | 10 mins | 2 hours | 6 servings |
 
 ---
 
@@ -31,33 +31,30 @@ recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n
 ---
 ## Ingredients
 
-### Salad Ingredients
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 1 cup | [[Stuffed olives]] | Sliced (modified from 1 1/2 cups) |
-| 6 | [[Hard-boiled eggs]] | Chopped |
-| 1/2 cup | [[Mayonnaise]] | Standard |
-| 1 | [[Onion]] | Small, chopped |
-| 2 packages | [[Frozen chopped broccoli]] | Frozen |
+| 2 packages | [[Frozen Chopped Broccoli]] |  |
+| 1 1/2 cups (1 can) | [[Stuffed Olives]] | sliced |
+| 6 | [[Hard-Boiled Eggs]] | chopped |
+| 1/2 cup | [[Mayonnaise]] |  |
+| 1 small | [[Onion]] | chopped |
 
 ---
 
 ## Instructions
 
-### Step 1: Prep and Mix
-1. Cook the **2 packages frozen chopped broccoli** as directed on the package, then drain thoroughly.
-2. Combine the drained **broccoli** with **1 cup sliced stuffed olives**, **6 chopped hard-boiled eggs**, **1/2 cup mayonnaise**, and **1 small chopped onion** in a large mixing bowl, gently tossing until evenly combined.
+### Step 1: Cook and Drain
+1. Cook the **2 packages frozen chopped broccoli** according to the package directions until tender-crisp. Drain the **broccoli** thoroughly in a colander to prevent the salad from becoming watery.
 
-### Step 2: Chill and Serve
-3. Chill the salad thoroughly in the refrigerator until completely cold and flavorful before serving.
+### Step 2: Combine and Chill
+2. In a large mixing bowl, combine the drained **broccoli** with the **1 1/2 cups sliced stuffed olives**, **6 chopped hard-boiled eggs**, **1/2 cup mayonnaise**, and **1 small chopped onion**.
+3. Stir gently until all ingredients are evenly coated. Cover and chill in the refrigerator for at least 2 hours before serving to allow the flavors to meld.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Store covered in the refrigerator for up to 24 hours before serving for the best flavor.
+> 💡 **Make-Ahead & Storage:** This salad can be made up to 24 hours in advance. Keep covered and refrigerated until ready to serve.
 
 ---
 ## Original Recipe Scan
-![Page 1](/assets/scans/broccoli-salad-Scanned_20260802-0922-p1.webp)
-
-![Page 2](/assets/scans/broccoli-salad-Scanned_20260802-0922-p2.webp)
+![Original Handwritten Card](/assets/scans/broccoli-salad-Scanned_20260802-1030-22.jpg.webp)
 

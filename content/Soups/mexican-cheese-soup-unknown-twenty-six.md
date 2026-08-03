@@ -2,18 +2,18 @@
 title: "Mexican Cheese Soup"
 category: "Soups"
 collection: "Unknown Twenty Six"
-source: "Jean Hogarth"
-tags: ["mexican", "soup", "cheese", "comfortfood", "potatoes", "unknowntwentysix"]
-description: "Warm up with this comforting Mexican Cheese Soup loaded with tender potatoes, green chilis, tomatoes, and melted jack cheese. A hearty, creamy soup finished with fresh parsley or coriander."
-date: "2026-07-30"
+source: "Aidan Hogarth"
+tags: ["soup", "mexican", "cheese", "potato", "comfortfood", "unknowntwentysix"]
+description: "Warm up with this comforting Mexican cheese soup loaded with tender potatoes, green chilis, and melted cheese. A hearty, flavorful bowl that is quick to prepare and sure to please."
+date: "2026-08-03"
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Mexican Cheese Soup\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Jean Hogarth\"\n  },\n  \"description\": \"Warm up with this comforting Mexican Cheese Soup loaded with tender potatoes, green chilis, tomatoes, and melted jack cheese.\",\n  \"prepTime\": \"PT15M\",\n  \"cookTime\": \"PT25M\",\n  \"recipeYield\": \"6 servings\",\n  \"recipeCategory\": \"Soups\",\n  \"recipeIngredient\": [\n    \"5 med. Potatoes\",\n    \"3 T. Butter\",\n    \"1 med. Onion\",\n    \"1 - 4 oz can Green Chilis\",\n    \"1 lg. Tomatoes\",\n    \"2 1/2 cups Milk or Half & Half\",\n    \"1 lb. Jack Cheese\",\n    \"Salt & Pepper\",\n    \"Parsley or Coriander\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Place 5 med. potatoes in saucepan. Barely cover with water, bring to boil, cover & reduce heat. Cook until tender, do not drain.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add 3 T. butter & mix, add 1 med. onion, 1 - 4 oz can green chilis & 1 lg. tomatoes.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Add 2 1/2 cups milk or half & half, then 1 lb. jack cheese & stir over low heat until cheese is melted. Do not boil.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Season with salt & pepper to taste. Add more milk if desired. Serve hot, garnish with chopped parsley or coriander.\"\n    }\n  ]\n}"
+recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Mexican Cheese Soup\",\"author\":{\"@type\":\"Person\",\"name\":\"Aidan Hogarth\"},\"description\":\"Warm up with this comforting Mexican cheese soup loaded with tender potatoes, green chilis, and melted cheese.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT25M\",\"recipeYield\":\"6 servings\",\"recipeCategory\":\"Soups\",\"recipeIngredient\":[\"5 med. potatoes\",\"3 T. butter\",\"1 med. onion\",\"1 - 4 oz can Green Chili\",\"1 lg. tomato\",\"2 1/2 c. milk\",\"1 lb. jack cheese\",\"Salt and pepper\",\"Chopped parsley or coriander\"],\"recipeInstructions\":[{\"@type\":\"HowToStep\",\"text\":\"Place 5 med. potatoes in a saucepan and barely cover with water. Bring to a boil, cover, and reduce heat. Cook until tender, and do not drain.\"},{\"@type\":\"HowToStep\",\"text\":\"Add 3 T. butter, 1 med. onion, 1 - 4 oz green chili, and 1 lg. tomato to the saucepan. Add 2 1/2 c. milk and 1 lb. jack cheese, then stir over low heat until cheese is melted. Do not boil! Season to taste and serve hot.\"}]}"
 ---
 
 # Mexican Cheese Soup
 
-> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Jean Hogarth | 📂 **Category:** Soups
-> *Warm up with this comforting Mexican Cheese Soup loaded with tender potatoes, green chilis, tomatoes, and melted jack cheese. A hearty, creamy soup finished with fresh parsley or coriander.*
+> 📜 **Collection:** Unknown Twenty Six | ✍️ **Attribution:** Aidan Hogarth | 📂 **Category:** Soups
+> *Warm up with this comforting Mexican cheese soup loaded with tender potatoes, green chilis, and melted cheese. A hearty, flavorful bowl that is quick to prepare and sure to please.*
 
 ---
 
@@ -31,38 +31,38 @@ recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n
 ---
 ## Ingredients
 
-### Soup Ingredients
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 5 med. | [[Potatoes]] | peeled & diced (cubed) |
-| 3 T. | [[Butter]] |  |
-| 1 med. | [[Onion]] | peeled & diced |
-| 1 - 4 oz can | [[Green Chilis]] | chopped |
-| 1 lg. | [[Tomatoes]] | peeled, seeded & chopped |
-| 2 1/2 cups | [[Milk]] or [[Half & Half]] |  |
-| 1 lb. | [[Jack Cheese]] | cubed |
-| to taste | [[Salt & Pepper]] |  |
-| as needed | [[Parsley]] or [[Coriander]] | chopped, for garnish |
+| 5 med. | [[Potatoes]] | Peel, dice or cubed |
+| 3 T. | [[Butter]] | None |
+| 1 med. | [[Onion]] | Diced |
+| 1 - 4 oz | [[Green Chili]] | Can |
+| 1 lg. | [[Tomato]] | Peel, seeded, chop |
+| 2 1/2 c. | [[Milk]] | Or half & half |
+| 1 lb. | [[Jack Cheese]] | Cubed |
+| To taste | [[Salt and pepper]] | None |
+| As needed | [[Chopped parsley or coriander]] | For garnish |
 
 ---
 
 ## Instructions
 
 ### Step 1: Cooking Potatoes
-1. Place **5 med. potatoes** in saucepan. Barely cover with water, bring to boil, cover & reduce heat. Cook until tender, do not drain.
+1. Place **5 med. potatoes** in a saucepan and barely cover with water.
+2. Bring to a boil, cover, and reduce heat. Cook until tender, and do not drain.
 
-### Step 2: Combining Ingredients & Melting Cheese
-2. Add **3 T. butter** & mix, add **1 med. onion**, **1 - 4 oz can green chilis & 1 lg. tomatoes**.
-3. Add **2 1/2 cups milk or half & half**, then **1 lb. jack cheese** & stir over low heat until cheese is melted. Do not boil.
-4. Season with **salt & pepper** to taste. Add more milk if desired. Serve hot, garnish with **chopped parsley or coriander**.
+### Step 2: Combining and Melting
+3. Add **3 T. butter**, **1 med. onion**, **1 - 4 oz green chili**, and **1 lg. tomato** to the saucepan.
+4. Add **2 1/2 c. milk** and **1 lb. jack cheese**, then stir over low heat until cheese is melted. Do not boil!
+5. Season to taste with **salt and pepper**, add more **milk** if desired, and serve hot garnished with **chopped parsley or coriander**.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Best served fresh, but leftovers can be stored in an airtight container in the refrigerator for up to 2 days; reheat gently over low heat without boiling.
+> 💡 **Make-Ahead & Storage:** Best served hot immediately after preparation, though leftovers can be gently reheated on the stovetop without boiling.
 
 ---
 ## Original Recipe Scan
-![Page 1](/assets/scans/mexican-cheese-soup-Scanned_20260802-0956-(2)-p1.webp)
+![Page 1](/assets/scans/mexican-cheese-soup-Scanned_20260802-0956-p1.webp)
 
-![Page 2](/assets/scans/mexican-cheese-soup-Scanned_20260802-0956-(2)-p2.webp)
+![Page 2](/assets/scans/mexican-cheese-soup-Scanned_20260802-0956-p2.webp)
 
