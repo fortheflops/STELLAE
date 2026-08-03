@@ -11,6 +11,7 @@ tags:
   - cheddar
   - party food
   - make-ahead
+  - "#unknownthree"
 description: A classic party appetizer featuring a rich blend of cream cheese, processed cheddar spread, and sharp cheddar seasoned with Worcestershire and onion. Coated in ground pecans and fresh parsley for a retro crowd-pleaser.
 date: 2026-07-30
 draft: false

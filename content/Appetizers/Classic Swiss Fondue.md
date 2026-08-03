@@ -8,6 +8,7 @@ tags:
   - cheesedip
   - appetizer
   - swiss
+  - "#patsycollection"
 description: A traditional Swiss-style fondue featuring a blend of dry white wine and natural Swiss cheese. This rich, melted dip is perfect for communal dining and crusty bread dipping.
 date: 2026-07-30
 draft: false

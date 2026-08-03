@@ -1,13 +1,21 @@
 ---
-title: "Classic Cheese Ball"
-category: "Appetizers"
-collection: "Louise Collection"
-source: "Unknown"
-tags: ["appetizer", "cheese ball", "cream cheese", "cheddar", "blue cheese", "pecans", "make-ahead", "louise collection"]
-description: "A classic savory party appetizer made from a blend of cream cheese, soft cheddar, blue cheese, and finely chopped onions. Rolled in crunchy chopped pecans, it can easily be made ahead for entertaining."
-date: "2026-07-30"
+title: Classic Cheese Ball
+category: Appetizers
+collection: Louise Collection
+source: Unknown
+tags:
+  - appetizer
+  - cheese ball
+  - cream cheese
+  - cheddar
+  - blue cheese
+  - pecans
+  - make-ahead
+  - louisecollection
+description: A classic savory party appetizer made from a blend of cream cheese, soft cheddar, blue cheese, and finely chopped onions. Rolled in crunchy chopped pecans, it can easily be made ahead for entertaining.
+date: 2026-07-30
 draft: false
-recipe: "{\"@context\":\"https://schema.org/\",\"@type\":\"Recipe\",\"name\":\"Classic Cheese Ball\",\"author\":{\"@type\":\"Person\",\"name\":\"Unknown\"},\"description\":\"A savory blend of cream cheese, cheddar, and blue cheese, formed into a ball and coated with chopped pecans. A perfect party appetizer.\",\"prepTime\":\"PT15M\",\"cookTime\":\"PT0M\",\"totalTime\":\"PT1H15M\",\"recipeYield\":\"12 servings\",\"recipeCategory\":\"Appetizer\",\"recipeCuisine\":\"American\",\"recipeIngredient\":[\"8 ounces Cream Cheese, softened\",\"3 ounces soft Cheddar Cheese\",\"1 ounce Blue Cheese, crumbled\",\"1/2 cup Onions, finely chopped\",\"1 cup Pecans, chopped\"]}"
+recipe: '{"@context":"https://schema.org/","@type":"Recipe","name":"Classic Cheese Ball","author":{"@type":"Person","name":"Unknown"},"description":"A savory blend of cream cheese, cheddar, and blue cheese, formed into a ball and coated with chopped pecans. A perfect party appetizer.","prepTime":"PT15M","cookTime":"PT0M","totalTime":"PT1H15M","recipeYield":"12 servings","recipeCategory":"Appetizer","recipeCuisine":"American","recipeIngredient":["8 ounces Cream Cheese, softened","3 ounces soft Cheddar Cheese","1 ounce Blue Cheese, crumbled","1/2 cup Onions, finely chopped","1 cup Pecans, chopped"]}'
 ---
 
 # Classic Cheese Ball

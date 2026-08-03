@@ -7,7 +7,7 @@ tags:
   - beans
   - pinto beans
   - side dish
-  - patscollection
+  - patsycollection
 description: A traditional homestyle side dish of tender pinto beans seasoned with garlic salt, black pepper, and oregano. Simple, comforting, and packed with flavor.
 date: 2026-07-30
 draft: false

@@ -8,6 +8,7 @@ tags:
   - dip
   - appetizer
   - colddip
+  - "#unknownthree"
 description: A simple and creamy classic spinach dip perfect for parties and gatherings. This vintage recipe combines fresh herbs and frozen spinach for a quick, crowd-pleasing appetizer.
 date: 2026-07-30
 draft: false

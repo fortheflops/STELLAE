@@ -3,7 +3,7 @@ title: "Jon Bernd's Sweet Little Cheesecakes"
 category: "Desserts"
 collection: "PatsyCollection"
 source: "Jon Bernd"
-tags: ["patscollection", "cheesecake", "dessert", "mini", "baking"]
+tags: ["patsycollection", "cheesecake", "dessert", "mini", "baking"]
 description: "Individual souffl\u00e9-style cheesecakes baked in muffin tins with a graham cracker crumb coating and a tangy sour cream topping."
 date: "2026-07-30"
 draft: false

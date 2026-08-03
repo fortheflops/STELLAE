@@ -3,7 +3,7 @@ title: "Tofu Burgers"
 category: "Entrees"
 collection: "Patsy Collection"
 source: "Unknown"
-tags: ["burger", "tofu", "vegetarian", "healthy", "patscollection"]
+tags: ["burger", "tofu", "vegetarian", "healthy", "patsycollection"]
 description: "A wholesome and savory vegetarian burger recipe featuring firm tofu, grated zucchini, and a blend of aromatic spices. These pan-seared patties offer a hearty and nutritious meal option."
 date: "2026-07-30"
 draft: false
