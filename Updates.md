@@ -3,12 +3,14 @@ title: Updates
 ---
 ### Completed
 
-| Tag                | Name                |
-| :----------------- | :------------------ |
-| #unknowntwentyfive | Unknown Twenty Five |
-| #unknowntwentyone  | Unknown Twenty One  |
-| #johnbcollection    | John B. Collection   |
-| #unknowntwentysix   | Unknown Twenty Six   |
+| Tag                  | Name                 |
+| :------------------- | :------------------- |
+| #unknowntwentyfive   | Unknown Twenty Five  |
+| #unknowntwentyone    | Unknown Twenty One   |
+| #johnbcollection     | John B. Collection   |
+| #unknowntwentysix    | Unknown Twenty Six   |
+| #christinecollection | Christine Collection |
+
 ### In Progress 
 
 | Tag                 | Name                 |
