@@ -23,6 +23,7 @@ title: Welcome to Mezzaluna
 * 📖 [Jill Collection](/tags/jillcollection)
 * 📖 [John B. Collection](/tags/johnbcollection)
 * 📖 [Christine Collection](/tags/christinecollection)
+* 📖 [Burcea Collection](/tags/burceacollection)
 
 **Unattributed Historical Batches**
 * 📦 [Batch 02](/tags/unknowntwo)

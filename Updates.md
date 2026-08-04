@@ -10,6 +10,7 @@ title: Updates
 | #johnbcollection     | John B. Collection   |
 | #unknowntwentysix    | Unknown Twenty Six   |
 | #christinecollection | Christine Collection |
+| #burceacollection    | Burcea Collection    |
 
 ### In Progress 
 
