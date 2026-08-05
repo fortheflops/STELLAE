@@ -11,12 +11,13 @@ title: Updates
 | #unknowntwentysix    | Unknown Twenty Six   |
 | #christinecollection | Christine Collection |
 | #burceacollection    | Burcea Collection    |
+| #unknowneighteen     | Unknown Eighteen     |
+|                      |                      |
 
 ### In Progress 
 
 | Tag                 | Name                 |
 | :------------------ | :------------------- |
-| #unknowneighteen    | Unknown Eighteen     |
 | #unknowntwentyseven | Unknown Twenty Seven |
 
 ### To Do
