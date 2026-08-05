@@ -35,6 +35,7 @@ title: Welcome to Mezzaluna
 * 📦 [Batch 21](/tags/unknowntwentyone)
 * 📦 [Batch 25](/tags/unknowntwentyfive)
 * 📦 [Batch 26](/tags/unknowntwentysix)
+* 📦 [Batch 27](/tags/unknowntwentyseven)
 
 ## 🏷️ Search by Ingredient
 Looking for something specific, like chicken or potatoes? 
