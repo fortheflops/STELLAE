@@ -5,6 +5,7 @@ import { googleFontHref} from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
@@ -97,8 +98,9 @@ export default (() => {
             return resource
           }
         })}
-        {/* This is the code that looks for 'recipe' in your frontmatter */}
-        {fileData.frontmatter.recipe && (
+
+        {/* Recipe Schema JSON-LD */}
+        {fileData.frontmatter?.recipe && (
           <script
             type="application/ld+json"
             dangerouslySetInnerHTML={{
@@ -106,6 +108,14 @@ export default (() => {
             }}
           />
         )}
+
+        {/* Mediavine Grow Integration Script */}
+        <script
+          data-grow-initializer=""
+          dangerouslySetInnerHTML={{
+            __html: `!(function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZTpjYTU5NGJjYS02Y2MwLTRmOGMtOTBiYy05NmJiY2ZiMTc1NDI=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);})();`,
+          }}
+        />
       </head>
     )
   }
