@@ -14,6 +14,7 @@ title: Updates
 | #unknowneighteen     | Unknown Eighteen     |
 | #unknowntwentyseven  | Unknown Twenty Seven |
 | #Georgiacollection   | Georgia Collection   |
+| #Alcollection        | Al Collection        |
 
 ### In Progress 
 
