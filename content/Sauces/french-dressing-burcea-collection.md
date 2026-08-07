@@ -3,30 +3,29 @@ title: "French Dressing"
 category: "Sauces"
 collection: "Burcea Collection"
 source: "Unattributed"
-tags: ["dressing", "sauce", "condiment", "homemade", "burceacollection"]
-description: "A classic homemade French dressing featuring a savory blend of tomato soup, oil, vinegar, and spices. Perfect for tossing with crisp green salads or serving as a tangy marinade."
-date: "2026-08-05"
+tags: ["dressing", "frenchdressing", "condiment", "sauce", "burceacollection"]
+description: "A classic homemade French dressing featuring a rich blend of tomato catsup, brown bottle sauce, and mayonnaise. Perfectly balanced with a splash of vinegar and Worcestershire sauce for a tangy finish."
+date: "2026-08-07"
 draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"French Dressing\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"description\": \"A classic homemade French dressing featuring a savory blend of tomato soup, oil, vinegar, and spices.\",\n  \"prepTime\": \"PT10M\",\n  \"recipeYield\": \"12 servings\",\n  \"recipeCategory\": \"Sauces\",\n  \"recipeIngredient\": [\n    \"1 can Heinz tomato soup\",\n    \"1/2 cup sugar\",\n    \"1/2 cup vinegar\",\n    \"1/2 cup salad oil\",\n    \"1 tablespoon salt\",\n    \"1 tablespoon Worcestershire sauce\",\n    \"1 tablespoon chopped onion\",\n    \"1 teaspoon paprika\",\n    \"1 teaspoon ground mustard\",\n    \"1/4 teaspoon pepper\",\n    \"1 small clove garlic\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine the Heinz tomato soup, sugar, vinegar, and salad oil in a mixing bowl, then stir in the remaining ingredients, mix well, and store in the refrigerator.\"\n    }\n  ]\n}"
+recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"French Dressing\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Unattributed\"\n  },\n  \"description\": \"A classic homemade French dressing featuring a rich blend of tomato catsup, brown bottle sauce, and mayonnaise.\",\n  \"prepTime\": \"PT10M\",\n  \"recipeYield\": \"8 servings\",\n  \"recipeCategory\": \"Sauces\",\n  \"recipeIngredient\": [\n    \"2 tbsp Sugar\",\n    \"2 tbsp Tomato Catsup\",\n    \"2 tbsp Brown Bottle Sauce\",\n    \"2 tbsp Mayonnaise\",\n    \"2 tbsp Salad Oil\",\n    \"2 tbsp Vinegar\",\n    \"1 tbsp Worcestershire Sauce\",\n    \"1 tsp Onion Juice\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Combine 2 tbsp sugar, 2 tbsp tomato catsup, 2 tbsp brown bottle sauce, 2 tbsp mayonnaise, 2 tbsp salad oil, and 2 tbsp vinegar in a mixing bowl.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Stir in 1 tbsp Worcestershire sauce and 1 tsp onion juice.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Mix well until thoroughly combined and smooth.\"\n    }\n  ]\n}"
 ---
 
 # French Dressing
 
 > 📜 **Collection:** Burcea Collection | ✍️ **Attribution:** Unattributed | 📂 **Category:** Sauces
-> *A classic homemade French dressing featuring a savory blend of tomato soup, oil, vinegar, and spices. Perfect for tossing with crisp green salads or serving as a tangy marinade.*
+> *A classic homemade French dressing featuring a rich blend of tomato catsup, brown bottle sauce, and mayonnaise. Perfectly balanced with a splash of vinegar and Worcestershire sauce for a tangy finish.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 10 mins | None | 30 mins | 12 servings |
+| 10 mins | None | None | 8 servings |
 
 ---
 
 ### 🔪 Key Equipment
 * Mixing bowl
 * Whisk
-* Glass jar
 
 ---
 ## Ingredients
@@ -34,35 +33,29 @@ recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n
 ### Dressing Ingredients
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 1 can | [[Heinz tomato soup]] | Undiluted |
-| 1/2 cup | [[Sugar]] | Granulated |
-| 1/2 cup | [[Vinegar]] | Standard |
-| 1/2 cup | [[Salad oil]] | Vegetable oil |
-| 1 tablespoon | [[Salt]] | None |
-| 1 tablespoon | [[Worcestershire sauce]] | None |
-| 1 tablespoon | [[Chopped onion]] | Finely minced |
-| 1 teaspoon | [[Paprika]] | None |
-| 1 teaspoon | [[Ground mustard]] | None |
-| 1/4 teaspoon | [[Pepper]] | Black pepper |
-| 1 small clove | [[Garlic]] | Peeled and minced |
+| 2 tbsp | [[Sugar]] | None |
+| 2 tbsp | [[Tomato Catsup]] | None |
+| 2 tbsp | [[Brown Bottle Sauce]] | or thick sauce |
+| 2 tbsp | [[Mayonnaise]] | None |
+| 2 tbsp | [[Salad Oil]] | None |
+| 2 tbsp | [[Vinegar]] | regular or tarragon |
+| 1 tbsp | [[Worcestershire Sauce]] | None |
+| 1 tsp | [[Onion Juice]] | or garlic bud |
 
 ---
 
 ## Instructions
 
-### Step 1: Mixing and Storing
-1. Combine the **1 can Heinz tomato soup**, **1/2 cup sugar**, **1/2 cup vinegar**, and **1/2 cup salad oil** in a mixing bowl.
-2. Stir in the **1 tablespoon salt**, **1 tablespoon Worcestershire sauce**, **1 tablespoon chopped onion**, **1 teaspoon paprika**, **1 teaspoon ground mustard**, **1/4 teaspoon pepper**, and **1 small clove garlic**.
-3. Mix well until thoroughly emulsified and smooth.
-4. Store the dressing in a glass jar in the refrigerator until chilled and well-blended.
+### Step 1: Mixing
+1. Combine **2 tbsp sugar**, **2 tbsp tomato catsup**, **2 tbsp brown bottle sauce**, **2 tbsp mayonnaise**, **2 tbsp salad oil**, and **2 tbsp vinegar** in a mixing bowl.
+2. Stir in **1 tbsp Worcestershire sauce** and **1 tsp onion juice** (or garlic bud).
+3. Mix well until thoroughly combined and smooth.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Store in a sealed glass jar in the refrigerator for up to two weeks. Shake well before serving as ingredients may separate.
+> 💡 **Make-Ahead & Storage:** Store in a sealed glass jar in the refrigerator for up to 1 week. Shake well before serving.
 
 ---
 ## Original Recipe Scan
-![Page 1](/assets/scans/french-dressing-Scanned_20260803-0922-(3)-p1.webp)
-
-![Page 2](/assets/scans/french-dressing-Scanned_20260803-0922-(3)-p2.webp)
+![Original Handwritten Card](/assets/scans/french-dressing-Scanned_20260803-0852-06.jpg.webp)
 
