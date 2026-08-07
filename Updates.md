@@ -13,6 +13,7 @@ title: Updates
 | #burceacollection    | Burcea Collection    |
 | #unknowneighteen     | Unknown Eighteen     |
 | #unknowntwentyseven  | Unknown Twenty Seven |
+| #Georgiacollection   | Georgia Collection   |
 
 ### In Progress 
 
