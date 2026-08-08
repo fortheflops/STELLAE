@@ -9,7 +9,7 @@ title: Welcome to Mezzaluna
 ## What are you craving?
 *Use the sidebar to dive into our full folders, or jump straight into our most popular categories:*
 
-**[Entrees](/Entrees)** | **[Desserts](/Desserts)** | **[Breads](/Bread)** | **[Sides](/Sides)** 
+**[Entrees](/Entrees)** | **[Desserts](/Desserts)** | **[Breads](/Bread)** | **[Sides](/Sides)** |
 **[Soups](/Soups)** | **[Appetizers](/Appetizers)** | **[Sauces](/Sauces)** | **[Beverages](/Beverages)**
 
 ## 🗂️ Explore the Collections
