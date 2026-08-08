@@ -16,15 +16,17 @@ title: Welcome to Mezzaluna
 *Browse the archive by historical source and regional family batches.*
 
 **Family & Regional Archives**
-* 📖 [Patsy Collection](/tags/patsycollection)
+* 📖 [Burcea Collection](/tags/burceacollection)
+* 📖 [Christine Collection](/tags/christinecollection)
+* 📖 [Dwayne Collection](/tags/dwaynecollection)
 * 📖 [Gail Collection](/tags/gailcollection)
+* 📖 [Patsy Collection](/tags/patsycollection)
 * 📖 [Loraine Collection](/tags/lorainecollection)
 * 📖 [Louise Collection](/tags/louisecollection)
 * 📖 [Jill Collection](/tags/jillcollection)
 * 📖 [John B. Collection](/tags/johnbcollection)
-* 📖 [Christine Collection](/tags/christinecollection)
-* 📖 [Burcea Collection](/tags/burceacollection)
 * 📖 [Georgia Collection](/tags/Georgiacollection)
+
 
 **Unattributed Historical Batches**
 * 📦 [Batch 02](/tags/unknowntwo)
