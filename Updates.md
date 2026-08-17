@@ -16,6 +16,7 @@ title: Updates
 | #Georgiacollection   | Georgia Collection   |
 | #Alcollection        | Al Collection        |
 | #Dwaynecollection    | Dwayne Collection    |
+|                      |                      |
 
 ### In Progress 
 
@@ -24,16 +25,17 @@ title: Updates
 
 
 ### To Do
-| Tag               | Name               |
-| :---------------- | :----------------- |
-| #lorainecollection | Loraine Collection Redo Photo Paths|
-| #patsycollection   | Patsy Collection   |
-| #gailcollection    | Gail Collection   |
-| #louisecollection  | Louise Collection   |
-| #jillcollection    | Jill Collection     |
-| #unknowntwo        | Unknown Two            |
-| #unknownthree      | Unknown Three          |
-| #unknownfour       | Unknown Four           |
-| #unknownfive       | Unknown Five           |
-| #unknownfifteen    | Unknown Fifteen        |
-| #unknownnineteen   | Unknown Nineteen       |
+| Tag                | Name                                |
+| :----------------- | :---------------------------------- |
+| #lorainecollection | Loraine Collection Redo Photo Paths |
+| #patsycollection   | Patsy Collection                    |
+| #gailcollection    | Gail Collection                     |
+| #louisecollection  | Louise Collection                   |
+| #jillcollection    | Jill Collection                     |
+| #unknowntwo        | Unknown Two                         |
+| #unknownthree      | Unknown Three                       |
+| #unknownfour       | Unknown Four                        |
+| #unknownfive       | Unknown Five                        |
+| #unknownfifteen    | Unknown Fifteen                     |
+| #unknownnineteen   | Unknown Nineteen                    |
+|                    |                                     |
