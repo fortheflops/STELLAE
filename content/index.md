@@ -20,12 +20,13 @@ title: Welcome to Mezzaluna
 * 📖 [Christine Collection](/tags/christinecollection)
 * 📖 [Dwayne Collection](/tags/dwaynecollection)
 * 📖 [Gail Collection](/tags/gailcollection)
-* 📖 [Patsy Collection](/tags/patsycollection)
+* 📖 [Georgia Collection](/tags/Georgiacollection)
 * 📖 [Loraine Collection](/tags/lorainecollection)
 * 📖 [Louise Collection](/tags/louisecollection)
 * 📖 [Jill Collection](/tags/jillcollection)
 * 📖 [John B. Collection](/tags/johnbcollection)
-* 📖 [Georgia Collection](/tags/Georgiacollection)
+* 📖 [Moreno Valley Collection](/tags/Morenovalleyacollection)
+* 📖 [Patsy Collection](/tags/patsycollection)
 
 
 **Unattributed Historical Batches**
