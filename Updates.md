@@ -18,6 +18,9 @@ title: Updates
 | #Dwaynecollection       | Dwayne Collection        |
 | #Unknowntwenty          | Unknown Twenty           |
 | #Morenovalleycollection | Moreno Valley Collection |
+| #Cynthiacollection      | Cynthia Collection       |
+| #Gregersoncollection    | Gregerson collection     |
+| #unknowntwentyeight     | Unknown Twenty Eight     |
 
 ### In Progress 
 
