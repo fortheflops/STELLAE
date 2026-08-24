@@ -25,7 +25,7 @@ OUTPUT_DIR = "content"
 ASSET_DIR = "content/assets/scans"
 
 # BATCH LIMIT
-MAX_FILES_PER_RUN = 1
+MAX_FILES_PER_RUN = 3
 
 # SAFETY LIMIT: If 3 files fail in a row, stop to protect API quotas.
 MAX_CONSECUTIVE_FAILURES = 3
