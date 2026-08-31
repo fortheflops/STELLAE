@@ -1,13 +1,47 @@
 ---
-title: "Monetization Strategy"
-category: "Basics"
-collection: "STELLAE Collection"
-source: "STELLAE Creator"
-tags: ["meta", "website-strategy", "monetization", "stellae"]
-description: "A clean, unobtrusive strategy for monetizing a historical culinary archive without disrupting the user experience. Focuses on video content and subtle product integrations."
-date: "2026-07-24"
-draft: false
-recipe: "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Recipe\",\n  \"name\": \"Monetization Strategy\",\n  \"author\": {\n    \"@type\": \"Organization\",\n    \"name\": \"STELLAE\"\n  },\n  \"description\": \"A clean, unobtrusive strategy for monetizing a historical culinary archive.\",\n  \"recipeCategory\": \"Basics\",\n  \"recipeIngredient\": [\n    \"1 Clean Website\",\n    \"Video Content\",\n    \"Subtle Product Links\"\n  ],\n  \"recipeInstructions\": [\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Avoid traditional online advertising like intrusive banners and pop-ups.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Explore alternative monetization by delving into video content.\"\n    },\n    {\n      \"@type\": \"HowToStep\",\n      \"text\": \"Subtly integrate product links within the recipes.\"\n    }\n  ]\n}"
+title: Monetization Strategy
+category: Basics
+collection: STELLAE Collection
+source: STELLAE Creator
+tags:
+  - meta
+  - website-strategy
+  - monetization
+  - stellae
+description: A clean, unobtrusive strategy for monetizing a historical culinary archive without disrupting the user experience. Focuses on video content and subtle product integrations.
+date: 2026-07-24
+draft: true
+recipe: |-
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Monetization Strategy",
+    "author": {
+      "@type": "Organization",
+      "name": "STELLAE"
+    },
+    "description": "A clean, unobtrusive strategy for monetizing a historical culinary archive.",
+    "recipeCategory": "Basics",
+    "recipeIngredient": [
+      "1 Clean Website",
+      "Video Content",
+      "Subtle Product Links"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Avoid traditional online advertising like intrusive banners and pop-ups."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Explore alternative monetization by delving into video content."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Subtly integrate product links within the recipes."
+      }
+    ]
+  }
 ---
 
 # Monetization Strategy

@@ -1,13 +1,17 @@
 ---
-title: "Archival Q & A"
-category: "Basics"
-collection: "General Archive"
-source: "Cucina Mezzaluna Archivist"
-tags: ["faq", "copyright", "archival-standards", "provenance"]
-description: "Frequently asked questions regarding copyright, newspaper clippings, and duplicate recipes within the Cucina Mezzaluna digital archive."
-date: "2026-07-24"
-draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Archival Q & A\", \"author\": {\"@type\": \"Organization\", \"name\": \"Cucina Mezzaluna\"}, \"description\": \"Frequently asked questions regarding copyright, newspaper clippings, and duplicate recipes within the Cucina Mezzaluna digital archive.\", \"recipeCategory\": \"Basics\"}"
+title: Archival Q & A
+category: Basics
+collection: General Archive
+source: Cucina Mezzaluna Archivist
+tags:
+  - faq
+  - copyright
+  - archival-standards
+  - provenance
+description: Frequently asked questions regarding copyright, newspaper clippings, and duplicate recipes within the Cucina Mezzaluna digital archive.
+date: 2026-07-24
+draft: true
+recipe: '{"@context": "https://schema.org/", "@type": "Recipe", "name": "Archival Q & A", "author": {"@type": "Organization", "name": "Cucina Mezzaluna"}, "description": "Frequently asked questions regarding copyright, newspaper clippings, and duplicate recipes within the Cucina Mezzaluna digital archive.", "recipeCategory": "Basics"}'
 ---
 
 # Archival Q & A

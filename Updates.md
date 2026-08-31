@@ -3,24 +3,25 @@ title: Updates
 ---
 ### Completed
 
-| Tag                     | Name                     |
-| :---------------------- | :----------------------- |
-| #unknowntwentyfive      | Unknown Twenty Five      |
-| #unknowntwentyone       | Unknown Twenty One       |
-| #johnbcollection        | John B. Collection       |
-| #unknowntwentysix       | Unknown Twenty Six       |
-| #christinecollection    | Christine Collection     |
-| #burceacollection       | Burcea Collection        |
-| #unknowneighteen        | Unknown Eighteen         |
-| #unknowntwentyseven     | Unknown Twenty Seven     |
-| #Georgiacollection      | Georgia Collection       |
-| #Alcollection           | Al Collection            |
-| #Dwaynecollection       | Dwayne Collection        |
-| #Unknowntwenty          | Unknown Twenty           |
-| #Morenovalleycollection | Moreno Valley Collection |
-| #Cynthiacollection      | Cynthia Collection       |
-| #Gregersoncollection    | Gregerson collection     |
-| #unknowntwentyeight     | Unknown Twenty Eight     |
+| Tag                      | Name                      |     |
+| :----------------------- | :------------------------ | --- |
+| #unknowntwentyfive       | Unknown Twenty Five       |     |
+| #unknowntwentyone        | Unknown Twenty One        |     |
+| #johnbcollection         | John B. Collection        |     |
+| #unknowntwentysix        | Unknown Twenty Six        |     |
+| #christinecollection     | Christine Collection      |     |
+| #burceacollection        | Burcea Collection         |     |
+| #unknowneighteen         | Unknown Eighteen          |     |
+| #unknowntwentyseven      | Unknown Twenty Seven      |     |
+| #Georgiacollection       | Georgia Collection        |     |
+| #Alcollection            | Al Collection             |     |
+| #Dwaynecollection        | Dwayne Collection         |     |
+| #Unknowntwenty           | Unknown Twenty            |     |
+| #Morenovalleycollection  | Moreno Valley Collection  |     |
+| #Cynthiacollection       | Cynthia Collection        |     |
+| #Gregersoncollection     | Gregerson collection      |     |
+| #unknowntwentyeight      | Unknown Twenty Eight      |     |
+| #elizabethkneecollection | Elizabeth knee collection |     |
 
 ### In Progress 
 
