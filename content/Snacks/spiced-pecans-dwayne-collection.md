@@ -3,66 +3,60 @@ title: "Spiced Pecans"
 category: "Snacks"
 collection: "Dwayne Collection"
 source: "Unattributed"
-tags: ["snacks", "pecans", "spicednuts", "holiday", "baking", "dwaynecollection"]
-description: "A classic mid-century recipe for sweet and aromatic spiced pecans, perfect for holiday gifting or entertaining. These pecans are coated in a spiced egg white glaze and slow-baked to crispy perfection."
-date: "2026-08-28"
+tags: ["snacks", "pecans", "spicednuts", "holiday", "sweet", "dwaynecollection"]
+description: "A classic, sweet and warm holiday treat featuring pecans coated in a cinnamon-spiced sugar glaze. Perfect for gifting or serving as a festive snack."
+date: "2026-09-03"
 draft: false
-recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Spiced Pecans\", \"author\": {\"@type\": \"Organization\", \"name\": \"Frantz Manufacturing Company\"}, \"description\": \"A classic mid-century recipe for sweet and aromatic spiced pecans, perfect for holiday gifting or entertaining.\", \"recipeCategory\": \"Snack\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT1H\", \"recipeYield\": \"8 servings\", \"recipeIngredient\": [\"2 tbsp cold water\", \"1 egg white, slightly beaten\", \"1/2 cup sugar\", \"1/2 tsp salt\", \"1/4 tsp ground cinnamon\", \"1/4 tsp ground cloves\", \"1/4 tsp ground allspice\", \"2 cups pecans\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"Preheat oven to 250 degrees F.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add cold water to slightly beaten egg white and whisk.\"}, {\"@type\": \"HowToStep\", \"text\": \"Dissolve sugar into the egg white mixture.\"}, {\"@type\": \"HowToStep\", \"text\": \"Add spices and nuts, mixing well to coat.\"}, {\"@type\": \"HowToStep\", \"text\": \"Spread onto a cookie sheet.\"}, {\"@type\": \"HowToStep\", \"text\": \"Bake at 250 degrees F for 1 hour until dry and crisp.\"}]}"
+recipe: "{\"@context\": \"https://schema.org/\", \"@type\": \"Recipe\", \"name\": \"Spiced Pecans\", \"author\": {\"@type\": \"Person\", \"name\": \"Unattributed\"}, \"description\": \"A classic, sweet and warm holiday treat featuring pecans coated in a cinnamon-spiced sugar glaze.\", \"recipeCategory\": \"Snacks\", \"prepTime\": \"PT10M\", \"cookTime\": \"PT15M\", \"recipeYield\": \"8 servings\", \"recipeIngredient\": [\"1 cup Sugar\", \"1/2 cup Water\", \"1 tsp Cinnamon\", \"1/4 tsp Salt\", \"1 tsp Vanilla Extract\", \"1/2 lb Pecans\"], \"recipeInstructions\": [{\"@type\": \"HowToStep\", \"text\": \"In a saucepan, combine the sugar, water, cinnamon, salt, and vanilla extract.\"}, {\"@type\": \"HowToStep\", \"text\": \"Cook the mixture over medium heat until it reaches the thread stage (232\u00b0F).\"}, {\"@type\": \"HowToStep\", \"text\": \"Pour the hot syrup over the pecans and stir until sugared and separated.\"}]}"
 ---
 
 # Spiced Pecans
 
 > 📜 **Collection:** Dwayne Collection | ✍️ **Attribution:** Unattributed | 📂 **Category:** Snacks
-> *A classic mid-century recipe for sweet and aromatic spiced pecans, perfect for holiday gifting or entertaining. These pecans are coated in a spiced egg white glaze and slow-baked to crispy perfection.*
+> *A classic, sweet and warm holiday treat featuring pecans coated in a cinnamon-spiced sugar glaze. Perfect for gifting or serving as a festive snack.*
 
 ---
 
 | Prep Time | Cook Time | Inactive / Chill Time | Yield / Servings |
 | :--- | :--- | :--- | :--- |
-| 10 mins | 1 hour | None | 8 servings |
+| 10 mins | 15 mins | 20 mins | 8 servings |
 
 ---
 
 ### 🔪 Key Equipment
+* Saucepan
+* Candy thermometer
 * Mixing bowl
-* Whisk
 * Baking sheet
-* Measuring cups
-* Measuring spoons
 
 ---
 ## Ingredients
 
 | Measurements | Ingredients | Prep / Notes |
 | :--- | :--- | :--- |
-| 2 tbsp | [[Water]] | cold |
-| 1 | [[Egg White]] | slightly beaten |
-| 1/2 cup | [[Sugar]] | None |
-| 1/2 tsp | [[Salt]] | None |
-| 1/4 tsp | [[Cinnamon]] | ground |
-| 1/4 tsp | [[Cloves]] | ground |
-| 1/4 tsp | [[Allspice]] | ground |
-| 2 cups | [[Pecans]] | halves |
+| 1 cup | [[Sugar]] | granulated |
+| 1/2 cup | [[Water]] |  |
+| 1 tsp | [[Cinnamon]] | ground |
+| 1/4 tsp | [[Salt]] |  |
+| 1 tsp | [[Vanilla Extract]] |  |
+| 1/2 lb | [[Pecans]] | halves |
 
 ---
 
 ## Instructions
 
-### Preparation and Baking
-1. Preheat your oven to **250°F**.
-2. In a mixing bowl, add **2 tbsp cold water** to **1 slightly beaten egg white** and whisk together.
-3. Dissolve **1/2 cup sugar** into the egg white mixture.
-4. Add **1/2 tsp salt**, **1/4 tsp cinnamon**, **1/4 tsp cloves**, and **1/4 tsp allspice** to the mixture, then add **2 cups pecans**.
-5. Mix well until the nuts are thoroughly coated, then spread them out evenly onto a cookie sheet.
-6. Bake in the oven at **250°F** for **1 hour** until the coating is dry, crisp, and fragrant.
+### Preparation
+1. In a saucepan, combine the **1 cup sugar**, **1/2 cup water**, **1 tsp cinnamon**, **1/4 tsp salt**, and **1 tsp vanilla extract**.
+2. Cook the mixture over medium heat until it reaches the thread stage (**232°F** on a candy thermometer).
+3. Place the **1/2 lb pecans** in a mixing bowl, pour the hot syrup over them, and stir constantly until the mixture becomes cloudy, sugared, and coats the nuts.
+4. Separate the pecans onto a baking sheet or flat surface and let them cool completely until dry and hardened.
+5. Store in a jar or can and use as needed; they keep well.
 
 ---
 
-> 💡 **Make-Ahead & Storage:** Let the pecans cool completely before storing. Store in an airtight container at room temperature for up to 2 weeks.
+> 💡 **Make-Ahead & Storage:** Store the cooled spiced pecans in an airtight jar or container at room temperature for up to 2-3 weeks.
 
 ---
 ## Original Recipe Scan
-![Page 1](/assets/scans/spiced-pecans-Scanned_20260808-0801-(1)-p1.webp)
-
-![Page 2](/assets/scans/spiced-pecans-Scanned_20260808-0801-(1)-p2.webp)
+![Original Handwritten Card](/assets/scans/spiced-pecans-Scanned_20260808-0809-03.jpg.webp)
 
