@@ -22,6 +22,8 @@ title: Updates
 | #Gregersoncollection     | Gregerson collection      |     |
 | #unknowntwentyeight      | Unknown Twenty Eight      |     |
 | #elizabethkneecollection | Elizabeth knee collection |     |
+| #patsycollection         | Patsy Collection          |     |
+| #unknowneight            | Unknown eight             |     |
 
 ### In Progress 
 
@@ -33,7 +35,6 @@ title: Updates
 | Tag                | Name                                |
 | :----------------- | :---------------------------------- |
 | #lorainecollection | Loraine Collection Redo Photo Paths |
-| #patsycollection   | Patsy Collection                    |
 | #gailcollection    | Gail Collection                     |
 | #louisecollection  | Louise Collection                   |
 | #jillcollection    | Jill Collection                     |
@@ -43,4 +44,4 @@ title: Updates
 | #unknownfive       | Unknown Five                        |
 | #unknownfifteen    | Unknown Fifteen                     |
 | #unknownnineteen   | Unknown Nineteen                    |
-|                    |                                     |
+
