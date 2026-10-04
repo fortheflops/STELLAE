@@ -37,6 +37,7 @@ title: Welcome to Mezzaluna
 * 📦 [Batch 03](/tags/unknownthree)
 * 📦 [Batch 04](/tags/unknownfour)
 * 📦 [Batch 05](/tags/unknownfive)
+* 📦 [Batch 07](/tags/unknownseven)
 * 📦 [Batch 08](/tags/unknowneight)
 * 📦 [Batch 15](/tags/unknownfifteen)
 * 📦 [Batch 18](/tags/unknowneighteen)

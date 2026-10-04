@@ -24,6 +24,8 @@ title: Updates
 | #elizabethkneecollection | Elizabeth knee collection |     |
 | #patsycollection         | Patsy Collection          |     |
 | #unknowneight            | Unknown eight             |     |
+| #unknownthree            | Unknown Three             |     |
+| #unknwonseven            | Unknown Seven             |     |
 
 ### In Progress 
 
@@ -39,9 +41,10 @@ title: Updates
 | #louisecollection  | Louise Collection                   |
 | #jillcollection    | Jill Collection                     |
 | #unknowntwo        | Unknown Two                         |
-| #unknownthree      | Unknown Three                       |
 | #unknownfour       | Unknown Four                        |
 | #unknownfive       | Unknown Five                        |
 | #unknownfifteen    | Unknown Fifteen                     |
 | #unknownnineteen   | Unknown Nineteen                    |
+|                    | Diane Collection                    |
+|                    |                                     |
 
