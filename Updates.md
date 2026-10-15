@@ -25,7 +25,8 @@ title: Updates
 | #patsycollection         | Patsy Collection          |     |
 | #unknowneight            | Unknown eight             |     |
 | #unknownthree            | Unknown Three             |     |
-| #unknwonseven            | Unknown Seven             |     |
+| #unknownseven            | Unknown Seven             |     |
+| #unknownone              | Unknown One               |     |
 
 ### In Progress 
 
