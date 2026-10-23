@@ -28,6 +28,7 @@ title: Updates
 | #unknownseven            | Unknown Seven             |     |
 | #unknownone              | Unknown One               |     |
 | #Unknownnine             | Unknown Nine              |     |
+| #unknownfifteen          | Unknown Fifteen           |     |
 
 ### In Progress 
 
@@ -45,7 +46,6 @@ title: Updates
 | #unknowntwo        | Unknown Two                         |
 | #unknownfour       | Unknown Four                        |
 | #unknownfive       | Unknown Five                        |
-| #unknownfifteen    | Unknown Fifteen                     |
 | #unknownnineteen   | Unknown Nineteen                    |
 |                    | Diane Collection                    |
 |                    |                                     |
