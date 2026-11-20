@@ -31,6 +31,10 @@ title: Updates
 | #unknownfifteen          | Unknown Fifteen           |     |
 | #unknownnineteen         | Unknown Nineteen          |     |
 | #unknownfive             | Unknown Five              |     |
+| #Alisoncollection        | Alison Collection         |     |
+| #Dianecollection         | Diane Collection          |     |
+| #jillcollection          | Jill Collection           |     |
+| #Lisacollection          | Lisa Collection           |     |
 
 ### In Progress 
 
@@ -44,9 +48,7 @@ title: Updates
 | #lorainecollection | Loraine Collection Redo Photo Paths |
 | #gailcollection    | Gail Collection                     |
 | #louisecollection  | Louise Collection                   |
-| #jillcollection    | Jill Collection                     |
 | #unknowntwo        | Unknown Two                         |
 | #unknownfour       | Unknown Four                        |
-|                    | Diane Collection                    |
 |                    |                                     |
 
